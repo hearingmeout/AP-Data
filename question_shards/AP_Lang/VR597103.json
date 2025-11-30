@@ -1,0 +1,35 @@
+{
+  "id": "VR597103",
+  "type": "mcq",
+  "title": "Ancient Ceramicist - keep or delete sentence",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR597098.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">The writer is considering deleting sentence 8 (reproduced below).</p><p class=\"stem_paragraph\"><span class=\"formatted_text font_style:italic\">This anomaly signified that the woman must have engaged in a long-term strenuous activity involving the right side of her body.</span></p><p class=\"stem_paragraph\">Should the writer keep or delete this sentence?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Keep it, because it establishes a cause-effect relationship that is elaborated on in the sentences that follow.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Keep it, because it defines a term that helps the audience contextualize the passage’s main claim.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Delete it, because the word “anomaly” is not consistent with the information provided in the preceding sentence.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Delete it, because it conflicts with the tone that the writer has established throughout the passage.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3"
+  },
+  "skill": {
+    "code": "Skill 6.C",
+    "text": "Skill 6.C: Use appropriate methods of development to advance an argument."
+  }
+}

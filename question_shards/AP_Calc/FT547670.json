@@ -1,0 +1,43 @@
+{
+  "id": "FT547670",
+  "type": "mcq",
+  "title": "Continuity at a point",
+  "content": {
+    "prompt": "<p>Which of the following functions are continuous at <em>x</em>=1 ?</p><p>I. ln <em>x</em></p><p>II. e<em><sup>x</sup></em></p><p>III. ln(e<em><sup>x</sup></em>-1)</p><p></p>",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>I only</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>II only</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>I and II only</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>II and III only</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>I, II, and III</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: Defining Continuity at a Point"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Confirm whether hypotheses or conditions of a selected definition, theorem, or test have been satisfied."
+  }
+}

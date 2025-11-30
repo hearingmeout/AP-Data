@@ -1,0 +1,39 @@
+{
+  "id": "QUT000001",
+  "type": "mcq",
+  "title": "Trigonometric Function - Modeling Water Used",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Based on this information, which of the following functions is a better model for the amount of water used each day, measured in hundreds of gallons?</p>\n",
+    "answer": "B-45518",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"f open parentheses t close parentheses equals 5 sin open parentheses 0.8 open parentheses t plus 10 close parentheses close parentheses plus 25\"><math alttext=\"f open parentheses t close parentheses equals 5 sin open parentheses 0.8 open parentheses t plus 10 close parentheses close parentheses plus 25\"><mi>f</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>5</mn><mi>sin</mi><mfenced><mrow><mn>0.8</mn><mfenced><mrow><mi>t</mi><mo>+</mo><mn>10</mn></mrow></mfenced></mrow></mfenced><mo>+</mo><mn>25</mn></math></span></p>",
+        "value": "A-45517"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"h open parentheses t close parentheses equals 5 sin open parentheses 0.8 open parentheses t plus 2 close parentheses close parentheses plus 33\"><math alttext=\"h open parentheses t close parentheses equals 5 sin open parentheses 0.8 open parentheses t plus 2 close parentheses close parentheses plus 33\"><mi>h</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>5</mn><mi>sin</mi><mfenced><mrow><mn>0.8</mn><mfenced><mrow><mi>t</mi><mo>+</mo><mn>2</mn></mrow></mfenced></mrow></mfenced><mo>+</mo><mn>33</mn></math></span></p>",
+        "value": "B-45518"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"k open parentheses t close parentheses equals 5 sin open parentheses 6.4 open parentheses t plus 2 close parentheses close parentheses plus 25\"><math alttext=\"k open parentheses t close parentheses equals 5 sin open parentheses 6.4 open parentheses t plus 2 close parentheses close parentheses plus 25\"><mi>k</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>5</mn><mi>sin</mi><mfenced><mrow><mn>6.4</mn><mfenced><mrow><mi>t</mi><mo>+</mo><mn>2</mn></mrow></mfenced></mrow></mfenced><mo>+</mo><mn>25</mn></math></span></p>",
+        "value": "C-45519"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"m open parentheses t close parentheses equals 40 sin open parentheses 0.8 open parentheses t plus 2 close parentheses close parentheses plus 25\"><math alttext=\"m open parentheses t close parentheses equals 40 sin open parentheses 0.8 open parentheses t plus 2 close parentheses close parentheses plus 25\"><mi>m</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>40</mn><mi>sin</mi><mfenced><mrow><mn>0.8</mn><mfenced><mrow><mi>t</mi><mo>+</mo><mn>2</mn></mrow></mfenced></mrow></mfenced><mo>+</mo><mn>25</mn></math></span></p>",
+        "value": "D-45520"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Trigonometric and Polar Functions"
+  },
+  "topic": {
+    "code": "3.6",
+    "text": "3.6: Sinusoidal Function Transformations"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

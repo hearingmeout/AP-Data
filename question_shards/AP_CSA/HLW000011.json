@@ -1,0 +1,39 @@
+{
+  "id": "HLW000011",
+  "type": "mcq",
+  "title": "ComputeObject - describe behavior",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following best describes the behavior of this code segment?</p>",
+    "answer": "01JES0WBC30KMMJ0KMET943YJM",
+    "choices": [
+      {
+        "value": "01JES0WBC2QH33N59ZM2B01DRY",
+        "label": "<p class=\"dap_body\">The&nbsp; <span class=\"dap_inline\">sumProd</span> &nbsp;method accumulates the sum of the integers 0 through 4, multiplies the sum by 5, and returns the value 50, which is then printed.</p>"
+      },
+      {
+        "value": "01JES0WBC30KMMJ0KMET943YJM",
+        "label": "<p class=\"dap_body\">The&nbsp; <span class=\"dap_inline\">sumProd</span> &nbsp;method&nbsp;accumulates the sum of the integers 0 through 4, multiplies the sum by 10, and returns the value 100, which is then printed.</p>"
+      },
+      {
+        "value": "01JES0WBC3WV5SMKV1NDZ8RJ56",
+        "label": "<p class=\"dap_body\">The&nbsp; <span class=\"dap_inline\">sumProd</span> &nbsp;method&nbsp;accumulates the sum of the integers 0 through 6, multiplies the sum by 7, and returns the value 147, which is then printed.</p>"
+      },
+      {
+        "value": "01JES0WBC3KVGMM1GRDM4P8REA",
+        "label": "<p class=\"dap_body\">The&nbsp; <span class=\"dap_inline\">sumProd</span> &nbsp;method&nbsp;accumulates the sum of the integers 0 through 6, multiplies the sum by 10, and returns the value 210, which is then printed.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.8",
+    "text": "3.8: Scope and Access"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

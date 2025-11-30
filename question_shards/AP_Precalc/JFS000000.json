@@ -1,0 +1,39 @@
+{
+  "id": "JFS000000",
+  "type": "mcq",
+  "title": "Reciprocal Trigonometric Functions - domain",
+  "content": {
+    "prompt": "<div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <p class=\"dap_body\">​The function&nbsp;<span aria-label=\"f\"><math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;is defined by&nbsp;<span aria-label=\"f open parentheses x close parentheses equals sec open parentheses 1 half open parentheses x minus pi over 2 close parentheses close parentheses\"><math alttext=\"f open parentheses x close parentheses equals sec open parentheses 1 half open parentheses x minus pi over 2 close parentheses close parentheses\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mi>sec</mi><mfenced><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mi>x</mi><mo>-</mo><mfrac><mi>π</mi><mn>2</mn></mfrac></mrow></mfenced></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>. Which of the following describes the domain of&nbsp;<span aria-label=\"f\"><math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;?</p> </div> </div> </div>\n",
+    "answer": "D-60097",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\">​The domain is the set of all real numbers&nbsp;<span aria-label=\"x\"><math alttext=\"x\"><semantics><mi>x</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>, except when&nbsp;<span aria-label=\"x equals pi over 2 plus pi k\"><math alttext=\"x equals pi over 2 plus pi k\"><semantics><mrow><mi>x</mi><mo>=</mo><mfrac><mi>π</mi><mn>2</mn></mfrac><mo>+</mo><mi>π</mi><mi>k</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>,&nbsp;where&nbsp;<span aria-label=\"k\"><math alttext=\"k\"><semantics><mi>k</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;is any integer.</p>",
+        "value": "A-60094"
+      },
+      {
+        "label": "<p class=\"dap_body\">​​The domain is the set of all real numbers&nbsp;<span aria-label=\"x\"><math alttext=\"x\"><semantics><mi>x</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>, except when&nbsp;<span aria-label=\"x equals pi over 2 plus 2 pi k\"><math alttext=\"x equals pi over 2 plus 2 pi k\"><semantics><mrow><mi>x</mi><mo>=</mo><mfrac><mi>π</mi><mn>2</mn></mfrac><mo>+</mo><mn>2</mn><mi>π</mi><mi>k</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>,&nbsp;where&nbsp;<span aria-label=\"k\"><math alttext=\"k\"><semantics><mi>k</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;is any integer.</p>",
+        "value": "B-60095"
+      },
+      {
+        "label": "<p class=\"dap_body\">​​The domain is the set of all real numbers&nbsp;<span aria-label=\"x\"><math alttext=\"x\"><semantics><mi>x</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>, except when&nbsp;<span aria-label=\"x equals pi plus 2 pi k\"><math alttext=\"x equals pi plus 2 pi k\"><semantics><mrow><mi>x</mi><mo>=</mo><mi>π</mi><mo>+</mo><mn>2</mn><mi>π</mi><mi>k</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>,&nbsp;where&nbsp;<span aria-label=\"k\"><math alttext=\"k\"><semantics><mi>k</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;is any integer.</p>",
+        "value": "C-60096"
+      },
+      {
+        "label": "<p class=\"dap_body\">​​The domain is the set of all real numbers&nbsp;<span aria-label=\"x\"><math alttext=\"x\"><semantics><mi>x</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>, except when&nbsp;<span aria-label=\"x equals fraction numerator 3 pi over denominator 2 end fraction plus 2 pi k\"><math alttext=\"x equals fraction numerator 3 pi over denominator 2 end fraction plus 2 pi k\"><semantics><mrow><mi>x</mi><mo>=</mo><mfrac><mrow><mn>3</mn><mi>π</mi></mrow><mn>2</mn></mfrac><mo>+</mo><mn>2</mn><mi>π</mi><mi>k</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>,&nbsp;where&nbsp;<span aria-label=\"k\"><math alttext=\"k\"><semantics><mi>k</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;is any integer.</p>",
+        "value": "D-60097"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Trigonometric and Polar Functions"
+  },
+  "topic": {
+    "code": "3.11",
+    "text": "3.11: The Secant, Cosecant, and Cotangent Functions"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Describe the characteristics of a function with varying levels of precision, depending on the function representation and available mathematical tools."
+  }
+}

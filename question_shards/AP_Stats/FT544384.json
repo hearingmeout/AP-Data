@@ -1,0 +1,43 @@
+{
+  "id": "FT544384",
+  "type": "mcq",
+  "title": "Boxplots of time customers spent in local store",
+  "content": {
+    "prompt": "<p>Janelle collected data on the amount of time in minutes each person in a large sample of customers spent in a local store. The data also included recording the gender of each customer. These data were used to generate the boxplots shown below.</p><p><img alt=\"Two box plots are shown on a vertical axis showing gender and a horizontal axis showing time spent in minutes from 0 to 95 in increments of 5 with vertical reference lines drawn. The lower plot is for male. The box goes from 10 to 29 with a vertical line at 20 dividing it into two areas. The horizontal line off the left end of the box extends to 5 and off the right end to 45. There are two asterisks plotted in line with these lines, one at 60 and one at 90. The upper plot is for female. The box goes from 8 to 17 with a vertical line at 15 dividing it into two areas. The horizontal line off the left end of the box extends to 5 and off the right end to 20.\" src=\"/images/5f5ed926805a8c10bd1c680fb92b7cb0.png\"></p><p>Which of the following statements is true?</p>",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The range in the amount of time in minutes males in the sample of customers spent in the store is approximately 40 minutes.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The mean amount of time in minutes males in the sample of customers spent in the store is approximately 20 minutes.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The third quartile of the amount of time in minutes males in the sample of customers spent in the store is approximately 45 minutes.</p>"
+      },
+      {
+        "label": "The interquartile range of the amount of time in minutes females in the sample of customers spent in the store is 15 minutes.",
+        "value": "i3"
+      },
+      {
+        "value": "i4",
+        "label": "<p>Approximately half of the males in the sample of customers spent at least as much time in the store as any female in the sample of customers.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Comparing Distributions of a Quantitative Variable"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Compare distributions or relative positions of points within a distribution."
+  }
+}

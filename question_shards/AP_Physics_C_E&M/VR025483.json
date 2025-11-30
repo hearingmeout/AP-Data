@@ -1,0 +1,43 @@
+{
+  "id": "VR025483",
+  "type": "mcq",
+  "title": "Magnetic field due to three current carrying wires",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR025448.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">If <span class=\"math_expression\"><span aria-label=\"B sub S \"><math alttext=\"B sub S \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>B</mi></mrow><mrow><mi>S</mi></mrow></msub></mrow></mstyle></math></span></span> is the magnitude of the magnetic field at point <span class=\"math_expression\"><span aria-label=\"P\"><math alttext=\"P\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>P</mtext></mrow></mstyle></math></span></span> due to wire <span class=\"math_expression\"><span aria-label=\"S\"><math alttext=\"S\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>S</mtext></mrow></mstyle></math></span></span>, which of the following gives the magnitude and direction of the magnetic field at point <span class=\"math_expression\"><span aria-label=\"P\"><math alttext=\"P\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>P</mtext></mrow></mstyle></math></span></span> due to all three wires?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"></p><div class=\"table_wrapper\"><table class=\"tgroup cols:2\"><thead class=\"thead\"><tr class=\"row\"><th class=\"entry colname:col1\">Magnitude</th><th class=\"entry colname:col2\">Direction</th></tr></thead><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry colname:col1\"><span class=\"math_expression\"><span aria-label=\"the fraction B sub S over 2\"><math alttext=\"the fraction B sub S over 2\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><msub><mrow><mi>B</mi></mrow><mrow><mtext>S</mtext></mrow></msub></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></math></span></span></td><td class=\"entry colname:col2\">Top of the page</td></tr></tbody></table></div>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"></p><div class=\"table_wrapper\"><table class=\"tgroup cols:2\"><thead class=\"thead\"><tr class=\"row\"><th class=\"entry colname:col1\">Magnitude</th><th class=\"entry colname:col2\">Direction</th></tr></thead><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry colname:col1\"><span class=\"math_expression\"><span aria-label=\"the fraction B sub S over 2\"><math alttext=\"the fraction B sub S over 2\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><msub><mrow><mi>B</mi></mrow><mrow><mtext>S</mtext></mrow></msub></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></math></span></span></td><td class=\"entry colname:col2\">Bottom of the page</td></tr></tbody></table></div>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"></p><div class=\"table_wrapper\"><table class=\"tgroup cols:2\"><thead class=\"thead\"><tr class=\"row\"><th class=\"entry colname:col1\">Magnitude</th><th class=\"entry colname:col2\">Direction</th></tr></thead><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry colname:col1\"><span class=\"math_expression\"><span aria-label=\"B sub S \"><math alttext=\"B sub S \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>B</mi></mrow><mrow><mtext>S</mtext></mrow></msub></mrow></mstyle></math></span></span></td><td class=\"entry colname:col2\">Top of the page</td></tr></tbody></table></div>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"></p><div class=\"table_wrapper\"><table class=\"tgroup cols:2\"><thead class=\"thead\"><tr class=\"row\"><th class=\"entry colname:col1\">Magnitude</th><th class=\"entry colname:col2\">Direction</th></tr></thead><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry colname:col1\"><span class=\"math_expression\"><span aria-label=\"the fraction 5 B sub S over 2\"><math alttext=\"the fraction 5 B sub S over 2\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mn>5</mn><msub><mrow><mi>B</mi></mrow><mrow><mtext>S</mtext></mrow></msub></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></math></span></span></td><td class=\"entry colname:col2\">Top of the page</td></tr></tbody></table></div>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"></p><div class=\"table_wrapper\"><table class=\"tgroup cols:2\"><thead class=\"thead\"><tr class=\"row\"><th class=\"entry colname:col1\">Magnitude</th><th class=\"entry colname:col2\">Direction</th></tr></thead><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry colname:col1\"><span class=\"math_expression\"><span aria-label=\"the fraction 5 B sub S over 2\"><math alttext=\"the fraction 5 B sub S over 2\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mn>5</mn><msub><mrow><mi>B</mi></mrow><mrow><mtext>S</mtext></mrow></msub></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></math></span></span></td><td class=\"entry colname:col2\">Bottom of the page</td></tr></tbody></table></div>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "12",
+    "text": "12: Magnetic Fields and Electromagnetism"
+  },
+  "topic": {
+    "code": "12.3",
+    "text": "12.3: Magnetic Fields of Current-Carrying Wires and the Biot-Savart Law"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

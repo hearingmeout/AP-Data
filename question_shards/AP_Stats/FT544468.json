@@ -1,0 +1,43 @@
+{
+  "id": "FT544468",
+  "type": "mcq",
+  "title": "Compute median age of youngest child in household",
+  "content": {
+    "prompt": "<p>A random sample of 25 households from the Mountainview School District was surveyed. In this survey, data were collected on the age of the youngest child living in each household. The histogram below displays the data collected in the survey.</p>\n\n<p><img alt=\"A bar graph is shown with frequency from 0 to 9 in increments of 1 on the vertical axis and age in years from 0 to 14 in increments of 2 on the horizontal axis. There are 7 bars, each with width two and sitting between two tick marks on the horizontal axis starting at 0. The bars have their heights written above them on the graph. The heights of the bars from left to right is 4, 1, 2, 5, 3, 8, and 2.\" height=\"229\" src=\"/images/d5cc6cf91418405aff4c8a5916b84749.png\" width=\"360\"></p>\n\n<p>In which of the following intervals is the median of these data located?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>0 years old to less than 2 years old</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>4 years old to less than 6 years old</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>6 years old to less than 8 years old</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>8 years old to less than 10 years old</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>10 years old to less than 12 years old</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.7",
+    "text": "1.7: Summary Statistics for a Quantitative Variable"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}

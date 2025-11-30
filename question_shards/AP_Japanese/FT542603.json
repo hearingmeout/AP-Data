@@ -1,0 +1,35 @@
+{
+  "id": "FT542603",
+  "type": "mcq",
+  "title": "The main idea of the message",
+  "content": {
+    "prompt": "<p>What is the message about?</p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Purchasing calligraphy supplies</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Registering for a class</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Attending a book-signing event</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Making reservations for a performance</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Families in Different Societies"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

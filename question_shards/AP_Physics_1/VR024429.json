@@ -1,0 +1,39 @@
+{
+  "id": "VR024429",
+  "type": "mcq",
+  "title": "Center of mass momemtum",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"standalone_image\"><img alt=\"The figure presents the graph of two lines in the first quadrant of a coordinate plane. The horizontal axis is labeled Time, in seconds, and the numbers 0 through 5, in increments of 1, are indicated. The vertical axis is labeled Position, in meters, and the numbers 0 through 4, in increments of 1, are indicated. One line is dashed and is labeled Cart 1. The line begins on the vertical axis at 1 meter at 0 seconds, and moves upward and to the right, until it reaches 2 meters at 2 seconds. The line then moves slightly more steeply upward and to the right, until it reaches 4 meters at 5 seconds. The second line is solid and is labeled Cart 2. The line begins at origin and moves upward and to the right, until it reaches 1 meter at 2 seconds. The line then moves horizontally to the right, until it ends at 1 meter at 5 seconds.\" height=\"172\" src=\"/images/4247ccc9dcba917dc3f73fb286f8d727.png\" width=\"250\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">The graph above represents the position of two identical carts on a straight horizontal track as a function of time. Which of the following statements about the magnitude of the momentum of the two-cart system’s center of mass, <span class=\"math_expression\"><span aria-label=\"p sub center of mass\"><math alttext=\"p sub center of mass\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>p</mi></mrow><mrow><mtext>com</mtext></mrow></msub></mrow></mstyle></math></span></span>, is true?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"p sub center of mass\"><math alttext=\"p sub center of mass\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>p</mi></mrow><mrow><mtext>com</mtext></mrow></msub></mrow></mstyle></math></span></span> is constant from <span class=\"math_expression\"><span aria-label=\"t equals 0 seconds\"><math alttext=\"t equals 0 seconds\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>0</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mtext>s</mtext></mrow></mstyle></math></span></span> to <span class=\"math_expression\"><span aria-label=\"t equals 5 seconds \"><math alttext=\"t equals 5 seconds \" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mi>t</mi><mo>=</mo><mn>5</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mtext>s</mtext></mrow></mstyle></mrow></mstyle></math></span></span>.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"p sub center of mass\"><math alttext=\"p sub center of mass\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>p</mi></mrow><mrow><mtext>com</mtext></mrow></msub></mrow></mstyle></math></span></span> is smaller after <span class=\"math_expression\"><span aria-label=\"t equals 2 seconds \"><math alttext=\"t equals 2 seconds \" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>2</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mtext>s</mtext></mrow></mstyle></math></span></span> than it is before <span class=\"math_expression\"><span aria-label=\"t equals 2 seconds \"><math alttext=\"t equals 2 seconds \" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>2</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mtext>s</mtext></mrow></mstyle></math></span></span>.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"p sub center of mass\"><math alttext=\"p sub center of mass\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>p</mi></mrow><mrow><mtext>com</mtext></mrow></msub></mrow></mstyle></math></span></span> is larger after <span class=\"math_expression\"><span aria-label=\"t equals 2 seconds \"><math alttext=\"t equals 2 seconds \" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>2</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mtext>s</mtext></mrow></mstyle></math></span></span> than it is before <span class=\"math_expression\"><span aria-label=\"t equals 2 seconds \"><math alttext=\"t equals 2 seconds \" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>2</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mtext>s</mtext></mrow></mstyle></math></span></span>.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"p sub center of mass\"><math alttext=\"p sub center of mass\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>p</mi></mrow><mrow><mtext>com</mtext></mrow></msub></mrow></mstyle></math></span></span> increases at a constant rate from <span class=\"math_expression\"><span aria-label=\"t equals 0 seconds \"><math alttext=\"t equals 0 seconds \" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>0</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mtext>s</mtext></mrow></mstyle></math></span></span> to <span class=\"math_expression\"><span aria-label=\"t equals 5 seconds \"><math alttext=\"t equals 5 seconds \" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mi>t</mi><mo>=</mo><mn>5</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mtext>s</mtext></mrow></mstyle></mrow></mstyle></math></span></span>.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Representing Motion"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Calculate or estimate an unknown quantity with units from known quantities, by selecting and following a logical computational pathway."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "VH950183",
+  "type": "mcq",
+  "title": "What is power",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following is the best interpretation of the power of a significance test?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Power is the probability of detecting an effect if no effect exists.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Power is the probability of detecting an effect if an effect exists.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Power is the probability of detecting an effect whether or not an effect exists.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Power is the probability of not detecting an effect if no effect exists.</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Power is the probability of not detecting an effect if an effect exists.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.7",
+    "text": "6.7: Potential Errors When Performing Tests"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+  }
+}

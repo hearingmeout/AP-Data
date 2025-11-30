@@ -1,0 +1,39 @@
+{
+  "id": "TDP000002",
+  "type": "mcq",
+  "title": "reverseArray method - correct error",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following changes can be made so the method returns the intended value?</p>",
+    "answer": "01JGPJHHMC0HP7PDG731MPNFF2",
+    "choices": [
+      {
+        "value": "01JGPJHHMB6CW82EG0YYJMCPJX",
+        "label": "<p class=\"dap_body\">Changing line 3 to&nbsp; <code class=\"dap_inline\">String[] revLetters = new String[letters.length - 1];</code></p>"
+      },
+      {
+        "value": "01JGPJHHMCF8PXNA3E3RRR12MD",
+        "label": "<p class=\"dap_body\">Changing line 4 to&nbsp; <code class=\"dap_inline\">for (int x = 0; x &lt; letters.length - 1; x++)</code></p>"
+      },
+      {
+        "value": "01JGPJHHMC0HP7PDG731MPNFF2",
+        "label": "<p class=\"dap_body\">Changing line 6 to&nbsp; <code class=\"dap_inline\">revLetters[x] = letters[letters.length - x - 1];</code></p>"
+      },
+      {
+        "value": "01JGPJHHMCXYKK121HKSXQM637",
+        "label": "<p class=\"dap_body\">Changing line 6 to&nbsp; <code class=\"dap_inline\">letters[x] = revLetters[letters.length - x];</code></p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implementing Array Algorithms"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

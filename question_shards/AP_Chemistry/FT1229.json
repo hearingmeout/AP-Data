@@ -1,0 +1,39 @@
+{
+  "id": "FT1229",
+  "type": "mcq",
+  "title": "Cu-Cr - Given half-rxns, which overall rxn occurs",
+  "content": {
+    "prompt": "<p class=\"text-center\">Cu<sup>2+</sup>(<em>aq</em>) + 2 <em>e</em><sup>-</sup> → Cu(<em>s</em>)&nbsp; &nbsp; &nbsp;<em>E</em>° = 0.34 V</p>\n\n<p class=\"text-center\">Cr<sup>3+</sup>(<em>aq</em>) + <em>e</em><sup>-</sup> → Cr<sup>2+</sup>(<em>aq</em>)&nbsp; &nbsp; &nbsp;<em>E</em>° = -0.41 V</p>\n\n<p>According to the half-reactions represented above, which of the following occurs in aqueous solutions under standard conditions?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Cu<sup>2+</sup>(<em>aq</em>) + Cr<sup>3+</sup>(<em>aq</em>) → Cu(<em>s</em>) + Cr<sup>2+</sup>(<em>aq</em>)</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Cu<sup>2+</sup>(<em>aq</em>) + 2 Cr<sup>2+</sup>(<em>aq</em>) → Cu(<em>s</em>) + 2 Cr<sup>3+</sup>(<em>aq</em>)</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Cu(<em>s</em>) + 2 Cr<sup>3+</sup>(<em>aq</em>) → Cu<sup>2+</sup>(<em>aq</em>) + 2 Cr<sup>2+</sup>(<em>aq</em>)</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Cu(<em>s</em>) + Cr<sup>3+</sup>(<em>aq</em>) → Cu<sup>2+</sup>(<em>aq</em>) + Cr<sup>2+</sup>(<em>aq</em>)</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Thermodynamics and Electrochemistry"
+  },
+  "topic": {
+    "code": "9.9",
+    "text": "9.9: Cell Potential and Free Energy"
+  },
+  "skill": {
+    "code": "5.F",
+    "text": "5.F: Calculate, estimate, or predict an unknown quantity from known quantities by selecting and following a logical computational pathway and attending to precision (e.g., performing dimensional analysis and attending to significant figures)."
+  }
+}

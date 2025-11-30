@@ -1,0 +1,43 @@
+{
+  "id": "FT545653",
+  "type": "mcq",
+  "title": "Inference procedure for vehicle type and color",
+  "content": {
+    "prompt": "<p>In order to plan its next advertising campaign, the Trendy Motor Vehicle Company is investigating whether the type of vehicle and the color of vehicle are related. Each person in a random sample of size 275 selected from the company’s mailing list was classified according to the type (car or truck) and the color of vehicle he or she drove. The data are shown in the table below.</p>\n\n<p><img alt=\"A table is shown with columns representing vehicle color and rows representing vehicle type. The labels for the columns are red, black, white, tan, and green. The first row is car, 35, 23, 41, 21, and 12. The second row is truck, 27, 55, 39, 12, and 10.\" height=\"121\" src=\"/images/a95cc01690f4e298cd5bd1725a69f7b1.png\" width=\"445\"></p>\n\n<p>Which of the following procedures would be most appropriate to use for investigating whether there is a relationship between vehicle type and color?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>A two-sample <em>t</em>-test</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>A two-sample <em>z</em>-test</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>A matched pairs <em>t</em>-test</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>A chi-square goodness-of-fit test</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>A chi-square test of independence</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Inference for Categorical Data-Chi-Square"
+  },
+  "topic": {
+    "code": "8.5",
+    "text": "8.5: Setting Up a Chi-Square Test for Homogeneity or Independence"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Identify an appropriate inference method for significance tests."
+  }
+}

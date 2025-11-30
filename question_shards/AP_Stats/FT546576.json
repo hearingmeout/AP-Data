@@ -1,0 +1,43 @@
+{
+  "id": "FT546576",
+  "type": "mcq",
+  "title": "Describe boxplots of test scores by section",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows 3 horizontal boxplots that summarize data on student test scores. The boxplots are graphed on the same horizontal axis. The horizontal axis is labeled Test scores, and the tick marks appearing, from left to right, are 15, 20, 25, and 30. The first boxplot is labeled Section one. The left whisker extends from approximately 17 to 18; the box extends from approximately 18 to 21, a vertical line segment at 20 breaks the box into 2 parts; and the right whisker extends from approximately 21 to 23 point 5. The second boxplot is labeled Section 2. There is a plus sign at approximately 15, and another at approximately 23 point 5. The left whisker extends from approximately 25 point 5 to 29; the box extends from approximately 29 to 31, a vertical line segment at 30 breaks the box into 2 parts; and the right whisker extends from approximately 31 to 33. The third boxplot is labeled Section 3. The left whisker extends from approximately 17 to 21; the box extends from approximately 21 to 26, a vertical line segment at approximately 24 breaks the box into 2 parts; and the right whisker extends from approximately 26 to 28. There is a plus sign at approximately 31. \" height=\"255\" src=\"/images/10f90f7a45ea1c163ed4637e6ec8df88.png\" width=\"335\"></p>\n\n<p>Professor James gave the same test to his three sections of statistics students. On the 35-question test, the highest score was 32 and the lowest was 15. Based on the information displayed in the boxplots above, which of the following statements is true?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Section 1 has the smallest interquartile range.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The lowest score in section 2 is higher than the highest score in either of the other sections.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Section 2 has the smallest range of scores.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The top 25% of scores in section 2 are lower than the highest score in section 3.</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>At least 50% of the scores in section 3 are higher than all of the scores in section 1.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.8",
+    "text": "1.8: Graphical Representations of Summary Statistics"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Compare distributions or relative positions of points within a distribution."
+  }
+}

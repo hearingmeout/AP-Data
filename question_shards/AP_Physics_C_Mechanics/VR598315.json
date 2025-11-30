@@ -1,0 +1,43 @@
+{
+  "id": "VR598315",
+  "type": "mcq",
+  "title": "Speed of the block after traveling distance x",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR598313.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">The system is released from rest. Which of the following is a correct expression for the speed of Block <span class=\"math_expression\"><span aria-label=\"B\"><math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>B</mtext></mrow></mstyle></math></span></span> when it has moved a distance <span class=\"math_expression\"><span aria-label=\"x\"><math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math></span></span>?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the square root of g x, end root\"><math alttext=\"the square root of g x, end root\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msqrt><mrow><mi>g</mi><mi>x</mi></mrow></msqrt></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the square root of, g x times the sine of theta, end root\"><math alttext=\"the square root of, g x times the sine of theta, end root\" display=\"inline\" overflow=\"scroll\"><msqrt><mi>g</mi><mi>x</mi><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.10em\"></mspace><mi>sin</mi><mo> </mo><mi>θ</mi></msqrt></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the square root of, 2 g x times the sine of theta, end root\"><math alttext=\"the square root of, 2 g x times the sine of theta, end root\" display=\"inline\" overflow=\"scroll\"><msqrt><mn>2</mn><mi>g</mi><mi>x</mi><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.10em\"></mspace><mi>sin</mi><mo> </mo><mi>θ</mi></msqrt></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the square root of, g x times, open parenthesis, 1 plus the sine of theta, close parenthesis, end root\"><math alttext=\"the square root of, g x times, open parenthesis, 1 plus the sine of theta, close parenthesis, end root\" display=\"inline\" overflow=\"scroll\"><msqrt><mi>g</mi><mi>x</mi><mrow><mo>(</mo><mn>1</mn><mo>+</mo><mi>sin</mi><mo> </mo><mi>θ</mi><mo>)</mo></mrow></msqrt></math></span></span></p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the square root of, 2 g x times, open parenthesis, 1 plus the sine of theta, close parenthesis, end root\"><math alttext=\"the square root of, 2 g x times, open parenthesis, 1 plus the sine of theta, close parenthesis, end root\" display=\"inline\" overflow=\"scroll\"><msqrt><mn>2</mn><mi>g</mi><mi>x</mi><mrow><mo>(</mo><mn>1</mn><mo>+</mo><mi>sin</mi><mo> </mo><mi>θ</mi><mo>)</mo></mrow></msqrt></math></span></span></p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Work, Energy, and Power"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: Translational Kinetic Energy"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "FT659823",
+  "type": "mcq",
+  "title": "comparing ArrayList to arrays",
+  "content": {
+    "prompt": "<p style=\"margin-bottom: 11px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"></span></span></span>Which of the following is a reason to use an<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\"> ArrayList </span></span></span></span>instead of an array?<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"></span></span></span></p>\n",
+    "answer": "3",
+    "choices": [
+      {
+        "label": "<p style=\"margin-bottom: 11px;\">An<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Courier New&quot;\"> ArrayList </span></span></span><span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Times New Roman&quot;,&quot;serif&quot;\"></span></span></span>allows faster access to its<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Times New Roman&quot;,&quot;serif&quot;\"> <em>k</em>t</span></span></span>h item than an array does.<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Times New Roman&quot;,&quot;serif&quot;\"></span></span></span></p>\n",
+        "value": "0"
+      },
+      {
+        "label": "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Times New Roman&quot;,&quot;serif&quot;\"></span></span></span>An<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Courier New&quot;\"> ArrayList </span></span></span><span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Courier New&quot;\"></span></span></span>can store objects and an array can only store primitive types.",
+        "value": "2"
+      },
+      {
+        "label": "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Times New Roman&quot;,&quot;serif&quot;\"></span></span></span>An<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Courier New&quot;\"> ArrayList </span></span></span><span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Courier New&quot;\"></span></span></span>resizes itself as necessary when items are added, but an array does not.",
+        "value": "3"
+      },
+      {
+        "label": "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Times New Roman&quot;,&quot;serif&quot;\"></span></span></span>An<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Courier New&quot;\"> ArrayList </span></span></span><span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Courier New&quot;\"></span></span></span>provides access to the number of items it stores, but an array does not.",
+        "value": "4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "1.A",
+    "text": "1.A: Determine an appropriate program design to solve a problem or accomplish a task."
+  }
+}

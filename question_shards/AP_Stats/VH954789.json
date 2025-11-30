@@ -1,0 +1,43 @@
+{
+  "id": "VH954789",
+  "type": "mcq",
+  "title": "True for p-values",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">In a hypothesis test for a single proportion, which of the following is assumed for the calculation of the <span class=\"math_expression\"><span aria-label=\"p\"><math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math></span></span>-value?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The alternative hypothesis is true.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The null hypothesis is true.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The distribution of the population is approximately normal.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The sample proportion is equal to the hypothesized proportion.</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The sample size is 30 or more.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.5",
+    "text": "6.5: Interpreting P-Values"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

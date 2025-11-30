@@ -1,0 +1,39 @@
+{
+  "id": "AWK000003",
+  "type": "mcq",
+  "title": "Info class scope error - explain compile error",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following best explains why the class will not compile?</p>",
+    "answer": "01JSDXX0VYFEFA72ASYNS7YAP2",
+    "choices": [
+      {
+        "value": "01JSDX46AC5PZ077VS159YX3P6",
+        "label": "<p class=\"dap_body\">The class is missing an accessor method.</p>"
+      },
+      {
+        "value": "01JSDX46ADYBTH9YJ9F1JQC8KH",
+        "label": "<p class=\"dap_body\">The instance variables&nbsp; <code class=\"dap_inline\">name</code> &nbsp;and &nbsp;<code class=\"dap_inline\">number</code> &nbsp;should be designated &nbsp;<code class=\"dap_inline\">public</code> &nbsp;instead of &nbsp;<code class=\"dap_inline\">private</code>.</p>"
+      },
+      {
+        "value": "01JSDX46AD27K0Z9643SQT7AFK",
+        "label": "<p class=\"dap_body\">The return type for the &nbsp;<span class=\"dap_inline\">Info</span> &nbsp;constructor is missing.</p>"
+      },
+      {
+        "value": "01JSDXX0VYFEFA72ASYNS7YAP2",
+        "label": "<p class=\"dap_body\">The variable &nbsp;<code class=\"dap_inline\">num</code> &nbsp;is not defined in the &nbsp;<code class=\"dap_inline\">addNum</code> &nbsp;method.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.8",
+    "text": "3.8: Scope and Access"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

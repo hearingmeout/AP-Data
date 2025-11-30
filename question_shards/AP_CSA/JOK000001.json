@@ -1,0 +1,39 @@
+{
+  "id": "JOK000001",
+  "type": "mcq",
+  "title": "call calculate method - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What, if anything, is printed when the code segment is executed?</p>",
+    "answer": "1726102424225.8933",
+    "choices": [
+      {
+        "value": "1726102424225.8113",
+        "label": "<pre><code class=\"language-plaintext\">8.5</code></pre>"
+      },
+      {
+        "value": "1726102424225.1301",
+        "label": "<pre><code class=\"language-plaintext\">9</code></pre>"
+      },
+      {
+        "value": "1726102424225.8933",
+        "label": "<pre><code class=\"language-plaintext\">9.0</code></pre>"
+      },
+      {
+        "value": "17261025076994.873",
+        "label": "<p class=\"dap_body\">Nothing is printed because the code does not compile. The actual parameter <span class=\"dap_inline\">d1</span>&nbsp; passed to <span class=\"dap_inline\">calculate</span> is a <span class=\"dap_inline\">Double</span>, but the formal parameter <span class=\"dap_inline\">x</span> is a <span class=\"dap_inline\">double</span>.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.7",
+    "text": "4.7: Wrapper Classes"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

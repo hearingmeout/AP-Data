@@ -1,0 +1,43 @@
+{
+  "id": "FT545728",
+  "type": "mcq",
+  "title": "Effect of transformed height on summary statistics",
+  "content": {
+    "prompt": "<p>Height, in meters, is measured for each person in a sample. After the data are collected, all the height measurements are converted from meters to centimeters by multiplying each measurement by 100. Which of the following statistics will remain the same for both units of measure?</p>",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The mean of the height measurements</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The median of the height measurements</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The standard deviation of the height measurements</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The maximum of the height measurements</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>The <em>z</em>-scores of the height measurements</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.7",
+    "text": "1.7: Summary Statistics for a Quantitative Variable"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}

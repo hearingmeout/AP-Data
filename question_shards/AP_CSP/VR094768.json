@@ -1,0 +1,35 @@
+{
+  "id": "VR094768",
+  "type": "mcq",
+  "title": "next binary ID number",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Each student that enrolls at a school is assigned a unique ID number, which is stored as a binary number. The ID&nbsp;numbers increase sequentially by 1 with each newly enrolled student. If the ID number assigned to the last student who enrolled was the binary number 1001 0011, what binary number will be assigned to the next student who enrolls?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">1001 0100</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">1001 0111</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">1101 0100</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">1101 0111</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Binary Numbers"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

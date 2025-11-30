@@ -1,0 +1,39 @@
+{
+  "id": "VH907691",
+  "type": "mcq",
+  "title": "dot equals vs equals equals one two three",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Assume that object references <span class=\"inline_code\">one</span>, <span class=\"inline_code\">two</span>, and <span class=\"inline_code\">three</span> have been declared and instantiated to be of the same type. Assume also that <span class=\"inline_code\">one == two</span> evaluates to <span class=\"inline_code\">true</span> and that <span class=\"inline_code\">two.equals(three)</span> evaluates to <span class=\"inline_code\">false</span>.</p><p class=\"stem_paragraph\">Consider the following code segment.</p><div class=\"standalone_code style:1\"><p class=\"code_line\">if (one.equals(two))</p><p class=\"code_line\">{</p><p class=\"code_line indent:3\">System.out.println(\"one dot equals two\");</p><p class=\"code_line\">}</p><p class=\"code_line\">if (one.equals(three))</p><p class=\"code_line\">{</p><p class=\"code_line indent:3\">System.out.println(\"one dot equals three\");</p><p class=\"code_line\">}</p><p class=\"code_line\">if (two == three)</p><p class=\"code_line\">{</p><p class=\"code_line indent:3\">System.out.println(\"two equals equals three\");</p><p class=\"code_line\">}</p></div><p class=\"stem_paragraph\">What, if anything, is printed as a result of executing the code segment?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">one dot equals two</p></div>",
+        "value": "i1"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">one dot equals two</p><p class=\"code_line\">one dot equals three</p></div>",
+        "value": "i2"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">one dot equals three</p><p class=\"code_line\">two equals equals three</p></div>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Nothing is printed.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Comparing Boolean Expressions"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "VH961117",
+  "type": "mcq",
+  "title": "Tone of Article",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VH961114.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">Quel est le ton de l’article en ce qui concerne les écrivains québécois&nbsp;?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Tout à fait neutre</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Plutôt empathique</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Très optimiste</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Un peu moqueur</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Influences of Beauty and Art"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Interpret the distinguishing features of a text."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT2016",
+  "type": "mcq",
+  "title": "Predicting values of a function from derivatives",
+  "content": {
+    "prompt": "The function <em>f</em> is continuous on the closed interval and twice differentiable on the open interval (2,4) . If <em>f</em>′(3) = 2 and <em>f</em>″(<em>x</em>) &lt; 0 on the open interval (2,4) , which of the following could be a table of values for <em>f</em> ?",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p><img alt=\"The figure shows a table with 2 coulumns and 4 rows.Column 1 is labeled x. Column 2 is labeled f of x.  Moving through the three rows that contain data from left to right, the data are as follows:   Row 1: x,2, f of x, 2.5  Row 2: x,3, f of x, 5  Row 3: x,4, f of x, 6.5\" src=\"/images/d04cfc51fdfa03090d2da861f5758641.png\"></p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><img alt=\"The figure shows a table with 2 coulumns and 4 rows.Column 1 is labeled x. Column 2 is labeled f of x.  Moving through the three rows that contain data from left to right, the data are as follows:   Row 1: x,2, f of x, 2.5  Row 2: x,3, f of x, 5  Row 3: x,4, f of x, 7\" src=\"/images/08c6472caa5e9a2469d9f8e599c648ef.png\"></p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p><img alt=\"The figure shows a table with 2 coulumns and 4 rows.Column 1 is labeled x. Column 2 is labeled f of x.  Moving through the three rows that contain data from left to right, the data are as follows:   Row 1: x,2, f of x, 3  Row 2: x,3, f of x, 5  Row 3: x,4, f of x, 6.5\" src=\"/images/480b52dad065b1b1aa5247796c199211.png\"></p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p><img alt=\"The figure shows a table with 2 coulumns and 4 rows.Column 1 is labeled x. Column 2 is labeled f of x.  Moving through the three rows that contain data from left to right, the data are as follows:   Row 1: x,2, f of x, 3  Row 2: x,3, f of x, 5  Row 3: x,4, f of x, 7\" src=\"/images/dc2bc579926dfebb395634a2e0f8d055.png\"></p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p><img alt=\"The figure shows a table with 2 coulumns and 4 rows.Column 1 is labeled x. Column 2 is labeled f of x.  Moving through the three rows that contain data from left to right, the data are as follows:   Row 1: x,2, f of x, 3.5  Row 2: x,3, f of x, 5  Row 3: x,4, f of x, 7.5\" src=\"/images/72053795877c79544c4859c576038b47.png\"></p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.8",
+    "text": "5.8: Sketching Graphs of Functions and Their Derivatives"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Identify how mathematical characteristics or properties of functions are related in different representations."
+  }
+}

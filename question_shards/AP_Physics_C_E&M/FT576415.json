@@ -1,0 +1,43 @@
+{
+  "id": "FT576415",
+  "type": "mcq",
+  "title": "Compute p-value for chi-square of mayor preference",
+  "content": {
+    "prompt": "Approximately what is the probability that the observed responses would be as far or farther from the expected responses if there is no association between age-group and preference?",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>0.0001 </p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>0.1541 </p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>0.2908 </p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>0.5873 </p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>0.7117</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Inference for Categorical Data-Chi-Square"
+  },
+  "topic": {
+    "code": "8.6",
+    "text": "8.6: Carrying Out a Chi-Square Test for Homogeneity or Independence"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Calculate a test statistic and find a p-value, provided conditions for inference are met."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "UEK000001",
+  "type": "mcq",
+  "title": "Division with int casting - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What is printed as a result of executing this code segment?</p>",
+    "answer": "1717011982998.2642",
+    "choices": [
+      {
+        "value": "1717011982998.4949",
+        "label": "<pre><code class=\"language-plaintext\">0.0, 0.0</code></pre>"
+      },
+      {
+        "value": "1717011982998.9814",
+        "label": "<pre><code class=\"language-plaintext\">0.0, 0.4</code></pre>"
+      },
+      {
+        "value": "1717011982998.2642",
+        "label": "<pre><code class=\"language-plaintext\">0.4, 0.0</code></pre>"
+      },
+      {
+        "value": "1717011982998.111",
+        "label": "<pre><code class=\"language-plaintext\">0.4, 0.4</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.5",
+    "text": "1.5: Casting and Range of Variables"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

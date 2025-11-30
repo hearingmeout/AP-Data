@@ -1,0 +1,35 @@
+{
+  "id": "FT645751",
+  "type": "mcq",
+  "title": "Managing complexity with abstraction",
+  "content": {
+    "prompt": "<p>Which of the following are ways in which a programmer can use abstraction to manage the complexity of a program?</p>\n<p>Select <u>two</u> answers.</p>\n",
+    "answer": "0",
+    "choices": [
+      {
+        "label": "Replacing each instance of repeated code with a call to a procedure",
+        "value": "0"
+      },
+      {
+        "label": "Replacing longer variable names with shorter variable names to reduce typing errors",
+        "value": "1"
+      },
+      {
+        "label": "Replacing several lines of documentation with a single line of documentation",
+        "value": "2"
+      },
+      {
+        "label": "Replacing the string variables&nbsp;<img alt=\"One word, name 1\" height=\"15\" src=\"/images/caf9cb378ee0f139ae27e05295a2ec06.jpg\" width=\"53\">,&nbsp;<img alt=\"One word, name 2\" height=\"15\" src=\"/images/2f58f9c3e2b9fd2014dc8fa1fd4b26f1.jpg\" width=\"51\">,&nbsp;<img alt=\"One word, name 3\" height=\"15\" src=\"/images/8e69f9aed9b963e07e41dc3a768eab89.jpg\" width=\"51\">, and&nbsp;<img alt=\"One word, name 4\" height=\"15\" src=\"/images/b2e57c61957531841adf7380162d3154.jpg\" width=\"53\">&nbsp;with a list of strings<br>\ncalled&nbsp;<img alt=\"names\" height=\"13\" src=\"/images/a1cb759545008d1bad278b40c05b0094.jpg\" width=\"54\">",
+        "value": "3"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.13",
+    "text": "3.13: Developing Procedures"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Explain how abstraction manages complexity."
+  }
+}

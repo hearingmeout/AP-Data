@@ -1,0 +1,39 @@
+{
+  "id": "TKY000006",
+  "type": "mcq",
+  "title": "values printed nested for loops- describe behavior",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following best describes the behavior of the code segment?</p>",
+    "answer": "01JXMXHSJM33F8RHARFBF12EVY",
+    "choices": [
+      {
+        "value": "01JXMXHSJN912MP09FE5SDDB92",
+        "label": "<p class=\"dap_body\">It prints&nbsp; <code class=\"dap_inline\">\"*\"</code> &nbsp;a total of &nbsp;<code class=\"dap_inline\">outerMax + innerMax</code> &nbsp;times.</p>"
+      },
+      {
+        "value": "01JXMXHSJM33F8RHARFBF12EVY",
+        "label": "<p class=\"dap_body\">It prints&nbsp; <code class=\"dap_inline\">\"*\"</code> &nbsp;a total of &nbsp;<code class=\"dap_inline\">outerMax * innerMax</code> &nbsp;times.</p>"
+      },
+      {
+        "value": "01JXMXHSJN1CKPEQKCN86FXKJC",
+        "label": "<p class=\"dap_body\">It prints&nbsp; <code class=\"dap_inline\">\"*\"</code> &nbsp;a total of &nbsp;<code class=\"dap_inline\">(outerMax + 1) + (innerMax + 1)</code> &nbsp;times.</p>"
+      },
+      {
+        "value": "01JXMXHSJNMX5WKACX3RDV9W0D",
+        "label": "<p class=\"dap_body\">It prints&nbsp; <code class=\"dap_inline\">\"*\"</code> &nbsp;a total of &nbsp;<code class=\"dap_inline\">(outerMax + 1) * (innerMax + 1)</code> &nbsp;times.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.11",
+    "text": "2.11: Nested Iteration"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

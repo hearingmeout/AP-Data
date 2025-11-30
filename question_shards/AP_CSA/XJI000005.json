@@ -1,0 +1,39 @@
+{
+  "id": "XJI000005",
+  "type": "mcq",
+  "title": "Division and modulus in loop - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What is printed as a result of executing this code segment?</p>",
+    "answer": "1717077147749.6848",
+    "choices": [
+      {
+        "value": "1717077147749.6848",
+        "label": "<pre><code class=\"language-plaintext\">12</code></pre>"
+      },
+      {
+        "value": "1717077147749.0454",
+        "label": "<pre><code class=\"language-plaintext\">13</code></pre>"
+      },
+      {
+        "value": "1717077147749.441",
+        "label": "<pre><code class=\"language-plaintext\">25</code></pre>"
+      },
+      {
+        "value": "1717077147749.8408",
+        "label": "<pre><code class=\"language-plaintext\">100</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "FT535669",
+  "type": "mcq",
+  "title": "What problems can be solved with algorithms",
+  "content": {
+    "prompt": "<p>Which of the following statements is true?</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Every problem can be solved with an algorithm for all possible inputs, in a reasonable amount of time, using a modern computer.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Every problem can be solved with an algorithm for all possible inputs, but some will take more than 100 years, even with the fastest possible computer.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Every problem can be solved with an algorithm for all possible inputs, but some of these algorithms have not been discovered yet.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>There exist problems that no algorithm will ever be able to solve for all possible inputs.</p>"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.18",
+    "text": "3.18: Undecidable Problems"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Investigate the situation, context, or task."
+  }
+}

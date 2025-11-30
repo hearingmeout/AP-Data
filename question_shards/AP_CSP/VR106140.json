@@ -1,0 +1,35 @@
+{
+  "id": "VR106140",
+  "type": "mcq",
+  "title": "Use drawLine procedure to draw figure",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following code segments can be used to draw the figure?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">xVal <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> 1</p><p class=\"code_line\">yVal <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> 0</p><p class=\"code_line\">len <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> 1</p><p class=\"code_line\">REPEAT 5 TIMES</p><p class=\"code_line\">{</p><p class=\"code_line indent:3\">drawLine(xVal, yVal, xVal, yVal + len)</p><p class=\"code_line indent:3\">xVal <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> xVal + 1</p><p class=\"code_line indent:3\">len <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> len + 1</p><p class=\"code_line\">}</p></div>",
+        "value": "i1"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">xVal <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> 1</p><p class=\"code_line\">yVal <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> 0</p><p class=\"code_line\">len <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> 1</p><p class=\"code_line\">REPEAT 5 TIMES</p><p class=\"code_line\">{</p><p class=\"code_line indent:3\">drawLine(xVal, yVal, xVal + len, yVal)</p><p class=\"code_line indent:3\">yVal <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> yVal + 1</p><p class=\"code_line indent:3\">len <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> len + 1</p><p class=\"code_line\">}</p></div>",
+        "value": "i2"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">xVal <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> 5</p><p class=\"code_line\">yVal <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> 0</p><p class=\"code_line\">len <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> 5</p><p class=\"code_line\">REPEAT 5 TIMES</p><p class=\"code_line\">{</p><p class=\"code_line indent:3\">drawLine(xVal, yVal, xVal, yVal + len)</p><p class=\"code_line indent:3\">xVal <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> xVal - 1</p><p class=\"code_line\">}</p></div>",
+        "value": "i3"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">xVal <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> 5</p><p class=\"code_line\">yVal <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> 0</p><p class=\"code_line\">len <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> 5</p><p class=\"code_line\">REPEAT 5 TIMES</p><p class=\"code_line\">{</p><p class=\"code_line indent:3\">drawLine(xVal, yVal, xVal + len, yVal)</p><p class=\"code_line indent:3\">yVal <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> yVal - 1</p><p class=\"code_line indent:3\">len <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> len - 1</p><p class=\"code_line\">}</p></div>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.8",
+    "text": "3.8: Iteration"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Use abstraction to manage complexity in a program."
+  }
+}

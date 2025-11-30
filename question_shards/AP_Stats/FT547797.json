@@ -1,0 +1,43 @@
+{
+  "id": "FT547797",
+  "type": "mcq",
+  "title": "Describe Type II error for diagnosing arthritis",
+  "content": {
+    "prompt": "<p>A medical doctor uses a diagnostic test to determine whether a patient has arthritis. A treatment will be prescribed only if the doctor thinks the patient has arthritis. The situation is similar to using a null and an alternative hypothesis to decide whether to prescribe the treatment. The hypotheses might be stated as follows.</p>\n\n<p class=\"text-center\">H<sub>0</sub> : The patient does not have arthritis</p>\n\n<p class=\"text-center\">H<sub>a</sub> : The patient has arthritis</p>\n\n<p>Which of the following represents a Type II error for the hypotheses?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Diagnosing arthritis in a patient who has arthritis</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Failing to diagnose arthritis in a patient who has arthritis</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Diagnosing arthritis in a patient who does not have arthritis</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Failing to diagnose arthritis in a patient who does not have arthritis</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>Prescribing treatment to a patient regardless of the diagnosis</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.7",
+    "text": "6.7: Potential Errors When Performing Tests"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Identify key and relevant information to answer a question or solve a problem."
+  }
+}

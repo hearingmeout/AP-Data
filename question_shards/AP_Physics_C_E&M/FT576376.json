@@ -1,0 +1,43 @@
+{
+  "id": "FT576376",
+  "type": "mcq",
+  "title": "Compute IQR given histogram of last meal prices",
+  "content": {
+    "prompt": "Based on the histogram, which of the following could be the interquartile range of the prices?",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>$40</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>$21</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>$10</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>$5</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>$3</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.5",
+    "text": "1.5: Representing a Quantitative Variable with Graphs"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}

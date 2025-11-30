@@ -1,0 +1,39 @@
+{
+  "id": "SXG000000",
+  "type": "mcq",
+  "title": "Logarithmic Functions - concavity",
+  "content": {
+    "prompt": "<div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <p class=\"dap_body\">​The function&nbsp;<span aria-label=\"f\"><math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;is given by&nbsp;<span aria-label=\"f open parentheses x close parentheses equals 2 log subscript 5 x\"><math alttext=\"f open parentheses x close parentheses equals 2 log subscript 5 x\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>2</mn><msub><mi>log</mi><mn>5</mn></msub><mi>x</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>. Which of the following describes&nbsp;<span aria-label=\"f\"><math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;?</p> </div> </div> </div>\n",
+    "answer": "B-27418",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"f\"><math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;is an increasing function that increases at an increasing rate.</p>",
+        "value": "A-27417"
+      },
+      {
+        "label": "<p class=\"dap_body\">​​<span aria-label=\"f\"><math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;is an increasing function that increases at a decreasing rate.</p>",
+        "value": "B-27418"
+      },
+      {
+        "label": "<p class=\"dap_body\">​​<span aria-label=\"f\"><math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;is a decreasing function that decreases at an increasing rate.</p>",
+        "value": "C-27419"
+      },
+      {
+        "label": "<p class=\"dap_body\">​​<span aria-label=\"f\"><math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;is a decreasing function that decreases at a decreasing rate.</p>",
+        "value": "D-27420"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.11",
+    "text": "2.11: Logarithmic Functions"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Describe the characteristics of a function with varying levels of precision, depending on the function representation and available mathematical tools."
+  }
+}

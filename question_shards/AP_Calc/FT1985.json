@@ -1,0 +1,43 @@
+{
+  "id": "FT1985",
+  "type": "mcq",
+  "title": "Points of inflection from graph",
+  "content": {
+    "prompt": "<p><img alt=\"The graph of f’’(x) is shown on a set of unscaled axes.  5 points are labeled on the x-axis.  In order, from left to right, these points are a, j (these are both negative values), k, m, and b (these are all positive values).  The graph has x-intercepts at a, the origin, and b.  The graph is decreasing and concave up from the beginning of the interval to some negative y-value at x = j.  This point is the absolute minimum of the graph on the interval.  From this point, the graph is increasing and concave up until the origin, at which point the graph becomes concave down, continuing to increase until it reaches some positive y-value at x = k.  This point is a relative maximum.  The graph, still above the x-axis, then decreases and is concave down, until x = m, where it becomes concave up until it reaches the intercept at x = b.  The graph is tangent to the x-axis at this point.  From this point, the graph is increasing and concave up.\" src=\"/images/7db1a72c525953f4d9a9290bcb5cfcf4.png\"></p><p>The second derivative of the function <em>f</em> is given by <em>f”</em>(<em>x</em>) = <em>x</em>(<em>x</em> -<em> a</em>)(<em>x</em> - <em>b</em>)<sup>2</sup>. The graph of <em>f”</em> is shown above. For what values of <em>x</em> does the graph of <em>f</em> have a point of inflection?</p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>0 and <em>a</em> only</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>0 and <em>m</em> only</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p><em>b</em> and j only</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p><em>0</em>, <em>a</em>, and <em>b</em></p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p><em>b</em>, <em>j</em>, and <em>k</em></p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.6",
+    "text": "5.6: Determining Concavity of Functions over Their Domains"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Identify how mathematical characteristics or properties of functions are related in different representations."
+  }
+}

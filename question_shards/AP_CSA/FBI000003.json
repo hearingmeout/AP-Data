@@ -1,0 +1,39 @@
+{
+  "id": "FBI000003",
+  "type": "mcq",
+  "title": "String mystery method - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What is returned as a result of the call&nbsp; <span class=\"dap_inline\">mystery(\"computer\")</span>?</p>",
+    "answer": "01JME3G2FWRN8WMEDJ0Z44XFEF",
+    "choices": [
+      {
+        "value": "01JME3G2FTESP7Q59VNPTR71KH",
+        "label": "<pre><code class=\"language-plaintext\">\"<span class=\"tts-container\" data-ssml-say-as=\"characters\" ssml-label=\"Characters\">computer</span>\"</code></pre>"
+      },
+      {
+        "value": "01JME3G2FVEMT4BZH8M2Q7Z459",
+        "label": "<pre><code class=\"language-plaintext\">\"<span class=\"tts-container\" data-ssml-say-as=\"characters\" ssml-label=\"Characters\">cmue</span>\"</code></pre>"
+      },
+      {
+        "value": "01JME3G2FWRN8WMEDJ0Z44XFEF",
+        "label": "<pre><code class=\"language-plaintext\">\"<span class=\"tts-container\" data-ssml-say-as=\"characters\" ssml-label=\"Characters\">optr</span>\"</code></pre>"
+      },
+      {
+        "value": "01JME3G2FWDFMBM01S1DQQSVT0",
+        "label": "<pre><code class=\"language-plaintext\">\"<span class=\"tts-container\" data-ssml-say-as=\"characters\" ssml-label=\"Characters\">ompute</span>\"</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.10",
+    "text": "2.10: Implementing String Algorithms"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

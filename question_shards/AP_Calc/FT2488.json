@@ -1,0 +1,43 @@
+{
+  "id": "FT2488",
+  "type": "mcq",
+  "title": "Interpretation of a derivative at a specific time",
+  "content": {
+    "prompt": "For <em>t</em> ≥ 0 hours, <em>H</em> is a differentiable function of <em>t</em> that gives the temperature, in degrees Celsius, at an Arctic weather station. Which of the following is the best interpretation of <span aria-label=\"cap h prime times 24\"><math> <mrow> <msup> <mi>H</mi> <mo>′</mo> </msup> <mrow> <mo>(</mo> <mrow> <mn>24</mn> </mrow> <mo>)</mo> </mrow> </mrow> </math></span> ?",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The change in temperature during the first day</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The change in temperature during the 24th hour</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The average rate at which the temperature changed during the 24th hour</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The rate at which the temperature is changing during the first day</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>The rate at which the temperature is changing at the end of the 24th hour</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Contextual Applications of Differentiation"
+  },
+  "topic": {
+    "code": "4.1",
+    "text": "4.1: Interpreting the Meaning of the Derivative in Context"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

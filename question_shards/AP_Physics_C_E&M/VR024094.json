@@ -1,0 +1,43 @@
+{
+  "id": "VR024094",
+  "type": "mcq",
+  "title": "Electric field at conducting surface",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR024049.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">Which of the following is true about the magnitude of the electric field just outside the surface of the conductor at points <span class=\"math_expression\"><span aria-label=\"X\"><math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>X</mtext></mrow></mstyle></math></span></span> and <span class=\"math_expression\"><span aria-label=\"Y\"><math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>Y</mtext></mrow></mstyle></math></span></span>?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">It is greater at point <span class=\"math_expression\"><span aria-label=\"X\"><math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>X</mtext></mrow></mstyle></math></span></span> than at point <span class=\"math_expression\"><span aria-label=\"Y\"><math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>Y</mtext></mrow></mstyle></math></span></span>.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">It is greater at point <span class=\"math_expression\"><span aria-label=\"Y\"><math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>Y</mtext></mrow></mstyle></math></span></span> than at point <span class=\"math_expression\"><span aria-label=\"X\"><math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>X</mtext></mrow></mstyle></math></span></span>.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">It is zero at both points <span class=\"math_expression\"><span aria-label=\"X\"><math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>X</mtext></mrow></mstyle></math></span></span> and <span class=\"math_expression\"><span aria-label=\"Y\"><math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>Y</mtext></mrow></mstyle></math></span></span>.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">It has the same nonzero value at both points <span class=\"math_expression\"><span aria-label=\"X\"><math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>X</mtext></mrow></mstyle></math></span></span> and <span class=\"math_expression\"><span aria-label=\"Y\"><math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>Y</mtext></mrow></mstyle></math></span></span>.</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">There is not enough information to determine at which point, if either, the magnitude of the electric field is greater.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Conductors and Capacitors"
+  },
+  "topic": {
+    "code": "10.1",
+    "text": "10.1: Electrostatics with Conductors"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

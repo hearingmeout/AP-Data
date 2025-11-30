@@ -1,0 +1,43 @@
+{
+  "id": "VH934621",
+  "type": "mcq",
+  "title": "Estimators X and Y",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"passage\">\n<div class=\"prose style:1\">\n<p class=\"passage_para\">The following graphs show the sampling distributions for two different point estimators, <span class=\"math_expression\"><span aria-label=\"X\"><math alttext=\"X\" overflow=\"scroll\"><mstyle><mrow><mi>X</mi></mrow></mstyle></math></span></span> and <span class=\"math_expression\"><span aria-label=\"Y\"><math alttext=\"Y\" overflow=\"scroll\"><mstyle><mrow><mi>Y</mi></mrow></mstyle></math></span></span>, of the same population parameter.</p>\n</div>\n</div>\n\n<div class=\"standalone_image\"><img alt=\"The figure presents two bar graphs, labeled Point Estimator X and Point Estimator Y, with no values indicated along the horizontal axes. The bar graph, Point Estimator X, contains 7 equally spaced bars of data as follows. The first, fourth, and seventh bars are tall and are equal in height, with the fourth bar labeled, Population Parameter. The second, third, fifth, and sixth bars are short and are equal in height. The bar graph, Point Estimator Y, contains 7 equally spaced bars of data as follows. The first, fourth, and seventh bars are short and are equal in height, with the fourth bar labeled, Population Parameter. The second, third, fifth, and sixth bars are tall and are equal in height.\" height=\"228\" src=\"/images/131d86afa3d63007242fe5ff8cf94ad9.png\" width=\"600\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">Which of the following statements is true?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Both <span class=\"math_expression\"><span aria-label=\"X\"><math alttext=\"X\" overflow=\"scroll\"><mstyle><mrow><mi>X</mi></mrow></mstyle></math></span></span> and <span class=\"math_expression\"><span aria-label=\"Y\"><math alttext=\"Y\" overflow=\"scroll\"><mstyle><mrow><mi>Y</mi></mrow></mstyle></math></span></span> are unbiased.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Both <span class=\"math_expression\"><span aria-label=\"X\"><math alttext=\"X\" overflow=\"scroll\"><mstyle><mrow><mi>X</mi></mrow></mstyle></math></span></span> and <span class=\"math_expression\"><span aria-label=\"Y\"><math alttext=\"Y\" overflow=\"scroll\"><mstyle><mrow><mi>Y</mi></mrow></mstyle></math></span></span> are biased.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"X \"><math alttext=\"X \" overflow=\"scroll\"><mstyle><mrow><mi>X</mi></mrow></mstyle></math></span></span> is biased, and <span class=\"math_expression\"><span aria-label=\"Y\"><math alttext=\"Y\" overflow=\"scroll\"><mstyle><mrow><mi>Y</mi></mrow></mstyle></math></span></span> is unbiased.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"X\"><math alttext=\"X\" overflow=\"scroll\"><mstyle><mrow><mi>X</mi></mrow></mstyle></math></span></span> is unbiased, and <span class=\"math_expression\"><span aria-label=\"Y\"><math alttext=\"Y\" overflow=\"scroll\"><mstyle><mrow><mi>Y</mi></mrow></mstyle></math></span></span> is biased.</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The assessment of bias is not possible, because the sampling distributions display too much variability.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Sampling Distributions"
+  },
+  "topic": {
+    "code": "5.4",
+    "text": "5.4: Biased and Unbiased Point Estimates"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

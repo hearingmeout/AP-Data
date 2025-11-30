@@ -1,0 +1,43 @@
+{
+  "id": "FT546014",
+  "type": "mcq",
+  "title": "Inference procedure for fit of service requests",
+  "content": {
+    "prompt": "<p>A town manager is interested in comparing requests for various town-provided services (such as street maintenance and garbage pickup) with nationally published proportions of requests for the same services. Each request in a random sample of 500 service requests from the town was classified into one of 10 different categories. Which of the following tests could be used to determine whether the proportions of service requests classified into the 10 service categories for the town differ from national proportions?</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>A two-sample <em>t</em>-test for a difference of means</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>A matched-pairs <em>t</em>-test for means</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p> A chi-square test of association</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>A chi-square goodness-of-fit test</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>A <em>t</em>-test for a correlation of proportions</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Inference for Categorical Data-Chi-Square"
+  },
+  "topic": {
+    "code": "8.2",
+    "text": "8.2: Setting up a Chi-Square Goodness of Fit Test"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Identify an appropriate inference method for significance tests."
+  }
+}

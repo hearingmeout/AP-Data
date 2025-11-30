@@ -1,0 +1,39 @@
+{
+  "id": "VR813118",
+  "type": "mcq",
+  "title": "LC circuit - energy comparison",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">A capacitor is charged using a battery until the energy stored in the electric field between the plates is equal to <span class=\"math_expression\"><span aria-label=\"U\"><math alttext=\"U\" display=\"inline\" overflow=\"scroll\"><mi>U</mi></math></span></span>. The capacitor is removed from the battery and then connected to an inductor. The time it takes for the capacitor to discharge and fully recharge with the same initial polarity is <span class=\"math_expression\"><span aria-label=\"T\"><math alttext=\"T\" display=\"inline\" overflow=\"scroll\"><mi>T</mi></math></span></span>. At what time will the energy stored in the magnetic field of the inductor be equal to <span class=\"math_expression\"><span aria-label=\"U\"><math alttext=\"U\" display=\"inline\" overflow=\"scroll\"><mi>U</mi></math></span></span>?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"T over 4\"><math alttext=\"T over 4\" display=\"inline\" overflow=\"scroll\"><mfrac><mi>T</mi><mn>4</mn></mfrac></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"T over 2\"><math alttext=\"T over 2\" display=\"inline\" overflow=\"scroll\"><mfrac><mi>T</mi><mn>2</mn></mfrac></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"T\"><math alttext=\"T\" display=\"inline\" overflow=\"scroll\"><mi>T</mi></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The energy will never be equal to <span class=\"math_expression\"><span aria-label=\"U\"><math alttext=\"U\" display=\"inline\" overflow=\"scroll\"><mi>U</mi></math></span></span>.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.6",
+    "text": "13.6: Circuits with Capacitors and Inductors (LC Circuits)"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

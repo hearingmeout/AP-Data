@@ -1,0 +1,43 @@
+{
+  "id": "FT3375",
+  "type": "mcq",
+  "title": "Equivalent resistance of resistor configuration",
+  "content": {
+    "prompt": "<p>The following diagram shows part of a closed electrical circuit.</p><p><img alt=\"The figure shows part of an electrical circuit between points X on the left and Y on the right. Starting at point X and moving to the right, there is a junction and the circuit splits into two branches. From left to right, the top branch of the circuit has a 1 ohm resistor and then a 3 ohm resistor. The bottom branch of the circuit has a 2 ohm resistor. The two branches then recombine and then the circuit reaches pointY.\" src=\"/images/2e18b999fe1a4914fef6580b6616412d.png\"></p><p>The electrical resistance of the part of the circuit shown between point <em>X </em>and point <em>Y</em> is</p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "label": "<span aria-label=\"1 and 1 third cap omega\"><math> <semantics> <mrow> <mn>1</mn><mfrac> <mn>1</mn> <mn>3</mn> </mfrac> <mtext>Ω</mtext></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaaIXaWaaSaaa8aabaWdbiaaigdaa8aabaWdbiaaiodaaaGaaeyQ daaa@39C6@ </annotation> </semantics> </math></span>",
+        "value": "i0"
+      },
+      {
+        "value": "i1",
+        "label": "<p>2Ω</p>"
+      },
+      {
+        "label": "<span aria-label=\"2 and 3 fourths cap omega\"><math> <semantics> <mrow> <mn>2</mn><mfrac> <mn>3</mn> <mn>4</mn> </mfrac> <mtext>Ω</mtext></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaaIYaWaaSaaa8aabaWdbiaaiodaa8aabaWdbiaaisdaaaGaaeyQ daaa@39CA@ </annotation> </semantics> </math></span>",
+        "value": "i2"
+      },
+      {
+        "value": "i3",
+        "label": "<p>4Ω</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>6Ω</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.5",
+    "text": "11.5: Compound Direct Current (DC) Circuits"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Calculate or estimate an unknown quantity with units from known quantities, by selecting and following a logical computational pathway."
+  }
+}

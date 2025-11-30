@@ -1,0 +1,39 @@
+{
+  "id": "VR865039",
+  "type": "mcq",
+  "title": "Power - relation between work and power",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">At time <span class=\"math_expression\"><span aria-label=\"t sub 1\" role=\"math\"><math alttext=\"t sub 1\" overflow=\"scroll\"> <msub> <mi>t</mi> <mn>1</mn> </msub> </math></span></span>, how much work has the motor done on the block?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator A t sub 1, and denominator t sub 1, end sub, plus B, end fraction\"><math alttext=\"the fraction with numerator A t sub 1, and denominator t sub 1, end sub, plus B, end fraction\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><mi>A</mi><msub><mi>t</mi><mn>1</mn></msub></mrow><mrow><msub><mi>t</mi><mn>1</mn></msub><mo>+</mo><mi>B</mi></mrow></mfrac></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator A, and denominator, open parenthesis, t sub 1, end sub, plus B, close parenthesis, squared, end fraction\"><math alttext=\"the fraction with numerator A, and denominator, open parenthesis, t sub 1, end sub, plus B, close parenthesis, squared, end fraction\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mi>A</mi><msup><mrow><mo>(</mo><msub><mi>t</mi><mn>1</mn></msub><mo>+</mo><mi>B</mi><mo>)</mo></mrow><mn>2</mn></msup></mfrac></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"A times the natural log of, open parenthesis, t sub 1 plus B, close parenthesis\"><math alttext=\"A times the natural log of, open parenthesis, t sub 1 plus B, close parenthesis\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>A</mi><mi>ln</mi><mrow><mo>(</mo><msub><mi>t</mi><mn>1</mn></msub><mo>+</mo><mi>B</mi><mo>)</mo></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"A times the natural log of, open parenthesis, the fraction with numerator t sub 1, end sub, plus B, and denominator B, close parenthesis\"><math alttext=\"A times the natural log of, open parenthesis, the fraction with numerator t sub 1, end sub, plus B, and denominator B, close parenthesis\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>A</mi><mi>ln</mi><mrow><mo>(</mo><mfrac><mrow><msub><mi>t</mi><mn>1</mn></msub><mo>+</mo><mi>B</mi></mrow><mi>B</mi></mfrac><mo>)</mo></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Work, Energy, and Power"
+  },
+  "topic": {
+    "code": "3.5",
+    "text": "3.5: Power"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

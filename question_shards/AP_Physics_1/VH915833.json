@@ -1,0 +1,39 @@
+{
+  "id": "VH915833",
+  "type": "mcq",
+  "title": "Move the satellite",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VH915625.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">The gravitational field strength at a distance R from the center of moon is <span class=\"math_expression\"><span aria-label=\"lowercase g sub R\"><math alttext=\"lowercase g sub R\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>g</mi></mrow><mrow><mi>R</mi></mrow></msub></mrow></mstyle></math></span></span>. The satellite is moved to a new circular orbit that is <span class=\"math_expression\"><span aria-label=\"2 R\"><math alttext=\"2 R\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn><mi>R</mi></mrow></mstyle></math></span></span> from the center of the moon. What is the gravitational field strength of the moon at this new distance?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction lowercase g sub R over 4\"><math alttext=\"the fraction lowercase g sub R over 4\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><msub><mrow><mi>g</mi></mrow><mrow><mi>R</mi></mrow></msub></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction lowercase g sub R over 2\"><math alttext=\"the fraction lowercase g sub R over 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><msub><mrow><mi>g</mi></mrow><mrow><mi>R</mi></mrow></msub></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"2 lowercase g sub R\"><math alttext=\"2 lowercase g sub R\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn><msub><mrow><mi>g</mi></mrow><mrow><mi>R</mi></mrow></msub></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"4 lowercase g sub R\"><math alttext=\"4 lowercase g sub R\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>4</mn><msub><mrow><mi>g</mi></mrow><mrow><mi>R</mi></mrow></msub></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Force and Translational Dynamics"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Gravitational Force"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

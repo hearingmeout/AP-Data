@@ -1,0 +1,43 @@
+{
+  "id": "FT2761",
+  "type": "mcq",
+  "title": "Battery voltage with given resistor configuration",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows an electrical circuit with a battery and four resistors labeled 0.5 ohm, 1 ohm, 2 ohms, and 2 ohms. The series combination of the resistors labeled 0.5 ohm and 2 ohm is connected in series to the parallel combination of the resistors labeled 1 ohm and 2 ohms. \" src=\"/images/d1256dd50d8e78f4a704bd7200926e22.png\"></p><p>In the circuit represented above, the current in the 1 Ω resistor is 4 A. What is terminal voltage <em>V</em> of the battery?</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>6 V</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>12 V</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>18 V</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>19 V</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>30 V</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.3",
+    "text": "11.3: Resistance, Resistivity, and Ohm's Law"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Calculate or estimate an unknown quantity with units from known quantities, by selecting and following a logical computational pathway."
+  }
+}

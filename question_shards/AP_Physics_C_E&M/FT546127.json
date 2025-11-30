@@ -1,0 +1,43 @@
+{
+  "id": "FT546127",
+  "type": "mcq",
+  "title": "Voltage across capacitors as dielectric removed",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows two electrical circuits.  On the left is figure 1, with a battery labeled epsilon and two capacitors in series, labeled Y and Z.  Both capacitors have a slab inside of them. On the right is figure 2, with a battery labeled epsilon and two capacitors in series, labeled Y and Z. In figure 2, Y still has a slab, but there is an arrow near capacitor Z showing that the slab in capacitor Z has moved horizontally to the right and out of Z.\" height=\"123\" src=\"/images/80062b6564cb26aa3e8274db114b2aaf.png\" width=\"280\"></p>\n\n<p>Two identical capacitors, Y and Z, are connected in series with an ideal battery, as shown in figure 1 above, and fully charged. Each capacitor has a dielectric slab of dielectric constant 𝜅 &gt; 1 between its plates. If the dielectric slab is removed from capacitor Z, which of the following describes what happens to the voltage across each capacitor?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p><strong>Voltage across Capacitor </strong><em><strong>Y:</strong> </em>Increases<br><strong>Voltage across Capacitor </strong><em><strong>Z:</strong> </em>Decreases</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><strong>Voltage across Capacitor </strong><em><strong>Y:</strong> </em>Increases<br><strong>Voltage across Capacitor </strong><em><strong>Z: </strong></em>Increases</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p><strong>Voltage across Capacitor </strong><em><strong>Y:</strong> </em>Remains the same<br><strong>Voltage across Capacitor </strong><em><strong>Z: </strong></em>Remains the same</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p><strong>Voltage across Capacitor </strong><em><strong>Y:</strong> </em>Decreases<br><strong>Voltage across Capacitor </strong><em><strong>Z: </strong></em>Decreases</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p><strong>Voltage across Capacitor </strong><em><strong>Y:</strong> </em>Decreases<br><strong>Voltage across Capacitor </strong><em><strong>Z: </strong></em>Increases</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Conductors and Capacitors"
+  },
+  "topic": {
+    "code": "10.4",
+    "text": "10.4: Dielectrics"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

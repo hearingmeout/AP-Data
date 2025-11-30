@@ -1,0 +1,35 @@
+{
+  "id": "VR167446",
+  "type": "mcq",
+  "title": "Assign cost for utility company",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">The cost of a customer’s electricity bill is based on the number of units of electricity the customer uses.</p>\n<ul>\n<li class=\"list_paragraph\">For the first 25 units of electricity, the cost is $5 per unit.</li>\n<li class=\"list_paragraph\">For units of electricity after the first 25, the cost is $7 per unit.</li>\n</ul>\n<p class=\"stem_paragraph\">Which of the following code segments correctly sets the value of the variable <span class=\"inline_code\">cost</span> to the cost, in dollars, of using <span class=\"inline_code\">numUnits</span> units of electricity?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure presents one block of code that consists of 4 total lines. Throughout the block of code there are nested blocks of code. [Begin block] Line 1: IF [begin block] numUnits is less than or equal to 25 [end block] [begin block] Line 2: [begin block] cost ← numUnits times 5 [end block] [end block] Line 3: ELSE [begin block] Line 4: [begin block] cost ← numUnits times 7 [end block] [end block] [End block]\" height=\"180\" src=\"/images/6118dc6c6ab48b680f54aa021408731c.png\" width=\"420\"></span></p>\n",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure presents one block of code that consists of 4 total lines. Throughout the block of code there are nested blocks of code. [Begin block] Line 1: IF [begin block] numUnits is less than or equal to 25 [end block] [begin block] Line 2: [begin block] cost ← numUnits times 5 [end block] [end block] Line 3: ELSE [begin block] Line 4: [begin block] cost ← open parenthesis, numUnits minus 25, close parenthesis, times 7 [end block] [end block] [End block]\" height=\"144\" src=\"/images/94b5c25ff0f1a035e53c7db0f62babe1.png\" width=\"420\"></span></p>\n",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure presents one block of code that consists of 4 total lines. Throughout the block of code there are nested blocks of code. [Begin block] Line 1: IF [begin block] numUnits is less than or equal to 25 [end block] [Begin Block] Line 2: [begin block] cost ← numUnits times 5 [end block] [End Block] Line 3: ELSE [Begin Block] Line 4: [begin block] cost ← 25 times 5 plus, open parenthesis, numUnits minus 25, close parenthesis, times 7 [end block] [End Block] [End Block]\" height=\"114\" src=\"/images/290f1726e8578e3bd373fb80c51bbac0.png\" width=\"420\"></span></p>\n",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure presents one block of code that consists of 4 total lines. Throughout the block of code there are nested blocks of code. [Begin block] Line 1: IF [begin block] numUnits is less than or equal to 25 [end block] [Begin Block] Line 2: [begin block] cost ← numUnits times 5 [end block] [End Block] Line 3: ELSE [Begin Block] Line 4: [begin block] cost ← 25 times 7 plus, open parenthesis, numUnits minus 25, close parenthesis, times 5 [end block] [End Block] [End Block]\" height=\"115\" src=\"/images/6e57262a911bad8f98aece769dfa8af8.png\" width=\"420\"></span></p>\n",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.6",
+    "text": "3.6: Conditionals"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

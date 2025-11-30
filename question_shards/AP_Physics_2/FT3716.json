@@ -1,0 +1,43 @@
+{
+  "id": "FT3716",
+  "type": "mcq",
+  "title": "Change internal energy of gas using PV diagram",
+  "content": {
+    "prompt": "<p>What is the change in internal energy of the gas for the process <em>bc</em> ?</p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>-1500 J</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>-500 J</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>0 J</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>+500 J</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>+1500 J</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Thermodynamics"
+  },
+  "topic": {
+    "code": "9.2",
+    "text": "9.2: The Ideal Gas Law"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Calculate or estimate an unknown quantity with units from known quantities, by selecting and following a logical computational pathway."
+  }
+}

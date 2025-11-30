@@ -1,0 +1,35 @@
+{
+  "id": "FT535735",
+  "type": "mcq",
+  "title": "Circuit with two logic gates",
+  "content": {
+    "prompt": "<p>The diagram below shows a circuit composed of two logic gates labeled  <em>OR</em>  and  <em>AND</em>. Each gate takes two inputs and produces a single output.</p><p><img alt=\"A circuit diagram is shown. At the top are two circles next to each other. The left circle reads A and the right circle reads B. There are arrows pointing down from both circles to the top of a box that reads OR. An arrow points from the bottom of the box reading OR to the top of a box reading AND. Another circle is below the box reading OR. The circle reads C and there is an arrow pointing down from this circle to the top of the box reading AND. An arrow points down from the bottom of the box reading AND to the word output.\" src=\"/images/34cca2a9096e5c328481959b7d42e771.png\"></p><p>If the inputs <em>A</em> and <em>C</em> are both <em>true</em>, which of the following best describes the output of the <em>AND</em> gate? </p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The output will be <em>true</em> no matter what the value of input<em> B</em> is.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The output will be<em> false</em> no matter what the value of input <em>B</em> is.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The output will be <em>true</em> if input <em>B</em> is<em> true</em>; otherwise it will be <em>false</em>.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The output will be <em>false</em> if input <em>B</em> is true; otherwise it will be <em>true</em>.</p>"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.5",
+    "text": "3.5: Boolean Expressions"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "VH907285",
+  "type": "mcq",
+  "title": "concat 0s and 8s",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Consider the following code segment.</p><div class=\"standalone_code style:1\"><p class=\"code_line\">String str = \"0\";</p><p class=\"code_line\">str += str + 0 + 8;</p><p class=\"code_line\">System.out.println(str);</p></div><p class=\"stem_paragraph\">What is printed as a result of executing the code segment?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">08</p></div>",
+        "value": "i2"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">008</p></div>",
+        "value": "i3"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">0008</p></div>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Nothing is printed, because numerical values cannot be added to a <span class=\"inline_code\">String</span> object.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "FT535869",
+  "type": "mcq",
+  "title": "Christmas article - chosen topic of article",
+  "content": {
+    "prompt": "<p>¿Qué tema escogió el periodista?</p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Su plato favorito</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Unos pensamientos navideños</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Un dulce típico</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Una novedad sensacional</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Influences of Beauty and Art"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Make cultural connections."
+  }
+}

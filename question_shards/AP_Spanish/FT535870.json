@@ -1,0 +1,35 @@
+{
+  "id": "FT535870",
+  "type": "mcq",
+  "title": "Christmas article - director's statement",
+  "content": {
+    "prompt": "<p>¿Qué le dijo el director al periodista?</p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Que él lo protegería</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Que no le gustaba el trabajo</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Que le comprara una golosina</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Que sentía un gran optimismo</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Influences of Beauty and Art"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

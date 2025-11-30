@@ -1,0 +1,43 @@
+{
+  "id": "FT1424",
+  "type": "mcq",
+  "title": "Tangent line approximation of a function",
+  "content": {
+    "prompt": "The function <em>f</em> is twice differentiable with <em>f</em>(2) = 1 ,<em>f′</em>(2) = 4 , and <em>f</em>″(2) = 3 . What is the value of the approximation of <em>f</em>(1.9)&nbsp;using the line tangent to the graph of <em>f</em> at <em>x&nbsp;</em>= 2 ?",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>0.4</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>0.6</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>0.7</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>1.3</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>1.4</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Contextual Applications of Differentiation"
+  },
+  "topic": {
+    "code": "4.6",
+    "text": "4.6: Approximating Values of a Function Using Local Linearity and Linearization"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Explain how an approximated value relates to the actual value."
+  }
+}

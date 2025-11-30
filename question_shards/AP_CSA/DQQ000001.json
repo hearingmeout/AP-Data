@@ -1,0 +1,39 @@
+{
+  "id": "DQQ000001",
+  "type": "mcq",
+  "title": "volume of a cylinder - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following <strong>cannot</strong> be used to replace <span class=\"dap_inline\">/* missing code */</span> so that the code segment works as intended?</p>",
+    "answer": "1726103333038.3435",
+    "choices": [
+      {
+        "value": "1726103333038.3435",
+        "label": "<pre><code class=\"language-plaintext\">double baseArea; \ndouble volume;\npi * r * r = baseArea;\nbaseArea * h = volume;</code></pre>"
+      },
+      {
+        "value": "1726103333038.054",
+        "label": "<pre><code class=\"language-plaintext\">double baseArea = pi * r * r; \ndouble volume = baseArea * h;</code></pre>"
+      },
+      {
+        "value": "1726103333038.9956",
+        "label": "<pre><code class=\"language-plaintext\">double volume = pi * r * r&nbsp;; \nvolume = volume * h;</code></pre>"
+      },
+      {
+        "value": "17261035846024.822",
+        "label": "<pre><code class=\"language-plaintext\">double volume = pi * r * r * h;</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Assignment Statements and Input"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

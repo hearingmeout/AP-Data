@@ -1,0 +1,39 @@
+{
+  "id": "FT562123",
+  "type": "mcq",
+  "title": "Motion of object from velocity time graph",
+  "content": {
+    "prompt": "<p><img alt=\"A line graph plots time in seconds on the horizontal axis, which ranges from 0 to 36, in increments of 2. Velocity, in meter per second, is plotted on the vertical axis, which ranges from negative 5 to 10, in increments of 5. The graph plots a line that passes through the following points. (0, 0), (4, 10), (10, 10), (14, 0), (16, negative 5), (34, negative 5), and (36, 0).\" height=\"194\" src=\"/images/8cf571994ccc63a50d9558c22af00046.png\" width=\"350\"></p>\n\n<p>An object’s velocity <em>v</em> as a function of time t is given in the graph above. Which of the following statements is true about the motion of the object?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "The object is not moving from <em>t </em>= 4 s to <em>t</em> = 10 s.",
+        "value": "i0"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The object’s initial and final positions are the same.</p>"
+      },
+      {
+        "label": "The object is slowing down from <em>t </em>= 14 s to <em>t</em> = 16 s.",
+        "value": "i2"
+      },
+      {
+        "label": "The average acceleration of the object from <em>t</em> = 0 s to <em>t</em> = 4 s is different from the acceleration from<em> t</em> = 34 s to<em> t</em> = 36 s.",
+        "value": "i3"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Representing Motion"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Calculate or estimate an unknown quantity with units from known quantities, by selecting and following a logical computational pathway."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "VR191377",
+  "type": "mcq",
+  "title": "Find distance traveled from v-t graph",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"standalone_image\"><img alt=\"The figure shows a graph consisting of two line segments in the first quadrant of the coordinate plane with the origin labeled O. The horizontal axis is labeled “time, in seconds,” and the numbers 2 through 12, in increments of 2, are indicated. The vertical axis is labeled “velocity, in meters per second,” and the numbers 10 through 30, in increments of 10, are indicated. The first line segment begins at the origin and slants upward and to the right until it ends at the point representing 4 seconds and 20 meters per second. The second line segment begins where the first segment ends, and moves horizontally to the right until it ends at the point representing 12 seconds and 20 meters per second.\" height=\"152\" src=\"/images/ea846a4b52a90bccce9cc025847c8b54.png\" width=\"250\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">The graph above shows the speed <span class=\"math_expression\"><span aria-label=\"v\"><math alttext=\"v\" overflow=\"scroll\"><mstyle><mrow><mi>v</mi></mrow></mstyle></math></span></span> of a car on a horizontal road as a function of time <span class=\"math_expression\"><span aria-label=\"t\"><math alttext=\"t\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math></span></span> for <span class=\"math_expression\"><span aria-label=\"12\"><math alttext=\"12\" overflow=\"scroll\"><mn>12</mn></math></span></span>&nbsp;seconds. The distance traveled by the car during this time interval is most nearly</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"20 meters\"><math alttext=\"20 meters\" overflow=\"scroll\"><mstyle><mrow><mn>20</mn><mtext> m</mtext></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"120 meters\"><math alttext=\"120 meters\" overflow=\"scroll\"><mstyle><mrow><mn>120</mn><mtext> m</mtext></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"160 meters\"><math alttext=\"160 meters\" overflow=\"scroll\"><mstyle><mrow><mn>160</mn><mtext> m</mtext></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"200 meters\"><math alttext=\"200 meters\" overflow=\"scroll\"><mstyle><mrow><mn>200</mn><mtext> m</mtext></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"240 meters\"><math alttext=\"240 meters\" overflow=\"scroll\"><mstyle><mrow><mn>240</mn><mtext> m</mtext></mrow></mstyle></math></span></span></p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Representing Motion"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Calculate or estimate an unknown quantity with units from known quantities, by selecting and following a logical computational pathway."
+  }
+}

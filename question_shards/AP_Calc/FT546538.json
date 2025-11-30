@@ -1,0 +1,43 @@
+{
+  "id": "FT546538",
+  "type": "mcq",
+  "title": "Definite integral with substitution",
+  "content": {
+    "prompt": "<p>If the substitution <math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the square root of x equals sine y\">\n <semantics>\n  <mrow>\n   <msqrt>\n    <mi>x</mi>\n   </msqrt>\n   <mo>=</mo><mi>sin</mi><mi>y</mi></mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaGcaaWdaeaapeGaamiEaaWcbeaakiabg2da9iGacohacaGGPbGa\n  aiOBaiaadMhaaaa@3C33@\n  </annotation>\n </semantics>\n</math>\n is made in the integrand of <math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the integral from 0 to one half of the square root of x divided by the square root of open parentheses 1 minus x close parentheses with respect to x\">\n <semantics>\n  <mrow>\n   <mstyle displaystyle=\"true\">\n    <mrow><munderover>\n     <mo>∫</mo>\n     <mn>0</mn>\n     <mrow>\n      <mn>1</mn><mo>/</mo><mn>2</mn></mrow>\n    </munderover>\n    <mrow>\n     <mfrac>\n      <mrow>\n       <msqrt>\n        <mi>x</mi>\n       </msqrt>\n       </mrow>\n      <mrow>\n       <msqrt>\n        <mrow>\n         <mn>1</mn><mo>−</mo><mi>x</mi></mrow>\n       </msqrt>\n       </mrow>\n     </mfrac>\n     </mrow>\n   </mrow>\n   \n  </mstyle><mi>d</mi><mi>x</mi></mrow>\n <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n qadaWdXbWdaeaapeWaaSaaa8aabaWdbmaakaaapaqaa8qacaWG4baa\n leqaaaGcpaqaa8qadaGcaaWdaeaapeGaaGymaiabgkHiTiaadIhaaS\n qabaaaaaWdaeaapeGaaGimaaWdaeaapeGaaGymaiaac+cacaaIYaaa\n niabgUIiYdGccaWGKbGaamiEaaaa@4213@\n </annotation>\n</semantics>\n</math>\n, the resulting integral is</p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the integral from 0 to one half of sine squared y with respect to y\">\n <semantics>\n  <mrow>\n   <mstyle displaystyle=\"true\">\n    <mrow><munderover>\n     <mo>∫</mo>\n     <mn>0</mn>\n     <mrow>\n      <mn>1</mn><mo>/</mo><mn>2</mn></mrow>\n    </munderover>\n    <mrow>\n     <msup>\n      <mrow>\n       <mi>sin</mi></mrow>\n      <mn>2</mn>\n     </msup>\n     </mrow>\n   </mrow>\n   \n  </mstyle><mi>y</mi><mi>d</mi><mi>y</mi></mrow>\n <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n qadaWdXbWdaeaapeGaci4CaiaacMgacaGGUbWdamaaCaaaleqabaWd\n biaaikdaaaaapaqaa8qacaaIWaaapaqaa8qacaaIXaGaai4laiaaik\n daa0Gaey4kIipakiaadMhacaWGKbGaamyEaaaa@4284@\n </annotation>\n</semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"2 times the integral from 0 to one half of sine squared y divided by cosine y with respect to y\">\n <semantics>\n  <mrow>\n   <mn>2</mn><mstyle displaystyle=\"true\">\n    <mrow><munderover>\n     <mo>∫</mo>\n     <mn>0</mn>\n     <mrow>\n      <mn>1</mn><mo>/</mo><mn>2</mn></mrow>\n    </munderover>\n    <mrow>\n     <mfrac>\n      <mrow>\n       <msup>\n        <mrow>\n         <mi>sin</mi></mrow>\n        <mn>2</mn>\n       </msup>\n       <mi>y</mi></mrow>\n      <mrow>\n       <mi>cos</mi><mi>y</mi></mrow>\n     </mfrac>\n     </mrow>\n   </mrow>\n   \n  </mstyle><mi>d</mi><mi>y</mi></mrow>\n <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n qacaaIYaWaa8qCa8aabaWdbmaalaaapaqaa8qaciGGZbGaaiyAaiaa\n c6gapaWaaWbaaSqabeaapeGaaGOmaaaakiaadMhaa8aabaWdbiGaco\n gacaGGVbGaai4CaiaadMhaaaaal8aabaWdbiaaicdaa8aabaWdbiaa\n igdacaGGVaGaaGOmaaqdcqGHRiI8aOGaamizaiaadMhaaaa@4774@\n </annotation>\n</semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"2 times the integral from 0 to pi divided by 4 of sine squared y with respect to y\">\n <semantics>\n  <mrow>\n   <mn>2</mn><mstyle displaystyle=\"true\">\n    <mrow><munderover>\n     <mo>∫</mo>\n     <mn>0</mn>\n     <mrow>\n      <mi>π</mi><mo>/</mo><mn>4</mn></mrow>\n    </munderover>\n    <mrow>\n     <msup>\n      <mrow>\n       <mi>sin</mi></mrow>\n      <mn>2</mn>\n     </msup>\n     </mrow>\n   </mrow>\n   \n  </mstyle><mi>y</mi><mi>d</mi><mi>y</mi></mrow>\n <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n qacaaIYaWaa8qCa8aabaWdbiGacohacaGGPbGaaiOBa8aadaahaaWc\n beqaa8qacaaIYaaaaaWdaeaapeGaaGimaaWdaeaapeGaeqiWdaNaai\n 4laiaaisdaa0Gaey4kIipakiaadMhacaWGKbGaamyEaaaa@4444@\n </annotation>\n</semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the integral from 0 to pi divided by 4 of sine squared y with respect to y\">\n <semantics>\n  <mrow>\n   <mstyle displaystyle=\"true\">\n    <mrow><munderover>\n     <mo>∫</mo>\n     <mn>0</mn>\n     <mrow>\n      <mi>π</mi><mo>/</mo><mn>4</mn></mrow>\n    </munderover>\n    <mrow>\n     <msup>\n      <mrow>\n       <mi>sin</mi></mrow>\n      <mn>2</mn>\n     </msup>\n     </mrow>\n   </mrow>\n   \n  </mstyle><mi>y</mi><mi>d</mi><mi>y</mi></mrow>\n <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n qadaWdXbWdaeaapeGaci4CaiaacMgacaGGUbWdamaaCaaaleqabaWd\n biaaikdaaaaapaqaa8qacaaIWaaapaqaa8qacqaHapaCcaGGVaGaaG\n inaaqdcqGHRiI8aOGaamyEaiaadsgacaWG5baaaa@4388@\n </annotation>\n</semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"2 times the integral from 0 to pi divided by 6 of sine squared y with respect to y\">\n <semantics>\n  <mrow>\n   <mn>2</mn><mstyle displaystyle=\"true\">\n    <mrow><munderover>\n     <mo>∫</mo>\n     <mn>0</mn>\n     <mrow>\n      <mi>π</mi><mo>/</mo><mn>6</mn></mrow>\n    </munderover>\n    <mrow>\n     <msup>\n      <mrow>\n       <mi>sin</mi></mrow>\n      <mn>2</mn>\n     </msup>\n     </mrow>\n   </mrow>\n   \n  </mstyle><mi>y</mi><mi>d</mi><mi>y</mi></mrow>\n <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n qacaaIYaWaa8qCa8aabaWdbiGacohacaGGPbGaaiOBa8aadaahaaWc\n beqaa8qacaaIYaaaaaWdaeaapeGaaGimaaWdaeaapeGaeqiWdaNaai\n 4laiaaiAdaa0Gaey4kIipakiaadMhacaWGKbGaamyEaaaa@4446@\n </annotation>\n</semantics>\n</math>\n</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.9",
+    "text": "6.9: Integrating Using Substitution"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

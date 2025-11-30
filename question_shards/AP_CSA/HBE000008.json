@@ -1,0 +1,39 @@
+{
+  "id": "HBE000008",
+  "type": "mcq",
+  "title": "while loop - describe behavior",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following best describes the behavior of the code segment?</p>",
+    "answer": "01JEQB4VRX2W9JY3HDX77R6ZNR",
+    "choices": [
+      {
+        "value": "01JEQB4VRX2PATBSVQYT7ZQP9Q",
+        "label": "<p class=\"dap_body\">It prints&nbsp; <span class=\"dap_inline\">0</span>&nbsp; if&nbsp; <span class=\"dap_inline\">x</span>&nbsp; is even and prints&nbsp; <span class=\"dap_inline\">-1</span>&nbsp; otherwise.</p>"
+      },
+      {
+        "value": "01JEQB4VRYGPFJD9PV119GVGEE",
+        "label": "<p class=\"dap_body\">It prints&nbsp; <span class=\"dap_inline\">-1</span>&nbsp; if&nbsp; <span class=\"dap_inline\">x</span>&nbsp; is even and prints&nbsp; <span class=\"dap_inline\">0</span>&nbsp; otherwise.</p>"
+      },
+      {
+        "value": "01JEQB4VRX2W9JY3HDX77R6ZNR",
+        "label": "<p class=\"dap_body\">It prints&nbsp; <span class=\"dap_inline\">true</span>&nbsp; if&nbsp; <span class=\"dap_inline\">x</span>&nbsp; is even and prints&nbsp; <span class=\"dap_inline\">false</span>&nbsp; otherwise.</p>"
+      },
+      {
+        "value": "01JEQB4VRY9N60QT3PFMR0AMRA",
+        "label": "<p class=\"dap_body\">It prints&nbsp; <span class=\"dap_inline\">false</span>&nbsp; if&nbsp; <span class=\"dap_inline\">x</span>&nbsp; is even and prints&nbsp; <span class=\"dap_inline\">true</span>&nbsp; otherwise.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.7",
+    "text": "2.7: `while` Loops"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

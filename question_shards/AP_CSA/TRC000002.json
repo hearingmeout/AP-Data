@@ -1,0 +1,39 @@
+{
+  "id": "TRC000002",
+  "type": "mcq",
+  "title": "ArrayList Removal - Fix error",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following changes can be made so that the code segment works as intended?</p>",
+    "answer": "01JGPMC4YGN40R8MY8G258WCCD",
+    "choices": [
+      {
+        "value": "01JGPMC4YGYSB34MZPE80KEW6M",
+        "label": "<p class=\"dap_body\">In line 1, changing  <code class=\"dap_inline\">i&nbsp;&lt;&nbsp;numbers.size()</code>  to  <code class=\"dap_inline\">i&nbsp;&lt;&nbsp;numbers.size()&nbsp;-&nbsp;1</code></p>"
+      },
+      {
+        "value": "01JGPMC4YG8HBQNN2NYCFZV7XM",
+        "label": "<p class=\"dap_body\">In line 7, changing  <code class=\"dap_inline\">i--;</code>  to  <code class=\"dap_inline\">i++;</code></p>"
+      },
+      {
+        "value": "01JGPMC4YG09CS7PJK8VMH0GGY",
+        "label": "<p class=\"dap_body\">Removing line 7</p>"
+      },
+      {
+        "value": "01JGPMC4YGN40R8MY8G258WCCD",
+        "label": "<p class=\"dap_body\">Switching lines 6 and 7</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

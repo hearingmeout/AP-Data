@@ -1,0 +1,39 @@
+{
+  "id": "VH906876",
+  "type": "mcq",
+  "title": "Compare forces",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VH906871.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">If the net acceleration is downward but has a magnitude less than <span class=\"math_expression\"><span aria-label=\"g\"><math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle mathvariant=\"italic\"><mrow><mi>g</mi></mrow></mstyle></math></span></span>, then which has the larger magnitude, the force <span class=\"math_expression\"><span aria-label=\"F\"><math alttext=\"F\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>F</mi></mrow></mstyle></math></span></span> or the tension in the rope?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The tension in the rope</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Force <span class=\"math_expression\"><span aria-label=\"F\"><math alttext=\"F\" display=\"inline\" overflow=\"scroll\"><mstyle mathvariant=\"italic\"><mrow><mi>F</mi></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Neither. They have equal but nonzero magnitudes.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Neither. They have equal zero magnitudes.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Force and Translational Dynamics"
+  },
+  "topic": {
+    "code": "2.5",
+    "text": "2.5: Newton's Second Law"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

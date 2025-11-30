@@ -1,0 +1,39 @@
+{
+  "id": "BOG000003",
+  "type": "mcq",
+  "title": "swap in selection sort - determine behavior",
+  "content": {
+    "prompt": "<p class=\"dap_body\">How many times is the statement <span class=\"dap_inline\">elements[minIndex] = temp</span>; in line 17 of the method executed as a result of the call to <span class=\"dap_inline\">selectionSort</span>?</p>",
+    "answer": "1726194491395.5427",
+    "choices": [
+      {
+        "value": "1726194491395.6826",
+        "label": "<p class=\"dap_body\">2</p>"
+      },
+      {
+        "value": "1726194491395.5427",
+        "label": "<p class=\"dap_body\">3</p>"
+      },
+      {
+        "value": "1726194491395.7117",
+        "label": "<p class=\"dap_body\">4</p>"
+      },
+      {
+        "value": "17261950922584.664",
+        "label": "<p class=\"dap_body\">5</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.15",
+    "text": "4.15: Sorting Algorithms"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

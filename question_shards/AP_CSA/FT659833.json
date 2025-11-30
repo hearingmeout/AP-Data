@@ -1,0 +1,39 @@
+{
+  "id": "FT659833",
+  "type": "mcq",
+  "title": "Compute product of nonnegative numbers",
+  "content": {
+    "prompt": "<p style=\"margin-bottom: 11px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Times New Roman&quot;,&quot;serif&quot;\"></span></span></span></span>Consider the following code segment. The code is intended to read nonnegative numbers and compute their product until a negative number is read; however, it does not work as intended. (Assume that the<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Courier New&quot;\"> readInt </span></span></span></span></span></span>method correctly reads the next number from the input stream.)<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Times New Roman&quot;,&quot;serif&quot;\"></span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">int k = 0;</span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">int prod = 1;</span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\">&nbsp;</p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">while (k &gt;= 0)</span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">{</span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">&nbsp; System.out.print(\"enter a number: \");</span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">&nbsp; k = readInt(); // readInt reads the next number from input</span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">&nbsp; prod = prod * k;</span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">}</span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\">&nbsp;</p>\n<p style=\"margin-bottom: 11px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">System.out.println(\"product: \" + prod);</span></span></span></span></p>\n<p>Which of the following best describes the error in the program?</p>\n",
+    "answer": "3",
+    "choices": [
+      {
+        "label": "The variable<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Courier New&quot;\"> prod </span></span></span>is incorrectly initialized.",
+        "value": "0"
+      },
+      {
+        "label": "The while condition always evaluates to<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Courier New&quot;\"> true</span></span></span>.<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Courier New&quot;\"></span></span></span>",
+        "value": "2"
+      },
+      {
+        "label": "The negative number entered to signal no more input is included in the product.",
+        "value": "3"
+      },
+      {
+        "label": "If the user enters a zero, the computation of the product will be terminated prematurely.",
+        "value": "4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.7",
+    "text": "2.7: `while` Loops"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

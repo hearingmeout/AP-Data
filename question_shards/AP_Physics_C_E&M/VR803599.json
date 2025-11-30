@@ -1,0 +1,39 @@
+{
+  "id": "VR803599",
+  "type": "mcq",
+  "title": "Magnetic field - electron current-carrying wire",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"standalone_image\"><img alt=\"The figure shows a horizontal section of wire carrying current I to the right. Above the wire, an electron is shown moving to the right and parallel to the current.\" src=\"/images/65cf14815315005f0e08f5d90974c327.svg\"></div></div></div><p class=\"stem_paragraph\">At the moment shown, an electron is moving parallel to a current carrying wire with an initial velocity <span class=\"math_expression\"><span aria-label=\"v sub 0\"><math alttext=\"v sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>v</mi><mn>0</mn></msub></math></span></span> in the same direction as the current. Which of the following correctly describes the change, if any, to the magnitude of the electron’s acceleration <span class=\"math_expression\"><span aria-label=\"a\"><math alttext=\"a\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>a</mi></mstyle></math></span></span> as it moves in the region, and provides a correct justification?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"a\"><math alttext=\"a\" display=\"inline\" overflow=\"scroll\"><mi>a</mi></math></span></span> decreases because the electron moves parallel to the magnetic field created by the current in the wire, resulting in work done on the electron by the magnetic field.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"a\"><math alttext=\"a\" display=\"inline\" overflow=\"scroll\"><mi>a</mi></math></span></span> decreases because the electron is deflected away from the wire, resulting in a smaller force exerted on the electron by the magnetic field created by the current in the wire.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"a\"><math alttext=\"a\" display=\"inline\" overflow=\"scroll\"><mi>a</mi></math></span></span> does not change because the magnetic field created by the current in the wire can only change the direction of the velocity of a moving charged particle, but not its magnitude.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"a\"><math alttext=\"a\" display=\"inline\" overflow=\"scroll\"><mi>a</mi></math></span></span> does not change because the electric force exerted on the electron by charged particles in the wire balances the force exerted on the electron by the magnetic field created by the current in the wire.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "12",
+    "text": "12: Magnetic Fields and Electromagnetism"
+  },
+  "topic": {
+    "code": "12.3",
+    "text": "12.3: Magnetic Fields of Current-Carrying Wires and the Biot-Savart Law"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

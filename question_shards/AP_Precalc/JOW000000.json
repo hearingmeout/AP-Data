@@ -1,0 +1,39 @@
+{
+  "id": "JOW000000",
+  "type": "mcq",
+  "title": "Semi-log Plots - parallel lines",
+  "content": {
+    "prompt": "<div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <p class=\"dap_body\">In a semi-log plot, which of the following pairs of functions appear linear as parallel lines?</p> </div> </div> </div>\n",
+    "answer": "C-83932",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"f open parentheses x close parentheses equals 2 x\"><math alttext=\"f open parentheses x close parentheses equals 2 x\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>2</mn><mi>x</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;and&nbsp;<span aria-label=\"g open parentheses x close parentheses equals 2 x plus 3\"><math alttext=\"g open parentheses x close parentheses equals 2 x plus 3\"><semantics><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "A-83930"
+      },
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"f open parentheses x close parentheses equals x squared\"><math alttext=\"f open parentheses x close parentheses equals x squared\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;and&nbsp;<span aria-label=\"g open parentheses x close parentheses equals 3 x squared\"><math alttext=\"g open parentheses x close parentheses equals 3 x squared\"><semantics><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "B-83931"
+      },
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"f open parentheses x close parentheses equals 2 to the power of x\"><math alttext=\"f open parentheses x close parentheses equals 2 to the power of x\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mn>2</mn><mi>x</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;and&nbsp;<span aria-label=\"g open parentheses x close parentheses equals 3 times 2 to the power of x\"><math alttext=\"g open parentheses x close parentheses equals 3 times 2 to the power of x\"><semantics><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>3</mn><mo>·</mo><msup><mn>2</mn><mi>x</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "C-83932"
+      },
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"f open parentheses x close parentheses equals ln open parentheses 2 x close parentheses\"><math alttext=\"f open parentheses x close parentheses equals ln open parentheses 2 x close parentheses\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mi>ln</mi><mfenced><mrow><mn>2</mn><mi>x</mi></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;and&nbsp;<span aria-label=\"g open parentheses x close parentheses equals 3 ln open parentheses 2 x close parentheses\"><math alttext=\"g open parentheses x close parentheses equals 3 ln open parentheses 2 x close parentheses\"><semantics><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>3</mn><mi>ln</mi><mfenced><mrow><mn>2</mn><mi>x</mi></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "D-83933"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.15",
+    "text": "2.15: Semi-log Plots"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Construct equivalent graphical, numerical, analytical, and verbal representations of functions that are useful in a given mathematical or applied context, with and without technology."
+  }
+}

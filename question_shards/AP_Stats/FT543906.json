@@ -1,0 +1,43 @@
+{
+  "id": "FT543906",
+  "type": "mcq",
+  "title": "Hypotheses to test automobile manufacturer claim",
+  "content": {
+    "prompt": "<p>An automobile manufacturer claims that the average gas mileage of a new model is 35 miles per gallon (mpg). A consumer group is skeptical of this claim and thinks the manufacturer may be overstating the average gas mileage. If  µ represents the true average gas mileage for this new model, which of the following gives the null and alternative hypotheses that the consumer group should test?</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>H<sub>0</sub>:  µ   &lt; 35 mpg</p><p>H<sub>a</sub>:  µ   ≥ 35 mpg</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>H<sub>0</sub>: µ  ≤ 35 mpg</p><p>H<sub>a</sub>: µ &gt; 35 mpg</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>H<sub>0</sub>: µ = 35 mpg</p><p>H<sub>a</sub>: µ &gt; 35 mpg</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>H<sub>0</sub>: µ = 35 mpg</p><p>H<sub>a</sub>: µ &lt; 35 mpg</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>H<sub>0</sub>: µ = 35 mpg</p><p>H<sub>a</sub>: µ  ≠  35 mpg</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.4",
+    "text": "7.4: Setting Up a Test for a Population Mean"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Identify null and alternative hypotheses."
+  }
+}

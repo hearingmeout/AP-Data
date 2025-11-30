@@ -1,0 +1,43 @@
+{
+  "id": "FT546210",
+  "type": "mcq",
+  "title": "Conditions of t-interval for supplement experiment",
+  "content": {
+    "prompt": "<p>An experiment will be conducted to test the effectiveness of a weight-loss supplement. Volunteers will be randomly assigned to take either the supplement or a placebo for 90 days, with 12 volunteers in each group. The subjects will not know which treatment they receive. At the end of the experiment, researchers plan to calculate the mean weight loss for each of the two groups and to construct a two-sample <em>t</em>-confidence interval for the difference of the two treatment means. Which of the following assumptions is necessary for the confidence interval to be valid?</p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The sample size is greater than or equal to 10 percent of the population size.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Each of the two groups has at least 5 successes and at least 5 failures.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The distributions of weight loss of the two treatments are approximately normally distributed.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The volunteers in the supplement group are paired with volunteers in the placebo group.</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>The expected number of people who lose weight in each group is at least 5.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.6",
+    "text": "7.6: Confidence Intervals for the Difference of Two Means"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Verify that inference procedures apply in a given situation."
+  }
+}

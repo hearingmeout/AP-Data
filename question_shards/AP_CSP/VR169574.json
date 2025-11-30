@@ -1,0 +1,35 @@
+{
+  "id": "VR169574",
+  "type": "mcq",
+  "title": "Set maxPS based on time",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">In a certain video game, the variable <span class=\"inline_code\">maxPS</span> represents the maximum possible score a player can earn. The maximum possible score depends on the time it takes the player to complete the game. The value of <span class=\"inline_code\">maxPS</span> should be <span class=\"inline_code\">30</span> if <span class=\"inline_code\">time</span> is greater than <span class=\"inline_code\">120</span> and <span class=\"inline_code\">50</span> otherwise.</p><p class=\"stem_paragraph\">Which of the following code segments correctly sets the value of <span class=\"inline_code\">maxPS</span> based on the value of <span class=\"inline_code\">time</span>&nbsp;?</p><p class=\"stem_paragraph\">Select <span class=\"formatted_text text_decoration:underline\">two</span> answers.</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure presents two blocks of code that consist of 3 total lines. Line 1:&nbsp;[begin block] maxPS ← 50 [end block] [Begin block] Line 2: IF [begin block] time is greater than 120 [end block] [begin block] Line 3: [begin block] maxPS ← 30 [end block] [end block] [End block]\" height=\"105\" src=\"/images/f468889eb204f0bda7bbb0407f966b3d.png\" width=\"180\"></span></p>\n",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure presents two blocks of code that consist of 3 total lines. [Begin Block] Line 1: IF [begin block] time is greater than 120 [end block] [begin block] Line 2: [begin block] maxPS ← 30 [end block] [end block] [End Block] Line 3: [begin block] maxPS ← 50 [end block]\" height=\"105\" src=\"/images/83a5e12b8bfa8f7fe241b8ef8bacdbd4.png\" width=\"180\"></span></p>\n",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure presents one block of code that consists of 4 total lines. [Begin Block] Line 1: IF [begin block] time is greater than 120 [end block] [begin block] Line 2: [begin block] maxPS ← 50 [end block] [end block] Line 3: ELSE [begin block] Line 4: [begin block] maxPS ← 30 [end block] [end block] [End block]\" height=\"134\" src=\"/images/17250f646a15adab39a5db6831e214f0.png\" width=\"180\"></span></p>\n",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure presents one block of code that consists of 4 total lines. [Begin Block] Line 1: IF [begin block] time is greater than 120 [end block] [begin block] Line 2:&nbsp;[begin block] maxPS ← 30 [end block] [end block] Line 3: ELSE [begin block] Line 4: [begin block] maxPS ← 50 [end block] [end block] [End block]\" height=\"135\" src=\"/images/4c1c63a2ced917af098507b0ed5e076d.png\" width=\"180\"></span></p>\n",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.6",
+    "text": "3.6: Conditionals"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

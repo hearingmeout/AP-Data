@@ -1,0 +1,35 @@
+{
+  "id": "VR166948",
+  "type": "mcq",
+  "title": "Music instrument lists after assignments",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Consider the following code segment.</p><div class=\"standalone_code style:1\"><p class=\"code_line indent:0\">firstList <span class=\"math_expression\"><span aria-label=\"← \"><math alttext=\"← \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> [\"guitar\", \"drums\", \"bass\"]</p><p class=\"code_line indent:0\">secondList <span class=\"math_expression\"><span aria-label=\"← \"><math alttext=\"← \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> [\"flute\", \"violin\"]</p><p class=\"code_line indent:0\">thirdList <span class=\"math_expression\"><span aria-label=\"← \"><math alttext=\"← \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> []</p><p class=\"code_line indent:0\">thirdList <span class=\"math_expression\"><span aria-label=\"← \"><math alttext=\"← \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> firstList</p><p class=\"code_line indent:0\">firstList <span class=\"math_expression\"><span aria-label=\"← \"><math alttext=\"← \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> secondList</p><p class=\"code_line indent:0\">secondList <span class=\"math_expression\"><span aria-label=\"← \"><math alttext=\"← \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> thirdList</p></div><p class=\"stem_paragraph\">What are the contents of <span class=\"inline_code\">secondList</span> after the code segment is executed?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">[]</span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">[\"guitar\", \"drums\", \"bass\"]</span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">[\"flute\", \"violin\"]</span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">[\"flute\", \"violin\", \"guitar\", \"drums\", \"bass\"]</span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.2",
+    "text": "3.2: Data Abstraction"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Use abstraction to manage complexity in a program."
+  }
+}

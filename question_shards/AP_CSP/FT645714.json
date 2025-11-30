@@ -1,0 +1,35 @@
+{
+  "id": "FT645714",
+  "type": "mcq",
+  "title": "Text-editing application  with binary sequences",
+  "content": {
+    "prompt": "A text-editing application uses binary sequences to represent each of 200 different characters. What is the minimum number of bits needed to assign a unique bit sequence to each of the possible characters?",
+    "answer": "3",
+    "choices": [
+      {
+        "label": "4",
+        "value": "0"
+      },
+      {
+        "label": "6",
+        "value": "1"
+      },
+      {
+        "label": "7",
+        "value": "2"
+      },
+      {
+        "label": "8",
+        "value": "3"
+      }
+    ]
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Binary Numbers"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Explain how abstraction manages complexity."
+  }
+}

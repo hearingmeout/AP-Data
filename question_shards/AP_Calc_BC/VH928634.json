@@ -1,0 +1,39 @@
+{
+  "id": "VH928634",
+  "type": "mcq",
+  "title": "Processes - Parametric Eq - Second Deriv",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">A curve is defined by the parametric equations <span class=\"math_expression\"><span aria-label=\"x of t, equals, cosine t\"><math alttext=\"x of t, equals, cosine t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mi>cos</mi><mo>⁡</mo><mi>t</mi></mrow></mstyle></math></span></span> and <span class=\"math_expression\"><span aria-label=\"y of t, equals, sine t\"><math alttext=\"y of t, equals, sine t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>(</mo><mi>t</mi><mo>)</mo><mo>=</mo><mi>sin</mi><mo>⁡</mo><mi>t</mi></mrow></mstyle></math></span></span>. What is <span class=\"math_expression\"><span aria-label=\"the second derivative of y, with respect to x\"><math alttext=\"the second derivative of y, with respect to x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><msup><mrow><mi>d</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>y</mi></mrow><mrow><mi>d</mi><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mstyle></math></span></span> in terms of <span class=\"math_expression\"><span aria-label=\"t\"><math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math></span></span> ?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the negative of the fraction with numerator 1, and denominator the sine squared of t\"><math alttext=\"the negative of the fraction with numerator 1, and denominator the sine squared of t\" display=\"inline\" overflow=\"scroll\"><mrow><mrow><mo>−</mo><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>sin</mi><mo>⁡</mo></mrow><mrow><mn>2</mn></mrow></msup><mi>t</mi></mrow></mfrac></mrow></mstyle></mrow></mrow></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator 1, and denominator the sine squared of t\"><math alttext=\"the fraction with numerator 1, and denominator the sine squared of t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>sin</mi><mo>⁡</mo></mrow><mrow><mn>2</mn></mrow></msup><mi>t</mi></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the negative of the fraction with numerator 1, and denominator the sine cubed of t\"><math alttext=\"the negative of the fraction with numerator 1, and denominator the sine cubed of t\" display=\"inline\" overflow=\"scroll\"><mrow><mrow><mo>−</mo><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>sin</mi><mo>⁡</mo></mrow><mrow><mn>3</mn></mrow></msup><mi>t</mi></mrow></mfrac></mrow></mstyle></mrow></mrow></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator 1, and denominator the sine cubed of t\"><math alttext=\"the fraction with numerator 1, and denominator the sine cubed of t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>sin</mi><mo>⁡</mo></mrow><mrow><mn>3</mn></mrow></msup><mi>t</mi></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Parametric Equations, Polar Coordinates, and Vector-Valued Functions"
+  },
+  "topic": {
+    "code": "9.2",
+    "text": "9.2: (BC ONLY) Second Derivatives of Parametric Equations"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

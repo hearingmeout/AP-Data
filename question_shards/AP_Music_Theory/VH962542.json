@@ -1,0 +1,39 @@
+{
+  "id": "VH962542",
+  "type": "mcq",
+  "title": "Analyze opening chords",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VH962515.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include>\n<div class=\"stimulus_reference\">\n<div class=\"standalone_image\"><img alt=\"The figure presents two measures of music in treble clef. The key signature has three flats and the time signature is 4/4.\" height=\"117\" src=\"/images/4a0807dfa0295fdc6bcfe91eff292d2a.png\" width=\"500\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">The opening melody, played by the violins, is notated above. The harmony for the boxed portion of the melody is best analyzed as</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"music_roman_numeral\">Ⅴ</span><span class=\"music_superscript\">7</span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"music_roman_numeral\">Ⅴ</span><span class=\"music_figured_bass\"><sup>6</sup><sub>5</sub></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"music_roman_numeral\">Ⅰ</span><span class=\"music_superscript\">7</span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"music_roman_numeral\">Ⅰ</span><span class=\"music_figured_bass\"><sup>6</sup><sub>5</sub></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Harmony and Voice Leading I - Chord Function, Cadence, and Phrase"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Harmonic Progression, Functional Harmony, and Cadences"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Use symbols and terms to describe features of pitch in performed music, including pitch patterns and relationships, melodic features, chords, harmonic progressions, and cadences."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "YOV000001",
+  "type": "mcq",
+  "title": "scores array - determine behavior",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following best describes the behavior of lines 2 and 3 in the code segment?</p>",
+    "answer": "01JGM78Q0J4XVQCHZSWP1QEBP3",
+    "choices": [
+      {
+        "value": "01JGM78Q0HH4K3N5B6Q0X2AKFA",
+        "label": "<p class=\"dap_body\">Line 2 doubles the first element in the array and line 3 adds 10 to the second element.</p>"
+      },
+      {
+        "value": "01JGM78Q0J4XVQCHZSWP1QEBP3",
+        "label": "<p class=\"dap_body\">Line 2 doubles the second element in the array and line 3 adds 10 to the third element.</p>"
+      },
+      {
+        "value": "01JGM78Q0JTT2N9228PHG7WC1G",
+        "label": "<p class=\"dap_body\">Line 2 doubles the third element in the array and line 3 adds 10 to the fourth element.</p>"
+      },
+      {
+        "value": "01JGM78Q0JC3T739DQWS27NDV0",
+        "label": "<p class=\"dap_body\">Lines 2 and 3 do not change the contents of the array.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Array Creation and Access"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "VNX000000",
+  "type": "mcq",
+  "title": "Linear Model - Residual Plot",
+  "content": {
+    "prompt": "<div><div class=\"long_descriptions_container\"></div></div><div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <div class=\"standalone_image qti-align-center\"><img alt=\"Residual plot. The horizontal axis is labeled Time and begins at 0 without a scale on the axis. The vertical axis is labeled Residuals and ranges from negative 20 to 20  in increments of 20. Refer to long description.\" aria-describedby=\"LDC-VNX000000_01\" src=\"/images/dbacc695639dc23896b31589b55860a1.svg\"><div aria-label=\"Long description for residual plot\" class=\"sr-only qti-visually-hidden\" id=\"LDC-VNX000000_01\" role=\"region\"><ul>\n<li>The residual plot has 12 data points in approximately an upside-down U formation.&nbsp;</li>\n<li>The first 6 data points are gradually moving up and to the right.&nbsp;</li>\n<li>The last 6 data points are gradually moving down and to the right.&nbsp;</li>\n<li>4 of the data points are below the horizontal axis.&nbsp;</li>\n<li>2 of the data points touch the horizontal axis.&nbsp;</li>\n<li>6 of the data points are above the horizontal axis.&nbsp;</li>\n<li>Moving from left to right:&nbsp;<ul>\n<li>The first data point is farthest to the left and starts near negative 20 on the vertical axis.&nbsp;</li>\n<li>The second data point is below the horizontal axis and moves up and to the right.&nbsp;</li>\n<li>The third data point touches the horizontal axis and moves up and to the right.&nbsp;</li>\n<li>The fourth, fifth, and sixth data points are above the horizontal axis as they continue to move gradually up and to the right.&nbsp;</li>\n<li>The sixth and seventh data points are farthest from the horizontal axis, and both approximately align with a value of 10 on the vertical axis.&nbsp;</li>\n<li>The seventh, eighth, and ninth data points are above the horizontal axis as they continue to move gradually down and to the right.&nbsp;</li>\n<li>The tenth data point touches the horizontal axis and moves down and to the right.&nbsp;</li>\n<li>The eleventh data point is below the horizontal axis and moves down and to the right.&nbsp;</li>\n<li>The twelfth data point is farthest to the right and aligns with negative 20 on the vertical axis.</li>\n</ul>\n</li>\n</ul></div></div><p class=\"dap_body\">​A food vendor developed a new sandwich type for sale. The vendor made estimates about the sales of the new sandwich type over time. A linear regression was used to develop a model for the sales over time. The figure shows a graph of the residuals of the linear regression. Which of the following statements about the linear regression is true?</p> </div> </div> </div>\n",
+    "answer": "A-42225",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\">​The linear model is not appropriate, because there is a clear pattern in the graph of the residuals.</p>",
+        "value": "A-42225"
+      },
+      {
+        "label": "<p class=\"dap_body\">​The linear model is not appropriate, because the graph of the residuals has more points above&nbsp;<span aria-label=\"0\"><math alttext=\"0\"><semantics><mn>0</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;than below&nbsp;<span aria-label=\"0\"><math alttext=\"0\"><semantics><mn>0</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>.</p>",
+        "value": "B-42226"
+      },
+      {
+        "label": "<p class=\"dap_body\">​The linear model is appropriate, because there is a clear pattern in the graph of the residuals.</p>",
+        "value": "C-42227"
+      },
+      {
+        "label": "<p class=\"dap_body\">​The linear model is appropriate, because the positive residual farthest from&nbsp;<span aria-label=\"0\"><math alttext=\"0\"><semantics><mn>0</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;and the negative residual farthest from&nbsp;<span aria-label=\"0\"><math alttext=\"0\"><semantics><mn>0</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;are about the same distance, although more points are above&nbsp;<span aria-label=\"0\"><math alttext=\"0\"><semantics><mn>0</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;than below&nbsp;<span aria-label=\"0\"><math alttext=\"0\"><semantics><mn>0</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>.</p>",
+        "value": "D-42228"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Competing Function Model Validation"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Support conclusions or choices with a logical rationale or appropriate data."
+  }
+}

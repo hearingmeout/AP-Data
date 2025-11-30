@@ -1,0 +1,39 @@
+{
+  "id": "FT538065",
+  "type": "mcq",
+  "title": "shuffle 1D array of ints",
+  "content": {
+    "prompt": "<p>Consider a shuffle method that is intended to return a new array that contains all the elements from nums, but in a different order. Let n be the number of elements in nums. The shuffle method should alternate the elements from nums [0] … nums[n / 2 – 1] with the elements from nums[n / 2] …nums[n – 1], as illustrated in the following examples.</p>\n<p><img alt=\"Two examples are shown. Each has two arrays, one labeled nums and the other labeled result. In Example 1, each array has 8 entries in boxes in a horizontal row with the numbers 0 through 7 written above the entries from left to right. The values in the array labeled nums are 10, 20, 30, 40, 50, 60, 70, and 80. The last four boxes are shaded grey. The values in the array labeled result are 10, 50, 20, 60, 30, 70, 40, and 80. The second, fourth, sixth, and eighth boxes are shaded grey. \n\nIn Example 2, each array has 7 entries in boxes in a horizontal row with the numbers 0 through 6 written above the entries from left to right. The values in the array labeled nums are 10, 20, 30, 40, 50, 60, and 70. The last four boxes are shaded grey. The values in the array labeled result are 10, 40, 20, 50, 30, 60, and 70. The second, fourth, sixth, and seventh boxes are shaded grey. \" height=\"280\" src=\"/images/1902e85227f5d8f51eb8c6c2b4978449.jpg\" width=\"544\"></p>\n<p>The following implementation of the shuffle method does not work as intended.</p>\n<p>&nbsp;</p>\n<img alt=\"A 13-line code segment reads as follows. Line 1: public static int, open square bracket, close square bracket, shuffle, open parenthesis, int, open square bracket, close square bracket, nums, close parenthesis. Line 2: open brace. Line 3: int n equals nums, dot, length, semicolon. Line 4: int, open square bracket, close square bracket, result equals new int, open square bracket, n, close square bracket, semicolon. Line 5: blank. Line 6: for, open parenthesis, int j equals 0, semicolon, j less than n, division slash, 2, semicolon, j, plus, plus, close parenthesis. Line 7: open brace. Line 8: result, open square bracket, j, multiplication asterisk, 2, close square bracket, equals nums, open square bracket, j, close square bracket, semicolon. Line 9: result, open square bracket, j, multiplication asterisk, 2, plus, 1, close square bracket, equals nums, open square bracket, j, plus, n, division slash, 2, close square bracket, semicolon. Line 10: close brace. Line 11: blank. Line 12: return result, semicolon. Line 13: close brace.\" height=\"285\" src=\"/images/67eac6c9533e88cd6e96fcc24f2836d7.jpg\" width=\"415\">\n<p>Which of the following best describes the problem with the given implementation of the shuffle method?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Executing shuffle may cause an ArrayIndexOutOfBoundsException. </p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The last element of the returned array (result [result.length − 1] ) may not have the correct value.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>One or more of nums [0] … nums [nums.length / 2 − 1] may have been copied to the wrong position(s) in the returned array. </p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>One or more of nums [nums.length / 2] … nums[nums.length − 1] may have been copied to the wrong position(s) in the returned array. </p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implementing Array Algorithms"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

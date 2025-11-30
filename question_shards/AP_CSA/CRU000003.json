@@ -1,0 +1,39 @@
+{
+  "id": "CRU000003",
+  "type": "mcq",
+  "title": "Multiway and two-way selection - compare segments",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following correctly compares the outputs of the two code segments?</p>",
+    "answer": "1726080616336.9106",
+    "choices": [
+      {
+        "value": "1726080616336.9106",
+        "label": "<p class=\"dap_body\">Code segment I and code segment II produce the same output for all values of <span class=\"dap_inline\">x</span> and <span class=\"dap_inline\">y</span>.</p>"
+      },
+      {
+        "value": "1726080616336.188",
+        "label": "<p class=\"dap_body\">Code segment I and code segment II produce the same output only when <span class=\"dap_inline\">x</span> is equal to <span class=\"dap_inline\">y</span>.</p>"
+      },
+      {
+        "value": "1726080616336.1113",
+        "label": "<p class=\"dap_body\">Code segment I and code segment II produce the same output only when <span class=\"dap_inline\">x</span> is not equal to <span class=\"dap_inline\">y</span>.</p>"
+      },
+      {
+        "value": "1726080616336.3179",
+        "label": "<p class=\"dap_body\">Code segment I and code segment II produce the same output only when <span class=\"dap_inline\">x</span> is less than <span class=\"dap_inline\">y</span>.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: `if` Statements"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

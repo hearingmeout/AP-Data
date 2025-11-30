@@ -1,0 +1,43 @@
+{
+  "id": "FT2017",
+  "type": "mcq",
+  "title": "Population of a city based on density rate",
+  "content": {
+    "prompt": "<p><img alt=\"An illustration depicts a city located beside a river has a rectangular boundary with base of length 4 miles and height of length 7 miles. \" src=\"/images/1e3fe54bbb1bf737c7169ff9e7d6466f.png\"></p>\n\n<p>A city located beside a river has a rectangular boundary as shown in the figure above. The population density of the city at any point along a strip <em>x</em> miles from the river’s edge is <em>f</em>(<em>x</em>) persons per square mile. Which of the following expressions gives the population of the city?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<span aria-label=\"the integral from 0 to 4 of f x d x\"><math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>4</mn> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>d</mi><mi>x</mi></mrow> </math></span>",
+        "value": "i0"
+      },
+      {
+        "label": "<span aria-label=\"7 the integral from 0 to 4 of f x d x\"><math> <mrow> <mn>7</mn><mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>4</mn> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>d</mi><mi>x</mi></mrow> </math></span>",
+        "value": "i1"
+      },
+      {
+        "label": "<span aria-label=\"28 the integral from 0 to 4 of f x d x\"><math> <mrow> <mn>28</mn><mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>4</mn> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>d</mi><mi>x</mi></mrow> </math></span>",
+        "value": "i2"
+      },
+      {
+        "label": "<span aria-label=\"the integral from 0 to 7 of f x d x\"><math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>7</mn> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>d</mi><mi>x</mi></mrow> </math></span>",
+        "value": "i3"
+      },
+      {
+        "label": "<span aria-label=\"4 the integral from 0 to 7 of f x d x\"><math> <mrow> <mn>4</mn><mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>7</mn> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>d</mi><mi>x</mi></mrow> </math></span>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.4",
+    "text": "6.4: The Fundamental Theorem of Calculus and Accumulation Functions"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

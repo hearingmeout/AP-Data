@@ -1,0 +1,35 @@
+{
+  "id": "VR099053",
+  "type": "mcq",
+  "title": "Decimal value not equal to given binary values",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Consider the 4-bit binary numbers 0011, 0110, and 1111. Which of the following decimal values is NOT equal to one of these binary numbers?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">3</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">6</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">9</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">15</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Binary Numbers"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

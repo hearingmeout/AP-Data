@@ -1,0 +1,43 @@
+{
+  "id": "VH934882",
+  "type": "mcq",
+  "title": "Samples A and B",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"passage\"><div class=\"prose style:1\"><p class=\"passage_para\">Samples A and B were selected from the same population. The mean of sample A is equal to the mean of the population.</p></div></div></div></div><p class=\"stem_paragraph\">Which of the following statements must be true?</p><ol class=\"ordered_list style:1\"><li class=\"list_paragraph\">The mean of sample A is a point estimator for the mean of the population.</li><li class=\"list_paragraph\">The mean of sample B is a point estimator for the mean of the population.</li><li class=\"list_paragraph\">The mean of sample A is equal to the mean of sample B.</li></ol>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"1\"><math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mrow><mtext>I</mtext></mrow></math></span></span> only</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"2\"><math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>II</mtext></mrow></mstyle></math></span></span> only</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"3\"><math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mrow><mtext>III</mtext></mrow></math></span></span> only</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"1\"><math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mrow><mtext>I</mtext></mrow></math></span></span> and <span class=\"math_expression\"><span aria-label=\"2\"><math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mrow><mtext>II</mtext></mrow></math></span></span></p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"2\"><math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mrow><mtext>II</mtext></mrow></math></span></span> and <span class=\"math_expression\"><span aria-label=\"3\"><math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>III</mtext></mrow></mstyle></math></span></span></p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Sampling Distributions"
+  },
+  "topic": {
+    "code": "5.4",
+    "text": "5.4: Biased and Unbiased Point Estimates"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Determine parameters for probability distributions."
+  }
+}

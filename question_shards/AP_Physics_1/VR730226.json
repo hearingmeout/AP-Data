@@ -1,0 +1,39 @@
+{
+  "id": "VR730226",
+  "type": "mcq",
+  "title": "Fluid flow expression for pressure",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR730225.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">Which of the following expressions is equal to the pressure of the water at Point <span class=\"math_expression\"><span aria-label=\"B\"><math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mtext>B</mtext></math></span></span>?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"P sub 0 minus rho g H\"><math alttext=\"P sub 0 minus rho g H\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>P</mi><mn>0</mn></msub><mo>−</mo><mi>ρ</mi><mi>g</mi><mi>H</mi></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"P sub 0 minus rho g H, plus the fraction 3 over 8, end fraction, rho v sub 0, end sub, squared\"><math alttext=\"P sub 0 minus rho g H, plus the fraction 3 over 8, end fraction, rho v sub 0, end sub, squared\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>P</mi><mn>0</mn></msub><mo>−</mo><mi>ρ</mi><mi>g</mi><mi>H</mi><mo>+</mo><mfrac><mn>3</mn><mn>8</mn></mfrac><mi>ρ</mi><msup><msub><mi>v</mi><mn>0</mn></msub><mn>2</mn></msup></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"P sub 0 minus rho g H, plus the fraction 15 over 32, end fraction, rho v sub 0, end sub, squared\"><math alttext=\"P sub 0 minus rho g H, plus the fraction 15 over 32, end fraction, rho v sub 0, end sub, squared\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>P</mi><mn>0</mn></msub><mo>−</mo><mi>ρ</mi><mi>g</mi><mi>H</mi><mo>+</mo><mfrac><mn>15</mn><mn>32</mn></mfrac><mi>ρ</mi><msup><msub><mi>v</mi><mn>0</mn></msub><mn>2</mn></msup></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"2 P sub 0\"><math alttext=\"2 P sub 0\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><msub><mi>P</mi><mn>0</mn></msub></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Fluids"
+  },
+  "topic": {
+    "code": "8.4",
+    "text": "8.4: Fluids and Conservation Laws"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

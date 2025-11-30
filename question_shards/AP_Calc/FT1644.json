@@ -1,0 +1,43 @@
+{
+  "id": "FT1644",
+  "type": "mcq",
+  "title": "Using accumulation of rate to find number of deer",
+  "content": {
+    "prompt": "At time&nbsp;<span aria-label=\"t is equal to 0\"><math> <mrow> <mi>t</mi><mo>=</mo><mn>0</mn></mrow> </math></span> years, a forest preserve has a population of 1500 deer. If the rate of growth of the population is modeled by&nbsp;<span aria-label=\"cap r times t is equal to 2000 e raised to the 0 point 2 3 t power\"><math> <mrow> <mi>R</mi> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> <mo>=</mo> <mn>2000</mn> <msup> <mi>e</mi> <mrow> <mn>0.23</mn> <mi>t</mi> </mrow> </msup> </mrow> </math></span> deer per year, what is the population at time&nbsp;<span aria-label=\"t is equal to 3\"><math> <mrow> <mi>t</mi> <mo>=</mo> <mn>3</mn> </mrow> </math></span> ?",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>3987</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>5487</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>8641</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>10,141</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>12,628</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Applications of Integration"
+  },
+  "topic": {
+    "code": "8.3",
+    "text": "8.3: Using Accumulation Functions and Definite Integrals in Applied Contexts"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

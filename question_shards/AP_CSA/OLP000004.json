@@ -1,0 +1,39 @@
+{
+  "id": "OLP000004",
+  "type": "mcq",
+  "title": "Code with two if statements - determine output",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What is printed as a result of executing the code segment?</p>",
+    "answer": "01JZ12FATBXMS5SSDQG08FAM3E",
+    "choices": [
+      {
+        "value": "01JZ12FATAE6H5ZMTWB27C5N2Y",
+        "label": "<pre><code class=\"language-plaintext\">x = 2, y = 1</code></pre>"
+      },
+      {
+        "value": "01JZ12FATBSD8YSARA7G66B0C1",
+        "label": "<pre><code class=\"language-plaintext\">x = 3, y = 2</code></pre>"
+      },
+      {
+        "value": "01JZ12FATBXMS5SSDQG08FAM3E",
+        "label": "<pre><code class=\"language-plaintext\">x = 4, y = <span class=\"tts-container\" data-ssml-say-as=\"characters\" ssml-label=\"Characters\">-</span>1</code></pre>"
+      },
+      {
+        "value": "01JZ14NH2ZCRBAKVE2BC5DKV6R",
+        "label": "<pre><code class=\"language-plaintext\">x = 4, y = 3</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: `if` Statements"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "VH930049",
+  "type": "mcq",
+  "title": "Delayed flights",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Past records indicate that 15 percent of the flights for a certain airline are delayed. Suppose flights are randomly selected one at a time from all flights. Assume each selection is independent of another. Which of the following is closest to the probability that it will take 5 selections to find one flight that is delayed?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">0.0783</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">0.0921</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">0.4780</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">0.5220</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">0.5563</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.12",
+    "text": "4.12: The Geometric Distribution"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+  }
+}

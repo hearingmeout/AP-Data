@@ -1,0 +1,39 @@
+{
+  "id": "VR799355",
+  "type": "mcq",
+  "title": "Induced current - speed of HxL loop exiting field",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div>Which expression is equal to <span class=\"math_expression\"><span aria-label=\"v\" role=\"math\"><math alttext=\"v\" overflow=\"scroll\"> <mstyle displaystyle=\"true\"> <mi>v</mi> </mstyle> </math></span></span>?</div>\n</div>\n</div>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator F sub 0, end sub, times R, and denominator B squared, times H squared, end fraction\"><math alttext=\"the fraction with numerator F sub 0, end sub, times R, and denominator B squared, times H squared, end fraction\" overflow=\"scroll\"><mfrac><mrow><msub><mi>F</mi><mn>0</mn></msub><mi>R</mi></mrow><mrow><msup><mi>B</mi><mn>2</mn></msup><msup><mi>H</mi><mn>2</mn></msup></mrow></mfrac></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator F sub 0, end sub, times R, and denominator B squared, times H L, end fraction\"><math alttext=\"the fraction with numerator F sub 0, end sub, times R, and denominator B squared, times H L, end fraction\" overflow=\"scroll\"><mfrac><mrow><msub><mi>F</mi><mn>0</mn></msub><mi>R</mi></mrow><mrow><msup><mi>B</mi><mn>2</mn></msup><mi>H</mi><mi>L</mi></mrow></mfrac></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator F sub 0, and denominator B squared, times H squared, times R, end fraction\"><math alttext=\"the fraction with numerator F sub 0, and denominator B squared, times H squared, times R, end fraction\" overflow=\"scroll\"><mfrac><msub><mi>F</mi><mn>0</mn></msub><mrow><msup><mi>B</mi><mn>2</mn></msup><msup><mi>H</mi><mn>2</mn></msup><mi>R</mi></mrow></mfrac></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator F sub 0, and denominator B squared, times H L R, end fraction\"><math alttext=\"the fraction with numerator F sub 0, and denominator B squared, times H L R, end fraction\" overflow=\"scroll\"><mfrac><msub><mi>F</mi><mn>0</mn></msub><mrow><msup><mi>B</mi><mn>2</mn></msup><mi>H</mi><mi>L</mi><mi>R</mi></mrow></mfrac></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.3",
+    "text": "13.3: Induced Currents and Magnetic Forces"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

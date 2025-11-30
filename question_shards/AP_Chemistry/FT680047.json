@@ -1,0 +1,39 @@
+{
+  "id": "FT680047",
+  "type": "mcq",
+  "title": "Peptide - given bond energies, estimate C-N -calc",
+  "content": {
+    "prompt": "<p><img alt=\"The figure presents two glycine molecules reacting to form a molecule with a peptide bond and water. On the left each molecule has a chain, from left to right, of N, C, and C atoms each connected by a single bond. The N atom is connected to two H atoms each with a single bond. The C atom is connected to two H atoms each with a single bond. The last C atom is connected to two O atoms. The O atom is connected by a double bond and the bottom O atom is connected by a single bond. The bottom O atom is connected by a single bond to an H atom. The O atom, the single bond that connects it to the H atom, and the H atom are in a circle that also contains an H atom from the second glycine molecule. There is a plus sign between the two glycine molecules. The second glycine molecule is followed by an arrow to indicate that the two glycine molecules produce the products on the right side. On the product side of the reaction the first molecule has a chain, from left to right, of N, C, C, N, C, and C atoms each connected by a single bond. The first N atom is connected to two H atoms each by a single bond. The C atom is connected to two H atoms each by a single bond. The next C atom is connected to an O atom by a double bond. The next N atom is connected to an H atom by a single bond. The next C atom is connected to two H atoms each by a single bond. The last C atom is attached to two O atoms. The top O atom is connected by a double bond and the bottom O atom is connected by a single bond. The bottom O atom is connected to an H atom by a single bond. The bond between the second C atom and the N atom after it is labeled Peptide Bond. There is a plus sign after this molecule followed by a molecule of H 2 O. \" height=\"103\" src=\"/images/8d977257d32593fe912728b4a3f5561a.png\" width=\"600\"></p>\n\n<p>Two molecules of the amino acid glycine join through the formation of a peptide bond, as shown above. The thermodynamic data for the reaction are listed in the following table.</p>\n\n<p><img alt=\"The figure shows a table with three columns and one row of data. The first column is labeled ∆G° sub 298 and lists positive charged 15 kJ/mol sub rxn. The second column is labeled ∆H° sub 298 and lists positive charge 12 kJ/mol sub rxn. The third column is labeled ∆S° sub 298 and lists negative charge J/(K . mol sub rxn).\" height=\"79\" src=\"/images/44ceb6cba1674292ea5aed8c53b9f5b2.png\" width=\"400\"></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n\n<img alt=\"The figure shows a table with two columns and three rows of data. The first column is titled Bond and the second column is titled Bond Energy (kJ/mol). Row one: Bond: C - O; Bond Energy (kJ/mol) - 358. Row two: Bond: N - H; Bond Energy (kJ/mol) - 391. Row three: Bond: O - H; Bond Energy (kJ/mol) - 467.\" height=\"110\" src=\"/images/a62a923106384d075495bee904556a09.png\" width=\"250\">\n<p>Based on the bond energies listed in the table above, which of the following is closest to the bond energy of the C−N bond?</p>",
+    "answer": "1",
+    "choices": [
+      {
+        "label": "197 kJ/mol",
+        "value": "0"
+      },
+      {
+        "label": "270 kJ/mol",
+        "value": "1"
+      },
+      {
+        "label": "294 kJ/mol",
+        "value": "2"
+      },
+      {
+        "label": "455 kJ/mol",
+        "value": "3"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Thermochemistry"
+  },
+  "topic": {
+    "code": "6.7",
+    "text": "6.7: Bond Enthalpies"
+  },
+  "skill": {
+    "code": "5.F",
+    "text": "5.F: Calculate, estimate, or predict an unknown quantity from known quantities by selecting and following a logical computational pathway and attending to precision (e.g., performing dimensional analysis and attending to significant figures)."
+  }
+}

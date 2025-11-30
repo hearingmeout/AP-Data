@@ -1,0 +1,39 @@
+{
+  "id": "FT573899",
+  "type": "mcq",
+  "title": "Meaning of derivative with candy production",
+  "content": {
+    "prompt": "<p>On a certain day, the total number of pieces of candy produced by a factory since it opened is modeled by <em>C</em>, a differentiable function of the number of hours since the factory opened. Which of the following is the best interpretation of <em>C'</em>(3) = 500 ?</p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The factory produces 500 pieces of candy during its 3rd hour of operation.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The factory produces 500 pieces of candy in the first 3 hours after it opens.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The factory is producing candy at a rate of 500 pieces per hour, 3 hours after it opens.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The rate at which the factory is producing candy is increasing at a rate of 500 pieces per hour per hour, 3 hours after it opens.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Contextual Applications of Differentiation"
+  },
+  "topic": {
+    "code": "4.1",
+    "text": "4.1: Interpreting the Meaning of the Derivative in Context"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

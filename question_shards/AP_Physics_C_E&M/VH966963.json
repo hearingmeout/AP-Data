@@ -1,0 +1,43 @@
+{
+  "id": "VH966963",
+  "type": "mcq",
+  "title": "Move the plates change in E and V",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VH966887.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include>\n<div class=\"stimulus_reference\">\n<div class=\"standalone_image\"><img alt=\"The figure presents a conducting plate with a charge of positive Q that is located a short distance from an identical conducting plate with a charge of negative Q.\" height=\"159\" src=\"/images/1aff4cf0ea8f2793e4fab01a33b92141.png\" width=\"330\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">A second identical plate with a charge <span class=\"math_expression\"><span aria-label=\"negative Q\"><math alttext=\"negative Q\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mi>Q</mi></mrow></mrow></mstyle></math></span></span> is added a short distance above the first plate, as shown in the figure. If <span class=\"math_expression\"><span aria-label=\"E\"><math alttext=\"E\" overflow=\"scroll\"><mstyle><mrow><mi>E</mi></mrow></mstyle></math></span></span> is the magnitude of the electric field a short distance off the original plate, which of the following statements is correct for the magnitude of the electric field between the plates?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"4 E\"><math alttext=\"4 E\" overflow=\"scroll\"><mstyle><mrow><mn>4</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mi>E</mi></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"2 E\"><math alttext=\"2 E\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mi>E</mi></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"E\"><math alttext=\"E\" overflow=\"scroll\"><mstyle><mrow><mi>E</mi></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Zero</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction E over 2\"><math alttext=\"the fraction E over 2\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>E</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Conductors and Capacitors"
+  },
+  "topic": {
+    "code": "10.3",
+    "text": "10.3: Capacitors"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

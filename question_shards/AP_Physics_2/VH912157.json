@@ -1,0 +1,39 @@
+{
+  "id": "VH912157",
+  "type": "mcq",
+  "title": "Lightbulb graph evidence",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"standalone_image\"><img alt=\"The figure presents a circuit diagram and a scatterplot. In the circuit diagram, a battery is along the left. Moving up and to the right, there is an ammeter. Moving down the left there is a light bulb with a voltmeter across it. Along the bottom is a resistor.&nbsp; In the scatterplot, there are 9 points indicated. The origin is labeled O. The horizontal axis is labeled Potential Difference, in volts, and the numbers 1 through 4, in increments of 1, are indicated. The vertical axis is labeled Current, in amperes, and the numbers 0.5 through 2.5, in increments of 0.5, are indicated. The 9 points are listed as follows. Note that all values are approximate.&nbsp; Point 1. 0.05 volts, 0.15 amperes. Point 2. 0.1 volts, 0.3 amperes. Point 3. 0.5 volts, 0.9 amperes. Point 4. 1 volt, 1.1 amperes. Point 5. 1.6 volts, 1.5 amperes. Point 6. 2 volts, 1.65 amperes. Point 7. 2.8 volts, 2 amperes. Point 8. 3.55 volts, 2.3 amperes. Point 9. 4.1 volts, 2.45 amperes.\" height=\"172\" src=\"/images/ab13f1da5fff4576d12bcc70f7efc252.png\" width=\"345\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">Students measure the potential across a lightbulb and the current through it using the circuit shown above. The results are shown in the graph. Which of the following is supported by evidence from the graph?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The brightness of the lightbulb is proportional to the square of the current.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The brightness of the lightbulb is not proportional to the square of the potential difference.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The resistance of the lightbulb for each data point can be determined by dividing the potential difference by the current.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The resistance of the lightbulb is not constant.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.3",
+    "text": "11.3: Resistance, Resistivity, and Ohm's Law"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

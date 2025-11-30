@@ -1,0 +1,43 @@
+{
+  "id": "FT545565",
+  "type": "mcq",
+  "title": "Circular wire loop near circuit with capacitor",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows a rectangular circuit diagram. The lower left corner is labeled A and the lower right corner is labeled B. Going around clockwise from A there is a resistor on the left edge, a capacitor on the top edge with the positive side on the left and negative side on the right, then an open switch still on the top edge, and then the rest of the circuit is completed with wire. Below this circuit is a circular wire loop that is labeled as such.\" height=\"171\" src=\"/images/4072b627835bbafd7a1efb021b89b369.png\" width=\"187\"></p>\n\n<p>In the circuit drawn above, the switch <em>S</em> is initially open, and the capacitor <em>C</em> is charged with the polarity indicated. The switch is then closed, and the capacitor begins discharging through the resistor. Which of the following is true of the current that is subsequently induced in the circular wire loop near the long, straight wire <em>AB</em> ?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>It is counterclockwise and constant.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>It is counterclockwise and increases with time.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>It is counterclockwise and decreases with time.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>It is clockwise and increases with time.</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>It is clockwise and decreases with time.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.8",
+    "text": "11.8: Resistor-Capacitor (RC) Circuits"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

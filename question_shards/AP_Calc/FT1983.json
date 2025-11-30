@@ -1,0 +1,43 @@
+{
+  "id": "FT1983",
+  "type": "mcq",
+  "title": "Continuity and differentiability from graph",
+  "content": {
+    "prompt": "<p><img alt=\"The graph of f is given on unscaled axes, and five points a, b, c, d, and e are labeled on the positive x-axis in that order.  The graph is concave up and increasing from a point in the third quadrant to a.  From a to c, the graph is decreasing and concave up, dropping below the x-axis and forming a cusp at some positive y-value where x = a.  At x = b, the graph travels through an open circle at some positive y-value at x = b.  At x = b, there is also a closed circle at a y value above the open circle.  From c to d, the graph is increasing and concave up, ending at an closed circle at some positive y-value at x = d.  At x = d, there is also an open circle at some negative y value, and from that point the graph continues, increasing and concave up.\" src=\"/images/a7bb53260185ba3fcb693f0cebdb2dc8.png\"></p><p>The graph of a function <em>f</em> is shown above. At which value of <em>x</em> is <em>f</em> continuous, but not differentiable?</p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p><em>a</em></p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><em>b</em></p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p><em>c</em></p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p><em>d</em></p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p><em>e</em></p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Connecting Differentiability and Continuity - Determining When Derivatives Do and Do Not Exist"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Provide reasons or rationales for solutions and conclusions."
+  }
+}

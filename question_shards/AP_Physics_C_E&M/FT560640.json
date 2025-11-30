@@ -1,0 +1,39 @@
+{
+  "id": "FT560640",
+  "type": "mcq",
+  "title": "Ascorbic acid and GULO gene 1",
+  "content": {
+    "prompt": "Comparison of DNA sequences in Table II suggests that a functional <em>GULO</em> gene in lemurs can have a G, C, or T at position 21 but only a G at position 22. Which of the following pairs of predictions is most helpful in explaining the discrepancy?",
+    "answer": "i0",
+    "choices": [
+      {
+        "label": "<table class=\"table table-bordered\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"col\"><strong>A substitution at position 21 would result in</strong></th>\n\t\t\t<th scope=\"col\"><strong>A substitution at position 22 would result in</strong></th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>No change to the protein</td>\n\t\t\t<td>\n\t\t\t<p>A premature stop codon or an amino acid with different<br>\n\t\t\tbiochemical characteristics</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i0"
+      },
+      {
+        "label": "<table class=\"table table-bordered\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"col\"><strong>A substitution at position 21 would result in</strong></th>\n\t\t\t<th scope=\"col\"><strong>A substitution at position 22 would result in</strong></th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>A different amino acid</td>\n\t\t\t<td>A premature stop codon or an amino acid with different<br>\n\t\t\tbiochemical characteristics</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i1"
+      },
+      {
+        "label": "<table class=\"table table-bordered\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"col\"><strong>A substitution at position 21 would result in</strong></th>\n\t\t\t<th scope=\"col\"><strong>A substitution at position 22 would result in</strong></th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>No change to the protein</td>\n\t\t\t<td>A frame shift producing an inactive protein</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i2"
+      },
+      {
+        "label": "<table class=\"table table-bordered\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"col\"><strong>A substitution at position 21 would result in</strong></th>\n\t\t\t<th scope=\"col\"><strong>A substitution at position 22 would result in</strong></th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>An amino acid with different biochemical characteristics</td>\n\t\t\t<td>No transcription of the gene</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i3"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Gene Expression and Regulation"
+  },
+  "topic": {
+    "code": "6.7",
+    "text": "6.7: Mutations"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: State the null hypothesis or predict the results of an experiment."
+  }
+}

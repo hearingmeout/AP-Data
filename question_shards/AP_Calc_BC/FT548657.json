@@ -1,0 +1,43 @@
+{
+  "id": "FT548657",
+  "type": "mcq",
+  "title": "Solving differential equation",
+  "content": {
+    "prompt": "<p>If <math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the derivative of y with respect to t equals k times y\">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mrow>\n     <mi>d</mi><mi>y</mi></mrow>\n    <mrow>\n     <mi>d</mi><mi>t</mi></mrow>\n   </mfrac>\n   <mo>=</mo><mi>k</mi><mi>y</mi></mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWcaaWdaeaapeGaamizaiaadMhaa8aabaWdbiaadsgacaWG0baa\n  aiabg2da9iaadUgacaWG5baaaa@3D21@\n  </annotation>\n </semantics>\n</math>\n and <em>k</em> is a nonzero constant, then <em>y</em> could be </p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>2e<em><sup>kty</sup></em></p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>2e<em><sup>kt</sup></em></p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>e<em><sup>kt</sup></em>+3</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>kty+5</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"one half times k times y squared plus one half\">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mn>1</mn>\n    <mn>2</mn>\n   </mfrac>\n   <mi>k</mi><msup>\n    <mi>y</mi>\n    <mn>2</mn>\n   </msup>\n   <mo>+</mo><mfrac>\n    <mn>1</mn>\n    <mn>2</mn>\n   </mfrac>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWcaaWdaeaapeGaaGymaaWdaeaapeGaaGOmaaaacaWGRbGaamyE\n  amaaCaaaleqabaGaaGOmaaaakiabgUcaRmaalaaapaqaa8qacaaIXa\n  aapaqaa8qacaaIYaaaaaaa@3D63@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.8",
+    "text": "7.8: Exponential Models with Differential Equations"
+  },
+  "skill": {
+    "code": "Skill 3.G",
+    "text": "Skill 3.G: Confirm that solutions are accurate and appropriate."
+  }
+}

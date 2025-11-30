@@ -1,0 +1,35 @@
+{
+  "id": "FT535410",
+  "type": "mcq",
+  "title": "Abandoning school - to continue the conversation",
+  "content": {
+    "prompt": "<p>¿Cuál de las siguientes preguntas sería la más apropiada para que Francisca continuara con la conversación?</p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>¿Así que ya te graduaste de la universidad?</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>¿Así que te dieron una beca parcial?</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>¿Y cómo es el sistema educativo en México?</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>¿Y cómo está la situación económica global en estos momentos?</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Families in Different Societies"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

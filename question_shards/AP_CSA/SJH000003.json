@@ -1,0 +1,39 @@
+{
+  "id": "SJH000003",
+  "type": "mcq",
+  "title": "almostEqual method - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following can be used to replace&nbsp; <span class=\"dap_inline\">/* missing code */</span>&nbsp; so that the method will work as intended?</p>",
+    "answer": "01JM0AYPK32289DDQBFBR76BTY",
+    "choices": [
+      {
+        "value": "01JM0AYPK2E6NP44ZK4FCH5DVW",
+        "label": "<pre><code class=\"language-plaintext\">return (d1 - d2) &lt;= tolerance</code></pre>"
+      },
+      {
+        "value": "01JM0AYPK38K7C6X4W48BFSDDP",
+        "label": "<pre><code class=\"language-plaintext\">return ((d1 + d2) / 2) &lt;= tolerance</code></pre>"
+      },
+      {
+        "value": "01JM0AYPK32289DDQBFBR76BTY",
+        "label": "<pre><code class=\"language-plaintext\">return Math.abs(d1 - d2) &lt;= tolerance</code></pre>"
+      },
+      {
+        "value": "01JM0AYPK3DNK34J6HRR4VGJF9",
+        "label": "<pre><code class=\"language-plaintext\">return Math.abs((d1 + d2) / 2) &lt;= tolerance</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: `Math` Class"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

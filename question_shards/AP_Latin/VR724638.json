@@ -1,0 +1,39 @@
+{
+  "id": "VR724638",
+  "type": "mcq",
+  "title": "Impulse - two intervals on force vs time graph",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR724612.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">A block of unknown mass initially at rest experiences a net force as shown in the graph. Consider the change in momentum <span class=\"math_expression\"><span aria-label=\"delta p sub 01\"><math alttext=\"delta p sub 01\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mtext>Δ</mtext><msub><mi>p</mi><mn>01</mn></msub></mstyle></math></span></span> on the interval from <span class=\"math_expression\"><span aria-label=\"t equals 0\"><math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn></math></span></span> to <span class=\"math_expression\"><span aria-label=\"t equals 1.0 second\"><math alttext=\"t equals 1.0 second\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>1.0</mn><mspace width=\"0.2em\"></mspace><mi mathvariant=\"normal\">s</mi></math></span></span> and the change in momentum <span class=\"math_expression\"><span aria-label=\"delta p sub 23\"><math alttext=\"delta p sub 23\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mtext>Δ</mtext><msub><mi>p</mi><mn>23</mn></msub></mstyle></math></span></span> on the interval from <span class=\"math_expression\"><span aria-label=\"t equals 2.0 seconds\"><math alttext=\"t equals 2.0 seconds\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>2.0</mn><mspace width=\"0.2em\"></mspace><mi mathvariant=\"normal\">s</mi></math></span></span> to <span class=\"math_expression\"><span aria-label=\"t equals 3.0 seconds\"><math alttext=\"t equals 3.0 seconds\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>3.0</mn><mspace width=\"0.2em\"></mspace><mi mathvariant=\"normal\">s</mi></math></span></span>. Which statement describes the relationship between <span class=\"math_expression\"><span aria-label=\"delta p sub 01\"><math alttext=\"delta p sub 01\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mtext>Δ</mtext><msub><mi>p</mi><mn>01</mn></msub></mstyle></math></span></span> and <span class=\"math_expression\"><span aria-label=\"delta p sub 23\"><math alttext=\"delta p sub 23\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mtext>Δ</mtext><msub><mi>p</mi><mn>23</mn></msub></mstyle></math></span></span> ?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"delta p sub 01 is less than delta p sub 23\"><math alttext=\"delta p sub 01 is less than delta p sub 23\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mtext>Δ</mtext><msub><mi>p</mi><mn>01</mn></msub><mo>&lt;</mo><mtext>Δ</mtext><msub><mi>p</mi><mn>23</mn></msub></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"delta p sub 01 equals delta p sub 23\"><math alttext=\"delta p sub 01 equals delta p sub 23\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mtext>Δ</mtext><msub><mi>p</mi><mn>01</mn></msub><mo>=</mo><mtext>Δ</mtext><msub><mi>p</mi><mn>23</mn></msub></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"delta p sub 01 is greater than delta p sub 23\"><math alttext=\"delta p sub 01 is greater than delta p sub 23\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mtext>Δ</mtext><msub><mi>p</mi><mn>01</mn></msub><mo>&gt;</mo><mtext>Δ</mtext><msub><mi>p</mi><mn>23</mn></msub></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No relationship can be determined since the mass is unknown.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Linear Momentum"
+  },
+  "topic": {
+    "code": "4.2",
+    "text": "4.2: Change in Momentum and Impulse"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

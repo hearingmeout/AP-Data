@@ -1,0 +1,35 @@
+{
+  "id": "VH304976",
+  "type": "mcq",
+  "title": "Bookstore database",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">A store employee wants to calculate the total amount of money the store will receive if they sell all of the available science fiction books. Which columns in the database can be <span class=\"formatted_text text_decoration:underline\">ignored</span> and still allow the employee to perform this calculation?</p>\n<p class=\"stem_paragraph\">Select <span class=\"formatted_text text_decoration:underline\">two</span> answers.</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Author</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Title</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Genre</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Quantity Available</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: Extracting Information from Data"
+  },
+  "skill": {
+    "code": "Skill 5.B",
+    "text": "Skill 5.B: Explain how knowledge can be generated from data."
+  }
+}

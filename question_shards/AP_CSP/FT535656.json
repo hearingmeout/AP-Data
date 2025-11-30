@@ -1,0 +1,35 @@
+{
+  "id": "FT535656",
+  "type": "mcq",
+  "title": "Result of call to procedure Mystery",
+  "content": {
+    "prompt": "<p>The question below uses a robot in a grid of squares. The robot is represented as a triangle, which is initially in the bottom-left square of the grid and facing toward the top of the grid.</p>\n\n<p>&nbsp;</p>\n\n\n<img alt=\"A five by five square grid is shown with a triangle pointing up in the square in the lower left corner, in the first column and fifth row.\" src=\"/images/8fb42e0dc6add331f8957513c53853a5.png\">\n<p>Code for the procedure <em>Mystery </em>is shown below. Assume that the parameter <em>p</em> has been assigned a positive integer value (e.g., 1, 2, 3, …).</p>\n\n<p><img alt=\"A segment of code is shown in a grey box. In the upper left of the box it reads PROCEDURE Mystery, the p, which is written in a square. Below this and indented is a smaller grey box that has a white border. In the upper left of this smaller grey box it reads REPEAT p times. Below this an indented is a white box, in which there are three smaller white boxes in a column. The top box reads MOVE_FORWARD, the middle box reads MOVE_FORWARD, and the bottom box reads ROTATE_RIGHT.\" src=\"/images/6707a8a2ffa76cf710130c653f66ce74.png\"></p>\n\n<p>Which of the following shows a possible result of calling the procedure?</p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "label": "<img alt=\"Choice A is a five by five square grid with a triangle in one of the squares. In choice A, the triangle is pointing to the left and is in the third column and fifth row. \" height=\"89\" src=\"/images/0abe0636e6bf9a6c57ae0a0095ada70c.png\" width=\"90\">",
+        "value": "i0"
+      },
+      {
+        "label": "<img alt=\"Choice B is a five by five square grid with a triangle in one of the squares. In choice B, the triangle pointing down and is in the fourth column and second row. \" height=\"87\" src=\"/images/532dd058a40d1e99340474e587bad0a8.png\" width=\"90\">",
+        "value": "i1"
+      },
+      {
+        "label": "<img alt=\"Choice C is a five by five square grid with a triangle in one of the squares. In choice C, the triangle is pointing down and in the first column and fifth row. \" height=\"87\" src=\"/images/0ff2c02d944d4f917335b3b41a66f540.png\" width=\"90\">",
+        "value": "i2"
+      },
+      {
+        "label": "<img alt=\"Choice D is a five by five square grid with a triangle in one of the squares. In choice D, the triangle is pointing up and is in the center square, in the third column and third row.\" height=\"87\" src=\"/images/e3009faab84218ac2f95f66c120ca6b6.png\" width=\"90\">",
+        "value": "i3"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.8",
+    "text": "3.8: Iteration"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

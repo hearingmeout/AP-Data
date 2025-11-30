@@ -1,0 +1,43 @@
+{
+  "id": "FT546975",
+  "type": "mcq",
+  "title": "Chi-square conclusion on opinion and category",
+  "content": {
+    "prompt": "<p>A controversial issue in the sport of professional soccer is the use of instant replay for making difficult goal line decisions. Each person in a representative sample of 102 players, fans, coaches, and officials was asked his or her opinion about the use of instant replay for goal-line decisions. The data are summarized in the two-way frequency table below.</p>\n\n<p><img alt=\"A table is shown with columns showing opinion and rows showing category. The first column is favor use and the second column is oppose use. The first row is for players and has entries 22 and 2. The second row is for fans and has entries 18 and 6. The third row is for coaches and has values 15 and 26. The fourth row is for officials and has values 3 and 10.\" height=\"176\" src=\"/images/eeb007f5d16e4a6688ac888a15002d66.png\" width=\"354\"></p>\n\n<p>In testing to see whether opinion with respect to the use of instant replay is independent of the category of the person interviewed, a chi-square test statistic of 27.99 and a<em> p</em>-value less than 0.001 were calculated. Which of the following statements is correct?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The number of degrees of freedom for the test is 8 - 1 = 7.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The chi-square test should not have been used because two of the counts in the table are less than 5.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The null hypothesis states that there is an association between category and opinion about the use of instant replay, and the small <em>p</em>-value suggests that the null hypothesis should be rejected. </p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The small <em>p</em>-value suggests that there is evidence of an association between category and opinion about the use of instant replay.</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>The chi-square test shows that fans favor the use of instant replay.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Inference for Categorical Data-Chi-Square"
+  },
+  "topic": {
+    "code": "8.6",
+    "text": "8.6: Carrying Out a Chi-Square Test for Homogeneity or Independence"
+  },
+  "skill": {
+    "code": "Skill 4.E",
+    "text": "Skill 4.E: Justify a claim using a decision based on significance tests."
+  }
+}

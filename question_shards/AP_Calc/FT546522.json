@@ -1,0 +1,43 @@
+{
+  "id": "FT546522",
+  "type": "mcq",
+  "title": "Expression for arc length of curve",
+  "content": {
+    "prompt": "<p>The length of the curve <em>y</em>=ln sec <em>x</em> from <em>x</em>=0 to <em>x=b</em>, where <math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"0 less than b less than pi divided by 2\">\n <semantics>\n  <mrow>\n   <mn>0</mn><mo>&lt;</mo><mi>b</mi><mo>&lt;</mo><mfrac>\n    <mi>π</mi>\n    <mn>2</mn>\n   </mfrac>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qacaaIWaGaeyipaWJaamOyaiabgYda8maalaaapaqaa8qacqaHapaC\n  a8aabaWdbiaaikdaaaaaaa@3C86@\n  </annotation>\n </semantics>\n</math>\n, may be expressed by which of the following integrals?</p><p></p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the integral from 0 to b of secant x with respect to x\">\n <semantics>\n  <mrow>\n   <mstyle displaystyle=\"true\">\n    <mrow><munderover>\n     <mo>∫</mo>\n     <mn>0</mn>\n     <mi>b</mi>\n    </munderover>\n    <mrow>\n     <mi>sec</mi></mrow>\n   </mrow>\n   \n  </mstyle><mi>x</mi><mi>d</mi><mi>x</mi></mrow>\n <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n qadaWdXbWdaeaapeGaci4CaiaacwgacaGGJbaal8aabaWdbiaaicda\n a8aabaWdbiaadkgaa0Gaey4kIipakiaadIhacaWGKbGaamiEaaaa@4033@\n </annotation>\n</semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the integral from 0 to b of secant squared x with respect to x\">\n <semantics>\n  <mrow>\n   <mstyle displaystyle=\"true\">\n    <mrow><munderover>\n     <mo>∫</mo>\n     <mn>0</mn>\n     <mi>b</mi>\n    </munderover>\n    <mrow>\n     <msup>\n      <mrow>\n       <mi>sec</mi></mrow>\n      <mn>2</mn>\n     </msup>\n     </mrow>\n   </mrow>\n   \n  </mstyle><mi>x</mi><mi>d</mi><mi>x</mi></mrow>\n <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n qadaWdXbWdaeaapeGaci4CaiaacwgacaGGJbWdamaaCaaaleqabaWd\n biaaikdaaaaapaqaa8qacaaIWaaapaqaa8qacaWGIbaaniabgUIiYd\n GccaWG4bGaamizaiaadIhaaaa@4130@\n </annotation>\n</semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the integral from 0 to b of secant x times tangent x with respect to x\">\n <semantics>\n  <mrow>\n   <mstyle displaystyle=\"true\">\n    <mrow><munderover>\n     <mo>∫</mo>\n     <mn>0</mn>\n     <mi>b</mi>\n    </munderover>\n    <mrow>\n     <mo stretchy=\"false\">(</mo><mi>sec</mi><mi>x</mi><mi>tan</mi><mi>x</mi><mo stretchy=\"false\">)</mo></mrow>\n   </mrow>\n   \n  </mstyle><mi>d</mi><mi>x</mi></mrow>\n <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n qadaWdXbWdaeaapeGaaiikaiGacohacaGGLbGaai4yaiaadIhaciGG\n 0bGaaiyyaiaac6gacaWG4bGaaiykaaWcpaqaa8qacaaIWaaapaqaa8\n qacaWGIbaaniabgUIiYdGccaWGKbGaamiEaaaa@455A@\n </annotation>\n</semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the integral of the square root of open parentheses 1 plus open parentheses the natural log of secant x close parentheses squared close parentheses with respect to x\">\n <semantics>\n  <mrow>\n   <mstyle displaystyle=\"true\">\n    <mrow><munderover>\n     <mo>∫</mo>\n     <mn>0</mn>\n     <mi>b</mi>\n    </munderover>\n    <mrow>\n     <msqrt>\n      <mrow>\n       <mn>1</mn><mo>+</mo><msup>\n        <mrow>\n         <mo stretchy=\"false\">(</mo><mi>ln</mi><mi>sec</mi><mi>x</mi><mo stretchy=\"false\">)</mo></mrow>\n        <mn>2</mn>\n       </msup>\n       </mrow>\n     </msqrt>\n     </mrow>\n   </mrow>\n   \n  </mstyle><mi>d</mi><mi>x</mi></mrow>\n <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n qadaWdXbWdaeaapeWaaOaaa8aabaWdbiaaigdacqGHRaWkcaGGOaGa\n ciiBaiaac6gaciGGZbGaaiyzaiaacogacaWG4bGaaiyka8aadaahaa\n Wcbeqaa8qacaaIYaaaaaqabaaapaqaa8qacaaIWaaapaqaa8qacaWG\n IbaaniabgUIiYdGccaWGKbGaamiEaaaa@4639@\n </annotation>\n</semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the integral from 0 to b of the square root of open parentheses 1 plus open parentheses secant squared x times tangent squared x close parentheses close parentheses with respect to x\">\n <semantics>\n  <mrow>\n   <mstyle displaystyle=\"true\">\n    <mrow><munderover>\n     <mo>∫</mo>\n     <mn>0</mn>\n     <mi>b</mi>\n    </munderover>\n    <mrow>\n     <msqrt>\n      <mrow>\n       <mn>1</mn><mo>+</mo><mo stretchy=\"false\">(</mo><msup>\n        <mrow>\n         <mi>sec</mi></mrow>\n        <mn>2</mn>\n       </msup>\n       <mi>x</mi><msup>\n        <mrow>\n         <mi>tan</mi></mrow>\n        <mn>2</mn>\n       </msup>\n       <mi>x</mi><mo stretchy=\"false\">)</mo></mrow>\n     </msqrt>\n     </mrow>\n   </mrow>\n   \n  </mstyle><mi>d</mi><mi>x</mi></mrow>\n <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n qadaWdXbWdaeaapeWaaOaaa8aabaWdbiaaigdacqGHRaWkcaGGOaGa\n ci4CaiaacwgacaGGJbWdamaaCaaaleqabaWdbiaaikdaaaGccaWG4b\n GaciiDaiaacggacaGGUbWdamaaCaaaleqabaWdbiaaikdaaaGccaWG\n 4bGaaiykaaWcbeaaa8aabaWdbiaaicdaa8aabaWdbiaadkgaa0Gaey\n 4kIipakiaadsgacaWG4baaaa@494A@\n </annotation>\n</semantics>\n</math>\n</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Applications of Integration"
+  },
+  "topic": {
+    "code": "8.13",
+    "text": "8.13: (BC ONLY) The Arc Length of a Smooth, Planar Curve and Distance Traveled"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

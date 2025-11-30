@@ -1,0 +1,39 @@
+{
+  "id": "TYT000001",
+  "type": "mcq",
+  "title": "Matrix Inverse - calculating inverse of a matrix",
+  "content": {
+    "prompt": "<div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <p class=\"dap_body\">Matrix&nbsp;<span aria-label=\"A\"><math alttext=\"A\"><mi>A</mi></math></span>&nbsp;is given by&nbsp;<span aria-label=\"A equals a 2 by 2 matrix with row 1 column 1 value 2, row 1 column 2 value 3, row 2 column 1 value 10, row 2 column 2 value 12\"><math alttext=\"A equals a 2 by 2 matrix with row 1 column 1 value 2, row 1 column 2 value 3, row 2 column 1 value 10, row 2 column 2 value 12\"><mi>A</mi><mo>=</mo><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>2</mn></mtd><mtd><mn>3</mn></mtd></mtr><mtr><mtd><mn>10</mn></mtd><mtd><mn>12</mn></mtd></mtr></mtable></mfenced></math></span>. Which of the following is the inverse matrix of&nbsp;<span aria-label=\"A\"><math alttext=\"A\"><mi>A</mi></math></span>, if it exists?</p> </div> </div> </div>\n",
+    "answer": "B-89206",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"the fraction with numerator 1 and denominator a 2 by 2 matrix with row 1 column 1 value 2, row 1 column 2 value 3, row 2 column 1 value 10, row 2 column 2 value 12\"><math alttext=\"the fraction with numerator 1 and denominator a 2 by 2 matrix with row 1 column 1 value 2, row 1 column 2 value 3, row 2 column 1 value 10, row 2 column 2 value 12\"><mfrac><mn>1</mn><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>2</mn></mtd><mtd><mn>3</mn></mtd></mtr><mtr><mtd><mn>10</mn></mtd><mtd><mn>12</mn></mtd></mtr></mtable></mfenced></mfrac></math></span></p>",
+        "value": "A-89205"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"a 2 by 2 matrix with row 1 column 1 value negative 2, row 1 column 2 value one half, row 2 column 1 value 5 over 3, row 2 column 2 value negative one third\"><math alttext=\"a 2 by 2 matrix with row 1 column 1 value negative 2, row 1 column 2 value one half, row 2 column 1 value 5 over 3, row 2 column 2 value negative one third\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mo>-</mo><mn>2</mn></mtd><mtd><mfrac><mn>1</mn><mn>2</mn></mfrac></mtd></mtr><mtr><mtd><mfrac><mn>5</mn><mn>3</mn></mfrac></mtd><mtd><mo>-</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mtd></mtr></mtable></mfenced></math></span></p>",
+        "value": "B-89206"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"a 2 by 2 matrix with row 1 column 1 value one half, row 1 column 2 value one third, row 2 column 1 value one tenth, row 2 column 2 value one twelfth\"><math alttext=\"a 2 by 2 matrix with row 1 column 1 value one half, row 1 column 2 value one third, row 2 column 1 value one tenth, row 2 column 2 value one twelfth\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mfrac><mn>1</mn><mn>2</mn></mfrac></mtd><mtd><mfrac><mn>1</mn><mn>3</mn></mfrac></mtd></mtr><mtr><mtd><mfrac><mn>1</mn><mn>10</mn></mfrac></mtd><mtd><mfrac><mn>1</mn><mn>12</mn></mfrac></mtd></mtr></mtable></mfenced></math></span></p>",
+        "value": "C-89207"
+      },
+      {
+        "label": "<p class=\"dap_body\">Matrix&nbsp;<span aria-label=\"A\"><math alttext=\"A\"><mi>A</mi></math></span>&nbsp;is not invertible.</p>",
+        "value": "D-89208"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.11",
+    "text": "4.11: The Inverse and Determinant of a Matrix"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Express functions, equations, or expressions in analytically equivalent forms that are useful in a given mathematical or applied context."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "FT576039",
+  "type": "mcq",
+  "title": "Mean Value Theorem",
+  "content": {
+    "prompt": "<p>Let g be a twice-differentiable, increasing function of t. If g(0) = 20 and g(10) = 220, which of the following must be true on the interval 0 &lt; t &lt; 10?</p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>g'(t) = 0 for some t in the interval.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p> g'(t) = 20 for some t in the interval.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>g\"(t) = 0 for some t in the interval.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>g\"(t) &gt; 0 for all t in the interval.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.1",
+    "text": "5.1: Using the Mean Value Theorem"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "FT534661",
+  "type": "mcq",
+  "title": "Old magazine collection - what the lady does",
+  "content": {
+    "prompt": "<p>¿Qué hace la señora al final?</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "Decide regresar a su casa para buscar más dinero.",
+        "value": "i0"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Se queja del librero con una agencia del gobierno.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Selecciona unas novelas publicadas en el 1936.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Compra las revistas al precio que quería pagar.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: The Influence of Language and Culture on Identity"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Interpret the meaning of a text."
+  }
+}

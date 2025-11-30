@@ -1,0 +1,43 @@
+{
+  "id": "FT561142",
+  "type": "mcq",
+  "title": "Product rule with graphs",
+  "content": {
+    "prompt": "<p><img alt=\"Two graphs, Graph of f and Graph of g, respectively. A curve plotted for the function f resembles the letter W. It starts from quadrant 2, declines and rises, intersecting the x-axis at the values negative 4 and negative 2, respectively. It then rises and intersects the y-axis at the value 4, then declines and rises, intersecting the x-axis at the values 2 and 4, respectively. A curve plotted for the function g is a more warped version of the letter W. It also starts from quadrant 2 and intersects the x-axis at the following values: a value of about negative 3.5, 2, and 5. It intersects the y-axis at a value of about negative 1.5.\" height=\"272\" src=\"/images/fbe142f00da5d49d37cca106dc6d9ed9.png\" width=\"725\"></p>\n\n<p>The graphs of the differentiable functions<em> f</em> and <em>g</em> are shown above. If the function <em>p</em> is defined by <em>p(x) = f(x)g(x)</em>, which of the following must be true about <em>p',</em> the derivative of <em>p </em>?</p>\n",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>p'(-2) &lt; 0</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>p'(-2) = 0</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>p'(-2) &gt; 0</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>p'(0) &lt; 0</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>p'(0) = 0</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: The Product Rule"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

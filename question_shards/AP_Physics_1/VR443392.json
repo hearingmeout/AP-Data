@@ -1,0 +1,39 @@
+{
+  "id": "VR443392",
+  "type": "mcq",
+  "title": "Cart on a hill or in a dip or in a loop",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"standalone_image\"><img alt=\"The figure shows three diagrams labeled Case 1, Case 2, and Case 3. In each case, there is a rectangular cart with circular wheels on a curved surface. In case 1, the curve has a peak and opens downward, representing a hill. The cart is positioned on top of curve, at its peak. In case 2, the curve has a trough and opens upward, representing a dip. The cart is positioned on top of the curve, at its trough. In case 3, the curve has a peak and opens downward, representing part of a vertical loop. The cart is positioned below the curve, at its peak.\" height=\"83\" src=\"/images/50808ae1e0ceb31260d330b4e99ee2c4.png\" width=\"450\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">The figures show a cart moving over the top of a hill (Case 1), moving at the bottom of a dip (Case 2), and moving at the top of a vertical loop (Case 3). In each case, the normal force acting on the car is <span class=\"math_expression\"><span aria-label=\"F sub lowercase n\"><math alttext=\"F sub lowercase n\" overflow=\"scroll\"><msub><mi>F</mi><mi>n</mi></msub></math></span></span> and the weight of the car is <span class=\"math_expression\"><span aria-label=\"F sub g\"><math alttext=\"F sub g\" overflow=\"scroll\"><msub><mi>F</mi><mi>g</mi></msub></math></span></span>. In which case is it always true that <span class=\"math_expression\"><span aria-label=\"F sub lowercase n is greater than F sub g\"><math alttext=\"F sub lowercase n is greater than F sub g\" overflow=\"scroll\"><msub><mi>F</mi><mi>n</mi></msub><mo>&gt;</mo><msub><mi>F</mi><mi>g</mi></msub></math></span></span>, and in which case is it always true that <span class=\"math_expression\"><span aria-label=\"F sub lowercase n is less than F sub g\"><math alttext=\"F sub lowercase n is less than F sub g\" overflow=\"scroll\"><msub><mi>F</mi><mi>n</mi></msub><mo>&lt;</mo><msub><mi>F</mi><mi>g</mi></msub></math></span></span>?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<div class=\"table_wrapper\"><table class=\"tgroup cols:2\"><colgroup><col class=\"colspec colname:col1 colnum:1 colwidth:75\"><col class=\"colspec colname:col2 colnum:2 colwidth:75\"></colgroup><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry colname:col1\"><span class=\"math_expression\"><span aria-label=\"F sub lowercase n is greater than F sub g, Always\"><math alttext=\"F sub lowercase n is greater than F sub g, Always\" overflow=\"scroll\"><msub><mi>F</mi><mi>n</mi></msub><mo>&gt;</mo><msub><mi>F</mi><mi>g</mi></msub><mspace width=\"0.2em\"></mspace><mtext>Always</mtext></math></span></span></td><td class=\"entry colname:col2\"><span class=\"math_expression\"><span aria-label=\"F sub lowercase n is less than F sub g, Always\"><math alttext=\"F sub lowercase n is less than F sub g, Always\" overflow=\"scroll\"><msub><mi>F</mi><mi>n</mi></msub><mo>&lt;</mo><msub><mi>F</mi><mi>g</mi></msub><mspace width=\"0.2em\"></mspace><mtext>Always</mtext></math></span></span></td></tr><tr class=\"row\"><td class=\"entry colname:col1\">Case 1</td><td class=\"entry colname:col2\">Case 3</td></tr></tbody></table></div>",
+        "value": "i1"
+      },
+      {
+        "label": "<div class=\"table_wrapper\"><table class=\"tgroup cols:2\"><colgroup><col class=\"colspec colname:col1 colnum:1 colwidth:75\"><col class=\"colspec colname:col2 colnum:2 colwidth:75\"></colgroup><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry colname:col1\"><span class=\"math_expression\"><span aria-label=\"F sub lowercase n is greater than F sub g, Always\"><math alttext=\"F sub lowercase n is greater than F sub g, Always\" overflow=\"scroll\"><msub><mi>F</mi><mi>n</mi></msub><mo>&gt;</mo><msub><mi>F</mi><mi>g</mi></msub><mspace width=\"0.2em\"></mspace><mtext>Always</mtext></math></span></span></td><td class=\"entry colname:col2\"><span class=\"math_expression\"><span aria-label=\"F sub lowercase n is less than F sub g, Always\"><math alttext=\"F sub lowercase n is less than F sub g, Always\" overflow=\"scroll\"><msub><mi>F</mi><mi>n</mi></msub><mo>&lt;</mo><msub><mi>F</mi><mi>g</mi></msub><mspace width=\"0.2em\"></mspace><mtext>Always</mtext></math></span></span></td></tr><tr class=\"row\"><td class=\"entry colname:col1\">Case 2</td><td class=\"entry colname:col2\">Case 1</td></tr></tbody></table></div>",
+        "value": "i2"
+      },
+      {
+        "label": "<div class=\"table_wrapper\"><table class=\"tgroup cols:2\"><colgroup><col class=\"colspec colname:col1 colnum:1 colwidth:75\"><col class=\"colspec colname:col2 colnum:2 colwidth:75\"></colgroup><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry colname:col1\"><span class=\"math_expression\"><span aria-label=\"F sub lowercase n is greater than F sub g, Always\"><math alttext=\"F sub lowercase n is greater than F sub g, Always\" overflow=\"scroll\"><msub><mi>F</mi><mi>n</mi></msub><mo>&gt;</mo><msub><mi>F</mi><mi>g</mi></msub><mspace width=\"0.2em\"></mspace><mtext>Always</mtext></math></span></span></td><td class=\"entry colname:col2\"><span class=\"math_expression\"><span aria-label=\"F sub lowercase n is less than F sub g, Always\"><math alttext=\"F sub lowercase n is less than F sub g, Always\" overflow=\"scroll\"><msub><mi>F</mi><mi>n</mi></msub><mo>&lt;</mo><msub><mi>F</mi><mi>g</mi></msub><mspace width=\"0.2em\"></mspace><mtext>Always</mtext></math></span></span></td></tr><tr class=\"row\"><td class=\"entry colname:col1\">Case 2</td><td class=\"entry colname:col2\">Case 3</td></tr></tbody></table></div>",
+        "value": "i3"
+      },
+      {
+        "label": "<div class=\"table_wrapper\"><table class=\"tgroup cols:2\"><colgroup><col class=\"colspec colname:col1 colnum:1 colwidth:75\"><col class=\"colspec colname:col2 colnum:2 colwidth:75\"></colgroup><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry colname:col1\"><span class=\"math_expression\"><span aria-label=\"F sub lowercase n is greater than F sub g, Always\"><math alttext=\"F sub lowercase n is greater than F sub g, Always\" overflow=\"scroll\"><msub><mi>F</mi><mi>n</mi></msub><mo>&gt;</mo><msub><mi>F</mi><mi>g</mi></msub><mspace width=\"0.2em\"></mspace><mtext>Always</mtext></math></span></span></td><td class=\"entry colname:col2\"><span class=\"math_expression\"><span aria-label=\"F sub lowercase n is less than F sub g, Always\"><math alttext=\"F sub lowercase n is less than F sub g, Always\" overflow=\"scroll\"><msub><mi>F</mi><mi>n</mi></msub><mo>&lt;</mo><msub><mi>F</mi><mi>g</mi></msub><mspace width=\"0.2em\"></mspace><mtext>Always</mtext></math></span></span></td></tr><tr class=\"row\"><td class=\"entry colname:col1\">Case 3</td><td class=\"entry colname:col2\">Case 1</td></tr></tbody></table></div>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Force and Translational Dynamics"
+  },
+  "topic": {
+    "code": "2.9",
+    "text": "2.9: Circular Motion"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

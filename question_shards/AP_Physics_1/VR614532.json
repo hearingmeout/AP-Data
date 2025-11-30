@@ -1,0 +1,39 @@
+{
+  "id": "VR614532",
+  "type": "mcq",
+  "title": "Newtons second law - tension in string",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR614530.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">When the system is released from rest, the tension in the string connecting blocks <span class=\"math_expression\"><span aria-label=\"A\"><math alttext=\"A\" display=\"inline\" overflow=\"scroll\"><mtext>A</mtext></math></span></span> and <span class=\"math_expression\"><span aria-label=\"B\"><math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mtext>B</mtext></math></span></span> is <span class=\"math_expression\"><span aria-label=\"T sub 1\"><math alttext=\"T sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>T</mi><mn>1</mn></msub></math></span></span>. The positions of blocks <span class=\"math_expression\"><span aria-label=\"A\"><math alttext=\"A\" display=\"inline\" overflow=\"scroll\"><mtext>A</mtext></math></span></span> and <span class=\"math_expression\"><span aria-label=\"B\"><math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mtext>B</mtext></math></span></span> are now switched, and the system is again released from rest. The tension in the string connecting blocks <span class=\"math_expression\"><span aria-label=\"A\"><math alttext=\"A\" display=\"inline\" overflow=\"scroll\"><mtext>A</mtext></math></span></span> and <span class=\"math_expression\"><span aria-label=\"B\"><math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mtext>B</mtext></math></span></span> after their positions are switched is <span class=\"math_expression\"><span aria-label=\"T sub 2\"><math alttext=\"T sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>T</mi><mn>2</mn></msub></math></span></span>. Is <span class=\"math_expression\"><span aria-label=\"T sub 1 equals T sub 2\"><math alttext=\"T sub 1 equals T sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>T</mi><mn>1</mn></msub><mo>=</mo><msub><mi>T</mi><mn>2</mn></msub></math></span></span> ? Why or why not?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Yes, because the acceleration of the three-block system will be the same as in the original setup.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Yes, because the net external force acting on the three-block system is the same as in the original setup.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No, because the force of tension in the string accelerates a less massive block than in the original setup.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No, because the acceleration of the system will be larger than in the original setup when the more massive block is moved closer to the pulley.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Force and Translational Dynamics"
+  },
+  "topic": {
+    "code": "2.5",
+    "text": "2.5: Newton's Second Law"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

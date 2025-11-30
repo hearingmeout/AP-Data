@@ -1,0 +1,43 @@
+{
+  "id": "FT3410",
+  "type": "mcq",
+  "title": "Time for horizontally thrown rock to reach ground",
+  "content": {
+    "prompt": "<p>How much time does it take the rock to travel from the edge of the building to the ground?</p>",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<span aria-label=\"Square root of h v sub 0 end root\"><math> <semantics> <mrow> <msqrt> <mrow> <mi>h</mi> <msub> <mi>v</mi> <mn>0</mn> </msub> </mrow> </msqrt> </mrow> <annotation>MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaOaaaeaaca WGObGaamODamaaBaaaleaacaaIWaaabeaaaeqaaaaa@38D4@</annotation> </semantics> </math></span>",
+        "value": "i0"
+      },
+      {
+        "label": "<em>h/v<sub>0</sub></em>",
+        "value": "i1"
+      },
+      {
+        "label": "<em>hv<sub>0</sub>/g</em>",
+        "value": "i2"
+      },
+      {
+        "label": "<em>2h/g</em>",
+        "value": "i3"
+      },
+      {
+        "label": "<span aria-label=\"Square root of 2 h over g end root\"><math> <semantics> <mrow> <msqrt> <mrow> <mn>2</mn> <mi>h</mi> <mo>/</mo> <mi>g</mi> </mrow> </msqrt> </mrow> <annotation>MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaOaaaeaaca aIYaGaamiAaiaac+cacaWGNbaaleqaaaaa@3959@</annotation> </semantics> </math></span>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Representing Motion"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

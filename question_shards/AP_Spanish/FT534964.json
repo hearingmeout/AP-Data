@@ -1,0 +1,35 @@
+{
+  "id": "FT534964",
+  "type": "mcq",
+  "title": "Young author - main topic of article",
+  "content": {
+    "prompt": "<p>¿Cuál es el tema principal del artículo?</p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "El encuentro de Silvia con el físico Erwin Schrödinger",
+        "value": "i0"
+      },
+      {
+        "value": "i1",
+        "label": "<p>El ingreso de Silvia en la facultad de Física</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Las experiencias de una joven autora</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>La visita de unos jóvenes al Instituto de Astrofísica</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: The Influence of Language and Culture on Identity"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

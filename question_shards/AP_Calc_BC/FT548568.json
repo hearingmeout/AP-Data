@@ -1,0 +1,43 @@
+{
+  "id": "FT548568",
+  "type": "mcq",
+  "title": "Derivative of a function defined as a integral",
+  "content": {
+    "prompt": "Let <span aria-label=\"f of x is equal to the integral from 0 to x squared of sine t\"><math> <mrow> <mi>f</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mo>=</mo><mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </msubsup> <mrow> <mi>sin</mi><mi>t</mi><mtext> </mtext><mtext> </mtext><mi>d</mi><mi>t</mi></mrow> </mrow> </mstyle></mrow> </math></span>. At how many points in the closed interval <span aria-label=\"left bracket 0 comma square root of pi right bracket\"><math> <mrow> <mrow> <mo>[</mo> <mrow> <mn>0</mn> <mo>,</mo> <msqrt> <mi>π</mi> </msqrt> </mrow> <mo>]</mo> </mrow> </mrow> </math></span>&nbsp;does the instantaneous rate of change of <em>f</em> equal the average rate of change of <em>f</em> on that interval?",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Zero</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>One</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Two</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Three</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>Four</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: The Chain Rule"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

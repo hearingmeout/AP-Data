@@ -1,0 +1,39 @@
+{
+  "id": "VH915790",
+  "type": "mcq",
+  "title": "Statement about satellite motion",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VH915625.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include>\n<div class=\"stimulus_reference\">\n<div class=\"standalone_image\"><img alt=\"The figure presents a diagram of a satellite, labeled lowercase m, orbiting the moon which is labeled uppercase M. The moon is shown in the bottom lefthand corner of the diagram and the satellite is located near the top righthand corner. Two arrows extend from the satellite. The first arrow is longer, points downward and to the left, and is labeled “vector F.” The second arrow is shorter, points downward and to the right, and is labeled “vector v.”\" height=\"140\" src=\"/images/190928e2cd684ab2e1b0aeeb1813fe95.png\" width=\"186\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">The figure shows the net force exerted on the satellite by the moon and the direction of the tangential velocity of the satellite at time <span class=\"math_expression\"><span aria-label=\"t sub 0\"><math alttext=\"t sub 0\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>t</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mstyle></math></span></span>. Which of the following statements is true regarding the motion of the satellite?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The gravitational force exerted on the satellite by the moon will increase after time <span class=\"math_expression\"><span aria-label=\"t sub 0\"><math alttext=\"t sub 0\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>t</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mstyle></math></span></span>.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The satellite accelerates in a direction that is parallel to the direction of the tangential velocity.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The satellite will move toward the moon after time <span class=\"math_expression\"><span aria-label=\"t sub 0\"><math alttext=\"t sub 0\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><msub><mrow><mi>t</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mstyle></mrow></mstyle></math></span></span>.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The tangential velocity of the satellite does not remain constant.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Force and Translational Dynamics"
+  },
+  "topic": {
+    "code": "2.9",
+    "text": "2.9: Circular Motion"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

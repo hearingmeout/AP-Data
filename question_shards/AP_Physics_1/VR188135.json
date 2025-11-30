@@ -1,0 +1,39 @@
+{
+  "id": "VR188135",
+  "type": "mcq",
+  "title": "Average Torque Exerted By Friction",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR188133.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">Immediately after the collision, the rod has angular speed <span class=\"math_expression\"><span aria-label=\"omega\"><math alttext=\"omega\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>ω</mi></mrow></mstyle></math></span></span>, and the rod comes to rest a time <span class=\"math_expression\"><span aria-label=\"delta t\"><math alttext=\"delta t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi mathvariant=\"normal\">Δ</mi><mi>t</mi></mrow></mstyle></math></span></span> after the collision. If the rotational inertia of the rod about the pivot is <span class=\"math_expression\"><span aria-label=\"I\"><math alttext=\"I\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>I</mi></mrow></mstyle></math></span></span>, the average torque exerted on the rod by friction while the rod is coming to rest is</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction I omega, over delta t\"><math alttext=\"the fraction I omega, over delta t\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mrow><mi>I</mi><mi>ω</mi></mrow></mrow><mrow><mi mathvariant=\"normal\">Δ</mi><mi>t</mi></mrow></mfrac></mrow></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction 2 I omega, over delta t\"><math alttext=\"the fraction 2 I omega, over delta t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>2</mn><mi>I</mi><mi>ω</mi></mrow><mrow><mi mathvariant=\"normal\">Δ</mi><mi>t</mi></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction l omega, over l delta t, end fraction\"><math alttext=\"the fraction l omega, over l delta t, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>I</mi><mi>ω</mi></mrow><mrow><mo>ℓ</mo><mi mathvariant=\"normal\">Δ</mi><mi>t</mi></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction 2 l omega, over l delta t, end fraction\"><math alttext=\"the fraction 2 l omega, over l delta t, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>2</mn><mi>I</mi><mi>ω</mi></mrow><mrow><mo>ℓ</mo><mi mathvariant=\"normal\">Δ</mi><mi>t</mi></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.6",
+    "text": "5.6: Newton's Second Law in Rotational Form"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

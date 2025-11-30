@@ -1,0 +1,35 @@
+{
+  "id": "VR108073",
+  "type": "mcq",
+  "title": "True statement about the network",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR108072.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">Which of the following statements is true about the network?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Information sent from device A to device D can use at most two unique paths.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Information sent from device A to device I will pass through at most four other devices.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">If devices B and F fail, then device A will not be able to communicate with device G.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">If devices C and F fail, then device D will not be able to communicate with device H.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "4.2",
+    "text": "4.2: Fault Tolerance"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

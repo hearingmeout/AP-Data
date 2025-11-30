@@ -1,0 +1,35 @@
+{
+  "id": "VR025929",
+  "type": "mcq",
+  "title": "Calls to concat and substring",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following can be used to store the string <span class=\"inline_code\">\"jackalope\"</span> in the string variable <span class=\"inline_code\">animal</span> ?</p>\n<p class=\"stem_paragraph\">Select <span class=\"formatted_text text_decoration:underline\">two</span> answers.</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">animal <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> Substring (\"antelope\", 5, 4)</p><p class=\"code_line\">animal <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> Concat (animal, \"a\")</p><p class=\"code_line\">animal <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> Concat (Substring (\"jackrabbit\", 1, 4), animal)</p></div>",
+        "value": "i1"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">animal <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> Substring (\"antelope\", 5, 4)</p><p class=\"code_line\">animal <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> Concat (\"a\", animal)</p><p class=\"code_line\">animal <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> Concat (Substring (\"jackrabbit\", 1, 4), animal)</p></div>",
+        "value": "i2"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">animal <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> Substring (\"jackrabbit\", 1, 4)</p><p class=\"code_line\">animal <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> Concat (animal, \"a\")</p><p class=\"code_line\">animal <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> Concat (animal, Substring (\"antelope\", 5, 4))</p></div>",
+        "value": "i3"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">animal <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> Substring (\"jackrabbit\", 1, 4)</p><p class=\"code_line\">animal <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> Concat (animal, \"a\")</p><p class=\"code_line\">animal <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> Concat (Substring (\"antelope\", 5, 4), animal)</p></div>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.4",
+    "text": "3.4: Strings"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

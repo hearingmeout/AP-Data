@@ -1,0 +1,39 @@
+{
+  "id": "VH965286",
+  "type": "mcq",
+  "title": "Oscillation experiment",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"standalone_image\"><img alt=\"The figure presents a graph of 14 data points in the coordinate plane. The horizontal axis is labeled the square root of m, in the square root of kilograms, and the numbers 0 through 1.5, in increments of 0.5, are indicated. The vertical axis is labeled T, in seconds, and the numbers 0 through 1.4, in increments of 0.2, are indicated. The data represented in the graph are as follows. Note that all values are approximate. The data points begin at the point 0.25 kilogram comma 0.33 seconds and trend almost linearly upward and to the right. The data points end at the point 1.1 kilograms comma 1.17 seconds.\" height=\"232\" src=\"/images/95122d35f31220fbb0b2c6ae0274763f.png\" width=\"331\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">A student attaches a block to a vertical spring of unknown spring constant <span class=\"math_expression\"><span aria-label=\"k sub 0\"><math alttext=\"k sub 0\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>k</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mstyle></math></span></span> so that the block-spring system will oscillate if the block-spring system is released from rest at a vertical position that is not the system’s equilibrium position. The student varies the object’s mass and uses a stopwatch to determine the time it takes the object to make one oscillation. The student creates the graph that is shown. The slope of the line of best fit is equal to which of the following quantities?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"2 pi times k sub 0\"><math alttext=\"2 pi times k sub 0\" overflow=\"scroll\"><mstyle><mrow><mrow><mn>2</mn><mi>π</mi><msub><mrow><mi>k</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction 2 pi over k sub 0\"><math alttext=\"the fraction 2 pi over k sub 0\" overflow=\"scroll\"><mstyle><mrow><mrow><mfrac><mrow><mn>2</mn><mi>π</mi></mrow><mrow><msub><mrow><mi>k</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"2 pi times, the square root of k sub 0\"><math alttext=\"2 pi times, the square root of k sub 0\" overflow=\"scroll\"><mstyle><mrow><mrow><mn>2</mn><mi>π</mi><msqrt><mrow><msub><mrow><mi>k</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></msqrt></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction 2 pi over the square root of k sub 0\"><math alttext=\"the fraction 2 pi over the square root of k sub 0\" overflow=\"scroll\"><mstyle><mrow><mrow><mfrac><mrow><mn>2</mn><mi>π</mi></mrow><mrow><msqrt><mrow><msub><mrow><mi>k</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></msqrt></mrow></mfrac></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Oscillations"
+  },
+  "topic": {
+    "code": "7.2",
+    "text": "7.2: Frequency and Period of SHM"
+  },
+  "skill": {
+    "code": "2.D",
+    "text": "2.D: Predict new values or factors of change of physical quantities using functional dependence between variables."
+  }
+}

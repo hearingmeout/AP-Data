@@ -1,0 +1,39 @@
+{
+  "id": "CYH000003",
+  "type": "mcq",
+  "title": "Infinite loop - describecondition",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following replacements for&nbsp; <span class=\"dap_inline\">/*&nbsp;missing&nbsp;condition&nbsp;*/</span>&nbsp; will cause an infinite loop?</p>",
+    "answer": "01JEQEGFACYHPSYEYX53FT9Q1F",
+    "choices": [
+      {
+        "value": "01JEQEGFAA2Y4B2S83PXWHG1M5",
+        "label": "<pre><code class=\"language-plaintext\">j == 100</code></pre>"
+      },
+      {
+        "value": "01JEQEGFACYHPSYEYX53FT9Q1F",
+        "label": "<pre><code class=\"language-plaintext\">j != 100</code></pre>"
+      },
+      {
+        "value": "01JEQEGFACXRGQCW3GKKTRQE56",
+        "label": "<pre><code class=\"language-plaintext\">j &lt;= 100</code></pre>"
+      },
+      {
+        "value": "01JEQEGFACK0G19VQR9011BZ5N",
+        "label": "<pre><code class=\"language-plaintext\">j &gt;= 100</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: `for` Loops"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

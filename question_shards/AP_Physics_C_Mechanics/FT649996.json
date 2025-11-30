@@ -1,0 +1,43 @@
+{
+  "id": "FT649996",
+  "type": "mcq",
+  "title": "Displacement of object from velocity equation",
+  "content": {
+    "prompt": "<p>An object moves along a straight line with a velocity&nbsp;\\(v\\) given as a function of time&nbsp;\\(t\\) by the equation&nbsp;\\(v\\left(t\\right)=\\alpha t^2\\ +\\ \\beta t+\\ \\gamma\\).</p>\n\n<p>Which of the following expressions represents&nbsp;\\(\\Delta x\\left(t\\right)\\), the displacement of the object as a function of time&nbsp;\\(t\\)&nbsp;starting at a time&nbsp;\\(t=0\\)?</p>\n",
+    "answer": "3",
+    "choices": [
+      {
+        "label": "\\(2\\alpha\\)",
+        "value": "0"
+      },
+      {
+        "label": "\\(\\alpha t+\\beta\\)",
+        "value": "1"
+      },
+      {
+        "label": "\\(2\\alpha t+\\beta\\)",
+        "value": "2"
+      },
+      {
+        "label": "\\(\\alpha t^3/3\\ +\\ \\beta t^2/2+\\gamma t\\)",
+        "value": "3"
+      },
+      {
+        "label": "\\(3\\alpha t^3+2\\beta t^2+\\gamma t\\)",
+        "value": "4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.2",
+    "text": "1.2: Displacement, Velocity, and Acceleration"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

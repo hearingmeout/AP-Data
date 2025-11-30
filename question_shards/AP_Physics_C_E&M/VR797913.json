@@ -1,0 +1,39 @@
+{
+  "id": "VR797913",
+  "type": "mcq",
+  "title": "E field of distribution - 180-degree arc - E at C",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"standalone_image\"><img alt=\"The figure shows a semicircular arc with center C and radius R.\" src=\"/images/b67123e5a9ebd525b5dc7e0f5b80a37d.svg\"></div></div></div><p class=\"stem_paragraph\">A semicircular arc of charge <span class=\"math_expression\"><span aria-label=\"positive uppercase Q\"><math alttext=\"positive uppercase Q\" display=\"inline\" overflow=\"scroll\"><mo>+</mo><mi>Q</mi></math></span></span> has a radius <span class=\"math_expression\"><span aria-label=\"R\"><math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math></span></span> and subtends an angle of <span class=\"math_expression\"><span aria-label=\"180\"><math alttext=\"180\" display=\"inline\" overflow=\"scroll\"><mn>180</mn></math></span></span> degrees about Point <span class=\"math_expression\"><span aria-label=\"C\"><math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">C</mi></math></span></span>, as shown in the figure. The charge is distributed uniformly around the arc. Which of the following claims about the electric field at Point <span class=\"math_expression\"><span aria-label=\"C\"><math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">C</mi></math></span></span> is correct, and what evidence or reasoning helps support the claim?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The electric field is zero at Point <span class=\"math_expression\"><span aria-label=\"C\"><math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">C</mi></math></span></span>. Because of symmetry, at Point <span class=\"math_expression\"><span aria-label=\"C\"><math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">C</mi></math></span></span> there is no preferred direction for a nonzero field to point.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The electric field is zero at Point <span class=\"math_expression\"><span aria-label=\"C\"><math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">C</mi></math></span></span>. Contributions to the electric field from the top half of the arc cancel the field contributions from the bottom half of the arc.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The electric field has a nonzero magnitude at Point <span class=\"math_expression\"><span aria-label=\"C\"><math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">C</mi></math></span></span>. The field at Point <span class=\"math_expression\"><span aria-label=\"C\"><math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">C</mi></math></span></span> is the same as the field of a positive point charge <span class=\"math_expression\"><span aria-label=\"positive uppercase Q\"><math alttext=\"positive uppercase Q\" display=\"inline\" overflow=\"scroll\"><mo>+</mo><mi>Q</mi></math></span></span> located a distance <span class=\"math_expression\"><span aria-label=\"R over 2\"><math alttext=\"R over 2\" display=\"inline\" overflow=\"scroll\"><mfrac><mi>R</mi><mn>2</mn></mfrac></math></span></span> to the left of Point <span class=\"math_expression\"><span aria-label=\"C\"><math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">C</mi></math></span></span>.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The electric field has a nonzero magnitude at Point <span class=\"math_expression\"><span aria-label=\"C\"><math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">C</mi></math></span></span>. Every point on the arc produces a field at Point <span class=\"math_expression\"><span aria-label=\"C\"><math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">C</mi></math></span></span> that cancels the vertical, but not the horizontal, field component from another point on the arc.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Electric Charges, Fields, and Gauss's Law"
+  },
+  "topic": {
+    "code": "8.4",
+    "text": "8.4: Electric Fields of Charge Distributions"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "FT645757",
+  "type": "mcq",
+  "title": "Test cases for procedure Smallest",
+  "content": {
+    "prompt": "<p>For which of the following values of&nbsp;<img alt=\"One word, the List\" height=\"15\" src=\"/images/3a1c5a19ccf767adb5cf1a0cdb94114a.JPG\" width=\"72\">&nbsp;will&nbsp;<img alt=\"Smallest, open parenthesis, one word, the List, close parenthesis\" height=\"16\" src=\"/images/9e369aced89be51c0a3953012aaa35b5.JPG\" width=\"174\">&nbsp;NOT return the intended value?</p>\n<p>Select <u>two</u> answers.</p>\n",
+    "answer": "2",
+    "choices": [
+      {
+        "label": "<img alt=\"One word, the List, left arrow, open bracket, 10, 20, 30, 40, close bracket\" height=\"17\" src=\"/images/79af5246fe6aa99e9a4565a199d1ab2e.JPG\" width=\"268\">",
+        "value": "0"
+      },
+      {
+        "label": "<img alt=\"One word, the List, left arrow, open bracket, 20, 10, 30, 40, close bracket\" height=\"21\" src=\"/images/7fae172d2a98c06d36337d0f153cd486.JPG\" width=\"270\">",
+        "value": "1"
+      },
+      {
+        "label": "<img alt=\"One word, the List, left arrow, open bracket, 30, 40, 20, 10, close bracket\" height=\"18\" src=\"/images/5f72a77239504be56cdb3eb0b565a290.JPG\" width=\"269\">",
+        "value": "2"
+      },
+      {
+        "label": "<img alt=\"One word, the List, left arrow, open bracket, 40, 30, 20, 10, close bracket\" height=\"18\" src=\"/images/587921d1352ebe16040c9cda0416c6f5.JPG\" width=\"272\">",
+        "value": "3"
+      }
+    ]
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Identifying and Correcting Errors"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Identify and correct errors in algorithms and programs, including error discovery through testing."
+  }
+}

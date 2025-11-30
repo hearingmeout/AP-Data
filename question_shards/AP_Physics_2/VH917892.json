@@ -1,0 +1,39 @@
+{
+  "id": "VH917892",
+  "type": "mcq",
+  "title": "Induced current in uniform magnetic field",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VH917797.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include>\n<div class=\"stimulus_reference\">\n<div class=\"standalone_image\"><img alt=\"The figure presents a horizontal loop of wire that is connected to an ammeter. The ammeter has a scale with a needle that points to zero in the middle, with a plus sign to the right and a minus sign to the left. A magnetic field is shown directed downward through the loop.\" height=\"169\" src=\"/images/172c225e070f3f38a9ebbe493841f1f6.png\" width=\"265\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">The bar magnet is removed, and the loop is placed in a region with a uniform constant magnetic field, as shown above. The loop then undergoes simple harmonic motion, moving up and down vertically. Which of the following statements correctly describes the resulting induced current, if any?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The induced current is nonzero and constant.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The induced current oscillates at the same frequency as the loop.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The induced current oscillates at twice the frequency as the loop.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The induced current is zero.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "12",
+    "text": "12: Magnetism and Electromagnetism"
+  },
+  "topic": {
+    "code": "12.4",
+    "text": "12.4: Electromagnetic Induction and Faraday's Law"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

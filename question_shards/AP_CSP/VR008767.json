@@ -1,0 +1,35 @@
+{
+  "id": "VR008767",
+  "type": "mcq",
+  "title": "Redundant routing on network configuration",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR008765.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">In which of the configurations is it possible to have redundant routing between devices Q and V?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Configuration I only</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Configuration II only</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Both configuration I and configuration II</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Neither configuration I nor configuration II</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "4.2",
+    "text": "4.2: Fault Tolerance"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

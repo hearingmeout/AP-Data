@@ -1,0 +1,39 @@
+{
+  "id": "VR852884",
+  "type": "mcq",
+  "title": "SET Rotation Collision - Compare Disks",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR852881.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">In a new scenario, Disk <span class=\"math_expression\"><span aria-label=\"2\"><math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math></span></span> is replaced by Disk <span class=\"math_expression\"><span aria-label=\"3\"><math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mn>3</mn></math></span></span>, which has the same radius as Disk <span class=\"math_expression\"><span aria-label=\"1\"><math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math></span></span> but twice the mass. Disk <span class=\"math_expression\"><span aria-label=\"1\"><math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math></span></span> is again rotating at initial speed <span class=\"math_expression\"><span aria-label=\"omega\"><math alttext=\"omega\" display=\"inline\" overflow=\"scroll\"><mi>ω</mi></math></span></span> when Disk <span class=\"math_expression\"><span aria-label=\"3\"><math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mn>3</mn></math></span></span> is dropped on Disk <span class=\"math_expression\"><span aria-label=\"1\"><math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math></span></span>. After a short time, disks <span class=\"math_expression\"><span aria-label=\"1\"><math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math></span></span> and <span class=\"math_expression\"><span aria-label=\"3\"><math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mn>3</mn></math></span></span> rotate together with the same angular speed <span class=\"math_expression\"><span aria-label=\"omega sub new\"><math alttext=\"omega sub new\" display=\"inline\" overflow=\"scroll\"><msub><mi>ω</mi><mi>new</mi></msub></math></span></span>. What is the ratio <span class=\"math_expression\"><span aria-label=\"the fraction with numerator omega sub new, and denominator omega sub f\"><math alttext=\"the fraction with numerator omega sub new, and denominator omega sub f\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><msub><mi>ω</mi><mtext>new</mtext></msub><msub><mi>ω</mi><mi>f</mi></msub></mfrac></mstyle></math></span></span>?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"one third\"><math alttext=\"one third\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>1</mn><mn>3</mn></mfrac></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"one half\"><math alttext=\"one half\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>1</mn><mn>2</mn></mfrac></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"two thirds\"><math alttext=\"two thirds\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>2</mn><mn>3</mn></mfrac></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"three halves\"><math alttext=\"three halves\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>3</mn><mn>2</mn></mfrac></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.4",
+    "text": "5.4: Rotational Inertia"
+  },
+  "skill": {
+    "code": "2.D",
+    "text": "2.D: Predict new values or factors of change of physical quantities using functional dependence between variables."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "VH980861",
+  "type": "mcq",
+  "title": "Repeat derivation",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VH980846.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include>\n<div class=\"stimulus_reference\">\n<div class=\"standalone_image\"><img alt=\"The figure presents a diagram of a pulley system at the edge of a table. A block labeled Block 1 is hanging off the table. Two other blocks are on the table. The block on the left is labeled Block 3 and the block on the right is labeled block 2. Block 1 is connected to a string that passes through a pulley. The left end of the string is connected to the right side of Block 2. Another string connected the left side of Block 2 to the right side of Block 3.\" height=\"157\" src=\"/images/794a338b5aa833afd34518f2d55aaa57.png\" width=\"350\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">A third block of the same mass as blocks 1 and 2 is attached to block 2 on the table, as shown in the figure. Using conservation of energy, the student repeats a derivation for the speed <span class=\"math_expression\"><span aria-label=\"v\"><math alttext=\"v\" overflow=\"scroll\"><mstyle><mrow><mi>v</mi></mrow></mstyle></math></span></span> of block 1 when it has fallen a distance <span class=\"math_expression\"><span aria-label=\"h\"><math alttext=\"h\" overflow=\"scroll\"><mstyle><mrow><mi>h</mi></mrow></mstyle></math></span></span>. Which of the following is a correct expression for <span class=\"math_expression\"><span aria-label=\"v\"><math alttext=\"v\" overflow=\"scroll\"><mstyle><mrow><mi>v</mi></mrow></mstyle></math></span></span> ?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator the square root of g h, and denominator 3\"><math alttext=\"the fraction with numerator the square root of g h, and denominator 3\" overflow=\"scroll\"><mstyle><mrow><mrow><mstyle scriptlevel=\"+1\"><mrow><mfrac><mrow><msqrt><mrow><mi>g</mi><mi>h</mi></mrow></msqrt></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mstyle></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator the square root of g h, and denominator 2\"><math alttext=\"the fraction with numerator the square root of g h, and denominator 2\" overflow=\"scroll\"><mstyle><mrow><mrow><mstyle scriptlevel=\"+1\"><mrow><mfrac><mrow><msqrt><mrow><mi>g</mi><mi>h</mi></mrow></msqrt></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\" the square root of the fraction with numerator 2 g h, and denominator 3\"><math alttext=\" the square root of the fraction with numerator 2 g h, and denominator 3\" overflow=\"scroll\"><mstyle><mrow><mrow><msqrt><mrow><mstyle scriptlevel=\"+1\"><mrow><mfrac><mrow><mn>2</mn><mi>g</mi><mi>h</mi></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mstyle></mrow></msqrt></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the square root of g h\"><math alttext=\"the square root of g h\" overflow=\"scroll\"><mstyle><mrow><mrow><msqrt><mrow><mi>g</mi><mi>h</mi></mrow></msqrt></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\" the square root of the fraction with numerator 3 g h, and denominator 2\"><math alttext=\" the square root of the fraction with numerator 3 g h, and denominator 2\" overflow=\"scroll\"><mstyle><mrow><mrow><msqrt><mrow><mstyle scriptlevel=\"+1\"><mrow><mfrac><mrow><mn>3</mn><mi>g</mi><mi>h</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></mrow></msqrt></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Work, Energy, and Power"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: Translational Kinetic Energy"
+  },
+  "skill": {
+    "code": "2.D",
+    "text": "2.D: Predict new values or factors of change of physical quantities using functional dependence between variables."
+  }
+}

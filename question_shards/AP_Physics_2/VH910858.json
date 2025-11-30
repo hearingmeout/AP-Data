@@ -1,0 +1,39 @@
+{
+  "id": "VH910858",
+  "type": "mcq",
+  "title": "Power source resistance",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VH910827.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">Do the results of the experiment depend on whether the power source has some internal resistance, and why or why not?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">No, because the measurements apply to the lightbulb only.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No, because the resistor in the circuit ensures that the correct current is delivered to the lightbulb.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Yes, because the current in the circuit depends on the total resistance of the circuit.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Yes, because the <span class=\"math_expression\"><span aria-label=\"e m f\"><math alttext=\"e m f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>emf</mtext></mrow></mstyle></math></span></span> provided by the power source will be different if it has internal resistance.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.3",
+    "text": "11.3: Resistance, Resistivity, and Ohm's Law"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

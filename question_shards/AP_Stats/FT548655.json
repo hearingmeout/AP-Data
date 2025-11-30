@@ -1,0 +1,43 @@
+{
+  "id": "FT548655",
+  "type": "mcq",
+  "title": "Independence and mutual exclusivity of wiring jobs",
+  "content": {
+    "prompt": "<p>The SC Electric Company has bid on two electrical wiring jobs. The owner of the company believes that</p>\n\n<ul>\n\t<li>\n\t<p>the probability of being awarded the first job (event <em>A</em>) is 0.75;</p>\n\t</li>\n\t<li>\n\t<p>the probability of being awarded the second job (event <em>B</em>) is 0.5; and</p>\n\t</li>\n\t<li>\n\t<p>the probability of being awarded both jobs (event (<em>A</em> and <em>B</em>)) is 0.375.</p>\n\t</li>\n</ul>\n\n<p>If the owner’s beliefs are correct, which of the following statements must be true concerning event <em>A</em> and event <em>B</em> ?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "Event <em>A </em>and event <em>B</em> are mutually exclusive and are independent.",
+        "value": "i0"
+      },
+      {
+        "label": "Event <em>A </em>and event <em>B </em>are mutually exclusive and are <u>not</u> independent.",
+        "value": "i1"
+      },
+      {
+        "label": "Event <em>A</em> and event <em>B</em> are <u>not</u> mutually exclusive and are independent.",
+        "value": "i2"
+      },
+      {
+        "label": "Event <em>A</em> and event <em>B</em> are <u>not</u> mutually exclusive and are <u>not</u> independent.",
+        "value": "i3"
+      },
+      {
+        "label": "Event <em>A</em> and event <em>B</em> are <u>not</u> mutually exclusive, and independence cannot be determined with the information given.",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.4",
+    "text": "4.4: Mutually Exclusive Events"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+  }
+}

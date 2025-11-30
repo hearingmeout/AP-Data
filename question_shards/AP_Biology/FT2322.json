@@ -1,0 +1,39 @@
+{
+  "id": "FT2322",
+  "type": "mcq",
+  "title": "A feedback control diagram for hormone thyroxine",
+  "content": {
+    "prompt": "<p><img alt=\"A feedback control diagram for hormone thyroxine. The hypothalamus has a solid arrow towards the thyrotropin-releasing hormone, or TRH, which has a solid arrow to the anterior pituitary, which has a solid arrow to the thyroid stimulating hormone or TSH, which has a solid arrow to the thyroid gland, which has a solid arrow to thyroxine. Thyroxine has two dashed arrows labeled inhibition, one to the anterior pituitary, and one to the hypothalamus. \" height=\"257\" src=\"/images/3103f6db8f2daad16bcff39541cafb44.png\" width=\"295\"></p>\n\n<p>The diagram above illustrates feedback control as exerted by the hormone thyroxine. Following surgical removal of the thyroid gland, the level of TSH in the blood will increase. Which of the following best explains this increase?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Residual blood thyroxine, from prior to thyroid gland removal, will bind to cells in the anterior pituitary, signaling more TSH secretion.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Thyroxine will remain bound to thyroxine receptors on various body cells, and these body cells will secrete additional hormones that stimulate the anterior pituitary to secrete TSH.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Thyroxine that was stored in the anterior pituitary prior to thyroid gland removal will signal more TSH secretion.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>A decrease in thyroxine levels means a loss of inhibition to the hypothalamus and anterior pituitary, leading to increased TSH secretion.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Cell Communication and Cell Cycle"
+  },
+  "topic": {
+    "code": "4.4",
+    "text": "4.4: Feedback"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Explain relationships between characteristics of biological models in both theoretical and applied contexts."
+  }
+}

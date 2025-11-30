@@ -1,0 +1,39 @@
+{
+  "id": "FGY000001",
+  "type": "mcq",
+  "title": "Parametric Functions - modeling a hyperbola",
+  "content": {
+    "prompt": "<div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <p class=\"dap_body\">Which of the following is the parametric representation of a hyperbola centered at the origin in the&nbsp;<span aria-label=\"x y\"><math alttext=\"x y\"><mi>x</mi><mi>y</mi></math></span>-plane that opens up and down and has asymptotes&nbsp;<span aria-label=\"y equals 2 x\"><math alttext=\"y equals 2 x\"><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi></math></span>&nbsp;and&nbsp;<span aria-label=\"y equals negative 2 x\"><math alttext=\"y equals negative 2 x\"><mi>y</mi><mo>=</mo><mo>-</mo><mn>2</mn><mi>x</mi></math></span>&nbsp;?</p> </div> </div> </div>\n",
+    "answer": "C-23638",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"x open parentheses t close parentheses equals sec t\"><math alttext=\"x open parentheses t close parentheses equals sec t\"><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mi>sec</mi><mi>t</mi></math></span>&nbsp;and&nbsp;<span aria-label=\"y open parentheses t close parentheses equals 2 tan t\"><math alttext=\"y open parentheses t close parentheses equals 2 tan t\"><mi>y</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>2</mn><mi>tan</mi><mi>t</mi></math></span></p>",
+        "value": "A-23636"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"x open parentheses t close parentheses equals 2 sec t\"><math alttext=\"x open parentheses t close parentheses equals 2 sec t\"><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>2</mn><mi>sec</mi><mi>t</mi></math></span>&nbsp;and&nbsp;<span aria-label=\"y open parentheses t close parentheses equals tan t\"><math alttext=\"y open parentheses t close parentheses equals tan t\"><mi>y</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mi>tan</mi><mi>t</mi></math></span></p>",
+        "value": "B-23637"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"x open parentheses t close parentheses equals tan t\"><math alttext=\"x open parentheses t close parentheses equals tan t\"><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mi>tan</mi><mi>t</mi></math></span>&nbsp;and&nbsp;<span aria-label=\"y open parentheses t close parentheses equals 2 sec t\"><math alttext=\"y open parentheses t close parentheses equals 2 sec t\"><mi>y</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>2</mn><mi>sec</mi><mi>t</mi></math></span></p>",
+        "value": "C-23638"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"x open parentheses t close parentheses equals 2 tan t\"><math alttext=\"x open parentheses t close parentheses equals 2 tan t\"><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>2</mn><mi>tan</mi><mi>t</mi></math></span>&nbsp;and&nbsp;<span aria-label=\"y open parentheses t close parentheses equals sec t\"><math alttext=\"y open parentheses t close parentheses equals sec t\"><mi>y</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mi>sec</mi><mi>t</mi></math></span></p>",
+        "value": "D-23639"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.7",
+    "text": "4.7: Parametrization of Implicitly Defined Functions"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

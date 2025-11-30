@@ -1,0 +1,39 @@
+{
+  "id": "JMA000004",
+  "type": "mcq",
+  "title": "Fruit class - design",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following are the most appropriate replacements for&nbsp; <span class=\"dap_inline\">(missing instance variable)</span>&nbsp; and&nbsp; <span class=\"dap_inline\">(missing method)</span>?</p>",
+    "answer": "01JEQNE1K7TR5T4KW7VHFQ02YT",
+    "choices": [
+      {
+        "value": "01JEQNE1K6RZ8YGQPEKA6XH8FJ",
+        "label": "<p class=\"dap_body\">Replacing &nbsp;<span class=\"dap_inline\">(missing instance variable)</span>&nbsp; with<span style=\"background-color:rgb(255,255,255);color:rgb(30,30,30);\">&nbsp;<span> </span></span><span class=\"dap_inline\">- quantity : String</span><span style=\"background-color:rgb(255,255,255);color:rgb(30,30,30);\">&nbsp;<span> </span></span>and replacing&nbsp; <span class=\"dap_inline\">(missing method)</span>&nbsp; with<span style=\"background-color:rgb(255,255,255);color:rgb(30,30,30);\">&nbsp;<span> </span></span><span class=\"dap_inline\">+ getQuantity() : String</span></p>"
+      },
+      {
+        "value": "01JEQNE1K7TR5T4KW7VHFQ02YT",
+        "label": "<p class=\"dap_body\">Replacing &nbsp;<span class=\"dap_inline\">(missing instance variable)</span>&nbsp; with<span style=\"background-color:rgb(255,255,255);color:rgb(30,30,30);\">&nbsp;<span> </span></span><span class=\"dap_inline\">- quantity : int</span><span style=\"background-color:rgb(255,255,255);color:rgb(30,30,30);\">&nbsp;<span> </span></span>and replacing &nbsp;<span class=\"dap_inline\">(missing method)</span>&nbsp; with<span style=\"background-color:rgb(255,255,255);color:rgb(30,30,30);\">&nbsp;<span> </span></span><span class=\"dap_inline\">+ getQuantity() : int</span></p>"
+      },
+      {
+        "value": "01JEQNE1K7YZS4V4ES9V0HBVKF",
+        "label": "<p class=\"dap_body\">Replacing &nbsp;<span class=\"dap_inline\">(missing instance variable)</span>&nbsp; with<span style=\"background-color:rgb(255,255,255);color:rgb(30,30,30);\">&nbsp;<span> </span></span><span class=\"dap_inline\">- quantity : int</span><span style=\"background-color:rgb(255,255,255);color:rgb(30,30,30);\">&nbsp;<span> </span></span>and replacing &nbsp;<span class=\"dap_inline\">(missing method)</span>&nbsp; with<span style=\"background-color:rgb(255,255,255);color:rgb(30,30,30);\">&nbsp;<span> </span></span><span class=\"dap_inline\">+ getQuantity() : String</span></p>"
+      },
+      {
+        "value": "01JEQNE1K7FV41ZMJ7FYYAQDZR",
+        "label": "<p class=\"dap_body\">Replacing &nbsp;<span class=\"dap_inline\">(missing instance variable)</span>&nbsp; with<span style=\"background-color:rgb(255,255,255);color:rgb(30,30,30);\">&nbsp;<span> </span></span><span class=\"dap_inline\">- quantity : String</span><span style=\"background-color:rgb(255,255,255);color:rgb(30,30,30);\">&nbsp;<span> </span></span>and replacing &nbsp;<span class=\"dap_inline\">(missing method)</span>&nbsp; with<span style=\"background-color:rgb(255,255,255);color:rgb(30,30,30);\">&nbsp;<span> </span></span><span class=\"dap_inline\">+ getQuantity() : int</span></p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: Abstraction and Program Design"
+  },
+  "skill": {
+    "code": "1.A",
+    "text": "1.A: Determine an appropriate program design to solve a problem or accomplish a task."
+  }
+}

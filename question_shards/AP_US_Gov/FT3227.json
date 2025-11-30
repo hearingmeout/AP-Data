@@ -1,0 +1,43 @@
+{
+  "id": "FT3227",
+  "type": "mcq",
+  "title": "Education level predicts likelihood of voting",
+  "content": {
+    "prompt": "<p>Of the following, which best predicts the likelihood that citizens will vote?</p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Their race</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Their religion</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Their educational level</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Their gender</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>Their region of residence</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Political Participation"
+  },
+  "topic": {
+    "code": "5.2",
+    "text": "5.2: Voter Turnout"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Explain political principles, institutions, processes, policies, and behaviors."
+  }
+}

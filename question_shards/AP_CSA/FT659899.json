@@ -1,0 +1,39 @@
+{
+  "id": "FT659899",
+  "type": "mcq",
+  "title": "sol Method with int parameter",
+  "content": {
+    "prompt": "<p>Consider the following method.</p>\n<p style=\"margin-bottom:0px\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">&nbsp; &nbsp; &nbsp;public int sol(int lim)</span></span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">&nbsp;{</span></span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">&nbsp; &nbsp;int s = 0;</span></span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\">&nbsp;</p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">&nbsp; &nbsp;for (int outer = 1; outer &lt;= lim; outer++)</span></span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">&nbsp; &nbsp;{</span></span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">&nbsp; &nbsp; &nbsp;for (int inner = outer; inner &lt;= lim; inner++)</span></span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">&nbsp; &nbsp; &nbsp;{</span></span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">&nbsp; &nbsp; &nbsp; &nbsp;s++;</span></span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">&nbsp; &nbsp; &nbsp;}</span></span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">&nbsp; &nbsp;}</span></span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\">&nbsp;</p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">&nbsp; &nbsp;return s;</span></span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">&nbsp;}</span></span></span></span></span></p>\n<p style=\"margin-bottom:0px\">&nbsp;</p>\n<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:Times-Roman\"></span></span></span>What value is returned as a result of the call<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:Times-Roman\"> </span></span></span><span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:Courier\">sol(10)</span></span></span>?",
+    "answer": "2",
+    "choices": [
+      {
+        "label": "20",
+        "value": "0"
+      },
+      {
+        "label": "45",
+        "value": "1"
+      },
+      {
+        "label": "55",
+        "value": "2"
+      },
+      {
+        "label": "100",
+        "value": "3"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.11",
+    "text": "2.11: Nested Iteration"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "VH919215",
+  "type": "mcq",
+  "title": "print As in while loop",
+  "content": {
+    "prompt": "<p class=\"standalone_statement style:1\">Consider the following code segment.</p>\n<div class=\"standalone_code style:1\">\n<p class=\"code_line\">int num = 1;</p>\n<p class=\"code_line\">while (num &lt; 5)</p>\n<p class=\"code_line\">{</p>\n<p class=\"code_line indent:3\">System.out.print(\"A\");</p>\n<p class=\"code_line indent:3\">num += 2;</p>\n<p class=\"code_line\">}</p>\n</div>\n<p class=\"stem_paragraph\">What is printed as a result of executing the code segment?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">A</p></div>",
+        "value": "i1"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">AA</p></div>",
+        "value": "i2"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">AAA</p></div>",
+        "value": "i3"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">AAAA</p></div>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.7",
+    "text": "2.7: `while` Loops"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

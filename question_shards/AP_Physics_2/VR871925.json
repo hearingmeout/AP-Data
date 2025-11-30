@@ -1,0 +1,39 @@
+{
+  "id": "VR871925",
+  "type": "mcq",
+  "title": "Junction rule - unknown current in circuit",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">What are the value and the direction of the current through Resistor <span class=\"math_expression\"><span aria-label=\"R sub 1\" role=\"math\"><math alttext=\"R sub 1\" overflow=\"scroll\"> <msub> <mi mathvariant=\"normal\">R</mi> <mn>1</mn> </msub> </math></span></span> in the circuit shown?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"1.0 amp\"><math alttext=\"1.0 amp\" overflow=\"scroll\"><mn>1.0</mn><mspace width=\"0.2em\"></mspace><mi mathvariant=\"normal\">A</mi></math></span></span> toward the top of the page</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"1.0 amp\"><math alttext=\"1.0 amp\" overflow=\"scroll\"><mn>1.0</mn><mspace width=\"0.2em\"></mspace><mi mathvariant=\"normal\">A</mi></math></span></span> toward the bottom of the page</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"2.0 amps\"><math alttext=\"2.0 amps\" overflow=\"scroll\"><mn>2.0</mn><mspace width=\"0.2em\"></mspace><mi mathvariant=\"normal\">A</mi></math></span></span> toward the top of the page</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"2.0 amps\"><math alttext=\"2.0 amps\" overflow=\"scroll\"><mn>2.0</mn><mspace width=\"0.2em\"></mspace><mi mathvariant=\"normal\">A</mi></math></span></span> toward the bottom of the page</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.7",
+    "text": "11.7: Kirchhoff's Junction Rule"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

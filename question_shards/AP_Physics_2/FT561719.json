@@ -1,0 +1,39 @@
+{
+  "id": "FT561719",
+  "type": "mcq",
+  "title": "Determine dielectric constant of unknown material",
+  "content": {
+    "prompt": "Assume the capacitance <em>C</em> of the capacitor is known. The gap between the capacitor’s plates is now filled with an unknown insulating material, and the circuit is again left connected for a long time. Measuring which of the following provides enough information to determine the unknown material’s dielectric constant <em>k</em> ?",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The potential difference across the capacitor and the current in each branch of the circuit</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The potential difference across the capacitor and the charge on one of its plates</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The potential difference across the capacitor and the charge on the dielectric material</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The separation between the capacitor plates and the area of the plates</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Electric Force, Field, and Potential"
+  },
+  "topic": {
+    "code": "10.6",
+    "text": "10.6: Capacitors"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "VH917461",
+  "type": "mcq",
+  "title": "School raffle prizes",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">The following table shows the probability distribution for the prize amounts that will be awarded at a school raffle.</p><div class=\"table_wrapper\"><table class=\"tgroup cols:6\"><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry colname:col1\"><span class=\"formatted_text font_weight:bold\">Prize </span> </td><td class=\"entry colname:col2\">$1   </td><td class=\"entry colname:col3\">$5   </td><td class=\"entry colname:col4\">$10   </td><td class=\"entry colname:col5\">$20   </td><td class=\"entry colname:col6\">$50   </td></tr><tr class=\"row\"><td class=\"entry colname:col1\"><span class=\"formatted_text font_weight:bold\">Probability </span> </td><td class=\"entry colname:col2\">0.60   </td><td class=\"entry colname:col3\">0.30   </td><td class=\"entry colname:col4\">0.05   </td><td class=\"entry colname:col5\">0.04   </td><td class=\"entry colname:col6\">0.01   </td></tr></tbody></table></div><p class=\"stem_paragraph\">Let the random variable <span class=\"math_expression\"><span aria-label=\"P\"><math alttext=\"P\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>P</mi></mrow></mstyle></math></span></span> represent a randomly selected prize amount. What is the expected value of <span class=\"math_expression\"><span aria-label=\"P\"><math alttext=\"P\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>P</mi></mrow></mstyle></math></span></span>&nbsp;?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">$1.00</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">$3.90</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">$4.00</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">$10.00</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">$17.20</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: Mean and Standard Deviation of Random Variables"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Determine parameters for probability distributions."
+  }
+}

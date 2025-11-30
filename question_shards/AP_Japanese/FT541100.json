@@ -1,0 +1,35 @@
+{
+  "id": "FT541100",
+  "type": "mcq",
+  "title": "Students in Ms. Kawamura's school",
+  "content": {
+    "prompt": "<p>What does Ms. Kawamura say about the students in her school?</p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Most of them participate in sports.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Most of them take the school bus.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>They like participating in exchange programs.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>They like using the library.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: The Influence of Language and Culture on Identity"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

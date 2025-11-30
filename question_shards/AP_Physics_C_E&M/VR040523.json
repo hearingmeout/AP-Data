@@ -1,0 +1,39 @@
+{
+  "id": "VR040523",
+  "type": "mcq",
+  "title": "Acetyl-CoA SM 4",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR040504.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">Pyruvate dehydrogenase deficiency is a genetic disease most commonly linked to a mutation in the <span class=\"math_expression\"><span aria-label=\"alpha\"><math alttext=\"alpha\" display=\"inline\" overflow=\"scroll\"><mrow><mi>α</mi><mtext></mtext></mrow></math></span></span>-subunit of the mitochondrial enzyme that causes the enzyme to cease functioning. As a result of the mutation, affected individuals build up dangerous amounts of lactic acid. Which of the following best explains the buildup of lactic acid in individuals with the mutation?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Cells use lactic acid to shunt electrons from pyruvate to the electron transport chain in the mitochondria.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Cells undergo glycolysis because there is a buildup of pyruvate in affected individuals.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Cells cannot transport pyruvate to the mitochondria in the absence of pyruvate dehydrogenase activity, so the pyruvate is broken down to lactic acid and ethanol.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Cells undergo fermentation because pyruvate cannot be metabolized to proceed into the Krebs cycle.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Cellular Energetics"
+  },
+  "topic": {
+    "code": "3.5",
+    "text": "3.5: Cellular Respiration"
+  },
+  "skill": {
+    "code": "1.C",
+    "text": "1.C: Explain biological concepts and processes in applied contexts."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "VH975176",
+  "type": "mcq",
+  "title": "Raccoon weight",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"passage\"><div class=\"prose style:1\"><p class=\"passage_para\">A study will be conducted to investigate whether there is a difference in the mean weights between two populations of raccoons. Random samples of raccoons will be selected from each population, and the mean sample weight will be calculated for each sample.</p></div></div></div></div><p class=\"stem_paragraph\">Which of the following is the appropriate test for the study?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">A one-sample <span class=\"math_expression\"><span aria-label=\"z\"><math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math></span></span>-test for a population proportion</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">A one-sample <span class=\"math_expression\"><span aria-label=\"t\"><math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math></span></span>-test for a population mean</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">A two-sample <span class=\"math_expression\"><span aria-label=\"t\"><math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math></span></span>-test for a difference between sample means</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">A two-sample <span class=\"math_expression\"><span aria-label=\"t\"><math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math></span></span>-test for a difference between population means</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">A two-sample <span class=\"math_expression\"><span aria-label=\"z\"><math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math></span></span>-test for a difference between population proportions</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.8",
+    "text": "7.8: Setting Up a Test for the Difference of Two Population Means"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Identify an appropriate inference method for significance tests."
+  }
+}

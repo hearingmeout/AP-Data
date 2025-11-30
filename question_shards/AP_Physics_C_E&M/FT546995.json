@@ -1,0 +1,43 @@
+{
+  "id": "FT546995",
+  "type": "mcq",
+  "title": "Effect of lower alpha level on Type II and power",
+  "content": {
+    "prompt": "<p>A one-sided hypothesis test is to be performed with a significance level of 0.05. Suppose that the null hypothesis is false. If a significance level of 0.01 were to be used instead of a significance level of 0.05, which of the following would be true?</p>",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Neither the probability of a Type II error nor the power of the test would change.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p> Both the probability of a Type II error and the power of the test would decrease.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Both the probability of a Type II error and the power of the test would increase.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The probability of a Type II error would decrease and the power of the test would increase.</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>The probability of a Type II error would increase and the power of the test would decrease.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.7",
+    "text": "6.7: Potential Errors When Performing Tests"
+  },
+  "skill": {
+    "code": "Skill 4.A",
+    "text": "Skill 4.A: Make an appropriate claim or draw an appropriate conclusion."
+  }
+}

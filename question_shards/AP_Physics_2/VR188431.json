@@ -1,0 +1,39 @@
+{
+  "id": "VR188431",
+  "type": "mcq",
+  "title": "Two capacitors and two batteries",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"standalone_image\"><img alt=\"The figure shows a rectangular circuit diagram with two batteries and two capacitors. Beginning on the left vertical side of the diagram and moving clockwise, the left side has a 9 volt battery with the longer line of the battery symbol at the top. The top side has a capacitor labeled C sub 1, the right side has a 3 volt battery with the longer line of the battery symbol at the bottom, and the bottom side has a capacitor labeled C sub 2.\" height=\"208\" src=\"/images/9b01d15a0c6bfadbf38451101653f40a.png\" width=\"250\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">Two capacitors and two batteries are connected in the circuit shown in the diagram above. The potential difference across <span class=\"math_expression\"><span aria-label=\"C sub 2\"><math alttext=\"C sub 2\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mstyle></math></span></span> is two times the potential difference across <span class=\"math_expression\"><span aria-label=\"C sub 1\"><math alttext=\"C sub 1\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mstyle></math></span></span>. What is the potential difference across <span class=\"math_expression\"><span aria-label=\"C sub 2\"><math alttext=\"C sub 2\" overflow=\"scroll\"><mrow><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></math></span></span>?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"2 volts\"><math alttext=\"2 volts\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn><mtext> V</mtext></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"4 volts\"><math alttext=\"4 volts\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mn>4</mn><mtext> V</mtext></mrow></mstyle></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"6 volts\"><math alttext=\"6 volts\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mn>6</mn><mtext> V</mtext></mrow></mstyle></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"8 volts\"><math alttext=\"8 volts\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mn>8</mn><mtext> V</mtext></mrow></mstyle></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.6",
+    "text": "11.6: Kirchhoff's Loop Rule"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Calculate or estimate an unknown quantity with units from known quantities, by selecting and following a logical computational pathway."
+  }
+}

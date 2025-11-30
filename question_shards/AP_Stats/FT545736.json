@@ -1,0 +1,43 @@
+{
+  "id": "FT545736",
+  "type": "mcq",
+  "title": "Standard deviation of sum of two six-sided dice",
+  "content": {
+    "prompt": "<p>Let <em>X</em> represent the number on the face that lands up when a fair six-sided number cube is tossed. The expected value of <em>X</em> is 3.5, and the standard deviation of <em>X</em> is approximately 1.708. Two fair six-sided number cubes will be tossed, and the numbers appearing on the faces that land up will be added. Which of the following values is closest to the standard deviation of the resulting sum?</p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>1.708</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>1.848</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>2.415</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>3.416</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>5.835</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.9",
+    "text": "4.9: Combining Random Variables"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Determine parameters for probability distributions."
+  }
+}

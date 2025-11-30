@@ -1,0 +1,39 @@
+{
+  "id": "XMK000001",
+  "type": "mcq",
+  "title": "While loop - result printed",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What is printed as a result of executing this code segment?</p>",
+    "answer": "1726104915849.9956",
+    "choices": [
+      {
+        "value": "1726104915849.8584",
+        "label": "<pre><code class=\"language-plaintext\">21</code></pre>"
+      },
+      {
+        "value": "1726104915849.9956",
+        "label": "<pre><code class=\"language-plaintext\">161116</code></pre>"
+      },
+      {
+        "value": "1726104915849.944",
+        "label": "<pre><code class=\"language-plaintext\">161161</code></pre>"
+      },
+      {
+        "value": "1726104915849.1526",
+        "label": "<pre><code class=\"language-plaintext\">16111621</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.7",
+    "text": "2.7: `while` Loops"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

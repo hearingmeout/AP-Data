@@ -1,0 +1,43 @@
+{
+  "id": "FT546241",
+  "type": "mcq",
+  "title": "Coefficient of friction between block and surface",
+  "content": {
+    "prompt": "<p>What is the coefficient of friction between the block and the surface?</p>",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<span aria-label=\"f over mg\"><math> <mrow> <mfrac> <mi>f</mi> <mrow> <mi>m</mi><mi>g</mi></mrow> </mfrac> </mrow> </math></span>",
+        "value": "i0"
+      },
+      {
+        "label": "<span aria-label=\"mg over f\"><math> <mrow> <mfrac> <mrow> <mi>m</mi><mi>g</mi></mrow> <mi>f</mi> </mfrac> </mrow> </math></span>",
+        "value": "i1"
+      },
+      {
+        "label": "<span aria-label=\"the fraction with numerator mg minus cap f cosine phi and denominator f\"><math> <mrow> <mfrac> <mrow> <mi>m</mi><mi>g</mi><mo>−</mo><mi>F</mi><mi>cos</mi><mi>ϕ</mi></mrow> <mi>f</mi> </mfrac> </mrow> </math></span>",
+        "value": "i2"
+      },
+      {
+        "label": "<span aria-label=\"the fraction with numerator f and denominator mg minus cap f cosine phi\"><math> <mrow> <mfrac> <mi>f</mi> <mrow> <mi>m</mi> <mi>g</mi> <mo>−</mo> <mi>F</mi> <mi>cos</mi> <mi>ϕ</mi> </mrow> </mfrac> </mrow> </math></span>",
+        "value": "i3"
+      },
+      {
+        "label": "<span aria-label=\"the fraction with numerator f and denominator mg minus cap f sine phi\"><math> <mrow> <mfrac> <mi>f</mi> <mrow> <mi>m</mi><mi>g</mi><mo>−</mo><mi>F</mi><mi>sin</mi><mi>ϕ</mi></mrow> </mfrac> </mrow> </math></span>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Force and Translational Dynamics"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Gravitational Force"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

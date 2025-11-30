@@ -1,0 +1,35 @@
+{
+  "id": "VR024001",
+  "type": "mcq",
+  "title": "Compare execution times of two versions",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following best compares the execution times of the two versions of the program?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Version I requires approximately 1 more minute to execute than version II.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Version I requires approximately 5 more minutes to execute than version II.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Version II requires approximately 1 more minute to execute than version I.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Version II requires approximately 5 more minutes to execute than version I.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.17",
+    "text": "3.17: Algorithmic Efficiency"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "VH972774",
+  "type": "mcq",
+  "title": "Justification - Alternating Series Test",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following conditions are necessary to conclude that the series <span class=\"math_expression\"><span aria-label=\"the sum, from n equals 1, to infinity of, a, sub n\"><math alttext=\"the sum, from n equals 1, to infinity of, a, sub n\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><msub><mrow><mi>a</mi></mrow><mrow><mi>n</mi></mrow></msub></mrow></mrow></mstyle></math></span></span> converges using the alternating series test?</p><ol class=\"ordered_list style:1\"><li class=\"list_paragraph\">The terms <span class=\"math_expression\"><span aria-label=\"a, sub n\"><math alttext=\"a, sub n\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>a</mi></mrow><mrow><mi>n</mi></mrow></msub></mrow></mstyle></math></span></span> alternate in sign for all <span class=\"math_expression\"><span aria-label=\"n greater than or equal to uppercase N\"><math alttext=\"n greater than or equal to uppercase N\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi><mo>≥</mo><mi>N</mi></mrow></mstyle></math></span></span> for some positive integer <span class=\"math_expression\"><span aria-label=\"uppercase N\"><math alttext=\"uppercase N\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>N</mi></mrow></mstyle></math></span></span>.</li><li class=\"list_paragraph\"><span class=\"math_expression\"><span aria-label=\"the limit as n approaches infinity, of, a, sub n, equals 0\"><math alttext=\"the limit as n approaches infinity, of, a, sub n, equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder><msub><mrow><mi>a</mi></mrow><mrow><mi>n</mi></mrow></msub><mo>=</mo><mn>0</mn></mrow></mstyle></math></span></span></li><li class=\"list_paragraph\"><span class=\"math_expression\"><span aria-label=\"the absolute value of, a, sub n plus 1 end subscript, end absolute value, is less than or equal to, the absolute value of, a, sub n, end absolute value\"><math alttext=\"the absolute value of, a, sub n plus 1 end subscript, end absolute value, is less than or equal to, the absolute value of, a, sub n, end absolute value\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>|</mo><msub><mrow><mi>a</mi></mrow><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msub><mo>|</mo></mrow><mo>≤</mo><mrow><mo>|</mo><msub><mrow><mi>a</mi></mrow><mrow><mi>n</mi></mrow></msub><mo>|</mo></mrow></mrow></mstyle></math></span></span> for all <span class=\"math_expression\"><span aria-label=\"n greater than or equal to uppercase N\"><math alttext=\"n greater than or equal to uppercase N\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi><mo>≥</mo><mi>N</mi></mrow></mstyle></math></span></span> for some positive integer <span class=\"math_expression\"><span aria-label=\"uppercase N\"><math alttext=\"uppercase N\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>N</mi></mrow></mstyle></math></span></span>.</li></ol>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">I only</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">I and II only</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">II and III only</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">I, II, and III</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.7",
+    "text": "10.7: (BC ONLY) Alternating Series Test for Convergence"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

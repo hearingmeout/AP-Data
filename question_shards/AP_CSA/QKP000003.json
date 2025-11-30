@@ -1,0 +1,39 @@
+{
+  "id": "QKP000003",
+  "type": "mcq",
+  "title": "Which 2D array will cause traversal to print 3",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following replacements for <span class=\"dap_inline\">/* missing initialization */</span> will cause the code segment to print the value <span class=\"dap_inline\">3</span>?</p>",
+    "answer": "1713296128009.276",
+    "choices": [
+      {
+        "value": "1713296128009.7957",
+        "label": "<pre><code class=\"language-plaintext\">{{0, 0, 1},\n {0, 0, 2},\n {0, 0, 1}}</code></pre>"
+      },
+      {
+        "value": "1713296128009.5974",
+        "label": "<pre><code class=\"language-plaintext\">{{0, 0, 0},\n {0, 1, 2},\n {0, 0, 0}}</code></pre>"
+      },
+      {
+        "value": "1713296128009.3752",
+        "label": "<pre><code class=\"language-plaintext\">{{0, 0, 0},\n {0, 0, 0},\n {1, 1, 1},\n {0, 0, 0}}</code></pre>"
+      },
+      {
+        "value": "1713296128009.276",
+        "label": "<pre><code class=\"language-plaintext\">{{0, 0, 1, 0},\n {0, 0, 1, 0},\n {0, 0, 1, 0}}</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.11",
+    "text": "4.11: 2D Array Creation and Access"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

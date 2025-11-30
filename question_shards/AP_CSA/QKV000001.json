@@ -1,0 +1,39 @@
+{
+  "id": "QKV000001",
+  "type": "mcq",
+  "title": "recursive doSomething method - describe behavior",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Assume that&nbsp; <code class=\"dap_inline\">myString</code> &nbsp;is a properly declared and initialized &nbsp;<code class=\"dap_inline\">String</code> &nbsp;object. Which of the following best describes the result of the call &nbsp;<code class=\"dap_inline\">doSomething(myString)</code>?</p>",
+    "answer": "1727279635806.4485",
+    "choices": [
+      {
+        "value": "1727279635806.4485",
+        "label": "<p class=\"dap_body\">The method call returns a &nbsp;<code class=\"dap_inline\">String</code> &nbsp;containing the contents of &nbsp;<code class=\"dap_inline\">myString</code> &nbsp;unchanged.</p>"
+      },
+      {
+        "value": "1727279635806.2178",
+        "label": "<p class=\"dap_body\">The method call returns a &nbsp;<code class=\"dap_inline\">String</code> &nbsp;containing the contents of &nbsp;<code class=\"dap_inline\">myString</code> &nbsp;with the order of the characters reversed from their order in &nbsp;<code class=\"dap_inline\">myString</code>.</p>"
+      },
+      {
+        "value": "1727279635806.0164",
+        "label": "<p class=\"dap_body\">The method call returns a &nbsp;<code class=\"dap_inline\">String</code> &nbsp;containing all but the first character of &nbsp;<code class=\"dap_inline\">myString</code>.</p>"
+      },
+      {
+        "value": "1727279635806.1526",
+        "label": "<p class=\"dap_body\">The method call returns a &nbsp;<code class=\"dap_inline\">String</code> &nbsp;containing only the first and second characters of &nbsp;<code class=\"dap_inline\">myString</code>.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.16",
+    "text": "4.16: Recursion"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

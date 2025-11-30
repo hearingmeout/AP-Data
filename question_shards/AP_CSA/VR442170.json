@@ -1,0 +1,39 @@
+{
+  "id": "VR442170",
+  "type": "mcq",
+  "title": "numbers array arithmetic",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"passage\">\n<div class=\"prose style:1\">\n<p class=\"passage_para\">Consider the following code segment.</p>\n<div class=\"standalone_code style:1\">\n<p class=\"code_line\">int[] numbers = new int[5];</p>\n<p class=\"code_line\">numbers[0] = 2;</p>\n<p class=\"code_line\">numbers[1] = numbers[0] + 1;</p>\n<p class=\"code_line\">numbers[numbers[0]] = numbers[1];</p>\n<p class=\"code_line\">&nbsp;</p>\n<p class=\"code_line\">for (int x = 3;&nbsp;x &lt; numbers.length;&nbsp;x++)</p>\n<p class=\"code_line\">{</p>\n<p class=\"code_line indent:3\">numbers[x] = numbers[x - 1] * 2;</p>\n<p class=\"code_line\">}</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p class=\"stem_paragraph\">Which of the following represents the contents of the array <span class=\"inline_code\">numbers</span> after the code segment is executed?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">{2, 3, 0, 0, 0}</p></div>",
+        "value": "i1"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">{2, 3, 1, 2, 4}</p></div>",
+        "value": "i2"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">{2, 3, 3, 6, 9}</p></div>",
+        "value": "i3"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">{2, 3, 3, 6, 12}</p></div>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: `for` Loops"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT548632",
+  "type": "mcq",
+  "title": "Fundamental Theorem with trig function",
+  "content": {
+    "prompt": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the integral from 0 to x of sine t with respect to t equals\">\n <semantics>\n  <mrow>\n   <mstyle displaystyle=\"true\">\n    <mrow><munderover>\n     <mo>∫</mo>\n     <mn>0</mn>\n     <mi>X</mi>\n    </munderover>\n    <mrow>\n     <mi>sin</mi></mrow>\n   </mrow>\n   \n  </mstyle><mtext> </mtext><mi>t</mi><mtext> </mtext><mi>d</mi><mi>t</mi><mo>=</mo></mrow>\n <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n qadaWdXbWdaeaapeGaci4CaiaacMgacaGGUbaal8aabaWdbiaaicda\n a8aabaWdbiaadIfaa0Gaey4kIipakiaaysW7caWG0bGaaGjbVlaads\n gacaWG0bGaeyypa0daaa@4450@\n </annotation>\n</semantics>\n</math>\n</p>",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>sin <em>x</em></p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>-cos <em>x </em></p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>cos <em>x</em></p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>cos <em>x</em>-1</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>1- cos <em>x</em></p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.7",
+    "text": "6.7: The Fundamental Theorem of Calculus and Definite Integrals"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

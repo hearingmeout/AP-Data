@@ -1,0 +1,39 @@
+{
+  "id": "FT538063",
+  "type": "mcq",
+  "title": "partialSum method comparing two implementations",
+  "content": {
+    "prompt": "<p>Consider the following instance variable, arr, and incomplete method, partialSum. The method is intended to return an integer array sum such that for all k, sum [ k ] is equal to arr[0] + arr[1] + ... + arr[k]. For instance, if arr contains the values { 1, 4, 1, 3 }, the array sum will contain the values { 1, 5, 6, 9 }.</p>\n<p><img alt=\"An 11-line code segment reads as follows. Line 1: private int, open square bracket, close square bracket, arr, semicolon. Line 2: public int, open square bracket, close square bracket, partial Sum, open parenthesis, close parenthesis. Line 3: open brace. Line 4: int, open square bracket, close square bracket, sum equals new int, open square bracket, arr, dot, length, close square bracket, semicolon. Line 5: for, open parenthesis, int j equals 0, semicolon, j less than sum, dot, length, semicolon, j, plus, plus, close parenthesis. Line 6: open brace. Line 7: sum, open square bracket, j, close square bracket, equals 0, semicolon. Line 8: close brace. Line 9: forward slash, asterisk, missing code, asterisk, forward slash. Line 10: return sum, semicolon. Line 11: close brace.\" height=\"255\" src=\"/images/cfd1c9bb869ae0be43fecac0f47c0382.jpg\" width=\"398\"><br>\nThe following two implementations of / * <em>missing code</em> * / are proposed so that partialSum will work as intended.</p>\n<p><img alt=\"Two implementations of missing code for Partial Sum to work as intended. Implementation 1 has four lines of code that read as follows.  Line 1: for, open parenthesis, int j equals 0, semicolon, j less than arr, dot, length, semicolon, j, plus, plus, close parenthesis. Line 2: open brace. Line 3: sum, open square bracket, j, close square bracket, equals sum, open square bracket, j minus 1, close square bracket, plus, arr, open square bracket, j, close square bracket, semicolon. Line 4: close brace.\nImplementation 2 has 7 lines of code that read as follows. Line 1: for, open parenthesis, int j equals 0, semicolon, j less than arr, dot, length, semicolon, j, plus, plus, close parenthesis. Line 2: open brace. Line 3: for, open parenthesis, int k equals 0, semicolon, k less than or equal to j, semicolon, k, plus, plus, close parenthesis. Line 4: open brace. Line 5: sum, open square bracket, j, close square bracket, equals sum, open square bracket, j, close square bracket, plus, arr, open square bracket, k, close square bracket, semicolon. Line 6: close brace. Line 7: close brace.\" height=\"329\" src=\"/images/42d05618270ee150c878bcf0a3dcd5de.jpg\" width=\"395\"></p>\n<p>Which of the following statements is true?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Both implementations work as intended, but implementation 1 is faster than implementation 2.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Both implementations work as intended, but implementation 2 is faster than implementation 1. </p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Implementation 1 does not work as intended, because it will cause anArrayIndexOutOfBoundsException. </p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>Implementation 2 does not work as intended, because it will cause anArrayIndexOutOfBoundsException. </p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implementing Array Algorithms"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

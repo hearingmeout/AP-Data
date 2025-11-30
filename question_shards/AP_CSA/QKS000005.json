@@ -1,0 +1,39 @@
+{
+  "id": "QKS000005",
+  "type": "mcq",
+  "title": "double count while less than 100 -determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What is the value of&nbsp; <code class=\"dap_inline\">count</code><span>&nbsp; </span>after executing the code segment?</p>",
+    "answer": "01JVADBBTSZBCFM6YPRYXMKWA8",
+    "choices": [
+      {
+        "value": "01JVADBBTSKQT5VNW3SNN871ZQ",
+        "label": "<pre><code class=\"language-plaintext\">100</code></pre>"
+      },
+      {
+        "value": "01JVADBBTSP3YMTAQ4SEE2W323",
+        "label": "<pre><code class=\"language-plaintext\">101</code></pre>"
+      },
+      {
+        "value": "01JVADBBTSYXRVDSVD0E4CVWKK",
+        "label": "<pre><code class=\"language-plaintext\">160</code></pre>"
+      },
+      {
+        "value": "01JVADBBTSZBCFM6YPRYXMKWA8",
+        "label": "<pre><code class=\"language-plaintext\">161</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.7",
+    "text": "2.7: `while` Loops"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

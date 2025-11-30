@@ -1,0 +1,43 @@
+{
+  "id": "FT546585",
+  "type": "mcq",
+  "title": "Criteria for binomial distribution of games won",
+  "content": {
+    "prompt": "A popular computer card game keeps track of the number of games played and the number of games won on that computer. The cards are shuffled before each game, so the outcome of the game is independent from one game to the next and is based on the skill of the player. Let <em>X</em> represent the number of games that have been won out of 100 games. Under which of the following situations would <em>X</em> be a binomial random variable?",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p> All games were played by the same player, whose skill improved over the course of the 100 games</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p> A group of 5 players of different skill levels were each allowed to play 20 games in a row.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>A group of players of different skill levels were each allowed to play until they had lost 3 games and this resulted in 100 games played.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Two players of equal skill level each played one game a day for 50 days and their skill level did not change from day to day.</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>Two players of different skill levels competed by allowing one player to continue until a game was lost, then the other player to continue until a game was lost, and so on, until 100 games were played.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.10",
+    "text": "4.10: Introduction to the Binomial Distribution"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+  }
+}

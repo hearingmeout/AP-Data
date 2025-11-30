@@ -1,0 +1,39 @@
+{
+  "id": "VH897805",
+  "type": "mcq",
+  "title": "Representations - Taylor Polynomials",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Let <span class=\"math_expression\"><span aria-label=\"f\"><math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math></span></span> be a function with third derivative <span class=\"math_expression\"><span aria-label=\"f triple prime of x, equals, open parenthesis, 4 x, plus 1, close parenthesis, raised to the three halves power\"><math alttext=\"f triple prime of x, equals, open parenthesis, 4 x, plus 1, close parenthesis, raised to the three halves power\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo><mo>′</mo><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mo>(</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mrow><mfrac><mrow><mn>3</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup></mrow></mstyle></math></span></span>. What is the coefficient of <span class=\"math_expression\"><span aria-label=\"open parenthesis, x minus 2, close parenthesis, to the fourth power\"><math alttext=\"open parenthesis, x minus 2, close parenthesis, to the fourth power\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mstyle><mrow><mrow><mo>(</mo><mi>x</mi><mo>−</mo><mn>2</mn><mo>)</mo></mrow></mrow></mstyle></mrow><mrow><mn>4</mn></mrow></msup></mrow></math></span></span> in the fourth-degree Taylor polynomial for <span class=\"math_expression\"><span aria-label=\"f\"><math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math></span></span> about <span class=\"math_expression\"><span aria-label=\"x equals 2\"><math alttext=\"x equals 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>2</mn></mrow></mstyle></math></span></span> ?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"one fourth\"><math alttext=\"one fourth\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"three fourths\"><math alttext=\"three fourths\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>3</mn></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"nine halves\"><math alttext=\"nine halves\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>9</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">18</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.11",
+    "text": "10.11: (BC ONLY) Finding Taylor Polynomial Approximations of Functions"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

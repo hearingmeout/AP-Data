@@ -1,0 +1,39 @@
+{
+  "id": "WLB000001",
+  "type": "mcq",
+  "title": "Reverse numArr - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following can be used to replace <span class=\"dap_inline\">/* missing loop header */</span> so that the code segment works as intended?</p>",
+    "answer": "1726176334440.2512",
+    "choices": [
+      {
+        "value": "1726176334440.2512",
+        "label": "<pre><code class=\"language-plaintext\">for (int k = 0; k &lt; numArr.length / 2; k++)</code></pre>"
+      },
+      {
+        "value": "1726176334440.1843",
+        "label": "<pre><code class=\"language-plaintext\">for (int k = 0; k &lt; numArr.length; k++)</code></pre>"
+      },
+      {
+        "value": "1726176334440.7605",
+        "label": "<pre><code class=\"language-plaintext\">for (int k = 0; k &lt; numArr.length / 2; k--)</code></pre>"
+      },
+      {
+        "value": "1726176334440.18",
+        "label": "<pre><code class=\"language-plaintext\">for (int k = numArr.length - 1; k &gt;= 0; k--)</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implementing Array Algorithms"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "VH918534",
+  "type": "mcq",
+  "title": "Processes - Implicit Differentiation",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">If <span class=\"math_expression\"><span aria-label=\"e raised to the y power, minus e raised to the y squared power, equals, x minus x cubed\"><math alttext=\"e raised to the y power, minus e raised to the y squared power, equals, x minus x cubed\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><msup><mrow><mi>e</mi></mrow><mrow><mi>y</mi></mrow></msup><mo>−</mo><msup><mrow><mi>e</mi></mrow><mrow><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></msup><mo>=</mo><mi>x</mi><mo>−</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mrow></mstyle></math></span></span>, then the value of <span class=\"math_expression\"><span aria-label=\"the derivative of y, with respect to x\"><math alttext=\"the derivative of y, with respect to x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac></mrow></mrow></mstyle></math></span></span> at the point <span class=\"math_expression\"><span aria-label=\"with coordinates 0 comma 1\"><math alttext=\"with coordinates 0 comma 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo stretchy=\"false\">(</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo stretchy=\"false\">)</mo></mrow></mrow></mstyle></math></span></span> is</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the negative of the fraction 1 over e\"><math alttext=\"the negative of the fraction 1 over e\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>−</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mi>e</mi></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator e minus 1, and denominator 2 e, end fraction\"><math alttext=\"the fraction with numerator e minus 1, and denominator 2 e, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mfrac><mrow><mi>e</mi><mo>−</mo><mn>1</mn></mrow><mrow><mn>2</mn><mi>e</mi></mrow></mfrac></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator 1 plus 2 e, and denominator e\"><math alttext=\"the fraction with numerator 1 plus 2 e, and denominator e\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mfrac><mrow><mn>1</mn><mo>+</mo><mn>2</mn><mi>e</mi></mrow><mrow><mi>e</mi></mrow></mfrac></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">undefined</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.2",
+    "text": "3.2: Implicit Differentiation"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "VR799483",
+  "type": "mcq",
+  "title": "Capacitors - capacitance from work done on plates",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">What is the new capacitance of the capacitor? Assume that the plate separation remains small compared to the size of the plates.</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction Q squared over 2 W\"><math alttext=\"the fraction Q squared over 2 W\" overflow=\"scroll\"><mfrac><msup><mi>Q</mi><mn>2</mn></msup><mrow><mn>2</mn><mi>W</mi></mrow></mfrac></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"C sub 0 plus the fraction with numerator 2 W C sub 0, end sub, squared, and denominator Q squared, end fraction\"><math alttext=\"C sub 0 plus the fraction with numerator 2 W C sub 0, end sub, squared, and denominator Q squared, end fraction\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>C</mi><mn>0</mn></msub><mo>+</mo><mfrac><mrow><mn>2</mn><mi>W</mi><msubsup><mi>C</mi><mn>0</mn><mn>2</mn></msubsup></mrow><msup><mi>Q</mi><mn>2</mn></msup></mfrac></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator C sub 0, end sub, times Q squared, and denominator Q squared minus 2 C sub 0, end sub, times W, end fraction\"><math alttext=\"the fraction with numerator C sub 0, end sub, times Q squared, and denominator Q squared minus 2 C sub 0, end sub, times W, end fraction\" overflow=\"scroll\"><mfrac><mrow><msub><mi>C</mi><mn>0</mn></msub><msup><mi>Q</mi><mn>2</mn></msup></mrow><mrow><msup><mi>Q</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><msub><mi>C</mi><mn>0</mn></msub><mi>W</mi></mrow></mfrac></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator C sub 0, end sub, times Q squared, and denominator Q squared plus 2 C sub 0, end sub, times W, end fraction\"><math alttext=\"the fraction with numerator C sub 0, end sub, times Q squared, and denominator Q squared plus 2 C sub 0, end sub, times W, end fraction\" overflow=\"scroll\"><mfrac><mrow><msub><mi>C</mi><mn>0</mn></msub><msup><mi>Q</mi><mn>2</mn></msup></mrow><mrow><msup><mi>Q</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><msub><mi>C</mi><mn>0</mn></msub><mi>W</mi></mrow></mfrac></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Conductors and Capacitors"
+  },
+  "topic": {
+    "code": "10.3",
+    "text": "10.3: Capacitors"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

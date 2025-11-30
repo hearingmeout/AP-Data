@@ -1,0 +1,39 @@
+{
+  "id": "ADK000003",
+  "type": "mcq",
+  "title": "Boolean expressions nested ifs - Determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What is printed as a result of executing the code segment?</p>",
+    "answer": "01JQ723HRD3GPRNHP43QF4JMVZ",
+    "choices": [
+      {
+        "value": "01JQ723HRD3J33WSP3T6DNTFAX",
+        "label": "<pre><code class=\"language-plaintext\">Second</code></pre>"
+      },
+      {
+        "value": "01JQ723HRD3GPRNHP43QF4JMVZ",
+        "label": "<pre><code class=\"language-plaintext\">Third</code></pre>"
+      },
+      {
+        "value": "01JQ723HRDRDDC8BBAKJ6N9FBW",
+        "label": "<pre><code class=\"language-plaintext\">FirstThird</code></pre>"
+      },
+      {
+        "value": "01JQ72V19JBHSHFZDFRNPR5P05",
+        "label": "<pre><code class=\"language-plaintext\">SecondThird</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Nested `if` Statements"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

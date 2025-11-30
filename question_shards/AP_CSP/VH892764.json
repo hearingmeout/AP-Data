@@ -1,0 +1,35 @@
+{
+  "id": "VH892764",
+  "type": "mcq",
+  "title": "Requirements for binary search",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following conditions must be met in order for the procedure to work as intended?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The length of <span class=\"inline_code\">numList</span> must be even.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The list <span class=\"inline_code\">numList</span> must not contain any duplicate values.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The values in <span class=\"inline_code\">numList</span> must be in sorted order.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The value of <span class=\"inline_code\">target</span> must not be equal to <span class=\"inline_code\">-1</span>.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.11",
+    "text": "3.11: Binary Search"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Investigate the situation, context, or task."
+  }
+}

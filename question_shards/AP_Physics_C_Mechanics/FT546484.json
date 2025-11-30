@@ -1,0 +1,43 @@
+{
+  "id": "FT546484",
+  "type": "mcq",
+  "title": "Description of frictional forces exerted on box",
+  "content": {
+    "prompt": "<p>Which of the following best describes the frictional forces exerted on the box and on the floor while the box is sliding?</p>",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<table class=\"table table-bordered\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong>Box</strong></td>\n\t\t\t<td><strong>Floor</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>None</td>\n\t\t\t<td>None</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i0"
+      },
+      {
+        "label": "<table class=\"table table-bordered\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong>Box</strong></td>\n\t\t\t<td><strong>Floor</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>To the right</td>\n\t\t\t<td>To the right</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i1"
+      },
+      {
+        "label": "<table class=\"table table-bordered\" style=\"background-color:rgb(255, 255, 255); font-family:helvetica neue,helvetica,arial,sans-serif\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong>Box</strong></td>\n\t\t\t<td><strong>Floor</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>To the right</td>\n\t\t\t<td>To the left</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i2"
+      },
+      {
+        "label": "<table class=\"table table-bordered\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong>Box</strong></td>\n\t\t\t<td><strong>Floor</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>To the left</td>\n\t\t\t<td>None</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i3"
+      },
+      {
+        "label": "<table class=\"table table-bordered\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong>Box</strong></td>\n\t\t\t<td><strong>Floor</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>To the left</td>\n\t\t\t<td>To the right</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Force and Translational Dynamics"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: Newton's Third Law"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

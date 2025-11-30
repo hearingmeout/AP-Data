@@ -1,0 +1,39 @@
+{
+  "id": "UKG000006",
+  "type": "mcq",
+  "title": "pow sqrt abs Math methods - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following can replace&nbsp; <code class=\"dap_inline\">/* missing code */</code> &nbsp;so that the statement works as intended?</p>",
+    "answer": "01JVAKHYQ8E1WCTX9CWH4DAPRQ",
+    "choices": [
+      {
+        "value": "01JVAJSA56PN2X5XRJTPSHEM2W",
+        "label": "<pre><code class=\"language-plaintext\">Math.sqrt((x + y) ^ 2 / Math.abs(a, b))</code></pre>"
+      },
+      {
+        "value": "01JVAJSA59S25T2T8VRMRH2S6K",
+        "label": "<pre><code class=\"language-plaintext\">Math.sqrt((x + y) ^ 2 / Math.abs(a - b))</code></pre>"
+      },
+      {
+        "value": "01JVAJSA59SZ3Q1C440NN2EHSZ",
+        "label": "<pre><code class=\"language-plaintext\">Math.sqrt(Math.pow(x + y, 2) / Math.abs(a, b))</code></pre>"
+      },
+      {
+        "value": "01JVAKHYQ8E1WCTX9CWH4DAPRQ",
+        "label": "<pre><code class=\"language-plaintext\">Math.sqrt(Math.pow(x + y, 2) / Math.abs(a - b))</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: `Math` Class"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

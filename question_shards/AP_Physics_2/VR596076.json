@@ -1,0 +1,39 @@
+{
+  "id": "VR596076",
+  "type": "mcq",
+  "title": "Compare best-fit lines for gas measurements",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"standalone_image\"><img alt=\"The figure shows a scatterplot in a coordinate plane. The horizontal axis is labeled “Temperature, in Kelvin,” and the numbers 0 through 500, in increments of 100, are indicated. The vertical axis is labeled “Pressure, in kilopascals,” and the numbers 0 through 150, in increments of 50, are indicated. The data points begin at the coordinates 125 comma 37, and trend steadily upward and to the right until they end at the point with coordinates 420 comma 127.\" height=\"198\" src=\"/images/5b243bf07667631c9263d3f0f104a22d.svg\" width=\"290\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">A sample of gas is in a container of fixed volume. The pressure of the gas is measured as its absolute temperature is increased. A graph of pressure measurements as a function of temperature is shown above. The sample of gas is transferred to a second container with half the volume of the first container, and the experiment is repeated. According to the ideal gas law, which of the following will be true of the best-fit line for the new data compared to the best-fit line for the data shown?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The new line will be the same.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The new line will have the same temperature intercept but a smaller slope.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The new line will have the same temperature intercept but a larger slope.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The new line will have the same slope but will intercept the temperature axis at a different value.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Thermodynamics"
+  },
+  "topic": {
+    "code": "9.2",
+    "text": "9.2: The Ideal Gas Law"
+  },
+  "skill": {
+    "code": "2.D",
+    "text": "2.D: Predict new values or factors of change of physical quantities using functional dependence between variables."
+  }
+}

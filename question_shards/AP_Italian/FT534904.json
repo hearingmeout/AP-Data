@@ -1,0 +1,35 @@
+{
+  "id": "FT534904",
+  "type": "mcq",
+  "title": "Le Biblioteche di Roma - supporting details 3",
+  "content": {
+    "prompt": "<p>Chi può prendere libri in prestito a casa?</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Solo i bibliotecari qualiﬁcati</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Solo i gestori dell’Istituzione delle Biblioteche</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Quelli che hanno già consultato i cataloghi tradizionali</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Qualsiasi persona che si trovi in biblioteca</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Families in Different Societies"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

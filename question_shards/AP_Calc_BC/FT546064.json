@@ -1,0 +1,43 @@
+{
+  "id": "FT546064",
+  "type": "mcq",
+  "title": "Intermediate Vallue Theorem",
+  "content": {
+    "prompt": "<p>If a function <em>f</em> is continuous for all <em>x</em> and if <em>f</em> has a relative maximum at (-1, 4) and a relative minimum at (3, -2) , which of the following statements must be true?</p><p></p>",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The graph of <em>f</em> has a point of inflection somewhere between <em>x </em>= -1 and <em>x </em>= 3.</p><p></p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><em>f'</em>(-1) = 0</p><p></p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The graph of <em>f</em> has a horizontal asymptote.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The graph of <em>f</em> has a horizontal tangent line at <em>x</em> = 3.</p><p></p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>The graph of f intersects both axes.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.16",
+    "text": "1.16: Working with the Intermediate Value Theorem (IVT)"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Provide reasons or rationales for solutions and conclusions."
+  }
+}

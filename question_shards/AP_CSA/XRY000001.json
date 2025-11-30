@@ -1,0 +1,39 @@
+{
+  "id": "XRY000001",
+  "type": "mcq",
+  "title": "findMaximum does not work - describe conditions",
+  "content": {
+    "prompt": "<p class=\"dap_body\">The method works as intended for some, but not all,&nbsp; <span class=\"dap_inline\">int</span>&nbsp; arrays. Which of the following best describes the conditions in which the method does <strong>not</strong> return the intended result?</p>",
+    "answer": "1717039362797.198",
+    "choices": [
+      {
+        "value": "1717039362797.8523",
+        "label": "<p class=\"dap_body\">When the maximum value in&nbsp; <span class=\"dap_inline\">numbers</span>&nbsp; is the first element in the array</p>"
+      },
+      {
+        "value": "1717039362797.128",
+        "label": "<p class=\"dap_body\">When the maximum value in&nbsp; <span class=\"dap_inline\">numbers</span>&nbsp; appears multiple times in the array</p>"
+      },
+      {
+        "value": "1717039362797.198",
+        "label": "<p class=\"dap_body\">When the maximum value in&nbsp; <span class=\"dap_inline\">numbers</span>&nbsp; is negative</p>"
+      },
+      {
+        "value": "1717039362797.8108",
+        "label": "<p class=\"dap_body\">When the maximum value in&nbsp; <span class=\"dap_inline\">numbers</span>&nbsp; is&nbsp; <span class=\"dap_inline\">Integer.MAX_VALUE</span></p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implementing Array Algorithms"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

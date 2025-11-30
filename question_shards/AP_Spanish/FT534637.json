@@ -1,0 +1,35 @@
+{
+  "id": "FT534637",
+  "type": "mcq",
+  "title": "Book fair - what is said about interesting books",
+  "content": {
+    "prompt": "<p>¿Qué dice el artículo sobre los libros interesantes?</p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Son difíciles de encontrar.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Están rebajados.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Han sido prohibidos.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Están totalmente agotados.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Influences of Beauty and Art"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

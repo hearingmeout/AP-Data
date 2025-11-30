@@ -1,0 +1,35 @@
+{
+  "id": "VH206735",
+  "type": "mcq",
+  "title": "Error in calculating sum",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which change, if any, is needed for the program to work as intended?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Lines 1 and 2 should be interchanged.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Line 3 should be changed to <span class=\"inline_code\">REPEAT UNTIL (i ≥ 10)</span>.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Lines 5 and 6 should be interchanged.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No change is needed; the program works correctly.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Identifying and Correcting Errors"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Identify and correct errors in algorithms and programs, including error discovery through testing."
+  }
+}

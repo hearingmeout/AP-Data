@@ -1,0 +1,39 @@
+{
+  "id": "CNI000005",
+  "type": "mcq",
+  "title": "Calculating sales tax - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following expressions can be used to replace &nbsp;<span class=\"dap_inline\">/* missing code */</span>&nbsp; so that this method works as intended?</p>",
+    "answer": "01JERWZXRZBW0Y7NQGHX9PV24X",
+    "choices": [
+      {
+        "value": "01JERWZXRYS1D10KEHRR0RQEGR",
+        "label": "<pre><code class=\"language-plaintext\">Item.price</code></pre>"
+      },
+      {
+        "value": "01JERWZXRZTB2HVWTCEZPF3KE1",
+        "label": "<pre><code class=\"language-plaintext\">myItem.price</code></pre>"
+      },
+      {
+        "value": "01JERWZXRZ58X7QY97DRXFJ6JE",
+        "label": "<pre><code class=\"language-plaintext\">Item.getPrice()</code></pre>"
+      },
+      {
+        "value": "01JERWZXRZBW0Y7NQGHX9PV24X",
+        "label": "<pre><code class=\"language-plaintext\">myItem.getPrice()</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.6",
+    "text": "3.6: Methods: Passing and Returning References of an Object"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

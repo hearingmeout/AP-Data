@@ -1,0 +1,43 @@
+{
+  "id": "FT548523",
+  "type": "mcq",
+  "title": "Conclusion for test of mean teacher salaries",
+  "content": {
+    "prompt": "<p>A state educational agency was concerned that the salaries of public school teachers in one region of the state,region A, were higher than the salaries in another region of the state, region B. The agency took two independent random samples of salaries of public school teachers, one from region A and one from region B. The data are summarized in the table below.</p>\n\n<p>&nbsp;</p>\n<img alt=\"A table is shown with two columns labeled region A and region B. The first row is for mean salary and reads 62583 dollars and 60117 dollars. The second row is standard deviation and reads 6274 dollars and 9319 dollars. The third row is number of salaries and reads 117 dollars and 78 dollars.\" height=\"145\" src=\"/images/14f7c9870fbab9f89f041fee98971b7e.png\" width=\"433\">\n<p>Assuming all conditions for inference are met, do the data provide convincing statistical evidence that the salaries of public school teachers in region A are, on average, greater than the salaries of public school teachers in region B?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "Yes, there is evidence at the significance level of <em>α</em> <em> = </em>0.001.",
+        "value": "i0"
+      },
+      {
+        "label": "Yes, there is evidence at the significance level of <em>α =</em> 0.01 but not at <em>α</em> = 0.001.",
+        "value": "i1"
+      },
+      {
+        "label": "Yes, there is evidence at the significance level of <em>α</em> = 0.05 but not at <em>α</em> = 0.01.",
+        "value": "i2"
+      },
+      {
+        "label": "Yes, there is evidence at the significance level of <em>α</em> = 0.10 but not at <em>α</em> = 0.05.",
+        "value": "i3"
+      },
+      {
+        "label": "No, there is no evidence at the significance level of <em>α</em> = 0.10.",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.9",
+    "text": "7.9: Carrying Out a Test for the Difference of Two Population Means"
+  },
+  "skill": {
+    "code": "Skill 4.E",
+    "text": "Skill 4.E: Justify a claim using a decision based on significance tests."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "FT536022",
+  "type": "mcq",
+  "title": "Mediterranean fish - fish stay in water",
+  "content": {
+    "prompt": "<p>Will der Fisch sein ganzes Leben lang im Wasser bleiben?</p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Ja, denn er ist hier sicher vor Bomben. </p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Bestimmt, denn seine Familie kommt bald nach. </p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Er hat sich noch nicht entschieden. </p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Er hat noch nie darüber nachgedacht.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: The Influence of Language and Culture on Identity"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT548851",
+  "type": "mcq",
+  "title": "Derivative of exponential function",
+  "content": {
+    "prompt": "If&nbsp;<span aria-label=\"f of x is equal to e to the x th power\"><math> <semantics> <mrow> <mi>f</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <msup> <mtext>e</mtext> <mi>x</mi> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbiaadAgadaqadaWdaeaapeGaamiEaaGaayjkaiaawMcaaiabg2da9iaabwgapaWaaWbaaSqabeaapeGaamiEaaaaaaa@3FE2@</annotation> </semantics> </math></span>, then&nbsp;<span aria-label=\"the natural log of open paren f prime times 2 close paren is equal to\"><math> <semantics> <mrow> <mi>ln</mi> <mrow> <mo>(</mo> <mrow> <msup> <mi>f</mi> <mo>′</mo> </msup> <mrow> <mo>(</mo> <mn>2</mn> <mo>)</mo> </mrow> </mrow> <mo>)</mo> </mrow> <mo>=</mo> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbiGacYgacaGGUbWaaeWaa8aabaWdbiqadAgagaqbamaabmaapaqaa8qacaaIYaaacaGLOaGaayzkaaaacaGLOaGaayzkaaGaeyypa0daaa@4108@</annotation> </semantics> </math></span>",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>2</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>0</p>"
+      },
+      {
+        "label": "1/e<sup>2</sup>",
+        "value": "i2"
+      },
+      {
+        "value": "i3",
+        "label": "<p>2e</p>"
+      },
+      {
+        "label": "e<sup>2</sup>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.7",
+    "text": "2.7: Derivatives of cos x, sin x, ex, and ln x"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

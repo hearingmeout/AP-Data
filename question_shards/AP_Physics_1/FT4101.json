@@ -1,0 +1,39 @@
+{
+  "id": "FT4101",
+  "type": "mcq",
+  "title": "Rotational inertia of a spinning satellite",
+  "content": {
+    "prompt": "<p>A satellite that is a spinning cylinder has initial rotational inertia <em>I</em>­<sub>0</sub> and angular velocity <em>w</em><sub>0</sub>. Solar panels unfold from the satellite and are extended outward. The satellite then has rotational inertia <em>I<sub>f</sub></em> = <em>aI<sub>0</sub></em> and angular velocity <em>w<sub>f</sub></em> = <em>bw<sub>0</sub></em>, where <em>a</em> and <em>b</em> are constants. Which of the following is true about the constants <em>a</em> and <em>b</em>?</p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p><em>a</em> = 1 and <em>b</em> = 1</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><em>a</em> &gt; 1 and <em>b</em> &lt; 1</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p><em>a</em> &gt; 1 and <em>b</em> = 1</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p><em>a</em> &lt; 1 and <em>b</em> &lt; 1</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Energy and Momentum of Rotating Systems"
+  },
+  "topic": {
+    "code": "6.4",
+    "text": "6.4: Conservation of Angular Momentum"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

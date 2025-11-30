@@ -1,0 +1,43 @@
+{
+  "id": "FT546218",
+  "type": "mcq",
+  "title": "Forces exerted on ball thrown from asteroid",
+  "content": {
+    "prompt": "<p>What forces, if any, act on the ball while it is on the way up?</p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Only a decreasing gravitational force that acts downward</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Only an increasing gravitational force that acts downward</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Only a constant gravitational force that acts downward</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Both a constant gravitational force that acts downward and a decreasing force that acts upward</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>No forces act on the ball.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Force and Translational Dynamics"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Gravitational Force"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

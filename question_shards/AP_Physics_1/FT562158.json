@@ -1,0 +1,39 @@
+{
+  "id": "FT562158",
+  "type": "mcq",
+  "title": "Graph of velocity which ship has engine on",
+  "content": {
+    "prompt": "<p>Does at least one of the ships have its engine turned on during the time interval shown, and what evidence indicates so? </p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Yes, because Ship 2 is speeding up. </p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Yes, because the momentum of the two-rocket system increases. </p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Yes, because an engine is needed to keep the system moving. </p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>No, because the cable alone could be responsible for making Ship 1 slow down and Ship 2 speed up.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Linear Momentum"
+  },
+  "topic": {
+    "code": "4.2",
+    "text": "4.2: Change in Momentum and Impulse"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

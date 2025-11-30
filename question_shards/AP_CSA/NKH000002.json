@@ -1,0 +1,39 @@
+{
+  "id": "NKH000002",
+  "type": "mcq",
+  "title": "Array after two passes of sort - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Assume that&nbsp; <span class=\"dap_inline\">sort</span>&nbsp; is called with the array&nbsp; <span class=\"dap_inline\">{6, 3, 2, 5, 4, 1}</span>.&nbsp; Which of the following represents the contents of&nbsp; <span class=\"dap_inline\">data</span>&nbsp; after three passes of the outer loop (<span class=\"tts-container\" data-ssml-sub-alias=\"i e\" ssml-label=\"Substitution\">i.e.</span>, when&nbsp; <span class=\"dap_inline\">j == 2</span>&nbsp; at the point indicated by&nbsp; <span class=\"dap_inline\">/* End of outer loop */</span>)?</p>",
+    "answer": "01JMJDKQPAYVYY97W1F3E0EWFW",
+    "choices": [
+      {
+        "value": "01JMJDKQP9P461FEQNV0Z7RT91",
+        "label": "<pre><code class=\"language-plaintext\">{1, 2, 3, 4, 5, 6}</code></pre>"
+      },
+      {
+        "value": "01JMJDKQPAYVYY97W1F3E0EWFW",
+        "label": "<pre><code class=\"language-plaintext\">{1, 2, 3, 5, 4, 6}</code></pre>"
+      },
+      {
+        "value": "01JMJDKQPB0MCB88DX89746D82",
+        "label": "<pre><code class=\"language-plaintext\">{1, 2, 3, 6, 5, 4}</code></pre>"
+      },
+      {
+        "value": "01JMJDKQPBT5F0K4NE801W6CM8",
+        "label": "<pre><code class=\"language-plaintext\">{1, 3, 2, 5, 4, 6}</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.15",
+    "text": "4.15: Sorting Algorithms"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

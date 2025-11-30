@@ -1,0 +1,39 @@
+{
+  "id": "FT659861",
+  "type": "mcq",
+  "title": "maxHelper with int array instance variable",
+  "content": {
+    "prompt": "<p><strong>The following question refer to the following information.</strong></p>\n<p style=\"margin-bottom:11px\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"></span></span></span>Consider the following data field and method. Method<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\"> maxHelper </span></span></span></span>is intended to return the largest value among the first<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\"> numVals </span></span></span></span>values in an array; however,<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\"> maxHelper </span></span></span></span>does not work as intended.<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">&nbsp;&nbsp;&nbsp;&nbsp; private int[] nums;</span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\">&nbsp;</p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">&nbsp;&nbsp;&nbsp;&nbsp; // precondition: 0 &lt; numVals &lt;= nums.length</span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">&nbsp;&nbsp;&nbsp;&nbsp; private int maxHelper(int numVals)</span></span></span></span></p>\n<p style=\"margin-bottom: 11px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">&nbsp;&nbsp;&nbsp;&nbsp; {</span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"></span></span></span>Line 1:<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\"> &nbsp;&nbsp;int max = maxHelper(numVals - 1);</span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\">&nbsp;</p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"></span></span></span>Line 2:<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\"> &nbsp;&nbsp;if (max &gt; nums[numVals - 1])</span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;return max;</span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;else</span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;return nums[numVals - 1];</span></span></span></span></p>\n<p style=\"margin-bottom: 11px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;}</span></span></span></span></p>\nWhich of the following best describes the conditions under which<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Courier New&quot;\"> maxHelper </span></span></span>does not work as intended?",
+    "answer": "4",
+    "choices": [
+      {
+        "label": "When<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Courier New&quot;\"> numVals </span></span></span>is 1",
+        "value": "0"
+      },
+      {
+        "label": "When the elements of<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Courier New&quot;\"> nums </span></span></span>are in nonincreasing order",
+        "value": "2"
+      },
+      {
+        "label": "When the elements of<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Courier New&quot;\"> nums </span></span></span>are in nondecreasing order",
+        "value": "3"
+      },
+      {
+        "label": "Method<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Courier New&quot;\"> maxHelper </span></span></span>never works as intended.",
+        "value": "4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Array Creation and Access"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

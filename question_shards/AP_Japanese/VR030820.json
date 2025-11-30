@@ -1,0 +1,35 @@
+{
+  "id": "VR030820",
+  "type": "mcq",
+  "title": "The school club",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR030813.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">Who is coming to the school club?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">University band members</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Foreign exchange students</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Senior club members</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Club members’ parents</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Families in Different Societies"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

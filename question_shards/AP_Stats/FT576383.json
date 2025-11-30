@@ -1,0 +1,43 @@
+{
+  "id": "FT576383",
+  "type": "mcq",
+  "title": "Chi-square statistic for restaurant dinner type",
+  "content": {
+    "prompt": "Assume each order is independent. For which type of dinner is the value of its contribution to the appropriate test statistic the greatest?",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Beef</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Chicken</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Fish</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Pork</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>Vegetarian</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Inference for Categorical Data-Chi-Square"
+  },
+  "topic": {
+    "code": "8.3",
+    "text": "8.3: Carrying out a Chi-Square Goodness of Fit Test"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Calculate a test statistic and find a p-value, provided conditions for inference are met."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT544354",
+  "type": "mcq",
+  "title": "Change in confidence interval for cricket jumps",
+  "content": {
+    "prompt": "<p>Courtney has constructed a cricket out of paper and rubber bands. According to the instructions for making the cricket, when it jumps it will land on its feet half of the time and on its back the other half of the time. In the first 50 jumps, Courtney's cricket landed on its feet 35 times. In the next 10 jumps, it landed on its feet only twice. Based on this experience, Courtney can conclude that</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>the cricket was due to land on its feet less than half the time during the final 10 jumps, since it had landed too often on its feet during the first 50 jumps</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>a confidence interval for estimating the cricket's true probability of landing on its feet is wider after the final 10 jumps than it was before the final 10 jumps</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>a confidence interval for estimating the cricket's true probability of landing on its feet after the final 10 jumps is exactly the same as it was before the final 10 jumps</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>a confidence interval for estimating the cricket's true probability of landing on its feet is more narrow after the final 10 jumps than it was before the final 10 jumps</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>a confidence interval for estimating the cricket's true probability of landing on its feet based on the initial 50 jumps does not include 0.2, so there must be a defect in the cricket's construction to account for the poor showing in the final 10 jumps</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.2",
+    "text": "6.2: Constructing a Confidence Interval for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Construct a confidence interval, provided conditions for inference are met."
+  }
+}

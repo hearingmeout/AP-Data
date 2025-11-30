@@ -1,0 +1,35 @@
+{
+  "id": "FT534818",
+  "type": "mcq",
+  "title": "L'enigma della Gioconda - inference",
+  "content": {
+    "prompt": "<p>Come dipinge il brano la relazione tra Lisa dei Gherardini e Leonardo da Vinci?</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "Sono amanti.",
+        "value": "i0"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Sono sposati.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Sono competitori.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Sono compagni.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: The Influence of Language and Culture on Identity"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

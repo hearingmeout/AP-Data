@@ -1,0 +1,35 @@
+{
+  "id": "VR166130",
+  "type": "mcq",
+  "title": "How algorithms can be used to solve problems",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following best explains how algorithms that run on a computer can be used to solve problems?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">All problems can be solved with an algorithm that runs in a reasonable amount of time.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">All problems can be solved with an algorithm, but some algorithms might need a heuristic to run in a reasonable amount of time.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">All problems can be solved with an algorithm, but some algorithms might run in an unreasonable amount of time.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Some problems cannot be solved by an algorithm.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.18",
+    "text": "3.18: Undecidable Problems"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Investigate the situation, context, or task."
+  }
+}

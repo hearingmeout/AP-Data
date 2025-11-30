@@ -1,0 +1,43 @@
+{
+  "id": "FT548662",
+  "type": "mcq",
+  "title": "Intermediate Value Theorem with table",
+  "content": {
+    "prompt": "<p>&nbsp;</p>\n<img alt=\"A two row table shows the f of x values for different values of x. The data provided in the table are as follows. x, 0, f of x, 1; x, 1, f of x, k; x, 2, f of x, 2.\" height=\"60\" src=\"/images/b1c12af9153455254fa45caf6a906ff3.png\" width=\"143\">\n<p>The function <em>f</em> is continuous on the closed interval [0,2] and has values that are given in the table above. The equation <span aria-label=\"f ox  x equals one half\"><math> <semantics> <mrow> <mi>f</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> </mrow> <annotation>MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaWGMbGaaiikaiaadIhacaGGPaGaeyypa0ZaaSaaa8aabaWdbiaa igdaa8aabaWdbiaaikdaaaaaaa@3C22@</annotation> </semantics> </math></span> must have at least two solutions in the interval [0,2] if <em>k</em>=</p>\n",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>0</p>"
+      },
+      {
+        "label": "<span aria-label=\"One half\"><math aria-label=\"one half\" xmlns=\"http://www.w3.org/1998/Math/MathML\"> <semantics> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> </mrow> <annotation>MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaaGymaaWdaeaapeGaaGOmaaaaaaa@37DB@</annotation> </semantics> </math></span>",
+        "value": "i1"
+      },
+      {
+        "value": "i2",
+        "label": "<p>1</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>2</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>3</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.16",
+    "text": "1.16: Working with the Intermediate Value Theorem (IVT)"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Provide reasons or rationales for solutions and conclusions."
+  }
+}

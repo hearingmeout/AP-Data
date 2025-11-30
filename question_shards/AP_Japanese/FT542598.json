@@ -1,0 +1,35 @@
+{
+  "id": "FT542598",
+  "type": "mcq",
+  "title": "Caller information",
+  "content": {
+    "prompt": "<p>Who is this call from?</p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>A club member</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>A school principal</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>A school secretary</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>A student council representative</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Factors That Impact the Quality of Life"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Interpret the distinguishing features of a text."
+  }
+}

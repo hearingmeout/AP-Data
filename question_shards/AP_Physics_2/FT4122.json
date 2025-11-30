@@ -1,0 +1,39 @@
+{
+  "id": "FT4122",
+  "type": "mcq",
+  "title": "Bulb brightness long time after switch closed",
+  "content": {
+    "prompt": "<p>After the switch has been closed a long time, how does the brightness of bulb 4 compare with its brightness before the switch was closed?</p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Bulb 4 is much dimmer and is only barely lit.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Bulb 4 is slightly dimmer.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Bulb 4 is the same brightness.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Bulb 4 is slightly brighter.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.3",
+    "text": "11.3: Resistance, Resistivity, and Ohm's Law"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

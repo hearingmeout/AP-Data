@@ -1,0 +1,43 @@
+{
+  "id": "FT545784",
+  "type": "mcq",
+  "title": "Definition of continuity",
+  "content": {
+    "prompt": "If the function f is continuous for all real numbers and if&nbsp;<span aria-label=\"f of x is equal to the fraction with numerator x squared minus 4 and denominator x plus 2\"><math> <mrow> <mi>f</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mfrac> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>−</mo> <mn>4</mn> </mrow> <mrow> <mi>x</mi> <mo>+</mo> <mn>2</mn> </mrow> </mfrac> </mrow> </math></span> when&nbsp;<span aria-label=\"x is not equal to negative 2\"><math> <mrow> <mi>x</mi> <mo>≠</mo> <mo>−</mo> <mn>2</mn> </mrow> </math></span>, then&nbsp;<span aria-label=\"f of negative 2 is equal to\"><math> <mrow> <mi>f</mi> <mrow> <mo>(</mo> <mrow> <mo>−</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> <mo>=</mo> </mrow> </math></span>",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>-4</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>-2</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>-1</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>0</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>2</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: Defining Continuity at a Point"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Confirm whether hypotheses or conditions of a selected definition, theorem, or test have been satisfied."
+  }
+}

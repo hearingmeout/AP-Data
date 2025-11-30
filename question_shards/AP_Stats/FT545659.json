@@ -1,0 +1,43 @@
+{
+  "id": "FT545659",
+  "type": "mcq",
+  "title": "Interpret slope of concentration of zinc and lead",
+  "content": {
+    "prompt": "<p>The computer output below shows the result of a linear regression analysis for predicting the concentration of zinc, in parts per million (ppm), from the concentration of lead, in ppm, found in fish from a certain river.</p>\n\n<p><img alt=\"An image of a regression analysis output is shown. The title reads response variable is Zinc in ppm. A table is shown with five columns labeled variable, coefficient, standard deviation, T, and P. The first row reads constant, 16.3, 4.90, 3.32, and 0.003. The second row reads lead in ppm, 19, 1.89, 10.01, and 0. At the bottom it reads S equals 16.17 and R squared equals 82 percent.\" height=\"144\" src=\"/images/cf95081b5d4f2dbbd2fa3ba993f1c4e2.png\" width=\"377\"></p>\n\n<p>Which of the following statements is a correct interpretation of the value 19.0 in the output?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>On average there is a predicted increase of 19.0 ppm in concentration of lead for every increase of 1 ppm in concentration of zinc found in the fish.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>On average there is a predicted increase of 19.0 ppm in concentration of zinc for every increase of 1 ppm in concentration of lead found in the fish.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The predicted concentration of zinc is 19.0 ppm in fish with no concentration of lead.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The predicted concentration of lead is 19.0 ppm in fish with no concentration of zinc.</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>Approximately 19% of the variability in zinc concentration is predicted by its linear relationship with lead concentration.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: Least Squares Regression"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

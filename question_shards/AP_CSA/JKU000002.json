@@ -1,0 +1,39 @@
+{
+  "id": "JKU000002",
+  "type": "mcq",
+  "title": "values to make expression true - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following values for&nbsp; <span class=\"dap_inline\">x</span>&nbsp; and&nbsp; <span class=\"dap_inline\">y</span>&nbsp; will result in the expression evaluating to&nbsp; <span class=\"dap_inline\">true</span>?</p>",
+    "answer": "01JQ5D4BTKD0CNSDHBS9GW3VKC",
+    "choices": [
+      {
+        "value": "01JQ5D4BTJNZSA0PTRWAYJ7BGG",
+        "label": "<p class=\"dap_body\"><span class=\"dap_inline\">x = 8</span>&nbsp; and&nbsp; <span class=\"dap_inline\">y = 25</span></p>"
+      },
+      {
+        "value": "01JQ5D4BTK6VAQSDDE2G9K50WV",
+        "label": "<p class=\"dap_body\"><span class=\"dap_inline\">x = 10</span> &nbsp;and &nbsp;<span class=\"dap_inline\">y = 10</span></p>"
+      },
+      {
+        "value": "01JQ5D4BTKD0CNSDHBS9GW3VKC",
+        "label": "<p class=\"dap_body\"><span class=\"dap_inline\">x = 10</span> &nbsp;and &nbsp;<span class=\"dap_inline\">y = 30</span></p>"
+      },
+      {
+        "value": "01JQ5D4BTKTA4MHETP5P9PKTZN",
+        "label": "<p class=\"dap_body\"><span class=\"dap_inline\">x = 15</span> &nbsp;and &nbsp;<span class=\"dap_inline\">y = 30</span></p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Boolean Expressions"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

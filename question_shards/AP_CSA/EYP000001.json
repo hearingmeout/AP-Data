@@ -1,0 +1,39 @@
+{
+  "id": "EYP000001",
+  "type": "mcq",
+  "title": "Nested two-way-selection - value of result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What is the value of <span class=\"dap_inline\">result</span> after the code segment is executed if <span class=\"dap_inline\">x</span> has the value <span class=\"dap_inline\">15</span> and <span class=\"dap_inline\">y</span> has the value <span class=\"dap_inline\">5</span>?</p>",
+    "answer": "1726081200041.4604",
+    "choices": [
+      {
+        "value": "1726081200041.2363",
+        "label": "<pre><code class=\"language-plaintext\">adf</code></pre>"
+      },
+      {
+        "value": "1726081200041.5107",
+        "label": "<pre><code class=\"language-plaintext\">d</code></pre>"
+      },
+      {
+        "value": "1726081200041.4604",
+        "label": "<pre><code class=\"language-plaintext\">def</code></pre>"
+      },
+      {
+        "value": "17260813459704.979",
+        "label": "<pre><code class=\"language-plaintext\">ef</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Nested `if` Statements"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

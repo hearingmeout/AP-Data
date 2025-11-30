@@ -1,0 +1,39 @@
+{
+  "id": "YWA000001",
+  "type": "mcq",
+  "title": "Person class - write constructor",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following can be used to replace <span class=\"dap_inline\">/* missing constructor */</span> so that the object <span class=\"dap_inline\">p</span> is correctly created?</p>",
+    "answer": "1726176909257.8992",
+    "choices": [
+      {
+        "value": "1726176909257.783",
+        "label": "<pre><code class=\"language-plaintext\">private Person(String n)\n{\n   name = n;\n}</code></pre>"
+      },
+      {
+        "value": "1726176909257.247",
+        "label": "<pre><code class=\"language-plaintext\">public Person()\n{\n   name = n;\n}</code></pre>"
+      },
+      {
+        "value": "1726176909257.8992",
+        "label": "<pre><code class=\"language-plaintext\">public Person(String n)\n{\n   name = n;\n}</code></pre>"
+      },
+      {
+        "value": "17261770761134.088",
+        "label": "<pre><code class=\"language-plaintext\">public Person(String name)\n{\n   String n = name;\n}</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.4",
+    "text": "3.4: Constructors"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

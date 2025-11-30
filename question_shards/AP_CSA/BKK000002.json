@@ -1,0 +1,39 @@
+{
+  "id": "BKK000002",
+  "type": "mcq",
+  "title": "ArrayList method calls - determine result of code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What are the contents of&nbsp; <span class=\"dap_inline\">ages</span> &nbsp;after executing the code segment?</p>",
+    "answer": "01JGPM6HBASE023FVXXCCEYBZG",
+    "choices": [
+      {
+        "value": "01JGPM6HBAWE9X2C7614XP9VDH",
+        "label": "<pre><code class=\"language-plaintext\">[15, 18, 20]</code></pre>"
+      },
+      {
+        "value": "01JGPM6HBASE023FVXXCCEYBZG",
+        "label": "<pre><code class=\"language-plaintext\">[18, 15, 20]</code></pre>"
+      },
+      {
+        "value": "01JGPM6HBAR05DXHZDP72QGFQY",
+        "label": "<pre><code class=\"language-plaintext\">[18, 20, 15]</code></pre>"
+      },
+      {
+        "value": "01JGPM6HBB4B7NABJXX0W99A0C",
+        "label": "<pre><code class=\"language-plaintext\">[20, 15, 18]</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

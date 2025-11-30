@@ -1,0 +1,35 @@
+{
+  "id": "FT645694",
+  "type": "mcq",
+  "title": "Writing code to use procedure DrawCircle",
+  "content": {
+    "prompt": "Which of the following code segments can be used to draw the figure?",
+    "answer": "1",
+    "choices": [
+      {
+        "label": "<img alt=\"The program consists of 8 lines. Begin program Line 1: one word, x Pos, left arrow, 3 Line 2: one word, y Pos, left arrow, 6 Line 3: REPEAT 3 TIMES Line 4: open brace Line 5: one word, Draw Circle, open parenthesis, one word x Pos comma one word y Pos comma 2, close parenthesis Line 6: one word x Pos, left arrow, one word x Pos, plus 2 Line 7: one word y Pos, left arrow, one word y Pos, plus 2 Line 8: close brace End program.\" height=\"161\" src=\"/images/791d688e909b8e0fcd425355ab3c3bcb.JPG\" width=\"298\">",
+        "value": "0"
+      },
+      {
+        "label": "<img alt=\"The program consists of 8 lines. Begin program Line 1: one word, x Pos, left arrow, 3 Line 2: one word, y Pos, left arrow, 6 Line 3: REPEAT 3 TIMES Line 4: open brace Line 5: one word, Draw Circle, open parenthesis, one word x Pos comma one word y Pos comma 2, close parenthesis Line 6: one word x Pos, left arrow, one word x Pos, plus 2 Line 7: one word y Pos, left arrow, one word y Pos, minus 2 Line 8: close brace End program.\" height=\"158\" src=\"/images/5eedb1492aa6bd1b098d56cc8b8cc04d.JPG\" width=\"295\">",
+        "value": "1"
+      },
+      {
+        "label": "<img alt=\"The program consists of 8 lines. Begin program Line 1: one word, x Pos, left arrow, 7 Line 2: one word, y Pos, left arrow, 2 Line 3: REPEAT 3 TIMES Line 4: open brace Line 5: one word, Draw Circle, open parenthesis, one word x Pos comma one word y Pos comma 2, close parenthesis Line 6: one word x Pos, left arrow, one word x Pos, plus 2 Line 7: one word y Pos, left arrow, one word y Pos, plus 2 Line 8: close brace End program.\" height=\"156\" src=\"/images/9186bd99633e18a1262443c431727b17.JPG\" width=\"297\">",
+        "value": "2"
+      },
+      {
+        "label": "<img alt=\"The program consists of 8 lines. Begin program Line 1: one word, x Pos, left arrow, 7 Line 2: one word, y Pos, left arrow, 2 Line 3: REPEAT 3 TIMES Line 4: open brace Line 5: one word, Draw Circle, open parenthesis, one word x Pos comma one word y Pos comma 2, close parenthesis Line 6: one word x Pos, left arrow, one word x Pos, plus 2 Line 7: one word y Pos, left arrow, one word y Pos, minus 2 Line 8: close brace End program.\" height=\"159\" src=\"/images/8997f5ff9f8d50e1f9a680679057a17d.JPG\" width=\"296\">",
+        "value": "3"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.12",
+    "text": "3.12: Calling Procedures"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Use abstraction to manage complexity in a program."
+  }
+}

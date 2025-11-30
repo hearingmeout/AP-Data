@@ -1,0 +1,39 @@
+{
+  "id": "EPF000003",
+  "type": "mcq",
+  "title": "for loop array - determine behavior",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following best describes the behavior of the code segment?</p>",
+    "answer": "01JGPJ19G1RCAMBVQ0KJS1VKAT",
+    "choices": [
+      {
+        "value": "01JGPJ19G1XSBP0JD04G0YDSHH",
+        "label": "<p class=\"dap_body\">The loop adds 10 to each element in&nbsp; <code class=\"dap_inline\">arr1</code>.</p>"
+      },
+      {
+        "value": "01JGPJ19G1RCAMBVQ0KJS1VKAT",
+        "label": "<p class=\"dap_body\">The loop adds 10 to&nbsp; <code class=\"dap_inline\">num</code>&nbsp; once for each element in&nbsp; <code class=\"dap_inline\">arr1</code>.</p>"
+      },
+      {
+        "value": "01JGPJ19G1YKHTK40MTDJPGADD",
+        "label": "<p class=\"dap_body\">The loop adds the value of each element in&nbsp; <code class=\"dap_inline\">arr1</code>&nbsp; to <code class=\"dap_inline\">num</code>.</p>"
+      },
+      {
+        "value": "01JGPJ19G1A1RQZVC845HYZ1FK",
+        "label": "<p class=\"dap_body\">The loop does not change the value of&nbsp; <code class=\"dap_inline\">num</code>&nbsp; because it uses an enhanced&nbsp; <code class=\"dap_inline\">for</code>&nbsp; loop.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.4",
+    "text": "4.4: Array Traversals"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

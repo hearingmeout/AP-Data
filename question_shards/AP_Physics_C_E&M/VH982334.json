@@ -1,0 +1,43 @@
+{
+  "id": "VH982334",
+  "type": "mcq",
+  "title": "Max current through circuit",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">A <span class=\"math_expression\"><span aria-label=\"50 microfarads\"><math alttext=\"50 microfarads\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>50</mn><mtext> </mtext><mtext>μ</mtext><mtext>F</mtext></mrow></mstyle></math></span></span>  capacitor is fully charged to <span class=\"math_expression\"><span aria-label=\"40 microcoulombs\"><math alttext=\"40 microcoulombs\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>40</mn><mtext> </mtext><mtext>μ</mtext><mtext>C</mtext></mrow></mstyle></math></span></span> and then connected in series to a <span class=\"math_expression\"><span aria-label=\"20 millihenrys\"><math alttext=\"20 millihenrys\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>20</mn><mtext> </mtext><mtext>mH</mtext></mrow></mstyle></math></span></span> inductor and an open switch. After the switch is closed, what is the maximum current through the inductor?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"63.2 nanoamperes\"><math alttext=\"63.2 nanoamperes\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>63.2</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mstyle mathvariant=\"normal\"><mrow><mi>n</mi><mi>A</mi></mrow></mstyle></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"2.0 microamperes\"><math alttext=\"2.0 microamperes\" display=\"inline\" overflow=\"scroll\"><mrow><mn>2.0</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mstyle mathvariant=\"normal\"><mi>μ</mi><mi>A</mi></mstyle></mrow></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"40 milliamperes\"><math alttext=\"40 milliamperes\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>40</mn><mtext> </mtext><mtext>mA</mtext></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"1.3 amperes\"><math alttext=\"1.3 amperes\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>1.3</mn><mtext> </mtext><mtext>A</mtext></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"40 amperes\"><math alttext=\"40 amperes\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>40</mn><mtext> </mtext><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mtext>A</mtext></mrow></mstyle></math></span></span></p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.6",
+    "text": "13.6: Circuits with Capacitors and Inductors (LC Circuits)"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Calculate or estimate an unknown quantity with units from known quantities, by selecting and following a logical computational pathway."
+  }
+}

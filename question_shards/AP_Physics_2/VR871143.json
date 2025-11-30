@@ -1,0 +1,39 @@
+{
+  "id": "VR871143",
+  "type": "mcq",
+  "title": "Photoelectric - why freq is not 0 when Kmax is 0",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"standalone_image\"><img alt=\"The figure shows the graph of a line in the first quadrant of a coordinate plane. The horizontal axis is labeled “f,” and the value 0 is indicated. The vertical axis is labeled “K sub max,” and the value 0 is indicated. The line begins on the f axis approximately one fourth of the way along the axis to the right of the origin. It moves upward and to the right, ending near the top of the vertical axis.\" src=\"/images/ccc2ea6991d1a31e64569fb51d3dd3bb.svg\"></div></div></div><p class=\"stem_paragraph\">The graph represents the maximum kinetic energy <span class=\"math_expression\"><span aria-label=\"K sub max\"><math alttext=\"K sub max\" display=\"inline\" overflow=\"scroll\"><msub><mi>K</mi><mi>max</mi></msub></math></span></span> of emitted electrons as a function of the frequency <span class=\"math_expression\"><span aria-label=\"f\"><math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mi>f</mi></math></span></span> of light that is incident on the surface from which the electrons are emitted. Which of the following is a justification for why the line does not pass through the origin?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">For light below a certain frequency, an individual photon has insufficient energy to remove an electron from the surface.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">As the frequency of the incident light approaches zero, the kinetic energy of emitted electrons approaches a specific negative value.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The slope of the graph is nonzero but negligible at low frequencies, and then becomes equal to Planck’s constant above a certain frequency.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">As the light frequency increases from zero, the work function of the surface increases from zero to a value that is constant for frequencies above a certain value.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "15",
+    "text": "15: Modern Physics"
+  },
+  "topic": {
+    "code": "15.5",
+    "text": "15.5: The Photoelectric Effect"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

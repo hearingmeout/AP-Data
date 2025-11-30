@@ -1,0 +1,39 @@
+{
+  "id": "FT659869",
+  "type": "mcq",
+  "title": "int array swap",
+  "content": {
+    "prompt": "<p>Assume that an array of integer values has been declared as follows and has been initialized.</p>\n<p style=\"margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">int[] arr = new int[10];</span></span></span></span></span></p>\n<p><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Times-Roman&quot;,sans-serif\"></span></span></span></span></span>Which of the following code segments correctly interchanges the value of<span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Times-Roman&quot;,sans-serif\">&nbsp;&nbsp;</span><span style=\"font-family:Courier\">arr[0] </span><span style=\"font-family:&quot;Times-Roman&quot;,sans-serif\"></span></span></span></span></span>and<span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Times-Roman&quot;,sans-serif\">&nbsp;&nbsp;</span><span style=\"font-family:Courier\">arr[5]&nbsp;</span></span></span></span></span>?<span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"></span></span></span></span></p>\n",
+    "answer": "3",
+    "choices": [
+      {
+        "label": "<p style=\"margin-bottom: 0px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">arr[0] = 5;</span></span></span></span></span></p>\n<p><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">arr[5] = 0;</span></span></span></span></span></p>\n",
+        "value": "0"
+      },
+      {
+        "label": "<p style=\"margin-bottom: 0px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">arr[0] = arr[5];</span></span></span></span></span></p>\n<p><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">arr[5] = arr[0];</span></span></span></span></span></p>\n",
+        "value": "1"
+      },
+      {
+        "label": "<p style=\"margin-bottom: 0px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\"></span></span></span></span></span><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">int k = arr[5];</span></span></span></span></span></p>\n<p style=\"margin-bottom: 0px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">arr[0] = arr[5];</span></span></span></span></span></p>\n<p style=\"margin-bottom: 0px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">arr[5] = k;</span></span></span></span></span><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\"></span></span></span></span></span></p>\n",
+        "value": "2"
+      },
+      {
+        "label": "<p style=\"margin-bottom: 0px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">int k = arr[0];</span></span></span></span></span></p>\n<p style=\"margin-bottom: 0px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">arr[0] = arr[5];</span></span></span></span></span></p>\n<p style=\"margin-bottom: 0px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">arr[5] = k;</span></span></span></span></span></p>\n",
+        "value": "3"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Array Creation and Access"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "VH903966",
+  "type": "mcq",
+  "title": "Favorite ice cream",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">The following frequency table shows the responses from a group of college students who were asked to choose their favorite flavor of ice cream.</p><div class=\"table_wrapper\"><table class=\"tgroup cols:2\"><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry colname:col1\"><span class=\"formatted_text font_weight:bold\">Flavor </span> </td><td class=\"entry colname:col2\"><span class=\"formatted_text font_weight:bold\">Frequency </span> </td></tr><tr class=\"row\"><td class=\"entry colname:col1\">Vanilla  </td><td class=\"entry colname:col2\">100  </td></tr><tr class=\"row\"><td class=\"entry colname:col1\">Chocolate  </td><td class=\"entry colname:col2\">65  </td></tr><tr class=\"row\"><td class=\"entry colname:col1\">Strawberry  </td><td class=\"entry colname:col2\">35  </td></tr><tr class=\"row\"><td class=\"entry colname:col1\">Mint chip  </td><td class=\"entry colname:col2\">45  </td></tr><tr class=\"row\"><td class=\"entry colname:col1\">Coffee  </td><td class=\"entry colname:col2\">30  </td></tr><tr class=\"row\"><td class=\"entry colname:col1\">Butter pecan  </td><td class=\"entry colname:col2\">25  </td></tr></tbody></table></div><p class=\"stem_paragraph\">Which of the following statements is <span class=\"formatted_text text_decoration:underline\">not</span> supported by the table?</p>\n",
+    "answer": "i5",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The number of student responses is 300.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">One-third of the students chose vanilla.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">One-third of the students chose chocolate or strawberry.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">One-fourth of the students chose mint chip or coffee.</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">One-half of the students chose vanilla or chocolate.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Representing a Categorical Variable with Tables"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Describe data presented numerically or graphically."
+  }
+}

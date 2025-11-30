@@ -1,0 +1,43 @@
+{
+  "id": "FT4264",
+  "type": "mcq",
+  "title": "Radioactive nucleus emits beta minus particle",
+  "content": {
+    "prompt": "<p>A radioactive nucleus initially has <em>Z</em> protons and <em>N</em> neutrons. It emits a beta minus particle and then a gamma-ray photon. How many protons and neutrons does the remaining nucleus contain?</p>",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p>&nbsp;</p>\n\n<table class=\"table table-bordered\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td class=\"text-center\"><strong>Protons</strong></td>\n\t\t\t<td class=\"text-center\"><strong>Neutrons</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td class=\"text-center\"><em>Z</em>-2</td>\n\t\t\t<td class=\"text-center\"><em>N</em>-2</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i0"
+      },
+      {
+        "label": "<p>&nbsp;</p>\n\n<table class=\"table table-bordered\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td class=\"text-center\"><strong>Protons</strong></td>\n\t\t\t<td class=\"text-center\"><strong>Neutrons</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td class=\"text-center\"><em>Z</em>-1</td>\n\t\t\t<td class=\"text-center\"><em>N</em></td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i1"
+      },
+      {
+        "label": "<p>&nbsp;</p>\n\n<table class=\"table table-bordered\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td class=\"text-center\"><strong>Protons</strong></td>\n\t\t\t<td class=\"text-center\"><strong>Neutrons</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td class=\"text-center\"><em>Z</em>-1</td>\n\t\t\t<td class=\"text-center\"><em>N</em>+1</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i2"
+      },
+      {
+        "label": "<table class=\"table table-bordered\" style=\"background-color:rgb(255, 255, 255); font-family:helvetica neue,helvetica,arial,sans-serif\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td class=\"text-center\"><strong>Protons</strong></td>\n\t\t\t<td class=\"text-center\"><strong>Neutrons</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td class=\"text-center\"><em>Z</em></td>\n\t\t\t<td class=\"text-center\"><em>N</em>-2</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i3"
+      },
+      {
+        "label": "<p>&nbsp;</p>\n\n<table class=\"table table-bordered\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td class=\"text-center\"><strong>Protons</strong></td>\n\t\t\t<td class=\"text-center\"><strong>Neutrons</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td class=\"text-center\"><em>Z</em>+1</td>\n\t\t\t<td class=\"text-center\"><em>N</em>-1</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "15",
+    "text": "15: Modern Physics"
+  },
+  "topic": {
+    "code": "15.8",
+    "text": "15.8: Types of Radioactive Decay"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

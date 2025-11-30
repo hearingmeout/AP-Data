@@ -1,0 +1,39 @@
+{
+  "id": "BTQ9",
+  "type": "mcq",
+  "title": "Membrane Polarity TQ",
+  "content": {
+    "prompt": "<p>Researchers exposed identical cells to solutions containing different solutes. Each solution had a higher concentration of the solute outside the cells than inside the cells. The solutes varied in size, charge, and polarity. After a set time, the researchers measured the concentration of each solute inside the cells to determine the permeability of the cell membranes to each solute. The results are shown in Table 1.</p>\n\n<p class=\"text-center\" style=\"margin-bottom:16px; margin-left:10px\"><strong>Table 1. Permeability of Cell Membranes to Different Solutes</strong></p>\n\n<table class=\"table table-striped table-bordered lrn_width_auto\">\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"col\">Solute</th>\n\t\t\t<th class=\"text-center\" scope=\"col\"><strong>Size</strong></th>\n\t\t\t<th class=\"text-center\" scope=\"col\"><strong>Charge</strong></th>\n\t\t\t<th class=\"text-center\" scope=\"col\"><strong>Polarity</strong></th>\n\t\t\t<th class=\"text-center\" scope=\"col\">\n\t\t\t<p>Initial Concentration</p>\n\n\t\t\t<p>outside the cell</p>\n\t\t\t</th>\n\t\t\t<th class=\"text-center\" scope=\"col\">\n\t\t\t<p><strong>Concentration </strong></p>\n\n\t\t\t<p><strong>Inside the Cell</strong></p>\n\t\t\t</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td class=\"text-center\">A</td>\n\t\t\t<td class=\"text-center\">Small</td>\n\t\t\t<td class=\"text-center\">Neutral</td>\n\t\t\t<td class=\"text-center\">Nonpolar</td>\n\t\t\t<td class=\"text-center\">High</td>\n\t\t\t<td class=\"text-center\">High</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td class=\"text-center\">B</td>\n\t\t\t<td class=\"text-center\">Large</td>\n\t\t\t<td class=\"text-center\">Positive</td>\n\t\t\t<td class=\"text-center\">Nonpolar</td>\n\t\t\t<td class=\"text-center\">High</td>\n\t\t\t<td class=\"text-center\">Low</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td class=\"text-center\">C</td>\n\t\t\t<td class=\"text-center\">Small</td>\n\t\t\t<td class=\"text-center\">Negative</td>\n\t\t\t<td class=\"text-center\">Polar</td>\n\t\t\t<td class=\"text-center\">High</td>\n\t\t\t<td class=\"text-center\">Medium</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<p>Based on the data in Table 1, which of the following statements best supports the hypothesis that only certain types of molecules can move freely across the cell membranes?</p>\n",
+    "answer": "2",
+    "choices": [
+      {
+        "label": "Large, nonpolar solutes showed an increase in the concentration inside the cell, while small, nonpolar solutes showed a slow increase in the concentration inside the cell.",
+        "value": "0"
+      },
+      {
+        "label": "Ionic solutes showed equal movement of solutes inside and outside the cell internal and external concentrations.",
+        "value": "1"
+      },
+      {
+        "label": "Small, nonpolar solutes showed the greatest increase in internal concentration, while large, nonpolar solutes showed little to no increase.",
+        "value": "2"
+      },
+      {
+        "label": "None of the solutes showed any change in internal concentration, regardless of their size, polarity, and charge.",
+        "value": "3"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Cells"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Membrane Permeability"
+  },
+  "skill": {
+    "code": "5.D",
+    "text": "5.D: Use data to evaluate a hypothesis or prediction, including rejecting or failing to reject the null hypothesis."
+  }
+}

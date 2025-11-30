@@ -1,0 +1,39 @@
+{
+  "id": "PBN000001",
+  "type": "mcq",
+  "title": "error in sumRows method - explain error",
+  "content": {
+    "prompt": "<p class=\"dap_body\">For which of the following two-dimensional array input values does <span class=\"dap_inline\">sumRows</span> <strong>not</strong> work as intended?</p>",
+    "answer": "1726187782055.1772",
+    "choices": [
+      {
+        "value": "1726187782055.6365",
+        "label": "<pre><code class=\"language-plaintext\">{{10, -18}, {48, 17}}</code></pre>"
+      },
+      {
+        "value": "1726187782055.8499",
+        "label": "<pre><code class=\"language-plaintext\">{{-5, 2, 0}, {4, 11, 0}}</code></pre>"
+      },
+      {
+        "value": "1726187782055.1772",
+        "label": "<pre><code class=\"language-plaintext\">{{4, 1, 7}, {-10, -11, -12}}</code></pre>"
+      },
+      {
+        "value": "17261879315714.543",
+        "label": "<pre><code class=\"language-plaintext\">{{1, 2, 3}, {4, 5, 6}, {7, 8, 9}}</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.12",
+    "text": "4.12: 2D Array Traversals"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

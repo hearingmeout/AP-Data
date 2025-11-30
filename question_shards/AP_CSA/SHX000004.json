@@ -1,0 +1,39 @@
+{
+  "id": "SHX000004",
+  "type": "mcq",
+  "title": "doWhat method return value- describe behavior",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following best describes the value, if any, returned from a call to&nbsp; <span class=\"dap_inline\">doWhat</span>?</p>",
+    "answer": "01JMDTHTFJG5R96F8WE39QB4AH",
+    "choices": [
+      {
+        "value": "01JMDTHTFJ20056743EBETNSMB",
+        "label": "<p class=\"dap_body\">The sum of all integers between&nbsp; <span class=\"dap_inline\">1</span>&nbsp; and&nbsp; <span class=\"dap_inline\">num</span>,&nbsp; inclusive</p>"
+      },
+      {
+        "value": "01JMDTHTFJBTNHZF7DVF7XE745",
+        "label": "<p class=\"dap_body\">The sum of all even integers between&nbsp; <span class=\"dap_inline\">1</span>&nbsp; and&nbsp; <span class=\"dap_inline\">num</span>,&nbsp; inclusive</p>"
+      },
+      {
+        "value": "01JMDTHTFJG5R96F8WE39QB4AH",
+        "label": "<p class=\"dap_body\">The sum of all odd integers between&nbsp; <span class=\"dap_inline\">1</span>&nbsp; and&nbsp; <span class=\"dap_inline\">num</span>,&nbsp; inclusive</p>"
+      },
+      {
+        "value": "01JMDTHTFJHRT203CAR74B59TQ",
+        "label": "<p class=\"dap_body\"><span style=\"background-color:rgb(255,255,255);color:rgb(51,51,51);\">No value is returned because of an infinite loop.</span></p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.9",
+    "text": "2.9: Implementing Selection and Iteration Algorithms"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

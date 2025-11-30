@@ -1,0 +1,43 @@
+{
+  "id": "FT1310",
+  "type": "mcq",
+  "title": "Derivative with particle motion",
+  "content": {
+    "prompt": "<p>A particle moves along the <em>x</em>-axis so that at any time <em>t</em> ≥ 0, its velocity is given by <em>v</em>(<em>t</em>)<em> </em>= 3 + 4.1cos(0.9<em>t</em>).  What is the acceleration of the particle at time <em>t</em> = 4</p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>-2.016</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>-0.677</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>1.633</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>1.814</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>2.978</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Contextual Applications of Differentiation"
+  },
+  "topic": {
+    "code": "4.2",
+    "text": "4.2: Straight-Line Motion - Connecting Position, Velocity, and Acceleration"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ASN000010",
+  "type": "mcq",
+  "title": "Point and PointChecker classes - explain error",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following best explains why an error occurs when the classes are compiled?</p>",
+    "answer": "01JMF9J8DKEY42TF2EYJX5YB5J",
+    "choices": [
+      {
+        "value": "01JMF9J8DMP8M2H2XPYF8EF4Z7",
+        "label": "<p class=\"dap_body\">The&nbsp; <span class=\"dap_inline\">Point</span>&nbsp; constructor should have return type&nbsp; <span class=\"dap_inline\">void</span>.</p>"
+      },
+      {
+        "value": "01JMF9J8DMVAZK84K8S0T892AJ",
+        "label": "<p class=\"dap_body\">In the&nbsp; <span class=\"dap_inline\">Point</span>&nbsp; constructor,&nbsp; <span class=\"dap_inline\">int</span>&nbsp; values cannot be assigned to&nbsp; <span class=\"dap_inline\">double</span>&nbsp; variables.</p>"
+      },
+      {
+        "value": "01JMF9J8DMGRYP0J6N31RNWH82",
+        "label": "<p class=\"dap_body\">The&nbsp; <span class=\"dap_inline\">checkPoint</span> &nbsp;method cannot have a parameter of type&nbsp; <span class=\"dap_inline\">Point</span>.</p>"
+      },
+      {
+        "value": "01JMF9J8DKEY42TF2EYJX5YB5J",
+        "label": "<p class=\"dap_body\">In the&nbsp; <span class=\"dap_inline\">checkPoint</span> &nbsp;method, the instance variables&nbsp; <span class=\"dap_inline\">num1</span>&nbsp; and&nbsp; <span class=\"dap_inline\">num2</span>&nbsp; cannot be accessed from a class other than&nbsp; <span class=\"dap_inline\">Point</span>.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Anatomy of a Class"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

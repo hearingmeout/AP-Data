@@ -1,0 +1,35 @@
+{
+  "id": "FT534906",
+  "type": "mcq",
+  "title": "Le Biblioteche di Roma - inference",
+  "content": {
+    "prompt": "<p>Qual è il pregio principale delle Biblioteche di Roma?</p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Contengono sale multimediali molto spaziose.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Possiedono una grande varietà di libri.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Forniscono le postazioni con i più avanzati audiovisivi</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Offrono servizi bibliotecari 24 ore su 24.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Families in Different Societies"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

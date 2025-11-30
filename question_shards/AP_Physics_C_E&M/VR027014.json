@@ -1,0 +1,43 @@
+{
+  "id": "VR027014",
+  "type": "mcq",
+  "title": "Describe Type II error given hypotheses",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"passage\">\n<div class=\"prose style:1\">\n<p class=\"passage_para\">Which of the following describes a Type <span class=\"math_expression\"><span aria-label=\"2\" role=\"math\"><math alttext=\"2\" overflow=\"scroll\"><mstyle><mrow><mi mathvariant=\"normal\">I</mi><mi mathvariant=\"normal\">I</mi></mrow></mstyle></math></span></span> error?</p>\n</div>\n</div>\n</div>\n</div>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Failing to reject the null hypothesis when the population mean is <span class=\"math_expression\"><span aria-label=\"64\"><math alttext=\"64\" overflow=\"scroll\"><mstyle><mrow><mn>64</mn></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Failing to reject the null hypothesis when the population mean is greater than <span class=\"math_expression\"><span aria-label=\"64\"><math alttext=\"64\" overflow=\"scroll\"><mstyle><mrow><mn>64</mn></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Rejecting the null hypothesis when the population mean is <span class=\"math_expression\"><span aria-label=\"64\"><math alttext=\"64\" overflow=\"scroll\"><mstyle><mrow><mn>64</mn></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Rejecting the null hypothesis when the population mean is greater than <span class=\"math_expression\"><span aria-label=\"64\"><math alttext=\"64\" overflow=\"scroll\"><mstyle><mrow><mn>64</mn></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Failing to reject the null hypothesis when the <span class=\"math_expression\"><span aria-label=\"p\"><math alttext=\"p\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math></span></span>-value is less than the significance level</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.7",
+    "text": "6.7: Potential Errors When Performing Tests"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Identify key and relevant information to answer a question or solve a problem."
+  }
+}

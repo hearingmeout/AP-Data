@@ -1,0 +1,39 @@
+{
+  "id": "TDY000000",
+  "type": "mcq",
+  "title": "Polar Coordinates - polar to rectangular",
+  "content": {
+    "prompt": "<div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <p class=\"dap_body\">What are the rectangular coordinates&nbsp;<span aria-label=\"open parentheses x comma y close parentheses\"><math alttext=\"open parentheses x comma y close parentheses\"><semantics><mfenced><mrow><mi>x</mi><mo>,</mo><mi>y</mi></mrow></mfenced><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;that give the location of the point with polar coordinates&nbsp;<span aria-label=\"open parentheses r comma theta close parentheses equals open parentheses 2 comma negative fraction numerator 7 pi over denominator 6 end fraction close parentheses\"><math alttext=\"open parentheses r comma theta close parentheses equals open parentheses 2 comma negative fraction numerator 7 pi over denominator 6 end fraction close parentheses\"><semantics><mrow><mfenced><mrow><mi>r</mi><mo>,</mo><mi>θ</mi></mrow></mfenced><mo>=</mo><mfenced><mrow><mn>2</mn><mo>,</mo><mo>-</mo><mfrac><mrow><mn>7</mn><mi>π</mi></mrow><mn>6</mn></mfrac></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;?</p> </div> </div> </div>\n",
+    "answer": "D-78186",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"open parentheses negative fraction numerator square root of 3 over denominator 2 end fraction comma negative 1 half close parentheses\"><math alttext=\"open parentheses negative fraction numerator square root of 3 over denominator 2 end fraction comma negative 1 half close parentheses\"><semantics><mfenced><mrow><mo>-</mo><mfrac><msqrt><mn>3</mn></msqrt><mn>2</mn></mfrac><mo>,</mo><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "A-78183"
+      },
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"open parentheses negative fraction numerator square root of 3 over denominator 2 end fraction comma 1 half close parentheses\"><math alttext=\"open parentheses negative fraction numerator square root of 3 over denominator 2 end fraction comma 1 half close parentheses\"><semantics><mfenced><mrow><mo>-</mo><mfrac><msqrt><mn>3</mn></msqrt><mn>2</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "B-78184"
+      },
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"open parentheses negative square root of 3 comma negative 1 close parentheses\"><math alttext=\"open parentheses negative square root of 3 comma negative 1 close parentheses\"><semantics><mfenced><mrow><mo>-</mo><msqrt><mn>3</mn></msqrt><mo>,</mo><mo>-</mo><mn>1</mn></mrow></mfenced><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "C-78185"
+      },
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"open parentheses negative square root of 3 comma 1 close parentheses\"><math alttext=\"open parentheses negative square root of 3 comma 1 close parentheses\"><semantics><mfenced><mrow><mo>-</mo><msqrt><mn>3</mn></msqrt><mo>,</mo><mn>1</mn></mrow></mfenced><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "D-78186"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Trigonometric and Polar Functions"
+  },
+  "topic": {
+    "code": "3.13",
+    "text": "3.13: Trigonometry and Polar Coordinates"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Express functions, equations, or expressions in analytically equivalent forms that are useful in a given mathematical or applied context."
+  }
+}

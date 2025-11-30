@@ -1,0 +1,35 @@
+{
+  "id": "VR168128",
+  "type": "mcq",
+  "title": "Benefits of procedural abstraction",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following are benefits of procedural abstraction?</p><p class=\"stem_paragraph\">Select <span class=\"formatted_text text_decoration:underline\">two</span> answers.</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Procedural abstraction prevents programmers from accidentally using the intellectual property of other programmers.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Procedural abstraction eliminates the need for programmers to document their code.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Procedural abstraction makes it easier for people to read computer programs.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Procedural abstraction provides an opportunity to give a name to a block of code that describes the purpose of the code block.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.13",
+    "text": "3.13: Developing Procedures"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Explain how abstraction manages complexity."
+  }
+}

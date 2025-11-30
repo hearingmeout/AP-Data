@@ -1,0 +1,43 @@
+{
+  "id": "FT547705",
+  "type": "mcq",
+  "title": "Finding a relative maximum of a polynomial",
+  "content": {
+    "prompt": "The function <em>f</em> given by&nbsp;<span aria-label=\"f of x is equal to 3 x to the 5th power minus 4 x cubed minus 3 x\"><math> <mrow> <mi>f</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mn>3</mn> <msup> <mi>x</mi> <mn>5</mn> </msup> <mo>−</mo> <mn>4</mn> <msup> <mi>x</mi> <mn>3</mn> </msup> <mo>−</mo> <mn>3</mn> <mi>x</mi> </mrow> </math></span>&nbsp;has a relative maximum at <em>x</em>=",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>-1</p>"
+      },
+      {
+        "label": "<span aria-label=\"negative the fraction with numerator square root of 5 and denominator 5\"><math> <mrow> <mo>−</mo> <mfrac> <mrow> <msqrt> <mn>5</mn> </msqrt> </mrow> <mn>5</mn> </mfrac> </mrow> </math></span>",
+        "value": "i1"
+      },
+      {
+        "value": "i2",
+        "label": "<p>0</p>"
+      },
+      {
+        "label": "<span aria-label=\"the fraction with numerator square root of 5 and denominator 5\"><math> <mrow> <mfrac> <mrow> <msqrt> <mn>5</mn> </msqrt> </mrow> <mn>5</mn> </mfrac> </mrow> </math></span>",
+        "value": "i3"
+      },
+      {
+        "value": "i4",
+        "label": "<p>1</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.4",
+    "text": "5.4: Using the First Derivative Test to Determine Relative (Local) Extrema"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

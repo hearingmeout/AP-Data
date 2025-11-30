@@ -1,0 +1,43 @@
+{
+  "id": "FT547800",
+  "type": "mcq",
+  "title": "Interval probability of containing true proportion",
+  "content": {
+    "prompt": "<p>A school administrator is interested in estimating the proportion of students in the district who participate in community service activities. From a random sample of 100 students in the district, the administrator will construct a 99 percent confidence interval for the proportion of all district students who participate in community service activities. Which of the following statements must be true?</p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The population proportion will be in the confidence interval.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The probability that the confidence interval will include the population proportion is 0.99.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The probability that the confidence interval will include the sample proportion is 0.99.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The population proportion and the sample proportion will be equal.</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>The probability that the population proportion and the sample proportion will be equal is 0.99.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.3",
+    "text": "6.3: Justifying a Claim Based on a Confidence Interval for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "VR708829",
+  "type": "mcq",
+  "title": "Rotational kinematics - stopping times and angles",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR708804.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">Now the disk is given an initial angular velocity <span class=\"math_expression\"><span aria-label=\"omega sub 0\"><math alttext=\"omega sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>ω</mi><mn>0</mn></msub></math></span></span> at time <span class=\"math_expression\"><span aria-label=\"t equals 0\"><math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn></math></span></span>. This time, the disk decelerates with a constant angular acceleration <span class=\"math_expression\"><span aria-label=\"negative alpha sub 0\"><math alttext=\"negative alpha sub 0\" display=\"inline\" overflow=\"scroll\"><mpadded><mo>-</mo><msub><mi>α</mi><mn>0</mn></msub></mpadded></math></span></span>. The disk rotates through an angle <span class=\"math_expression\"><span aria-label=\"delta theta\"><math alttext=\"delta theta\" display=\"inline\" overflow=\"scroll\"><mtext>Δ</mtext><mi>θ</mi></math></span></span> in a time <span class=\"math_expression\"><span aria-label=\"delta t\"><math alttext=\"delta t\" display=\"inline\" overflow=\"scroll\"><mtext>Δ</mtext><mi>t</mi></math></span></span> before coming to a stop. Which of the following is true for a disk with an initial angular velocity <span class=\"math_expression\"><span aria-label=\"2 omega sub 0\"><math alttext=\"2 omega sub 0\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><msub><mi>ω</mi><mn>0</mn></msub></math></span></span> and constant angular acceleration <span class=\"math_expression\"><span aria-label=\"negative 2 alpha sub 0\"><math alttext=\"negative 2 alpha sub 0\" display=\"inline\" overflow=\"scroll\"><mpadded><mo>−</mo><mn>2</mn><msub><mi>α</mi><mn>0</mn></msub></mpadded></math></span></span> ?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The disk stops in a time greater than <span class=\"math_expression\"><span aria-label=\"delta t\"><math alttext=\"delta t\" display=\"inline\" overflow=\"scroll\"><mtext>Δ</mtext><mi>t</mi></math></span></span>.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The disk stops in a time less than <span class=\"math_expression\"><span aria-label=\"delta t\"><math alttext=\"delta t\" display=\"inline\" overflow=\"scroll\"><mtext>Δ</mtext><mi>t</mi></math></span></span>.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The disk rotates through an angle greater than <span class=\"math_expression\"><span aria-label=\"delta theta\"><math alttext=\"delta theta\" display=\"inline\" overflow=\"scroll\"><mtext>Δ</mtext><mi>θ</mi></math></span></span> before stopping.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The disk rotates through an angle less than <span class=\"math_expression\"><span aria-label=\"delta theta\"><math alttext=\"delta theta\" display=\"inline\" overflow=\"scroll\"><mtext>Δ</mtext><mi>θ</mi></math></span></span> before stopping.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.1",
+    "text": "5.1: Rotational Kinematics"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

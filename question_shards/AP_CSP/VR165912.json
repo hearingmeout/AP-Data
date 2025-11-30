@@ -1,0 +1,35 @@
+{
+  "id": "VR165912",
+  "type": "mcq",
+  "title": "Swap values of num1 and num2",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following code segments can be used to interchange the values of the variables <span class=\"inline_code\">num1</span> and <span class=\"inline_code\">num2</span>&nbsp;?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure presents two blocks of code that consist of 2 total lines. Line 1: [begin block] num1 ← num2 [end block] Line 2: [begin block] num2 ← num1 [end block]\" height=\"58\" src=\"/images/95eb11ff0141d9135496216db3f2670a.png\" width=\"120\"></span></p>\n",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure presents three blocks of code that consist of 3 total lines. Line 1: [begin block] temp ← num1 [end block] Line 2: [begin block] num1 ← temp [end block] Line 3: [begin block] num2 ← num1 [end block]\" height=\"87\" src=\"/images/af4bf1a6d71c474ab1f504af8c1e74a3.png\" width=\"120\"></span></p>\n",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure presents three blocks of code that consist of 3 total lines. Line 1: [begin block] temp ← num1 [end block] Line 2: [begin block] num2 ← num1 [end block] Line 3: [begin block] num1 ← temp [end block]\" height=\"86\" src=\"/images/d59b210cdb9e153f39813a46e03dedd5.png\" width=\"120\"></span></p>\n",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure presents three blocks of code that consist of 3 total lines. Line 1: [begin block] temp ← num1 [end block] Line 2: [begin block] num1← num2 [end block] Line 3: [begin block] num2 ← temp [end block]\" height=\"86\" src=\"/images/055268edce3194224ee94dc7d3fe4e05.png\" width=\"120\"></span></p>\n",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Mathematical Expressions"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "FT538041",
+  "type": "mcq",
+  "title": "Remove zeros from ArrayList by index",
+  "content": {
+    "prompt": "<p>Consider the following method.</p>\n<p><img alt=\"A 10-line code segment reads as follows. Line 1: public static void mystery, open parenthesis, List, open angular bracket, Integer, close angular bracket, nums, close parenthesis. Line 2: open brace. Line 3: for, open parenthesis, int k equals 0, semicolon, k less than nums, dot, size, open parenthesis, close parenthesis, semicolon, k, plus, plus, close parenthesis. Line 4: open brace. Line 5: if, open parenthesis, nums, dot, get, open parenthesis, k, close parenthesis, dot, int Value, open parenthesis, close parenthesis, equals, equals 0, close parenthesis. Line 6: open brace. Line 7: nums, dot, remove, open parenthesis, k, close parenthesis, semicolon. Line 8: close brace. Line 9: close brace. Line 10: close brace.\" height=\"259\" src=\"/images/222b5ced8f5bee4efe1d65507dc6309b.jpg\" width=\"495\"><br>\nAssume that a List&lt;Integer&gt; values initially contains the following Integer values.</p>\n<p><img alt=\"An array reads as follows: open square bracket, 0 comma 0 comma 4 comma 2 comma 5 comma 0 comma 3 comma 0, close square bracket.\" height=\"49\" src=\"/images/f9714ef04aadf4da1e23eb882dd6a618.jpg\" width=\"301\"><br>\nWhat will values contain as a result of executing mystery(values) ?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>   [0,    0,    4,    2,    5,    0,    3,    0] </p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>   [4,    2,    5,    3] </p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>   [0,    4,    2,    5,    3] </p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>The code throws an ArrayIndexOutOfBoundsException exception. </p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.9",
+    "text": "4.9: `ArrayList` Traversals"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

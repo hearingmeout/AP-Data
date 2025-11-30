@@ -1,0 +1,35 @@
+{
+  "id": "VR165938",
+  "type": "mcq",
+  "title": "Value of sum after IF ELSE IF",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Consider the following code segment.</p>\n<div class=\"standalone_image\"><img alt=\"The figure presents six blocks of code that consist of 10 total lines. Line 1: [begin block] num1 ← 6 [end block] Line 2: [begin block] num2 ← 4 [end block] Line 3: [begin block] num3 ← 10 [end block] [Begin Block] Line 4: IF [begin block] num1 is less than num2 [end block]&nbsp;[begin block] Line 5: [begin block] num1&nbsp;← num2 [end block] [end block] Line 6: ELSE [begin block] Line 7: [begin block] num3 ← num2 [end block] [end block] [End Block] [Begin block] Line 8: IF [begin block] num2 is greater than or equal to num3 [end block] [begin block] Line 9: [begin block] num1 ← num2 plus num3 [end block] [end block] [End Block] Line 10: [begin block] sum ← num1 plus num2 plus num3 [end block]\" height=\"297\" src=\"/images/9d34756d06ace423128bacf35762e495.png\" width=\"240\"></div>\n<p class=\"stem_paragraph\">What is the value of <span class=\"inline_code\">sum</span> after the code segment is executed?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">12</span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">14</span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">16</span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">18</span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.6",
+    "text": "3.6: Conditionals"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

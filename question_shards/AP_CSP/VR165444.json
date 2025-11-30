@@ -1,0 +1,35 @@
+{
+  "id": "VR165444",
+  "type": "mcq",
+  "title": "Values of variables after arithmetic operations",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Consider the following code segment.</p>\n<div class=\"standalone_image\"><img alt=\"The figure presents twelve blocks of code that consist of&nbsp; 12 total lines. Line 1: [begin block] a &nbsp;← 10 [end block] Line 2: [begin block] b&nbsp; ← 20 [end block] Line 3: [begin block] c&nbsp; ← 30 [end block] Line 4: [begin block] d&nbsp; ← 40 [end block] Line 5: [begin block] x&nbsp; ← 20 [end block] Line 6: [begin block] b&nbsp; ← x plus b [end block] Line 7: [begin block] a &nbsp;← x plus 1 [end block] Line 8: [begin block] d&nbsp; ← c plus d divided by 2 [end block] Line 9: [begin block] DISPLAY [begin block] a [end block] [end block] Line 10: [begin block] DISPLAY [begin block] b [end block] [end block] Line 11: [begin block] DISPLAY [begin block] c [end block] [end block] Line 12: [begin block] DISPLAY [begin block] d [end block] [end block]\" height=\"295\" src=\"/images/6fb14a61653ccfcd9fa9a247d183f232.png\" width=\"150\"></div>\n<p class=\"stem_paragraph\">What is displayed as a result of executing the code segment?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">10 20 30 40</p></div>",
+        "value": "i1"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">21 30 40 50</p></div>",
+        "value": "i2"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">21 40 30 40</p></div>",
+        "value": "i3"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">21 40 30 50</p></div>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Mathematical Expressions"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

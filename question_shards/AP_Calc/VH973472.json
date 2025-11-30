@@ -1,0 +1,39 @@
+{
+  "id": "VH973472",
+  "type": "mcq",
+  "title": "Justification - Ratio Test",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">What are all positive values of <span class=\"math_expression\"><span aria-label=\"p\"><math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math></span></span> for which the series <span class=\"math_expression\"><span aria-label=\"the sum, from n equals 1, to infinity, of, the fraction with numerator n to the p power, and denominator 4 to the n power, end fraction\"><math alttext=\"the sum, from n equals 1, to infinity, of, the fraction with numerator n to the p power, and denominator 4 to the n power, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mrow><munderover><mo>∑</mo><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><mfrac><mrow><msup><mrow><mi>n</mi></mrow><mrow><mi>p</mi></mrow></msup></mrow><mrow><msup><mrow><mn>4</mn></mrow><mrow><mi>n</mi></mrow></msup></mrow></mfrac></mrow></mrow></mrow></mstyle></math></span></span> will converge?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"p is greater than 0\"><math alttext=\"p is greater than 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi><mo>&gt;</mo><mn>0</mn></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"0 is less than p, which is less than 4\"><math alttext=\"0 is less than p, which is less than 4\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0</mn><mo>&lt;</mo><mi>p</mi><mo>&lt;</mo><mn>4</mn></mrow></mstyle></math></span></span> only</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"p is greater than 1\"><math alttext=\"p is greater than 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi><mo>&gt;</mo><mn>1</mn></mrow></mstyle></math></span></span> only</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">There are no positive values of <span class=\"math_expression\"><span aria-label=\"p\"><math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math></span></span> for which the series will converge.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.8",
+    "text": "10.8: (BC ONLY) Ratio Test for Convergence"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

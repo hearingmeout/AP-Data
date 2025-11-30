@@ -1,0 +1,39 @@
+{
+  "id": "VH961887",
+  "type": "mcq",
+  "title": "Effect on E field of distance change",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VH961883.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">How will the component of the electric field at point P due to <span class=\"math_expression\"><span aria-label=\"Q sub 1 \"><math alttext=\"Q sub 1 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>Q</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mstyle></math></span></span> change, if at all, if the distance between point P and <span class=\"math_expression\"><span aria-label=\"Q sub 1 \"><math alttext=\"Q sub 1 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>Q</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mstyle></math></span></span> is halved?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The electric field will not change because the magnitude of the charge does not change.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The electric field will decrease by half because electric field strength is directly proportional to the distance.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The electric field will double because the electric field strength is inversely proportional to the distance.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The electric field will quadruple because the electric field strength is inversely proportional to the square of the distance.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Electric Force, Field, and Potential"
+  },
+  "topic": {
+    "code": "10.1",
+    "text": "10.1: Electric Charge and Electric Force"
+  },
+  "skill": {
+    "code": "2.D",
+    "text": "2.D: Predict new values or factors of change of physical quantities using functional dependence between variables."
+  }
+}

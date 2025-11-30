@@ -1,0 +1,43 @@
+{
+  "id": "VH905562",
+  "type": "mcq",
+  "title": "Restaurants advertising expenses",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">A restaurant manager collected data to predict monthly sales for the restaurant from monthly advertising expenses. The model created from the data showed that 36 percent of the variation in monthly sales could be explained by monthly advertising expenses. What was the value of the correlation coefficient?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">0.64</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">0.60</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">0.40</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">0.36</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">0.13</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: Least Squares Regression"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}

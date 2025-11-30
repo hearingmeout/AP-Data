@@ -1,0 +1,39 @@
+{
+  "id": "FT2958",
+  "type": "mcq",
+  "title": "N2O5 decomposition - rate order from pressure data",
+  "content": {
+    "prompt": "<p class=\"text-center\">2N<sub>2</sub>O<sub>5</sub>(g) → 4NO<sub>2</sub>(g) + O<sub>2</sub>(g)</p>\n\n<p>A sample of N<sub>2</sub>O<sub>5</sub> was placed in an evacuated container, and the reaction represented above occurred. The value of <span aria-label=\"cap p sub cap n sub 2 cap o sub 5\"><math> <semantics> <mrow> <msub> <mi>P</mi> <mrow> <msub> <mi>N</mi> <mn>2</mn> </msub> <msub> <mi>O</mi> <mn>5</mn> </msub> </mrow> </msub> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaacaWGqbWaaSbaaSqaaiaad6eadaWgaaadbaGaaGOmaaqabaWccaWGpbWaaSbaaWqaaiaaiwdaaeqaaaWcbeaaaaa@3D8F@</annotation> </semantics> </math></span>, the partial pressure of N<sub>2</sub>O<sub>5</sub>(<em>g</em>), was measured during the reaction and recorded in the table below.</p>\n\n<p>&nbsp;</p>\n<img alt=\"The figure shows a table with 4 columns and 5 rows. The top row contains the column labels, from left to right: column 1, Time (minutes); column 2, P subscript (N 2 O 2); column 3, ln(P subscript (N 2 O 2)); column 4, 1∕(P subscript (N 2 O 2)) (standard atmosphere superscript negative 1). From top to bottom, the data is as follows: Row 2; Time, 0, P subscript (N 2 O 2), 150, ln(P subscript (N 2 O 2)), 5.0, 1∕(P subscript (N 2 O 2)), 0.0067. Row 3; Time, 100, P subscript (N 2 O 2), 75, ln(P subscript (N 2 O 2)), 4.3, 1∕(P subscript (N 2 O 2)), 0.013. Row 4; Time, 200, P subscript (N 2 O 2), 38, ln(P subscript (N 2 O 2)), 3.6, 1∕(P subscript (N 2 O 2)), 0.027. Row 5; Time, 300, P subscript (N 2 O 2), 19, ln(P subscript (N 2 O 2)), 2.9, 1∕(P subscript (N 2 O 2)), 0.053. \" height=\"138\" src=\"/images/733c8419fbebd43d2f69a58c81ccf150.png\" width=\"650\">\n<p>Which of the following correctly describes the reaction?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The decomposition of N<sub>2</sub>O<sub>5</sub> is a zero-order reaction.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The decomposition of N<sub>2</sub>O<sub>5</sub> is a first-order reaction.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The decomposition of N<sub>2</sub>O<sub>5</sub> is a second-order reaction.</p>"
+      },
+      {
+        "label": "The overall reaction order is 3.",
+        "value": "i3"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Kinetics"
+  },
+  "topic": {
+    "code": "5.3",
+    "text": "5.3: Concentration Changes Over Time"
+  },
+  "skill": {
+    "code": "5.F",
+    "text": "5.F: Calculate, estimate, or predict an unknown quantity from known quantities by selecting and following a logical computational pathway and attending to precision (e.g., performing dimensional analysis and attending to significant figures)."
+  }
+}

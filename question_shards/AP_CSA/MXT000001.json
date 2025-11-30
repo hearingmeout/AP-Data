@@ -1,0 +1,39 @@
+{
+  "id": "MXT000001",
+  "type": "mcq",
+  "title": "Contents of arr after traversal - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What are the contents of <span class=\"dap_inline\">arr</span> after executing this code segment?</p>",
+    "answer": "1719425399082.459",
+    "choices": [
+      {
+        "value": "1719425399081.7769",
+        "label": "<pre><code class=\"language-plaintext\">{10, 20, 31, 40, 51, 60}</code></pre>"
+      },
+      {
+        "value": "1719425399082.459",
+        "label": "<pre><code class=\"language-plaintext\">{10, 21, 30, 41, 50, 61}</code></pre>"
+      },
+      {
+        "value": "1719425399082.332",
+        "label": "<pre><code class=\"language-plaintext\">{11, 20, 31, 40, 51, 60}</code></pre>"
+      },
+      {
+        "value": "1719425399082.98",
+        "label": "<pre><code class=\"language-plaintext\">{11, 21, 31, 41, 51, 61}</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.4",
+    "text": "4.4: Array Traversals"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

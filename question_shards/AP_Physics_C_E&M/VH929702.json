@@ -1,0 +1,43 @@
+{
+  "id": "VH929702",
+  "type": "mcq",
+  "title": "Distribution R minus S",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">The distribution of random variable <span class=\"math_expression\"><span aria-label=\"R\"><math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mrow><mi>R</mi></mrow></math></span></span> has mean 10 and standard deviation 4. The distribution of random variable <span class=\"math_expression\"><span aria-label=\"S\"><math alttext=\"S\" display=\"inline\" overflow=\"scroll\"><mrow><mi>S</mi></mrow></math></span></span> has mean 7 and standard deviation 3. If <span class=\"math_expression\"><span aria-label=\"R\"><math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mrow><mi>R</mi></mrow></math></span></span> and <span class=\"math_expression\"><span aria-label=\"S\"><math alttext=\"S\" display=\"inline\" overflow=\"scroll\"><mrow><mi>S</mi></mrow></math></span></span> are independent, what are the mean and standard deviation of the distribution of <span class=\"math_expression\"><span aria-label=\"R minus S\"><math alttext=\"R minus S\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>R</mi><mo>−</mo><mi>S</mi></mrow></mstyle></math></span></span> ?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Mean 3 and standard deviation 1</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Mean 3 and standard deviation 5</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Mean 3 and standard deviation 7</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Mean 17 and standard deviation 1</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Mean 17 and standard deviation 5</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.9",
+    "text": "4.9: Combining Random Variables"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Determine parameters for probability distributions."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT577977",
+  "type": "mcq",
+  "title": "Time constant of LR circuit with 2 resistors",
+  "content": {
+    "prompt": "<p><img alt=\"The figure presents a circuit with a battery, an inductor, and two resistors. The left side of the circuit has a battery labeled 6.0 volts. Moving up the left side and across the top, an inductor is labeled 4.0 millihenries. To the right of the inductor, the circuit splits into two vertical branches. The first vertical branch has a resistor labeled 6.0 kiloohms. The second vertical branch has a resistor labeled 12.0 kiloohms.\" height=\"149\" src=\"/images/b5237c0247530f1f6e2f549d56b24aa1.png\" width=\"310\"></p>\n\n<p>An inductor and two resistors are connected to an ideal battery, as shown in the figure above. What is the time constant for the circuit?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>0.22 μs </p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>0.33 μs </p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>0.67 μs </p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>1.0 μs </p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>72 μs</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.5",
+    "text": "13.5: Circuits with Resistors and Inductors (LR Circuits)"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Calculate or estimate an unknown quantity with units from known quantities, by selecting and following a logical computational pathway."
+  }
+}

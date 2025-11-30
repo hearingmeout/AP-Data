@@ -1,0 +1,43 @@
+{
+  "id": "FT546208",
+  "type": "mcq",
+  "title": "Conditional probability of sum of number cubes",
+  "content": {
+    "prompt": "<p>Each of the faces of a fair six-sided number cube is numbered with one of the numbers 1 through 6, with a different number appearing on each face. Two such number cubes will be tossed, and the sum of the numbers appearing on the faces that land up will be recorded. What is the probability that the sum will be 4, given that the sum is less than or equal to 6 ?</p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>2/36</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>3/36</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>3/15</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>2/9</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>4/6</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Conditional Probability"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+  }
+}

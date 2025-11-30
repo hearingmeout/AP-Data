@@ -1,0 +1,39 @@
+{
+  "id": "VR684280",
+  "type": "mcq",
+  "title": "Angular impulse - impulse from torque-time graph",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"passage\"><div class=\"prose style:1\"><div class=\"standalone_image\"><img alt=\"The figure shows the graph of three line segments in a coordinate plane. The horizontal axis is labeled t, in seconds and the numbers 0 to 20, in increments of 5,&nbsp;are indicated.&nbsp;The vertical axis is labeled tau, in newton meters, and the numbers negative 3 to 3, in increments of 1,&nbsp;are indicated. The first line segment begins at the point with coordinates 0 comma 2 and moves to the right, ending at the point with coordinates 5 comma 2. The second line segment begins where the first one ends and then moves downward and to the right, crossing the t axis at the point with coordinates 10 comma 0, ending at the point with coordinates 15 comma negative 2. The third line segment begins where the second one ends and moves horizontally to the right, where it ends at the point with coordinates 20 comma negative 2.\" src=\"/images/dfb88c156bc0dff7ba06cf1db83ea7d0.svg\"></div></div></div></div></div><p class=\"stem_paragraph\">The graph shows the net torque exerted on a rigid object as a function of time. Which of the following claims about the angular impulse delivered to the object during the interval shown in the graph is true?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The angular impulse is zero.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The angular impulse is less than zero.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The angular impulse is greater than zero.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The angular impulse could be greater than or less than zero depending on the initial direction of rotation.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Energy and Momentum of Rotating Systems"
+  },
+  "topic": {
+    "code": "6.3",
+    "text": "6.3: Angular Momentum and Angular Impulse"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

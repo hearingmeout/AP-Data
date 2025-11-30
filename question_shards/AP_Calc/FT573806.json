@@ -1,0 +1,39 @@
+{
+  "id": "FT573806",
+  "type": "mcq",
+  "title": "Integration with particle motion",
+  "content": {
+    "prompt": "<p>An object moves along a straight line so that at any time <em>t </em>its acceleration is given by <em>a</em>(<em>t</em>) = 6<em>t</em>. At time <em>t </em>= 0, the object’s velocity is 10 and the object’s position is 7. What is the object’s position at time <em>t </em>= 2 ?</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>22</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>27</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>28</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>35</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Applications of Integration"
+  },
+  "topic": {
+    "code": "8.2",
+    "text": "8.2: Connecting Position, Velocity, and Acceleration Functions Using Integrals"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

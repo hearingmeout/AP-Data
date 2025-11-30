@@ -1,0 +1,35 @@
+{
+  "id": "VR021241",
+  "type": "mcq",
+  "title": "Data represented by bit sequences",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following can be represented by a sequence of bits?</p><ol class=\"ordered_list style:1\"><li class=\"list_paragraph\">An integer</li><li class=\"list_paragraph\">An alphanumeric character</li><li class=\"list_paragraph\">A machine language instruction</li></ol>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">I only</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">III only</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">I and II only</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">I, II, and III</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Binary Numbers"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Explain how abstraction manages complexity."
+  }
+}

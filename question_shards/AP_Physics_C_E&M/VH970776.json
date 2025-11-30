@@ -1,0 +1,43 @@
+{
+  "id": "VH970776",
+  "type": "mcq",
+  "title": "Alicias shoes",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"passage\"><div class=\"prose style:1\"><p class=\"passage_para\">Alicia would like to know if there is a difference in the average price between two brands of shoes. She selected and analyzed a random sample of 40 different types of Brand A shoes and 33 different types of Brand B shoes. Alicia observes that the boxplot of the sample of Brand A shoe prices shows two outliers. Alicia wants to construct a confidence interval to estimate the difference in population means.</p></div></div></div></div><p class=\"stem_paragraph\">Is the sampling distribution of the difference in sample means approximately normal?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Yes, because Alicia selected a random sample.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Yes, because for each brand it is reasonable to assume that the population size is greater than ten times its sample size.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Yes, because the size of each sample is at least 30.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No, because the distribution of Brand A shoes has outliers.</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No, because the shape of the population distribution is unknown.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.6",
+    "text": "7.6: Confidence Intervals for the Difference of Two Means"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Verify that inference procedures apply in a given situation."
+  }
+}

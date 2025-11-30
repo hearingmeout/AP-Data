@@ -1,0 +1,39 @@
+{
+  "id": "VH908876",
+  "type": "mcq",
+  "title": "Sequence of if statements",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Consider the following code segment.</p><div class=\"standalone_code style:1\"><p class=\"code_line indent:0\">int x = 7;</p><p class=\"code_line indent:0\">if (x &lt; 7)</p><p class=\"code_line indent:0\">{</p><p class=\"code_line indent:3\">x = 2 * x;</p><p class=\"code_line indent:0\">}</p><p class=\"code_line indent:0\">if (x % 3 == 1)</p><p class=\"code_line indent:0\">{</p><p class=\"code_line indent:3\">x = x + 2;</p><p class=\"code_line indent:0\">}</p><p class=\"code_line indent:0\">System.out.print(3 * x);</p></div><p class=\"stem_paragraph\">What is printed as a result of executing the code segment?</p>\n",
+    "answer": "i5",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">9</span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">14</span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">21</span></p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">27</span></p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: `if` Statements"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

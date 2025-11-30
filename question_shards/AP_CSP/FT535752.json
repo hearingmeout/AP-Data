@@ -1,0 +1,35 @@
+{
+  "id": "FT535752",
+  "type": "mcq",
+  "title": "Robot in maze series of ifs",
+  "content": {
+    "prompt": "<p>The program segment below is intended to move a robot in a grid to a gray square. The program segment uses the procedure<em> GoalReached</em>, which evaluates to <em>true</em> if the robot is in the gray square and evaluates to<em> false</em> otherwise. The robot in each grid is represented as a triangle and is initially facing left. The robot can move into a white or gray square but cannot move into a black region.</p>\n\n<p>&nbsp;</p>\n\n\n<img alt=\"A 15-line code segment reads as follows. Line 1: REPEAT UNTIL, open parenthesis, Goal Reached, open parenthesis close parenthesis, close parenthesis. Line 2: open brace. Line 3: IF, open parenthesis, CAN underscore MOVE, open parenthesis, forward, close parenthesis, close parenthesis. Line 4: open brace. Line 5: MOVE underscore FORWARD, open parenthesis close parenthesis. Line 6: close brace. Line 7: IF, open parenthesis, CAN underscore MOVE, open parenthesis, right, close parenthesis, close parenthesis. Line 8: open brace. Line 9: ROTATE underscore RIGHT, open parenthesis close parenthesis. Line 10: close brace. Line 11: IF, open parenthesis, CAN underscore MOVE, open parenthesis, left, close parenthesis, close parenthesis. Line 12: open brace. Line 13: ROTATE underscore RIGHT, open parenthesis close parenthesis. Line 14: close brace. Line 15: close brace.\" height=\"359\" src=\"/images/ec3e29dd4112e4cf87e98c3debe547b6.png\" width=\"333\">\n<p>For which of the following grids does the program NOT correctly move the robot to the gray square?</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<img alt=\"The figure shows a grid of squares with three columns and five rows. One square is gray and the others are either black or white. One of the squares contains a left-facing triangle, representing a robot. The white squares represent a path through the grid that staffs at the robot's square and ends at the gray square. Choice A: The squares of the grid are filled as follows, from left to right and top to bottom: Row one: white white, gray. Row two: white black, black. Row three: white black, black. Row four: white black, black. Row five: white white robot facing left. \" height=\"104\" src=\"/images/98981bc3a1555f11839491307614d549.png\" width=\"65\">",
+        "value": "i0"
+      },
+      {
+        "label": "<img alt=\"The figure shows a grid of squares with three columns and five rows. One square is gray and the others are either black or white. One of the squares contains a left-facing triangle, representing a robot. The white squares represent a path through the grid that staffs at the robot's square and ends at the gray square. Choice B: The squares of the grid are filled as follows from left to right and top to bottom: Row one: gray, white white. Row two: black, black, white. Row three: white white white. Row four: white black, black.  Row five: white white robot facing left. \" height=\"107\" src=\"/images/33d1b88226d1c315eaf43de00f3c80eb.png\" width=\"65\">",
+        "value": "i1"
+      },
+      {
+        "label": "<img alt=\"The figure shows a grid of squares with three columns and five rows. One square is gray and the others are either black or white. One of the squares contains a left-facing triangle, representing a robot. The white squares represent a path through the grid that staffs at the robot's square and ends at the gray square. Choice C: The squares of the grid are filled as follows from left to right and top to bottom: Row one: white white, gray. Row two: black, white black. Row three: white white black. Row four: white black, black. Row five: white white robot facing left.\" height=\"104\" src=\"/images/71908682c9a22a4d7f1fe3dbcab7a83a.png\" width=\"65\">",
+        "value": "i2"
+      },
+      {
+        "label": "<img alt=\"The figure shows a grid of squares with three columns and five rows. One square is gray and the others are either black or white. One of the squares contains a left-facing triangle, representing a robot. The white squares represent a path through the grid that staffs at the robot's square and ends at the gray square. Choice D: The squares of the grid are filled as follows, from left to right and top to bottom: Row one: gray, white white. Row two: black, white black. Row three: white white black. Row four: white black, black. Row five: white white robot facing left.\" height=\"104\" src=\"/images/b8e701a51c72d4539e605e4e43433981.png\" width=\"65\">",
+        "value": "i3"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.6",
+    "text": "3.6: Conditionals"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

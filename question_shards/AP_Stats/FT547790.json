@@ -1,0 +1,43 @@
+{
+  "id": "FT547790",
+  "type": "mcq",
+  "title": "Explain when paired t-test is not appropriate",
+  "content": {
+    "prompt": "<p>A matched-pairs <em>t</em>-test is NOT an appropriate way to analyze data consisting of which of the following?</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Measurements of annual income taken both before and after a two-year training course for a random sample of 100 people who took the course</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Measurements of annual income for each twin for 100 randomly selected pairs of twins</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Measurements of annual income for both individuals in pairs formed by matching 100 people from State A and 100 people from State B based on level of education</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Measurements of annual income for both individuals in pairs formed by assigning 100 people to pairs at random</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>Measurements of annual income recorded for both spouses of 100 randomly selected married couples</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Collecting Data"
+  },
+  "topic": {
+    "code": "3.5",
+    "text": "3.5: Introduction to Experimental Design"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Identify an appropriate inference method for significance tests."
+  }
+}

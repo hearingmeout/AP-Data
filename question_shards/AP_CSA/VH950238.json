@@ -1,0 +1,39 @@
+{
+  "id": "VH950238",
+  "type": "mcq",
+  "title": "ArrayList of numbers",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Consider the following code segment.</p><div class=\"standalone_code style:1\"><p class=\"code_line\">ArrayList&lt;String&gt; numbers = new ArrayList&lt;String&gt;();</p><p class=\"code_line\">numbers.add(\"one\");</p><p class=\"code_line\">numbers.add(\"two\");</p><p class=\"code_line\">numbers.add(0, \"three\");</p><p class=\"code_line\">numbers.set(2, \"four\");</p><p class=\"code_line\">numbers.add(\"five\");</p><p class=\"code_line\">numbers.remove(1);</p></div><p class=\"stem_paragraph\">Which of the following represents the contents of <span class=\"inline_code\">numbers</span> after the code segment has been executed?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">[\"one\", \"four\", \"five\"]</span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">[\"three\", \"two\", \"five\"]</span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">[\"three\", \"four\", \"two\"]</span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">[\"three\", \"four\", \"five\"]</span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

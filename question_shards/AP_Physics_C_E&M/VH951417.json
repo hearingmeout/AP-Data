@@ -1,0 +1,43 @@
+{
+  "id": "VH951417",
+  "type": "mcq",
+  "title": "Credit cards",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">A major credit card company is interested in the proportion of individuals who use a competitor’s credit card. Their null hypothesis is <span class=\"math_expression\"><span aria-label=\"H sub 0: p equals 0.65\"><math alttext=\"H sub 0: p equals 0.65\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>H</mtext></mrow><mrow><mn>0</mn></mrow></msub><mo>:</mo><mtext> </mtext><mi>p</mi><mo>=</mo><mn>0.65</mn></mrow></mstyle></math></span></span>, and based on a sample they find a sample proportion of 0.70 and a <span class=\"math_expression\"><span aria-label=\"p\"><math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math></span></span>-value of 0.053. Is there convincing statistical evidence at the 0.05 level of significance that the true proportion of individuals who use the competitor’s card is actually greater than 0.65 ?</p>\n",
+    "answer": "i5",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Yes, because the sample proportion 0.70 is greater than the hypothesized proportion 0.65.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Yes, because the <span class=\"math_expression\"><span aria-label=\"p\"><math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math></span></span>-value 0.053 is greater than the significance level 0.05.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No, because the sample proportion 0.70 is greater than the hypothesized proportion 0.65.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No, since the sample proportion 0.70 is exactly 0.05 away from the hypothesized proportion 0.65.</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No, because the <span class=\"math_expression\"><span aria-label=\"p\"><math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math></span></span>-value 0.053 is greater than the significance level 0.05.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.6",
+    "text": "6.6: Concluding a Test for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 4.E",
+    "text": "Skill 4.E: Justify a claim using a decision based on significance tests."
+  }
+}

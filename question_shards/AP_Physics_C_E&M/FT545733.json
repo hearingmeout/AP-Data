@@ -1,0 +1,43 @@
+{
+  "id": "FT545733",
+  "type": "mcq",
+  "title": "Conclusion about selling prices given skewed graph",
+  "content": {
+    "prompt": "<p>A graph (not shown) of the selling prices of homes in a certain city for the month of April reveals that the distribution is skewed to the left. Which of the following statements is the most reasonable conclusion about the selling prices based on the graph?</p>",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The mean is greater than the median.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The median is the average of the first quartile and the third quartile.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>There are fewer selling prices between the first quartile and the median than there are between the median and the third quartile.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>There are more selling prices that are less than the mean than selling prices that are greater than the mean.</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>The value of maximum minus third quartile is less than the value of first quartile minus minimum.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.6",
+    "text": "1.6: Describing the Distribution of a Quantitative Variable"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Describe data presented numerically or graphically."
+  }
+}

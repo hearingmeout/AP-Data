@@ -1,0 +1,39 @@
+{
+  "id": "YLH000002",
+  "type": "mcq",
+  "title": "While loop that prints nothing - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following replacements for&nbsp; <span class=\"dap_inline\">/* missing code */</span>&nbsp; will cause the code segment to print nothing?</p>",
+    "answer": "01JMDRE4G0736J654WVKVK496D",
+    "choices": [
+      {
+        "value": "01JMDRE4FZJY34F3Y876416XJ5",
+        "label": "<pre><code class=\"language-plaintext\">x++;</code></pre>"
+      },
+      {
+        "value": "01JMDRE4G0736J654WVKVK496D",
+        "label": "<pre><code class=\"language-plaintext\">x += 2;</code></pre>"
+      },
+      {
+        "value": "01JMDRE4G01N8AGF572SF3ZECH",
+        "label": "<pre><code class=\"language-plaintext\">x += 3;</code></pre>"
+      },
+      {
+        "value": "01JMDRE4G098VEGFXX3TCCAXBP",
+        "label": "<pre><code class=\"language-plaintext\">x *= 2;</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.9",
+    "text": "2.9: Implementing Selection and Iteration Algorithms"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "QTN000003",
+  "type": "mcq",
+  "title": "Relational operators - output of boolean segment",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What output is produced when this code segment is executed?</p>",
+    "answer": "1726078416228.0525",
+    "choices": [
+      {
+        "value": "1726078416216.6526",
+        "label": "<pre><code class=\"language-plaintext\">true true true </code></pre>"
+      },
+      {
+        "value": "1726078416228.78",
+        "label": "<pre><code class=\"language-plaintext\">true false true </code></pre>"
+      },
+      {
+        "value": "1726078416228.0525",
+        "label": "<pre><code class=\"language-plaintext\">true false false </code></pre>"
+      },
+      {
+        "value": "1726078416228.8035",
+        "label": "<pre><code class=\"language-plaintext\">false true false </code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.5",
+    "text": "2.5: Compound Boolean Expressions"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT3721",
+  "type": "mcq",
+  "title": "Graph of electric field of conducting shell",
+  "content": {
+    "prompt": "<p><img alt=\"A graph is shown with electric field strength on the y-axis and distance from the center of a spherical shell on the x-axis. Six evenly spaced tick marks are shown on the y- axis. The radius R of the spherical shell is marked on the x-axis. The graph plots a dashed horizontal line, at the third tick mark along the x-axis indicating zero electric field strength, from a distance of zero to a distance R. Beginning at the distance R, at the third tick mark and adjacent to the horizontal line above the x-axis, the graph changes. From this point, the curve is shown concave up decreasing with increasing distance. This part of thegraph is concave up decreasing, appearing to have a horizontal asymptote at the x-axis.\" height=\"148\" src=\"/images/2984a2a2fcd31363b9c192946c0a0a47.png\" width=\"165\"></p>\n\n<p>A conducting spherical shell of radius <em>R</em> has charge <em>q</em> uniformly distributed on its outer surface. The graph above represents electric field strength <em>E</em> versus distance <em>r</em> from the center of the spherical shell. Which of the following graphs best represents <em>E</em> versus <em>r</em> when the charge on the spherical shell is doubled to 2<em>q</em> ?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<img alt=\"Choice A starts at the origin and is horizontal along the x-axis until uppercase R. To the right of uppercase R, the curve is concave up and decreasing, starting at the height of third y-axis tick mark and having an asymptote at the x-axis. \" height=\"148\" src=\"/images/6876c925a71d6c9db9cc6b7fe62404b8.png\" width=\"165\">",
+        "value": "i0"
+      },
+      {
+        "label": "<img alt=\"Choice B starts at the third tick mark on the y-axis and is horizontal until uppercase R. To the right of uppercase R, the curve is concave up and decreasing, starting at the height of third y-axis tick mark and having an asymptote at the x-axis.\" height=\"147\" src=\"/images/ad130eb203fef40f7a4afb362c97acd0.png\" width=\"165\">",
+        "value": "i1"
+      },
+      {
+        "label": "<img alt=\"Choice C starts at the third tick mark on the y-axis and is horizontal until uppercase R. To the right of uppercase R, the curve is concave up and decreasing, starting at the height of sixth y-axis tick mark and having an asymptote at the x-axis.\" height=\"166\" src=\"/images/ff9229787919972b062eb91b2c838f63.png\" width=\"185\">",
+        "value": "i2"
+      },
+      {
+        "label": "<img alt=\"Choice D starts at the origin and is horizontal until uppercase R. To the right of uppercase R, the curve is concave up and decreasing, starting at the height of sixth y-axis tick mark and having an asymptote at the x-axis. \" height=\"165\" src=\"/images/7779a1d90f5adf6590ca4d0ebd158379.png\" width=\"185\">",
+        "value": "i3"
+      },
+      {
+        "label": "<img alt=\"Choice E starts at the sixth tick mark on the y-axis and is horizontal until uppercase R. To the right of uppercase R, the curve is concave up and decreasing, starting at the height of sixth y-axis tick mark and having an asymptote at the x-axis.\" height=\"166\" src=\"/images/666d46c0186baa15d1d334db9bbf4879.png\" width=\"185\">",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Electric Force, Field, and Potential"
+  },
+  "topic": {
+    "code": "10.1",
+    "text": "10.1: Electric Charge and Electric Force"
+  },
+  "skill": {
+    "code": "2.D",
+    "text": "2.D: Predict new values or factors of change of physical quantities using functional dependence between variables."
+  }
+}

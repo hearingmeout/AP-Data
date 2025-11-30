@@ -1,0 +1,35 @@
+{
+  "id": "VR094492",
+  "type": "mcq",
+  "title": "Error in remove duplicates code segment",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">For which of the following contents of <span class=\"inline_code\">myList</span> will the procedure NOT produce the intended results?</p>\n<p class=\"stem_paragraph\">Select <span class=\"formatted_text text_decoration:underline\">two</span> answers.</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">[10, 10, 20, 20, 10, 10]</span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">[30, 30, 30, 10, 20, 20]</span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">[30, 50, 40, 10, 20, 40]</span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">[50, 50, 50, 50, 50, 50]</span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Identifying and Correcting Errors"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Determine and design an appropriate method or approach to achieve the purpose."
+  }
+}

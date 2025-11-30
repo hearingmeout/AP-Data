@@ -1,0 +1,43 @@
+{
+  "id": "FT545986",
+  "type": "mcq",
+  "title": "Correct application of Gauss's law inside spheres",
+  "content": {
+    "prompt": "<p>Which of the following represents a correct application of Gauss’s law for <em>r</em> &lt; <em>R</em> ?</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<span aria-label=\"0 is equal to cap e 4 pi r squared\"><math> <semantics> <mrow> <mn>0</mn><mo>=</mo><mi>E</mi><mrow><mo>(</mo> <mrow> <mn>4</mn><mi>π</mi></mrow> <mo>)</mo></mrow><msup> <mi>r</mi> <mn>2</mn> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaaIWaGaeyypa0Jaamyramaabmaapaqaa8qacaaI0aGaeqiWdaha caGLOaGaayzkaaGaamOCa8aadaahaaWcbeqaa8qacaaIYaaaaaaa@3EC2@ </annotation> </semantics> </math></span>",
+        "value": "i0"
+      },
+      {
+        "label": "<span aria-label=\"the fraction with numerator cap q and denominator epsilon sub 0 is equal to cap e 4 pi r squared\"><math> <semantics> <mrow> <mfrac> <mi>Q</mi> <mrow> <msub> <mi>ϵ</mi> <mn>0</mn> </msub> </mrow> </mfrac> <mo>=</mo><mi>E</mi><mrow><mo>(</mo> <mrow> <mn>4</mn><mi>π</mi></mrow> <mo>)</mo></mrow><msup> <mi>r</mi> <mn>2</mn> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaamyuaaWdaeaatuuDJXwAK1uy0HwmaeHbfv3y SLgzG0uy0Hgip5wzaGqba8qacqWF1pG8paWaaSbaaSqaa8qacaaIWa aapaqabaaaaOWdbiabg2da9iaadweadaqadaWdaeaapeGaaGinaiab ec8aWbGaayjkaiaawMcaaiaadkhapaWaaWbaaSqabeaapeGaaGOmaa aaaaa@4C53@ </annotation> </semantics> </math></span>",
+        "value": "i1"
+      },
+      {
+        "label": "<span aria-label=\"the fraction with numerator cap q and denominator epsilon sub 0 is equal to cap e 4 pi cap r squared\"><math> <semantics> <mrow> <mfrac> <mi>Q</mi> <mrow> <msub> <mi>ϵ</mi> <mn>0</mn> </msub> </mrow> </mfrac> <mo>=</mo><mi>E</mi><mrow><mo>(</mo> <mrow> <mn>4</mn><mi>π</mi></mrow> <mo>)</mo></mrow><msup> <mi>R</mi> <mn>2</mn> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaamyuaaWdaeaatuuDJXwAK1uy0HwmaeHbfv3y SLgzG0uy0Hgip5wzaGqba8qacqWF1pG8paWaaSbaaSqaa8qacaaIWa aapaqabaaaaOWdbiabg2da9iaadweadaqadaWdaeaapeGaaGinaiab ec8aWbGaayjkaiaawMcaaiaadkfapaWaaWbaaSqabeaapeGaaGOmaa aaaaa@4C33@ </annotation> </semantics> </math></span>",
+        "value": "i2"
+      },
+      {
+        "label": "<span aria-label=\"the fraction with numerator cap q r cubed and denominator epsilon sub 0 cap r cubed is equal to cap e 4 pi r squared\"><math> <semantics> <mrow> <mfrac> <mrow> <mi>Q</mi><msup> <mi>r</mi> <mn>3</mn> </msup> </mrow> <mrow> <msub> <mi>ϵ</mi> <mn>0</mn> </msub> <msup> <mi>R</mi> <mn>3</mn> </msup> </mrow> </mfrac> <mo>=</mo><mi>E</mi><mrow><mo>(</mo> <mrow> <mn>4</mn><mi>π</mi></mrow> <mo>)</mo></mrow><msup> <mi>r</mi> <mn>2</mn> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaamyuaiaadkhapaWaaWbaaSqabeaapeGaaG4m aaaaaOWdaeaatuuDJXwAK1uy0HwmaeHbfv3ySLgzG0uy0Hgip5wzaG qba8qacqWF1pG8paWaaSbaaSqaa8qacaaIWaaapaqabaGcpeGaamOu a8aadaahaaWcbeqaa8qacaaIZaaaaaaakiabg2da9iaadweadaqada WdaeaapeGaaGinaiabec8aWbGaayjkaiaawMcaaiaadkhapaWaaWba aSqabeaapeGaaGOmaaaaaaa@5047@ </annotation> </semantics> </math></span>",
+        "value": "i3"
+      },
+      {
+        "label": "<span aria-label=\"the fraction with numerator cap q A cubed and denominator epsilon sub 0 cap r cubed is equal to cap e 4 pi r squared\"><math> <semantics> <mrow> <mfrac> <mrow> <mi>Q</mi><msup> <mi>a</mi> <mn>3</mn> </msup> </mrow> <mrow> <msub> <mi>ϵ</mi> <mn>0</mn> </msub> <msup> <mi>R</mi> <mn>3</mn> </msup> </mrow> </mfrac> <mo>=</mo><mi>E</mi><mrow><mo>(</mo> <mrow> <mn>4</mn><mi>π</mi></mrow> <mo>)</mo></mrow><msup> <mi>r</mi> <mn>2</mn> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaamyuaiaadggapaWaaWbaaSqabeaapeGaaG4m aaaaaOWdaeaatuuDJXwAK1uy0HwmaeHbfv3ySLgzG0uy0Hgip5wzaG qba8qacqWF1pG8paWaaSbaaSqaa8qacaaIWaaapaqabaGcpeGaamOu a8aadaahaaWcbeqaa8qacaaIZaaaaaaakiabg2da9iaadweadaqada WdaeaapeGaaGinaiabec8aWbGaayjkaiaawMcaaiaadkhapaWaaWba aSqabeaapeGaaGOmaaaaaaa@5036@ </annotation> </semantics> </math></span>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Electric Charges, Fields, and Gauss's Law"
+  },
+  "topic": {
+    "code": "8.6",
+    "text": "8.6: Gauss's Law"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

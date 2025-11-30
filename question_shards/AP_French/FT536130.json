@@ -1,0 +1,35 @@
+{
+  "id": "FT536130",
+  "type": "mcq",
+  "title": "Hockey and climate - goal of this ad",
+  "content": {
+    "prompt": "<p>Quel est le but de l’annonce?</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>De recruter de nouveaux membres de l’équipe du <em>Jour de la Terre Québec</em></p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>De donner des précisions sur les effets du changement climatique</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>D’expliquer les règles concernant l’événement «Sauvons le hockey»</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>D’informer le public d’un effort dans la lutte contre le changement climatique</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Factors That Affect the Quality of Life"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

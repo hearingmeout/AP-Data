@@ -1,0 +1,43 @@
+{
+  "id": "VH970351",
+  "type": "mcq",
+  "title": "Gaussian cube",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"standalone_image\"><img alt=\"The figure presents a diagram of a Gaussian cube with the sides of length s, that encloses a single point charge positive Q.&nbsp; &nbsp;&nbsp;\" height=\"131\" src=\"/images/f306f457245df5282e42b78e5ab6be6a.png\" width=\"140\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">A Gaussian cube with sides of length <span class=\"math_expression\"><span aria-label=\"s \"><math alttext=\"s \" overflow=\"scroll\"><mstyle><mrow><mi>s</mi></mrow></mstyle></math></span></span> encloses a single point charge <span class=\"math_expression\"><span aria-label=\"positive Q \"><math alttext=\"positive Q \" overflow=\"scroll\"><mstyle><mrow><mo>+</mo><mi>Q</mi></mrow></mstyle></math></span></span>. The electric flux through one face of the cube is</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">0</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction Q over epsilon sub 0 \"><math alttext=\"the fraction Q over epsilon sub 0 \" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>Q</mi></mrow><mrow><msub><mrow><mi>ε</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction Q over 6 epsilon sub 0\"><math alttext=\"the fraction Q over 6 epsilon sub 0\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>Q</mi></mrow><mrow><msub><mrow><mn>6</mn><mi>ε</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction Q over s squared epsilon sub 0 \"><math alttext=\"the fraction Q over s squared epsilon sub 0 \" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>Q</mi></mrow><mrow><msub><mrow><msup><mrow><mi>s</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>ε</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction Q over 6 s squared epsilon sub 0 \"><math alttext=\"the fraction Q over 6 s squared epsilon sub 0 \" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>Q</mi></mrow><mrow><msub><mrow><msup><mrow><mn>6</mn><mi>s</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>ε</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Electric Charges, Fields, and Gauss's Law"
+  },
+  "topic": {
+    "code": "8.6",
+    "text": "8.6: Gauss's Law"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

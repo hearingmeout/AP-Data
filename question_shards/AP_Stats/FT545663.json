@@ -1,0 +1,43 @@
+{
+  "id": "FT545663",
+  "type": "mcq",
+  "title": "Choose games to maximize probability of winning",
+  "content": {
+    "prompt": "<p>The probability of winning a certain game is 0.5. If at least 70 percent of the games in a series of <em>n </em>games are won, the player wins a prize. If the possible choices for<em> n</em> are</p>\n\n<p class=\"text-center\"><em>n</em>=10, <em>n</em>=20, and <em>n</em>=100,</p>\n\n<p>which value of <em>n</em> should the player choose in order to maximize the probability of winning a prize?</p>\n",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p><em>n</em>=10 only</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><em>n</em>=20 only</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p><em>n</em>= 100 only</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p><em>n</em>=10 or <em>n</em>=20 only; the probabilities are the same.</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p><em>n</em>=10 or <em>n</em>=20 or <em>n</em>=100 ; the probabilities are the same.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.10",
+    "text": "4.10: Introduction to the Binomial Distribution"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+  }
+}

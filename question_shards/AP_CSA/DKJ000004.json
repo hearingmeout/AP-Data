@@ -1,0 +1,39 @@
+{
+  "id": "DKJ000004",
+  "type": "mcq",
+  "title": "Book class - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Assume that &nbsp;<code class=\"dap_inline\">Book</code> &nbsp;object &nbsp;<code class=\"dap_inline\">book1</code> &nbsp;and &nbsp;<code class=\"dap_inline\">int</code> &nbsp;variable &nbsp;<code class=\"dap_inline\">c</code> &nbsp;have been properly declared and initialized in a class other than &nbsp;<code class=\"dap_inline\">Book</code>. &nbsp;Which of the following statements will compile without error?</p>",
+    "answer": "01JVACNCAEKKKK857QSFQAZ8RB",
+    "choices": [
+      {
+        "value": "01JVACNCADNNV6Y95QPGZ64THD",
+        "label": "<pre><code class=\"language-plaintext\">int pages = getNumPages(Book book1, int c);</code></pre>"
+      },
+      {
+        "value": "01JVACNCAE43TGYGA4BXS3BKD4",
+        "label": "<pre><code class=\"language-plaintext\">int pages = getNumPages(book1, c);</code></pre>"
+      },
+      {
+        "value": "01JVACNCAET73GW2VEKM7865CB",
+        "label": "<pre><code class=\"language-plaintext\">int pages = book1.getNumPages(int c);</code></pre>"
+      },
+      {
+        "value": "01JVACNCAEKKKK857QSFQAZ8RB",
+        "label": "<pre><code class=\"language-plaintext\">int pages = book1.getNumPages(c);</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.14",
+    "text": "1.14: Calling Instance Methods"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

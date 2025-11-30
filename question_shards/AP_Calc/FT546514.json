@@ -1,0 +1,43 @@
+{
+  "id": "FT546514",
+  "type": "mcq",
+  "title": "Chain rule with exponential function",
+  "content": {
+    "prompt": "<p>If <math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"f of x equals e to the power of open parentheses 1 divided by x close parentheses \">\n <semantics>\n  <mrow>\n   <mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><msup>\n    <mi>e</mi>\n    <mrow>\n     <mn>1</mn><mo>/</mo><mi>x</mi></mrow>\n   </msup>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qacaWGMbGaaiikaiaadIhacaGGPaGaeyypa0Jaamyza8aadaahaaWc\n  beqaa8qacaaIXaGaai4laiaadIhaaaaaaa@3DFE@\n  </annotation>\n </semantics>\n</math>\n, then <em>f'(x)=</em></p><p></p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"negative e to the power of open parentheses 1 divided by x close parentheses divided by x squared\">\n <semantics>\n  <mrow>\n   <mo>−</mo><mfrac>\n    <mrow>\n     <msup>\n      <mi>e</mi>\n      <mrow>\n       <mn>1</mn><mo>/</mo><mi>x</mi></mrow>\n     </msup>\n     </mrow>\n    <mrow>\n     <msup>\n      <mi>x</mi>\n      <mn>2</mn>\n     </msup>\n     </mrow>\n   </mfrac>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qacqGHsisldaWcaaWdaeaapeGaamyza8aadaahaaWcbeqaa8qacaaI\n  XaGaai4laiaadIhaaaaak8aabaWdbiaadIhapaWaaWbaaSqabeaape\n  GaaGOmaaaaaaaaaa@3D01@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"negative e to the power of open parentheses 1 divided by x close parentheses\">\n <semantics>\n  <mrow>\n   <mo>−</mo><msup>\n    <mi>e</mi>\n    <mrow>\n     <mn>1</mn><mo>/</mo><mi>x</mi></mrow>\n   </msup>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qacqGHsislcaWGLbWdamaaCaaaleqabaWdbiaaigdacaGGVaGaamiE\n  aaaaaaa@3AA4@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"e to the power of open parentheses 1 divided by x close parentheses divided by x\">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mrow>\n     <msup>\n      <mi>e</mi>\n      <mrow>\n       <mn>1</mn><mo>/</mo><mi>x</mi></mrow>\n     </msup>\n     </mrow>\n    <mi>x</mi>\n   </mfrac>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWcaaWdaeaapeGaamyza8aadaahaaWcbeqaa8qacaaIXaGaai4l\n  aiaadIhaaaaak8aabaWdbiaadIhaaaaaaa@3B0C@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"e to the power of open parentheses 1 divided by x close parentheses divided by x squared\">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mrow>\n     <msup>\n      <mi>e</mi>\n      <mrow>\n       <mn>1</mn><mo>/</mo><mi>x</mi></mrow>\n     </msup>\n     </mrow>\n    <mrow>\n     <msup>\n      <mi>x</mi>\n      <mn>2</mn>\n     </msup>\n     </mrow>\n   </mfrac>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWcaaWdaeaapeGaamyza8aadaahaaWcbeqaa8qacaaIXaGaai4l\n  aiaadIhaaaaak8aabaWdbiaadIhapaWaaWbaaSqabeaapeGaaGOmaa\n  aaaaaaaa@3C14@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"1 divided by x times e to the power of open parentheses 1 divided by x minus 1 close parentheses\">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mn>1</mn>\n    <mrow>\n     <msup>\n      <mi>x</mi>\n      <mrow></mrow>\n     </msup>\n     </mrow>\n   </mfrac>\n   <msup>\n    <mi>e</mi>\n    <mrow>\n     <mo stretchy=\"false\">(</mo><mn>1</mn><mo>/</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>−</mo><mn>1</mn></mrow>\n   </msup>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWcaaWdaeaacaaIXaaabaWdbiaadIhapaWaaWbaaSqabeaaaaaa\n  aOWdbiaadwgapaWaaWbaaSqabeaapeGaaiikaiaaigdacaGGVaGaam\n  iEaiaacMcacqGHsislcaaIXaaaaaaa@3EF5@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: The Chain Rule"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Identify an appropriate mathematical rule or procedure based on the classification of a given expression (e.g., Use the chain rule to find the derivative of a composite function)."
+  }
+}

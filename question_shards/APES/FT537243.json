@@ -1,0 +1,43 @@
+{
+  "id": "FT537243",
+  "type": "mcq",
+  "title": "Making predictions from graph of human population",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows a graph titled GLOBAL HUMAN POPULATION. The horizontal axis is labeled Year, and the vertical axis is labeled Population, in billions. Eight years appear on the horizontal axis and are, from left to right, 1800, 1850, 1900, 1950, 2000, 2050, 2100, and 2150. Seven numbers appear on the vertical axis and are, from bottom to top, zero, 2, 4, 6, 8, 10, and 12. A curve begins on the vertical axis, between zero and 2 billion, and moves steadily up and to the right. In 2050 the curve begins to level off between 8 and 10 billion, and in 2150 the curve ends at 10 billion.\" height=\"191\" src=\"/images/b76cc0e5622561c989c5d98dbe567d79.png\" width=\"355\"></p>\n\n<p>According to the graph above, the global human population will most likely</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>reach a maximum value that is less than 8 billion</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>reach a maximum rate of growth in 2150</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>have doubled between 1950 and 2150</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>be growing exponentially in 2100</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>be declining after 2150</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Population"
+  },
+  "topic": {
+    "code": "3.8",
+    "text": "3.8: Human Population Dynamics"
+  },
+  "skill": {
+    "code": "Skill 5.C",
+    "text": "Skill 5.C: Explain patterns and trends in data to draw conclusions."
+  }
+}

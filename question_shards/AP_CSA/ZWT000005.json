@@ -1,0 +1,39 @@
+{
+  "id": "ZWT000005",
+  "type": "mcq",
+  "title": "For and while loop comparison - correct error",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following changes can be made to Code Segment 2 so that the outputs of the two code segments are identical as intended?</p>",
+    "answer": "01JEQDPSH572NKGEJ58KXS9BA2",
+    "choices": [
+      {
+        "value": "01JEQDPSH572NKGEJ58KXS9BA2",
+        "label": "<p class=\"dap_body\">Move the statement&nbsp; <span class=\"dap_inline\">x = x + 1;</span> &nbsp;so that it follows the print statement inside the loop body.</p>"
+      },
+      {
+        "value": "01JEQDPSH5QRJ81AJCMP01MPZT",
+        "label": "<p class=\"dap_body\">Rename the variable&nbsp; <span class=\"dap_inline\">x</span> &nbsp;to be&nbsp; <span class=\"dap_inline\">i</span> &nbsp;so that it is the same variable name as in Code Segment 1.</p>"
+      },
+      {
+        "value": "01JEQDPSH6WQQYDKZ5BHHH3S52",
+        "label": "<p class=\"dap_body\">Remove the statement&nbsp; <span class=\"dap_inline\">x = x + 1;</span> &nbsp;because this statement is not in the loop body in Code Segment 1.</p>"
+      },
+      {
+        "value": "01JEQDPSH6SKTKRN54VWXXZ71G",
+        "label": "<p class=\"dap_body\">Change the statement&nbsp; <span class=\"dap_inline\">x = x + 1;</span>&nbsp; to be&nbsp; <span class=\"dap_inline\">x++;</span> &nbsp;so that the increment of the loop control variable is the same in both code segments.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: `for` Loops"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

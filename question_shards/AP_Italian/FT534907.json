@@ -1,0 +1,35 @@
+{
+  "id": "FT534907",
+  "type": "mcq",
+  "title": "Le Biblioteche di Roma - interpret audience",
+  "content": {
+    "prompt": "<p>Secondo l’annuncio, chi potrebbe rimanere deluso dall’esperienza in biblioteca?</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Chi vuole consultare l’Internet senza pagare</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Chi vuole sfogliare manuali, fumetti e giornali</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Chi non è cittadino né italiano né europeo</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Chi non riserva speciali postazioni</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Families in Different Societies"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

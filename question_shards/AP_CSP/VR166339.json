@@ -1,0 +1,35 @@
+{
+  "id": "VR166339",
+  "type": "mcq",
+  "title": "Use of databases to display animal information",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">A wildlife preserve is developing an interactive exhibit for its guests. The exhibit is intended to allow guests to select the name of an animal on a touch screen and display various facts about the selected animal.</p>\n\n<p class=\"stem_paragraph\">For example, if a guest selects the animal name “wolf,” the exhibit is intended to display the following information.</p>\n\n<ul>\n\t<li class=\"list_paragraph\">Classification: mammal</li>\n\t<li class=\"list_paragraph\">Skin type: fur</li>\n\t<li class=\"list_paragraph\">Thermoregulation: warm-blooded</li>\n\t<li class=\"list_paragraph\">Lifestyle: pack</li>\n\t<li class=\"list_paragraph\">Average life span: 10–12 years</li>\n\t<li class=\"list_paragraph\">Top speed: 75 kilometers/hour</li>\n</ul>\n\n<p class=\"stem_paragraph\">The preserve has two databases of information available to use for the exhibit. The first database contains information for each animal’s name, classification, skin type, and thermoregulation. The second database contains information for each animal’s name, lifestyle, average life span, and top speed.</p>\n\n<p class=\"stem_paragraph\">Which of the following explains how the two databases can be used to develop the interactive exhibit?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Only the first database is needed. It can be searched by animal name to find all the information to be displayed.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Only the second database is needed. It can be searched by animal name to find all the information to be displayed.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Both databases are needed. Each database can be searched by animal name to find all information to be displayed.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The two databases are not sufficient to display all the necessary information because the intended display information does not include the animal name.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Using Programs with Data"
+  },
+  "skill": {
+    "code": "Skill 5.B",
+    "text": "Skill 5.B: Explain how knowledge can be generated from data."
+  }
+}

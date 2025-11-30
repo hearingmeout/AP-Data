@@ -1,0 +1,39 @@
+{
+  "id": "VH904462",
+  "type": "mcq",
+  "title": "doSomething method",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Consider the following method.</p><div class=\"standalone_code style:1\"><p class=\"code_line\">public void doSomething()</p><p class=\"code_line\">{</p><p class=\"code_line indent:3\">System.out.println(\"Something has been done\");</p><p class=\"code_line\">}</p></div><p class=\"stem_paragraph\">Each of the following statements appears in a method in the same class as <span class=\"inline_code\">doSomething</span>.<span> </span>Which of the following statements are valid uses of the method <span class=\"inline_code\">doSomething</span> ?</p><ol class=\"hb_codeblock ordered_list style:1\"><li class=\"list_paragraph\"><span class=\"inline_code\">doSomething();</span></li><li class=\"list_paragraph\"><span class=\"inline_code\">String output = doSomething();</span></li><li class=\"list_paragraph\"><span class=\"inline_code\">System.out.println(doSomething());</span></li></ol>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">I only</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">I and II only</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">I and III only</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">I, II, and III</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Method Signatures"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

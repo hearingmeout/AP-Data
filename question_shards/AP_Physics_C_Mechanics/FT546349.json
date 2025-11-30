@@ -1,0 +1,43 @@
+{
+  "id": "FT546349",
+  "type": "mcq",
+  "title": "Spring constant of half a spring",
+  "content": {
+    "prompt": "<p>An ideal spring with spring constant <em>k</em> is cut in half. What is the spring constant of either one of the two half springs?</p>",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<span aria-label=\"k over 2\"><math> <semantics> <mrow> <mfrac> <mi>k</mi> <mn>2</mn> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaam4AaaWdaeaapeGaaGOmaaaaaaa@3810@ </annotation> </semantics> </math></span>",
+        "value": "i0"
+      },
+      {
+        "label": "<span aria-label=\"square root of k\"><math> <semantics> <mrow> <msqrt> <mi>k</mi> </msqrt> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaGcaaWdaeaapeGaam4AaaWcbeaaaaa@3740@ </annotation> </semantics> </math></span>",
+        "value": "i1"
+      },
+      {
+        "label": "<em>&nbsp;k</em>",
+        "value": "i2"
+      },
+      {
+        "label": "<em>&nbsp;k<sup>2</sup></em>",
+        "value": "i3"
+      },
+      {
+        "label": "<em>&nbsp;2k</em>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Force and Translational Dynamics"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: Spring Forces"
+  },
+  "skill": {
+    "code": "2.D",
+    "text": "2.D: Predict new values or factors of change of physical quantities using functional dependence between variables."
+  }
+}

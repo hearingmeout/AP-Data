@@ -1,0 +1,39 @@
+{
+  "id": "VR703817",
+  "type": "mcq",
+  "title": "SHM - claim about maximum kinetic energy",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">A student observes a block attached to a spring undergo simple harmonic motion. The student claims that a block with a smaller mass attached to the same spring and oscillating with a smaller amplitude could have the same maximum kinetic energy as the original block. Is the student’s claim correct? Why or why not?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Yes, because the less massive block will have a greater average speed.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Yes, because even though the magnitude of the average force exerted on the block decreases, the less massive block requires less force to achieve the same acceleration.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No, because the less massive block will have less kinetic energy as the original block no matter what the amplitude is.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No, because changing the amplitude of the oscillation changes the initial potential energy, which is equal to the maximum kinetic energy of the block.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Oscillations"
+  },
+  "topic": {
+    "code": "7.4",
+    "text": "7.4: Energy of Simple Harmonic Oscillators"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

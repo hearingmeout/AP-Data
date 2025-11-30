@@ -1,0 +1,35 @@
+{
+  "id": "VR171371",
+  "type": "mcq",
+  "title": "How fault tolerance is achieved",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following best explains how fault tolerance in a network is achieved?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">By providing high-bandwidth connections between devices, enabling data packets to be transmitted as quickly as possible</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">By providing multiple paths between devices, enabling routing to occur even in the presence of a failed component</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">By providing open network protocols, ensuring that all devices on the network are interacting in a standard way</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">By providing software to monitor all network traffic, ensuring that data packets are sent and received in the proper order</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "4.2",
+    "text": "4.2: Fault Tolerance"
+  },
+  "skill": {
+    "code": "Skill 5.A",
+    "text": "Skill 5.A: Explain how computing systems work."
+  }
+}

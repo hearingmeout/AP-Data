@@ -1,0 +1,35 @@
+{
+  "id": "FT540917",
+  "type": "mcq",
+  "title": "Flight departure time",
+  "content": {
+    "prompt": "<p>What does the announcement say about the flight?</p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Boarding will begin soon.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The departure gate has changed.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>It is delayed.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>It is cancelled.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Factors That Impact the Quality of Life"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

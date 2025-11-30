@@ -1,0 +1,39 @@
+{
+  "id": "VR005287",
+  "type": "mcq",
+  "title": "How energy levels indicate absorption",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"standalone_image\"><img alt=\"The figure presents a diagram of 6 energy levels. The lines are labeled as followed, starting at the bottom and moving upward. Line 1: Energy, negative 6.22 electron-volts, n equals 1. Line 2: Energy, negative 2.55 electron-volts, n equals 2. Energy, negative 1.51 electron-volts, n equals 3. Line 4: Energy, negative 0.85 electron-volts, n equals 4. Line 5: Energy, 0.54 electron-volts, n equals 5. Line 6: Energy, 0, n equals infinity.\" height=\"230\" src=\"/images/99549a83ef854628b553416788dd981b.png\" width=\"244\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">The figure shows some of the energy levels for a hypothetical atom. A photon of wavelength <span class=\"math_expression\"><span aria-label=\"487 nanometers\"><math alttext=\"487 nanometers\" overflow=\"scroll\"><mstyle><mrow><mn>487</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mtext>nm</mtext></mrow></mstyle></math></span></span> has an energy of <span class=\"math_expression\"><span aria-label=\"2.55 electron-volts\"><math alttext=\"2.55 electron-volts\" overflow=\"scroll\"><mstyle><mrow><mn>2.55</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mtext>eV</mtext></mrow></mstyle></math></span></span>. Which of the following correctly indicates whether the absorption spectrum of a collection of these atoms will have a dark line at <span class=\"math_expression\"><span aria-label=\"487 nanometers\"><math alttext=\"487 nanometers\" overflow=\"scroll\"><mstyle><mrow><mn>487</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mtext>nm</mtext></mrow></mstyle></math></span></span> and describes a feature of the model that indicates this? (The absorption spectrum does not include any process that ionizes the atom.)</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Yes. The atom has energy levels that have magnitudes less than <span class=\"math_expression\"><span aria-label=\"2.55 electron-volts\"><math alttext=\"2.55 electron-volts\" overflow=\"scroll\"><mstyle><mrow><mn>2.55</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mtext>eV</mtext></mrow></mstyle></math></span></span>.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Yes. The atom has an energy level that is exactly the same energy as a <span class=\"math_expression\"><span aria-label=\"487 nanometers\"><math alttext=\"487 nanometers\" overflow=\"scroll\"><mstyle><mrow><mn>487</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mtext>nm</mtext></mrow></mstyle></math></span></span> photon.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No. The atom does not have a transition between levels with an energy difference equal to the energy of a <span class=\"math_expression\"><span aria-label=\"487 nanometers\"><math alttext=\"487 nanometers\" overflow=\"scroll\"><mstyle><mrow><mn>487</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mtext>nm</mtext></mrow></mstyle></math></span></span> photon.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No. The atom has only one level that is an integer multiple of <span class=\"math_expression\"><span aria-label=\"2.55 electron-volts\"><math alttext=\"2.55 electron-volts\" overflow=\"scroll\"><mstyle><mrow><mn>2.55</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mtext>eV</mtext></mrow></mstyle></math></span></span>.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "15",
+    "text": "15: Modern Physics"
+  },
+  "topic": {
+    "code": "15.3",
+    "text": "15.3: Emission and Absorption Spectra"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

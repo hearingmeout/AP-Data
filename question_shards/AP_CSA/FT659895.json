@@ -1,0 +1,39 @@
+{
+  "id": "FT659895",
+  "type": "mcq",
+  "title": "Printing with nested loops",
+  "content": {
+    "prompt": "<p>Consider the following code segment.</p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">for (int outer = 0; outer &lt; n; outer++)</span></span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">{</span></span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">&nbsp; for (int inner = 0; inner &lt;= outer; inner++)</span></span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">&nbsp; {</span></span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">&nbsp; &nbsp; System.out.print(outer + \" \");</span></span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">&nbsp; }</span></span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">}</span></span></span></span></span></p>\n<p style=\"margin-bottom:0px\">&nbsp;</p>\n<p style=\"margin-bottom:0px\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Times-Roman\"></span></span></span></span></span>If<span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Times-Roman\"> </span><span style=\"font-family:Courier\">n </span></span></span></span></span>has been declared as an integer with the value 4, what is printed as a result of executing the code segment?<span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"></span></span></span></span></p>\n",
+    "answer": "3",
+    "choices": [
+      {
+        "label": "<span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">0 1 2 3</span></span></span></span></span>",
+        "value": "0"
+      },
+      {
+        "label": "<span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">0 1 2 2 3 3 3</span></span></span></span></span>",
+        "value": "2"
+      },
+      {
+        "label": "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:Courier\">0 1 1 2 2 2 3 3 3 3</span></span></span>",
+        "value": "3"
+      },
+      {
+        "label": "<p style=\"margin-bottom:11px\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">0 0 1 0 1 2 0 1 2 3</span></span></span></span></p>\n",
+        "value": "4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.11",
+    "text": "2.11: Nested Iteration"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

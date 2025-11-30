@@ -1,0 +1,39 @@
+{
+  "id": "HIG000006",
+  "type": "mcq",
+  "title": "Student Class - describe behavior",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following best describes the state of the object <span class=\"dap_inline\">myStudent</span> as a result of executing this code segment?</p>",
+    "answer": "01JERTBGK2XSDBQ0P9X65S5XS7",
+    "choices": [
+      {
+        "value": "01JERTBGK2XSDBQ0P9X65S5XS7",
+        "label": "<p class=\"dap_body\"><span class=\"dap_inline\">myStudent</span> has been initialized such that <span class=\"dap_inline\">name</span> contains the string <span class=\"dap_inline\">\"Bobby\"</span> and&nbsp; <span class=\"dap_inline\">age</span> is <span class=\"dap_inline\">0</span>.</p>"
+      },
+      {
+        "value": "01JERTBGK36ZD1G4HNB7S4AM74",
+        "label": "<p class=\"dap_body\"><span class=\"dap_inline\">myStudent</span> has been initialized such that <span class=\"dap_inline\">name</span> contains the string <span class=\"dap_inline\">\"Bobby\"</span> and&nbsp; <span class=\"dap_inline\">age</span> is <span class=\"dap_inline\">25</span>.</p>"
+      },
+      {
+        "value": "01JERTBGK303HE0RX6TF0Y2981",
+        "label": "<p class=\"dap_body\"><span class=\"dap_inline\">myStudent</span> has been initialized such that <span class=\"dap_inline\">name</span> is <span class=\"dap_inline\">null</span> and&nbsp; <span class=\"dap_inline\">age</span> is <span class=\"dap_inline\">0</span>.</p>"
+      },
+      {
+        "value": "01JERTBGK36Y0NKD7YHDNT31D2",
+        "label": "<p class=\"dap_body\"><span class=\"dap_inline\">myStudent</span> has been initialized such that <span class=\"dap_inline\">name</span> is <span class=\"dap_inline\">null</span> and&nbsp; <span class=\"dap_inline\">age</span> is <span class=\"dap_inline\">25</span>.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.4",
+    "text": "3.4: Constructors"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

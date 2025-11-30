@@ -1,0 +1,39 @@
+{
+  "id": "VR187180",
+  "type": "mcq",
+  "title": "Representations - Maclaurin Series",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">The series <span class=\"math_expression\"><span aria-label=\"x plus, x cubed, plus the fraction with numerator x raised to the fifth power, and denominator 2 factorial, end fraction, plus the fraction with numerator x to the seventh power, and denominator 3 factorial, end fraction, plus dot dot dot, plus the fraction with numerator x raised to the 2 n plus 1 power, and denominator n factorial, end fraction, plus dot dot dot\"><math alttext=\"x plus, x cubed, plus the fraction with numerator x raised to the fifth power, and denominator 2 factorial, end fraction, plus the fraction with numerator x to the seventh power, and denominator 3 factorial, end fraction, plus dot dot dot, plus the fraction with numerator x raised to the 2 n plus 1 power, and denominator n factorial, end fraction, plus dot dot dot\" display=\"inline\" overflow=\"scroll\"><mrow><mi>x</mi><mo>+</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>+</mo><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>5</mn></mrow></msup></mrow><mrow><mn>2</mn><mo>!</mo></mrow></mfrac><mo>+</mo><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>7</mn></mrow></msup></mrow><mrow><mn>3</mn><mo>!</mo></mrow></mfrac><mo>+</mo><mo>⋯</mo><mo>+</mo><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msup></mrow><mrow><mi>n</mi><mo>!</mo></mrow></mfrac><mo>+</mo><mo>⋯</mo></mrow></mstyle></mrow></mstyle></mrow></mstyle></mrow></math></span></span> is the Maclaurin series for what function?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"sine x\"><math alttext=\"sine x\" display=\"inline\" overflow=\"scroll\"><mrow><mi>sin</mi><mo>⁡</mo><mi>x</mi></mrow></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the sine of negative x\"><math alttext=\"the sine of negative x\" display=\"inline\" overflow=\"scroll\"><mrow><mi>sin</mi><mo>⁡</mo><mrow><mo>(</mo><mrow><mo>−</mo><mi>x</mi></mrow><mo>)</mo></mrow></mrow></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"x times, e raised to the x squared power\"><math alttext=\"x times, e raised to the x squared power\" display=\"inline\" overflow=\"scroll\"><mrow><mi>x</mi><mo>⁢</mo><msup><mrow><mi>e</mi></mrow><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></msup></mrow></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"x times, cosine x\"><math alttext=\"x times, cosine x\" display=\"inline\" overflow=\"scroll\"><mrow><mi>x</mi><mi>cos</mi><mo>⁡</mo><mi>x</mi></mrow></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.14",
+    "text": "10.14: (BC ONLY) Finding Taylor or Maclaurin Series for a Function"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

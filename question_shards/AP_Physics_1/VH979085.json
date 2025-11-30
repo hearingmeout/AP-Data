@@ -1,0 +1,39 @@
+{
+  "id": "VH979085",
+  "type": "mcq",
+  "title": "Angled Ladder",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">A uniform ladder of mass <span class=\"math_expression\"><span aria-label=\"M\"><math alttext=\"M\" overflow=\"scroll\"><mstyle><mrow><mi>M</mi></mrow></mstyle></math></span></span> and length <span class=\"math_expression\"><span aria-label=\"L\"><math alttext=\"L\" overflow=\"scroll\"><mstyle><mrow><mi>L</mi></mrow></mstyle></math></span></span> rests against a smooth wall at an angle <span class=\"math_expression\"><span aria-label=\"theta sub 0\"><math alttext=\"theta sub 0\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>θ</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mstyle></math></span></span>, as shown in the figure. What is the torque due to the weight of the ladder about its base?</p>\n\n<div class=\"standalone_image\"><img alt=\"The figure presents a diagram of ladder on a horizontal surface that is leaning against a vertical wall. The length of the ladder is L and the angle between the horizontal surface and the ladder is labeled theta sub 0.\" height=\"139\" src=\"/images/8a8aa926aebbd91dabdb6e1abfb444cc.png\" width=\"200\"></div>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"uppercase M g L sine theta sub 0\"><math alttext=\"uppercase M g L sine theta sub 0\" overflow=\"scroll\"><mstyle><mrow><mi>M</mi><mi>g</mi><mi>L</mi><mo>⁢</mo><mtext> </mtext><mi>sin</mi><mo>⁡</mo><mrow><mtext> </mtext><mo>(</mo><msub><mrow><mi>θ</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>)</mo></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"uppercase M g L cosine theta sub 0\"><math alttext=\"uppercase M g L cosine theta sub 0\" overflow=\"scroll\"><mstyle><mrow><mi>M</mi><mi>g</mi><mi>L</mi><mo>⁢</mo><mtext> </mtext><mi>cos</mi><mo>⁡</mo><mrow><mtext> </mtext><mo>(</mo><msub><mrow><mi>θ</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>)</mo></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator uppercase M g L sine theta sub 0 and denominator 2\"><math alttext=\"the fraction with numerator uppercase M g L sine theta sub 0 and denominator 2\" overflow=\"scroll\"><mrow><mfrac><mrow><mstyle><mrow><mi>M</mi><mi>g</mi><mi>L</mi><mo>⁢</mo><mtext> </mtext><mi>sin</mi><mo>⁡</mo><mrow><mtext> </mtext><mo>(</mo><msub><mrow><mi>θ</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>)</mo></mrow></mrow></mstyle></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator uppercase M g L cosine theta sub 0 and denominator 2\"><math alttext=\"the fraction with numerator uppercase M g L cosine theta sub 0 and denominator 2\" overflow=\"scroll\"><mrow><mfrac><mrow><mstyle><mrow><mi>M</mi><mi>g</mi><mi>L</mi><mo>⁢</mo><mtext> </mtext><mi>cos</mi><mo>⁡</mo><mrow><mtext> </mtext><mo>(</mo><msub><mrow><mi>θ</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>)</mo></mrow></mrow></mstyle></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.3",
+    "text": "5.3: Torque"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

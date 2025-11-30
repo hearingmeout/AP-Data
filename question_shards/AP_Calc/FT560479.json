@@ -1,0 +1,39 @@
+{
+  "id": "FT560479",
+  "type": "mcq",
+  "title": "Radius of convergence of a Maclaurin series",
+  "content": {
+    "prompt": "What is the radius of convergence of the Maclaurin series for&nbsp;<span aria-label=\"the fraction with numerator 2 x and denominator 1 plus x squared\"><math> <mrow> <mfrac> <mrow> <mn>2</mn> <mi>x</mi> </mrow> <mrow> <mn>1</mn> <mo>+</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mfrac> </mrow> </math></span>?",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>1/2</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>1</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>2</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>infinite</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.13",
+    "text": "10.13: (BC ONLY) Radius and Interval of Convergence of Power Series"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

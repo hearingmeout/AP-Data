@@ -1,0 +1,43 @@
+{
+  "id": "FT560851",
+  "type": "mcq",
+  "title": "Derivative of inverse function with table",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows a table with 3 columns and 4 rows. The first row contains the column labels, from left to right: column one, x; column two, f(x); column three, f prime (x). From top to bottom, the data is as follows: Row two: x, 0; f(x), 49; f prime (x), 0. Row three: x, 1; f(x), 2; f prime (x), negative 8. Row four: x, 2; f(x), negative 1; f prime (x), negative 80.\" height=\"173\" src=\"/images/4f6b2e2edb767e754e12704a746b41fb.png\" width=\"638\"></p>\n\n<p>The table above gives selected values for a differentiable and decreasing function <em>f</em> and its derivative. If <em>f</em><sup>-1</sup> is the inverse function of <em>f</em>, what is the value of <em>(f<sup>-1</sup>)' (2)</em>?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>-80</p>"
+      },
+      {
+        "label": "<span aria-label=\"negative 1 eighth\"><math> <semantics> <mrow> <mo>−</mo> <mfrac> <mn>1</mn> <mn>8</mn> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbiabgkHiTmaalaaapaqaa8qacaaIXaaapaqaa8qacaaI4aaaaaaa@3BD4@</annotation> </semantics> </math></span>",
+        "value": "i1"
+      },
+      {
+        "label": "<span aria-label=\"negative 1 over 80\"><math> <semantics> <mrow> <mo>−</mo> <mfrac> <mn>1</mn> <mrow> <mn>80</mn> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbiabgkHiTmaalaaapaqaa8qacaaIXaaapaqaa8qacaaI4aGaaGimaaaaaaa@3C8E@</annotation> </semantics> </math></span>",
+        "value": "i2"
+      },
+      {
+        "label": "<span aria-label=\"1 over 80\"><math> <semantics> <mrow> <mfrac> <mn>1</mn> <mrow> <mn>80</mn> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaalaaapaqaa8qacaaIXaaapaqaa8qacaaI4aGaaGimaaaaaaa@3BA1@</annotation> </semantics> </math></span>",
+        "value": "i3"
+      },
+      {
+        "label": "<span aria-label=\"1 eighth\"><math> <semantics> <mrow> <mfrac> <mn>1</mn> <mn>8</mn> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaalaaapaqaa8qacaaIXaaapaqaa8qacaaI4aaaaaaa@3AE7@</annotation> </semantics> </math></span>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Differentiating Inverse Functions"
+  },
+  "skill": {
+    "code": "Skill 3.G",
+    "text": "Skill 3.G: Confirm that solutions are accurate and appropriate."
+  }
+}

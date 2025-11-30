@@ -1,0 +1,43 @@
+{
+  "id": "VH956185",
+  "type": "mcq",
+  "title": "Marathon runners",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"passage\"><div class=\"prose style:1\"><p class=\"passage_para\">A sports physician conducted a study to investigate whether there is an association between running experience and the occurrence of a certain sport injury for marathon runners while training for a marathon. Data were collected on a random sample of <span class=\"math_expression\"><span aria-label=\"51\"><math alttext=\"51\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>51</mn></mrow></mstyle></math></span></span> marathon runners. Each runner from the sample was categorized by running experience (low, medium, high) and whether or not the runner experienced the sport injury while training for a marathon. The conditions for inference were met, and a <span class=\"math_expression\"><span aria-label=\"chi square\"><math alttext=\"chi square\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>χ</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle></math></span></span> test statistic of approximately <span class=\"math_expression\"><span aria-label=\"8.12\"><math alttext=\"8.12\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>8.12</mn></mrow></mstyle></math></span></span> was calculated.</p></div></div></div></div><p class=\"stem_paragraph\">Which of the following describes the <span class=\"math_expression\"><span aria-label=\"p\"><math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math></span></span>-value of the test?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"p-value is greater than 0.25\"><math alttext=\"p-value is greater than 0.25\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi><mtext>-value</mtext><mo>&gt;</mo><mn>0.25</mn></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"0.10 is less than p-value, which is less than 0.25\"><math alttext=\"0.10 is less than p-value, which is less than 0.25\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mstyle><mrow><mn>0.10</mn><mo>&lt;</mo><mi>p</mi><mtext>-value</mtext><mo>&lt;</mo><mn>0.25</mn></mrow></mstyle></mrow></mstyle></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"0.05 is less than p-value, which is less than 0.10\"><math alttext=\"0.05 is less than p-value, which is less than 0.10\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mstyle><mrow><mn>0.05</mn><mo>&lt;</mo><mi>p</mi><mtext>-value</mtext><mo>&lt;</mo><mn>0.10</mn></mrow></mstyle></mrow></mstyle></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"0.01 is less than p-value, which is less than 0.05\"><math alttext=\"0.01 is less than p-value, which is less than 0.05\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mn>0.01</mn><mo>&lt;</mo><mi>p</mi><mtext>-value</mtext><mo>&lt;</mo><mn>0.05</mn></mrow></mstyle></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"p-value is less than 0.01\"><math alttext=\"p-value is less than 0.01\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mi>p</mi><mtext>-value</mtext><mo>&lt;</mo><mn>0.01</mn></mrow></mstyle></mrow></mstyle></math></span></span></p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Inference for Categorical Data-Chi-Square"
+  },
+  "topic": {
+    "code": "8.6",
+    "text": "8.6: Carrying Out a Chi-Square Test for Homogeneity or Independence"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Calculate a test statistic and find a p-value, provided conditions for inference are met."
+  }
+}

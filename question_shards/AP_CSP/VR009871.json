@@ -1,0 +1,35 @@
+{
+  "id": "VR009871",
+  "type": "mcq",
+  "title": "Swap alpha and beta",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following code segments can be used to interchange the values of <span class=\"inline_code\">alpha</span> and <span class=\"inline_code\">beta</span> using the temporary variable <span class=\"inline_code\">temp</span>&nbsp;?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">I and II only</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">I and III only</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">II and III only</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">I, II, and III</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: Variables and Assignments"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

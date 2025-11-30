@@ -1,0 +1,39 @@
+{
+  "id": "VR781550",
+  "type": "mcq",
+  "title": "Pendulum - torque on swinging pendulum",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR781548.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">Which of the following correctly justifies why the motion can be called simple harmonic motion?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The torque is directly proportional to the sine of the angle that the pendulum makes with the vertical, regardless of how large the angle is.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The pendulum is released at a small angle, so the torque is directly proportional to the angle that the pendulum makes with the vertical.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The torque is directly proportional to how far the end of the pendulum is from its equilibrium position, regardless of how far from equilibrium it is.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The torque is directly proportional to the length of the pendulum.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Oscillations"
+  },
+  "topic": {
+    "code": "7.1",
+    "text": "7.1: Defining Simple Harmonic Motion (SHM)"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

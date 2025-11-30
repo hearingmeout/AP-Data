@@ -1,0 +1,35 @@
+{
+  "id": "FT535731",
+  "type": "mcq",
+  "title": "Two robots in separate grids try to reach the goal",
+  "content": {
+    "prompt": "<p>Two grids are shown below. Each grid contains a robot represented as a triangle. Both robots are initially facing left. Each robot can move into a white or gray square, but cannot move into a black region.</p>\n\n<p><img alt=\"Two grids are shown, each three boxes across and five boxes high. The grid on the left is labeled Grid 1 and the grid on the right is labeled Grid 2. Each grid has a grey square in the upper left corner and an arrow pointing to the left in the square in the lower right corner. In Grid 1 the first two squares in the second row and the last two squares in the fourth row are black. In Grid 2 the first and third squares in the second row, the third square in the third row, and the last two squares in the fourth row are black. The remaining squares are white in both grids.\" src=\"/images/139c991ef8e8d05d578a680fe0def663.png\"></p>\n\n<p>For each grid, the program below is intended to move the robot to the gray square. The program uses the procedure <em>Goal_Reached ( )</em>, which evaluates to <em>true</em> if the robot is in the gray square and evaluates to <em>false</em> otherwise.</p>\n\n<p><img alt=\"A coding program reads as follows. Line 1: Repeat until left parenthesis Goal underscore Reached left parenthesis right parenthesis right parenthesis. Line 2: Left curly bracket. Line 3: If left parenthesis can underscore move open parenthesis right close parenthesis. Line 4: Left curly bracket. Line 5: Rotate underscore right left parenthesis right parenthesis. Line 6: Right curly bracket. Line 7: Else. Line 8: Left curly bracket. Line 9: If left parenthesis can underscore move left parenthesis left right parenthesis right parenthesis. Line 10: Left curly bracket. Line 11: Rotate underscore left parenthesis right parenthesis. Line 12: Right curly bracket. Line 13: Right curly bracket. Line 14: If left parenthesis can underscore move left parenthesis forward right parenthesis right parenthesis. Line 15: Left curly bracket. Line 16: Move underscore forward left parenthesis right parenthesis. Line 17: Right parenthesis.\" height=\"333\" src=\"/images/39a7b0d4fbc36dda540c4b8debbd517a.png\" width=\"276\"></p>\n\n<p>For which of the grids does the program correctly move the robot to the gray square?</p>\n",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Grid I only</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Grid II only</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Both grid I and grid II</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Neither grid I nor grid II</p>"
+      }
+    ]
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Identifying and Correcting Errors"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Identify and correct errors in algorithms and programs, including error discovery through testing."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "VR025872",
+  "type": "mcq",
+  "title": "Calculate g from oscillating block",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR025850.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">A student wants to use an apparatus similar to system <span class=\"math_expression\"><span aria-label=\"B\"><math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>B</mtext></mrow></mstyle></math></span></span> to measure the acceleration due to gravity <span class=\"math_expression\"><span aria-label=\"g\"><math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math></span></span>. If the mass of the block, the force constant of the spring, and the angle of the incline are known, what additional data must be measured to determine an experimental value for <span class=\"math_expression\"><span aria-label=\"g\"><math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math></span></span> ?</p><ol class=\"ordered_list style:1\"><li class=\"list_paragraph\"><span class=\"math_expression\"><span aria-label=\"1\"><math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mrow><mtext>I.</mtext></mrow></math></span></span> The stretch of the spring at the equilibrium position</li><li class=\"list_paragraph\"><span class=\"math_expression\"><span aria-label=\"2\"><math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mrow><mtext>II.</mtext></mrow></math></span></span> The speed of the block as it passes the equilibrium position</li><li class=\"list_paragraph\"><span class=\"math_expression\"><span aria-label=\"3\"><math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mrow><mtext>III.</mtext></mrow></math></span></span> The time interval between two consecutive passes through the equilibrium position</li></ol>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"1\"><math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mrow><mtext>I</mtext></mrow></math></span></span> only</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"2\"><math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mrow><mtext>II</mtext></mrow></math></span></span> only</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"1\"><math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mrow><mtext>I</mtext></mrow></math></span></span> and <span class=\"math_expression\"><span aria-label=\"2\"><math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mrow><mtext>II</mtext></mrow></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"2\"><math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mrow><mtext>II</mtext></mrow></math></span></span> and <span class=\"math_expression\"><span aria-label=\"3\"><math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mrow><mtext>III</mtext></mrow></math></span></span></p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"1\"><math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mrow><mtext>I</mtext></mrow></math></span></span> and <span class=\"math_expression\"><span aria-label=\"3\"><math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mrow><mtext>III</mtext></mrow></math></span></span></p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Force and Translational Dynamics"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Forces and Free-Body Diagrams"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

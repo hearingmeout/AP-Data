@@ -1,0 +1,39 @@
+{
+  "id": "KMB000001",
+  "type": "mcq",
+  "title": "Conic sections - equation of parabola",
+  "content": {
+    "prompt": "<div>\n<div class=\"long_descriptions_container\">&nbsp;</div>\n</div>\n\n<div class=\"qti-layout-row\">\n<div class=\"qti-layout-col12\">\n<div class=\"prompt\">\n<div class=\"standalone_image qti-align-center\"><img alt=\"Graph of a parabola in the x y plane with the origin labeled O. Refer to long description.\" height=\"391\" src=\"/images/c1063560ea8bcaa751ca65afbe11488e.svg\" width=\"425\">\n<div aria-label=\"Long description for graph of a parabola in the coordinate plane\" class=\"sr-only qti-visually-hidden\" id=\"LDC-KMB000001_01\" role=\"region\">\n<p class=\"dap_body\">The x axis ranges from negative 20 to 2 in increments of 1. The y axis ranges from negative 10 to 10 in increments of 1. All coordinates are approximate.</p>\n\n<ul>\n\t<li class=\"dap_body\">The parabola opens left and is symmetric about the x axis.</li>\n\t<li class=\"dap_body\">The curve enters the window at (negative 20.5 comma 9.1).</li>\n\t<li class=\"dap_body\">The curve decreases from left to right, passing through (negative 16 comma 8), (negative 9 comma 6), (negative 4 comma 4), (negative 1 comma 2), and (0 comma 0).</li>\n\t<li class=\"dap_body\">The curve changes directions at (0 comma 0), moving back to the left, decreasing from right to left.</li>\n\t<li class=\"dap_body\">The curve passes through (negative 1 comma negative 2), (negative 4 comma negative 4), (negative 9 comma negative 6), and (negative 16 comma negative 8).</li>\n\t<li class=\"dap_body\">The curve exits the window at (negative 20.5 comma negative 9.1).</li>\n</ul>\n</div>\n</div>\n\n<p class=\"dap_body\">The graph of a parabola is shown in the&nbsp;<span aria-label=\"x y\"><math alttext=\"x y\"><mi>x</mi><mi>y</mi></math></span>-plane. Which of the following is an analytical representation for the parabola?</p>\n</div>\n</div>\n</div>\n",
+    "answer": "A-25475",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"y squared equals negative 4 x\"><math alttext=\"y squared equals negative 4 x\"><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mo>-</mo><mn>4</mn><mi>x</mi></math></span></p>",
+        "value": "A-25475"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"y squared equals 4 x\"><math alttext=\"y squared equals 4 x\"><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>4</mn><mi>x</mi></math></span></p>",
+        "value": "B-25476"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"x squared equals negative 4 y\"><math alttext=\"x squared equals negative 4 y\"><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mo>-</mo><mn>4</mn><mi>y</mi></math></span></p>",
+        "value": "C-25477"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"x squared equals 4 y\"><math alttext=\"x squared equals 4 y\"><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mn>4</mn><mi>y</mi></math></span></p>",
+        "value": "D-25478"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.6",
+    "text": "4.6: Conic Sections"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Construct equivalent graphical, numerical, analytical, and verbal representations of functions that are useful in a given mathematical or applied context, with and without technology."
+  }
+}

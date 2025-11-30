@@ -1,0 +1,39 @@
+{
+  "id": "FT659855",
+  "type": "mcq",
+  "title": "Comparing obj1 and obj2 object references",
+  "content": {
+    "prompt": "Assume<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Courier New&quot;\"> obj1 </span></span></span>and<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Courier New&quot;\"> obj2 </span></span></span>are object references. Which of the following best describes when the expression<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Courier New&quot;\"> obj1 == obj2 </span></span></span>is true?",
+    "answer": "3",
+    "choices": [
+      {
+        "label": "When<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Courier New&quot;\"> obj1 </span></span></span>and<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Courier New&quot;\"> obj2 </span></span></span>are defined within the same method",
+        "value": "0"
+      },
+      {
+        "label": "<p style=\"margin-bottom:11px\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"></span></span></span>When<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\"> obj1 </span></span></span></span>and<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\"> obj2 </span></span></span></span>are instances of the same class<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"></span></span></span></p>\n",
+        "value": "1"
+      },
+      {
+        "label": "<p style=\"margin-bottom:11px\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"></span></span></span>When<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\"> obj1 </span></span></span></span>and<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\"> obj2 </span></span></span></span>refer to objects that contain the same data<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"></span></span></span></p>\n",
+        "value": "2"
+      },
+      {
+        "label": "When<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Courier New&quot;\"> obj1 </span></span></span>and<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Courier New&quot;\"> obj2 </span></span></span>refer to the same object",
+        "value": "3"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Comparing Boolean Expressions"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

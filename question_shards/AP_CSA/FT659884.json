@@ -1,0 +1,39 @@
+{
+  "id": "FT659884",
+  "type": "mcq",
+  "title": "Compound Boolean with x and y",
+  "content": {
+    "prompt": "<p><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Times-Roman&quot;,sans-serif\"></span></span></span></span></span>Assume that<span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Times-Roman&quot;,sans-serif\"> </span><span style=\"font-family:Courier\">x </span><span style=\"font-family:&quot;Times-Roman&quot;,sans-serif\"></span></span></span></span></span>and<span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Times-Roman&quot;,sans-serif\"> </span><span style=\"font-family:Courier\">y </span><span style=\"font-family:&quot;Times-Roman&quot;,sans-serif\"></span></span></span></span></span>are<span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Times-Roman&quot;,sans-serif\"> </span><span style=\"font-family:Courier\">boolean </span></span></span></span></span>variables and have been properly initialized.<span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"></span></span></span></span></p>\n<p style=\"margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">(x &amp;&amp; y) || !(x &amp;&amp; y)</span></span></span></span></span></p>\n<p>The result of evaluating the expression above is best described as</p>\n",
+    "answer": "0",
+    "choices": [
+      {
+        "label": "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Times-Roman&quot;,sans-serif\"></span></span></span>always<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Times-Roman&quot;,sans-serif\"> </span></span></span><span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:Courier\">true</span></span></span>",
+        "value": "0"
+      },
+      {
+        "label": "<span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Times-Roman&quot;,sans-serif\"></span></span></span></span></span>always<span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Times-Roman&quot;,sans-serif\"> </span><span style=\"font-family:Courier\">false</span></span></span></span></span>",
+        "value": "1"
+      },
+      {
+        "label": "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:Courier\">true </span></span></span><span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Times-Roman&quot;,sans-serif\"></span></span></span>only when<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Times-Roman&quot;,sans-serif\"> </span></span></span><span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:Courier\">x </span></span></span><span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Times-Roman&quot;,sans-serif\"></span></span></span>is<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Times-Roman&quot;,sans-serif\"> </span></span></span><span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:Courier\">true </span></span></span><span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Times-Roman&quot;,sans-serif\">and </span></span></span><span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:Courier\">y </span></span></span><span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Times-Roman&quot;,sans-serif\"></span></span></span>is<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Times-Roman&quot;,sans-serif\"> </span></span></span><span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:Courier\">true</span></span></span>",
+        "value": "2"
+      },
+      {
+        "label": "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:Courier\">true </span></span></span>only when<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Times-Roman&quot;,sans-serif\"> </span></span></span><span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:Courier\">x </span></span></span><span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Times-Roman&quot;,sans-serif\"></span></span></span>and<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Times-Roman&quot;,sans-serif\"> </span></span></span><span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:Courier\">y </span></span></span>have the same value",
+        "value": "3"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Comparing Boolean Expressions"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

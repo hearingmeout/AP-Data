@@ -1,0 +1,43 @@
+{
+  "id": "VH901654",
+  "type": "mcq",
+  "title": "Gas mileage",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"passage\">\n<div class=\"prose style:1\">\n<p class=\"passage_para\">The following boxplot shows the typical gas mileage, in miles per gallon, for 20 different car models.</p>\n</div>\n</div>\n\n<div class=\"standalone_image\"><img alt=\"The figure presents a boxplot over a number line titled Typical Gas Mileage, in miles per gallon, and the numbers 10 through 50, in increments of 10, are indicated. The data represented by the boxplot are as follows. Note that all values are approximate. The left whisker extends from 15 through 20. The box extends from 20 through 35, and a vertical line segment at 25 breaks the box into 2 parts. The right whisker extends from 35 through 50.\" height=\"142\" src=\"/images/c3113a3d35bced9f98ee690b530cf6c3.png\" width=\"250\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">Based on the boxplot, the top 25 percent of the cars have a typical gas mileage of at least how many miles per gallon?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">15</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">20</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">25</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">35</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">50</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.8",
+    "text": "1.8: Graphical Representations of Summary Statistics"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Describe data presented numerically or graphically."
+  }
+}

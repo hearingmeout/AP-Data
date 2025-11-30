@@ -1,0 +1,43 @@
+{
+  "id": "FT560921",
+  "type": "mcq",
+  "title": "Derivative with vectors",
+  "content": {
+    "prompt": "For time<em> t &gt; 0,</em> the position of a particle moving in the xy-plane is given by the vector 〈<span aria-label=\"1 over t comma e raised to the 3 t power\"><math> <mrow> <mfrac> <mn>1</mn> <mi>t</mi> </mfrac> <mo>,</mo> <mtext> </mtext> <msup> <mi>e</mi> <mrow> <mn>3</mn> <mi>t</mi> </mrow> </msup> </mrow> </math></span>〉. What is the velocity vector of the particle at time<em> t = 2</em>?",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "〈<span aria-label=\"1 half comma e to the 6th power\"><math> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mo>,</mo> <mtext> </mtext> <msup> <mi>e</mi> <mn>6</mn> </msup> </mrow> </math></span>〉",
+        "value": "i0"
+      },
+      {
+        "label": "〈<span aria-label=\"1 fourth comma e to the 6th power\"><math> <mrow> <mfrac> <mn>1</mn> <mn>4</mn> </mfrac> <mo>,</mo> <mtext> </mtext> <msup> <mi>e</mi> <mn>6</mn> </msup> </mrow> </math></span>〉",
+        "value": "i1"
+      },
+      {
+        "label": "〈<span aria-label=\"1 fourth comma 3 e to the 6th power\"><math> <mrow> <mfrac> <mn>1</mn> <mn>4</mn> </mfrac> <mo>,</mo> <mtext> </mtext> <mn>3</mn> <msup> <mi>e</mi> <mn>6</mn> </msup> </mrow> </math></span>〉",
+        "value": "i2"
+      },
+      {
+        "label": "〈<span aria-label=\"negative 1 fourth comma e to the 6th power\"><math> <mrow> <mo>−</mo> <mfrac> <mn>1</mn> <mn>4</mn> </mfrac> <mo>,</mo> <mtext> </mtext> <msup> <mi>e</mi> <mn>6</mn> </msup> </mrow> </math></span>〉",
+        "value": "i3"
+      },
+      {
+        "label": "〈<span aria-label=\"negative 1 fourth comma 3 e to the 6th power\"><math> <mrow> <mo>−</mo><mfrac> <mn>1</mn> <mn>4</mn> </mfrac> <mo>,</mo><mtext> </mtext><mn>3</mn><msup> <mi>e</mi> <mn>6</mn> </msup> </mrow> </math></span>〉",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Parametric Equations, Polar Coordinates, and Vector-Valued Functions"
+  },
+  "topic": {
+    "code": "9.6",
+    "text": "9.6: (BC ONLY) Solving Motion Problems Using Parametric and Vector-Valued Functions"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

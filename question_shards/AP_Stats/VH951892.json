@@ -1,0 +1,43 @@
+{
+  "id": "VH951892",
+  "type": "mcq",
+  "title": "The meaning of confidence",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Consider a 90 percent confidence interval constructed to estimate the difference between two population proportions. Which of the following is the best interpretation of what is meant by 90 percent confidence?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The probability that the true difference in population proportions falls within the bounds of the confidence interval is 0.90.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">For repeated random sampling from the populations with samples of the same size, approximately 90% of the sample proportions will fall within the bounds of the confidence interval.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">If the sampling process is repeated 10 times, 9 intervals will capture the true difference between the population proportions and 1 interval will not.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">For repeated random sampling from the populations with samples of the same size, approximately 90% of the confidence intervals constructed will capture the true difference between the population proportions.</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">For repeated random sampling from the populations with samples of the same size, approximately 90% of the confidence intervals constructed will capture the sample difference between the population proportions.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.9",
+    "text": "6.9: Justifying a Claim Based on a Confidence Interval for a Difference Between Population Proportions"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

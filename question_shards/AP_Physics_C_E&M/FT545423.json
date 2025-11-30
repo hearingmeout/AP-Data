@@ -1,0 +1,43 @@
+{
+  "id": "FT545423",
+  "type": "mcq",
+  "title": "Current after switch is closed with inductor",
+  "content": {
+    "prompt": "<p>What is the instantaneous current at point  𝑋  immediately after the switch is closed?</p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>0</p>"
+      },
+      {
+        "label": "<span aria-label=\"epsilon over cap r\"><math> <mrow> <mfrac> <mi>ε</mi> <mi>R</mi> </mfrac> </mrow> </math></span>",
+        "value": "i1"
+      },
+      {
+        "label": "<span aria-label=\"epsilon over 2 cap r\"><math> <mrow> <mfrac> <mi>ε</mi> <mrow> <mn>2</mn> <mi>R</mi> </mrow> </mfrac> </mrow> </math></span>",
+        "value": "i2"
+      },
+      {
+        "label": "<span aria-label=\"epsilon over cap r liters\"><math> <mrow> <mfrac> <mi>ε</mi> <mrow> <mi>R</mi> <mi>L</mi> </mrow> </mfrac> </mrow> </math></span>",
+        "value": "i3"
+      },
+      {
+        "label": "<span aria-label=\"epsilon liters over 2 cap r\"><math> <mrow> <mfrac> <mrow> <mi>ε</mi> <mi>L</mi> </mrow> <mrow> <mn>2</mn> <mi>R</mi> </mrow> </mfrac> </mrow> </math></span>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.5",
+    "text": "13.5: Circuits with Resistors and Inductors (LR Circuits)"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

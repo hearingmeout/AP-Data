@@ -1,0 +1,39 @@
+{
+  "id": "FT538056",
+  "type": "mcq",
+  "title": "mystery with non-negative int parameter",
+  "content": {
+    "prompt": "<p>Consider the following method.</p>\n<p><img alt=\"An 11-line code segment reads as follows. Line 1: forward slash, asterisk, asterisk, at, param x an int value such that x greater than or equal to 0. Line 2: asterisk, forward slash. Line 3: public void mystery, open parenthesis, int x, close parenthesis. Line 4: open brace. Line 5: System, dot, out, dot, print, open parenthesis, x modulo 10, close parenthesis, semicolon. Line 6: if, open parenthesis, open parenthesis, x, division slash, 10, close parenthesis, exclamatory mark, equals 0, close parenthesis. Line 7: open brace. Line 8: mystery, open parenthesis, x, division slash, 10, close parenthesis, semicolon. Line 9: close brace. Line 10: System, dot, out, dot, print, open parenthesis, x modulo 10, close parenthesis, semicolon. Line 11: close brace.\" height=\"284\" src=\"/images/5f02654b31e9d6dd029b7c39e606d757.jpg\" width=\"402\"></p>\n<p>Which of the following is printed as a result of the call mystery (1234)?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i1",
+        "label": "<p>4321 </p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>12344321 </p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>43211234 </p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>Many digits are printed due to infinite recursion. </p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.16",
+    "text": "4.16: Recursion"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

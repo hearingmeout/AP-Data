@@ -1,0 +1,43 @@
+{
+  "id": "VR000322",
+  "type": "mcq",
+  "title": "Online Browsing",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">A researcher is interested in the relationship between time spent browsing items in an online store and the total amount purchased from the store. The researcher selects a random sample of visitors to the online store and records the time spent browsing and the total amount of their purchase. The researcher will conduct a <span class=\"math_expression\"><span aria-label=\"t\"><math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math></span></span>-test for the slope of a regression line, where time spent browsing is the explanatory variable and total amount of purchase is the response variable. Which of the following would be an indication that the normality condition has been met?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">A sample size that is less than 30</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">A histogram of the residuals that is centered at 0 and strongly right skewed</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">A dotplot of the residuals that is centered at 0, unimodal, and symmetric</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">A boxplot of the residuals that is centered at 100 and does not provide evidence of skewness or outliers</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">A scatterplot where total amount of purchase is the explanatory variable and time spent browsing is the response variable</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Inference for Quantitative Data-Slopes"
+  },
+  "topic": {
+    "code": "9.4",
+    "text": "9.4: Setting Up a Test for the Slope of a Regression Model"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Verify that inference procedures apply in a given situation."
+  }
+}

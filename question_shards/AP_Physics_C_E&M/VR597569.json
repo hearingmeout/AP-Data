@@ -1,0 +1,43 @@
+{
+  "id": "VR597569",
+  "type": "mcq",
+  "title": "Motion of a square loop of current inside the coil",
+  "content": {
+    "prompt": "<div>\n<include href=\"../Passage/VR597567.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include><div class=\"stimulus_reference\"><div class=\"standalone_image\"><img alt=\"The figure shows two views of a square loop circuit with a power supply, a resistor, and a spiral coil of wire. The bottom horizontal branch of the circuit has a power supply and a resistor connected in series, with the power supply on the left. The top horizontal branch of the circuit is the coil of wire. A uniform magnetic field B is directed through the inside of the coil to the left edge of the page. A rectangular loop is placed inside the coil that carries a counterclockwise current I.\" src=\"/images/bf0b9077b6345d1fbb3717667b270502.svg\"></div></div>\n</div><p class=\"stem_paragraph\">A rectangular loop of wire with a counterclockwise current is inserted into the coil, as shown above, and released. Which of the following best describes the resulting motion of the loop?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">It will not rotate.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">It will rotate clockwise in the plane of the page.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">It will rotate counterclockwise in the plane of the page.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">It will rotate such that the right side of the loop will rotate out of the page.</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">It will rotate such that the right side of the loop will rotate into the page.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "12",
+    "text": "12: Magnetic Fields and Electromagnetism"
+  },
+  "topic": {
+    "code": "12.3",
+    "text": "12.3: Magnetic Fields of Current-Carrying Wires and the Biot-Savart Law"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

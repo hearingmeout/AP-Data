@@ -1,0 +1,43 @@
+{
+  "id": "VH948854",
+  "type": "mcq",
+  "title": "District support",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"passage\"><div class=\"prose style:1\"><p class=\"passage_para\">Independent random samples of voters from two voting districts, G and H, were selected to investigate the proportion of all voters who favor a proposal to widen a road that runs through both districts. The difference between the sample proportions (G minus H) was used to create the 95 percent confidence interval <span class=\"math_expression\"><span aria-label=\"0.13 comma 0.47\"><math alttext=\"0.13 comma 0.47\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>(</mo><mn>0.13</mn><mo>,</mo><mo>⁢</mo><mn>0.47</mn><mo>)</mo></mrow></mstyle></math></span></span> for the population difference between districts.</p></div></div></div></div><p class=\"stem_paragraph\">Which of the following is the best interpretation of the interval?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">It is likely that the majority of voters in both districts favor the proposal, because all values in the interval are positive.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">It is likely that more voters in district H favor the proposal than in district G, because all values in the interval are positive.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">It is likely that more voters in district G favor the proposal than in district H, because all values in the interval are positive.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">It is likely that less than half the voters in both districts favor the proposal, because all values in the interval are less than 0.5.</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">It is likely that there is no difference between the districts in voters who favor the proposal, because 0 is not contained in the interval.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.9",
+    "text": "6.9: Justifying a Claim Based on a Confidence Interval for a Difference Between Population Proportions"
+  },
+  "skill": {
+    "code": "Skill 4.D",
+    "text": "Skill 4.D: Justify a claim based on a confidence interval."
+  }
+}

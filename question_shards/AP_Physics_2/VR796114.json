@@ -1,0 +1,39 @@
+{
+  "id": "VR796114",
+  "type": "mcq",
+  "title": "RC circuit - compare power dissipated by resistors",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR796113.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">When the switch is open, which of the following correctly compares the powers <span class=\"math_expression\"><span aria-label=\"P sub 1\"><math alttext=\"P sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>P</mi><mn>1</mn></msub></math></span></span>, <span class=\"math_expression\"><span aria-label=\"P sub 2\"><math alttext=\"P sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>P</mi><mn>2</mn></msub></math></span></span>, and <span class=\"math_expression\"><span aria-label=\"P sub 3\"><math alttext=\"P sub 3\" display=\"inline\" overflow=\"scroll\"><msub><mi>P</mi><mn>3</mn></msub></math></span></span> dissipated by the resistors with resistances <span class=\"math_expression\"><span aria-label=\"R sub 1\"><math alttext=\"R sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>1</mn></msub></math></span></span>, <span class=\"math_expression\"><span aria-label=\"R sub 2\"><math alttext=\"R sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>2</mn></msub></math></span></span>, and <span class=\"math_expression\"><span aria-label=\"R sub 3\"><math alttext=\"R sub 3\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>3</mn></msub></math></span></span>, respectively?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"P sub 1 equals P sub 2, which equals P sub 3\"><math alttext=\"P sub 1 equals P sub 2, which equals P sub 3\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>P</mi><mn>1</mn></msub><mo>=</mo><msub><mi>P</mi><mn>2</mn></msub><mo>=</mo><msub><mi>P</mi><mn>3</mn></msub></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"P sub 3 is greater than open parenthesis, P sub 1 equals P sub 2, close parenthesis\"><math alttext=\"P sub 3 is greater than open parenthesis, P sub 1 equals P sub 2, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>P</mi><mn>3</mn></msub><mo>&gt;</mo><mrow><mo>(</mo><msub><mi>P</mi><mn>1</mn></msub><mo>=</mo><msub><mi>P</mi><mn>2</mn></msub><mo>)</mo></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"open parenthesis, P sub 1 equals P sub 2, close parenthesis is greater than P sub 3, which is greater than 0\"><math alttext=\"open parenthesis, P sub 1 equals P sub 2, close parenthesis is greater than P sub 3, which is greater than 0\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mo>(</mo><msub><mi>P</mi><mn>1</mn></msub><mo>=</mo><msub><mi>P</mi><mn>2</mn></msub><mo>)</mo></mrow><mo>&gt;</mo><msub><mi>P</mi><mn>3</mn></msub><mo>&gt;</mo><mn>0</mn></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"open parenthesis, P sub 1 equals P sub 2, close parenthesis is greater than open parenthesis, P sub 3 equals 0, close parenthesis\"><math alttext=\"open parenthesis, P sub 1 equals P sub 2, close parenthesis is greater than open parenthesis, P sub 3 equals 0, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mo>(</mo><msub><mi>P</mi><mn>1</mn></msub><mo>=</mo><msub><mi>P</mi><mn>2</mn></msub><mo>)</mo></mrow><mo>&gt;</mo><mrow><mo>(</mo><msub><mi>P</mi><mn>3</mn></msub><mo>=</mo><mn>0</mn><mo>)</mo></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.4",
+    "text": "11.4: Electric Power"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

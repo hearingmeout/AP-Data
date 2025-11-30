@@ -1,0 +1,35 @@
+{
+  "id": "FT535746",
+  "type": "mcq",
+  "title": "Goats sheep foxes algorithm",
+  "content": {
+    "prompt": "<p>A programmer completes the user manual for a video game she has developed and realizes she has reversed the roles of goats and sheep throughout the text. Consider the programmer’s goal of changing all occurrences of “goats” to “sheep” and all occurrences of “sheep” to “goats.” The programmer will use the fact that the word “foxes” does not appear anywhere in the original text.</p><p>Which of the following algorithms can be used to accomplish the programmer’s goal? </p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>First, change all occurrences of “goats” to “sheep.” </p><p>Then, change all occurrences of “sheep” to “goats.”</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>First, change all occurrences of “goats” to “sheep.”</p><p>Then, change all occurrences of “sheep” to “goats.”</p><p>Last, change all occurrences of “foxes” to “sheep.”</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>First, change all occurrences of “goats” to “foxes.”</p><p>Then, change all occurrences of “sheep” to “goats.”</p><p>Last, change all occurrences of “foxes” to “sheep.”</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>First, change all occurrences of “goats” to “foxes.”</p><p>Then, change all occurrences of “foxes” to “sheep.”</p><p>Last, change all occurrences of “sheep” to “goats.”</p>"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Mathematical Expressions"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Represent algorithmic processes without using a programming language."
+  }
+}

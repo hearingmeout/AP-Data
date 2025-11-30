@@ -1,0 +1,39 @@
+{
+  "id": "SHO000002",
+  "type": "mcq",
+  "title": "Copying an Object - describe condition",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following best describes the conditions under which the method works as intended?</p>",
+    "answer": "01JERXXCEW2QEME6DW4H21MECN",
+    "choices": [
+      {
+        "value": "01JERXXCEWMSESENP5EYSA2202",
+        "label": "<p class=\"dap_body\">The method will run correctly only if it is defined in a class other than&nbsp;&nbsp;<span class=\"dap_inline\">Location</span>.</p>"
+      },
+      {
+        "value": "01JERXXCEW2QEME6DW4H21MECN",
+        "label": "<p class=\"dap_body\">The method will run correctly only if it is defined inside the&nbsp; <span class=\"dap_inline\">Location</span> class.</p>"
+      },
+      {
+        "value": "01JERXXCEWM1B9RKYVTYN5BKY4",
+        "label": "<p class=\"dap_body\">The method will always run correctly.</p>"
+      },
+      {
+        "value": "01JERXXCEW9CMJNEA4EQ59VAF9",
+        "label": "<p class=\"dap_body\">The method will never run correctly.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.6",
+    "text": "3.6: Methods: Passing and Returning References of an Object"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

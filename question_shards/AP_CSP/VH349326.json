@@ -1,0 +1,35 @@
+{
+  "id": "VH349326",
+  "type": "mcq",
+  "title": "Print digits algorithm",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following can be used as step 3 so that the algorithm works as intended?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Step 3: Display the remainder of <span class=\"inline_code\">number</span> divided by <span class=\"inline_code\">10</span> and store the remainder in <span class=\"inline_code\">number</span>.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Step 3: Display the remainder of <span class=\"inline_code\">number</span> divided by <span class=\"inline_code\">10</span> and store the integer quotient in <span class=\"inline_code\">number</span>.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Step 3: Display the integer quotient of <span class=\"inline_code\">number</span> divided by <span class=\"inline_code\">10</span> and store the remainder in <span class=\"inline_code\">number</span>.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Step 3: Display the integer quotient of <span class=\"inline_code\">number</span> divided by <span class=\"inline_code\">10</span> and store the integer quotient in <span class=\"inline_code\">number</span>.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Mathematical Expressions"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

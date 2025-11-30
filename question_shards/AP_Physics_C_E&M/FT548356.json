@@ -1,0 +1,43 @@
+{
+  "id": "FT548356",
+  "type": "mcq",
+  "title": "Effect of subtraction on IQR of mice weights",
+  "content": {
+    "prompt": "<p>A graduate student conducted a study of field mice in rural Kansas. The student obtained a sample of 100 field mice and recorded the weight, in grams, of each mouse. After the measurements were taken, it was discovered that the scale was not calibrated correctly. The student adjusted the 100 recorded measurements by subtracting 3 grams from each measurement. Which of the following statistics for the weight, in grams, of the field mice has the same value before and after the adjustment?</p>",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The median</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The mean</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The first quartile</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The third quartile</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>The interquartile range</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.7",
+    "text": "1.7: Summary Statistics for a Quantitative Variable"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT548684",
+  "type": "mcq",
+  "title": "Fundamental Theorem with calculator",
+  "content": {
+    "prompt": "<p>Let <em>F(x)</em> be an antiderivative of <math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"open parentheses the natural log of x close parentheses cubed divided by x\">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mrow>\n     <msup>\n      <mrow>\n       <mo stretchy=\"false\">(</mo><mi>ln</mi><mi>x</mi><mo stretchy=\"false\">)</mo></mrow>\n      <mn>3</mn>\n     </msup>\n     </mrow>\n    <mi>x</mi>\n   </mfrac>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWcaaWdaeaapeGaaiikaiGacYgacaGGUbGaamiEaiaacMcapaWa\n  aWbaaSqabeaapeGaaG4maaaaaOWdaeaapeGaamiEaaaaaaa@3CAE@\n  </annotation>\n </semantics>\n</math>\n. If <em>F</em>(1)=0, then <em>F</em>(9)= </p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>0.048</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>0.144</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>5.827</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>23.308</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>1,640.250</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.7",
+    "text": "6.7: The Fundamental Theorem of Calculus and Definite Integrals"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

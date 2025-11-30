@@ -1,0 +1,39 @@
+{
+  "id": "CWW000001",
+  "type": "mcq",
+  "title": "Matrix Determinant - vectors span parallelogram",
+  "content": {
+    "prompt": "<div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <p class=\"dap_body\">In the&nbsp;<span aria-label=\"x y\"><math alttext=\"x y\"><mi>x</mi><mi>y</mi></math></span>-plane, two vectors&nbsp;<span aria-label=\"open angle brackets 3 comma 2 close angle brackets\"><math alttext=\"open angle brackets 3 comma 2 close angle brackets\"><mfenced close=\">\" open=\"<\"><mrow><mn>3</mn><mo>,</mo><mn>2</mn></mrow></mfenced></math></span>&nbsp;and&nbsp;<span aria-label=\"open angle brackets 3 over 2 comma 5 close angle brackets\"><math alttext=\"open angle brackets 3 over 2 comma 5 close angle brackets\"><mfenced close=\">\" open=\"<\"><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>,</mo><mn>5</mn></mrow></mfenced></math></span>&nbsp;span a parallelogram. Which of the following gives the area of that parallelogram, in square units?</p> </div> </div> </div>\n",
+    "answer": "C-43457",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"open vertical bar open parentheses 3 close parentheses open parentheses 2 close parentheses minus open parentheses 3 over 2 close parentheses open parentheses 5 close parentheses close vertical bar\"><math alttext=\"open vertical bar open parentheses 3 close parentheses open parentheses 2 close parentheses minus open parentheses 3 over 2 close parentheses open parentheses 5 close parentheses close vertical bar\"><mfenced close=\"|\" open=\"|\"><mrow><mfenced><mn>3</mn></mfenced><mfenced><mn>2</mn></mfenced><mo>-</mo><mfenced><mfrac><mn>3</mn><mn>2</mn></mfrac></mfenced><mfenced><mn>5</mn></mfenced></mrow></mfenced></math></span></p>",
+        "value": "A-43455"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"open vertical bar open parentheses 3 close parentheses open parentheses 3 over 2 close parentheses minus open parentheses 2 close parentheses open parentheses 5 close parentheses close vertical bar\"><math alttext=\"open vertical bar open parentheses 3 close parentheses open parentheses 3 over 2 close parentheses minus open parentheses 2 close parentheses open parentheses 5 close parentheses close vertical bar\"><mfenced close=\"|\" open=\"|\"><mrow><mfenced><mn>3</mn></mfenced><mfenced><mfrac><mn>3</mn><mn>2</mn></mfrac></mfenced><mo>-</mo><mfenced><mn>2</mn></mfenced><mfenced><mn>5</mn></mfenced></mrow></mfenced></math></span></p>",
+        "value": "B-43456"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"open vertical bar open parentheses 3 close parentheses open parentheses 5 close parentheses minus open parentheses 3 over 2 close parentheses open parentheses 2 close parentheses close vertical bar\"><math alttext=\"open vertical bar open parentheses 3 close parentheses open parentheses 5 close parentheses minus open parentheses 3 over 2 close parentheses open parentheses 2 close parentheses close vertical bar\"><mfenced close=\"|\" open=\"|\"><mrow><mfenced><mn>3</mn></mfenced><mfenced><mn>5</mn></mfenced><mo>-</mo><mfenced><mfrac><mn>3</mn><mn>2</mn></mfrac></mfenced><mfenced><mn>2</mn></mfenced></mrow></mfenced></math></span></p>",
+        "value": "C-43457"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"open vertical bar open parentheses 3 close parentheses open parentheses 3 over 2 close parentheses plus open parentheses 2 close parentheses open parentheses 5 close parentheses close vertical bar\"><math alttext=\"open vertical bar open parentheses 3 close parentheses open parentheses 3 over 2 close parentheses plus open parentheses 2 close parentheses open parentheses 5 close parentheses close vertical bar\"><mfenced close=\"|\" open=\"|\"><mrow><mfenced><mn>3</mn></mfenced><mfenced><mfrac><mn>3</mn><mn>2</mn></mfrac></mfenced><mo>+</mo><mfenced><mn>2</mn></mfenced><mfenced><mn>5</mn></mfenced></mrow></mfenced></math></span></p>",
+        "value": "D-43458"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.11",
+    "text": "4.11: The Inverse and Determinant of a Matrix"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Apply numerical results in a given mathematical or applied context."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT544083",
+  "type": "mcq",
+  "title": "Compare normally distributed class exam scores",
+  "content": {
+    "prompt": "<p>At a college the scores on the chemistry final exam are approximately normally distributed, with a mean of 75 and a standard deviation of 12. The scores on the calculus final are also approximately normally distributed, with a mean of 80 and a standard deviation of 8.  A student scored 81 on the chemistry final and 84 on the calculus final. Relative to the students in each respective class, in which subject did this student do better?</p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The student did better in chemistry.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The student did better in calculus.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The student did equally well in each course.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>There is no basis for comparison, since the subjects are different from each other and are in different departments.</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>There is not enough information for comparison, because the number of students in each class is not known.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.10",
+    "text": "1.10: The Normal Distribution"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Compare distributions or relative positions of points within a distribution."
+  }
+}

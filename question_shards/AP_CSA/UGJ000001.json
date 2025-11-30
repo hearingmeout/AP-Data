@@ -1,0 +1,39 @@
+{
+  "id": "UGJ000001",
+  "type": "mcq",
+  "title": "Build newList from oldList - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following can replace&nbsp; <span class=\"dap_inline\">/* missing code */</span>&nbsp; to produce this result?</p>",
+    "answer": "1719859796789.017",
+    "choices": [
+      {
+        "value": "1719859796789.7385",
+        "label": "<pre><code class=\"language-plaintext\">for (String s : oldList)\n{\n   newList.add(s);\n   newList.add(s);\n}</code></pre>"
+      },
+      {
+        "value": "1719859796789.017",
+        "label": "<pre><code class=\"language-plaintext\">for (String s : oldList)\n{\n   newList.add(s);\n   newList.add(0, s); \n}</code></pre>"
+      },
+      {
+        "value": "1719859796789.3743",
+        "label": "<pre><code class=\"language-plaintext\">for (int j = 0; j &lt; oldList.size(); j++)\n{\n   newList.add(oldList.get(0));\n   newList.add(oldList.get(j)); \n}</code></pre>"
+      },
+      {
+        "value": "1719859796789.291",
+        "label": "<pre><code class=\"language-plaintext\">for (int j = 0; j &lt; oldList.size(); j++)\n{\n   newList.add(j, oldList.get(j));\n   newList.add(0, oldList.get(j)); \n}</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "VH904902",
+  "type": "mcq",
+  "title": "Will potential difference change",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VH904871.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">The dielectric is now removed from capacitor <span class=\"math_expression\"><span aria-label=\"Z\"><math alttext=\"Z\" display=\"inline\" overflow=\"scroll\"><mrow><mi>Z</mi></mrow></math></span></span>, and the circuit is again allowed to reach steady state. Which of the following statements about the potential difference across each capacitor and the charge on each capacitor is true?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Neither will change, because the total potential difference across the capacitors is the same.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Only the charge on each capacitor will change, because the ratio of potential differences across the capacitors will remain the same.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Only the potential difference across each capacitor will change, because the charges on the capacitors must still be equal to each other.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Both will change, because the charge on each capacitor will change due to the change in total capacitance.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Electric Force, Field, and Potential"
+  },
+  "topic": {
+    "code": "10.6",
+    "text": "10.6: Capacitors"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

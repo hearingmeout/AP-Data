@@ -1,0 +1,39 @@
+{
+  "id": "GML000003",
+  "type": "mcq",
+  "title": "Circumference of a circle - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following variable declarations are most appropriate to replace &nbsp;<code class=\"dap_inline\">/* missing declarations */</code>&nbsp; in the code segment?</p>",
+    "answer": "01JV7XCY24K13NTDBSZFN14Z9X",
+    "choices": [
+      {
+        "value": "01JV7XCY230PJWA8MK6YQXFSN4",
+        "label": "<pre><code class=\"language-plaintext\">int pi = 3.14159; \nint diam = 1.5; \nfinal int circ; </code></pre>"
+      },
+      {
+        "value": "01JV7XCY24YPKYZ5STWES3V9BH",
+        "label": "<pre><code class=\"language-plaintext\">final int pi = 3.14159; \nint diam = 1.5; \nint circ; </code></pre>"
+      },
+      {
+        "value": "01JV7XCY24K13NTDBSZFN14Z9X",
+        "label": "<pre><code class=\"language-plaintext\">final double pi = 3.14159; \ndouble diam = 1.5; \ndouble circ; </code></pre>"
+      },
+      {
+        "value": "01JV7YWY2VMERJZ3KCTQT8ERVP",
+        "label": "<pre><code class=\"language-plaintext\">final double pi = 3.14159; \nfinal double diam = 1.5; \nfinal double circ = 0.0; </code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.2",
+    "text": "1.2: Variables and Data Types"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

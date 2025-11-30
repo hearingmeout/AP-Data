@@ -1,0 +1,39 @@
+{
+  "id": "EJR000003",
+  "type": "mcq",
+  "title": "ArrayList of Student - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following can replace &nbsp;<code class=\"dap_inline\">/* missing code */</code> &nbsp;so that the statement will compile without error?</p>",
+    "answer": "01JZ15S7DMFN4VGMRFW50F0K3W",
+    "choices": [
+      {
+        "value": "01JZ15S7DMW8B8RKXVK9MDFSA4",
+        "label": "<pre><code class=\"language-plaintext\">new Student ArrayList()</code></pre>"
+      },
+      {
+        "value": "01JZ15S7DMN1F9MC90RKBRG4QG",
+        "label": "<pre><code class=\"language-plaintext\">new ArrayList(Student)</code></pre>"
+      },
+      {
+        "value": "01JZ15S7DMFN4VGMRFW50F0K3W",
+        "label": "<pre><code class=\"language-plaintext\">new ArrayList&lt;Student&gt;()</code></pre>"
+      },
+      {
+        "value": "01JZ16J4WKQTXZQ1NTADV525MH",
+        "label": "<pre><code class=\"language-plaintext\">new ArrayList&lt;theaterClub&gt;()</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

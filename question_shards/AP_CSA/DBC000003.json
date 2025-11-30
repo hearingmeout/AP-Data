@@ -1,0 +1,39 @@
+{
+  "id": "DBC000003",
+  "type": "mcq",
+  "title": "Profile Class - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following declarations is the most appropriate for the&nbsp; <span class=\"dap_inline\">Profile</span>&nbsp; class?</p>",
+    "answer": "01JERRXRP3F71KHZA57S7N3PBP",
+    "choices": [
+      {
+        "value": "01JERRXRP2BBHBEG1ABHM7NJ6S",
+        "label": "<pre><code class=\"language-plaintext\">private class Profile\n{ \n   private String name; \n   private String username; \n   private int followers;\n}</code></pre>"
+      },
+      {
+        "value": "01JERRXRP3NNHXWBC1DP52QQ4Z",
+        "label": "<pre><code class=\"language-plaintext\">public class Profile\n{ \n   public String name; \n   public String username; \n   public int followers;\n}</code></pre>"
+      },
+      {
+        "value": "01JERRXRP3F71KHZA57S7N3PBP",
+        "label": "<pre><code class=\"language-plaintext\">public class Profile\n{ \n   private String name; \n   private String username; \n   private int followers;\n}</code></pre>"
+      },
+      {
+        "value": "01JERRXRP33R2EDKR0SWXF9T5J",
+        "label": "<pre><code class=\"language-plaintext\">private class Profile\n{ \n   private String name; \n   private String username; \n   private int followers;\n}</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Anatomy of a Class"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

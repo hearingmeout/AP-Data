@@ -1,0 +1,35 @@
+{
+  "id": "VR080939",
+  "type": "mcq",
+  "title": "Data not provided by user device",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR080896.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">Adrianna uses RunRoutr to suggest a running route. All compatible users near Adrianna receive a notification that shows her running route. Which of the following data is not obtained using data collected from Adrianna’s smartphone but necessary for RunRoutr to share Adrianna’s running route?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Adrianna’s average running speed</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Adrianna’s preferred running distance</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The current locations of other RunRoutr users</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The usernames on Adrianna’s contact list</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "1.2",
+    "text": "1.2: Program Function and Purpose"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Generalize data sources through variables."
+  }
+}

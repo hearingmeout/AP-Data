@@ -1,0 +1,39 @@
+{
+  "id": "VH944426",
+  "type": "mcq",
+  "title": "Measuring initial momentum",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VH944281.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include>\n<div class=\"stimulus_reference\">\n<div class=\"standalone_image\"><img alt=\"The figure presents a scatterplot in the first quadrant of the coordinate plane. The horizontal axis is labeled Time, in seconds, and the numbers 0, 0.005, and 0.0100, are indicated. The vertical axis is labeled Force Exerted on Block Y, in Newtons, and the numbers 0 through 800, in increments 100, are indicated. Eleven data points are shown. The values of the data points are as follows. Note that all values are approximate. Point 1: 0 seconds, comma 0 newtons; Point 2: 0.001 second, comma 150 newtons; Point 3: 0.002 second, comma 325 newtons. Point 4: 0.003 second, comma, 470 newtons; Point 5: 0.004 second, comma 650 newtons; Point 6: 0.005 second, comma 800 newtons; Point 7: 0.006 second, comma 640 newtons. Point 8: 0.007 second, comma 490 newtons; Point 9: 0.008 seconds, comma 325 newtons; Point 10: 0.009 second, comma 150 newtons; Point 11: 0.010 second, comma 0 newtons.\" height=\"242\" src=\"/images/e071c0b7f598b7986a0aaefc891758bb.png\" width=\"315\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">The student conducts a second experiment in which the magnitude of the force exerted on block <span class=\"math_expression\"><span aria-label=\"X\"><math alttext=\"X\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mi>X</mi></mrow></mstyle></math></span></span> from block <span class=\"math_expression\"><span aria-label=\"Y\"><math alttext=\"Y\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mi>Y</mi></mrow></mstyle></math></span></span> is measured over the time in which the collision takes place. A graph of the force as a function of time is shown. In a third experiment, the student creates a collision such that the force exerted on block <span class=\"math_expression\"><span aria-label=\"X\"><math alttext=\"X\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mi>X</mi></mrow></mstyle></math></span></span> from block <span class=\"math_expression\"><span aria-label=\"Y\"><math alttext=\"Y\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mi>Y</mi></mrow></mstyle></math></span></span> is constant for <span class=\"math_expression\"><span aria-label=\"0.020 second \"><math alttext=\"0.020 second \" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mn>0.020</mn><mtext>  </mtext><mstyle mathvariant=\"bold\"><mrow><mstyle mathvariant=\"normal\"><mrow><mi>s</mi></mrow></mstyle></mrow></mstyle></mrow></mstyle></math></span></span>. Which of the following constant forces, if exerted on block <span class=\"math_expression\"><span aria-label=\"X\"><math alttext=\"X\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mi>X</mi></mrow></mstyle></math></span></span> from block <span class=\"math_expression\"><span aria-label=\"Y\"><math alttext=\"Y\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mi>Y</mi></mrow></mstyle></math></span></span>, would produce the same change in momentum as is shown by the graph?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"100 newtons \"><math alttext=\"100 newtons \" overflow=\"scroll\"><mrow><mn>100</mn><mtext> </mtext><mstyle mathvariant=\"normal\"><mi>N</mi></mstyle></mrow></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"200 newtons \"><math alttext=\"200 newtons \" overflow=\"scroll\"><mrow><mn>200</mn><mtext> </mtext><mstyle mathvariant=\"normal\"><mi>N</mi></mstyle></mrow></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"400 newtons \"><math alttext=\"400 newtons \" overflow=\"scroll\"><mstyle><mrow><mn>400</mn><mtext> </mtext><mstyle mathvariant=\"normal\"><mi>N</mi></mstyle></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"800 newtons \"><math alttext=\"800 newtons \" overflow=\"scroll\"><mstyle><mrow><mn>800</mn><mtext> </mtext><mstyle mathvariant=\"normal\"><mi>N</mi></mstyle></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Linear Momentum"
+  },
+  "topic": {
+    "code": "4.2",
+    "text": "4.2: Change in Momentum and Impulse"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Calculate or estimate an unknown quantity with units from known quantities, by selecting and following a logical computational pathway."
+  }
+}

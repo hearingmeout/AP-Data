@@ -1,0 +1,39 @@
+{
+  "id": "FT561598",
+  "type": "mcq",
+  "title": "Graph of isobaric and isothermal processes",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows a graph withorigin at lower left and with the horizontal axis labeled V and the vertical axis labeled P. There are 3 evenly spaced tick marks along the horizontal axis labeled zero, V sub zero, and 2 V sub zero from left to right.  There is one tick mark onthe vertical axis at the bottom that is labeled zero. Three points on the graph are labeled 1, 2,and 3.  Point 1is directly above the 2 V sub zerotickmark.  Point 3 is directly above point 1.Point 2 is to the left of point 3, directly above the V sub zerotickmark. The graph begins at point 1, curving up to the left to point 2, with an arrow pointing along the curve in that direction. From point 2, the graph is a straight horizontal lineto the right that goes to point 3, with an arrow pointing in that direction.\" height=\"200\" src=\"/images/c3afd3305b1d3c57ddbaa75d0b307d41.png\" width=\"310\"></p>\n\n<p>An ideal gas is initially in state 1 at a temperature of 200 K. The gas is taken through the two reversible thermodynamic processes shown in the PV diagram above. The process from state 1 to state 2 is isothermal. The process from state 2 to state 3 is isobaric. What is the temperature of the gas when it is in state 3?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>800 K </p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>400 K </p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>200 K </p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>100 K</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Thermodynamics"
+  },
+  "topic": {
+    "code": "9.2",
+    "text": "9.2: The Ideal Gas Law"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Calculate or estimate an unknown quantity with units from known quantities, by selecting and following a logical computational pathway."
+  }
+}

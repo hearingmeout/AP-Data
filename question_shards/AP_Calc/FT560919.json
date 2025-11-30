@@ -1,0 +1,43 @@
+{
+  "id": "FT560919",
+  "type": "mcq",
+  "title": "L'Hospital's Rule",
+  "content": {
+    "prompt": "&nbsp;<span aria-label=\"limit x rightarrow 1 of the fraction with numerator x squared minus 1 and denominator sine of pi x\"><math> <semantics> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>x</mi> <mo>→</mo> <mn>1</mn> </mrow> </munder> <mo>&nbsp;</mo> <mfrac> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>−</mo> <mn>1</mn> </mrow> <mrow> <mi>sin</mi> <mo stretchy=\"false\">(</mo> <mi>π</mi> <mi>x</mi> <mo stretchy=\"false\">)</mo> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaCbeaeaaqaaaaaaaaaWdbiGacYgacaGGPbGaaiyBaaWcpaqaa8qacaWG4bGaeyOKH4QaaGymaaWdaeqaaOWdbiaacckadaWcaaWdaeaapeGaamiEa8aadaahaaWcbeqaa8qacaaIYaaaaOGaeyOeI0IaaGymaaWdaeaapeGaci4CaiaacMgacaGGUbGaaiikaiabec8aWjaadIhacaGGPaaaaaaa@491E@</annotation> </semantics> </math></span>&nbsp;is",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>-2</p>"
+      },
+      {
+        "label": "<span aria-label=\"negative 2 over pi\"><math> <semantics> <mrow> <mo>−</mo> <mfrac> <mn>2</mn> <mi>π</mi> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacqGHsisldaWcaaWdaeaapeGaaGOmaaWdaeaapeGaeqiWdahaaaaa@39C8@</annotation> </semantics> </math></span>",
+        "value": "i1"
+      },
+      {
+        "value": "i2",
+        "label": "<p>0</p>"
+      },
+      {
+        "label": "<span aria-label=\"2 over pi\"><math> <semantics> <mrow> <mfrac> <mn>2</mn> <mi>π</mi> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWcaaWdaeaapeGaaGOmaaWdaeaapeGaeqiWdahaaaaa@38DB@</annotation> </semantics> </math></span>",
+        "value": "i3"
+      },
+      {
+        "value": "i4",
+        "label": "<p>nonexistent</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Contextual Applications of Differentiation"
+  },
+  "topic": {
+    "code": "4.7",
+    "text": "4.7: Using L'Hospital's Rule for Determining Limits of Indeterminate Forms"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

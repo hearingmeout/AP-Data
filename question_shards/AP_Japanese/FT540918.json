@@ -1,0 +1,35 @@
+{
+  "id": "FT540918",
+  "type": "mcq",
+  "title": "Instructions for passengers",
+  "content": {
+    "prompt": "<p>What instructions are given in the announcement?</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Be at the gate by 4:30</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Contact an airline representative</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Check the monitor for further information</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Wait in the gate area</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Factors That Impact the Quality of Life"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

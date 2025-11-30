@@ -1,0 +1,35 @@
+{
+  "id": "FT534812",
+  "type": "mcq",
+  "title": "Horoscope - identify supporting / relevant details",
+  "content": {
+    "prompt": "<p>Che cosa consiglia l’oroscopo agli Acquari di fare in questo giorno?</p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Passare del tempo da soli</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Evitare le attività costose</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Seguire dei lavori in casa</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Interagire con le persone semplici</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: The Influence of Language and Culture on Identity"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "VR012640",
+  "type": "mcq",
+  "title": "DrawLine on a coordinate grid",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following can be used to replace <span class=\"inline_code\">&lt;MISSING CODE&gt;</span> so that the figure is drawn correctly?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">DrawLine (startX, startY, endX, endY)</p><p class=\"code_line\">endY <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> endY - 2</p></div>",
+        "value": "i1"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">DrawLine (startX, startY, endX, endY)</p><p class=\"code_line\">endX <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> endX - 2</p><p class=\"code_line\">endY <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> endY - 2</p></div>",
+        "value": "i2"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">endY <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> endY - 2</p><p class=\"code_line\">DrawLine (startX, startY, endX, endY)</p></div>",
+        "value": "i3"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">endX <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> endX - 2</p><p class=\"code_line\">endY <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> endY - 2</p><p class=\"code_line\">DrawLine (startX, startY, endX, endY)</p></div>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.12",
+    "text": "3.12: Calling Procedures"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Use abstraction to manage complexity in a program."
+  }
+}

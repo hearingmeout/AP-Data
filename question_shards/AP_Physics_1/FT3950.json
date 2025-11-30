@@ -1,0 +1,39 @@
+{
+  "id": "FT3950",
+  "type": "mcq",
+  "title": "Velocity of center of mass after explosion",
+  "content": {
+    "prompt": "<p><img alt=\"The figure consists of 2 separate figures, each with a spaceship and a pod. The spaceship is a large triangle and the pod is a shaded triangle that is much smaller than the larger triangle. The pod is to the left of the spaceship. The top figure shows the pod and spaceship connected by their bases. To the right of the spaceship is a horizontal direction arrow pointing right and labeled v. The bottom figure shows the pod a small distance to the left of the spaceship. To the right of the spaceship is a horizontal directional arrow pointing right and labeled v sub f. To the right of the pod is a right directional arrow labeled v sub p. \" src=\"/images/c81cd0561ead2fd6b84b7d0ad714c3c8.png\"></p><p>A spaceship and its shuttle pod are traveling to the right in a straight line with speed <em>v</em>, as shown in the top figure above. The mass of the pod is <em>m</em>, and the mass of the spaceship is 6<em>m</em>. The pod is launched, and afterward the pod is moving to the right with speed <em>v<sub>p</sub></em> and the spaceship is moving to the right with speed where <em>v<sub>f</sub></em> &gt; <em>v,</em> as shown in the bottom figure. Which of the following is true of the speed <em>v<sub>c</sub></em> of the center of mass of the system after the pod is launched?</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p><em>v<sub>c</sub></em> = <em>v<sub>f</sub></em></p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><em>v</em> &lt; <em>v<sub>c</sub></em> &lt; <em>v<sub>f</sub></em></p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p><em>v<sub>c</sub></em> &lt; <em>v</em></p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p><em>v<sub>c</sub> = v</em></p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Linear Momentum"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Conservation of Linear Momentum"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

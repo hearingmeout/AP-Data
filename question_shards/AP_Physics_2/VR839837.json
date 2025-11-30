@@ -1,0 +1,39 @@
+{
+  "id": "VR839837",
+  "type": "mcq",
+  "title": "4 capacitors set - C-equivalent of C1 C2 C3 and C4",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR839836.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">Which of the following equations could be used to determine the equivalent capacitance <span class=\"math_expression\"><span aria-label=\"C sub equivalent\"><math alttext=\"C sub equivalent\" display=\"inline\" overflow=\"scroll\"><msub><mi>C</mi><mtext>eq</mtext></msub></math></span></span> for the combination of four capacitors?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"C sub equivalent, equals C sub 1, end sub, plus, C sub 2, end sub, plus, the fraction 1 over C sub 3, end fraction, plus, the fraction 1 over C sub 4\"><math alttext=\"C sub equivalent, equals C sub 1, end sub, plus, C sub 2, end sub, plus, the fraction 1 over C sub 3, end fraction, plus, the fraction 1 over C sub 4\" display=\"inline\" overflow=\"scroll\"><msub><mi>C</mi><mtext>eq</mtext></msub><mo>=</mo><msub><mi>C</mi><mn>1</mn></msub><mo>+</mo><msub><mi>C</mi><mn>2</mn></msub><mo>+</mo><mfrac><mn>1</mn><msub><mi>C</mi><mn>3</mn></msub></mfrac><mo>+</mo><mfrac><mn>1</mn><msub><mi>C</mi><mn>4</mn></msub></mfrac></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"C sub equivalent, equals C sub 1, end sub, plus C sub 2, end sub, plus, the complex fraction with numerator 1, and denominator open parenthesis, the fraction 1 over C sub 3, end fraction, plus the fraction 1 over C sub 4, end fraction, close parenthesis, end complex fraction\"><math alttext=\"C sub equivalent, equals C sub 1, end sub, plus C sub 2, end sub, plus, the complex fraction with numerator 1, and denominator open parenthesis, the fraction 1 over C sub 3, end fraction, plus the fraction 1 over C sub 4, end fraction, close parenthesis, end complex fraction\" display=\"inline\" overflow=\"scroll\"><msub><mi>C</mi><mtext>eq</mtext></msub><mo>=</mo><msub><mi>C</mi><mn>1</mn></msub><mo>+</mo><msub><mi>C</mi><mn>2</mn></msub><mo>+</mo><mfrac><mn>1</mn><mrow><mo>(</mo><mfrac><mn>1</mn><msub><mi>C</mi><mn>3</mn></msub></mfrac><mo>+</mo><mfrac><mn>1</mn><msub><mi>C</mi><mn>4</mn></msub></mfrac><mo>)</mo></mrow></mfrac></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction 1 over C sub equivalent, equals the fraction 1 over C sub 1, end fraction, plus the fraction 1 over C sub 2, end fraction, plus the fraction with numerator 1, and denominator open parenthesis, C sub 3, end sub, plus C sub 4, close parenthesis, end fraction\"><math alttext=\"the fraction 1 over C sub equivalent, equals the fraction 1 over C sub 1, end fraction, plus the fraction 1 over C sub 2, end fraction, plus the fraction with numerator 1, and denominator open parenthesis, C sub 3, end sub, plus C sub 4, close parenthesis, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mn>1</mn><msub><mi>C</mi><mtext>eq</mtext></msub></mfrac><mo>=</mo><mfrac><mn>1</mn><msub><mi>C</mi><mn>1</mn></msub></mfrac><mo>+</mo><mfrac><mn>1</mn><msub><mi>C</mi><mn>2</mn></msub></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mo>(</mo><msub><mi>C</mi><mn>3</mn></msub><mo>+</mo><msub><mi>C</mi><mn>4</mn></msub><mo>)</mo></mrow></mfrac></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction 1 over C sub equivalent, equals the fraction with numerator 1, and denominator open parenthesis, C sub 1, end sub, plus C sub 2, close parenthesis, end fraction, plus the fraction with numerator 1, and denominator open parenthesis, C sub 3, end sub, plus C sub 4, close parenthesis, end fraction\"><math alttext=\"the fraction 1 over C sub equivalent, equals the fraction with numerator 1, and denominator open parenthesis, C sub 1, end sub, plus C sub 2, close parenthesis, end fraction, plus the fraction with numerator 1, and denominator open parenthesis, C sub 3, end sub, plus C sub 4, close parenthesis, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mn>1</mn><msub><mi>C</mi><mtext>eq</mtext></msub></mfrac><mo>=</mo><mfrac><mn>1</mn><mrow><mo>(</mo><msub><mi>C</mi><mn>1</mn></msub><mo>+</mo><msub><mi>C</mi><mn>2</mn></msub><mo>)</mo></mrow></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mo>(</mo><msub><mi>C</mi><mn>3</mn></msub><mo>+</mo><msub><mi>C</mi><mn>4</mn></msub><mo>)</mo></mrow></mfrac></mstyle></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.8",
+    "text": "11.8: Resistor-Capacitor (RC) Circuits"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "VH942313",
+  "type": "mcq",
+  "title": "Example of Formal Language",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VH942309.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">¿Cuál es un ejemplo de lenguaje formal en el fragmento?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">“Tu padre te llama.”</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">“¿Qué manda Vueseñoría?”</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">“¿Por qué vienes de esa suerte?”</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">“De aquí allá hay larga jornada.”</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: El siglo XVII"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Situate textual language and registers within historical, social, and geopolitical contexts."
+  }
+}

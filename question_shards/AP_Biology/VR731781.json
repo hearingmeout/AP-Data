@@ -1,0 +1,39 @@
+{
+  "id": "VR731781",
+  "type": "mcq",
+  "title": "Fly body color SM2",
+  "content": {
+    "prompt": "<div>\n<include href=\"../Passage/VR731779.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include><div class=\"stimulus_reference\"><div class=\"passage\"><div class=\"prose style:1\"><p class=\"passage_para\">Using a <span class=\"math_expression\"><span aria-label=\"p\"><math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mi>p</mi></math></span></span>-value of <span class=\"math_expression\"><span aria-label=\"0.05\"><math alttext=\"0.05\" display=\"inline\" overflow=\"scroll\"><mtext>0.05</mtext></math></span></span>, researchers performed a chi-square analysis of the distribution of phenotypes in the <span class=\"math_expression\"><span aria-label=\"F 2\"><math alttext=\"F 2\" display=\"inline\" overflow=\"scroll\"><msub><mtext>F</mtext><mn>2</mn></msub></math></span></span> generation.</p></div></div></div>\n</div><p class=\"stem_paragraph\">Which of the following chi-square calculated values would cause the researchers to reject their null hypothesis?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"0.73\"><math alttext=\"0.73\" display=\"inline\" overflow=\"scroll\"><mtext>0.73</mtext></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"2.16\"><math alttext=\"2.16\" display=\"inline\" overflow=\"scroll\"><mtext>2.16</mtext></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"4.35\"><math alttext=\"4.35\" display=\"inline\" overflow=\"scroll\"><mtext>4.35</mtext></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"7.98\"><math alttext=\"7.98\" display=\"inline\" overflow=\"scroll\"><mtext>7.98</mtext></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Heredity"
+  },
+  "topic": {
+    "code": "5.4",
+    "text": "5.4: Non-Mendelian Genetics"
+  },
+  "skill": {
+    "code": "5.C",
+    "text": "5.C: Perform chi-square hypothesis testing."
+  }
+}

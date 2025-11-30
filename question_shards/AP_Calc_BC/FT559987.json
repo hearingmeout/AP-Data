@@ -1,0 +1,39 @@
+{
+  "id": "FT559987",
+  "type": "mcq",
+  "title": "Determine limits from graphical functions",
+  "content": {
+    "prompt": "Which of the following statements is false?",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<span aria-label=\"limit x to 1 of f times x is equal to 0\"><math> <mrow> <munder> <mrow> <mi>lim</mi></mrow> <mrow> <mi>x</mi><mo>→</mo><mn>1</mn></mrow> </munder> <mi>f</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mo>=</mo><mn>0</mn></mrow> </math></span>",
+        "value": "i0"
+      },
+      {
+        "label": "<span aria-label=\"limit x to 2 of g times x\"><math> <mrow> <munder> <mrow> <mi>lim</mi></mrow> <mrow> <mi>x</mi><mo>→</mo><mn>2</mn></mrow> </munder> <mi>g</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow></mrow> </math></span>&nbsp;does not exist.",
+        "value": "i1"
+      },
+      {
+        "label": "<span aria-label=\"limit x to 1 of open paren f x g open paren x plus 1 close paren close paren\"><math> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>x</mi> <mo>→</mo> <mn>1</mn> </mrow> </munder> <mrow> <mo>(</mo> <mrow> <mi>f</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mi>g</mi> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>+</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mo>)</mo> </mrow> </mrow> </math></span>&nbsp;does not exist.",
+        "value": "i2"
+      },
+      {
+        "label": "<span aria-label=\"limit x to 1 of open paren f open paren x plus 1 close paren g x close paren\"><math> <mrow> <munder> <mrow> <mi>lim</mi></mrow> <mrow> <mi>x</mi><mo>→</mo><mn>1</mn></mrow> </munder> <mrow><mo>(</mo> <mrow> <mi>f</mi><mrow><mo>(</mo> <mrow> <mi>x</mi><mo>+</mo><mn>1</mn></mrow> <mo>)</mo></mrow><mi>g</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow></mrow> <mo>)</mo></mrow></mrow> </math></span>&nbsp;exists.",
+        "value": "i3"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Estimating Limit Values from Graphs"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Identify mathematical information from graphical, numerical, analytical, and/or verbal representations."
+  }
+}

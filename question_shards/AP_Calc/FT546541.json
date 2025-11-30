@@ -1,0 +1,43 @@
+{
+  "id": "FT546541",
+  "type": "mcq",
+  "title": "Differentiate compoosition of composition",
+  "content": {
+    "prompt": "If <em>f</em>(<em>x</em>) = ln(ln <em>x</em>) , then <em>f'</em>(<em>x</em>) =",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "1/<em>x</em>",
+        "value": "i0"
+      },
+      {
+        "label": "1/ln <em>x</em>",
+        "value": "i1"
+      },
+      {
+        "label": "ln <em>x</em>/<em>x</em>",
+        "value": "i2"
+      },
+      {
+        "label": "<em>x</em>",
+        "value": "i3"
+      },
+      {
+        "label": "1/<em>x&nbsp;</em>ln&nbsp;<em>x</em>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: The Chain Rule"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Identify an appropriate mathematical rule or procedure based on the classification of a given expression (e.g., Use the chain rule to find the derivative of a composite function)."
+  }
+}

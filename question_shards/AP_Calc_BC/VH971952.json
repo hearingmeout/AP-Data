@@ -1,0 +1,39 @@
+{
+  "id": "VH971952",
+  "type": "mcq",
+  "title": "Processes - Higher-Order Derivatives",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Let <span class=\"math_expression\"><span aria-label=\"f\"><math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math></span></span> be the function given by <span class=\"math_expression\"><span aria-label=\"f of x, equals the negative of the fraction 32 over x, end fraction, plus x cubed\"><math alttext=\"f of x, equals the negative of the fraction 32 over x, end fraction, plus x cubed\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mrow><mo>−</mo><mfrac><mrow><mn>32</mn></mrow><mrow><mi>x</mi></mrow></mfrac></mrow><mo>+</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mstyle></math></span></span> on the closed interval <span class=\"math_expression\"><span aria-label=\"open bracket, 1 comma 4, close bracket\"><math alttext=\"open bracket, 1 comma 4, close bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo stretchy=\"false\">[</mo><mn>1</mn><mo>,</mo><mn>4</mn><mo stretchy=\"false\">]</mo></mrow></mstyle></math></span></span>. What is the instantaneous rate of change of <span class=\"math_expression\"><span aria-label=\"f prime\"><math alttext=\"f prime\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup></mrow></mstyle></math></span></span> at <span class=\"math_expression\"><span aria-label=\"x equals 2\"><math alttext=\"x equals 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>2</mn></mrow></mstyle></math></span></span> ?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"negative 8\"><math alttext=\"negative 8\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>−</mo><mn>8</mn></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">4</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">5</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">20</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.6",
+    "text": "3.6: Calculating Higher-Order Derivatives"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

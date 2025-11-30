@@ -1,0 +1,39 @@
+{
+  "id": "WQX000004",
+  "type": "mcq",
+  "title": "Counting values in an array - describe behavior",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following best describes the value printed by the code segment?</p>",
+    "answer": "01JGPJT0B8GT2YK89PC2EFD92X",
+    "choices": [
+      {
+        "value": "01JGPJT0B7SW4VS740C2RKKS2T",
+        "label": "<p class=\"dap_body\">The number of negative elements in &nbsp;<span class=\"dap_inline\">data</span></p>"
+      },
+      {
+        "value": "01JGPJT0B8HJ0ZS7NW55FP52GR",
+        "label": "<p class=\"dap_body\">The number of positive elements in&nbsp; <span class=\"dap_inline\">data</span></p>"
+      },
+      {
+        "value": "01JGPJT0B8GT2YK89PC2EFD92X",
+        "label": "<p class=\"dap_body\">The number of elements in &nbsp;<span class=\"dap_inline\">data</span> &nbsp;that are greater than the first element in &nbsp;<span class=\"dap_inline\">data</span></p>"
+      },
+      {
+        "value": "01JGPJT0B8CVQQC4KT37WWRBZ8",
+        "label": "<p class=\"dap_body\">The number of elements in &nbsp;<span class=\"dap_inline\">data</span> &nbsp;that are less than than the first element in &nbsp;<span class=\"dap_inline\">data</span></p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implementing Array Algorithms"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT540021",
+  "type": "mcq",
+  "title": "Determine dollar amount of tax from graph",
+  "content": {
+    "prompt": "<p>According to the diagram, what is the dollar amount of the unit tax?</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>$0.00</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>$0.45</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>$0.55</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>$1.00</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>$1.45</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Supply and Demand"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: The Effects of Government Intervention in Markets"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Interpret a specific economic outcome using quantitative data or calculations."
+  }
+}

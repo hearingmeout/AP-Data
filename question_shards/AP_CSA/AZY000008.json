@@ -1,0 +1,39 @@
+{
+  "id": "AZY000008",
+  "type": "mcq",
+  "title": "Error in method - explain why will not compile",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following best explains why the&nbsp; <code class=\"dap_inline\">computeArea</code><span>&nbsp; </span>method will not compile?</p>",
+    "answer": "01JVAFKS7ERW0JGVE91JXPA3KP",
+    "choices": [
+      {
+        "value": "01JVAFKS7ERW0JGVE91JXPA3KP",
+        "label": "<p class=\"dap_body\">Local variables declared inside a method cannot be declared as&nbsp; <code class=\"dap_inline\">public</code><span>&nbsp; </span>or&nbsp; <code class=\"dap_inline\">private</code>.</p>"
+      },
+      {
+        "value": "01JVAFKS7E8QGGE3D23NXB9S0T",
+        "label": "<p class=\"dap_body\">Local variables declared inside a method must all be&nbsp; <code class=\"dap_inline\">private</code>.</p>"
+      },
+      {
+        "value": "01JVAFKS7F0BVGS7F8GQEMJDK6",
+        "label": "<p class=\"dap_body\">Local variables declared inside a method must all be&nbsp; <code class=\"dap_inline\">public</code>.</p>"
+      },
+      {
+        "value": "01JVAGB32J4AG568HEDTTQYTJK",
+        "label": "<p class=\"dap_body\">Local variables used inside a method must be declared before the method header.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.8",
+    "text": "3.8: Scope and Access"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

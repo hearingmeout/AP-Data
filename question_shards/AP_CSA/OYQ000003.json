@@ -1,0 +1,39 @@
+{
+  "id": "OYQ000003",
+  "type": "mcq",
+  "title": "Dog Class missing constructor - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What is printed as a result of executing this code segment?</p>",
+    "answer": "01JERSV91XTVZKA1WFR4YP8XQW",
+    "choices": [
+      {
+        "value": "01JERSV91WG1A4Z8CFDBDVZEX9",
+        "label": "<pre><code class=\"language-plaintext\">name: , age: 0</code></pre>"
+      },
+      {
+        "value": "01JERSV91XTVZKA1WFR4YP8XQW",
+        "label": "<pre><code class=\"language-plaintext\">name: null, age: 0</code></pre>"
+      },
+      {
+        "value": "01JERSV91XRJG8GZFX3QXZD6V6",
+        "label": "<pre><code class=\"language-plaintext\">name: null, age: null</code></pre>"
+      },
+      {
+        "value": "01JERSV91XDVXKMTGPFR0F6Q3C",
+        "label": "<p class=\"dap_body\">Nothing is printed. An error occurs because the <span class=\"dap_inline\">Dog</span> class does not contain a no-parameter constructor.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.4",
+    "text": "3.4: Constructors"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

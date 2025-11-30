@@ -1,0 +1,35 @@
+{
+  "id": "FT535625",
+  "type": "mcq",
+  "title": "The African merchant - Amaya's trip to town",
+  "content": {
+    "prompt": "<p>Amaya est allée en ville ce jour-là pour</p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>faire la demande d'une nouvelle carte d'identité</p>"
+      },
+      {
+        "label": "vendre des marchandises au responsable et à ses subordonnés",
+        "value": "i1"
+      },
+      {
+        "label": "récupérer la carte d’identité qu’on lui avait prise",
+        "value": "i2"
+      },
+      {
+        "label": "se disputer avec le responsable au sujet de sa décision",
+        "value": "i3"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: The Influence of Language and Culture on Identity"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

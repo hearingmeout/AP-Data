@@ -1,0 +1,43 @@
+{
+  "id": "FT540758",
+  "type": "mcq",
+  "title": "Which block will start sliding first based on data",
+  "content": {
+    "prompt": "<img alt=\"The figure shows a table with four columns and two rows of data. The first column lists 'Block 1' and 'Block 2'. The second column is titled 'Mass (kg)', the third column is titled 'Area (cm squared), the fourth column is titled 'µ sub s'. The first row is labeled 'Block 1' and lists 0.75 for Mass (kg), 75 for Area (cm squared), and 0.20 for µ sub s. The second row is labeled 'Block 2' and lists 3.0 for Mass (kg), 100 for Area (cm squared), and 0.40 for µ sub s. \" src=\"/images/8b7a8c1d50357b9d04f3b1eb58b604fd.png\"><br>\nIn an experiment, two blocks of different roughness are placed on the same rough wooden board. The table above shows three values for each block: the mass, the area of the block in contact with the board, and the coefficient of static friction&nbsp;<span aria-label=\"mu sub s\"><math> <semantics> <mrow> <msub> <mi>μ</mi> <mi>s</mi> </msub> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacqaH8oqBpaWaaSbaaSqaa8qacaWGZbaapaqabaaaaa@391E@ </annotation> </semantics> </math></span>&nbsp;between the block and the board. The experiment begins with the board horizontal. One end of the board is then slowly raised. Which of the following correctly identifies the block that will start sliding down the board first and why?",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Block 1, because it has less mass per unit area</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Block 1, because the coefficient of friction is smaller</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Block 2, because it has greater mass</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Block 2, because it has a smaller surface area</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>Block 2, because the coefficient of friction is larger</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Force and Translational Dynamics"
+  },
+  "topic": {
+    "code": "2.7",
+    "text": "2.7: Kinetic and Static Friction"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

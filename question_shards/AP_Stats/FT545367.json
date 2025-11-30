@@ -1,0 +1,43 @@
+{
+  "id": "FT545367",
+  "type": "mcq",
+  "title": "Compute IQR from boxplot of penny age",
+  "content": {
+    "prompt": "<p>A random sample of 374 United States pennies was collected, and the age of each penny was determined. According to the boxplot below, what is the approximate interquartile range (IQR) of the ages?</p>\n\n<p><img alt=\"A vertical box plot is shown with age on the vertical axis from 0 to 50 in increments of 10 years and an unlabeled horizontal axis. There is a rectangle that extends from about 3 to about 19 vertically, with a horizontal line dividing it into two sections at a height of about 10. A vertical line extends down to about 0 from the bottom of the rectangle, and another vertical line extends up to about 40 from the top of the rectangle. There is an asterisk on the plot above the upper line at a height of about 50.\" height=\"218\" src=\"/images/d54e30fbda2db75982bc782a13a56640.png\" width=\"405\"></p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>8</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>10</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>16</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>40</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>50</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.7",
+    "text": "1.7: Summary Statistics for a Quantitative Variable"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}

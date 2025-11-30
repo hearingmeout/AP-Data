@@ -1,0 +1,39 @@
+{
+  "id": "DSX000007",
+  "type": "mcq",
+  "title": "Initialize array - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following code segments can be used replace&nbsp; <span class=\"dap_inline\">/* missing code */</span> &nbsp;so that the code segment sets the contents of the array to &nbsp;<span class=\"dap_inline\">{0, 1, 2}</span>?&nbsp;</p>",
+    "answer": "01JH65SEJM6XNY687TQXBEJ163",
+    "choices": [
+      {
+        "value": "01JH65SEJJ6HP9ZFQ9NXBAM18W",
+        "label": "<pre><code class=\"language-plaintext\">int[] sequence;</code></pre>"
+      },
+      {
+        "value": "01JH65SEJKHDDP39712KJ719ZK",
+        "label": "<pre><code class=\"language-plaintext\">int[] sequence = new int[1];</code></pre>"
+      },
+      {
+        "value": "01JH65SEJM172GC5T6JH0TJVQ3",
+        "label": "<pre><code class=\"language-plaintext\">int[] sequence = new int[2];</code></pre>"
+      },
+      {
+        "value": "01JH65SEJM6XNY687TQXBEJ163",
+        "label": "<pre><code class=\"language-plaintext\">int[] sequence = new int[3];</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Array Creation and Access"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

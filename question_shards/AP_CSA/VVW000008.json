@@ -1,0 +1,39 @@
+{
+  "id": "VVW000008",
+  "type": "mcq",
+  "title": "processNumbers - necessary precondition",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following best describes the preconditions necessary for the method to run without error?</p>",
+    "answer": "01JGPN4TNVZYVWH37HKY5T5BWX",
+    "choices": [
+      {
+        "value": "01JGPN4TNWZGCWAN27Y282X64N",
+        "label": "<p class=\"dap_body\">The&nbsp; <code class=\"dap_inline\">ArrayList</code>&nbsp; must be sorted from smallest to largest.</p>"
+      },
+      {
+        "value": "01JGPN4TNVZYVWH37HKY5T5BWX",
+        "label": "<p class=\"dap_body\">The&nbsp; <code class=\"dap_inline\">ArrayList</code>&nbsp; must contain at least one element.</p>"
+      },
+      {
+        "value": "01JGPN4TNW7EVV693TEM5K18N0",
+        "label": "<p class=\"dap_body\">The&nbsp; <code class=\"dap_inline\">ArrayList</code>&nbsp; must contain at least two elements.</p>"
+      },
+      {
+        "value": "01JGPN4TNWQMSA16ZWKMGR2KM3",
+        "label": "<p class=\"dap_body\">The&nbsp; <code class=\"dap_inline\">ArrayList</code>&nbsp; must contain only positive&nbsp; <code class=\"dap_inline\">Integer</code>&nbsp; values.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

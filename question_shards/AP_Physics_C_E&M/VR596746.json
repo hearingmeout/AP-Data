@@ -1,0 +1,43 @@
+{
+  "id": "VR596746",
+  "type": "mcq",
+  "title": "Evening Classes",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"passage\">\n<div class=\"prose style:1\">\n<p class=\"passage_para\">A university that offers evening classes to a large number of students who commute to campus wants to estimate the mean commute time of all evening students. A parking facilities attendant selects one parking lot on campus, then selects the first <span class=\"math_expression\"><span aria-label=\"60\"><math alttext=\"60 students\" overflow=\"scroll\"> <mn>60</mn> </math></span></span>&nbsp;students who drive into the lot on a certain evening. Each of the <span class=\"math_expression\"><span aria-label=\"60\"><math alttext=\"60 students\" overflow=\"scroll\"> <mn>60</mn> </math></span></span>&nbsp;students is asked to provide their typical commute time to campus. The university will create a confidence interval for the mean commute time of evening students.</p>\n</div>\n</div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">Are the conditions for inference satisfied?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Yes, all conditions for inference are satisfied.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No, because the distribution of the population mean commute time is not known to be normally distributed.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No, because the sample size is greater than <span class=\"math_expression\"><span aria-label=\"10%\"><math alttext=\"10%\" overflow=\"scroll\"><mstyle><mrow><mn>10</mn><mo>%</mo></mrow></mstyle></math></span></span> of the population size.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No, because the students selected are not a random sample of all evening students.</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No, because the sample size of <span class=\"math_expression\"><span aria-label=\"60\"><math alttext=\"60\" overflow=\"scroll\"><mn>60</mn></math></span></span> is not large enough to assume that the sampling distribution of the sample mean commute time is approximately normal.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.2",
+    "text": "7.2: Constructing a Confidence Interval for a Population Mean"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Verify that inference procedures apply in a given situation."
+  }
+}

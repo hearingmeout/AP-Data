@@ -1,0 +1,43 @@
+{
+  "id": "VR026873",
+  "type": "mcq",
+  "title": "Conclusion for test of mean teacher hours worked",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Is there convincing statistical evidence, at the level of <span class=\"math_expression\"><span aria-label=\"alpha equals 0.05\" role=\"math\"><math alttext=\"alpha equals 0.05\" overflow=\"scroll\"> <mstyle> <mrow> <mi>α</mi> <mo>=</mo> <mn>0.05</mn> </mrow> </mstyle> </math></span></span>, that the average number of hours worked per week at part-time jobs decreased after the salary increase?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">No. The <span class=\"math_expression\"><span aria-label=\"p\"><math alttext=\"p\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math></span></span>-value of the appropriate test is greater than <span class=\"math_expression\"><span aria-label=\"0.05\"><math alttext=\"0.05\" overflow=\"scroll\"><mstyle><mrow><mn>0.05</mn></mrow></mstyle></math></span></span>.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No. The <span class=\"math_expression\"><span aria-label=\"p\"><math alttext=\"p\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math></span></span>-value of the appropriate test is less than <span class=\"math_expression\"><span aria-label=\"0.05\"><math alttext=\"0.05\" overflow=\"scroll\"><mstyle><mrow><mn>0.05</mn></mrow></mstyle></math></span></span>.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Yes. The <span class=\"math_expression\"><span aria-label=\"p\"><math alttext=\"p\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math></span></span>-value of the appropriate test is greater than <span class=\"math_expression\"><span aria-label=\"0.05\"><math alttext=\"0.05\" overflow=\"scroll\"><mstyle><mrow><mn>0.05</mn></mrow></mstyle></math></span></span>.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Yes. The <span class=\"math_expression\"><span aria-label=\"p\"><math alttext=\"p\" overflow=\"scroll\"><mrow><mi>p</mi></mrow></math></span></span>-value of the appropriate test is less than <span class=\"math_expression\"><span aria-label=\"0.05\"><math alttext=\"0.05\" overflow=\"scroll\"><mstyle><mrow><mn>0.05</mn></mrow></mstyle></math></span></span>.</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Not enough information is given to determine whether there is convincing statistical evidence.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.5",
+    "text": "7.5: Carrying Out a Test for a Population Mean"
+  },
+  "skill": {
+    "code": "Skill 4.E",
+    "text": "Skill 4.E: Justify a claim using a decision based on significance tests."
+  }
+}

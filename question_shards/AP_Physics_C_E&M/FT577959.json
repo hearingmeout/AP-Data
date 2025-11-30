@@ -1,0 +1,43 @@
+{
+  "id": "FT577959",
+  "type": "mcq",
+  "title": "Current in inductor after steady state is reached",
+  "content": {
+    "prompt": "<p>All switches are open, and there is no stored energy in the capacitor or the inductor. Switch S<sub>3</sub> is closed. What is the current in the inductor after steady state has been reached? </p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<span aria-label=\"epsilon over cap l cap r\"><math> <semantics> <mrow> <mfrac> <mi>ε</mi> <mrow> <mi>L</mi> <mi>R</mi> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaeqyTdugapaqaa8qacaWGmbGaamOuaaaaaaa@39B3@ </annotation> </semantics> </math></span>",
+        "value": "i0"
+      },
+      {
+        "label": "<span aria-label=\"epsilon cap r over cap l\"><math> <semantics> <mrow> <mfrac> <mrow> <mi>ε</mi> <mi>R</mi> </mrow> <mi>L</mi> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaeqyTduMaamOuaaWdaeaapeGaamitaaaaaaa@39B3@ </annotation> </semantics> </math></span>",
+        "value": "i1"
+      },
+      {
+        "label": "<span aria-label=\"epsilon cap l over cap r\"><math> <semantics> <mrow> <mfrac> <mrow> <mi>ε</mi><mi>L</mi></mrow> <mi>R</mi> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaeqyTduMaamitaaWdaeaapeGaamOuaaaaaaa@39B3@ </annotation> </semantics> </math></span>",
+        "value": "i2"
+      },
+      {
+        "label": "<span aria-label=\"epsilon over cap r\"><math> <semantics> <mrow> <mfrac> <mi>ε</mi> <mi>R</mi> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaeqyTdugapaqaa8qacaWGsbaaaaaa@38E2@ </annotation> </semantics> </math></span>",
+        "value": "i3"
+      },
+      {
+        "value": "i4",
+        "label": "<p>Zero</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.3",
+    "text": "11.3: Resistance, Resistivity, and Ohm's Law"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

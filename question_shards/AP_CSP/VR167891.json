@@ -1,0 +1,35 @@
+{
+  "id": "VR167891",
+  "type": "mcq",
+  "title": "Demonstrate a problem is undecidable",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">A student wants to determine whether a certain problem is undecidable. Which of the following will demonstrate that the problem is undecidable?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Show that for one instance of the problem, an algorithm can be written that is always capable of providing a correct yes-or-no answer.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Show that for one instance of the problem, no algorithm can be written that is capable of providing a correct yes-or-no answer.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Show that for one instance of the problem, a heuristic is needed to write an algorithm that is capable of providing a correct yes-or-no answer.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Show that for one instance of the problem, an algorithm that runs in unreasonable time can be written that is capable of providing a correct yes-or-no answer.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.18",
+    "text": "3.18: Undecidable Problems"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Investigate the situation, context, or task."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "VR876944",
+  "type": "mcq",
+  "title": "LR circuits - steady state current for L and 2 Rs",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">What is the current in the battery a long time after the switch has been closed?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Zero</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"0.33 milliamp\"><math alttext=\"0.33 milliamp\" overflow=\"scroll\"><mn>0.33</mn><mspace width=\"0.2em\"></mspace><mtext>mA</mtext></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"1.0 milliamp\"><math alttext=\"1.0 milliamp\" overflow=\"scroll\"><mn>1.0</mn><mspace width=\"0.2em\"></mspace><mtext>mA</mtext></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"1.5 milliamps\"><math alttext=\"1.5 milliamps\" overflow=\"scroll\"><mn>1.5</mn><mspace width=\"0.2em\"></mspace><mtext>mA</mtext></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.5",
+    "text": "13.5: Circuits with Resistors and Inductors (LR Circuits)"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Calculate or estimate an unknown quantity with units from known quantities, by selecting and following a logical computational pathway."
+  }
+}

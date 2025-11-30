@@ -1,0 +1,43 @@
+{
+  "id": "VH976714",
+  "type": "mcq",
+  "title": "Description of chi-square",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following best describes the shape of the chi-square distribution when the degrees of freedom are less than 10&nbsp;?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Unimodal and symmetric</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Skewed to the right</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Skewed to the left</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Uniform</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Bimodal</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Inference for Categorical Data-Chi-Square"
+  },
+  "topic": {
+    "code": "8.2",
+    "text": "8.2: Setting up a Chi-Square Goodness of Fit Test"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Describe probability distributions."
+  }
+}

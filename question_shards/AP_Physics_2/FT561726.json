@@ -1,0 +1,39 @@
+{
+  "id": "FT561726",
+  "type": "mcq",
+  "title": "Analysis to find internal resistance of battery",
+  "content": {
+    "prompt": "<p> A group of students wants to determine the internal resistance of a battery. They connect the battery to a variable resistor. The students measure the potential difference across the battery as a function of the current through the battery as they vary the resistance. Which of the following analyses of the data could be used to determine the internal resistance of the battery? </p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Divide the potential difference across the battery by the current through it for each data point. The average of these calculations gives the internal resistance of the battery.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Graph the potential difference across the battery as a function of the current through it. Extrapolate to find the y-intercept and divide this by the average of the current measurements to find the internal resistance of the battery. </p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Find the best-fit straight line for a graph of potential difference across the battery as a function of the current through it. The absolute value of the slope represents the internal resistance of the battery. </p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>This data cannot be analyzed to give the internal resistance of the battery, because the potential difference across the battery does not depend on the current.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.3",
+    "text": "11.3: Resistance, Resistivity, and Ohm's Law"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

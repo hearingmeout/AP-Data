@@ -1,0 +1,39 @@
+{
+  "id": "CIT000005",
+  "type": "mcq",
+  "title": "Cast double x to nearest integer - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Assume that&nbsp; <span class=\"dap_inline\">x</span>&nbsp; is a&nbsp; <span class=\"dap_inline\">double</span>&nbsp; variable with a positive value. Which of the following code segments can be used to round&nbsp; <span class=\"dap_inline\">x</span>&nbsp; to the nearest integer and store the rounded value in the variable&nbsp; <span class=\"dap_inline\">result</span>?</p>",
+    "answer": "01JCGQG0G305JQQ4ZKAQN9Z0JW",
+    "choices": [
+      {
+        "value": "01JCGQG0G2SJY83JTRRAQRRMT3",
+        "label": "<pre><code class=\"language-plaintext\">int result = (int) x;</code></pre>"
+      },
+      {
+        "value": "01JCGQG0G3GY4QFS9DHHWA50AZ",
+        "label": "<pre><code class=\"language-plaintext\">int result = (int) x + 0.5;</code></pre>"
+      },
+      {
+        "value": "01JCGQG0G305JQQ4ZKAQN9Z0JW",
+        "label": "<pre><code class=\"language-plaintext\">int result = (int)(x + 0.5);</code></pre>"
+      },
+      {
+        "value": "01JCGQG0G3PZYDGHTTENB3AAHS",
+        "label": "<pre><code class=\"language-plaintext\">int result = (int) x + (int) 0.5;</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.5",
+    "text": "1.5: Casting and Range of Variables"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT3822",
+  "type": "mcq",
+  "title": "Find the location of a person on a board",
+  "content": {
+    "prompt": "<p>How far from the left end of the board is the person sitting?</p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>0.4 m</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>1.5 m</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>2 m</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>2.5 m</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>3 m</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.5",
+    "text": "5.5: Rotational Equilibrium and Newton's First Law in Rotational Form"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Calculate or estimate an unknown quantity with units from known quantities, by selecting and following a logical computational pathway."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "XNM000002",
+  "type": "mcq",
+  "title": "Point2D object - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following code segments will correctly create an instance of a &nbsp;<span class=\"dap_inline\">Point2D</span> &nbsp;object?</p>",
+    "answer": "01JQ4HG5MSSBYAZP9QJE81X6E5",
+    "choices": [
+      {
+        "value": "01JQ4GS79EH553PR6VFF62SM8G",
+        "label": "<pre><code class=\"language-plaintext\">Point2D p = Point2D(3.0, 4.0);</code></pre>"
+      },
+      {
+        "value": "01JQ4GS79FYVKJXMRN8M14546K",
+        "label": "<pre><code class=\"language-plaintext\">new p = Point2D(3.0, 4.0);</code></pre>"
+      },
+      {
+        "value": "01JQ4GS79FH43SEM6C85R3TMP8",
+        "label": "<pre><code class=\"language-plaintext\">new Point2D = p(3.0, 4.0);</code></pre>"
+      },
+      {
+        "value": "01JQ4HG5MSSBYAZP9QJE81X6E5",
+        "label": "<pre><code class=\"language-plaintext\">Point2D p = new Point2D(3.0, 4.0);</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.13",
+    "text": "1.13: Object Creation and Storage (Instantiation)"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

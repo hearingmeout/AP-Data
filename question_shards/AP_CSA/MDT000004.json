@@ -1,0 +1,39 @@
+{
+  "id": "MDT000004",
+  "type": "mcq",
+  "title": "Indexed and enhanced for loops - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following code segments will produce the same output as the given code segment?</p>",
+    "answer": "01JZ1DHCYJ4Y2M9TJB5BW5EZKA",
+    "choices": [
+      {
+        "value": "01JZ1DHCYH71K19VV4KSEFP6VE",
+        "label": "<pre><code class=\"language-plaintext\">int sum = 0; \nfor (int k = 0; k &lt; arr.length; k++) \n{ \n &nbsp; sum = sum + 2 * k; \n} \nSystem.out.print(sum); </code></pre>"
+      },
+      {
+        "value": "01JZ1DHCYH8XA26XDJDVJ53VP0",
+        "label": "<pre><code class=\"language-plaintext\">int sum = 0; \nfor (int k = 0; k &lt;= arr.length; k++) \n{ \n &nbsp; sum = sum + 2 * k; \n} \nSystem.out.print(sum); </code></pre>"
+      },
+      {
+        "value": "01JZ1DHCYJ4Y2M9TJB5BW5EZKA",
+        "label": "<pre><code class=\"language-plaintext\">int sum = 0; \nfor (int k = 0; k &lt; arr.length; k++) \n{ \n &nbsp; sum = sum + 2 * arr[k]; \n} \nSystem.out.print(sum); </code></pre>"
+      },
+      {
+        "value": "01JZ1EA9R2D7A85CR1F08SJVJX",
+        "label": "<pre><code class=\"language-plaintext\">int sum = arr[0]; \nfor (int k = 1; k &lt;= arr.length; k++) \n{ \n &nbsp; sum = sum + 2 * arr[k]; \n} \nSystem.out.print(sum); </code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.4",
+    "text": "4.4: Array Traversals"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

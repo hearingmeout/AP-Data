@@ -1,0 +1,35 @@
+{
+  "id": "FT535730",
+  "type": "mcq",
+  "title": "Result of procedure Mystery with parameter number",
+  "content": {
+    "prompt": "<p>In the procedure <em>Mystery</em> below, the parameter <em>number</em> is a positive integer.</p>\n\n<p><img alt=\"A coding program reads as follows. Line 1: Procedure Mystery (number). Line 2&quot; Left curly bracket. Line 3: indented, Repeat until left parenthesis number less than or equal to 0 right parenthesis. Line 4: indented, Left curly bracket. Line 5:  indented, number leftward arrow minus 2. Line 6: indented, Left curly bracket. Line 7: indented, If left parenthesis number equals 0 right parenthesis. Line 8: indented, Left curly bracket. Line 9: indented, Return left parenthesis true right parenthesis. Line 10: indented, Right curly bracket. Line 11: indented, Else. Line 12: Left curly bracket. Line 13: indented, Return left parenthesis false right parenthesis. Line 14: indented, Left curly bracket. Line 15: Left curly bracket.\" height=\"344\" src=\"/images/e873230f3959c393cff3398be606a401.png\" width=\"275\"></p>\n\n<p>Which of the following best describes the result of running the procedure <em>Mystery</em>?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The procedure returns <em>true</em> when the initial value of <em>number</em> is 2, and it otherwise returns<em> false</em>.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The procedure returns <em>true</em> when the initial value of <em>number</em> is greater than 2, and it otherwise returns<em> false</em>.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The procedure returns <em>true</em> when the initial value of<em> number</em> is even, and it otherwise returns <em>false</em>.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The procedure returns <em>true</em> when the initial value of <em>number</em> is odd, and it otherwise returns <em>false</em>.</p>"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.12",
+    "text": "3.12: Calling Procedures"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

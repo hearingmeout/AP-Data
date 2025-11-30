@@ -1,0 +1,39 @@
+{
+  "id": "GEU000000",
+  "type": "mcq",
+  "title": "Logarithmic Functions - identifying extrema",
+  "content": {
+    "prompt": "<div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <p class=\"dap_body\">​The logarithmic function&nbsp;<span aria-label=\"f\"><math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;is defined by&nbsp;<span aria-label=\"f open parentheses x close parentheses equals log subscript 3 x\"><math alttext=\"f open parentheses x close parentheses equals log subscript 3 x\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msub><mi>log</mi><mn>3</mn></msub><mi>x</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;on a domain of&nbsp;<span aria-label=\"f\"><math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;is&nbsp;<span aria-label=\"0 less than x less or equal than 9\"><math alttext=\"0 less than x less or equal than 9\"><semantics><mrow><mn>0</mn><mo>&lt;</mo><mi>x</mi><mo>≤</mo><mn>9</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>. Which of the following is true of&nbsp;<span aria-label=\"f\"><math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;?</p> </div> </div> </div>\n",
+    "answer": "B-23527",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"f\"><math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;has both a maximum and a minimum value.</p>",
+        "value": "A-23526"
+      },
+      {
+        "label": "<p class=\"dap_body\">​​<span aria-label=\"f\"><math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;has a maximum value, but no minimum value.</p>",
+        "value": "B-23527"
+      },
+      {
+        "label": "<p class=\"dap_body\">​​​<span aria-label=\"f\"><math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;has a minimum value, but no maximum value.</p>",
+        "value": "C-23528"
+      },
+      {
+        "label": "<p class=\"dap_body\">​​​<span aria-label=\"f\"><math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;has neither a minimum value nor a maximum value.</p>",
+        "value": "D-23529"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.11",
+    "text": "2.11: Logarithmic Functions"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Describe the characteristics of a function with varying levels of precision, depending on the function representation and available mathematical tools."
+  }
+}

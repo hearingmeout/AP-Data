@@ -1,0 +1,39 @@
+{
+  "id": "FT659906",
+  "type": "mcq",
+  "title": "goAgain with String and int parameter",
+  "content": {
+    "prompt": "<p>Consider the following method.</p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">public String goAgain(String str, int index)</span></span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">{</span></span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">&nbsp; if (index &gt;= str.length())</span></span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">&nbsp; &nbsp; return str;</span></span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\">&nbsp;</p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">&nbsp; return str + goAgain(str.substring(index), index + 1);</span></span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">}</span></span></span></span></span></p>\n<p style=\"margin-bottom:0px\">&nbsp;</p>\n<p style=\"margin-bottom:0px\">What is printed as a result of executing the following statement?</p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">System.out.println(goAgain(\"today\", 1));</span></span></span></span></span></p>\n",
+    "answer": "3",
+    "choices": [
+      {
+        "label": "<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:Courier\">todayto</span></span></span>",
+        "value": "1"
+      },
+      {
+        "label": "<span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">todayoday</span></span></span></span></span>",
+        "value": "2"
+      },
+      {
+        "label": "<span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">todayodayay</span></span></span></span></span>",
+        "value": "3"
+      },
+      {
+        "label": "<p style=\"margin-bottom:11px\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:Courier\">todayodaydayayy</span></span></span></span></p>\n",
+        "value": "4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.16",
+    "text": "4.16: Recursion"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

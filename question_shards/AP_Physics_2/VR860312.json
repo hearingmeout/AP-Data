@@ -1,0 +1,39 @@
+{
+  "id": "VR860312",
+  "type": "mcq",
+  "title": "Atomic Physics - wavelength of emitted photon",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following correctly compares the wavelengths <span class=\"math_expression\"><span aria-label=\"lambda sub X\" role=\"math\"><math alttext=\"lambda sub X\" overflow=\"scroll\"><msub><mi>λ</mi><mtext>X</mtext></msub></math></span></span>, <span class=\"math_expression\"><span aria-label=\"lambda sub Y\" role=\"math\"><math alttext=\"lambda sub Y\" overflow=\"scroll\"> <msub> <mi>λ</mi> <mtext>Y</mtext> </msub> </math></span></span>, and <span class=\"math_expression\"><span aria-label=\"lambda sub Z\" role=\"math\"><math alttext=\"lambda sub Z\" overflow=\"scroll\"><msub><mi>λ</mi><mtext>Z</mtext></msub></math></span></span> of the photons emitted during transitions <span class=\"math_expression\"><span aria-label=\"X\" role=\"math\"><math alttext=\"X\" overflow=\"scroll\"><mi mathvariant=\"normal\">X</mi></math></span></span>, <span class=\"math_expression\"><span aria-label=\"Y\" role=\"math\"><math alttext=\"Y\" overflow=\"scroll\"><mi mathvariant=\"normal\">Y</mi></math></span></span>, and <span class=\"math_expression\"><span aria-label=\"Z\" role=\"math\"><math alttext=\"Z\" overflow=\"scroll\"><mi mathvariant=\"normal\">Z</mi></math></span></span>, respectively?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"lambda sub X is greater than, open parenthesis, lambda sub Y equals lambda sub Z, close parenthesis\"><math alttext=\"lambda sub X is greater than, open parenthesis, lambda sub Y equals lambda sub Z, close parenthesis\" overflow=\"scroll\"><msub><mi>λ</mi><mtext>X</mtext></msub><mo>&gt;</mo><mrow><mo>(</mo><msub><mi>λ</mi><mtext>Y</mtext></msub><mo>=</mo><msub><mi>λ</mi><mtext>Z</mtext></msub><mo>)</mo></mrow></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"open parenthesis, lambda sub Y equals lambda sub Z, close parenthesis, is greater than lambda sub X\"><math alttext=\"open parenthesis, lambda sub Y equals lambda sub Z, close parenthesis, is greater than lambda sub X\" overflow=\"scroll\"><mrow><mo>(</mo><msub><mi>λ</mi><mtext>Y</mtext></msub><mo>=</mo><msub><mi>λ</mi><mtext>Z</mtext></msub><mo>)</mo></mrow><mo>&gt;</mo><msub><mi>λ</mi><mtext>X</mtext></msub></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"lambda sub X is greater than lambda sub Y, which is greater than lambda sub Z\"><math alttext=\"lambda sub X is greater than lambda sub Y, which is greater than lambda sub Z\" overflow=\"scroll\"><msub><mi>λ</mi><mtext>X</mtext></msub><mo>&gt;</mo><msub><mi>λ</mi><mtext>Y</mtext></msub><mo>&gt;</mo><msub><mi>λ</mi><mtext>Z</mtext></msub></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"lambda sub Z is greater than lambda sub Y, which is greater than lambda sub X\"><math alttext=\"lambda sub Z is greater than lambda sub Y, which is greater than lambda sub X\" overflow=\"scroll\"><msub><mi>λ</mi><mtext>Z</mtext></msub><mo>&gt;</mo><msub><mi>λ</mi><mtext>Y</mtext></msub><mo>&gt;</mo><msub><mi>λ</mi><mtext>X</mtext></msub></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "15",
+    "text": "15: Modern Physics"
+  },
+  "topic": {
+    "code": "15.3",
+    "text": "15.3: Emission and Absorption Spectra"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

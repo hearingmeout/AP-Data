@@ -1,0 +1,43 @@
+{
+  "id": "FT577964",
+  "type": "mcq",
+  "title": "Time constant of LR circuit",
+  "content": {
+    "prompt": "<p>What is the value of τ? </p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>1.0 ×10<sup>-5</sup> s</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>2.5 ×10<sup>-4</sup> s</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>1.0 s</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>4.0 ×10<sup>3</sup> s</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>1.0 ×10<sup>5</sup> s</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.5",
+    "text": "13.5: Circuits with Resistors and Inductors (LR Circuits)"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Calculate or estimate an unknown quantity with units from known quantities, by selecting and following a logical computational pathway."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "FT562088",
+  "type": "mcq",
+  "title": "After explosion where do pieces of projectile land",
+  "content": {
+    "prompt": "A projectile fired into the air explodes and splits into two halves of equal mass that hit the ground at the same time. If the projectile had not exploded, it would have landed at point <em>X</em>, which is a distance <em>R</em> to the right of the launch point. After the explosion, one of the halves lands at point <em>Y</em>, which is a distance 2<em>R</em> to the right of the launch point. If air resistance is negligible, where did the other half land?",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>To the left of the launch point</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>At the launch point</p>"
+      },
+      {
+        "label": "Between the launch point and point<em> X</em>",
+        "value": "i2"
+      },
+      {
+        "label": "Between points<em> X</em> and<em> Y</em>",
+        "value": "i3"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Force and Translational Dynamics"
+  },
+  "topic": {
+    "code": "2.5",
+    "text": "2.5: Newton's Second Law"
+  },
+  "skill": {
+    "code": "2.D",
+    "text": "2.D: Predict new values or factors of change of physical quantities using functional dependence between variables."
+  }
+}

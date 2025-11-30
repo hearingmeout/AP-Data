@@ -1,0 +1,43 @@
+{
+  "id": "FT1312",
+  "type": "mcq",
+  "title": "Recognizing theorems given hypotheses",
+  "content": {
+    "prompt": "<p>The function <em>f</em> is continuous for -2 ≤ <em>x</em> ≤ 1 and differentiable for -2 &lt; <em>x</em> &lt; 1. If <em>f</em>(-2) = -5 and <em>f</em>(1) = 4, which of the following statements could be false?</p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>There exists <em>c</em>, where -2 &lt; <em>c</em> &lt; 1, such that <em>f</em>(<em>c</em>) = 0.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>There exists <em>c</em>, where -2 &lt; <em>c</em> &lt; 1, such that <em>f'</em>(<em>c</em>) = 0.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>There exists <em>c</em>, where -2 &lt; <em>c</em> &lt; 1, such that <em>f</em>(<em>c</em>) = 3.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>There exists <em>c</em>, where -2 &lt; <em>c</em> &lt; 1, such that <em>f'</em>(<em>c</em>) = 3.</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>There exists c, where -2 ≤ c ≤ 1, such that <em>f</em>(c) ≥ <em>f</em>(x) for all <em>x</em> on the closed interval -2 ≤ x ≤ 1.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.1",
+    "text": "5.1: Using the Mean Value Theorem"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

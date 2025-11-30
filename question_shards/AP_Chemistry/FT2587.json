@@ -1,0 +1,39 @@
+{
+  "id": "FT2587",
+  "type": "mcq",
+  "title": "Predict new reaction rate, R, when conc. doubles",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows a table with 4 columns and 3 rows. The top row contains the column labels, from left to right: column 1, Experiment; column 2, Initial concentration of X; column 3, Initial concentration of Y; Initial Rate of Formation of Z (mole liter superscript negative 1 second superscript negative 1). From top to bottom, the data is as follows: Row 2; Experiment, 1, Initial concentration of X, 0.40, Initial concentration of Y, 0.10, Initial Rate of Formation of Z, R. Row 3; Experiment, 2, Initial concentration of X, 0.20, Initial concentration of Y, 0.20, Initial Rate of Formation of Z, ?. \" height=\"82\" src=\"/images/9a7f5081f498715bc47402e4063db154.jpg\" width=\"265\"></p>\n\n<p>The table above shows the results from a rate study of the reaction X + Y → Z. Starting with known concentrations of X and Y in experiment 1, the rate of formation of Z was measured. If the reaction was first order with respect to X and second order with respect to Y, the initial rate of formation of Z in experiment 2 would be</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<span aria-label=\"cap r over 2\"><math> <semantics> <mrow> <mfrac> <mi>R</mi> <mn>2</mn> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaadaWcaaqaaiaadkfaaeaacaaIYaaaaaaa@3A9F@</annotation> </semantics> </math></span>",
+        "value": "i1"
+      },
+      {
+        "value": "i2",
+        "label": "<p><em>R</em></p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>2<em>R</em></p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>4<em>R</em></p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Kinetics"
+  },
+  "topic": {
+    "code": "5.2",
+    "text": "5.2: Introduction to Rate Law"
+  },
+  "skill": {
+    "code": "5.C",
+    "text": "5.C: Explain the relationship between variables within an equation when one variable changes."
+  }
+}

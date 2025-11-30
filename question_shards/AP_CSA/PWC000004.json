@@ -1,0 +1,39 @@
+{
+  "id": "PWC000004",
+  "type": "mcq",
+  "title": "Print asterisks - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What is printed as a result of executing this code segment?</p>",
+    "answer": "01JES0H1J25PE4AKY7GEC89C6J",
+    "choices": [
+      {
+        "value": "01JES0H1J0VGJ6RFCKMVNXDEQ6",
+        "label": "<pre><code class=\"language-plaintext\">* \n** \n***</code></pre>"
+      },
+      {
+        "value": "01JES0H1J2CEVCEBF8NJKVSVRG",
+        "label": "<pre><code class=\"language-plaintext\">** \n**** \n******</code></pre>"
+      },
+      {
+        "value": "01JES0H1J25PE4AKY7GEC89C6J",
+        "label": "<pre><code class=\"language-plaintext\">* \n** \n*** \n**** \n*****</code></pre>"
+      },
+      {
+        "value": "01JES0H1J2Z1WS5KJK7VWC6QXB",
+        "label": "<pre><code class=\"language-plaintext\">** \n**** \n****** \n******** \n**********</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.8",
+    "text": "3.8: Scope and Access"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

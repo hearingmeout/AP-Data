@@ -1,0 +1,39 @@
+{
+  "id": "XZJ000008",
+  "type": "mcq",
+  "title": "Selection Sort - determine the result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following could be the contents of&nbsp; <span class=\"dap_inline\">arr</span> &nbsp;after two passes of the outer loop&nbsp;<span style=\"background-color:rgb(255,255,255);color:rgb(30,30,30);\"><span> </span>(<span class=\"tts-container\" data-ssml-sub-alias=\"i e\" ssml-label=\"Substitution\">i.e.</span>, when&nbsp;<span>&nbsp;</span></span><span style=\"background-color:rgb(240,240,240);color:rgb(30,30,30);\"><span class=\"dap_inline\">j&nbsp;==&nbsp;1</span></span><span style=\"background-color:rgb(255,255,255);color:rgb(30,30,30);\">&nbsp; at the point indicated by&nbsp;<span>&nbsp;</span></span><span style=\"background-color:rgb(240,240,240);color:rgb(30,30,30);\"><span class=\"dap_inline\">/* end of outer loop */</span></span><span style=\"background-color:rgb(255,255,255);color:rgb(30,30,30);\">)</span>?</p>",
+    "answer": "01JGM4JKKDTB9QE3MTG34J9V4K",
+    "choices": [
+      {
+        "value": "01JGM4JKKDTB9QE3MTG34J9V4K",
+        "label": "<pre><code class=\"language-plaintext\">{10, 20, 50, 40, 30}</code></pre>"
+      },
+      {
+        "value": "01JGM4JKKDWM2ABZK4B1T420EW",
+        "label": "<pre><code class=\"language-plaintext\">{10, 30, 50, 40, 20} </code></pre>"
+      },
+      {
+        "value": "01JGM4JKKDM7E2T9SBCM24S3RE",
+        "label": "<pre><code class=\"language-plaintext\">{20, 10, 50, 40, 30} </code></pre>"
+      },
+      {
+        "value": "01JGM4JKKD67RRHA7P31Y8WMH8",
+        "label": "<pre><code class=\"language-plaintext\">{20, 30, 50, 40, 10} </code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.15",
+    "text": "4.15: Sorting Algorithms"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

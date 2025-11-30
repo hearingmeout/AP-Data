@@ -1,0 +1,35 @@
+{
+  "id": "FT535021",
+  "type": "mcq",
+  "title": "A great chef - a restaurant guide",
+  "content": {
+    "prompt": "<p>Quel rôle le <em>Guide des Grands Restaurants de France</em> a-t-il joué dans la carrière de Christophe Lentier?</p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Il a attribué des étoiles à ses restaurants.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Il a fait de la publicité pour son livre.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Il a popularisé ses meilleures recettes.</p>"
+      },
+      {
+        "label": "Il lui a conféré le titre de «Meilleur Ouvrier de France».",
+        "value": "i3"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: The Influence of Language and Culture on Identity"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "VH904474",
+  "type": "mcq",
+  "title": "Experimental error - simple circuit",
+  "content": {
+    "prompt": "<div class=\"standalone_image\"><img alt=\"The figure presents a rectangular circuit. The top side has an ammeter to the left of a resistor labeled R. The bottom side has a battery labeled epsilon in parallel with a voltmeter.\" height=\"217\" src=\"/images/a89b39932545dcc7768ed0976e2f9d8d.png\" width=\"150\"></div>\n\n<p class=\"stem_paragraph\">A student sets up the circuit shown above consisting of a battery, a resistor, an ammeter, and a voltmeter. The student is attempting to determine the resistance of the resistor by using the potential difference measured by the voltmeter and the current measured by the ammeter. Which of the following possible sources of error in the experiment would alone result in an inaccurate calculation of the resistance of the resistor at that instant?</p>\n\n<ol class=\"ordered_list style:1\">\n\t<li class=\"list_paragraph\">The battery has internal resistance.</li>\n\t<li class=\"list_paragraph\">The wire has nonnegligible resistance.</li>\n\t<li class=\"list_paragraph\">The ammeter is not ideal.</li>\n</ol>\n",
+    "answer": "i5",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">I only</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">II only</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">III only</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">I and II</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">II and III</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.5",
+    "text": "11.5: Compound Direct Current Circuits"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

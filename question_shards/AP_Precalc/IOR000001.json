@@ -1,0 +1,39 @@
+{
+  "id": "IOR000001",
+  "type": "mcq",
+  "title": "Exponential Function - Equivalent Form",
+  "content": {
+    "prompt": "<div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <p class=\"dap_body\">In the&nbsp;<span aria-label=\"x y\"><math alttext=\"x y\"><mi>x</mi><mi>y</mi></math></span>-plane, the function&nbsp;<span aria-label=\"h\"><math alttext=\"h\"><mi>h</mi></math></span>,&nbsp;given by&nbsp;<span aria-label=\"h open parentheses x close parentheses equals 3 to the power of open parentheses x plus 2 close parentheses end exponent\"><math alttext=\"h open parentheses x close parentheses equals 3 to the power of open parentheses x plus 2 close parentheses end exponent\"><mi>h</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mn>3</mn><mfenced><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfenced></msup></math></span>,&nbsp;is a horizontal translation of the exponential function&nbsp;<span aria-label=\"f\"><math alttext=\"f\"><mi>f</mi></math></span>, given by&nbsp;<span aria-label=\"f open parentheses x close parentheses equals 3 to the power of x\"><math alttext=\"f open parentheses x close parentheses equals 3 to the power of x\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mn>3</mn><mi>x</mi></msup></math></span>. Which of the following is an equivalent form for&nbsp;<span aria-label=\"h open parentheses x close parentheses\"><math alttext=\"h open parentheses x close parentheses\"><mi>h</mi><mfenced><mi>x</mi></mfenced></math></span>&nbsp;that expresses&nbsp;<span aria-label=\"h\"><math alttext=\"h\"><mi>h</mi></math></span>&nbsp;as a vertical dilation of&nbsp;<span aria-label=\"f\"><math alttext=\"f\"><mi>f</mi></math></span>&nbsp;?</p> </div> </div> </div>\n",
+    "answer": "B-84914",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"h open parentheses x close parentheses equals 3 to the power of open parentheses x divided by 2 close parentheses end exponent\"><math alttext=\"h open parentheses x close parentheses equals 3 to the power of open parentheses x divided by 2 close parentheses end exponent\"><mi>h</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mn>3</mn><mfenced><mrow><mi>x</mi><mo>/</mo><mn>2</mn></mrow></mfenced></msup></math></span></p>",
+        "value": "A-84913"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"h open parentheses x close parentheses equals 9 times 3 to the power of x\"><math alttext=\"h open parentheses x close parentheses equals 9 times 3 to the power of x\"><mi>h</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>9</mn><mo>·</mo><msup><mn>3</mn><mi>x</mi></msup></math></span></p>",
+        "value": "B-84914"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"h open parentheses x close parentheses equals 9 times open parentheses 1 third close parentheses to the power of x\"><math alttext=\"h open parentheses x close parentheses equals 9 times open parentheses 1 third close parentheses to the power of x\"><mi>h</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>9</mn><mo>·</mo><msup><mfenced><mfrac><mn>1</mn><mn>3</mn></mfrac></mfenced><mi>x</mi></msup></math></span></p>",
+        "value": "C-84915"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"h open parentheses x close parentheses equals 9 plus 3 to the power of x\"><math alttext=\"h open parentheses x close parentheses equals 9 plus 3 to the power of x\"><mi>h</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>9</mn><mo>+</mo><msup><mn>3</mn><mi>x</mi></msup></math></span></p>",
+        "value": "D-84916"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Exponential Function Manipulation"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Express functions, equations, or expressions in analytically equivalent forms that are useful in a given mathematical or applied context."
+  }
+}

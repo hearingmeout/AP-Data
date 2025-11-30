@@ -1,0 +1,39 @@
+{
+  "id": "FT559800",
+  "type": "mcq",
+  "title": "Peptide - given bond energies, estimate C-N bond",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows a table with two columns and three rows of data. The first column is titled Bond and the second column is titled Bond Energy (kJ/mol). Row one: Bond: C - O; Bond Energy (kJ/mol) - 360. Row two: Bond: N - H; Bond Energy (kJ/mol) - 390. Row three: Bond: O - H; Bond Energy (kJ/mol) - 460.\" height=\"121\" src=\"/images/c9fff5eb25306a01432f2e26e40335c6.png\" width=\"260\"></p>\n\n<p>Based on the bond energies listed in the table above, which of the following is closest to the bond energy of the C−N bond?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>200 kJ/mol</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>300 kJ/mol </p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>400 kJ/mol </p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>500 kJ/mol</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Thermochemistry"
+  },
+  "topic": {
+    "code": "6.7",
+    "text": "6.7: Bond Enthalpies"
+  },
+  "skill": {
+    "code": "5.F",
+    "text": "5.F: Calculate, estimate, or predict an unknown quantity from known quantities by selecting and following a logical computational pathway and attending to precision (e.g., performing dimensional analysis and attending to significant figures)."
+  }
+}

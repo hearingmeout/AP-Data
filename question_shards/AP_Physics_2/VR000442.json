@@ -1,0 +1,39 @@
+{
+  "id": "VR000442",
+  "type": "mcq",
+  "title": "Sufficient data to calculate focal length",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Students design an experiment to determine the focal length <span class=\"math_expression\"><span aria-label=\"f\"><math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math></span></span> of a converging lens. The students use a lit candle as an object and project its image onto an index card on the other side of the lens. The distance <span class=\"math_expression\"><span aria-label=\"s sub 0\"><math alttext=\"s sub 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><msub><mrow><mi>s</mi></mrow><mrow><mi>o</mi></mrow></msub></mrow></mrow></mstyle></math></span></span> from the candle to the lens and the distance <span class=\"math_expression\"><span aria-label=\"s sub i\"><math alttext=\"s sub i\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><msub><mrow><mi>s</mi></mrow><mrow><mi>i</mi></mrow></msub></mrow></mrow></mstyle></math></span></span> from the card to the lens are recorded for several values of <span class=\"math_expression\"><span aria-label=\"s sub o\"><math alttext=\"s sub o\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><msub><mrow><mi>s</mi></mrow><mrow><mi>o</mi></mrow></msub></mrow></mrow></mstyle></math></span></span>. Are these data sufficient to calculate <span class=\"math_expression\"><span aria-label=\"f\"><math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math></span></span>, and why or why not?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">No, because the magnification must also be measured for each value of <span class=\"math_expression\"><span aria-label=\"s sub o\"><math alttext=\"s sub o\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><msub><mrow><mi>s</mi></mrow><mrow><mi>o</mi></mrow></msub></mrow></mrow></mstyle></math></span></span>.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No, because <span class=\"math_expression\"><span aria-label=\"f\"><math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math></span></span> will be different for each value of <span class=\"math_expression\"><span aria-label=\"s sub o\"><math alttext=\"s sub o\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><msub><mrow><mi>s</mi></mrow><mrow><mi>o</mi></mrow></msub></mrow></mrow></mstyle></math></span></span>.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Yes, because <span class=\"math_expression\"><span aria-label=\"1 over s sub i\"><math alttext=\"1 over s sub i\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msub><mrow><mi>s</mi></mrow><mrow><mi>i</mi></mrow></msub></mrow></mfrac></mrow></mstyle></math></span></span> can be plotted as function of <span class=\"math_expression\"><span aria-label=\"1 over s sub o\"><math alttext=\"1 over s sub o\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msub><mrow><mi>s</mi></mrow><mrow><mi>o</mi></mrow></msub></mrow></mfrac></mrow></mstyle></math></span></span> and the <span class=\"math_expression\"><span aria-label=\"y\"><math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi></mrow></mstyle></math></span></span>-intercept used to calculate <span class=\"math_expression\"><span aria-label=\"f\"><math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math></span></span>.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Yes, because <span class=\"math_expression\"><span aria-label=\"1 over s sub i\"><math alttext=\"1 over s sub i\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msub><mrow><mi>s</mi></mrow><mrow><mi>i</mi></mrow></msub></mrow></mfrac></mrow></mstyle></math></span></span> can be plotted as function of <span class=\"math_expression\"><span aria-label=\"1 over s sub o\"><math alttext=\"1 over s sub o\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msub><mrow><mi>s</mi></mrow><mrow><mi>o</mi></mrow></msub></mrow></mfrac></mrow></mstyle></math></span></span> and the slope can be used to calculate <span class=\"math_expression\"><span aria-label=\"f\"><math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math></span></span>.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Geometric Optics"
+  },
+  "topic": {
+    "code": "13.4",
+    "text": "13.4: Images Formed by Lenses"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

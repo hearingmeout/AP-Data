@@ -1,0 +1,39 @@
+{
+  "id": "KGT000003",
+  "type": "mcq",
+  "title": "Avoid ArithmeticException - describe condition",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following preconditions for the method is most appropriate to avoid an &nbsp;<span class=\"dap_inline\">ArithmeticException</span>?</p>",
+    "answer": "01JCGTPXMMVGMNAWNW2GQFMV5F",
+    "choices": [
+      {
+        "value": "01JCGTPXMKA72RC2FDCD9V56V8",
+        "label": "<pre><code class=\"language-plaintext\">/** Precondition: y is equal to 0. */</code></pre>"
+      },
+      {
+        "value": "01JCGTPXMMZ1XJF8H8W0S3HVVN",
+        "label": "<pre><code class=\"language-plaintext\">/** Precondition: y is less than 5. */</code></pre>"
+      },
+      {
+        "value": "01JCGTPXMMVGMNAWNW2GQFMV5F",
+        "label": "<pre><code class=\"language-plaintext\">/** Precondition: y is not equal to 0. */</code></pre>"
+      },
+      {
+        "value": "01JCGTPXMMEGK11KRCCY48BBF3",
+        "label": "<pre><code class=\"language-plaintext\">/** Precondition: y is not negative. */</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

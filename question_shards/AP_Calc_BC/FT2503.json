@@ -1,0 +1,43 @@
+{
+  "id": "FT2503",
+  "type": "mcq",
+  "title": "Derivative of a product from a table of values",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows a table with 5 columns and 2 rows. The top row contains the column labels, from left to right: column one, x; column two, f(x); column three, f prime (x); column four, g(x); column five, g prime (x). From top to bottom, the data is as follows: Row two: x, 1; f(x), 3; f prime (x), negative 3; g(x), negative 3; g prime (x), 4. \" height=\"81\" src=\"/images/6c11b9fcdd6514b6917be93d507aed0c.png\" width=\"235\"></p>\n\n<p>The table above gives values of the differentiable functions <em>f</em> and <em>g</em> and their derivatives at <em>x</em> = 1. If <em>h</em>(<em>x</em>) = (2 <em>f</em> (<em>x</em>) + 3)(1 + <em>g</em>(<em>x</em>)), then h'(1) =</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>-28</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>-16</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>40</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>44</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>47</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: The Product Rule"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

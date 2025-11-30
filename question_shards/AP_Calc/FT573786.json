@@ -1,0 +1,39 @@
+{
+  "id": "FT573786",
+  "type": "mcq",
+  "title": "Definite integral with piecewise function",
+  "content": {
+    "prompt": "<p><span aria-label=\"An equation for f of x with two functions. The first function reads: f of x equals, modulus of x, over x, for x is not equal to 0. The second function reads: f of x equals 0, for x equals 0.\"><math> <mrow> <mi>f</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mrow> <mo>{</mo> <mtable columnalign=\"left\"> <mtr> <mtd> <mfrac> <mrow> <mo>|</mo> <mi>x</mi> <mo>|</mo> </mrow> <mi>x</mi> </mfrac> <mtext> </mtext> <mtext> </mtext> <mi>&nbsp;for&nbsp;</mi> <mtext> </mtext> <mi>x</mi> <mo>≠</mo> <mn>0</mn> </mtd> </mtr> <mtr> <mtd> <mn>0</mn> <mtext> </mtext> <mtext> </mtext> <mtext> </mtext> <mtext> </mtext> <mtext> </mtext> <mi>&nbsp;for&nbsp;</mi> <mtext> </mtext> <mi>x</mi> <mo>=</mo> <mn>0</mn> </mtd> </mtr> </mtable> </mrow> </mrow> </math></span></p>\n\n<p>The function <em>f</em> is defined above. The value of&nbsp;<span aria-label=\"the integral from negative 5 to 3 of f x d x\"><math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mrow> <mo>−</mo> <mn>5</mn> </mrow> <mn>3</mn> </msubsup> <mi>f</mi> </mrow> </mstyle> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mi>d</mi> <mi>x</mi> </mrow> </math></span> is</p>\n",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>-2</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>2</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>8</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>nonexistent</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.6",
+    "text": "6.6: Applying Properties of Definite Integrals"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

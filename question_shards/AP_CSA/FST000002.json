@@ -1,0 +1,39 @@
+{
+  "id": "FST000002",
+  "type": "mcq",
+  "title": "second after arithmetic - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What is the value of <span class=\"dap_inline\">second</span> after this code segment is executed?</p>",
+    "answer": "1717008727141.2595",
+    "choices": [
+      {
+        "value": "1717008727141.3206",
+        "label": "<pre><code class=\"language-plaintext\">37</code></pre>"
+      },
+      {
+        "value": "1717008727141.3608",
+        "label": "<pre><code class=\"language-plaintext\">30</code></pre>"
+      },
+      {
+        "value": "1717008727141.2595",
+        "label": "<pre><code class=\"language-plaintext\">26</code></pre>"
+      },
+      {
+        "value": "1717008727141.71",
+        "label": "<pre><code class=\"language-plaintext\">0</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

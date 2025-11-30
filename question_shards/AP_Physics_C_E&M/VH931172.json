@@ -1,0 +1,43 @@
+{
+  "id": "VH931172",
+  "type": "mcq",
+  "title": "Solar Panels",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">In a certain region, 10 percent of the homes have solar panels. A city official is investigating energy consumption for homes within the region. Each week, the city official selects a random sample of homes from the region. Let random variable <span class=\"math_expression\"><span aria-label=\"Y\"><math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>Y</mi></mrow></mstyle></math></span></span> represent the number of homes selected at random from the region until a home that has solar panels is selected. The random variable <span class=\"math_expression\"><span aria-label=\"Y\"><math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mi>Y</mi></mrow></mstyle></mrow></mstyle></math></span></span> has a geometric distribution with a mean of 10. Which of the following is the best interpretation of the mean?</p>\n",
+    "answer": "i5",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Each week, the number of homes with solar panels increases by 10.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">For a randomly selected week, it will take 10 homes before a home with solar panels is selected.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The average number of solar panels per home is equal to 10.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Over many weeks, the average number of homes with solar panels is 10.</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Over many weeks, it takes 10 homes, on average, before a home with solar panels is selected.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.12",
+    "text": "4.12: The Geometric Distribution"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

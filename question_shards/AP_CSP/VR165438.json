@@ -1,0 +1,35 @@
+{
+  "id": "VR165438",
+  "type": "mcq",
+  "title": "Value of r after sequence of assignments",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Consider the following code segment.</p>\n<div class=\"standalone_image\"><img alt=\"The figure presents eight blocks of code that consist of 8 lines. Line 1: [begin block] p ← 10 [end block] Line 2: [begin block] q ← 20 [end block] Line 3 [begin block] r ← 30 [end block] Line 4: [begin block] s ← 40 [end block] Line 5: [begin block] p ← q [end block] Line 6: [begin block] q ← r [end block] Line 7: [begin block] s ← q [end block] Line 8: [begin block] r ← p [end block]&nbsp;\" height=\"227\" src=\"/images/9708fc0bdb6600aed82437fbbac64562.png\" width=\"75\"></div>\n<p class=\"stem_paragraph\">What is the value of <span class=\"inline_code\">r</span> as a result of executing the code segment?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line indent:0\">10</p></div>",
+        "value": "i1"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line indent:0\">20</p></div>",
+        "value": "i2"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line indent:0\">30</p></div>",
+        "value": "i3"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line indent:0\">40</p></div>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: Variables and Assignments"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

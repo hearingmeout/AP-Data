@@ -1,0 +1,43 @@
+{
+  "id": "FT1875",
+  "type": "mcq",
+  "title": "Limit of an indeterminate form 0/0",
+  "content": {
+    "prompt": "<span aria-label=\"limit x rightarrow 2 of the fraction with numerator x squared plus x minus 6 and denominator x squared minus 4\"><math> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>x</mi> <mo>→</mo> <mn>2</mn> </mrow> </munder> <mtext> </mtext> <mfrac> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>+</mo> <mi>x</mi> <mo>−</mo> <mn>6</mn> </mrow> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>−</mo> <mn>4</mn> </mrow> </mfrac> </mrow> </math></span>&nbsp;is",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<span aria-label=\"negative 1 fourth\"><math> <mrow> <mo>−</mo> <mfrac> <mn>1</mn> <mn>4</mn> </mfrac> </mrow> </math></span>",
+        "value": "i0"
+      },
+      {
+        "value": "i1",
+        "label": "<p>0</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>1</p>"
+      },
+      {
+        "label": "<span aria-label=\"5 fourths\"><math> <mrow> <mfrac> <mn>5</mn> <mn>4</mn> </mfrac> </mrow> </math></span>",
+        "value": "i3"
+      },
+      {
+        "value": "i4",
+        "label": "<p>nonexistent</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.6",
+    "text": "1.6: Determining Limits Using Algebraic Manipulation"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Identify an appropriate mathematical rule or procedure based on the classification of a given expression (e.g., Use the chain rule to find the derivative of a composite function)."
+  }
+}

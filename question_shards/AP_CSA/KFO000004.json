@@ -1,0 +1,39 @@
+{
+  "id": "KFO000004",
+  "type": "mcq",
+  "title": "behavior of WordClass - Describe behavior",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following is a true statement about the behavior of&nbsp; <span class=\"dap_inline\">WordClass</span>&nbsp; objects?</p>",
+    "answer": "01JQ76H86WCF0YMPQEDH4NR3SQ",
+    "choices": [
+      {
+        "value": "01JQ76H86WCF0YMPQEDH4NR3SQ",
+        "label": "<p class=\"dap_body\">Every time a&nbsp; <span class=\"dap_inline\">WordClass</span>&nbsp; object is created, the&nbsp; <span class=\"dap_inline\">maxWord</span>&nbsp; variable is referenced.</p>"
+      },
+      {
+        "value": "01JQ76H86X49GFGZYKPN9SEKES",
+        "label": "<p class=\"dap_body\">Every time a &nbsp;<span class=\"dap_inline\">WordClass</span> &nbsp;object is created, the value of the&nbsp; <span class=\"dap_inline\">maxWord</span>&nbsp; variable changes.</p>"
+      },
+      {
+        "value": "01JQ76H86X8D49A023YSF46EZW",
+        "label": "<p class=\"dap_body\">No two &nbsp;<span class=\"dap_inline\">WordClass</span> &nbsp;objects can have their &nbsp;<span class=\"dap_inline\">word</span> &nbsp;length equal to the length of&nbsp; <span class=\"dap_inline\">maxWord</span>.</p>"
+      },
+      {
+        "value": "01JQ77907P2GKH9PEXPBKYC03P",
+        "label": "<p class=\"dap_body\">The value of the&nbsp; <span class=\"dap_inline\">maxWord</span>&nbsp; variable cannot be changed once it has been initialized.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.7",
+    "text": "3.7: Class Variables and Methods"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

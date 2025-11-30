@@ -1,0 +1,43 @@
+{
+  "id": "VH907682",
+  "type": "mcq",
+  "title": "Angular distance of a disk",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VH907674.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">If the disk accelerates from rest at time <span class=\"math_expression\"><span aria-label=\"lowercase t equals 0\"><math alttext=\"lowercase t equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>t</mi><mo>=</mo><mn>0</mn></mrow></mrow></mstyle></math></span></span> , through what angle <span class=\"math_expression\"><span aria-label=\"theta\"><math alttext=\"theta\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>θ</mi></mrow></mstyle></math></span></span> does the disk rotate from <span class=\"math_expression\"><span aria-label=\"lowercase t equals 0\"><math alttext=\"lowercase t equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>t</mi><mo>=</mo><mn>0</mn></mrow></mrow></mstyle></math></span></span> to <span class=\"math_expression\"><span aria-label=\"lowercase t equals uppercase T\"><math alttext=\"lowercase t equals uppercase T\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mi>T</mi></mrow></mstyle></math></span></span>?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction F times R, times uppercase T squared over 2 M, end fraction\"><math alttext=\"the fraction F times R, times uppercase T squared over 2 M, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>F</mi><mi>R</mi><msup><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>2</mn><mi>M</mi></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction F times R, times uppercase T squared over 2 I, end fraction\"><math alttext=\"the fraction F times R, times uppercase T squared over 2 I, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>F</mi><mi>R</mi><msup><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>2</mn><mi>I</mi></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction F times uppercase T squared over 2 I, end fraction\"><math alttext=\"the fraction F times uppercase T squared over 2 I, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>F</mi><msup><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>2</mn><mi>I</mi></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction F times uppercase T squared over M\"><math alttext=\"the fraction F times uppercase T squared over M\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>F</mi><mi>T</mi></mrow><mrow><mi>M</mi></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction F times R, times uppercase T over I\"><math alttext=\"the fraction F times R, times uppercase T over I\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>F</mi><mi>R</mi><mi>T</mi></mrow><mrow><mi>I</mi></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.1",
+    "text": "5.1: Rotational Kinematics"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

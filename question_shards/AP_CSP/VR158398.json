@@ -1,0 +1,35 @@
+{
+  "id": "VR158398",
+  "type": "mcq",
+  "title": "Filtering and sorting restaurant data",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR158397.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">A student is developing an algorithm to determine which of the restaurants that accept credit cards has the greatest average customer rating. Restaurants that have not yet received any customer ratings and restaurants that do not accept credit card are to be ignored.</p><p class=\"stem_paragraph\">Once the algorithm is complete, the desired restaurant will appear in the first row of the spreadsheet. If there are multiple entries that fit the desired criteria, it does not matter which of them appears in the first row.</p><p class=\"stem_paragraph\">The student has the following actions available but is not sure of the order in which they should be executed.</p><div class=\"table_wrapper\"><table class=\"tgroup cols:2\"><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry colname:col1\"><span class=\"formatted_text font_weight:bold\">Action</span></td><td class=\"entry colname:col2\"><span class=\"formatted_text font_weight:bold\">Explanation</span></td></tr><tr class=\"row\"><td class=\"entry colname:col1\">Filter by number of ratings</td><td class=\"entry colname:col2\">Remove entries for restaurants with no customer ratings</td></tr><tr class=\"row\"><td class=\"entry colname:col1\">Filter by payment type</td><td class=\"entry colname:col2\">Remove entries for restaurants that do not accept credit cards</td></tr><tr class=\"row\"><td class=\"entry colname:col1\">Sort by rating</td><td class=\"entry colname:col2\">Sort the rows in the spreadsheet on column D from greatest to least</td></tr></tbody></table></div><p class=\"stem_paragraph\">Assume that applying either of the filters will not change the relative order of the rows remaining in the spreadsheet.</p><p class=\"stem_paragraph\">Which of the following sequences of steps can be used to identify the desired restaurant?</p><ol class=\"ordered_list style:1\"><li class=\"list_paragraph\">Filter by number of ratings, then filter by payment type, then sort by rating</li><li class=\"list_paragraph\">Filter by number of ratings, then sort by rating, then filter by payment type</li><li class=\"list_paragraph\">Sort by rating, then filter by number of ratings, then filter by payment type</li></ol>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">I and II only</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">I and III only</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">II and III only</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">I, II, and III</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Using Programs with Data"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

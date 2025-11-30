@@ -1,0 +1,39 @@
+{
+  "id": "SPY000001",
+  "type": "mcq",
+  "title": "Matrices as Functions - converting to matrix form",
+  "content": {
+    "prompt": "<div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <p class=\"dap_body\">The linear transformation function&nbsp;<span aria-label=\"L\"><math alttext=\"L\"><mi>L</mi></math></span>&nbsp;maps vector&nbsp;<span aria-label=\"open angle brackets a comma b close angle brackets\"><math alttext=\"open angle brackets a comma b close angle brackets\"><mfenced close=\">\" open=\"<\"><mrow><mi>a</mi><mo>,</mo><mi>b</mi></mrow></mfenced></math></span>&nbsp;to vector&nbsp;<span aria-label=\"open angle brackets 2 a plus b comma 6 b close angle brackets\"><math alttext=\"open angle brackets 2 a plus b comma 6 b close angle brackets\"><mfenced close=\">\" open=\"<\"><mrow><mn>2</mn><mi>a</mi><mo>+</mo><mi>b</mi><mo>,</mo><mn>6</mn><mi>b</mi></mrow></mfenced></math></span>. If&nbsp;<span aria-label=\"L open parentheses vector v close parentheses equals uppercase A times vector v\"><math alttext=\"L open parentheses vector v close parentheses equals uppercase A times vector v\"><mi>L</mi><mfenced><mover><mi>v</mi><mo>→</mo></mover></mfenced><mo>=</mo><mi>A</mi><mover><mi>v</mi><mo>→</mo></mover></math></span>,&nbsp;where&nbsp;<span aria-label=\"uppercase A\"><math alttext=\"uppercase A\"><mi>A</mi></math></span>&nbsp;is a&nbsp;<span aria-label=\"2 by 2\"><math alttext=\"2 by 2\"><mn>2</mn><mo>×</mo><mn>2</mn></math></span>&nbsp;matrix and&nbsp;<span aria-label=\"vector v\"><math alttext=\"vector v\"><mover><mi>v</mi><mo>→</mo></mover></math></span>&nbsp;is a column vector, which of the following could define&nbsp;<span aria-label=\"uppercase A\"><math alttext=\"uppercase A\"><mi>A</mi></math></span>&nbsp;?</p> </div> </div> </div>\n",
+    "answer": "D-78927",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"a 2 by 2 matrix with row 1 column 1 value 0, row 1 column 2 value 6, row 2 column 1 value 2, row 2 column 2 value 1\"><math alttext=\"a 2 by 2 matrix with row 1 column 1 value 0, row 1 column 2 value 6, row 2 column 1 value 2, row 2 column 2 value 1\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>0</mn></mtd><mtd><mn>6</mn></mtd></mtr><mtr><mtd><mn>2</mn></mtd><mtd><mn>1</mn></mtd></mtr></mtable></mfenced></math></span></p>",
+        "value": "A-78924"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"a 2 by 2 matrix with row 1 column 1 value 1, row 1 column 2 value 2, row 2 column 1 value 6, row 2 column 2 value 0\"><math alttext=\"a 2 by 2 matrix with row 1 column 1 value 1, row 1 column 2 value 2, row 2 column 1 value 6, row 2 column 2 value 0\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>2</mn></mtd></mtr><mtr><mtd><mn>6</mn></mtd><mtd><mn>0</mn></mtd></mtr></mtable></mfenced></math></span></p>",
+        "value": "B-78925"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"a 2 by 2 matrix with row 1 column 1 value 2, row 1 column 2 value 0, row 2 column 1 value 1, row 2 column 2 value 6\"><math alttext=\"a 2 by 2 matrix with row 1 column 1 value 2, row 1 column 2 value 0, row 2 column 1 value 1, row 2 column 2 value 6\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>2</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd><mtd><mn>6</mn></mtd></mtr></mtable></mfenced></math></span></p>",
+        "value": "C-78926"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"a 2 by 2 matrix with row 1 column 1 value 2, row 1 column 2 value 1, row 2 column 1 value 0, row 2 column 2 value 6\"><math alttext=\"a 2 by 2 matrix with row 1 column 1 value 2, row 1 column 2 value 1, row 2 column 1 value 0, row 2 column 2 value 6\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>2</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>6</mn></mtd></mtr></mtable></mfenced></math></span></p>",
+        "value": "D-78927"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.13",
+    "text": "4.13: Matrices as Functions"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Express functions, equations, or expressions in analytically equivalent forms that are useful in a given mathematical or applied context."
+  }
+}

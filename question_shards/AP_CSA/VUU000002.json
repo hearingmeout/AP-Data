@@ -1,0 +1,39 @@
+{
+  "id": "VUU000002",
+  "type": "mcq",
+  "title": "ArrayList Traversal - write the code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following can replace &nbsp;<span class=\"dap_inline\">/* missing code */</span> &nbsp;to produce this result?</p>",
+    "answer": "01JGPNXTMNYYSTYS9JRHVPM6VD",
+    "choices": [
+      {
+        "value": "01JGPNXTMNYYSTYS9JRHVPM6VD",
+        "label": "<pre><code class=\"language-plaintext\">int initialSize = myList.size();&nbsp;\nfor (int i = 0; i &lt; initialSize; i++)\n{&nbsp;\n   myList.add(2, myList.remove(0));&nbsp;\n &nbsp;&nbsp;yourList.add(myList.get(0));&nbsp;\n} </code></pre>"
+      },
+      {
+        "value": "01JGPNXTMN3KVXC1KMXEM5EZEJ",
+        "label": "<pre><code class=\"language-plaintext\">int initialSize = myList.size();&nbsp;\nfor (int i = 1; i &lt;= initialSize; i++)\n{&nbsp;\n   yourList.add(myList.get(i));&nbsp;\n}</code></pre>"
+      },
+      {
+        "value": "01JGPNXTMNAHHH6NCGMAX8QPSK",
+        "label": "<pre><code class=\"language-plaintext\">for (Integer temp : myList)\n{&nbsp;\n   yourList.add(0, temp);\n} </code></pre>"
+      },
+      {
+        "value": "01JGPNXTMNN7HTRD6SMVFNP99T",
+        "label": "<pre><code class=\"language-plaintext\">for (Integer temp : myList)\n{&nbsp;\n   myList.add(2, myList.remove(0));&nbsp;\n &nbsp;&nbsp;yourList.add(temp);  \n}</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.9",
+    "text": "4.9: `ArrayList` Traversals"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

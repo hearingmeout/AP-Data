@@ -1,0 +1,43 @@
+{
+  "id": "FT545980",
+  "type": "mcq",
+  "title": "Graph of magnetic field in cylindrical conductor",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows the end of a cylindrical conductor. The inside surface of the conductor is shown by a circle that has an arrow from its center to its edge labeled a. Between the inner and outer surfaces of the conductor is a dashed circle concentric with the surfaces, with an arrow from its center to its edge labeled r. There is an arrow from the center of the circle to the outer edge of the conductor, that is labeled b. The area of the end between the inner and outer surfaces of the conductor is shaded gray. \" src=\"/images/f645b8f181d5da654a2394d98ac15224.png\" width=\"400\"></p><p>A long, cylindrical conductor with inner radius <em>a</em> and outer radius <em>b</em> carries a current <em>I</em> distributed uniformly over its cross section (the shaded region shown above). Which of the following graphs best shows the magnitude of the magnetic field <em>B</em> as a function of the distance <em>r</em> from the axis of the conductor?</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<img alt=\"A straight line with positive slope begins at the intersection of the axes and extends up and to the right of the dashed vertical line labeled a, near the top of the vertical axis. Starting here is a horizontal line that extends to the right reaching the dashed vertical line labeled b. Starting here is a concave up curve that extends to the right, ending above the horizontal axis near the right end.\" height=\"444\" src=\"/images/9913d5f8ae2915a3714f263253941fb3.png\" width=\"200\">",
+        "value": "i0"
+      },
+      {
+        "label": "<img alt=\"A straight horizontal line begins at the intersection of the axes and extends to the right along the horizontal axis, reaching the dashed vertical line labeled a. A vertical line then extends up the dashed line at a, ending near the top of the vertical axis. Starting here is concave up curve that extends to the right past the dashed vertical line labeled b ending above the horizontal axis near the right end.\" height=\"427\" src=\"/images/d6013eb5726fed435fb433dbfc05d7df.png\" width=\"200\">",
+        "value": "i1"
+      },
+      {
+        "label": "<img alt=\"A horizontal line begins at the intersection of the axes and extends to the right, past the dashed vertical line labeled a, reaching the dashed vertical line labeled b. A vertical line then extends up the dashed line at b, ending near the top of the vertical axis. Starting here is a concave up curve that extends to the right, ending above the horizontal axis near the right end.\" height=\"444\" src=\"/images/210b8a2f3ae71b3c246e91220210e728.png\" width=\"200\">",
+        "value": "i2"
+      },
+      {
+        "label": "<img alt=\"A straight horizontal line begins at the intersection of the axes and extends to the right, reaching the dashed vertical line labeled a. Starting here, a straight line with positive slope extends up and to the right reaching the dashed vertical line labeled b near the top of the vertical axis. Starting here is a concave up curve that extends to the right, ending above the horizontal axis near the right end - higher than the right ends of options A, B and C. \" height=\"444\" src=\"/images/5e0dbe4d7b60596214b7d58fade16802.png\" width=\"200\">",
+        "value": "i3"
+      },
+      {
+        "value": "i4",
+        "label": "<p><img alt=\"A straight horizontal line begins near the top of the vertical axis and extends to the right, reaching the dashed vertical line labeled a. Starting here is a concave up curve extending down and to the right reaching the dashed vertical line labeled b about halfway up the vertical axis. From here is another concave up curve that extends down and to the right again, and ending above the horizontal axis near the right end - similar to options A, B, and C. \" src=\"/images/11e06d8e5011c894e1d9ab357bbc50a4.png\" width=\"200\"></p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "12",
+    "text": "12: Magnetic Fields and Electromagnetism"
+  },
+  "topic": {
+    "code": "12.4",
+    "text": "12.4: Ampère's Law"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

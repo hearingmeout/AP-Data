@@ -1,0 +1,35 @@
+{
+  "id": "VH918150",
+  "type": "mcq",
+  "title": "Lossless compression scenario",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">A person wants to transmit an audio file from a device to a second device. Which of the following scenarios best demonstrates the use of lossless compression of the original file?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">A device compresses the audio file before transmitting it to a second device. The second device restores the compressed file to its original version before playing it.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">A device compresses the audio file by removing details that are not easily perceived by the human ear. The compressed file is transmitted to a second device, which plays it.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">A device transmits the original audio file to a second device. The second device removes metadata from the file before playing it.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">A device transmits the original audio file to a second device. The second device plays the transmitted file as is.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Data Compression"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

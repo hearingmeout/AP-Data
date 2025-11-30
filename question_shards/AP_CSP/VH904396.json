@@ -1,0 +1,35 @@
+{
+  "id": "VH904396",
+  "type": "mcq",
+  "title": "Result of iteration statements",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following best describes the value returned by the procedure?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The procedure returns nothing because it will not terminate.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The procedure returns the value of <span class=\"inline_code\">2 * n</span>.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The procedure returns the value of <span class=\"inline_code\">n * n</span>.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The procedure returns the sum of the integers from <span class=\"inline_code\">1</span> to <span class=\"inline_code\">n</span>.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.8",
+    "text": "3.8: Iteration"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ZTR000005",
+  "type": "mcq",
+  "title": "Robot API Specification - describe behavior",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Based on the class specification, which of the following descriptions is accurate?</p>",
+    "answer": "01JCGT99BMQ37A45GEV8M0V7MW",
+    "choices": [
+      {
+        "value": "01JCGT99BKN5GB935GTZ2MBPCJ",
+        "label": "<p class=\"dap_body\"><span class=\"dap_inline\">Robot</span>&nbsp; objects are attributes of the methods &nbsp;<span class=\"dap_inline\">move</span>&nbsp; and&nbsp; <span class=\"dap_inline\">rotate</span>.</p>"
+      },
+      {
+        "value": "01JCGT99BM1YEHGE5Y5PG6DFV2",
+        "label": "<p class=\"dap_body\"><span class=\"dap_inline\">Robot</span>&nbsp; objects are behaviors of the methods &nbsp;<span class=\"dap_inline\">move</span>&nbsp; and&nbsp; <span class=\"dap_inline\">rotate</span>.</p>"
+      },
+      {
+        "value": "01JCGT99BM1F2DCPD26VKZKNV4",
+        "label": "<p class=\"dap_body\">The methods &nbsp;<span class=\"dap_inline\">move</span>&nbsp; and&nbsp; <span class=\"dap_inline\">rotate</span>&nbsp; represent attributes of&nbsp; <span class=\"dap_inline\">Robot</span>&nbsp; objects.</p>"
+      },
+      {
+        "value": "01JCGT99BMQ37A45GEV8M0V7MW",
+        "label": "<p class=\"dap_body\">The methods &nbsp;<span class=\"dap_inline\">move</span>&nbsp; and&nbsp; <span class=\"dap_inline\">rotate</span>&nbsp; represent behaviors of&nbsp; <span class=\"dap_inline\">Robot</span>&nbsp; objects.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.7",
+    "text": "1.7: Application Program Interface (API) and Libraries"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

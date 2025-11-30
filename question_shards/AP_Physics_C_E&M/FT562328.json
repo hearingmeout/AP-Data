@@ -1,0 +1,43 @@
+{
+  "id": "FT562328",
+  "type": "mcq",
+  "title": "Compare margin of error for different size samples",
+  "content": {
+    "prompt": "If the point estimate obtained from R is equal to the point estimate obtained from S, which of the following must be true about the respective margins of error constructed from those samples?",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The margin of error for S will be 4 times the margin of error for R. </p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The margin of error for S will be 2 times the margin of error for R. </p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The margin of error for S will be equal to the margin of error for R. </p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The margin of error for R will be 4 times the margin of error for S. </p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>The margin of error for R will be 2 times the margin of error for S. </p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.3",
+    "text": "6.3: Justifying a Claim Based on a Confidence Interval for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 4.A",
+    "text": "Skill 4.A: Make an appropriate claim or draw an appropriate conclusion."
+  }
+}

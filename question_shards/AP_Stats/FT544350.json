@@ -1,0 +1,43 @@
+{
+  "id": "FT544350",
+  "type": "mcq",
+  "title": "Use mean and standard deviation to compute LSRL",
+  "content": {
+    "prompt": "<p>Consider <em>n</em> pairs of numbers <em>(x<sub>1</sub>,y<sub>1</sub>), (x<sub>2</sub>,y<sub>2</sub>), ..., </em>and <em>(x<sub>n</sub>, y<sub>n</sub>)</em>. The mean and standard deviation of the <em>x-</em>values are x̄ =5 and s<sub>x</sub> = 4, respectively. The mean and standard deviation of the <em>y</em>-values are  ȳ = 10 and<strong> </strong>s<sub>y</sub> = 10<strong> </strong>respectively. Of the following, which could be the least squares regression line?</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>ŷ = -5.0 + 3.0<em>x</em></p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>ŷ = 3.0<em>x</em></p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>ŷ = 5.0 + 2.5<em>x</em></p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>ŷ = 8.5 + 0.3x</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>ŷ = 10.0 + 0.4<em>x</em></p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: Least Squares Regression"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}

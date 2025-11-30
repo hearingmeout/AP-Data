@@ -1,0 +1,39 @@
+{
+  "id": "VKF000012",
+  "type": "mcq",
+  "title": "random from min to max - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following can replace&nbsp; <code class=\"dap_inline\">/* missing code */</code>&nbsp; so that the code segment works as intended?</p>",
+    "answer": "01JSDK2488EQCKV9WQAJ9RQS5S",
+    "choices": [
+      {
+        "value": "01JSDJ7WRYTS4F2319CJCB26T2",
+        "label": "<pre><code class=\"language-plaintext\">(int) (rn * max) + min</code></pre>"
+      },
+      {
+        "value": "01JSDJ7WRZ6V8C6TGTKS01SCXR",
+        "label": "<pre><code class=\"language-plaintext\">(int) (rn * (max - min)) + min</code></pre>"
+      },
+      {
+        "value": "01JSDJ7WRZ42KC4PXHHRPFDDEH",
+        "label": "<pre><code class=\"language-plaintext\">(int) (rn * (max - min)) + 1</code></pre>"
+      },
+      {
+        "value": "01JSDK2488EQCKV9WQAJ9RQS5S",
+        "label": "<pre><code class=\"language-plaintext\">(int) (rn * (max - min + 1)) + min</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: `Math` Class"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

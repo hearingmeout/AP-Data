@@ -1,0 +1,39 @@
+{
+  "id": "RYT000001",
+  "type": "mcq",
+  "title": "updateX method - describe conditions",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Suppose that&nbsp; <span class=\"dap_inline\">tester</span>&nbsp; is a properly instantiated reference to a&nbsp; <span class=\"dap_inline\">MyClass</span>&nbsp; object and&nbsp; <span class=\"dap_inline\">num</span>&nbsp; is an&nbsp; <span class=\"dap_inline\">int</span>&nbsp; value. Which of the following best describes the conditions under which the value of the instance variable&nbsp; <span class=\"dap_inline\">x</span>&nbsp; is unchanged as a result of the call&nbsp; <span class=\"dap_inline\">tester.updateX(num)</span>?</p>",
+    "answer": "01JERVP9SCP7FA8GPVF9KD74RX",
+    "choices": [
+      {
+        "value": "01JERVP9SCP7FA8GPVF9KD74RX",
+        "label": "<p class=\"dap_body\">When&nbsp; <span class=\"dap_inline\">num</span>&nbsp; is&nbsp; <span class=\"dap_inline\">0</span></p>"
+      },
+      {
+        "value": "01JERVP9SCGX80BDK3J200E0G7",
+        "label": "<p class=\"dap_body\">When&nbsp; <span class=\"dap_inline\">num</span>&nbsp; is&nbsp; <span class=\"dap_inline\">1</span></p>"
+      },
+      {
+        "value": "01JERVP9SCSHJ41E0CYJANPG0S",
+        "label": "<p class=\"dap_body\">When&nbsp; <span class=\"dap_inline\">num</span>&nbsp; is positive</p>"
+      },
+      {
+        "value": "01JERVP9SCTQ3PD2634EWB5G0H",
+        "label": "<p class=\"dap_body\">When&nbsp; <span class=\"dap_inline\">num</span>&nbsp; is negative</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.5",
+    "text": "3.5: Methods: How to Write Them"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

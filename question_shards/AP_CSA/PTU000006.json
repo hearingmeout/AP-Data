@@ -1,0 +1,39 @@
+{
+  "id": "PTU000006",
+  "type": "mcq",
+  "title": "nested if-else start end - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What is the value of&nbsp; <code class=\"dap_inline\">end</code>&nbsp; after the code segment is executed?</p>",
+    "answer": "01JSDC637F14X1M38XG5840ZN9",
+    "choices": [
+      {
+        "value": "01JSDC637EYGJ1A6D7SMWTCS9J",
+        "label": "<pre><code class=\"language-plaintext\">5</code></pre>"
+      },
+      {
+        "value": "01JSDC637F14X1M38XG5840ZN9",
+        "label": "<pre><code class=\"language-plaintext\">6</code></pre>"
+      },
+      {
+        "value": "01JSDC637F16Y9PAK46J2QNCWR",
+        "label": "<pre><code class=\"language-plaintext\">9</code></pre>"
+      },
+      {
+        "value": "01JSDC637FC9J1J3YC0J028GHM",
+        "label": "<pre><code class=\"language-plaintext\">10</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Nested `if` Statements"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "PZP000008",
+  "type": "mcq",
+  "title": "Nested ifs with x y a b - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What are the values of&nbsp; <code class=\"dap_inline\">a</code>,&nbsp; <code class=\"dap_inline\">b</code>,&nbsp; and&nbsp; <code class=\"dap_inline\">x</code>&nbsp; after the code segment is executed?</p>",
+    "answer": "01JSDW8QV1V9WHRQ9PQ1N8W8CF",
+    "choices": [
+      {
+        "value": "01JSDW8QV0SNMCX1PMZ26Y0XQC",
+        "label": "<p class=\"dap_body\"><code class=\"dap_inline\">a = true</code>,&nbsp; <code class=\"dap_inline\">b = true,</code> &nbsp;<code class=\"dap_inline\">x = <span class=\"tts-container\" data-ssml-say-as=\"characters\" ssml-label=\"Characters\">-</span>1</code></p>"
+      },
+      {
+        "value": "01JSDW8QV0RX79JV3D3DQ29MRE",
+        "label": "<p class=\"dap_body\"><code class=\"dap_inline\">a = true</code>, &nbsp;<code class=\"dap_inline\">b = false</code>, &nbsp;<code class=\"dap_inline\">x = 3</code></p>"
+      },
+      {
+        "value": "01JSDW8QV1V9WHRQ9PQ1N8W8CF",
+        "label": "<p class=\"dap_body\"><code class=\"dap_inline\">a = true</code>, &nbsp;<code class=\"dap_inline\">b = false</code>, &nbsp;<code class=\"dap_inline\">x = 7</code></p>"
+      },
+      {
+        "value": "01JSDX0FM1CM8Y89XRHTRRBHWH",
+        "label": "<p class=\"dap_body\"><code class=\"dap_inline\">a = false</code>, &nbsp;<code class=\"dap_inline\">b = false</code>, &nbsp;<code class=\"dap_inline\">x = 11</code></p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Nested `if` Statements"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

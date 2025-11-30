@@ -1,0 +1,43 @@
+{
+  "id": "FT544957",
+  "type": "mcq",
+  "title": "Probability of sample mean dexterity task time",
+  "content": {
+    "prompt": "<p>A recent study was conducted to investigate the duration of time required to complete a certain manual dexterity task. The reported mean was 10.2 seconds with a standard deviation of 16.0 seconds. Suppose the reported values are the true mean and standard deviation for the population of subjects in the study. If a random sample of 144 subjects is selected from the population, what is the approximate probability that the mean of the sample will be more than 11.0 seconds?</p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>0.1151</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>0.2743</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>0.7257</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>0.8849</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>Based on the values of the true mean and true standard deviation, it can be concluded that the population distribution is not normal and therefore the probability cannot be calculated.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Sampling Distributions"
+  },
+  "topic": {
+    "code": "5.2",
+    "text": "5.2: The Normal Distribution, Revisited"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Determine parameters for probability distributions."
+  }
+}

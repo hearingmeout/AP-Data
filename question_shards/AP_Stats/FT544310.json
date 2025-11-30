@@ -1,0 +1,43 @@
+{
+  "id": "FT544310",
+  "type": "mcq",
+  "title": "Sample statistics that change after multiplying",
+  "content": {
+    "prompt": "<p>Consider a data set of positive values, at least two of which are not equal. Which of the following sample statistics will be changed when each value in this data set is multiplied by a constant whose absolute value is greater than 1?</p><ol style=\"list-style-type:upper-roman\"><li><p>The mean</p></li><li><p>The median</p></li><li><p>The standard deviation</p></li></ol>",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>I only</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>II only</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>III only</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>I and II only</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>I, II and III</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.9",
+    "text": "4.9: Combining Random Variables"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT548647",
+  "type": "mcq",
+  "title": "Conclusion for test proportion of overweight dogs",
+  "content": {
+    "prompt": "In the states of Florida and Colorado, veterinarians investigating obesity in dogs obtained random samples of pet medical records and recorded the weights of the dogs in the samples. A test was conducted of H<sub>0</sub> : <em>p</em><sub>1</sub> = <em>p</em><sub>2</sub> versus H<sub>a</sub> : <em>p</em><sub>1</sub> ≠ <em>p</em><sub>2</sub>, where <em>p</em><sub>1</sub> represents the proportion of all overweight dogs in Florida and <em>p</em><sub>2</sub> represents the proportion of all overweight dogs in Colorado. The resulting test statistic for a two-sample <em>z</em>-test for a difference between proportions was 1.85. At the significance level <em>α</em>  = 0.05, which of the following is a correct conclusion?",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>There is not sufficient statistical evidence to conclude that the proportion of all overweight dogs in Florida is different from the proportion of all overweight dogs in Colorado because the <em>p</em>-value is greater than 0.05.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>There is not sufficient statistical evidence to conclude that the proportion of all overweight dogs in Florida is different from the proportion of all overweight dogs in Colorado because the <em>z</em>-test statistic is greater than 0.05.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>There is sufficient statistical evidence to conclude that the proportion of all overweight dogs in Florida is different from the proportion of all overweight dogs in Colorado because the <em>p</em>-value is greater than 0.05.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>There is sufficient statistical evidence to conclude that the proportion of all overweight dogs in Florida is different from the proportion of all overweight dogs in Colorado because the <em>p</em>-value is less than 0.05.</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>There is sufficient statistical evidence to conclude that the proportion of all overweight dogs in Florida is greater than the proportion of all overweight dogs in Colorado because the <em>z</em>-test statistic is positive.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.11",
+    "text": "6.11: Carrying Out a Test for the Difference of Two Population Proportions"
+  },
+  "skill": {
+    "code": "Skill 4.E",
+    "text": "Skill 4.E: Justify a claim using a decision based on significance tests."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ZGE000003",
+  "type": "mcq",
+  "title": "Recursive letterRun - determine output",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What is returned as a result of the method call&nbsp; <code class=\"dap_inline\">mystery(5)</code>?</p>",
+    "answer": "01JGM4ZV9210NJGAAWTEPFCR31",
+    "choices": [
+      {
+        "value": "01JGM4ZV91NVQ80ENF4EWTZPEW",
+        "label": "<pre><code class=\"language-plaintext\">8</code></pre>"
+      },
+      {
+        "value": "01JGM4ZV92J4S6MR44HY4MP98N",
+        "label": "<pre><code class=\"language-plaintext\">13</code></pre>"
+      },
+      {
+        "value": "01JGM4ZV9210NJGAAWTEPFCR31",
+        "label": "<pre><code class=\"language-plaintext\">14</code></pre>"
+      },
+      {
+        "value": "01JGM4ZV934Y3D60XJMMP1P1ZT",
+        "label": "<pre><code class=\"language-plaintext\">20</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.16",
+    "text": "4.16: Recursion"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

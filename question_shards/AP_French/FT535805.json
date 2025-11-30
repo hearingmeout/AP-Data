@@ -1,0 +1,35 @@
+{
+  "id": "FT535805",
+  "type": "mcq",
+  "title": "A fable - source of fear",
+  "content": {
+    "prompt": "<p>De quoi la fée a-t-elle peur ?</p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "label": "Que la nature commence à imiter les humains",
+        "value": "i0"
+      },
+      {
+        "label": "Que les gens lui demandent d’acheter des diamants",
+        "value": "i1"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Que son carrosse roule dans la prairie</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Que les humains refusent ce qu’elle leur offre</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: The Influence of Language and Culture on Identity"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

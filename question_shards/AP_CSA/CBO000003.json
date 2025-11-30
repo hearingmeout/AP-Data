@@ -1,0 +1,39 @@
+{
+  "id": "CBO000003",
+  "type": "mcq",
+  "title": "Generate passcode - describe conditions",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following must be true for the code segment to compile without error?</p>",
+    "answer": "01JCH28BGSFW91M8HZAM69M5NX",
+    "choices": [
+      {
+        "value": "01JCH28BGR8TAP19A29FJYY5DH",
+        "label": "<p class=\"dap_body\">The&nbsp; <span class=\"dap_inline\">generatePasscode</span>&nbsp; method should be designated as&nbsp; <span class=\"dap_inline\">void</span>.</p>"
+      },
+      {
+        "value": "01JCH28BGSFW91M8HZAM69M5NX",
+        "label": "<p class=\"dap_body\">The&nbsp; <span class=\"dap_inline\">generatePasscode</span>&nbsp; method should be designated as&nbsp; <span class=\"dap_inline\">static</span>.</p>"
+      },
+      {
+        "value": "01JCH28BGTD7VC97JBCVKJVR1D",
+        "label": "<p class=\"dap_body\">The&nbsp; <span class=\"dap_inline\">AccountManager</span>&nbsp; class should contain another method with the name&nbsp; <span class=\"dap_inline\">generatePasscode</span>&nbsp; that has at least one parameter.</p>"
+      },
+      {
+        "value": "01JCH28BGT2T3AJGQBCAATY0TR",
+        "label": "<p class=\"dap_body\">The&nbsp; <span class=\"dap_inline\">AccountManager</span>&nbsp; class should contain another method with the name&nbsp; <span class=\"dap_inline\">generatePasscode</span>&nbsp; that has return type&nbsp; <span class=\"dap_inline\">double</span>.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.10",
+    "text": "1.10: Calling Class Methods"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

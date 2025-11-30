@@ -1,0 +1,43 @@
+{
+  "id": "FT548644",
+  "type": "mcq",
+  "title": "Differentiability from graph",
+  "content": {
+    "prompt": "<p><img alt=\"The graph of a function is a curve. The curve is first a concave up decreasing curve that originates from the point negative 2 comma 1 and slopes gradually to an open point 0 comma negative 1. Then the curve resembles two semicircles that begins from the origin, passes through the fourth quadrant to the point 2 comma 0. The curve further passes through the first quadrant to the point 4 comma 0. \" src=\"/images/7d527cd350392306c004e5b7af2abe47.png\"></p><p>The graph of the function f shown in the figure above has a vertical tangent at the point (2,0) and horizontal tangents at the points (1, -1) and (3,1) . For what values of <em>x</em>, -2&lt;<em>x</em>&lt;4, is <em>f</em> not differentiable? </p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>0 only</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>0 and 2 only</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>1 and 3 only</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>0, 1, and 3 only</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>0, 1, 2, and 3</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Connecting Differentiability and Continuity - Determining When Derivatives Do and Do Not Exist"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Provide reasons or rationales for solutions and conclusions."
+  }
+}

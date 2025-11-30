@@ -1,0 +1,39 @@
+{
+  "id": "VR804184",
+  "type": "mcq",
+  "title": "RC circuits - 2 circuits with lots of Rs and Cs",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"standalone_image\"><img alt=\"The figure shows two rectangular circuits, labeled Circuit 1 and Circuit 2. In each circuit, the top horizontal branch has a switch, and the bottom horizontal branch has a battery with e m f script uppercase E. In Circuit 1, the left vertical branch has a capacitor with capacitance C, and the right vertical branch has a resistor with resistance R. In Circuit 2, the left vertical branch has a capacitor with capacitance C, and the right vertical branch splits into two branches, each with a resistor of resistance R, and then recombines again.\" src=\"/images/c33247ccbb2350185d4fb9da7b200421.svg\"></div></div></div><p class=\"stem_paragraph\">The two circuits shown in the figure contain identical batteries, resistors, and capacitors. The switches have both been closed for a long time so that both circuits have reached a steady state. The switches are then both opened and the batteries replaced with wires. The switches are then closed again. In which circuit will the capacitor more quickly discharge to half of its initial charge, and what evidence or reasoning supports the claim?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Circuit <span class=\"math_expression\"><span aria-label=\"1\"><math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math></span></span>. Circuit <span class=\"math_expression\"><span aria-label=\"1\"><math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math></span></span> has a greater equivalent resistance.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Circuit <span class=\"math_expression\"><span aria-label=\"1\"><math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math></span></span>. Circuit <span class=\"math_expression\"><span aria-label=\"1\"><math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math></span></span> has a smaller time constant.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Circuit <span class=\"math_expression\"><span aria-label=\"2\"><math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math></span></span>. Circuit <span class=\"math_expression\"><span aria-label=\"2\"><math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math></span></span> has a greater equivalent resistance.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Circuit <span class=\"math_expression\"><span aria-label=\"2\"><math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math></span></span>. Circuit <span class=\"math_expression\"><span aria-label=\"2\"><math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math></span></span> has a smaller time constant.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.8",
+    "text": "11.8: Resistor-Capacitor (RC) Circuits"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

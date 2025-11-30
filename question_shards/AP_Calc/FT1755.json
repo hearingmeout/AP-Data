@@ -1,0 +1,43 @@
+{
+  "id": "FT1755",
+  "type": "mcq",
+  "title": "Particle motion velocity based on position graph",
+  "content": {
+    "prompt": "<p><img alt=\"A graph plots a particle's position, x of t, at time t, for 0 less than t, less than 6. The horizontal axis represents t and ranges from 0 through 6, in increments of 1. The vertical axis represents, x of t and ranges from negative 2 through 2, in increments of 1. A line is plotted on the graph, which starts from the point (0, negative 0.5), declines to the point, (1, negative 1.5). The line then steadily rises with a positive slope, passes through the point (3, 0), and peaks at the point (5, 1). The line then declines and culminates at the point (6, 0.5). All values are estimated.\" height=\"142\" src=\"/images/4ef7726164bf4c925fd8a346096120de.gif\" width=\"295\"></p>\n\n<p>A particle moves along a straight line. The graph of the particle’s position <em>x</em>(<em>t</em>) at time <em>t</em> is shown above for 0 &lt; <em>t</em> &lt; 6. The graph has horizontal tangents at&nbsp;<em>t</em> = 1 and <em>t</em> = 5 and a point of inflection at <em>t</em> = 2 For what values of <em>t</em> is the velocity of the particle increasing?</p>\n",
+    "answer": "i0",
+    "choices": [
+      {
+        "label": "0 &lt; <em>t</em> &lt; 2",
+        "value": "i0"
+      },
+      {
+        "label": "1 &lt; <em>t</em> &lt; 5",
+        "value": "i1"
+      },
+      {
+        "label": "2 &lt; <em>t</em> &lt; 6",
+        "value": "i2"
+      },
+      {
+        "label": "3 &lt; <em>t</em> &lt; 5 only",
+        "value": "i3"
+      },
+      {
+        "label": "1 &lt; <em>t</em> &lt; 2 only 5 &lt; <em>t</em> &lt; 6",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Contextual Applications of Differentiation"
+  },
+  "topic": {
+    "code": "4.2",
+    "text": "4.2: Straight-Line Motion - Connecting Position, Velocity, and Acceleration"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Identify mathematical information from graphical, numerical, analytical, and/or verbal representations."
+  }
+}

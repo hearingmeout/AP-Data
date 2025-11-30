@@ -1,0 +1,39 @@
+{
+  "id": "HDB000000",
+  "type": "mcq",
+  "title": "Logarithmic Manipulation - dilations",
+  "content": {
+    "prompt": "<div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <p class=\"dap_body\">​The function&nbsp;<span aria-label=\"f\"><math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;is given by&nbsp;<span aria-label=\"f open parentheses x close parentheses equals log subscript 10 x\"><math alttext=\"f open parentheses x close parentheses equals log subscript 10 x\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msub><mi>log</mi><mn>10</mn></msub><mi>x</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>. The function&nbsp;<span aria-label=\"g\"><math alttext=\"g\"><semantics><mi>g</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;is given by&nbsp;<span aria-label=\"g open parentheses x close parentheses equals log subscript 10 open parentheses x cubed close parentheses\"><math alttext=\"g open parentheses x close parentheses equals log subscript 10 open parentheses x cubed close parentheses\"><semantics><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msub><mi>log</mi><mn>10</mn></msub><mfenced><msup><mi>x</mi><mn>3</mn></msup></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>. Which of the following describes a transformation for which the graph of&nbsp;<span aria-label=\"g\"><math alttext=\"g\"><semantics><mi>g</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;is the image of the graph of&nbsp;<span aria-label=\"f\"><math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;?</p> </div> </div> </div>\n",
+    "answer": "A-28778",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\">​A vertical dilation by a factor of&nbsp;<span aria-label=\"3\"><math alttext=\"3\"><semantics><mn>3</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "A-28778"
+      },
+      {
+        "label": "<p class=\"dap_body\">​​A vertical dilation by a factor of&nbsp;<span aria-label=\"1 third\"><math alttext=\"1 third\"><semantics><mfrac><mn>1</mn><mn>3</mn></mfrac><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "B-28779"
+      },
+      {
+        "label": "<p class=\"dap_body\">​A horizontal dilation by a factor of&nbsp;<span aria-label=\"3\"><math alttext=\"3\"><semantics><mn>3</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "C-28780"
+      },
+      {
+        "label": "<p class=\"dap_body\">​​​A horizontal dilation by a factor of&nbsp;<span aria-label=\"1 third\"><math alttext=\"1 third\"><semantics><mfrac><mn>1</mn><mn>3</mn></mfrac><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "D-28781"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.12",
+    "text": "2.12: Logarithmic Function Manipulation"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Describe the characteristics of a function with varying levels of precision, depending on the function representation and available mathematical tools."
+  }
+}

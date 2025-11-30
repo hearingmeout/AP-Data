@@ -1,0 +1,39 @@
+{
+  "id": "AVP000001",
+  "type": "mcq",
+  "title": "methodA and methodB - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Consider the call <span class=\"dap_inline\">methodA(4)</span>, which appears in a method in the same class. What, if anything, is printed as a result of the call <span class=\"dap_inline\">methodA(4)</span>?</p>",
+    "answer": "1726083438839.2341",
+    "choices": [
+      {
+        "value": "1726083438839.08",
+        "label": "<pre><code class=\"language-plaintext\">40</code></pre>"
+      },
+      {
+        "value": "1726083438839.2341",
+        "label": "<pre><code class=\"language-plaintext\">50</code></pre>"
+      },
+      {
+        "value": "1726083438839.387",
+        "label": "<pre><code class=\"language-plaintext\">140</code></pre>"
+      },
+      {
+        "value": "17260835785114.662",
+        "label": "<p class=\"dap_body\">Nothing is printed.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Method Signatures"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

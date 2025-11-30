@@ -1,0 +1,35 @@
+{
+  "id": "VR029522",
+  "type": "mcq",
+  "title": "Number of elements in one list but not both",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following can be used to assign the intended value to <span class=\"inline_code\">count</span> ?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">bothList <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> Combine (list1, list2)</p><p class=\"code_line\">uniqueList <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> RemoveAllDups (bothList)</p><p class=\"code_line\">count <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> LENGTH (bothList) - LENGTH (uniqueList)</p></div>",
+        "value": "i1"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">newList1 <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> RemoveAllDups (list1)</p><p class=\"code_line\">newList2 <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> RemoveAllDups (list2)</p><p class=\"code_line\">bothList <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> Combine (newList1, newList2)</p><p class=\"code_line\">count <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> LENGTH (list1) + LENGTH (list2) - LENGTH (bothList)</p></div>",
+        "value": "i2"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">newList1 <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> RemoveAllDups (list1)</p><p class=\"code_line\">newList2 <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> RemoveAllDups (list2)</p><p class=\"code_line\">bothList <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> Combine (newList1, newList2)</p><p class=\"code_line\">count <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> LENGTH (newList1) + LENGTH (newList2) - LENGTH (bothList)</p></div>",
+        "value": "i3"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">newList1 <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> RemoveAllDups (list1)</p><p class=\"code_line\">newList2 <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> RemoveAllDups (list2)</p><p class=\"code_line\">bothList <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> Combine (newList1, newList2)</p><p class=\"code_line\">uniqueList <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> RemoveAllDups (bothList)</p><p class=\"code_line\">count <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> LENGTH (bothList) - LENGTH (uniqueList)</p></div>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.12",
+    "text": "3.12: Calling Procedures"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Use abstraction to manage complexity in a program."
+  }
+}

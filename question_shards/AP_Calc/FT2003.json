@@ -1,0 +1,43 @@
+{
+  "id": "FT2003",
+  "type": "mcq",
+  "title": "Mean Value Theorem with table",
+  "content": {
+    "prompt": "<p><img alt=\"A table of values is given for ordered pairs of x and f(x).  The ordered pairs are (0,2), (1,3), (2,4), (3,3), and (4,2).\" src=\"/images/d00fc5654ff09503a6778a3d80fdcf87.png\"></p><p>The function <em>f</em> is continuous and differentiable on the closed interval [0,4]. The table above gives selected values of <em>f</em> on this interval. Which of the following statements must be true?</p>",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The minimum value of <em>f</em> on [0,4] is 2.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The maximum value of <em>f</em> on [0,4] is 4.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p><em>f</em>(<em>x</em>) &gt; 0 for 0 &lt; <em>x</em> &lt; 4</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p><em>f’</em>(<em>x</em>) &lt; 0 for 2 &lt; <em>x</em> &lt; 4</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>There exists <em>c</em>, with 0 &lt; <em>c</em> &lt; 4, for which<em> f’</em>(<em>c</em>) = 0.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.1",
+    "text": "5.1: Using the Mean Value Theorem"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Provide reasons or rationales for solutions and conclusions."
+  }
+}

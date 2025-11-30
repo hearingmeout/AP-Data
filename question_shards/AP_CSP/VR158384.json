@@ -1,0 +1,35 @@
+{
+  "id": "VR158384",
+  "type": "mcq",
+  "title": "Multifactor authentication for bank login",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following best exemplifies the use of multifactor authentication to protect an online banking system?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">When a user resets a password for an online bank account, the user is required to enter the new password twice.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">When multiple people have a shared online bank account, they are each required to have their own unique username and password.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">After entering a password for an online bank account, a user must also enter a code that is sent to the user’s phone via text message.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">An online bank requires users to change their account passwords multiple times per year without using the same password twice.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "5.6",
+    "text": "5.6: Safe Computing"
+  },
+  "skill": {
+    "code": "Skill 5.E",
+    "text": "Skill 5.E: Evaluate the use of computing based on legal and ethical factors."
+  }
+}

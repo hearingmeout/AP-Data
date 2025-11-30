@@ -1,0 +1,39 @@
+{
+  "id": "PRM000001",
+  "type": "mcq",
+  "title": "Put 2D array data in an ArrayList - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following can replace <span class=\"dap_inline\">/* missing code */</span> to produce this result?</p>",
+    "answer": "1719424284828.3252",
+    "choices": [
+      {
+        "value": "1719424284828.269",
+        "label": "<pre><code class=\"language-plaintext\">for (int j = 0; j &lt; mat.length; j++)\n{\n   for (int k = 0; k &lt;= mat[0].length; k++) \n   {\n       result.add(mat[j][k]);\n   }\n}</code></pre>"
+      },
+      {
+        "value": "1719424284828.3252",
+        "label": "<pre><code class=\"language-plaintext\">for (int j = 0; j &lt; mat.length; j++)\n{\n   for (int k = mat[0].length - 1; k &gt;= 0; k--) \n   {\n      result.add(mat[j][k]);\n   }\n}</code></pre>"
+      },
+      {
+        "value": "1719424284828.866",
+        "label": "<pre><code class=\"language-plaintext\">for (int j = mat.length - 1; j &gt;= 0; j--)\n{\n   for (int k = 0; k &lt;= mat[0].length; k++) \n   {\n      result.add(mat[j][k]);\n   }\n}</code></pre>"
+      },
+      {
+        "value": "1719424284828.46",
+        "label": "<pre><code class=\"language-plaintext\">for (int j = mat.length - 1; j &gt;= 0; j--)\n{\n   for (int k = mat[0].length - 1; k &gt;= 0; k--) \n   {\n      result.add(mat[j][k]);\n   }\n}</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

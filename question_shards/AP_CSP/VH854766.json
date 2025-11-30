@@ -1,0 +1,35 @@
+{
+  "id": "VH854766",
+  "type": "mcq",
+  "title": "What can be determined from the course grade data",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VH854765.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div>\n<p class=\"stem_paragraph\">An administrator at the school has data about hundreds of students in a particular course. While the administrator does not know the values of each student’s individual assignment scores, the administrator does have the following information for each student.</p>\n<ul>\n<li class=\"list_paragraph\">The student name</li>\n<li class=\"list_paragraph\">A unique student ID number</li>\n<li class=\"list_paragraph\">The number of assignments for the course</li>\n<li class=\"list_paragraph\">The average assignment score before the lowest score was dropped</li>\n<li class=\"list_paragraph\">The course grade after the lowest score was dropped</li>\n</ul>\n<p class=\"stem_paragraph\">Which of the following CANNOT be determined from this data alone?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">For a given student, the value of the highest assignment score</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">For a given student, the value of the lowest assignment score</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">For a given student, the change in course grade as a result of dropping the lowest score</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The proportion of students who improved their course grade as a result of dropping the lowest score</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: Extracting Information from Data"
+  },
+  "skill": {
+    "code": "Skill 5.B",
+    "text": "Skill 5.B: Explain how knowledge can be generated from data."
+  }
+}

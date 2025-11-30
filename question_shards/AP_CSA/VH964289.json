@@ -1,0 +1,39 @@
+{
+  "id": "VH964289",
+  "type": "mcq",
+  "title": "how many times println called in data traversal",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Consider the following two-dimensional array definition.</p><div class=\"standalone_code style:1\"><p class=\"code_line indent:0\">int[][] data = new int[5][10];</p></div><p class=\"stem_paragraph\">Consider the following code segment, where all elements in <span class=\"inline_code\">data</span> have been initialized.</p><div class=\"standalone_code style:1\"><p class=\"code_line indent:0\">for (int j = 0;&nbsp;j &lt; data.length;&nbsp;j++)</p><p class=\"code_line indent:0\">{</p><p class=\"code_line indent:3\">for (int k = 0;&nbsp;k &lt; data[0].length;&nbsp;k++)</p><p class=\"code_line indent:3\">{</p><p class=\"code_line indent:6\">if (j == k)</p><p class=\"code_line indent:6\">{</p><p class=\"code_line indent:9\">System.out.println(data[j][k]);</p><p class=\"code_line indent:6\">}</p><p class=\"code_line indent:3\">}</p><p class=\"code_line indent:0\">}</p></div><p class=\"stem_paragraph\">How many times is the <span class=\"inline_code\">println</span> method called when the code segment is executed?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">4</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">5</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">9</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">10</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.12",
+    "text": "4.12: 2D Array Traversals"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT544956",
+  "type": "mcq",
+  "title": "Confidence interval for slope for rubber bands",
+  "content": {
+    "prompt": "<p>Raoul performed an experiment using 16 windup rubber band single-propeller airplanes. He wound up the propeller a different number of times and recorded the amount of time (in seconds) that the airplane flew for each number of rotations that the propeller was wound. A regression analysis was performed and the partial computer output is given below.</p><p><img alt=\"An image is shown of the output from a regression analysis. At the top it reads the regression equation is time equals 0.924 plus 0.0462 times rotations. Below this is a table with five columns labeled predictor, coefficient, S E coefficient, T, and P. The first row reads constant, 0.9241, 0.6413, 1.44, and 0.172. The second row reads rotation, 0.04625, 0.01565, 2.96, and 0.010. Below the table it reads S equals 0.5426, R squared equals 38.4 percent, and R squared adjusted equals 34 percent.\" src=\"/images/3280af25fc20f9010cf212a504823e14.png\"></p><p>Which of the following is a 95 percent confidence interval for the slope of the regression line that relates the number of rotations the rubber band is wound and the plane's flight time?</p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>0.0462  ±  (2.145)(0.01565)</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>0.924  ±  (2.145)(0.6413)</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>0.0462  ±  (2.96)(0.01565)</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>0.924  ±  (2.96)(0.6413)</p>"
+      },
+      {
+        "label": "0.0462 ± (2.131)(0.01565)",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Inference for Quantitative Data-Slopes"
+  },
+  "topic": {
+    "code": "9.2",
+    "text": "9.2: Confidence Intervals for the Slope of a Regression Model"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Construct a confidence interval, provided conditions for inference are met."
+  }
+}

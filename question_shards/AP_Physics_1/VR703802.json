@@ -1,0 +1,39 @@
+{
+  "id": "VR703802",
+  "type": "mcq",
+  "title": "SHM - same period different displacements",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">A block is attached to one end of a horizontal spring. The block is displaced by a distance <span class=\"math_expression\"><span aria-label=\"delta x\"><math alttext=\"delta x\" display=\"inline\" overflow=\"scroll\"><mtext>Δ</mtext><mi>x</mi></math></span></span> from equilibrium, and when the block is released, it oscillates in simple harmonic motion with period <span class=\"math_expression\"><span aria-label=\"T\"><math alttext=\"T\" display=\"inline\" overflow=\"scroll\"><mi>T</mi></math></span></span>. If the block is displaced by a distance <span class=\"math_expression\"><span aria-label=\"2 delta x\"><math alttext=\"2 delta x\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mtext>Δ</mtext><mi>x</mi></math></span></span>, it will also oscillate in simple harmonic motion with period <span class=\"math_expression\"><span aria-label=\"T\"><math alttext=\"T\" display=\"inline\" overflow=\"scroll\"><mi>T</mi></math></span></span>. Why does the period not increase when the initial displacement increases?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Because the equilibrium position will change when the initial displacement changes such that the block oscillates with the same amplitude and the same average speed.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Because the spring constant of the spring decreases with increasing displacement, which makes the block move with greater average speed when it is displaced more.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Because the spring exerts the same force on the block at the maximum displacement of the block, in both scenarios.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Because even though the block travels a larger distance during one oscillation when the initial displacement is greater, the average speed also increases by the same factor.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Oscillations"
+  },
+  "topic": {
+    "code": "7.2",
+    "text": "7.2: Frequency and Period of SHM"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

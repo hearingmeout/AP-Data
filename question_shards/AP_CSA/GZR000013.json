@@ -1,0 +1,39 @@
+{
+  "id": "GZR000013",
+  "type": "mcq",
+  "title": "Print BCEF with substrings - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following expressions can be used to replace&nbsp; <span class=\"dap_inline\">/*&nbsp;missing&nbsp;code&nbsp;*/</span>&nbsp; so that the code segment prints the string&nbsp; &nbsp;<span class=\"dap_inline\">\"</span><span class=\"dap_inline tts-container\" data-ssml-say-as=\"characters\" ssml-label=\"Characters\">BCEF</span><span class=\"dap_inline\">\"</span>?</p>",
+    "answer": "01JG53ZQ1EQYZ2B2TJ0QVAYS3J",
+    "choices": [
+      {
+        "value": "01JG53ZQ1E13QH5Z57J94RXZ2G",
+        "label": "<pre><code class=\"language-plaintext\">oldStr.substring(1, 2) + oldStr.substring(4)</code></pre>"
+      },
+      {
+        "value": "01JG53ZQ1ETSJDK9C7XSZ0D851",
+        "label": "<pre><code class=\"language-plaintext\">oldStr.substring(1, 2) + oldStr.substring(5)</code></pre>"
+      },
+      {
+        "value": "01JG53ZQ1EQYZ2B2TJ0QVAYS3J",
+        "label": "<pre><code class=\"language-plaintext\">oldStr.substring(1, 3) + oldStr.substring(4)</code></pre>"
+      },
+      {
+        "value": "01JG53ZQ1E6BFQ319X9HE3XSYP",
+        "label": "<pre><code class=\"language-plaintext\">oldStr.substring(1, 3) + oldStr.substring(5)</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

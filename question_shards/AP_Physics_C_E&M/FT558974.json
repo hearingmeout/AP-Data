@@ -1,0 +1,43 @@
+{
+  "id": "FT558974",
+  "type": "mcq",
+  "title": "Changes as slab is inserted with open switch",
+  "content": {
+    "prompt": "<p>If, instead, the switch is open with the capacitor still fully charged when the slab is inserted, what changes, if any, occur?</p>",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<table class=\"table table-bordered\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><u>Potential Difference Across the Plates</u></td>\n\t\t\t<td><u>Charge on Positive Plate</u></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Remains the same</td>\n\t\t\t<td>Increases</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i0"
+      },
+      {
+        "label": "<table class=\"table table-bordered\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><u>Potential Difference Across the Plates</u></td>\n\t\t\t<td><u>Charge on Positive Plate</u></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Remains the same</td>\n\t\t\t<td>Decreases</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i1"
+      },
+      {
+        "label": "<table class=\"table table-bordered\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><u>Potential Difference Across the Plates</u></td>\n\t\t\t<td><u>Charge on Positive Plate</u></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Increases</td>\n\t\t\t<td>Remains the same</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i2"
+      },
+      {
+        "label": "<table class=\"table table-bordered\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><u>Potential Difference Across the Plates</u></td>\n\t\t\t<td><u>Charge on Positive Plate</u></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Decreases</td>\n\t\t\t<td>Increases</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i3"
+      },
+      {
+        "label": "<table class=\"table table-bordered\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><u>Potential Difference Across the Plates</u></td>\n\t\t\t<td><u>Charge on Positive Plate</u></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Decreases</td>\n\t\t\t<td>Remains the same</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Conductors and Capacitors"
+  },
+  "topic": {
+    "code": "10.3",
+    "text": "10.3: Capacitors"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

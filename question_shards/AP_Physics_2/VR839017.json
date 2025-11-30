@@ -1,0 +1,39 @@
+{
+  "id": "VR839017",
+  "type": "mcq",
+  "title": "Electric current - max current on q-vs-time graph",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"standalone_image\"><img alt=\"The figure shows a line graph in the first quadrant of a coordinate plane. The horizontal axis is labeled “Time, in seconds,” and the numbers 0 through 16, in increments of 2, are indicated. The vertical axis is labeled “Charge, in coulombs,” and the numbers 0 through 12, in increments of 2, are indicated. The line graph begins at the origin and slants upward and to the right to the point with coordinates 3 comma 4. The line then slants upward and to the right at a slightly slower rate to the point with coordinates 4 comma 5. The line then slants upward and to the right at a slightly slower rate to the point with coordinates 13 comma 11. The line then slants upward and to the right at a slightly slower rate, ending at the point with coordinates 15 comma 12.\" src=\"/images/fd3547dc16af00e216cb2c877e51aa7c.svg\"></div></div></div><p class=\"stem_paragraph\">The graph shows the cumulative amount of charge as a function of time <span class=\"math_expression\"><span aria-label=\"t\"><math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mi>t</mi></math></span></span> that has passed through the cross-sectional area of a wire since time zero. During which of the following time intervals is the current in the wire the greatest?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"0 seconds, is less than or equal to, t, which is less than or equal to 3 seconds\"><math alttext=\"0 seconds, is less than or equal to, t, which is less than or equal to 3 seconds\" display=\"inline\" overflow=\"scroll\"><mn>0</mn><mspace width=\"0.25em\"></mspace><mtext>s</mtext><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>3</mn><mspace width=\"0.25em\"></mspace><mtext>s</mtext></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"3 seconds, is less than or equal to, t, which is less than or equal to 4 seconds\"><math alttext=\"3 seconds, is less than or equal to, t, which is less than or equal to 4 seconds\" display=\"inline\" overflow=\"scroll\"><mn>3</mn><mspace width=\"0.25em\"></mspace><mtext>s</mtext><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>4</mn><mspace width=\"0.25em\"></mspace><mtext>s</mtext></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"4 seconds, is less than or equal to, t, which is less than or equal to 13 seconds\"><math alttext=\"4 seconds, is less than or equal to, t, which is less than or equal to 13 seconds\" display=\"inline\" overflow=\"scroll\"><mn>4</mn><mspace width=\"0.25em\"></mspace><mtext>s</mtext><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>13</mn><mspace width=\"0.25em\"></mspace><mtext>s</mtext></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"13 seconds, is less than or equal to, t, which is less than or equal to 15 seconds\"><math alttext=\"13 seconds, is less than or equal to, t, which is less than or equal to 15 seconds\" display=\"inline\" overflow=\"scroll\"><mn>13</mn><mspace width=\"0.25em\"></mspace><mtext>s</mtext><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>15</mn><mspace width=\"0.25em\"></mspace><mtext>s</mtext></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.1",
+    "text": "11.1: Electric Current"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

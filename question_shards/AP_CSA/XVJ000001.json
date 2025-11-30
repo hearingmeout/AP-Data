@@ -1,0 +1,39 @@
+{
+  "id": "XVJ000001",
+  "type": "mcq",
+  "title": "Create Painting object - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following code segments, appearing in a class other than <span class=\"dap_inline\">Painting</span>, will correctly create an instance of a <span class=\"dap_inline\">Painting</span> object?</p>",
+    "answer": "1717008172438.6865",
+    "choices": [
+      {
+        "value": "1717008172438.0566",
+        "label": "<pre><code class=\"language-plaintext\">Painting p = new Painting(\"Frida Kahlo\", \"Self Portrait\", 1939);</code></pre>"
+      },
+      {
+        "value": "1717008172438.1462",
+        "label": "<pre><code class=\"language-plaintext\">Painting p = new Painting(1939, \"Frida Kahlo\", \"Self Portrait\");</code></pre>"
+      },
+      {
+        "value": "1717008172438.6543",
+        "label": "<pre><code class=\"language-plaintext\">Painting p = new Painting(\"Frida Kahlo\", 1939);</code></pre>"
+      },
+      {
+        "value": "1717008172438.6865",
+        "label": "<pre><code class=\"language-plaintext\">Painting p = new Painting(1939, \"Frida Kahlo\");</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Method Signatures"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

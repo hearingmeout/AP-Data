@@ -1,0 +1,39 @@
+{
+  "id": "ZYP000005",
+  "type": "mcq",
+  "title": "Parse method with text file - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following can replace &nbsp;<span class=\"dap_inline\">/* missing expression */</span>&nbsp; so that the code segment works as intended?</p>",
+    "answer": "01JGPKWVSRWGQ42MH9JQQ83TM5",
+    "choices": [
+      {
+        "value": "01JGPKWVSRWWF02535ZQ44EFXT",
+        "label": "<pre><code class=\"language-plaintext\">Double.parseDouble(scan.next())</code></pre>"
+      },
+      {
+        "value": "01JGPKWVSRWGQ42MH9JQQ83TM5",
+        "label": "<pre><code class=\"language-plaintext\">Integer.parseInt(scan.next())</code></pre>"
+      },
+      {
+        "value": "01JGPKWVSRK1Y9BYS6GXK5J3H0",
+        "label": "<pre><code class=\"language-plaintext\">Integer.parseInt(scan.nextInt())</code></pre>"
+      },
+      {
+        "value": "01JGPKWVSRPWVAT5ZN09NGEBFZ",
+        "label": "<pre><code class=\"language-plaintext\">Integer.parseInt(scan.nextLine())</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.7",
+    "text": "4.7: Wrapper Classes"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

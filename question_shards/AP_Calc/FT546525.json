@@ -1,0 +1,43 @@
+{
+  "id": "FT546525",
+  "type": "mcq",
+  "title": "Parametric equations, find dy/dx",
+  "content": {
+    "prompt": "<p>If <em>x=t</em><sup>2</sup>-1 and<em> y</em>=2e<sup>t</sup>, then <math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the derivative of y with respect to x equals\">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mrow>\n     <mi>d</mi><mi>y</mi></mrow>\n    <mrow>\n     <mi>d</mi><mi>x</mi></mrow>\n   </mfrac>\n   <mo>=</mo></mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWcaaWdaeaapeGaamizaiaadMhaa8aabaWdbiaadsgacaWG4baa\n  aiabg2da9aaa@3B37@\n  </annotation>\n </semantics>\n</math>\n</p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"e to the power of t divided by t\">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mrow>\n     <msup>\n      <mi>e</mi>\n      <mi>t</mi>\n     </msup>\n     </mrow>\n    <mi>t</mi>\n   </mfrac>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWcaaWdaeaapeGaamyza8aadaahaaWcbeqaa8qacaWG0baaaaGc\n  paqaa8qacaWG0baaaaaa@3996@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"2 times e to the power of t divided by t\">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mrow>\n     <mn>2</mn><msup>\n      <mi>e</mi>\n      <mi>t</mi>\n     </msup>\n     </mrow>\n    <mi>t</mi>\n   </mfrac>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWcaaWdaeaapeGaaGOmaiaadwgapaWaaWbaaSqabeaapeGaamiD\n  aaaaaOWdaeaapeGaamiDaaaaaaa@3A52@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"e to the power of the absolute value of t divided by t squared\">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mrow>\n     <msup>\n      <mi>e</mi>\n      <mrow>\n       <mo>|</mo><mi>t</mi><mo>|</mo></mrow>\n     </msup>\n     </mrow>\n    <mrow>\n     <msup>\n      <mi>t</mi>\n      <mn>2</mn>\n     </msup>\n     </mrow>\n   </mfrac>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWcaaWdaeaapeGaamyza8aadaahaaWcbeqaa8qacaGG8bGaamiD\n  aiaacYhaaaaak8aabaWdbiaadshapaWaaWbaaSqabeaapeGaaGOmaa\n  aaaaaaaa@3C9E@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"4 times e to the power of t divided by open parentheses 2 times t minus 1 close parentheses\">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mrow>\n     <mn>4</mn><msup>\n      <mi>e</mi>\n      <mi>t</mi>\n     </msup>\n     </mrow>\n    <mrow>\n     <mn>2</mn><mi>t</mi><mo>−</mo><mn>1</mn></mrow>\n   </mfrac>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWcaaWdaeaapeGaaGinaiaadwgapaWaaWbaaSqabeaapeGaamiD\n  aaaaaOWdaeaapeGaaGOmaiaadshacqGHsislcaaIXaaaaaaa@3CB8@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>e<em><sup>t</sup></em></p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Parametric Equations, Polar Coordinates, and Vector-Valued Functions"
+  },
+  "topic": {
+    "code": "9.1",
+    "text": "9.1: (BC ONLY) Defining and Differentiating Parametric Equations"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Identify how mathematical characteristics or properties of functions are related in different representations."
+  }
+}

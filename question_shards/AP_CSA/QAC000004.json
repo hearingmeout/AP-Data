@@ -1,0 +1,39 @@
+{
+  "id": "QAC000004",
+  "type": "mcq",
+  "title": "Traverse 2D array - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What is printed as a result of executing the code segment?</p>",
+    "answer": "01JVAG9D9NKVT6P6D450S3V9JP",
+    "choices": [
+      {
+        "value": "01JVAG9D9MGNGWY0P7E9RM6M5Q",
+        "label": "<pre><code class=\"language-plaintext\">1 2 3 \n4 5 \n7 </code></pre>"
+      },
+      {
+        "value": "01JVAG9D9NKVT6P6D450S3V9JP",
+        "label": "<pre><code class=\"language-plaintext\">1 2 3 \n5 6 \n9 </code></pre>"
+      },
+      {
+        "value": "01JVAG9D9NY47V0D7HNEZBWV07",
+        "label": "<pre><code class=\"language-plaintext\">1 4 7 \n5 8 \n9 </code></pre>"
+      },
+      {
+        "value": "01JVAH0G612J1MMCA99M1W2RGW",
+        "label": "<pre><code class=\"language-plaintext\">1 2 3 \n5 6 \n9 \n1 </code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.12",
+    "text": "4.12: 2D Array Traversals"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

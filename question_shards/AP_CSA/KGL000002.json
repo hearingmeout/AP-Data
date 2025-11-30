@@ -1,0 +1,39 @@
+{
+  "id": "KGL000002",
+  "type": "mcq",
+  "title": "Remove negative numbers from ArrayList - condition",
+  "content": {
+    "prompt": "<p class=\"dap_body\" style=\"margin-left:0px;\">The code segment is intended to remove all negative values from&nbsp; <span class=\"dap_inline\">numbers</span>.&nbsp; Which of the following best describes the conditions in which the code segment works as intended?</p>",
+    "answer": "01JGPQ8PTPRKRJ2E1X389QGG30",
+    "choices": [
+      {
+        "value": "01JGPQ8PTPYPKDN9K019V5D8AJ",
+        "label": "<p class=\"dap_body\">The code segment works as intended for all possible contents of&nbsp; <span class=\"dap_inline\">numbers</span>.</p>"
+      },
+      {
+        "value": "01JGPQ8PTPRKRJ2E1X389QGG30",
+        "label": "<p class=\"dap_body\">The code segment works as intended only when negative numbers are not in adjacent positions in&nbsp; <span class=\"dap_inline\">numbers</span>.</p>"
+      },
+      {
+        "value": "01JGPQ8PTPXKS5MRCK1T24Y5JX",
+        "label": "<p class=\"dap_body\">The code segment works as intended only when&nbsp; <span class=\"dap_inline\">numbers</span> is sorted.</p>"
+      },
+      {
+        "value": "01JGPQ8PTQS4MC8PM71Y39SE21",
+        "label": "<p class=\"dap_body\">The code segment works as intended only when there are no duplicate values in&nbsp; <span class=\"dap_inline\">numbers</span>.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

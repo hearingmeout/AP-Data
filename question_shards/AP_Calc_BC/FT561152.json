@@ -1,0 +1,43 @@
+{
+  "id": "FT561152",
+  "type": "mcq",
+  "title": "Behavior of function from graph of derivative",
+  "content": {
+    "prompt": "<p><img alt=\"A graph titled, Graph of f prime, plots a line comprising of a sequence of line segments. The value 1 is indicated on both the axes. The line is plotted through the following points. (Negative 5, 1). (Negative 4, 1). (Negative 2, 3). (0,0). (2, negative 3). (5, negative 3).\" height=\"222\" src=\"/images/7ae68c4f78c1573312b3284bcfd88540.png\" width=\"703\"></p>\n\n<p>The graph of <em>f'</em>, the derivative of the function <em>f</em>, is shown in the figure above. Which of the following statements about <em>f</em> at <em>x = -2</em> is true?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p><em>f</em> is not continuous at <em>x = -2</em>.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><em>f</em> has an absolute maximum at <em>x = -2</em>.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The derivative of <em>f</em> does not exist at <em>x = -2</em>.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The graph of <em>f</em> has a point of inflection at <em>x = -2.</em></p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>The graph of <em>f</em> has a vertical tangent line at <em>x = -2</em>.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.6",
+    "text": "5.6: Determining Concavity of Functions over Their Domains"
+  },
+  "skill": {
+    "code": "Skill 2.E",
+    "text": "Skill 2.E: Describe the relationships among different representations of functions and their derivatives."
+  }
+}

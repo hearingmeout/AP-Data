@@ -1,0 +1,35 @@
+{
+  "id": "FT581499",
+  "type": "mcq",
+  "title": "Friends discuss shopping - inference",
+  "content": {
+    "prompt": "<p>Che tipo è il fratello di Giorgio?</p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Attraente</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Ingenuo</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Irritabile</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Ambizioso</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Families in Different Societies"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "VR781468",
+  "type": "mcq",
+  "title": "1D kinematics - v-t graph from motion diagram",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div>Which of the following provides a velocity-time graph that could correspond to the diagram and provides correct reasoning?</div>\n</div>\n</div>\n\n<div class=\"table_wrapper\">\n<table class=\"tgroup align:center cols:3 colsep:0 frame:none rowsep:0\">\n\t<colgroup>\n\t\t<col class=\"colspec colname:col1 colnum:1 colsep:1\">\n\t\t<col class=\"colspec align:center colname:col2 colnum:2 colwidth:200\">\n\t\t<col class=\"colspec align:left colname:col3 colnum:3 colwidth:310\">\n\t</colgroup>\n\t<thead class=\"thead\">\n\t\t<tr class=\"row rowsep:1\">\n\t\t\t<th class=\"entry colname:col1\">&nbsp;</th>\n\t\t\t<th class=\"entry colname:col2\">Velocity-Time Graph</th>\n\t\t\t<th class=\"entry colname:col3\">Reasoning</th>\n\t\t</tr>\n\t</thead>\n\t<tbody class=\"tbody valign:middle\">\n\t\t<tr class=\"row\">\n\t\t\t<td class=\"entry colname:col1\">A</td>\n\t\t\t<td class=\"entry colname:col2\"><span class=\"inline_image\"><img alt=\"The figure shows a graph of a line in the first quadrant of a coordinate plane with the origin labeled O. The horizontal axis is labeled t, and the vertical axis is labeled v. The line begins at the origin, moves up and to the right, and ends in the upper right part of the plane approximately equidistant from both axes.\" src=\"/images/459c6f39b7675dd712d13e610b3e5d24.svg\"></span></td>\n\t\t\t<td class=\"entry colname:col3\">The distance traveled by the block during each half-second interval increases, so the velocity of the block must increase.</td>\n\t\t</tr>\n\t\t<tr class=\"row\">\n\t\t\t<td class=\"entry colname:col1\">B</td>\n\t\t\t<td class=\"entry colname:col2\"><span class=\"inline_image\"><img alt=\"The figure shows a graph of a line in the first quadrant of a coordinate plane with the origin labeled O. The horizontal axis is labeled t, and the vertical axis is labeled v. The line begins at the origin, moves up and to the right, and ends in the upper right part of the plane approximately equidistant from both axes.\" src=\"/images/ab2266d6a4ea650ba3340383fdf69613.svg\"></span></td>\n\t\t\t<td class=\"entry colname:col3\">The block is traveling in the positive <span class=\"math_expression\"><span aria-label=\"x\" role=\"math\"><math alttext=\"x\" overflow=\"scroll\"><mi>x</mi></math></span></span>-direction, so the velocity graph must have a positive slope.</td>\n\t\t</tr>\n\t\t<tr class=\"row\">\n\t\t\t<td class=\"entry colname:col1\">C</td>\n\t\t\t<td class=\"entry colname:col2\"><span class=\"inline_image\"><img alt=\"The figure shows a graph of a curve in the first quadrant of a coordinate plane with the origin labeled O. The horizontal axis is labeled t, and the vertical axis is labeled v. The curve begins at the origin and moves up and to the right, steeply at first and then more gradually. The curve ends in the upper right part of the plane approximately equidistant from both axes.\" src=\"/images/98977e47f3cab63fabd2b16e2e11cded.svg\"></span></td>\n\t\t\t<td class=\"entry colname:col3\">The force of friction exerted on the block causes the acceleration of the block to decrease.</td>\n\t\t</tr>\n\t\t<tr class=\"row\">\n\t\t\t<td class=\"entry colname:col1\">D</td>\n\t\t\t<td class=\"entry colname:col2\"><span class=\"inline_image\"><img alt=\"The figure shows a graph of a curve in the first quadrant of a coordinate plane with the origin labeled O. The horizontal axis is labeled t, and the vertical axis is labeled v. The curve begins at the origin and moves up and to the right, steeply at first and then more gradually. The curve ends in the upper right part of the plane approximately equidistant from both axes.\" src=\"/images/a2d83216bb2278f604fc8bd64c590425.svg\"></span></td>\n\t\t\t<td class=\"entry colname:col3\">The block reaches a constant speed.</td>\n\t\t</tr>\n\t</tbody>\n</table>\n</div>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">A</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">B</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">C</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">D</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Representing Motion"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

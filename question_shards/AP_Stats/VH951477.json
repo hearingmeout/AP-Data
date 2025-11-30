@@ -1,0 +1,43 @@
+{
+  "id": "VH951477",
+  "type": "mcq",
+  "title": "Blue beads in containers",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Two large containers, X and Y, contain many colored beads. From a random sample of beads taken from container X, the proportion of blue beads in the sample was recorded as <span class=\"math_expression\"><span aria-label=\"p hat sub X equals 0.35\"><math alttext=\"p hat sub X equals 0.35\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><msub><mrow><mover accent=\"true\"><mrow><mi>p</mi></mrow><mrow><mo>^</mo></mrow></mover></mrow><mrow><mtext>X</mtext></mrow></msub><mo>=</mo><mn>0.35</mn></mrow></mrow></mstyle></math></span></span>. From a random sample of beads taken from container Y, the proportion of blue beads in the sample was recorded as <span class=\"math_expression\"><span aria-label=\"p hat sub Y equals 0.39\"><math alttext=\"p hat sub Y equals 0.39\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><msub><mrow><mover accent=\"true\"><mrow><mi>p</mi></mrow><mrow><mo>^</mo></mrow></mover></mrow><mrow><mtext>Y</mtext></mrow></msub><mo>=</mo><mn>0.39</mn></mrow></mrow></mstyle></math></span></span>. Assuming all conditions for inference are met, which of the following procedures is the most appropriate for estimating the difference between the proportions of all blue beads in the containers?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">A two-sample <span class=\"math_expression\"><span aria-label=\"z\"><math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math></span></span>-interval for a difference in population proportions</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">A two-sample <span class=\"math_expression\"><span aria-label=\"z\"><math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math></span></span>-interval for a difference in sample proportions</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">A one-sample <span class=\"math_expression\"><span aria-label=\"z\"><math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math></span></span>-interval for a population proportion</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">A one-sample <span class=\"math_expression\"><span aria-label=\"z\"><math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math></span></span>-interval for a sample proportion</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">A one-sample <span class=\"math_expression\"><span aria-label=\"z\"><math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math></span></span>-interval for a difference in population proportions</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.8",
+    "text": "6.8: Confidence Intervals for the Difference of Two Proportions"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate inference method for confidence intervals."
+  }
+}

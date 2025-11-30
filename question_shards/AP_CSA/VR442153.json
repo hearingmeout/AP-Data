@@ -1,0 +1,39 @@
+{
+  "id": "VR442153",
+  "type": "mcq",
+  "title": "call Sample class constructor",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"passage\">\n<div class=\"prose style:1\">\n<p class=\"passage_para\">Consider the following class declaration.</p>\n<div class=\"standalone_code style:1\">\n<p class=\"code_line\">public class Sample</p>\n<p class=\"code_line\">{</p>\n<p class=\"code_line indent:3\">private int a;</p>\n<p class=\"code_line indent:3\">private double b;</p>\n<p class=\"code_line\">&nbsp;</p>\n<p class=\"code_line indent:3\">public Sample(int x, double y)</p>\n<p class=\"code_line indent:3\">{</p>\n<p class=\"code_line indent:6\">a = x;</p>\n<p class=\"code_line indent:6\">b = y;</p>\n<p class=\"code_line indent:3\">}</p>\n<p class=\"code_line\">&nbsp;</p>\n<p class=\"code_line indent:3\">// No other constructors</p>\n<p class=\"code_line\">}</p>\n</div>\n<p class=\"passage_para\">The following method appears in a class other than <span class=\"inline_code\">Sample</span>.</p>\n<div class=\"standalone_code style:1\">\n<p class=\"code_line\">public static void test()</p>\n<p class=\"code_line\">{</p>\n<p class=\"code_line indent:3\">Sample object = new /* <span class=\"formatted_text font_style:italic\">missing constructor call</span> */ ;</p>\n<p class=\"code_line\">}</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p class=\"stem_paragraph\">Which of the following could be used to replace <span class=\"inline_code\">/*</span> <span class=\"formatted_text font_style:italic\">missing constructor call</span> <span class=\"inline_code\">*/</span> so that the method will compile without error?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">Sample()</p></div>",
+        "value": "i1"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">Sample(int x = 10, double y = 6.2)</p></div>",
+        "value": "i2"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">Sample(int x, double y)</p></div>",
+        "value": "i3"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">Sample(10, 6.2)</p></div>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.13",
+    "text": "1.13: Object Creation and Storage (Instantiation)"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

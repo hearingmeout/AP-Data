@@ -1,0 +1,43 @@
+{
+  "id": "FT2155",
+  "type": "mcq",
+  "title": "Area of region bounded by a sine curve and a line",
+  "content": {
+    "prompt": "What is the area of the region in the first quadrant enclosed by the graphs of <span aria-label=\"y is equal to sine of 2 x\"><math> <mrow> <mi>y</mi> <mo>=</mo> <mi>sin</mi> <mrow> <mo>(</mo> <mrow> <mn>2</mn> <mi>x</mi> </mrow> <mo>)</mo> </mrow> </mrow> </math></span> and <span aria-label=\"y is equal to x\"><math> <mrow> <mi>y</mi> <mo>=</mo> <mi>x</mi> </mrow> </math></span>?",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>0.208</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>0.210</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>0.266</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>0.660</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>0.835</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Applications of Integration"
+  },
+  "topic": {
+    "code": "8.4",
+    "text": "8.4: Finding the Area Between Curves Expressed as Functions of x"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Use appropriate mathematical symbols and notation (e.g., Represent a derivative using ƒ'(x), y', and dy/dx)."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RRX000000",
+  "type": "mcq",
+  "title": "Inverses of Exponentials - scores and studying",
+  "content": {
+    "prompt": "<div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <p class=\"dap_body\">​Students in a statistics class examined individual student test scores for a large group of students. Each test score is paired with the reported time the student spent studying. The class observed that when study time doubled, test scores generally increased by&nbsp;<span aria-label=\"5\"><math alttext=\"5\"><semantics><mn>5</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;points. For example, a student who studied&nbsp;<span aria-label=\"2 n\"><math alttext=\"2 n\"><semantics><mrow><mn>2</mn><mi>n</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;minutes generally scored&nbsp;<span aria-label=\"5\"><math alttext=\"5\"><semantics><mn>5</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;points higher than a student who studied&nbsp;<span aria-label=\"n\"><math alttext=\"n\"><semantics><mi>n</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;minutes. For nonzero constants&nbsp;<span aria-label=\"a\"><math alttext=\"a\"><semantics><mi>a</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;and&nbsp;<span aria-label=\"b\"><math alttext=\"b\"><semantics><mi>b</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>, which of the following types of functions is most useful in modeling test scores as a function of time&nbsp;<span aria-label=\"t\"><math alttext=\"t\"><semantics><mi>t</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;studied, in minutes?</p> </div> </div> </div>\n",
+    "answer": "B-80693",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"f open parentheses t close parentheses equals a times b to the power of t\"><math alttext=\"f open parentheses t close parentheses equals a times b to the power of t\"><semantics><mrow><mi>f</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mi>a</mi><mo>·</mo><msup><mi>b</mi><mi>t</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "A-80692"
+      },
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"g open parentheses t close parentheses equals a times log subscript b t\"><math alttext=\"g open parentheses t close parentheses equals a times log subscript b t\"><semantics><mrow><mi>g</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mi>a</mi><mo>·</mo><msub><mi>log</mi><mi>b</mi></msub><mi>t</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "B-80693"
+      },
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"h open parentheses t close parentheses equals a plus b t\"><math alttext=\"h open parentheses t close parentheses equals a plus b t\"><semantics><mrow><mi>h</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mi>a</mi><mo>+</mo><mi>b</mi><mi>t</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "C-80694"
+      },
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"k open parentheses t close parentheses equals a plus b t squared\"><math alttext=\"k open parentheses t close parentheses equals a plus b t squared\"><semantics><mrow><mi>k</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mi>a</mi><mo>+</mo><mi>b</mi><msup><mi>t</mi><mn>2</mn></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "D-80695"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.10",
+    "text": "2.10: Inverses of Exponential Functions"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

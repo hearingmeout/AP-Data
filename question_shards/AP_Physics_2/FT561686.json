@@ -1,0 +1,39 @@
+{
+  "id": "FT561686",
+  "type": "mcq",
+  "title": "Copper thermal conductivity and unknown material",
+  "content": {
+    "prompt": "<p><img alt=\"Two figures are shown. The top figure presents a diagram of two bars joined together. The bar on the left is labeled “Copper,” and the bar on the right is labeled “Unknown Material.” There is an axis drawn above the metals. The axis is labeled “x, in centimeters,” and the numbers 0 through 30, in increments of 5, are indicated. The bar labeled “Copper” extends from the 0 centimeter to the 15 centimeter tick mark, and the bar labeled “Unknown Material” extends from the 15 centimeter to the 30 centimeter tick mark. The bottom figure presents a graph of 15 points in the first quadrant of a coordinate plane. The horizontal axis is labeled “x, in centimeters,” and the numbers 0 through 30, in increments of 5, are indicated. The vertical axis is labeled “T, in degrees Celsius,” and the numbers 20 through 40, in increments of 5, are indicated. The first point begins on the vertical axis, at 0 centimeters and 40 degrees Celsius. The points then move downward and to the right, with a point at about 14 centimeters and 35 degrees Celsius. The points continue downward and to the right until they end with the final point on the horizontal axis at 30 centimeters and 20 degrees Celsius.\" height=\"273\" src=\"/images/b04e793f1655c22c7a59a45de3057cb8.png\" width=\"300\"></p>\n\n<p>A student designs an experiment intended to determine the thermal conductivity of an unknown material. Two 15 cm long bars with the same cross-sectional area are joined together, as shown in the figure above. The bar on the left is made of copper, and the bar on the right is made of the unknown material. The left and right ends of the two-bar combination are maintained at 40°C and 20°C , respectively, and the bars reach equilibrium. The student then measures the temperature T along the bars and produces the data shown in the graph, where x = 0 is the left end and 30 cm is the right end. The experimental uncertainty in the data is negligible. Which of the following can the student conclude about k<sub>c</sub>, the thermal conductivity of copper, compared with k<sub>u</sub> , the thermal conductivity of the unknown material?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>k<sub>c</sub> &lt; k<sub>u</sub></p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>k<sub>c</sub> = k<sub>u</sub></p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>k<sub>c</sub> &gt; k<sub>u</sub></p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The relationship cannot be determined from the data given. </p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Thermodynamics"
+  },
+  "topic": {
+    "code": "9.5",
+    "text": "9.5: Specific Heat and Thermal Conductivity"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

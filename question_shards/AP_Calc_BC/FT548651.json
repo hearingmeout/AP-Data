@@ -1,0 +1,43 @@
+{
+  "id": "FT548651",
+  "type": "mcq",
+  "title": "Analyzing behavior of function from graph",
+  "content": {
+    "prompt": "<p><img alt=\"A graph plots a concave down increasing curve that originates in the third quadrant, passes through the point 1 comma 1, and further rises into the first quadrant.\" src=\"/images/38af1afd16ed3b9ddb46c5d144d2d3a7.png\"></p><p>The graph of a twice-differentiable function <em>f</em> is shown in the figure above. Which of the following is true? </p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p><em>  f(1)&lt;f'(1)&lt;f''(1) </em></p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><em> f(1)&lt;f''(1)&lt;f'(1) </em></p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p><em>  f'(1)&lt;f(1)&lt;f''(1) </em></p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p><em>  f''(1)&lt;f(1)&lt;f'(1) </em></p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p><em>  f''(1)&lt;f'(1)&lt;f(1) </em></p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.9",
+    "text": "5.9: Connecting a Function, Its First Derivative, and Its Second Derivative"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Identify how mathematical characteristics or properties of functions are related in different representations."
+  }
+}

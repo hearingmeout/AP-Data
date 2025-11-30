@@ -1,0 +1,43 @@
+{
+  "id": "FT3435",
+  "type": "mcq",
+  "title": "Tension in string in conical pendulum",
+  "content": {
+    "prompt": "<p>What is the tension <em>T</em><sub>1</sub> in the upper string?</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<em>mg cos θ</em>",
+        "value": "i0"
+      },
+      {
+        "label": "<em>mg sin</em> <em>θ</em>",
+        "value": "i1"
+      },
+      {
+        "label": "<em>mg tan θ</em>",
+        "value": "i2"
+      },
+      {
+        "label": "<em>mg/cos θ</em>",
+        "value": "i3"
+      },
+      {
+        "label": "<em>mg/sin θ</em>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Force and Translational Dynamics"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Newton's First Law"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT1991",
+  "type": "mcq",
+  "title": "Connecting definite integral with graph",
+  "content": {
+    "prompt": "On the closed interval [2, 4], which of the following could be the graph of a function <em>f</em> with the property that&nbsp;<span aria-label=\"the fraction with numerator 1 and denominator 4 minus 2 the integral from 2 to 4 of f of t d t is equal to 1\"><math> <semantics> <mrow> <mfrac> <mn>1</mn> <mrow> <mn>4</mn><mo>−</mo><mn>2</mn> </mrow> </mfrac> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>2</mn> <mn>4</mn> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>t</mi> <mo>)</mo></mrow><mi>d</mi><mi>t</mi><mo>=</mo><mn>1</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWcaaWdaeaapeGaaGymaaWdaeaapeGaaGinaiabgkHiTiaaikdaaaWaa8qma8aabaWdbiaadAgaaSWdaeaapeGaaGOmaaWdaeaapeGaaGinaaqdcqGHRiI8aOWaaeWaa8aabaWdbiaadshaaiaawIcacaGLPaaacaWGKbGaamiDaiabg2da9iaaigdaaaa@44BD@</annotation> </semantics> </math></span>?",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p><img alt=\"The five answers are graphs of f(x), all drawn in the first quadrant scaled from 0 to 4 on both axes. The graph is an upside down parabola with x-intercepts 2 and 4, reaching a maximum at (3,2).\" src=\"/images/846f93e5a80e870a5671f4dcc11117cf.png\"></p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><img alt=\"The five answers are graphs of f(x), all drawn in the first quadrant scaled from 0 to 4 on both axes. The graph has x-intercepts of 2 and 4.  It is increasing and concave up from (2,0) to a cusp (3,2).  The graph is decreasing and concave up from (3,2) to (4,0).\" src=\"/images/db373e62668038981a6ad394b5c3407c.png\"></p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p><img alt=\"The five answers are graphs of f(x), all drawn in the first quadrant scaled from 0 to 4 on both axes. The graph consists of two line segments.  The first has endpoints of (2,2) and (3,0).  The second has endpoints of (3,0) and (4,2).\" src=\"/images/6a4a794d2269711c616b7dcce1c7e016.png\"></p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p><img alt=\"The five answers are graphs of f(x), all drawn in the first quadrant scaled from 0 to 4 on both axes. The graph is a line segment with endpoints (2,1) and (4,3).\" src=\"/images/d83e1b96359b214db97f6eee6825ec2c.png\"></p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p><img alt=\"The five answers are graphs of f(x), all drawn in the first quadrant scaled from 0 to 4 on both axes. The graph is a line segment with endpoints (2,2) and (4,2).\" src=\"/images/847dd64fb3824330ea3d650eed67d236.png\"></p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.6",
+    "text": "6.6: Applying Properties of Definite Integrals"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

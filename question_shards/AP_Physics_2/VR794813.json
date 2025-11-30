@@ -1,0 +1,39 @@
+{
+  "id": "VR794813",
+  "type": "mcq",
+  "title": "Radioactivity - Find decay constant",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following equations could be used to determine the decay constant <span class=\"math_expression\"><span aria-label=\"lambda\" role=\"math\"><math alttext=\"lambda\" overflow=\"scroll\"><mi>λ</mi></math></span></span> of the decaying substance?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the natural log of, open parenthesis, the complex fraction with numerator, X, and denominator x over 3, end complex fraction, close parenthesis, equals negative lambda t\"><math alttext=\"the natural log of, open parenthesis, the complex fraction with numerator, X, and denominator x over 3, end complex fraction, close parenthesis, equals negative lambda t\" overflow=\"scroll\"><mi>ln</mi><mrow><mo>(</mo><mfrac><mi>X</mi><mrow><mi>X</mi><mo>/</mo><mn>3</mn></mrow></mfrac><mo>)</mo></mrow><mo>=</mo><mpadded><mpadded><mpadded><mo>−</mo><mi>λ</mi><mi>t</mi></mpadded></mpadded></mpadded></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the natural log of, open parenthesis, the complex fraction with numerator, the fraction X over 3, end fraction, and denominator X, end complex fraction, close parenthesis, equals negative lambda t\"><math alttext=\"the natural log of, open parenthesis, the complex fraction with numerator, the fraction X over 3, end fraction, and denominator X, end complex fraction, close parenthesis, equals negative lambda t\" overflow=\"scroll\"><mi>ln</mi><mrow><mo>(</mo><mfrac><mrow><mi>X</mi><mo>/</mo><mn>3</mn></mrow><mi>X</mi></mfrac><mo>)</mo></mrow><mo>=</mo><mpadded><mpadded><mpadded><mo>−</mo><mi>λ</mi></mpadded><mi>t</mi></mpadded></mpadded></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the natural log of, open parenthesis, the complex fraction with numerator, the fraction 2 X over 3, end fraction, and denominator X, end complex fraction, close parenthesis, equals negative lambda t\"><math alttext=\"the natural log of, open parenthesis, the complex fraction with numerator, the fraction 2 X over 3, end fraction, and denominator X, end complex fraction, close parenthesis, equals negative lambda t\" overflow=\"scroll\"><mi>ln</mi><mrow><mo>(</mo><mfrac><mrow><mn>2</mn><mi>X</mi><mo>/</mo><mn>3</mn></mrow><mi>X</mi></mfrac><mo>)</mo></mrow><mo>=</mo><mpadded><mpadded><mo>−</mo><mi>λ</mi><mi>t</mi></mpadded></mpadded></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the natural log of, open parenthesis, the complex fraction with numerator X, and denominator the fraction 2 X over 3, end fraction, end complex fraction, close parenthesis, equals negative lambda t\"><math alttext=\"the natural log of, open parenthesis, the complex fraction with numerator X, and denominator the fraction 2 X over 3, end fraction, end complex fraction, close parenthesis, equals negative lambda t\" overflow=\"scroll\"><mi>ln</mi><mrow><mo>(</mo><mfrac><mi>X</mi><mrow><mn>2</mn><mi>X</mi><mo>/</mo><mn>3</mn></mrow></mfrac><mo>)</mo></mrow><mo>=</mo><mpadded><mpadded><mo>−</mo><mi>λ</mi><mi>t</mi></mpadded></mpadded></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "15",
+    "text": "15: Modern Physics"
+  },
+  "topic": {
+    "code": "15.7",
+    "text": "15.7: Fission, Fusion, and Nuclear Decay"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT546531",
+  "type": "mcq",
+  "title": "Indefinite integral Substitution",
+  "content": {
+    "prompt": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the integral of x times the square root of open parentheses 4 minus x squared close parentheses with respect to x equals\">\n <semantics>\n  <mrow>\n   <mstyle displaystyle=\"true\">\n    <mrow><mo>∫</mo>\n     <mi>x</mi>\n    </mrow>\n    \n   </mstyle><msqrt>\n    <mrow>\n     <mn>4</mn><mo>−</mo><msup>\n      <mi>x</mi>\n      <mn>2</mn>\n     </msup>\n     </mrow>\n   </msqrt>\n   <mi>d</mi><mi>x</mi><mo>=</mo></mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWdbaWdaeaapeGaamiEaaWcbeqab0Gaey4kIipakmaakaaapaqa\n  a8qacaaI0aGaeyOeI0IaamiEa8aadaahaaWcbeqaa8qacaaIYaaaaa\n  qabaGccaWGKbGaamiEaiabg2da9aaa@400C@\n  </annotation>\n </semantics>\n</math>\n</p>",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"open parentheses 4 minus x squared close parentheses to the power of three halves divided by 3 plus C\">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mrow>\n     <msup>\n      <mrow>\n       <mo stretchy=\"false\">(</mo><mn>4</mn><mo>−</mo><msup>\n        <mi>x</mi>\n        <mn>2</mn>\n       </msup>\n       <mo stretchy=\"false\">)</mo></mrow>\n      <mrow>\n       <mn>3</mn><mo>/</mo><mn>2</mn></mrow>\n     </msup>\n     </mrow>\n    <mn>3</mn>\n   </mfrac>\n   <mo>+</mo><mi>C</mi></mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWcaaWdaeaapeGaaiikaiaaisdacqGHsislcaWG4bWdamaaCaaa\n  leqabaWdbiaaikdaaaGccaGGPaWdamaaCaaaleqabaWdbiaaiodaca\n  GGVaGaaGOmaaaaaOWdaeaapeGaaG4maaaacqGHRaWkcaWGdbaaaa@4060@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"negative open parentheses 4 minus x squared close parentheses to the power of three halves plus C\">\n <semantics>\n  <mrow>\n   <mo>−</mo><msup>\n    <mrow>\n     <mo stretchy=\"false\">(</mo><mn>4</mn><mo>−</mo><msup>\n      <mi>x</mi>\n      <mn>2</mn>\n     </msup>\n     <mo stretchy=\"false\">)</mo></mrow>\n    <mrow>\n     <mn>3</mn><mo>/</mo><mn>2</mn></mrow>\n   </msup>\n   <mo>+</mo><mi>C</mi></mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qacqGHsislcaGGOaGaaGinaiabgkHiTiaadIhapaWaaWbaaSqabeaa\n  peGaaGOmaaaakiaacMcapaWaaWbaaSqabeaapeGaaG4maiaac+caca\n  aIYaaaaOGaey4kaSIaam4qaaaa@4042@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"x squared times open parentheses 4 minus x squared close parentheses to the power of three halves divided by 3 plus C\">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mrow>\n     <msup>\n      <mi>x</mi>\n      <mn>2</mn>\n     </msup>\n     <msup>\n      <mrow>\n       <mo stretchy=\"false\">(</mo><mn>4</mn><mo>−</mo><msup>\n        <mi>x</mi>\n        <mn>2</mn>\n       </msup>\n       <mo stretchy=\"false\">)</mo></mrow>\n      <mrow>\n       <mn>3</mn><mo>/</mo><mn>2</mn></mrow>\n     </msup>\n     </mrow>\n    <mn>3</mn>\n   </mfrac>\n   <mo>+</mo><mi>C</mi></mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWcaaWdaeaapeGaamiEa8aadaahaaWcbeqaa8qacaaIYaaaaOGa\n  aiikaiaaisdacqGHsislcaWG4bWdamaaCaaaleqabaWdbiaaikdaaa\n  GccaGGPaWdamaaCaaaleqabaWdbiaaiodacaGGVaGaaGOmaaaaaOWd\n  aeaapeGaaG4maaaacqGHRaWkcaWGdbaaaa@426F@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"negative x squared times open parentheses 4 minus x squared close parentheses to the power of three halves divided by 3 plus C\">\n <semantics>\n  <mrow>\n   <mo>−</mo><mfrac>\n    <mrow>\n     <msup>\n      <mi>x</mi>\n      <mn>2</mn>\n     </msup>\n     <msup>\n      <mrow>\n       <mo stretchy=\"false\">(</mo><mn>4</mn><mo>−</mo><msup>\n        <mi>x</mi>\n        <mn>2</mn>\n       </msup>\n       <mo stretchy=\"false\">)</mo></mrow>\n      <mrow>\n       <mn>3</mn><mo>/</mo><mn>2</mn></mrow>\n     </msup>\n     </mrow>\n    <mn>3</mn>\n   </mfrac>\n   <mo>+</mo><mi>C</mi></mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qacqGHsisldaWcaaWdaeaapeGaamiEa8aadaahaaWcbeqaa8qacaaI\n  YaaaaOGaaiikaiaaisdacqGHsislcaWG4bWdamaaCaaaleqabaWdbi\n  aaikdaaaGccaGGPaWdamaaCaaaleqabaWdbiaaiodacaGGVaGaaGOm\n  aaaaaOWdaeaapeGaaG4maaaacqGHRaWkcaWGdbaaaa@435C@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"negative open parentheses 4 minus x squared close parentheses to the power of three halves  divided by 3 plus C\">\n <semantics>\n  <mrow>\n   <mo>−</mo><mfrac>\n    <mrow>\n     <msup>\n      <mrow>\n       <mo stretchy=\"false\">(</mo><mn>4</mn><mo>−</mo><msup>\n        <mi>x</mi>\n        <mn>2</mn>\n       </msup>\n       <mo stretchy=\"false\">)</mo></mrow>\n      <mrow>\n       <mn>3</mn><mo>/</mo><mn>2</mn></mrow>\n     </msup>\n     </mrow>\n    <mn>3</mn>\n   </mfrac>\n   <mo>+</mo><mi>C</mi></mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qacqGHsisldaWcaaWdaeaapeGaaiikaiaaisdacqGHsislcaWG4bWd\n  amaaCaaaleqabaWdbiaaikdaaaGccaGGPaWdamaaCaaaleqabaWdbi\n  aaiodacaGGVaGaaGOmaaaaaOWdaeaapeGaaG4maaaacqGHRaWkcaWG\n  dbaaaa@414D@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.9",
+    "text": "6.9: Integrating Using Substitution"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

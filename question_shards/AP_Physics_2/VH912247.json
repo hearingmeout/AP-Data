@@ -1,0 +1,39 @@
+{
+  "id": "VH912247",
+  "type": "mcq",
+  "title": "Is lightbulb ohmic",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"standalone_image\"><img alt=\"The figure presents a rectangular circuit and two scatterplots in the first quadrant of two coordinate planes. In the rectangular circuit, beginning on the left side and moving clockwise, the left side has a battery. The top side has an ammeter. The right side has a lightbulb with a voltmeter connected across it. The bottom side has a resistor labeled R.&nbsp; The two scatterplots are titled Group 1 and Group 2, and have an origin labeled O. Each horizontal axis is labeled Potential Difference, in volts, and the numbers 1 through 4, in increments of 1, are indicated. Each vertical axis is labeled Current, in amperes, and the numbers 0.05 through 0.25, in increments of 0.05, are indicated. In the scatterplot titled Group 1, the points initially roughly follow a straight line that begins at the origin and move through point 1.8 volts, comma 0.14 amperes, after which the line follows a concave down curve to the right ending at point 4.2 volts, comma 0.21 amperes. In the scatterplot titled Group 2, the points roughly follow a straight line that begins at the origin and ends at the point 1.9 volts, comma 0.13 amperes\" height=\"300\" src=\"/images/54226984dd9b76805cde5540201b7fbd.png\" width=\"465\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">Two groups of students use the circuit shown above to measure the potential difference across and current through the same lightbulb. The results of the two groups’ measurements are shown in the graphs. What can the students correctly conclude about the ohmic behavior of the lightbulb?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Both groups can conclude that the lightbulb is ohmic.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Group 2 can conclude that the lightbulb is always ohmic, but group 1 cannot.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Group 2 can conclude that the lightbulb shows ohmic behavior within the range of values measured. Group 1 can conclude that the lightbulb is not ohmic.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Neither group can make any claims about the ohmic behavior of the lightbulb.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.3",
+    "text": "11.3: Resistance, Resistivity, and Ohm's Law"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT1981",
+  "type": "mcq",
+  "title": "Behavior of function from graph of derivative",
+  "content": {
+    "prompt": "<p><img alt=\"The graph of f’ is given on an interval -2 ≤ x ≤ 2.  The y-axis is unscaled.  The graph consists of three line segments.  The first has endpoints (-2,a) and (-1,a), where a is some positive value.  The second has endpoints (-1,a) and (1,b), where b is some negative value.  This segment also passes through the origin.  The third segment has endpoints (1,b) and (2,0).\" src=\"/images/92eaae590b62140d0c66e4703a574483.png\"></p><p>The graph of <em>f’,</em> the derivative of the function <em>f</em>, is shown above. Which of the following statements is true about <em>f</em>?</p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p><em>f</em> is decreasing for -1 ≤ <em>x</em> ≤ 1.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><em>f</em> is increasing for -2 ≤ <em>x</em> ≤ 0.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p><em>f</em> is increasing for 1 ≤ <em>x</em> ≤ 2.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p><em>f</em> has a local minimum at <em>x</em> = 0.</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p><em>f</em> is not differentiable at <em>x</em> = -1 and <em>x</em> = 1.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.3",
+    "text": "5.3: Determining Intervals on Which a Function Is Increasing or Decreasing"
+  },
+  "skill": {
+    "code": "Skill 2.E",
+    "text": "Skill 2.E: Describe the relationships among different representations of functions and their derivatives."
+  }
+}

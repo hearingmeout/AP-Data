@@ -1,0 +1,39 @@
+{
+  "id": "VH963522",
+  "type": "mcq",
+  "title": "print values from two dimensional array nums",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Consider the following code segment, where <span class=\"inline_code\">nums</span> is a two-dimensional (2D) array of integers. The code segment is intended to print <span class=\"inline_code\">\"test1234\"</span>.</p><div class=\"standalone_code style:1\"><p class=\"code_line indent:0\">System.out.print(\"test\" + nums[0][0]  + nums[1][0] + nums[1][1] + nums[0][1]);</p></div><p class=\"stem_paragraph\">Which of the following code segments properly declares and initializes <span class=\"inline_code\">nums</span> so that the code segment works as intended?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line indent:0\">int[][] nums = {{1, 2}, {3, 4}};</p></div>",
+        "value": "i1"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line indent:0\">int[][] nums = {{1, 2}, {4, 3}};</p></div>",
+        "value": "i2"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line indent:0\">int[][] nums = {{1, 3}, {2, 4}};</p></div>",
+        "value": "i3"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line indent:0\">int[][] nums = {{1, 4}, {2, 3}};</p></div>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.11",
+    "text": "4.11: 2D Array Creation and Access"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

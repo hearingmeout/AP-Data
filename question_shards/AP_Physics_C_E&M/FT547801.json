@@ -1,0 +1,43 @@
+{
+  "id": "FT547801",
+  "type": "mcq",
+  "title": "Interpret bar graph of candy color by brand",
+  "content": {
+    "prompt": "<p>Three brands of candy pieces—X, Y, and Z—are made in many colors. Shaela bought one bag of each brand and counted the number of pieces of each color. The graph below shows the relative frequency distribution of colors for each bag.</p>\n\n<p><img alt=\"The figure shows a bar graph with 3 horizontal bars and a key indicating solid black is Red, dots is Green, unshaded is Blue, hatching is Yellow, and shaded is Brown. The horizontal axis is labeled Relative Frequency and has tick marks labeled, from left to right, zero to one point zero, in increments of point two. The top horizontal bar is labeled Brand X, the middle bar is labeled Brand Y, and the bottom bar is labeled Brand Z. The data are approximately as follows: Brand X: zero to zero point four, Red; zero point four to zero point seven, Green; zero point seven to zero point eight, Blue; zero point eight to zero point nine, Yellow; zero point nine to one point zero, Brown. Brand Y: zero to zero point five, Red; zero point five to zero point eight, Green; zero point eight to zero point nine, Blue; zero point nine to zero point nine five, Yellow; zero point nine five to one point zero, Brown. Brand Z: zero to zero point six, Red; zero point six to zero point seven, Green; zero point seven to zero point nine, Blue; zero point nine to one point zero, Yellow. There is no data for Brown. \" height=\"243\" src=\"/images/e77dbd962c715d779d7801d04cf9f5bd.png\" width=\"353\"></p>\n\n<p>Which of the following statements must be true?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>For Brand X, there were more green candy pieces than red candy pieces in the bag.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>For Brand Y, there were more red candy pieces than green candy pieces in the bag.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>There were more green candy pieces in the Brand X bag than were in the Brand Z bag.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>There were the same number of blue candy pieces in the Brand X bag as were in the Brand Y bag.</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>The number of blue candy pieces in the Brand Z bag was equal to the sum of the number of blue candy pieces in the other two bags.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Representing a Categorical Variable with Graphs"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Compare distributions or relative positions of points within a distribution."
+  }
+}

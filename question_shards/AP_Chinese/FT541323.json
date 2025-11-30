@@ -1,0 +1,35 @@
+{
+  "id": "FT541323",
+  "type": "mcq",
+  "title": "How to take the prescribed medicine",
+  "content": {
+    "prompt": "<p>How is the prescribed medicine to be taken?</p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Twice a day, four tablets each time</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Four times a day, one tablet each time</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Twice a day, one bowl each time</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Four times a day, one bowl each time</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Families in Different Societies"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "FT557205",
+  "type": "mcq",
+  "title": "Cd-Ag standard cell - replace salt bridge with Pt",
+  "content": {
+    "prompt": "<p><img alt=\"A figure illustrates a voltmeter connected to two vessels filled with solutions of 1 M C d (N O sub 3) sub 2, 100 milliliters and 1 M Ag N O sub 3, 100 milliliters. The first beaker is filled with a tube &quot;C d&quot; and the second beaker is filled with a tube &quot;A g.&quot; The voltmeter is connected to the tubes by a wire. A salt bridge connects the two vessels.\" height=\"206\" src=\"/images/ee92070b2e66251226ddb2a954b6240b.png\" width=\"292\"></p>\n\n<p>The spontaneous reaction that occurs when the cell above operates is 2 Ag<sup>+</sup> + Cd<em>(s)</em> → 2 Ag<em>(s)</em> + Cd<sup>2+</sup></p>\n\n<p>Which of the above occurs for the following circumstance?</p>\n\n<p>The salt bridge is replaced by a platinum wire.</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Voltage increases.</p>"
+      },
+      {
+        "label": "Voltage decreases but remains above zero",
+        "value": "i1"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Voltage becomes zero and remains at zero</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>No change in voltage occurs</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Thermodynamics and Electrochemistry"
+  },
+  "topic": {
+    "code": "9.8",
+    "text": "9.8: Galvanic (Voltaic) and Electrolytic Cells"
+  },
+  "skill": {
+    "code": "2.F",
+    "text": "2.F: Explain how modifications to an experimental procedure will alter results."
+  }
+}

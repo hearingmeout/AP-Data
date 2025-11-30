@@ -1,0 +1,39 @@
+{
+  "id": "ARG000003",
+  "type": "mcq",
+  "title": "Print Asimov quote - fix error",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which change, if any, can be made so that the code segment produces the intended output?</p>",
+    "answer": "01JQ74C74X6FAANVX494NEWHND",
+    "choices": [
+      {
+        "value": "01JQ74C74WCPR1M1E4M1YMGW6V",
+        "label": "<p class=\"dap_body\">In line 1, &nbsp;<span class=\"dap_inline\">print</span> &nbsp;should be changed to &nbsp;<span class=\"dap_inline\">println</span>.</p>"
+      },
+      {
+        "value": "01JQ74C74X6JZYS047R7FY4Z8A",
+        "label": "<p class=\"dap_body\">The statement &nbsp;<span class=\"dap_inline\">System.out.println()</span> &nbsp;should be inserted between lines 2 and 3.</p>"
+      },
+      {
+        "value": "01JQ74C74X6FAANVX494NEWHND",
+        "label": "<p class=\"dap_body\">In lines 1, 2, and 3, the text that appears in parentheses should be enclosed in quotation marks.</p>"
+      },
+      {
+        "value": "01JQ7540CBBTMW6QQ971759V45",
+        "label": "<p class=\"dap_body\">No change is needed; the code segment works correctly as is.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

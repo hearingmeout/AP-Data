@@ -1,0 +1,43 @@
+{
+  "id": "FT1306",
+  "type": "mcq",
+  "title": "Verifying solution of differential equation",
+  "content": {
+    "prompt": "<p>A curve has slope 2<em>x</em> + 3  at each point (<em>x,y</em>)  on the curve. Which of the following is an equation for this curve if it passes through the point (1,2) ?</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p><em>y </em>= 5<em>x</em> - 3</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><em>y</em> = <em>x</em><sup>2</sup> + 1</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p><em>y</em> = <em>x</em><sup>2</sup> + 3<em>x</em></p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p><em>y</em> = <em>x</em><sup>2</sup> + 3<em>x</em> - 2</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p><em>y</em> = 2<em>x</em><sup>2</sup> + 3<em>x</em> - 3</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.2",
+    "text": "7.2: Verifying Solutions for Differential Equations"
+  },
+  "skill": {
+    "code": "Skill 3.G",
+    "text": "Skill 3.G: Confirm that solutions are accurate and appropriate."
+  }
+}

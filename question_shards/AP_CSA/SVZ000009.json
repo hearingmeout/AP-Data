@@ -1,0 +1,39 @@
+{
+  "id": "SVZ000009",
+  "type": "mcq",
+  "title": "Compare x and y to not x and not y - desc behavior",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following best describes the relationship between values produced by Expression A and Expression B?</p>",
+    "answer": "01JVAM5VDBBXENXPM1Z9V2F07E",
+    "choices": [
+      {
+        "value": "01JVAM5VDA9E8R6K59B0PCGR1P",
+        "label": "<p class=\"dap_body\">Expression A and Expression B evaluate to different values for all values of &nbsp;<code class=\"dap_inline\">x</code> &nbsp;and &nbsp;<code class=\"dap_inline\">y</code>.</p>"
+      },
+      {
+        "value": "01JVAM5VDBQSR7DVZC2J23NW69",
+        "label": "<p class=\"dap_body\">Expression A and Expression B evaluate to the same value for all values of &nbsp;<code class=\"dap_inline\">x</code> &nbsp;and &nbsp;<code class=\"dap_inline\">y</code>.</p>"
+      },
+      {
+        "value": "01JVAM5VDBPJY4Y4QAWXPCKQ3D",
+        "label": "<p class=\"dap_body\">Expression A and Expression B evaluate to the same value only when &nbsp;<code class=\"dap_inline\">x</code> &nbsp;and &nbsp;<code class=\"dap_inline\">y</code> &nbsp;have the same value.</p>"
+      },
+      {
+        "value": "01JVAM5VDBBXENXPM1Z9V2F07E",
+        "label": "<p class=\"dap_body\">Expression A and Expression B evaluate to the same value only when &nbsp;<code class=\"dap_inline\">x</code> &nbsp;and &nbsp;<code class=\"dap_inline\">y</code> &nbsp;have different values.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Comparing Boolean Expressions"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

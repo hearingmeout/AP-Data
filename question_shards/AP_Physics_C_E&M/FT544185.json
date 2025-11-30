@@ -1,0 +1,43 @@
+{
+  "id": "FT544185",
+  "type": "mcq",
+  "title": "Compute a test score given a standardized score",
+  "content": {
+    "prompt": "<p><img alt=\"A table is shown with the title Descriptive Statistics. The top row reads variable is score, N equals 50, mean equals 1045.7, median equals 1024.7, t r mean equals 1041.9, standard deviation equals 221.9, and s e mean equals 31.4. The bottom row reads variable is score, minimum equals 628.9, maximum equals 1577.1, Q 1 equals 877.7, and Q 3 equals 1219.5.\" src=\"/images/636db4d92c0c21f2a7587326dc0d97da.png\"></p><p>Some descriptive statistics for a set of test scores are shown above. For this test, a certain student has a standardized score of <em>z</em> = -1.2. What score did this student receive on the test?</p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>266.28</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>779.42</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>1008.02</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>1083.38</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>1311.98</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.10",
+    "text": "1.10: The Normal Distribution"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+  }
+}

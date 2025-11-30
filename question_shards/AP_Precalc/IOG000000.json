@@ -1,0 +1,39 @@
+{
+  "id": "IOG000000",
+  "type": "mcq",
+  "title": "Inverse Trig Functions - setting up a ratio",
+  "content": {
+    "prompt": "<div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <p class=\"dap_body\">​</p><div class=\"standalone_image qti-align-center\"><img alt=\"A right triangle. The hypotenuse is labeled 12. A side adjacent to the right angle is labeled y and the angle opposite to that side is labeled A.\" src=\"/images/fe57c592d4bd9d18062152d3d96df0b3.svg\"></div><p class=\"dap_body\">​The figure gives a right triangle, where&nbsp;<span aria-label=\"y\"><math alttext=\"y\"><semantics><mi>y</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;is the length of the side opposite angle&nbsp;<span aria-label=\"A\"><math alttext=\"A\"><semantics><mi>A</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>. If the function&nbsp;<span aria-label=\"f\"><math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;gives values&nbsp;of&nbsp;<span aria-label=\"A\"><math alttext=\"A\"><semantics><mi>A</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;as a function of&nbsp;<span aria-label=\"y\"><math alttext=\"y\"><semantics><mi>y</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>, which of the following could define&nbsp;<span aria-label=\"f open parentheses y close parentheses\"><math alttext=\"f open parentheses y close parentheses\"><semantics><mrow><mi>f</mi><mfenced><mi>y</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;?</p> </div> </div> </div>\n",
+    "answer": "D-55892",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"f open parentheses y close parentheses equals cos open parentheses y over 12 close parentheses\"><math alttext=\"f open parentheses y close parentheses equals cos open parentheses y over 12 close parentheses\"><semantics><mrow><mi>f</mi><mfenced><mi>y</mi></mfenced><mo>=</mo><mi>cos</mi><mfenced><mfrac><mi>y</mi><mn>12</mn></mfrac></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "A-55889"
+      },
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"f open parentheses y close parentheses equals sin open parentheses y over 12 close parentheses\"><math alttext=\"f open parentheses y close parentheses equals sin open parentheses y over 12 close parentheses\"><semantics><mrow><mi>f</mi><mfenced><mi>y</mi></mfenced><mo>=</mo><mi>sin</mi><mfenced><mfrac><mi>y</mi><mn>12</mn></mfrac></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "B-55890"
+      },
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"f open parentheses y close parentheses equals cos to the power of negative 1 end exponent open parentheses y over 12 close parentheses\"><math alttext=\"f open parentheses y close parentheses equals cos to the power of negative 1 end exponent open parentheses y over 12 close parentheses\"><semantics><mrow><mi>f</mi><mfenced><mi>y</mi></mfenced><mo>=</mo><msup><mi>cos</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfenced><mfrac><mi>y</mi><mn>12</mn></mfrac></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "C-55891"
+      },
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"f open parentheses y close parentheses equals sin to the power of negative 1 end exponent open parentheses y over 12 close parentheses\"><math alttext=\"f open parentheses y close parentheses equals sin to the power of negative 1 end exponent open parentheses y over 12 close parentheses\"><semantics><mrow><mi>f</mi><mfenced><mi>y</mi></mfenced><mo>=</mo><msup><mi>sin</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfenced><mfrac><mi>y</mi><mn>12</mn></mfrac></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "D-55892"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Trigonometric and Polar Functions"
+  },
+  "topic": {
+    "code": "3.9",
+    "text": "3.9: Inverse Trigonometric Functions"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

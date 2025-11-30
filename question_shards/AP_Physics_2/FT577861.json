@@ -1,0 +1,39 @@
+{
+  "id": "FT577861",
+  "type": "mcq",
+  "title": "Determine dielectric constant using graphs",
+  "content": {
+    "prompt": "<p><img alt=\"The figure presents two graphs in the first quadrant of a coordinate plane, with the origin labeled “O.” Graph 1 is labeled “Capacitor with Air.” The horizontal axis is labeled “Potential Difference, in volts,” and the numbers 5 through 15, in increments of 5, are indicated. The vertical axis is labeled “Capacitor Charge, in nanoCoulombs,” and the numbers 5 and 10, in increments of 5, are indicated. There are 7 data points that trend upward and to the right. The first point is at approximately 2 volts and 1.5 nanoCoulombs, and the last point is at approximately 14 volts and 10.8 nanoCoulombs. Graph 2 is labeled “Capacitor with Dielectric.” The horizontal axis is labeled “Potential Difference, in volts,” and the numbers 5 through 15, in increments of 5, are indicated. The vertical axis is labeled “Capacitor Charge, in nanoCoulombs,” and the numbers 10 through 30, in increments of 10, are indicated. There are 7 data points that trend upward and to the right. The first point is at approximately 2 volts and 5 nanoCoulombs, and the last point is at approximately 14 volts and 33.9 nanoCoulombs.\" height=\"237\" src=\"/images/f85559407e39f409b026e3224f0a1fe7.png\" width=\"650\"></p>\n\n<p>A capacitor initially has only air between its plates. The charge on the capacitor as a function of applied potential difference is measured, and the results are shown in graph 1 above. The capacitor is discharged, a dielectric material is inserted between the plates, and the charge as a function of applied potential difference is measured again. The results are shown in graph 2. Which of the following is equal to the dielectric constant of the material inserted into the capacitor?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The slope of graph 1 divided by the slope of graph 2 </p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The slope of graph 2 divided by the slope of graph 1 </p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The vertical intercept of graph 1 divided by the vertical intercept of graph 2 </p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The vertical intercept of graph 2 divided by the vertical intercept of graph 1</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Electric Force, Field, and Potential"
+  },
+  "topic": {
+    "code": "10.6",
+    "text": "10.6: Capacitors"
+  },
+  "skill": {
+    "code": "2.D",
+    "text": "2.D: Predict new values or factors of change of physical quantities using functional dependence between variables."
+  }
+}

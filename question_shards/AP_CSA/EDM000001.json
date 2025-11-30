@@ -1,0 +1,39 @@
+{
+  "id": "EDM000001",
+  "type": "mcq",
+  "title": "Determine maxPages in bookList",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following can replace&nbsp; <span class=\"dap_inline\">/* missing code */</span>&nbsp; so the method works as intended?</p>",
+    "answer": "01JMGAANMA4K9HG0JCGQ2ZE92V",
+    "choices": [
+      {
+        "value": "01JMGAANM9HWA66CVGN2S9T3MT",
+        "label": "<pre><code class=\"language-plaintext\">if (b.getPages() &lt; maxPages)\n{\n   maxPages = b.getPages();\n}</code></pre>"
+      },
+      {
+        "value": "01JMGAANMA4K9HG0JCGQ2ZE92V",
+        "label": "<pre><code class=\"language-plaintext\">if (b.getPages() &gt; maxPages)\n{\n   maxPages = b.getPages();\n}</code></pre>"
+      },
+      {
+        "value": "01JMGAANMACVFTXB56G8SCS56R",
+        "label": "<pre><code class=\"language-plaintext\">if (booklist.get(b).getPages() &lt; maxPages)\n{\n   maxPages = bookList.get(b).getPages();\n}</code></pre>"
+      },
+      {
+        "value": "01JMGAANMAVS272GRA1NNXNGV4",
+        "label": "<pre><code class=\"language-plaintext\">if (bookList.get(b).getPages() &gt; maxPages)\n{\n   maxPages = bookList.get(b).getPages();\n}</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.10",
+    "text": "4.10: Implementing `ArrayList` Algorithms"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

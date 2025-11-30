@@ -1,0 +1,39 @@
+{
+  "id": "VH912978",
+  "type": "mcq",
+  "title": "DNA damage",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VH912974.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include>\n<div class=\"stimulus_reference\">\n<div class=\"standalone_image\"><img alt=\"The figure presents the flat structure of a three-nucleotide D N A molecule, with pentagons representing the pentose sugar and circles representing the phosphate group. Nitrogenous bases are attached to the sugar-phosphate backbones, and hydrogen bonds between the pairs of nitrogenous bases connect the two strands. The bottom of the left strand of the molecule is labeled 3 prime, and the bottom of the right strand is labeled 5 prime. From top to bottom, adenine on the left strand is bonded to thymine on the right, guanine on the left is bonded to cytosine on the right, and thymine on the left is bonded to adenine on the right, through a bond labeled X. On the left strand, the bond between the sugar and the phosphate that connect the second and third nucleotides is labeled W. On the right strand, the bond connecting the sugar of the middle nucleotide with cytosine to the phosphate of the top nucleotide with thymine is labeled Y. Also on the right&nbsp; side, the bond connecting the phosphate of the middle nucleotide with cytosine to the sugar of the bottom nucleotide with adenine is labeled Z.\" height=\"312\" src=\"/images/90b47e1568e186a1dbbfcd6570772854.png\" width=\"400\">\n<p class=\"caption\">Figure 1. Four different bonds (<span class=\"math_expression\"><span aria-label=\"W\"><math alttext=\"W\" overflow=\"scroll\"><mstyle><mrow><mtext>W</mtext></mrow></mstyle></math></span></span>, <span class=\"math_expression\"><span aria-label=\"X\"><math alttext=\"X\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mtext>X</mtext></mrow></mstyle></mrow></mstyle></math></span></span>, <span class=\"math_expression\"><span aria-label=\"Y\"><math alttext=\"Y\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mtext>Y</mtext></mrow></mstyle></mrow></mstyle></math></span></span>, and <span class=\"math_expression\"><span aria-label=\"Z\"><math alttext=\"Z\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mtext>Z</mtext></mrow></mstyle></mrow></mstyle></math></span></span>) in a <span class=\"math_expression\"><span aria-label=\"D N A\"><math alttext=\"D N A\" overflow=\"scroll\"><mstyle><mrow><mstyle mathvariant=\"normal\"><mrow><mtext>DNA</mtext></mrow></mstyle></mrow></mstyle></math></span></span> molecule</p>\n</div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">Figure 1 represents a segment of <span class=\"math_expression\"><span aria-label=\"D N A\"><math alttext=\"D N A\" overflow=\"scroll\"><mstyle><mrow><mtext>DNA</mtext></mrow></mstyle></math></span></span>. Radiation can damage the nucleotides in a <span class=\"math_expression\"><span aria-label=\"D N A\"><math alttext=\"D N A\" overflow=\"scroll\"><mstyle><mrow><mtext>DNA</mtext></mrow></mstyle></math></span></span> molecule. To repair some types of damage, a single nucleotide can be removed from a <span class=\"math_expression\"><span aria-label=\"D N A\"><math alttext=\"D N A\" overflow=\"scroll\"><mstyle><mrow><mstyle mathvariant=\"normal\"><mrow><mtext>DNA</mtext></mrow></mstyle></mrow></mstyle></math></span></span> molecule and replaced with an undamaged nucleotide. Which of the four labeled bonds in Figure 1 could be broken to remove and replace the cytosine nucleotide without affecting the biological information coded in the <span class=\"math_expression\"><span aria-label=\"D N A\"><math alttext=\"D N A\" overflow=\"scroll\"><mstyle><mrow><mstyle mathvariant=\"normal\"><mrow><mtext>DNA</mtext></mrow></mstyle></mrow></mstyle></math></span></span> molecule?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Bond <span class=\"math_expression\"><span aria-label=\"X\"><math alttext=\"X\" overflow=\"scroll\"><mstyle><mrow><mtext>X</mtext></mrow></mstyle></math></span></span> only</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Bond <span class=\"math_expression\"><span aria-label=\"W\"><math alttext=\"W\" overflow=\"scroll\"><mstyle><mrow><mtext>W</mtext></mrow></mstyle></math></span></span> only</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Bonds <span class=\"math_expression\"><span aria-label=\"Y\"><math alttext=\"Y\" overflow=\"scroll\"><mstyle><mrow><mtext>Y</mtext></mrow></mstyle></math></span></span> and <span class=\"math_expression\"><span aria-label=\"Z\"><math alttext=\"Z\" overflow=\"scroll\"><mstyle><mrow><mtext>Z</mtext></mrow></mstyle></math></span></span> at the same time</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Bonds <span class=\"math_expression\"><span aria-label=\"W\"><math alttext=\"W\" overflow=\"scroll\"><mstyle><mrow><mtext>W</mtext></mrow></mstyle></math></span></span> and <span class=\"math_expression\"><span aria-label=\"Z\"><math alttext=\"Z\" overflow=\"scroll\"><mstyle><mrow><mtext>Z</mtext></mrow></mstyle></math></span></span> at the same time</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Chemistry of Life"
+  },
+  "topic": {
+    "code": "1.6",
+    "text": "1.6: Nucleic Acids"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Describe characteristics of visual representations of biological concepts and processes."
+  }
+}

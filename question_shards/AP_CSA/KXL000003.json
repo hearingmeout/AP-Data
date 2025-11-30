@@ -1,0 +1,39 @@
+{
+  "id": "KXL000003",
+  "type": "mcq",
+  "title": "b1 equivalent to b2 - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following can replace &nbsp;<code class=\"dap_inline\">/* missing expression */</code> &nbsp;so that the value stored in <code class=\"dap_inline\">b2</code> is the same as the value stored in&nbsp; <code class=\"dap_inline\">b1</code> &nbsp;after the code segment has executed?</p>",
+    "answer": "01JSDNVD114EGHGS821D5V4NT6",
+    "choices": [
+      {
+        "value": "01JSDNVD104QHM40CNA7VCHD25",
+        "label": "<pre><code class=\"language-plaintext\">false || ((5 % 2) == 1) </code></pre>"
+      },
+      {
+        "value": "01JSDNVD114EGHGS821D5V4NT6",
+        "label": "<pre><code class=\"language-plaintext\">false &amp;&amp; ((5 % 2) == 1)</code></pre>"
+      },
+      {
+        "value": "01JSDNVD11KZ2G9RE5AE56CHMR",
+        "label": "<pre><code class=\"language-plaintext\">true || ((5 % 2) == 1) </code></pre>"
+      },
+      {
+        "value": "01JSDNVD11KWQGMWDDDXZXRW64",
+        "label": "<pre><code class=\"language-plaintext\">true &amp;&amp; ((5 % 2) == 1)</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

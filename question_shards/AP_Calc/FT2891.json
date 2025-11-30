@@ -1,0 +1,43 @@
+{
+  "id": "FT2891",
+  "type": "mcq",
+  "title": "Solve a separable differential equation",
+  "content": {
+    "prompt": "If <span aria-label=\"d y over d x is equal to y secant squared x\"><math> <semantics> <mrow> <mfrac> <mrow> <mi>d</mi> <mi>y</mi> </mrow> <mrow> <mi>d</mi> <mi>x</mi> </mrow> </mfrac> <mo>=</mo> <mi>y</mi> <msup> <mrow> <mi>sec</mi> </mrow> <mn>2</mn> </msup> <mi>x</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaalaaapaqaa8qacaWGKbGaamyEaaWdaeaapeGaamizaiaadIhaaaGaeyypa0JaamyEaiGacohacaGGLbGaai4ya8aadaahaaWcbeqaa8qacaaIYaaaaOGaamiEaaaa@4413@</annotation> </semantics> </math></span> and <em>y</em> = 5 when <em>x</em> = 0, then <em>y</em> =",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<em>e</em><sup>tan</sup> <em><sup>x</sup></em> + 4",
+        "value": "i0"
+      },
+      {
+        "label": "<em>e</em><sup>tan</sup> <em><sup>x</sup></em> + 5",
+        "value": "i1"
+      },
+      {
+        "label": "5<em>e</em><sup>tan</sup> <em><sup>x</sup></em>",
+        "value": "i2"
+      },
+      {
+        "value": "i3",
+        "label": "<p>tan <em>x</em> + 5</p>"
+      },
+      {
+        "label": "tan <em>x</em> + 5<em>e<sup>x</sup></em>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.7",
+    "text": "7.7: Finding Particular Solutions Using Initial Conditions and Separation of Variables"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "VR110305",
+  "type": "mcq",
+  "title": "The announcement is about",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR110299.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">The announcement is made to</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">provide directions to the exit</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">wish a happy holiday</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">inform passengers of the arrival time</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">provide information about the next stop</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Factors That Impact the Quality of Life"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

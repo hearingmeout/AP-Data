@@ -1,0 +1,35 @@
+{
+  "id": "FT543985",
+  "type": "mcq",
+  "title": "Departure city",
+  "content": {
+    "prompt": "<p>In what city is the announcement being made?</p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Shanghai</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Hangzhou</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Suzhou</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Hong Kong</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Factors That Impact the Quality of Life"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

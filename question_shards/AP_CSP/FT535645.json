@@ -1,0 +1,35 @@
+{
+  "id": "FT535645",
+  "type": "mcq",
+  "title": "Foxtrot Hotel November Yankee if statement",
+  "content": {
+    "prompt": "<p>In the program below, the initial value of <em>x</em> is 5 and the initial value of <em>y</em> is 10.</p>\n\n<p><img alt=\"A 22-line programming code reads as follows. Line 1: IF, open parenthesis, x less than 0, end parenthesis. Line 2: open brace. Line 3: DISPLAY, open parenthesis, open double quote, Foxtrot, close double quote, end parenthesis. Line 4: close brace. Line 5: ELSE. Line 6: open brace. Line 7: IF, open parenthesis, x greater than y, end parenthesis. Line 8: open brace. Line 9: DISPLAY, open parenthesis, open double quote, Hotel, close double quote, end parenthesis. Line 10: close brace. Line 11: ELSE. Line 12: open brace. Line 13: IF, open parenthesis, y greater than 0, end parenthesis. Line 14: open brace. Line 15: DISPLAY, open parenthesis, open double quote, November, close double quote, end parenthesis. Line 16: close brace. Line 17: ELSE. Line 18: open brace. Line 19: DISPLAY, open parenthesis, open double quote, Yankee, close double quote, end parenthesis. Line 20: close brace. Line 21: close brace. Line 22: close brace.\" height=\"491\" src=\"/images/cd18bc763fac68a4dbc7b5a0f288dcbf.png\" width=\"325\"></p>\n\n<p>What is displayed as a result of running the program?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Foxtrot</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Hotel</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>November</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Yankee</p>"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.7",
+    "text": "3.7: Nested Conditionals"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

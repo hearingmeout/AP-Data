@@ -1,0 +1,43 @@
+{
+  "id": "FT546695",
+  "type": "mcq",
+  "title": "Fundamental Theorem with derivative of integral",
+  "content": {
+    "prompt": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the derivative with respect to x of the integral from 2 to x of the square root of open parentheses 1 plus t squared close parentheses with respect to t equals\">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mi>d</mi>\n    <mrow>\n     <mi>d</mi><mi>x</mi></mrow>\n   </mfrac>\n   <mstyle displaystyle=\"true\">\n    <mrow><munderover>\n     <mo>∫</mo>\n     <mn>2</mn>\n     <mi>X</mi>\n    </munderover>\n    <mrow>\n     <msqrt>\n      <mrow>\n       <mn>1</mn><mo>+</mo><msup>\n        <mi>t</mi>\n        <mn>2</mn>\n       </msup>\n       </mrow>\n     </msqrt>\n     </mrow>\n   </mrow>\n   \n  </mstyle><mi>d</mi><mi>t</mi><mo>=</mo></mrow>\n <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n qadaWcaaWdaeaapeGaamizaaWdaeaapeGaamizaiaadIhaaaWaa8qC\n a8aabaWdbmaakaaapaqaa8qacaaIXaGaey4kaSIaamiDa8aadaahaa\n Wcbeqaa8qacaaIYaaaaaqabaaapaqaa8qacaaIYaaapaqaa8qacaWG\n ybaaniabgUIiYdGccaWGKbGaamiDaiabg2da9aaa@4446@\n </annotation>\n</semantics>\n</math>\n</p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"x divided by the square root of open parentheses 1 plus x squared close parentheses\">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mi>x</mi>\n    <mrow>\n     <msqrt>\n      <mrow>\n       <mn>1</mn><mo>+</mo><msup>\n        <mi>x</mi>\n        <mn>2</mn>\n       </msup>\n       </mrow>\n     </msqrt>\n     </mrow>\n   </mfrac>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWcaaWdaeaapeGaamiEaaWdaeaapeWaaOaaa8aabaWdbiaaigda\n  cqGHRaWkcaWG4bWdamaaCaaaleqabaWdbiaaikdaaaaabeaaaaaaaa@3B32@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the square root of open parentheses 1 plus x squared close parentheses minus 5\">\n <semantics>\n  <mrow>\n   <msqrt>\n    <mrow>\n     <mn>1</mn><mo>+</mo><msup>\n      <mi>x</mi>\n      <mn>2</mn>\n     </msup>\n     </mrow>\n   </msqrt>\n   <mo>−</mo><mn>5</mn></mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaGcaaWdaeaapeGaaGymaiabgUcaRiaadIhapaWaaWbaaSqabeaa\n  peGaaGOmaaaaaeqaaOGaeyOeI0IaaGynaaaa@3B9D@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the square root of open parentheses 1 plus x squared close parentheses\">\n <semantics>\n  <mrow>\n   <msqrt>\n    <mrow>\n     <mn>1</mn><mo>+</mo><msup>\n      <mi>x</mi>\n      <mn>2</mn>\n     </msup>\n     </mrow>\n   </msqrt>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaGcaaWdaeaapeGaaGymaiabgUcaRiaadIhapaWaaWbaaSqabeaa\n  peGaaGOmaaaaaeqaaaaa@39E7@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"x divided by the square root of open parentheses 1 plus x squared close parentheses minus 1 divided by the square root of 5\">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mi>x</mi>\n    <mrow>\n     <msqrt>\n      <mrow>\n       <mn>1</mn><mo>+</mo><msup>\n        <mi>x</mi>\n        <mn>2</mn>\n       </msup>\n       </mrow>\n     </msqrt>\n     </mrow>\n   </mfrac>\n   <mo>−</mo><mfrac>\n    <mn>1</mn>\n    <mrow>\n     <msqrt>\n      <mn>5</mn>\n     </msqrt>\n     </mrow>\n   </mfrac>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWcaaWdaeaapeGaamiEaaWdaeaapeWaaOaaa8aabaWdbiaaigda\n  cqGHRaWkcaWG4bWdamaaCaaaleqabaWdbiaaikdaaaaabeaaaaGccq\n  GHsisldaWcaaWdaeaapeGaaGymaaWdaeaapeWaaOaaa8aabaWdbiaa\n  iwdaaSqabaaaaaaa@3E2B@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"1 divided by the square root of open parentheses 2 times the square root of open parentheses 1 plus x squared close parentheses close parentheses minus 1 divided by open parentheses 2 times the square root of 5 close parentheses\">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mn>1</mn>\n    <mrow>\n     <mn>2</mn><msqrt>\n      <mrow>\n       <mn>1</mn><mo>+</mo><msup>\n        <mi>x</mi>\n        <mn>2</mn>\n       </msup>\n       </mrow>\n     </msqrt>\n     </mrow>\n   </mfrac>\n   <mo>−</mo><mfrac>\n    <mn>1</mn>\n    <mrow>\n     <mn>2</mn><msqrt>\n      <mn>5</mn>\n     </msqrt>\n     </mrow>\n   </mfrac>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWcaaWdaeaapeGaaGymaaWdaeaapeGaaGOmamaakaaapaqaa8qa\n  caaIXaGaey4kaSIaamiEa8aadaahaaWcbeqaa8qacaaIYaaaaaqaba\n  aaaOGaeyOeI0YaaSaaa8aabaWdbiaaigdaa8aabaWdbiaaikdadaGc\n  aaWdaeaapeGaaGynaaWcbeaaaaaaaa@3F61@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.4",
+    "text": "6.4: The Fundamental Theorem of Calculus and Accumulation Functions"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

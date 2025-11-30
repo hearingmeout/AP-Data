@@ -1,0 +1,39 @@
+{
+  "id": "JIP000002",
+  "type": "mcq",
+  "title": "Matrix Transform Check - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following represents the contents of&nbsp; <span class=\"dap_inline\">changedMat</span> &nbsp;after executing this code segment?</p>",
+    "answer": "01JH654BNPXTG9KTR8MV3CJWB2",
+    "choices": [
+      {
+        "value": "01JH654BNPXTG9KTR8MV3CJWB2",
+        "label": "<pre><code class=\"language-plaintext\">{{5, 6, 7, 8},\n {5, 6, 7, 8},\n {1, 2, 3, 4},\n {1, 2, 3, 4}}</code></pre>"
+      },
+      {
+        "value": "01JH654BNQC38GGDVVFVRSC6C9",
+        "label": "<pre><code class=\"language-plaintext\">{{1, 2, 3, 4},\n {5, 6, 7, 8},\n {1, 2, 3, 4},\n {5, 6, 7, 8}}</code></pre>"
+      },
+      {
+        "value": "01JH654BNQJG4RKVVBN627JPVH",
+        "label": "<pre><code class=\"language-plaintext\">{{4, 3, 2, 1},\n {4, 3, 2, 1},\n {8, 7, 6, 5},\n {8, 7, 6, 5}}</code></pre>"
+      },
+      {
+        "value": "01JH654BNQ9CPGHKYFD9GQCKXB",
+        "label": "<pre><code class=\"language-plaintext\">{{1, 2, 3, 4},\n {1, 2, 3, 4},\n {5, 6, 7, 8},\n {5, 6, 7, 8}}</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.13",
+    "text": "4.13: Implementing 2D Array Algorithms"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "BRU000003",
+  "type": "mcq",
+  "title": "getAge method on Person object - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What, if anything, is printed as a result of executing each of the code segments?</p>",
+    "answer": "01JCGYXZ46WVMVGDK2TGVZARAH",
+    "choices": [
+      {
+        "value": "01JCGYXZ45S7R67F0P6RBVQMM4",
+        "label": "<p class=\"dap_body\">Both code segments print&nbsp; <span class=\"dap_inline\">16</span>.</p>"
+      },
+      {
+        "value": "01JCGYXZ46WVMVGDK2TGVZARAH",
+        "label": "<p class=\"dap_body\">Code segment 1 prints&nbsp; <span class=\"dap_inline\">16</span>,&nbsp; but code segment 2 prints nothing because it will not compile.</p>"
+      },
+      {
+        "value": "01JCGYXZ46V5JA97YZANQPKKTJ",
+        "label": "<p class=\"dap_body\">Code segment 2 prints&nbsp; <span class=\"dap_inline\">16</span>,&nbsp; but code segment 1 prints nothing because it will not compile.</p>"
+      },
+      {
+        "value": "01JCGYXZ47M5RVAVEFZ2P4EDA6",
+        "label": "<p class=\"dap_body\">Neither code segment will print anything because they will not compile.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.14",
+    "text": "1.14: Calling Instance Methods"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

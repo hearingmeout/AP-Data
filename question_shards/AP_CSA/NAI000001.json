@@ -1,0 +1,39 @@
+{
+  "id": "NAI000001",
+  "type": "mcq",
+  "title": "allPositiveInRow for 2D array - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following replacements for &nbsp;<code class=\"dap_inline\">/* initial value */</code> &nbsp;and &nbsp;<code class=\"dap_inline\">/*&nbsp;updated&nbsp;value&nbsp;*/</code> &nbsp;can be used so that the method works as intended?</p>",
+    "answer": "01JGM2V0KVDV7J2K83Y13C652X",
+    "choices": [
+      {
+        "value": "01JGM2V0KTECJG2KKPVTG2GD8W",
+        "label": "<p class=\"dap_body\">Replace&nbsp; <code class=\"dap_inline\">/* initial value */</code> &nbsp;with&nbsp; <code class=\"dap_inline\">true</code> &nbsp;and replace&nbsp; <code class=\"dap_inline\">/*&nbsp;updated&nbsp;value&nbsp;*/</code> &nbsp;with&nbsp; <code class=\"dap_inline\">true</code>.</p>"
+      },
+      {
+        "value": "01JGM2V0KVDV7J2K83Y13C652X",
+        "label": "<p class=\"dap_body\">Replace&nbsp; <code class=\"dap_inline\">/* initial value */</code> &nbsp;with&nbsp; <code class=\"dap_inline\">true</code> &nbsp;and replace&nbsp; <code class=\"dap_inline\">/*&nbsp;updated&nbsp;value&nbsp;*/</code> &nbsp;with&nbsp; <code class=\"dap_inline\">false</code>.</p>"
+      },
+      {
+        "value": "01JGM2V0KVD4NRE1PED1YSSZ34",
+        "label": "<p class=\"dap_body\">Replace&nbsp; <code class=\"dap_inline\">/* initial value */</code> &nbsp;with&nbsp; <code class=\"dap_inline\">false</code> &nbsp;and replace&nbsp; <code class=\"dap_inline\">/*&nbsp;updated&nbsp;value&nbsp;*/</code> &nbsp;with&nbsp; <code class=\"dap_inline\">true</code>.</p>"
+      },
+      {
+        "value": "01JGM2V0KV135R0ZNJ6E6G6EKS",
+        "label": "<p class=\"dap_body\">Replace&nbsp; <code class=\"dap_inline\">/* initial value */</code> &nbsp;with&nbsp; <code class=\"dap_inline\">false</code> &nbsp;and replace&nbsp; <code class=\"dap_inline\">/*&nbsp;updated&nbsp;value&nbsp;*/</code> &nbsp;with&nbsp; <code class=\"dap_inline\">false</code>.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.11",
+    "text": "4.11: 2D Array Creation and Access"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

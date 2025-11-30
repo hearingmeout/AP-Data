@@ -1,0 +1,39 @@
+{
+  "id": "FT562150",
+  "type": "mcq",
+  "title": "Why does system not rotate when dropped",
+  "content": {
+    "prompt": "<p>Which of the following best explains why the system does not rotate around its center of mass as it falls?</p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The Earth exerts the same gravitational force on both spheres, causing them to accelerate at the same rate.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The Earth exerts the same gravitational force on both spheres, generating torques that cancel out.</p>"
+      },
+      {
+        "label": "The Earth exerts a larger gravitational force on the sphere of mass 2<em>m</em>, but that sphere is closer to the center of mass and the torques cancel out.",
+        "value": "i2"
+      },
+      {
+        "label": "The Earth exerts a larger gravitational force on the sphere of mass 2<em>m</em>, but that sphere has more inertia and the torques cancel out.",
+        "value": "i3"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Linear Momentum"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Conservation of Linear Momentum"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

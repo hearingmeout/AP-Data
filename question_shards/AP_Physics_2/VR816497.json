@@ -1,0 +1,39 @@
+{
+  "id": "VR816497",
+  "type": "mcq",
+  "title": "PV Diagram - Q for thermodynamic cycle",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"standalone_image\"><img alt=\"The figure shows the graph of three points labeled X, Y, and Z connected by arrows in a gridded plane. The horizontal axis is labeled volume, and the vertical axis is labeled pressure. Point X has coordinates 3 comma 1. Point Y has coordinates 1 comma 1. Point Z has coordinates 1 comma 3. A horizontal arrow goes to the left from point X to point Y. A vertical arrow goes up from point Y to point Z. A curved arrow goes downward and to the right from point Z to point X.\" src=\"/images/699efbdedd6bea883e74d56cd5db55a0.svg\"></div></div></div><p class=\"stem_paragraph\">An ideal gas is in a container with a moveable piston and goes through thermodynamic cycle <span class=\"math_expression\"><span aria-label=\"X arrow Y, arrow Z, arrow X\"><math alttext=\"X arrow Y, arrow Z, arrow X\" display=\"inline\" overflow=\"scroll\"><mtext>X</mtext><mo>→</mo><mtext>Y</mtext><mo>→</mo><mtext>Z</mtext><mo>→</mo><mtext>X</mtext></math></span></span>, as shown in the <span class=\"math_expression\"><span aria-label=\"P V\"><math alttext=\"P V\" display=\"inline\" overflow=\"scroll\"><mi>PV</mi></math></span></span> diagram. Which of the following correctly indicates whether the total energy <span class=\"math_expression\"><span aria-label=\"Q\"><math alttext=\"Q\" display=\"inline\" overflow=\"scroll\"><mi>Q</mi></math></span></span> transferred to the gas by heating is zero or positive, and provides a valid justification?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Zero, because the gas starts and ends at the same pressure and volume</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Zero, because the total work done on the gas during the cycle is zero</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Positive, because the total work done on the gas during the cycle is negative</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Positive, because the internal energy of the gas is higher at the end of the cycle than at the beginning</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Thermodynamics"
+  },
+  "topic": {
+    "code": "9.4",
+    "text": "9.4: The First Law of Thermodynamics"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

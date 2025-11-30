@@ -1,0 +1,43 @@
+{
+  "id": "VH955989",
+  "type": "mcq",
+  "title": "Physically Active",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"passage\"><div class=\"prose style:1\"><p class=\"passage_para\">An athletic director believes that more than <span class=\"math_expression\"><span aria-label=\"50\"><math alttext=\"50\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>50</mn></mrow></mstyle></math></span></span> percent of the students in a certain school district exercise at least <span class=\"math_expression\"><span aria-label=\"3.5\"><math alttext=\"3.5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>3.5</mn></mrow></mstyle></math></span></span> hours per week. To investigate the belief, the director selected a random sample of <span class=\"math_expression\"><span aria-label=\"40\"><math alttext=\"40\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>40</mn></mrow></mstyle></math></span></span> students in the school district and found that <span class=\"math_expression\"><span aria-label=\"60\"><math alttext=\"60\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>60</mn></mrow></mstyle></math></span></span> percent of the students in the sample exercise at least <span class=\"math_expression\"><span aria-label=\"3.5\"><math alttext=\"3.5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>3.5</mn></mrow></mstyle></math></span></span> hours per week. Let <span class=\"math_expression\"><span aria-label=\"p\"><math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math></span></span> represent the proportion of all students in the school district who exercise at least <span class=\"math_expression\"><span aria-label=\"3.5\"><math alttext=\"3.5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>3.5</mn></mrow></mstyle></math></span></span> hours per week.</p></div></div></div></div><p class=\"stem_paragraph\">Which of the following is the most appropriate alternative hypothesis to test the director’s claim?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"The alternative hypothesis is p equals 0.5\"><math alttext=\"The alternative hypothesis is p equals 0.5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>H</mtext></mrow><mrow><mtext>a</mtext></mrow></msub><mo>:</mo><mi>p</mi><mo>=</mo><mn>0.5</mn></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"The alternative hypothesis is p is greater than 0.5\"><math alttext=\"The alternative hypothesis is p is greater than 0.5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><msub><mrow><mtext>H</mtext></mrow><mrow><mtext>a</mtext></mrow></msub><mo>:</mo><mi>p</mi><mo>&gt;</mo><mn>0.5</mn></mrow></mstyle></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"The alternative hypothesis is p is less than 0.5\"><math alttext=\"The alternative hypothesis is p is less than 0.5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><msub><mrow><mtext>H</mtext></mrow><mrow><mtext>a</mtext></mrow></msub><mo>:</mo><mi>p</mi><mo>&lt;</mo><mn>0.5</mn></mrow></mstyle></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"The alternative hypothesis is p equals 0.6\"><math alttext=\"The alternative hypothesis is p equals 0.6\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><msub><mrow><mtext>H</mtext></mrow><mrow><mtext>a</mtext></mrow></msub><mo>:</mo><mi>p</mi><mo>=</mo><mn>0.6</mn></mrow></mstyle></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"The alternative hypothesis is p is greater than 0.6\"><math alttext=\"The alternative hypothesis is p is greater than 0.6\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><msub><mrow><mtext>H</mtext></mrow><mrow><mtext>a</mtext></mrow></msub><mo>:</mo><mi>p</mi><mo>&gt;</mo><mn>0.6</mn></mrow></mstyle></mrow></mstyle></math></span></span></p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.4",
+    "text": "6.4: Setting Up a Test for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Identify null and alternative hypotheses."
+  }
+}

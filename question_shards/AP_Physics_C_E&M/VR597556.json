@@ -1,0 +1,43 @@
+{
+  "id": "VR597556",
+  "type": "mcq",
+  "title": "Charging a similar capacitor",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR597555.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">The capacitor is connected to a battery and allowed to reach equilibrium. A charge of magnitude <span class=\"math_expression\"><span aria-label=\"Q\"><math alttext=\"Q\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>Q</mi></mrow></mstyle></math></span></span> is on each of the capacitor’s plates. The same battery is then connected to a new capacitor with identical dimensions but with a dielectric that has three times the dielectric constant of the original. When equilibrium is reached, what is the magnitude of the charge on one plate of the new capacitor?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"one ninth Q\"><math alttext=\"one ninth Q\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>9</mn></mrow></mfrac><mi>Q</mi></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"one third Q\"><math alttext=\"one third Q\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mi>Q</mi></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"Q\"><math alttext=\"Q\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>Q</mi></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"3 Q\"><math alttext=\"3 Q\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>3</mn><mi>Q</mi></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"9 Q\"><math alttext=\"9 Q\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>9</mn><mi>Q</mi></mrow></mstyle></math></span></span></p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Conductors and Capacitors"
+  },
+  "topic": {
+    "code": "10.3",
+    "text": "10.3: Capacitors"
+  },
+  "skill": {
+    "code": "2.D",
+    "text": "2.D: Predict new values or factors of change of physical quantities using functional dependence between variables."
+  }
+}

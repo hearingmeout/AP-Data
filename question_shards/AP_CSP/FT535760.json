@@ -1,0 +1,35 @@
+{
+  "id": "FT535760",
+  "type": "mcq",
+  "title": "Summer camp sessions",
+  "content": {
+    "prompt": "<p>A summer camp offers a morning session and an afternoon session. The list <em>morningList</em> contains the names of all children attending the morning session, and the list <em>afternoonList</em> contains the names of all children attending the afternoon session.</p>\n\n<p>Only children who attend both sessions eat lunch at the camp. The camp director wants to create <em>lunchList</em>, which will contain the names of children attending both sessions.</p>\n\n<p>The following code segment is intended to create<em> lunchList</em>, which is initially empty. It uses the procedure <em>IsFound</em> <em>(list, name)</em>, which returns<em> true </em> if <em>name</em> is found in <em>list</em> and returns <em>false </em>otherwise.</p>\n\n<p><img alt=\"A four-line code segment reads as follows. Line 1: FOR EACH child IN morning List. Line 2: open brace. Line 3: open angle bracket, MISSING CODE, end angle bracket. Line 4: close brace.\" height=\"94\" src=\"/images/9d3ee9b4a3b79a2e92637d5a5a4fd876.png\" width=\"321\"></p>\n\n<p>Which of the following could replace <em>&lt;MISSING CODE&gt; </em> so that the code segment works as intended?</p>\n",
+    "answer": "i0",
+    "choices": [
+      {
+        "label": "<img alt=\"Option A, shows a four-line code segment that reads as follows. Line 1: IF, open parenthesis, Is Found, open parenthesis, afternoon List comma child, end parenthesis, end parenthesis. Line 2: open brace. Line 3: APPEND, open parenthesis, lunch List comma child, end parenthesis. Line 4: close brace.\" height=\"96\" src=\"/images/c0dd126fb6a9cd4f19038d66913f1a95.png\" width=\"379\">",
+        "value": "i0"
+      },
+      {
+        "label": "<img alt=\"Option B shows a four-line code segment that reads as follows. Line 1: IF, open parenthesis, Is Found, open parenthesis, lunch List comma child, end parenthesis, end parenthesis. Line 2: open brace. Line 3: APPEND, open parenthesis, afternoon List comma child, end parenthesis. Line 4: close brace.\" height=\"95\" src=\"/images/b8c6fc3f4a6015e34f2a5ffcd28f2e27.png\" width=\"347\">",
+        "value": "i1"
+      },
+      {
+        "label": "<img alt=\"Option C shows a four-line code segment that reads as follows. Line 1: IF, open parenthesis, Is Found, open parenthesis, morning List comma child, end parenthesis, end parenthesis. Line 2: open brace. Line 3: APPEND, open parenthesis, lunch List comma child, end parenthesis. Line 4: close brace.\" height=\"100\" src=\"/images/b8aa10e8118fb1e7e5950f55e9cfe223.png\" width=\"357\">",
+        "value": "i2"
+      },
+      {
+        "label": "<img alt=\"Option D shows a four-line code segment that reads as follows. Line 1: IF, open parenthesis, open parenthesis, Is Found, open parenthesis, morning List comma child, end parenthesis, end parenthesis, OR, open parenthesis, Is Found, open parenthesis, afternoon List comma child, end parenthesis, end parenthesis. Line 2: open brace. Line 3: APPEND, open parenthesis, lunch List comma child, end parenthesis. Line 4: close brace.\" height=\"119\" src=\"/images/dbb94e63b8e2f42d8cba482c0834f620.png\" width=\"403\">",
+        "value": "i3"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.10",
+    "text": "3.10: Lists"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

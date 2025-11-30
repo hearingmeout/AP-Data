@@ -1,0 +1,43 @@
+{
+  "id": "VH900968",
+  "type": "mcq",
+  "title": "Trivia score",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"passage\">\n<div class=\"prose style:1\">\n<p class=\"passage_para\">The following dotplot shows the scores of 25 people who played an online trivia game.</p>\n</div>\n</div>\n\n<div class=\"standalone_image\"><img alt=\"The figure presents a dot plot titled Score, and the numbers 50 through 100, in increments of 5, are indicated. The data from the dot plot are as follows. Score 50, 0 people. Score 55, 1 person. Score 60, 5 people. Score 65, 5 people. Score 70, 6 people. Score 75, 2 people. Score 80, 2 people. Score 85, 1 person. Score 90, 2 people. Score 95, 1 person. Score 100, 0 people.\" height=\"145\" src=\"/images/d6a85b391de61d9e3999d78ca96bde36.png\" width=\"400\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">Which of the following statements is the best description of the distribution of scores?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The distribution is roughly symmetric.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The distribution is roughly uniform.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The distribution is skewed left.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The distribution is skewed right.</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The distribution is bimodal.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.6",
+    "text": "1.6: Describing the Distribution of a Quantitative Variable"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Describe data presented numerically or graphically."
+  }
+}

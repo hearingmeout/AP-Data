@@ -1,0 +1,43 @@
+{
+  "id": "FT536563",
+  "type": "mcq",
+  "title": "Half-life calculation",
+  "content": {
+    "prompt": "<p>A sample of radioactive waste has a half-life of 10 years and an activity level of 2 curies. After how many years will the activity level of this sample be 0.25 curie?</p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>10 years</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>20 years</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>30 years</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>40 years</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>80 years</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Energy Resources and Consumption"
+  },
+  "topic": {
+    "code": "6.6",
+    "text": "6.6: Nuclear Power"
+  },
+  "skill": {
+    "code": "Skill 6.C",
+    "text": "Skill 6.C: Calculate an accurate numeric answer with appropriate units."
+  }
+}

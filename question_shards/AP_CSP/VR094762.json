@@ -1,0 +1,35 @@
+{
+  "id": "VR094762",
+  "type": "mcq",
+  "title": "examples of multifactor authentication",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph text_to_speech_override:suppress_screen_reader\">A Web site uses several strategies to prevent unauthorized individuals from accessing user accounts. Which of the following is NOT an example of multifactor authentication?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Each employee for a company is issued a USB device that contains a unique token code. To log into a company computer, an employee must insert the USB device into the computer and provide a correct password.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">After logging into an account from a new device, a user must enter a code that is sent via e-mail to the e-mail address on file with the account.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">In order to log into an account, a user must provide both a password and a fingerprint that is captured using the user’s device.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">When a user enters an incorrect password more than two times in a row, the user is locked out of the account for 24 hours.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "5.6",
+    "text": "5.6: Safe Computing"
+  },
+  "skill": {
+    "code": "Skill 5.E",
+    "text": "Skill 5.E: Evaluate the use of computing based on legal and ethical factors."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT540807",
+  "type": "mcq",
+  "title": "Graph of circuit elements over time with inductor",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows a graph in the first quadrant with time on the horizontal axis. A curve is plotted that starts at the origin and is increasing and concave down, coming to a near horizontal asymptote.\" height=\"149\" src=\"/images/274d1bb9fec7a77f95cdf3d4183b636d.jpg\" width=\"250\"></p>\n\n<p>Which of the following quantities could be represented as a function of time by the graph shown above?</p>\n\n<ol style=\"list-style-type:upper-roman\">\n\t<li>\n\t<p>The potential difference across the resistor</p>\n\t</li>\n\t<li>\n\t<p>The potential difference across the inductor</p>\n\t</li>\n\t<li>\n\t<p>The current in the circuit</p>\n\t</li>\n</ol>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>I only </p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>II only </p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>I and III only</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>II and III only</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>I, II, and III</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.5",
+    "text": "13.5: Circuits with Resistors and Inductors (LR Circuits)"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

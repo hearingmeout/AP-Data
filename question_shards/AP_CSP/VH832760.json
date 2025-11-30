@@ -1,0 +1,35 @@
+{
+  "id": "VH832760",
+  "type": "mcq",
+  "title": "data privacy concern of upgraded system",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VH832756.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">Which of the following is the most likely data privacy concern of the upgraded system?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Customers’ personal information could be compromised if an unauthorized individual gains access to the call session database.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Storing information in the call session database makes it easy for individuals to trick the system using malicious links.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The system design increases the chance that customers will unknowingly install malware on their devices that will share their data with unauthorized individuals.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The system design makes it easy for unauthorized individuals to acquire customers’ private encryption keys.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "5.6",
+    "text": "5.6: Safe Computing"
+  },
+  "skill": {
+    "code": "Skill 5.D",
+    "text": "Skill 5.D: Describe the impact of gathering data."
+  }
+}

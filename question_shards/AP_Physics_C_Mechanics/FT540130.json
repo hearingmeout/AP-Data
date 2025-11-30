@@ -1,0 +1,43 @@
+{
+  "id": "FT540130",
+  "type": "mcq",
+  "title": "Final velocity of dropped vs thrown object",
+  "content": {
+    "prompt": "An object of unknown mass is initially at rest and dropped from a height <em>h</em>. It reaches the ground with a velocity <span aria-label=\"v sub 1\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mstyle displaystyle=\"true\" scriptlevel=\"0\"> <mrow class=\"MJX-TeXAtom-ORD\"> <msub> <mi>v</mi> <mn>1</mn> </msub> </mrow> </mstyle> </math></span>. The same object is then raised again to the same height <em>h</em> but this time is thrown downward with velocity <span aria-label=\"v sub 1\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mstyle displaystyle=\"true\" scriptlevel=\"0\"> <mrow class=\"MJX-TeXAtom-ORD\"> <msub> <mi>v</mi> <mn>1</mn> </msub> </mrow> </mstyle> </math></span>. It now reaches the ground with a new velocity <span aria-label=\"v sub 2\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mstyle displaystyle=\"true\" scriptlevel=\"0\"> <mrow class=\"MJX-TeXAtom-ORD\"> <msub> <mi>v</mi> <mn>2</mn> </msub> </mrow> </mstyle> </math></span>. How is <span aria-label=\"v sub 2\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mstyle displaystyle=\"true\" scriptlevel=\"0\"> <mrow class=\"MJX-TeXAtom-ORD\"> <msub> <mi>v</mi> <mn>2</mn> </msub> </mrow> </mstyle> </math></span> related to <span aria-label=\"v sub 1\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mstyle displaystyle=\"true\" scriptlevel=\"0\"> <mrow class=\"MJX-TeXAtom-ORD\"> <msub> <mi>v</mi> <mn>1</mn> </msub> </mrow> </mstyle> </math></span>?",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<span aria-label=\"v sub 2 equals v sub 1 over 2\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mstyle displaystyle=\"true\" scriptlevel=\"0\"> <mrow class=\"MJX-TeXAtom-ORD\"> <msub> <mi>v</mi> <mn>2</mn> </msub> <mo>=</mo> <msub> <mi>v</mi> <mn>1</mn> </msub> <mrow class=\"MJX-TeXAtom-ORD\"> <mo>/</mo> </mrow> <mn>2</mn> </mrow> </mstyle> </math></span>",
+        "value": "i0"
+      },
+      {
+        "label": "<span aria-label=\"v sub 2 equals v sub 1\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mstyle displaystyle=\"true\" scriptlevel=\"0\"> <mrow class=\"MJX-TeXAtom-ORD\"> <msub> <mi>v</mi> <mn>2</mn> </msub> <mo>=</mo> <msub> <mi>v</mi> <mn>1</mn> </msub> </mrow> </mstyle> </math></span>",
+        "value": "i1"
+      },
+      {
+        "label": "<span aria-label=\"v sub 2 equals square root of 2 end root v sub 1\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mstyle displaystyle=\"true\" scriptlevel=\"0\"> <mrow class=\"MJX-TeXAtom-ORD\"> <msub> <mi>v</mi> <mn>2</mn> </msub> <mo>=</mo> <msqrt> <mn>2</mn> </msqrt> <msub> <mi>v</mi> <mn>1</mn> </msub> </mrow> </mstyle> </math></span>",
+        "value": "i2"
+      },
+      {
+        "label": "<span aria-label=\"v sub 2 equals 2 v sub 1\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mstyle displaystyle=\"true\" scriptlevel=\"0\"> <mrow class=\"MJX-TeXAtom-ORD\"> <msub> <mi>v</mi> <mn>2</mn> </msub> <mo>=</mo> <mn>2</mn> <msub> <mi>v</mi> <mn>1</mn> </msub> </mrow> </mstyle> </math></span>",
+        "value": "i3"
+      },
+      {
+        "label": "<span aria-label=\"v sub 2 equals 4 v sub 1\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <mstyle displaystyle=\"true\" scriptlevel=\"0\"> <mrow class=\"MJX-TeXAtom-ORD\"> <msub> <mi>v</mi> <mn>2</mn> </msub> <mo>=</mo> <mn>4</mn> <msub> <mi>v</mi> <mn>1</mn> </msub> </mrow> </mstyle> </math></span>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Representing Motion"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "FT535734",
+  "type": "mcq",
+  "title": "Reducing number of operations in list average",
+  "content": {
+    "prompt": "<p>A programmer wrote the code segment below to display the average of all the elements in a list called numbers. There is always at least one number in the list.</p>\n\n<p><img alt=\"&quot;Line 1: count leftward 0\nLine 2: sum leftward arrow 0\nLine 3: For each value in numbers\nLine 4: Left curly bracket\nLine 5: count leftward arrow count plus 1\nLine 6: sum leftward arrow sum plus value\nLine 7: average leftward arrow sum forward slash count\nLine 8: Right curly bracket\nLine 9: Display left parenthesis average right parenthesis&quot;\" height=\"288\" src=\"/images/15649cd08210dd7ba4683d87d61bfbc3.png\" width=\"355\"></p>\n\n<p>The programmer wants to reduce the number of operations that are performed when the program is run. Which change will result in a correct program with a reduced number of operations performed?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Interchanging line 1 and line 2</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Interchanging line 5 and line 6</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Interchanging line 6 and line 7</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Interchanging line 7 and line 8</p>"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.17",
+    "text": "3.17: Algorithmic Efficiency"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "VR804073",
+  "type": "mcq",
+  "title": "Induced current - square loop",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"standalone_image\"><img alt=\"The figure shows a square loop next to a vertical wire that carries a current I sub 1 upward.\" src=\"/images/0df88751367f4eda947c4341621f910a.svg\"></div></div></div><p class=\"stem_paragraph\">A current <span class=\"math_expression\"><span aria-label=\"I sub 1\"><math alttext=\"I sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>1</mn></msub></math></span></span> is established in a long, straight wire. A thin, square conductive loop is placed next to the wire, as shown. Which of the following statements best describes a change that could be made to the system to induce a clockwise current in the loop and provides a correct justification?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Decrease the magnitude of current <span class=\"math_expression\"><span aria-label=\"I sub 1\"><math alttext=\"I sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>1</mn></msub></math></span></span>. This will induce a clockwise current in an attempt to increase the decreasing flux.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Increase the magnitude of current <span class=\"math_expression\"><span aria-label=\"I sub 1\"><math alttext=\"I sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>1</mn></msub></math></span></span>. This will induce a clockwise current in an attempt to decrease the increasing flux.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Move the loop closer to the wire. This will induce a clockwise current in an attempt to decrease the increasing flux.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Move the loop parallel to the wire. This will induce a clockwise current in an attempt to increase the decreasing flux.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.2",
+    "text": "13.2: Electromagnetic Induction"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

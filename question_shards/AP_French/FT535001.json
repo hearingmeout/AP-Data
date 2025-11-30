@@ -1,0 +1,35 @@
+{
+  "id": "FT535001",
+  "type": "mcq",
+  "title": "Physics class - a student's request",
+  "content": {
+    "prompt": "<p>Qu’est-ce que Stéphane demande à Sophie dans ce dialogue?</p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>De parler à M. Poirier</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>De l’aider à faire son prochain devoir de physique</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>De l’aider à trouver un nouveau prof de physique</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>De l’aider à préparer son examen de physique</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: The Influence of Language and Culture on Identity"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "FT559989",
+  "type": "mcq",
+  "title": "Partical motion - find velocity from position",
+  "content": {
+    "prompt": "<p>A particle moves along the x-axis so that at time <em>t &gt; 0</em> its position is given by <em>x(t) = 12e<sup>−t</sup>sin t.</em> What is the first time <em>t </em>at which the velocity of the particle is zero? </p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "label": "<span aria-label=\"pi over 4\"><math> <mrow> <mfrac> <mi>π</mi> <mn>4</mn> </mfrac> </mrow> </math></span>",
+        "value": "i0"
+      },
+      {
+        "label": "<span aria-label=\"pi over 2\"><math> <mrow> <mfrac> <mi>π</mi> <mn>2</mn> </mfrac> </mrow> </math></span>",
+        "value": "i1"
+      },
+      {
+        "label": "<span aria-label=\"3 pi over 4\"><math> <mrow> <mfrac> <mrow> <mn>3</mn> <mi>π</mi> </mrow> <mn>4</mn> </mfrac> </mrow> </math></span>",
+        "value": "i2"
+      },
+      {
+        "label": "<span aria-label=\"pi\"><math> <mi>π</mi> </math></span>",
+        "value": "i3"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Contextual Applications of Differentiation"
+  },
+  "topic": {
+    "code": "4.2",
+    "text": "4.2: Straight-Line Motion - Connecting Position, Velocity, and Acceleration"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

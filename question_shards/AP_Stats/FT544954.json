@@ -1,0 +1,43 @@
+{
+  "id": "FT544954",
+  "type": "mcq",
+  "title": "Explain why median instead of mean for SAT scores",
+  "content": {
+    "prompt": "A local real estate magazine used the median instead of the mean when it reported the SAT score of the average student who attends Groveland High School. A graphical display of SAT scores of students who attend&nbsp;Groveland High School indicated that the data were strongly skewed to the right. Which of the following explains why, in this situation, the median is a more accurate indicator of the SAT score of the average student than the mean is?",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The mean is affected by the skewness, whereas the median is not.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The median is always the preferred statistic.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The mean will be less than the median when the data are strongly skewed to the right.</p>"
+      },
+      {
+        "label": "The mean should be used only when data are strongly skewed to the left.",
+        "value": "i3"
+      },
+      {
+        "value": "i4",
+        "label": "<p>The median is equal to one-half the sum of the maximum and minimum SAT scores at Groveland High.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.7",
+    "text": "1.7: Summary Statistics for a Quantitative Variable"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

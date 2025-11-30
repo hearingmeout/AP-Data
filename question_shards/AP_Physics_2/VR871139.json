@@ -1,0 +1,39 @@
+{
+  "id": "VR871139",
+  "type": "mcq",
+  "title": "Photoelectric - max v vs lambda and work function",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Photons of wavelength <span class=\"math_expression\"><span aria-label=\"lambda\"><math alttext=\"lambda\" display=\"inline\" overflow=\"scroll\"><mi>λ</mi></math></span></span> strike the surface of a material that has a work function <span class=\"math_expression\"><span aria-label=\"W\"><math alttext=\"W\" display=\"inline\" overflow=\"scroll\"><mi>W</mi></math></span></span>, causing electrons of mass <span class=\"math_expression\"><span aria-label=\"m sub e\"><math alttext=\"m sub e\" display=\"inline\" overflow=\"scroll\"><msub><mi>m</mi><mi>e</mi></msub></math></span></span> to be emitted from the surface. What is the maximum speed of the emitted electrons?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the square root of, the fraction 2 over m sub e, end fraction, times, open parenthesis, the fraction with numerator h lambda, and denominator c, end fraction, plus W, close parenthesis, end root\"><math alttext=\"the square root of, the fraction 2 over m sub e, end fraction, times, open parenthesis, the fraction with numerator h lambda, and denominator c, end fraction, plus W, close parenthesis, end root\" display=\"inline\" overflow=\"scroll\"><msqrt><mfrac><mn>2</mn><msub><mi>m</mi><mi>e</mi></msub></mfrac><mrow><mo>(</mo><mfrac><mrow><mi>h</mi><mi>λ</mi></mrow><mi>c</mi></mfrac><mo>+</mo><mi>W</mi><mo>)</mo></mrow></msqrt></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the square root of, the fraction 2 over m sub e, end fraction, times, open parenthesis, the fraction with numerator h lambda, and denominator c, end fraction, minus W, close parenthesis, end root\"><math alttext=\"the square root of, the fraction 2 over m sub e, end fraction, times, open parenthesis, the fraction with numerator h lambda, and denominator c, end fraction, minus W, close parenthesis, end root\" display=\"inline\" overflow=\"scroll\"><msqrt><mfrac><mn>2</mn><msub><mi>m</mi><mi>e</mi></msub></mfrac><mrow><mo>(</mo><mfrac><mrow><mi>h</mi><mi>λ</mi></mrow><mi>c</mi></mfrac><mo>−</mo><mi>W</mi><mo>)</mo></mrow></msqrt></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the square root of, the fraction 2 over m sub e, end fraction, times, open parenthesis, the fraction with numerator h c, and denominator lambda, end fraction, plus W, close parenthesis, end root\"><math alttext=\"the square root of, the fraction 2 over m sub e, end fraction, times, open parenthesis, the fraction with numerator h c, and denominator lambda, end fraction, plus W, close parenthesis, end root\" display=\"inline\" overflow=\"scroll\"><msqrt><mfrac><mn>2</mn><msub><mi>m</mi><mi>e</mi></msub></mfrac><mrow><mo>(</mo><mfrac><mrow><mi>h</mi><mi>c</mi></mrow><mi>λ</mi></mfrac><mo>+</mo><mi>W</mi><mo>)</mo></mrow></msqrt></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the square root of, the fraction 2 over m sub e, end fraction, times, open parenthesis, the fraction with numerator h c, and denominator lambda, end fraction, minus W, close parenthesis, end root\"><math alttext=\"the square root of, the fraction 2 over m sub e, end fraction, times, open parenthesis, the fraction with numerator h c, and denominator lambda, end fraction, minus W, close parenthesis, end root\" display=\"inline\" overflow=\"scroll\"><msqrt><mfrac><mn>2</mn><msub><mi>m</mi><mi>e</mi></msub></mfrac><mrow><mo>(</mo><mfrac><mrow><mi>h</mi><mi>c</mi></mrow><mi>λ</mi></mfrac><mo>−</mo><mi>W</mi><mo>)</mo></mrow></msqrt></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "15",
+    "text": "15: Modern Physics"
+  },
+  "topic": {
+    "code": "15.5",
+    "text": "15.5: The Photoelectric Effect"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

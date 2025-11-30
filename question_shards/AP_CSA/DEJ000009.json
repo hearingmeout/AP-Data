@@ -1,0 +1,39 @@
+{
+  "id": "DEJ000009",
+  "type": "mcq",
+  "title": "Thing objects with keyword this - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What, if anything, is printed as a result of executing this code segment?</p>",
+    "answer": "01JES1HXZE1MS7WSV7R68BEGY6",
+    "choices": [
+      {
+        "value": "01JES1HXZCGC9MCAZDW4WV2E4E",
+        "label": "<pre><code class=\"language-plaintext\">yes\nyes</code></pre>"
+      },
+      {
+        "value": "01JES1HXZE1MS7WSV7R68BEGY6",
+        "label": "<pre><code class=\"language-plaintext\">maybe\nyes</code></pre>"
+      },
+      {
+        "value": "01JES1HXZDMCVP9W9MV1C2PKH1",
+        "label": "<pre><code class=\"language-plaintext\">maybe\nmaybe</code></pre>"
+      },
+      {
+        "value": "01JES1HXZETSNFCEDHNV4VPGF8",
+        "label": "<p class=\"dap_body\">Nothing is printed because the&nbsp; <span class=\"dap_inline\">Thing</span>&nbsp; class does not compile.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.9",
+    "text": "3.9: `this` Keyword"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

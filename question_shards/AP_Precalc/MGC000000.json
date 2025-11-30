@@ -1,0 +1,39 @@
+{
+  "id": "MGC000000",
+  "type": "mcq",
+  "title": "Inverses of Exponentials - growth rates",
+  "content": {
+    "prompt": "<div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <p class=\"dap_body\">The function&nbsp;<span aria-label=\"f\"><math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;is an increasing function such that every time the output values of the function&nbsp;<span aria-label=\"f\"><math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;increase by&nbsp;<span aria-label=\"1\"><math alttext=\"1\"><semantics><mn>1</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>, the corresponding input values multiply by&nbsp;<span aria-label=\"4\"><math alttext=\"4\"><semantics><mn>4</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>. Which of the following could define&nbsp;<span aria-label=\"f open parentheses x close parentheses\"><math alttext=\"f open parentheses x close parentheses\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;?&nbsp;</p> </div> </div> </div>\n",
+    "answer": "D-85299",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"x to the power of 4\"><math alttext=\"x to the power of 4\"><semantics><msup><mi>x</mi><mn>4</mn></msup><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "A-85296"
+      },
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"4 to the power of x\"><math alttext=\"4 to the power of x\"><semantics><msup><mn>4</mn><mi>x</mi></msup><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "B-85297"
+      },
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"fourth root of x\"><math alttext=\"fourth root of x\"><semantics><mroot><mi>x</mi><mn>4</mn></mroot><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "C-85298"
+      },
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"log subscript 4 x\"><math alttext=\"log subscript 4 x\"><semantics><mrow><msub><mi>log</mi><mn>4</mn></msub><mi>x</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "D-85299"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.10",
+    "text": "2.10: Inverses of Exponential Functions"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

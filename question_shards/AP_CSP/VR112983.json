@@ -1,0 +1,35 @@
+{
+  "id": "VR112983",
+  "type": "mcq",
+  "title": "minimize execution time using parallel computing",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">A certain computer has two identical processors that are able to run in parallel. Each processor can run only one process at a time, and each process must be executed on a single processor. The following table indicates the amount of time it takes to execute each of three processes on a single processor. Assume that none of the processes are dependent on any of the other processes.</p><div class=\"table_wrapper\"><table class=\"tgroup cols:2\"><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry colname:col1\">Process </td><td class=\"entry colname:col2\">Execution Time on <span class=\"formatted_line_break delivery_mode:Both\"></span>Either Processor </td></tr><tr class=\"row\"><td class=\"entry colname:col1\">X</td><td class=\"entry colname:col2\">60 seconds</td></tr><tr class=\"row\"><td class=\"entry colname:col1\">Y</td><td class=\"entry colname:col2\">30 seconds</td></tr><tr class=\"row\"><td class=\"entry colname:col1\">Z</td><td class=\"entry colname:col2\">50 seconds</td></tr></tbody></table></div><p class=\"stem_paragraph\">Which of the following best approximates the minimum possible time to execute all three processes when the two processors are run in parallel?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">60 seconds</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">70 seconds</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">80 seconds</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">90 seconds</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Parallel and Distributed Computing"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

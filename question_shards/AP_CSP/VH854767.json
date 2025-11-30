@@ -1,0 +1,35 @@
+{
+  "id": "VH854767",
+  "type": "mcq",
+  "title": "Calculate course grade",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">A programmer is writing a program to calculate a student’s course grade using the process described. The programmer has the following procedures available.</p>\n\n<div class=\"table_wrapper\">\n<table class=\"tgroup cols:2\">\n\t<tbody class=\"tbody\">\n\t\t<tr class=\"row\">\n\t\t\t<td class=\"entry colname:col1\"><span class=\"formatted_text font_weight:bold\">Procedure Call</span></td>\n\t\t\t<td class=\"entry colname:col2\"><span class=\"formatted_text font_weight:bold\">Explanation</span></td>\n\t\t</tr>\n\t\t<tr class=\"row\">\n\t\t\t<td class=\"entry colname:col1\"><span class=\"inline_code\">Min (numList)</span></td>\n\t\t\t<td class=\"entry colname:col2\">Returns the minimum value in the list <span class=\"inline_code\">numList</span></td>\n\t\t</tr>\n\t\t<tr class=\"row\">\n\t\t\t<td class=\"entry colname:col1\"><span class=\"inline_code\">Sum (numList)</span></td>\n\t\t\t<td class=\"entry colname:col2\">Returns the sum of the values in the list <span class=\"inline_code\">numList</span></td>\n\t\t</tr>\n\t</tbody>\n</table>\n</div>\n\n<p class=\"stem_paragraph\">The student’s individual assignment scores are stored in the list <span class=\"inline_code\">scores</span>. Which of the following can be used to calculate a student’s course grade and store the result in the variable <span class=\"inline_code\">finalGrade</span>?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">finalGrade <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> Sum (scores) / LENGTH (scores)</p><p class=\"code_line\">finalGrade <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> finalGrade - Min (scores)</p></div>",
+        "value": "i1"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">finalGrade <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> Sum (scores) / (LENGTH (scores) - 1)</p><p class=\"code_line\">finalGrade <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> finalGrade - Min (scores)</p></div>",
+        "value": "i2"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">finalGrade <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> Sum (scores) - Min (scores)</p><p class=\"code_line\">finalGrade <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> finalGrade / LENGTH (scores)</p></div>",
+        "value": "i3"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">finalGrade <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> Sum (scores) - Min (scores)</p><p class=\"code_line\">finalGrade <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> finalGrade / (LENGTH (scores) - 1)</p></div>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.12",
+    "text": "3.12: Calling Procedures"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Use abstraction to manage complexity in a program."
+  }
+}

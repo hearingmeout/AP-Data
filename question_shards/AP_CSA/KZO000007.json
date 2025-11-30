@@ -1,0 +1,39 @@
+{
+  "id": "KZO000007",
+  "type": "mcq",
+  "title": "Loop to processes digits of num- describe behavior",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following best describes the value printed by this code segment?</p>",
+    "answer": "01JEQM5GM4AQ5FDFKXZ1XR07AM",
+    "choices": [
+      {
+        "value": "01JEQM5GM5YTKRGTQDXBFXQ9B3",
+        "label": "<p class=\"dap_body\">A count of the number of digits in&nbsp; <span class=\"dap_inline\">num</span></p>"
+      },
+      {
+        "value": "01JEQM5GM5BNTJE04Z3S1NA07H",
+        "label": "<p class=\"dap_body\">The average of the digits in&nbsp; <span class=\"dap_inline\">num</span></p>"
+      },
+      {
+        "value": "01JEQM5GM4AQ5FDFKXZ1XR07AM",
+        "label": "<p class=\"dap_body\">The sum of the digits in&nbsp; <span class=\"dap_inline\">num</span></p>"
+      },
+      {
+        "value": "01JEQM5GM5XNS8093JRQ7VC7D3",
+        "label": "<p class=\"dap_body\">Whether&nbsp; <span class=\"dap_inline\">num</span>&nbsp; is evenly divisible by 10</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.9",
+    "text": "2.9: Implementing Selection and Iteration Algorithms"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

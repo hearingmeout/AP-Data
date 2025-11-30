@@ -1,0 +1,55 @@
+{
+  "id": "MBG000001",
+  "type": "mcq",
+  "title": "Implicitly Defined - graph",
+  "content": {
+    "prompt": "<div></div><div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <p class=\"dap_body\">Which of the following is the graph of&nbsp;<span aria-label=\"x cubed equals y squared plus x\"><math alttext=\"x cubed equals y squared plus x\"><msup><mi>x</mi><mn>3</mn></msup><mo>=</mo><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi></math></span>&nbsp;in the&nbsp;<span aria-label=\"x y\"><math alttext=\"x y\"><mi>x</mi><mi>y</mi></math></span>-plane?</p> </div> </div> </div>\n",
+    "answer": "C-77723",
+    "choices": [
+      {
+        "label": "<div class=\"qti-align-center inline_image\"><img alt=\"Graph of a curve in the x y plane with the origin labeled O. Refer to long description.\" aria-describedby=\"LDC-MBG000001_01\" src=\"/images/61afcea23468c1368c56b577d52c6695.svg\"><div aria-label=\"Long description for Answer Choice A\" class=\"sr-only qti-visually-hidden\" id=\"LDC-MBG000001_01\" role=\"region\">\n<p class=\"dap_body\">The x axis ranges from negative 2 to 4 in increments of 1. The y axis ranges from 0 to 6 in increments of 1. The curve consists of two sections. All coordinates are approximate. Moving from left to right:</p>\n<ul>\n<li class=\"dap_body\">The first section begins at (negative 1 comma 0), increases to (negative 0.6 comma 0.7), and decreases to (0 comma 0).</li>\n<li class=\"dap_body\">The second section begins at (1 comma 0), increases through (2 comma 2.5) and (3 comma 5), and exits the window at (3.6 comma 6.5).</li>\n</ul>\n</div></div>",
+        "value": "A-77721",
+        "assistive_label": {
+          "label": "Figure for Option A. Refer to its long description",
+          "exposed_visible_label": true
+        }
+      },
+      {
+        "label": "<div class=\"qti-align-center inline_image\"><img alt=\"Graph of a curve in the x y plane with the origin labeled O. Refer to long description.\" aria-describedby=\"LDC-MBG000001_02\" src=\"/images/36677a82613906890ccf45f917bb1e05.svg\"><div aria-label=\"Long description for Answer Choice B\" class=\"sr-only qti-visually-hidden\" id=\"LDC-MBG000001_02\" role=\"region\">\n<p class=\"dap_body\">The x axis ranges from negative 2 to 4 in increments of 1. The y axis ranges from negative 5 to 5 in increments of 1. All coordinates are approximate.</p>\n<ul>\n<li class=\"dap_body\">The curve enters the top of the window at (3.2 comma 5.5).</li>\n<li class=\"dap_body\">The curve decreases from right to left, passing through (3 comma 5) and (2 comma 2.5).</li>\n<li class=\"dap_body\">The curve reaches the point (1 comma 0) and then changes directions.</li>\n<li class=\"dap_body\">The curve decreases from left to right, passing through (2 comma negative 2.5) and (3 comma negative 5).</li>\n<li class=\"dap_body\">The curve exits the window at (3.2 comma negative 5.5).</li>\n</ul>\n</div></div><p class=\"dap_body\">&nbsp;</p>",
+        "value": "B-77722",
+        "assistive_label": {
+          "label": "Figure for Option B. Refer to its long description",
+          "exposed_visible_label": true
+        }
+      },
+      {
+        "label": "<div class=\"qti-align-center inline_image\"><img alt=\"Graph of a curve in the x y plane with the origin labeled O. Refer to long description.\" aria-describedby=\"LDC-MBG000001_03\" src=\"/images/5ed668814868b31e7e6fdb44cb5f3cf6.svg\"><div aria-label=\"Long description for Answer Choice C\" class=\"sr-only qti-visually-hidden\" id=\"LDC-MBG000001_03\" role=\"region\">\n<p class=\"dap_body\">The x axis ranges from negative 2 to 4 in increments of 1. The y axis ranges from negative 5 to 5 in increments of 1. The curve consists of two sections. All coordinates are approximate.</p>\n<ul>\n<li class=\"dap_body\">One section of the curve has the general shape of a loop symmetric about the x axis.</li>\n<li class=\"dap_body\">This section passes through (negative 1 comma 0), (negative 0.6 comma 0.7), and (0 comma 0), then returns to the starting point after passing through (negative 0.6 comma negative 0.7).</li>\n<li class=\"dap_body\">The second section of the curve enters the top of the window at (3.2 comma 5.5).</li>\n<li class=\"dap_body\">The curve decreases from right to left, passing through (3 comma 5) and (2 comma 2.5).</li>\n<li class=\"dap_body\">The curve reaches the point (1 comma 0) and then changes directions.</li>\n<li class=\"dap_body\">The curve decreases from left to right, passing through (2 comma negative 2.5) and (3 comma negative 5).</li>\n<li class=\"dap_body\">The curve exits the window at (3.2 comma negative 5.5).</li>\n</ul>\n</div></div>",
+        "value": "C-77723",
+        "assistive_label": {
+          "label": "Figure for Option C. Refer to its long description",
+          "exposed_visible_label": true
+        }
+      },
+      {
+        "label": "<div class=\"qti-align-center inline_image\"><img alt=\"Graph of a curve in the x y plane with the origin labeled O. Refer to long description.\" aria-describedby=\"LDC-MBG000001_04\" src=\"/images/2ae2a7167699ef488a52965b2ed00167.svg\"><div aria-label=\"Long description for Answer Choice D\" class=\"sr-only qti-visually-hidden\" id=\"LDC-MBG000001_04\" role=\"region\">\n<p class=\"dap_body\">The x axis ranges from negative 2 to 4 in increments of 1. The y axis ranges from negative 6 to 0 in increments of 1. The curve consists of two sections. All coordinates are approximate.</p>\n<ul>\n<li class=\"dap_body\">One section of the curve begins at (negative 1 comma 0), decreases to (negative 0.6 comma negative 0.7), and ends at (0 comma 0).</li>\n<li>The second section of the curve begins at (1 comma 0), decreases through (2 comma negative 2.5) and (3 comma negative 5), and exits the window at (3.7 comma negative 6.5).</li>\n</ul>\n</div></div>",
+        "value": "D-77724",
+        "assistive_label": {
+          "label": "Figure for Option D. Refer to its long description",
+          "exposed_visible_label": true
+        }
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implicitly Defined Functions"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Construct equivalent graphical, numerical, analytical, and verbal representations of functions that are useful in a given mathematical or applied context, with and without technology."
+  }
+}

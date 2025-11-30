@@ -1,0 +1,43 @@
+{
+  "id": "FT548668",
+  "type": "mcq",
+  "title": "Analyzing behavior of graph",
+  "content": {
+    "prompt": "<p><img alt=\"The graph of a function is a curve that originates in the third quadrant below the negative x axis, rises through the negative x axis, second quadrant, and further through the positive y axis to an open point in the first quadrant with x equals a. The curve moves steadily to the right, bends, and further rises into the first quadrant.\" src=\"/images/91b3bfa94df71cc592b6a49a21fb74fa.png\"></p><p>The graph of a function f is shown above. Which of the following statements about f is false?</p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p><em>f</em> is continuous at <em>x = a.</em></p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><em>f</em> has a relative maximum at <em>x = a.</em></p>"
+      },
+      {
+        "label": "<em>x=a</em>&nbsp;is in the domain of f.",
+        "value": "i2"
+      },
+      {
+        "label": "<span aria-label=\"limit x to a raised to the plus power of f of x\"><math> <semantics> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>x</mi><mo>→</mo><msup> <mi>a</mi> <mo>+</mo> </msup> </mrow> </munder> <mi>f</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaCbeaeaaqaaaaaaaaaWdbiGacYgacaGGPbGaaiyBaaWcpaqaa8qacaWG4bGaeyOKH4Qaamyya8aadaahaaadbeqaa8qacqGHRaWkaaaal8aabeaak8qacaWGMbWaaeWaa8aabaWdbiaadIhaaiaawIcacaGLPaaaaaa@41FF@</annotation> </semantics> </math></span> is equal to <span aria-label=\"limit x to a raised to the negative power of f of x\"><math> <semantics> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>x</mi><mo>→</mo><msup> <mi>a</mi> <mo>−</mo> </msup> </mrow> </munder> <mi>f</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaCbeaeaaqaaaaaaaaaWdbiGacYgacaGGPbGaaiyBaaWcpaqaa8qacaWG4bGaeyOKH4Qaamyya8aadaahaaadbeqaa8qacqGHsislaaaal8aabeaak8qacaWGMbWaaeWaa8aabaWdbiaadIhaaiaawIcacaGLPaaaaaa@420A@</annotation> </semantics> </math></span>",
+        "value": "i3"
+      },
+      {
+        "label": "<span aria-label=\"limit x to a of f of x\"><math> <semantics> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>x</mi><mo>→</mo><mi>a</mi> </mrow> </munder> <mi>f</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaCbeaeaaqaaaaaaaaaWdbiGacYgacaGGPbGaaiyBaaWcpaqaa8qacaWG4bGaeyOKH4QaamyyaaWdaeqaaOWdbiaadAgadaqadaWdaeaapeGaamiEaaGaayjkaiaawMcaaaaa@40C5@</annotation> </semantics> </math></span> exists",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: Defining Continuity at a Point"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Confirm whether hypotheses or conditions of a selected definition, theorem, or test have been satisfied."
+  }
+}

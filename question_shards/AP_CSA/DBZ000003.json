@@ -1,0 +1,39 @@
+{
+  "id": "DBZ000003",
+  "type": "mcq",
+  "title": "round val - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following best describes the behavior of the code segment?</p>",
+    "answer": "01JSDHJHD32H8HDC1X0EZC3F81",
+    "choices": [
+      {
+        "value": "01JSDGP5DMGPX8Z1CXWR0PZF7V",
+        "label": "<p class=\"dap_body\">The code segment works as intended.</p>"
+      },
+      {
+        "value": "01JSDGP5DN5HAF9QMEFZ2V1MXW",
+        "label": "<p class=\"dap_body\">The code segment does not work as intended because the expression &nbsp;<code class=\"dap_inline\">(val&nbsp;+&nbsp;0.5)</code> &nbsp;should be cast to a &nbsp;<code class=\"dap_inline\">double</code> &nbsp;instead of an &nbsp;<code class=\"dap_inline\">int</code>.</p>"
+      },
+      {
+        "value": "01JSDGP5DN7QDSY15VNZ5YSWS9",
+        "label": "<p class=\"dap_body\">The code segment does not work as intended because &nbsp;<code class=\"dap_inline\">val</code> &nbsp;should be cast to an &nbsp;<code class=\"dap_inline\">int</code> &nbsp;before &nbsp;<code class=\"dap_inline\">0.5</code> &nbsp;is added to it.</p>"
+      },
+      {
+        "value": "01JSDHJHD32H8HDC1X0EZC3F81",
+        "label": "<p class=\"dap_body\">The code segment does not work as intended because the expression &nbsp;<code class=\"dap_inline\">(int)&nbsp;(val&nbsp;+&nbsp;0.5)</code> &nbsp;rounds to the nearest integer only when &nbsp;<code class=\"dap_inline\">val</code> &nbsp;is positive.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.5",
+    "text": "1.5: Casting and Range of Variables"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

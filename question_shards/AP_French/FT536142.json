@@ -1,0 +1,35 @@
+{
+  "id": "FT536142",
+  "type": "mcq",
+  "title": "Corinne ou l'Italie - the family home",
+  "content": {
+    "prompt": "<p>Quelle est l’attitude de Lord Nelvil en ce qui concerne la maison familiale?</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Il n’a aucune réaction car il n’y est pas particulièrement attaché.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Il a hâte de la vendre et de s’en débarrasser.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Il est triste qu’elle soit mal entretenue.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Il en a de nombreux souvenirs et éprouve de fortes émotions.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Families in Different Societies"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

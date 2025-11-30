@@ -1,0 +1,39 @@
+{
+  "id": "QWX000003",
+  "type": "mcq",
+  "title": "Expression equivalent to nested ifs - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following statements always assigns the same value to&nbsp; <span class=\"dap_inline\">b2</span>&nbsp; as the code segment assigns to&nbsp; <span class=\"dap_inline\">b1</span>?</p>",
+    "answer": "01JMCPSNY82M768W6ZPAF0TV7A",
+    "choices": [
+      {
+        "value": "01JMCPSNY6MN00S18YYA8VB3MG",
+        "label": "<pre><code class=\"language-plaintext\">boolean b2 = (num &gt; -100) &amp;&amp; (num &lt; 100);</code></pre>"
+      },
+      {
+        "value": "01JMCPSNY7SZ8A57TX81APB1WE",
+        "label": "<pre><code class=\"language-plaintext\">boolean b2 = (num &gt; -100) || (num &lt; 100);</code></pre>"
+      },
+      {
+        "value": "01JMCPSNY792PYS5GNBN114EJ0",
+        "label": "<pre><code class=\"language-plaintext\">boolean b2 = (num &lt; -100) &amp;&amp; (num &gt; 0 || num &lt; 100);</code></pre>"
+      },
+      {
+        "value": "01JMCPSNY82M768W6ZPAF0TV7A",
+        "label": "<pre><code class=\"language-plaintext\">boolean b2 = (num &lt; -100) || (num &gt; 0 &amp;&amp; num &lt; 100);</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Nested `if` Statements"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

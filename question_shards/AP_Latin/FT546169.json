@@ -1,0 +1,43 @@
+{
+  "id": "FT546169",
+  "type": "mcq",
+  "title": "Minimum force to keep ant on flywheel",
+  "content": {
+    "prompt": "<p>What is the magnitude of the minimum adhesion force necessary for the ant to stay on the flywheel at point III?</p>",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>𝑚𝘨</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>𝑚𝜔<sup>2</sup>𝑟<sup>2</sup></p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>𝑚𝜔<sup>2</sup>𝑟<sup>2 </sup>+ 𝑚𝘨</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>𝑚𝜔<sup>2</sup>𝑟<sup> </sup>– 𝑚𝘨</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>𝑚𝜔<sup>2</sup>𝑟<sup> </sup>+ 𝑚𝘨</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Force and Translational Dynamics"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Newton's First Law"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

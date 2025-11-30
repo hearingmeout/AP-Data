@@ -1,0 +1,43 @@
+{
+  "id": "FT546052",
+  "type": "mcq",
+  "title": "Inflection points for analytic function",
+  "content": {
+    "prompt": "The graph of <em>y = 5x</em><sup>4</sup> <em>- x</em><sup>5</sup> has a point of inflection at",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>(0, 0) only</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>(3, 162) only</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>(4, 256) only</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>(0,0) and (3, 162)</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>(0, 0) and (4, 256)</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.6",
+    "text": "5.6: Determining Concavity of Functions over Their Domains"
+  },
+  "skill": {
+    "code": "Skill 2.E",
+    "text": "Skill 2.E: Describe the relationships among different representations of functions and their derivatives."
+  }
+}

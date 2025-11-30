@@ -1,0 +1,39 @@
+{
+  "id": "HCZ000007",
+  "type": "mcq",
+  "title": "Determine whether num is even - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following can replace &nbsp;<span class=\"dap_inline\">/* missing code */</span> &nbsp;so that this code segment works as intended?</p>",
+    "answer": "01JEQFVFH1P4X8HDHP3D52AHK7",
+    "choices": [
+      {
+        "value": "01JEQFVFH1J3PAR9J6K3M87E1T",
+        "label": "<pre><code class=\"language-plaintext\">num / 2 == 0</code></pre>"
+      },
+      {
+        "value": "01JEQFVFH14XZJYG9D2JN4W6NQ",
+        "label": "<pre><code class=\"language-plaintext\">num / 2 != 0</code></pre>"
+      },
+      {
+        "value": "01JEQFVFH1AGRD4TZJM7KPCEZR",
+        "label": "<pre><code class=\"language-plaintext\">num % 2 == 0</code></pre>"
+      },
+      {
+        "value": "01JEQFVFH1P4X8HDHP3D52AHK7",
+        "label": "<pre><code class=\"language-plaintext\">num % 2 != 0</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

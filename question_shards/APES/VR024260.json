@@ -1,0 +1,39 @@
+{
+  "id": "VR024260",
+  "type": "mcq",
+  "title": "Population data - percent change calculation",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR024213.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">Which of the following calculation methods would determine the percent change in the crude birth rate from 1994 to 2019&nbsp;?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"open parenthesis, 17.6 minus 11.9, close parenthesis, times 100\"><math alttext=\"open parenthesis, 17.6 minus 11.9, close parenthesis, times 100\" display=\"inline\" overflow=\"scroll\"><mrow><mo>(</mo><mn>17.6</mn><mo>−</mo><mn>11.9</mn><mo>)</mo><mtext> </mtext><mo>×</mo><mtext> </mtext><mn>100</mn></mrow></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator 11.9 minus 17.6 and denominator 17.6, end fraction, times 100\"><math alttext=\"the fraction with numerator 11.9 minus 17.6 and denominator 17.6, end fraction, times 100\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>11.9</mn><mo>−</mo><mn>17.6</mn></mrow><mrow><mn>17.6</mn></mrow></mfrac><mtext> </mtext><mtext> </mtext><mo>×</mo><mtext> </mtext><mn>100</mn></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator 17.6 plus 11.9 and denominator 17.6, end fraction, times 100\"><math alttext=\"the fraction with numerator 17.6 plus 11.9 and denominator 17.6, end fraction, times 100\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle mathvariant=\"normal\"><mrow><mfrac><mrow><mn>17.6</mn><mtext> </mtext><mo>+</mo><mtext> </mtext><mn>11.9</mn></mrow><mrow><mn>17.6</mn></mrow></mfrac><mtext> </mtext><mtext> </mtext><mo>×</mo><mtext> </mtext><mn>100</mn></mrow></mstyle></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction 11.9 over 17.6, end fraction, times 100\"><math alttext=\"the fraction 11.9 over 17.6, end fraction, times 100\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle mathvariant=\"normal\"><mrow><mfrac><mrow><mn>11.9</mn></mrow><mrow><mn>17.6</mn></mrow></mfrac><mtext> </mtext><mo>×</mo><mtext> 100 </mtext></mrow></mstyle></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Population"
+  },
+  "topic": {
+    "code": "3.8",
+    "text": "3.8: Human Population Dynamics"
+  },
+  "skill": {
+    "code": "Skill 6.A",
+    "text": "Skill 6.A: Determine an approach or method aligned with the problem to be solved."
+  }
+}

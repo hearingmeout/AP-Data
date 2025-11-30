@@ -1,0 +1,39 @@
+{
+  "id": "VR846607",
+  "type": "mcq",
+  "title": "RC circuits - bulb behavior as capacitor charges",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"standalone_image\"><img alt=\"The figure shows a rectangular circuit diagram with a battery, an open switch, a lightbulb, and a capacitor. From left to right, the bottom horizontal branch has the battery and the open switch. From left to right, the top horizontal branch has the lightbulb and the capacitor.\" src=\"/images/a7b26e59b93b095e58bbf7ea93b911b5.svg\"></div></div></div><p class=\"stem_paragraph\">A lightbulb, an uncharged capacitor, a battery, and an open switch are connected in a circuit, as shown in the figure. The switch is then closed. Which of the following correctly describes and provides a valid justification for the bulb’s behavior after the switch is closed?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The bulb is lit immediately after the switch is closed and then gets dimmer. As charge carriers flow, they collect on the capacitor plates, so the current, initial at maximum, decreases as the potential difference on the capacitor increasingly opposes that of the battery.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The bulb is lit immediately after the switch is closed and then gets dimmer. The capacitor creates a flow of charge carriers that decreases until the capacitor is completely discharged, resulting in a gradual decrease in current in the circuit.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The bulb is off immediately after the switch is closed and then gets brighter. Initially, the capacitor prevents the flow of charge carriers. Later, the eventual movement of charge carriers as the capacitor becomes charged results in a gradual increase in current in the circuit.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The bulb is off immediately after the switch is closed and then gets brighter. The capacitor prevents the flow of charge carriers until it becomes completely charged. After it is completely charged, the capacitor then discharges, resulting in a gradual increase in current in the circuit.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.8",
+    "text": "11.8: Resistor-Capacitor (RC) Circuits"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

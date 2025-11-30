@@ -1,0 +1,35 @@
+{
+  "id": "FT542595",
+  "type": "mcq",
+  "title": "Reminder about items",
+  "content": {
+    "prompt": "<p>What two items are recommended?</p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>A waterproof jacket and lunch</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>An umbrella and lunch</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>A camera and an umbrella</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>A waterproof jacket and a camera</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Factors That Impact the Quality of Life"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

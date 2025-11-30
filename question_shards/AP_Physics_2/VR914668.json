@@ -1,0 +1,39 @@
+{
+  "id": "VR914668",
+  "type": "mcq",
+  "title": "Polarization - light through 2 crossed polarizers",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"standalone_image\"><img alt=\"The figure shows a diagram of unpolarized light passing through two polarizers in a straight path. The unpolarized light enters the first polarizer, which is oriented horizontally. The light that exits the first polarizer then passes through the second polarizer, which is oriented vertically. The light that exits the second polarizer is labeled with a question mark.\" src=\"/images/a92d937a9d42facee66f5bd8876524f5.svg\"></div></div></div><p class=\"stem_paragraph\">Two polarizers are oriented at <span class=\"math_expression\"><span aria-label=\"90\"><math alttext=\"90\" display=\"inline\" overflow=\"scroll\"><mn>90</mn></math></span></span> degrees relative to one another, as shown in the figure. A beam of unpolarized light is incident on the first polarizer. Is any of the light transmitted through the second polarizer? What evidence or reasoning supports the claim? Assume that intensity losses at the polarizers, if any, are due only to polarization effects.</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Yes, light is transmitted through the second polarizer. Unpolarized light is partially transmitted through any polarizer.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Yes, light is transmitted through the second polarizer. The second polarizer reverses the effects of the first polarizer, resulting in a transmitted beam of unpolarized light.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No, light is not transmitted through the second polarizer. The polarization of the light is perpendicular to the second polarizer’s orientation.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No, light is not transmitted through the second polarizer. Polarizers do not transmit unpolarized light.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "14",
+    "text": "14: Waves, Sound, and Physical Optics"
+  },
+  "topic": {
+    "code": "14.3",
+    "text": "14.3: Boundary Behavior of Waves and Polarization"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

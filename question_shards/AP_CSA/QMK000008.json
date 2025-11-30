@@ -1,0 +1,39 @@
+{
+  "id": "QMK000008",
+  "type": "mcq",
+  "title": "Nested loop - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">How many times will&nbsp; <span class=\"dap_inline\">Math.random()</span>&nbsp; be called as a result of executing this code segment?</p>",
+    "answer": "01JEPSZX38XD870FG1FRMCAF09",
+    "choices": [
+      {
+        "value": "01JEPSZX382AF4CBXZZHFW3WM6",
+        "label": "<p class=\"dap_body\">5</p>"
+      },
+      {
+        "value": "01JEPSZX38EP4X9JVJAF5783JB",
+        "label": "<p class=\"dap_body\">9</p>"
+      },
+      {
+        "value": "01JEPSZX38DFA6XB0DXTWBSZ5K",
+        "label": "<p class=\"dap_body\">16</p>"
+      },
+      {
+        "value": "01JEPSZX38XD870FG1FRMCAF09",
+        "label": "<p class=\"dap_body\">20</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.11",
+    "text": "2.11: Nested Iteration"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

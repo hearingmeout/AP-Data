@@ -1,0 +1,39 @@
+{
+  "id": "FT4280",
+  "type": "mcq",
+  "title": "Ranking voltage across four different resistors",
+  "content": {
+    "prompt": "<p><img alt=\"A circuit diagram shows three resistors, R, 4 R, and 3 R connected to each other in a series connection and open switch and the circuit with R further connected to 2 R in a parallel connection.\" height=\"99\" src=\"/images/eb4833f41531dd7435f0e0552a817739.png\" width=\"203\"></p>\n\n<p>The figure above shows four resistors connected in a circuit with a battery. Which of the following correctly ranks the potential difference, Δ<em>V</em>, across the four resistors?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Δ<em>V</em><sub>4</sub><em><sub>R</sub> </em>&gt; Δ<em>V</em><sub>3</sub><em><sub>R </sub></em>&gt; Δ<em>V</em><sub>2</sub><em><sub>R</sub> </em>&gt; Δ<em>V<sub>R</sub></em></p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Δ<em>V</em><sub>4</sub><em><sub>R</sub> </em>&gt; Δ<em>V</em><sub>3</sub><em><sub>R</sub> </em>&gt; Δ<em>V</em><sub>2</sub><em><sub>R</sub> </em>= Δ<em>V<sub>R</sub></em></p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Δ<em>V</em><sub>4</sub><em><sub>R</sub> </em>= Δ<em>V</em><sub>3</sub><em><sub>R </sub></em>&gt; Δ<em>V<sub>R </sub></em>&gt; ΔV<sub>2</sub><em><sub>R</sub></em></p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Δ<em>V</em><sub>2</sub><em><sub>R </sub></em>= Δ<em>V<sub>R</sub> </em>&gt; Δ<em>V</em><sub>3</sub><em><sub>R</sub> </em>&gt; Δ<em>V</em><sub>4</sub><em><sub>R</sub></em></p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.3",
+    "text": "11.3: Resistance, Resistivity, and Ohm's Law"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

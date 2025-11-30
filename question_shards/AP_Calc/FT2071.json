@@ -1,0 +1,43 @@
+{
+  "id": "FT2071",
+  "type": "mcq",
+  "title": "Justification of continuity at a point",
+  "content": {
+    "prompt": "If the function <em>f</em> is continuous at <span aria-label=\"x is equal to 3\"><math> <mrow> <mi>x</mi> <mo>=</mo> <mn>3</mn> </mrow> </math></span>, which of the following must be true?",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<span aria-label=\"f of 3 is less than limit x to 3 of f times x\"><math> <mrow> <mi>f</mi><mrow><mo>(</mo> <mn>3</mn> <mo>)</mo></mrow><mo>&lt;</mo><munder> <mrow> <mi>lim</mi></mrow> <mrow> <mi>x</mi><mo>→</mo><mn>3</mn></mrow> </munder> <mi>f</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow></mrow> </math></span>",
+        "value": "i0"
+      },
+      {
+        "label": "<span aria-label=\"limit x to 3 raised to the negative power of f times x is not equal to limit x to 3 raised to the plus power of f times x\"><math> <mrow> <munder> <mrow> <mi>lim</mi></mrow> <mrow> <mi>x</mi><mo>→</mo><msup> <mn>3</mn> <mo>−</mo> </msup> </mrow> </munder> <mi>f</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mo>≠</mo><munder> <mrow> <mi>lim</mi></mrow> <mrow> <mi>x</mi><mo>→</mo><msup> <mn>3</mn> <mo>+</mo> </msup> </mrow> </munder> <mi>f</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow></mrow> </math></span>",
+        "value": "i1"
+      },
+      {
+        "label": "<span aria-label=\"f of 3 is equal to limit x to 3 raised to the negative power of f times x is equal to limit x to 3 raised to the plus power of f times x\"><math> <mrow> <mi>f</mi> <mrow> <mo>(</mo> <mn>3</mn> <mo>)</mo> </mrow> <mo>=</mo> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>x</mi> <mo>→</mo> <msup> <mn>3</mn> <mo>−</mo> </msup> </mrow> </munder> <mi>f</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>x</mi> <mo>→</mo> <msup> <mn>3</mn> <mo>+</mo> </msup> </mrow> </munder> <mi>f</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> </math></span>",
+        "value": "i2"
+      },
+      {
+        "label": "The derivative of <em>f</em> at <span aria-label=\"x is equal to 3\"><math> <mrow> <mi>x</mi><mo>=</mo><mn>3</mn></mrow> </math></span> exists.",
+        "value": "i3"
+      },
+      {
+        "label": "The derivative of <em>f</em> is positive for <span aria-label=\"x is less than 3\"><math> <mrow> <mi>x</mi> <mo>&lt;</mo> <mn>3</mn> </mrow> </math></span> and negative for <span aria-label=\"x is greater than 3\"><math> <mrow> <mi>x</mi><mo>&gt;</mo><mn>3</mn></mrow> </math></span>.",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: Defining Continuity at a Point"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Confirm whether hypotheses or conditions of a selected definition, theorem, or test have been satisfied."
+  }
+}

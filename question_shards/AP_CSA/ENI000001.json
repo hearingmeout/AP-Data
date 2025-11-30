@@ -1,0 +1,39 @@
+{
+  "id": "ENI000001",
+  "type": "mcq",
+  "title": "Method that traverses numbers - describe behavior",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following best describes the behavior of the method?</p>",
+    "answer": "1719860598091.0764",
+    "choices": [
+      {
+        "value": "1719860598091.0728",
+        "label": "<p class=\"dap_body\">It returns&nbsp; <span class=\"dap_inline\">false</span>&nbsp; if&nbsp; <span class=\"dap_inline\">numbers</span>&nbsp; is sorted from least to greatest and returns&nbsp; <span class=\"dap_inline\">true</span>&nbsp; otherwise.</p>"
+      },
+      {
+        "value": "1719860598091.4368",
+        "label": "<p class=\"dap_body\">It returns&nbsp; <span class=\"dap_inline\">false</span>&nbsp; if&nbsp; <span class=\"dap_inline\">numbers</span>&nbsp; is sorted from greatest to least and returns&nbsp; <span class=\"dap_inline\">true</span>&nbsp; otherwise.</p>"
+      },
+      {
+        "value": "1719860598091.1453",
+        "label": "<p class=\"dap_body\">It returns&nbsp; <span class=\"dap_inline\">true</span>&nbsp; if&nbsp; <span class=\"dap_inline\">numbers</span>&nbsp; is sorted from least to greatest and returns&nbsp; <span class=\"dap_inline\">false</span>&nbsp; otherwise.</p>"
+      },
+      {
+        "value": "1719860598091.0764",
+        "label": "<p class=\"dap_body\">It returns&nbsp; <span class=\"dap_inline\">true</span>&nbsp; if&nbsp; <span class=\"dap_inline\">numbers</span>&nbsp; is sorted from greatest to least and returns&nbsp; <span class=\"dap_inline\">false</span>&nbsp; otherwise.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.9",
+    "text": "4.9: `ArrayList` Traversals"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

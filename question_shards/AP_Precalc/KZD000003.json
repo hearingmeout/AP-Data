@@ -1,0 +1,39 @@
+{
+  "id": "KZD000003",
+  "type": "mcq",
+  "title": "Function Composition and Inverses - Modeling",
+  "content": {
+    "prompt": "<p class=\"dap_body\">For which of the following are the input values costs, in dollars, and the output values times, in hours?</p>\n",
+    "answer": "C-68981",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"y equals f open parentheses g open parentheses x close parentheses close parentheses\"><math alttext=\"y equals f open parentheses g open parentheses x close parentheses close parentheses\"><mi>y</mi><mo>=</mo><mi>f</mi><mfenced><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced></mrow></mfenced></math></span></p>",
+        "value": "A-68979"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"y equals g inverse open parentheses f inverse open parentheses x close parentheses close parentheses\"><math alttext=\"y equals g inverse open parentheses f inverse open parentheses x close parentheses close parentheses\"><mi>y</mi><mo>=</mo><msup><mi>g</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfenced><mrow><msup><mi>f</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfenced><mi>x</mi></mfenced></mrow></mfenced></math></span></p>",
+        "value": "B-68980"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"y equals f inverse open parentheses g inverse open parentheses x close parentheses close parentheses\"><math alttext=\"y equals f inverse open parentheses g inverse open parentheses x close parentheses close parentheses\"><mi>y</mi><mo>=</mo><msup><mi>f</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfenced><mrow><msup><mi>g</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfenced><mi>x</mi></mfenced></mrow></mfenced></math></span></p>",
+        "value": "C-68981"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"y equals g open parentheses f open parentheses x close parentheses close parentheses\"><math alttext=\"y equals g open parentheses f open parentheses x close parentheses close parentheses\"><mi>y</mi><mo>=</mo><mi>g</mi><mfenced><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow></mfenced></math></span></p>",
+        "value": "D-68982"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: Inverse Functions"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

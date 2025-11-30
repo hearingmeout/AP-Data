@@ -1,0 +1,43 @@
+{
+  "id": "VH912254",
+  "type": "mcq",
+  "title": "Item Order",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"passage\">\n<div class=\"prose style:1\">\n<p class=\"passage_para\">A small-business owner collected data from a random sample on the amount spent on an order and the time it takes to fill the order. The resulting data were used to complete a linear regression analysis of time, in minutes, versus amount spent, in dollars, and to create the following residual plot.</p>\n</div>\n</div>\n\n<div class=\"standalone_image\"><img alt=\"The figure presents a scatterplot. The horizontal axis is labeled Amount Spent on Order, and the amounts, 0 dollars through 60 dollars, in increments of 10 dollars, are indicated. The vertical axis is labeled Residual, and the numbers negative 15 through 15, in increments of 5, are indicated. A horizontal line is drawn on the vertical axis at 0. There are approximately 41 data points, and about half of them are scattered above the line representing residual 0, and about half of them are scattered below the line representing residual 0.&nbsp; The cluster of data points begins at $10. To start, the data points are tightly scattered between residuals negative 5 and 5. Moving to the right, at $35 the data points become more loosely scattered between residuals negative 10 and 10. The cluster of data points ends at $50, at which the data points are even more loosely scattered between residuals negative 15 and 15.\" height=\"253\" src=\"/images/182247d57464d62739f1312f0101790d.png\" width=\"400\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">Based on the residual plot, which condition for inference for the slope of the regression line does <span class=\"formatted_text text_decoration:underline\">not</span> appear to be satisfied?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The true relationship between the number of items and the amount spent on an order is linear.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">For each amount spent on an order, the distribution of time to fill the order is approximately normal.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The standard deviation of the distribution of time to fill an order is the same for each amount spent on the order.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The data are collected using a random sample or randomized experiment.</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The sample size is less than <span class=\"math_expression\"><span aria-label=\"10%\"><math alttext=\"10%\" overflow=\"scroll\"><mstyle><mrow><mn>10</mn><mo>%</mo></mrow></mstyle></math></span></span> of the population size.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Inference for Quantitative Data-Slopes"
+  },
+  "topic": {
+    "code": "9.4",
+    "text": "9.4: Setting Up a Test for the Slope of a Regression Model"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Verify that inference procedures apply in a given situation."
+  }
+}

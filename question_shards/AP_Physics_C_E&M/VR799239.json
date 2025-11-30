@@ -1,0 +1,39 @@
+{
+  "id": "VR799239",
+  "type": "mcq",
+  "title": "Kirchhoff junction - 3x current when switch closes",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div>Which of the following circuits could result in the graph shown?</div>\n</div>\n</div>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure shows a circuit diagram with two horizontal branches and three vertical branches containing a battery, switch, and three identical resistors of resistance R. The battery has e m f script uppercase E, and is located on the left vertical branch. From the top down, the middle vertical branch has switch S and then a resistor. The right vertical branch splits into two vertical subbranches, each of which contain a resistor.\" src=\"/images/b1316c1fa48934088723095e2003623a.svg\"></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure shows a circuit diagram with two horizontal branches and three vertical branches containing a battery, switch, and three identical resistors of resistance R. The battery has e m f script uppercase E, and is located on the left vertical branch. The middle vertical branch has a resistor. From the top down, the right vertical branch has the switch and then splits into two vertical subbranches, each of which contain a resistor.\" src=\"/images/a404438b01d9edbc3507caa151b95bbd.svg\"></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure shows a circuit diagram with two horizontal branches and three vertical branches containing a battery, switch, and three identical resistors of resistance R. The battery has e m f script uppercase E, and is located on the left vertical branch. From the top down, the middle vertical branch has switch S and then a resistor. The right vertical branch splits into three vertical subbranches, each of which contain a resistor.\" src=\"/images/d59ef18e2cef4ac5ec5dffcacb17a94b.svg\"></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure shows a circuit diagram with two horizontal branches and three vertical branches containing a battery, switch, and three identical resistors of resistance R. The battery has e m f script uppercase E, and is located on the left vertical branch. The middle vertical branch has a resistor. From the top down, the right vertical branch has the switch and then splits into three vertical subbranches, each of which contain a resistor.\" src=\"/images/b0024dcbcc564f0c8588bb1e1911d1ca.svg\"></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.7",
+    "text": "11.7: Kirchhoff's Junction Rule"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

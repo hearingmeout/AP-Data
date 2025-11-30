@@ -1,0 +1,43 @@
+{
+  "id": "FT547439",
+  "type": "mcq",
+  "title": "Find correlation from interval estimate for slope",
+  "content": {
+    "prompt": "<p>A 90 percent confidence interval for the slope of a regression line is determined to be (-0.181, 1.529). Which of the following statements must be true?</p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The correlation coefficient of the data is positive.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The sum of the residuals for the data based on the regression line is positive.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>A scatterplot of the data would show a linear pattern.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The slope of the sample regression line is 1.348.</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>The slope of the sample regression line is 0.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.5",
+    "text": "2.5: Correlation"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Construct a confidence interval, provided conditions for inference are met."
+  }
+}

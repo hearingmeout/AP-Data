@@ -1,0 +1,43 @@
+{
+  "id": "VR027537",
+  "type": "mcq",
+  "title": "Change in p-value with one-sided alternative",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">What would the <span class=\"math_expression\"><span aria-label=\"p\" role=\"math\"><math alttext=\"p\" overflow=\"scroll\"> <mstyle> <mrow> <mi>p</mi> </mrow> </mstyle> </math></span></span>-value have been if the researcher had used <span class=\"math_expression\"><span aria-label=\"H sub a, colon, mu is less than 38\" role=\"math\"><math alttext=\"H sub a, colon, mu is less than 38\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>H</mtext></mrow><mrow><mtext>a</mtext></mrow></msub><mo>:</mo><mi>μ</mi><mo>&lt;</mo><mn>38</mn></mrow></mstyle></math></span></span> as the alternative hypothesis?</p>\n",
+    "answer": "i5",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"1 minus 0.0627\"><math alttext=\"1 minus 0.0627\" overflow=\"scroll\"><mstyle><mrow><mn>1</mn><mo>−</mo><mn>0.0627</mn></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"1 minus, 2 times 0.0627\"><math alttext=\"1 minus, 2 times 0.0627\" overflow=\"scroll\"><mstyle><mrow><mn>1</mn><mo>−</mo><mn>2</mn><mrow><mo>(</mo><mn>0.0627</mn><mo>)</mo></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"1 minus, one half times 0.0627\"><math alttext=\"1 minus, one half times 0.0627\" overflow=\"scroll\"><mstyle><mrow><mn>1</mn><mo>−</mo><mrow><mrow><mo>(</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>)</mo></mrow><mo>(</mo><mn>0.0627</mn><mo>)</mo></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"2 times 0.0627\"><math alttext=\"2 times 0.0627\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn><mrow><mo>(</mo><mn>0.0627</mn><mo>)</mo></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"one half times 0.0627\"><math alttext=\"one half times 0.0627\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mrow><mo>(</mo><mn>0.0627</mn><mo>)</mo></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.5",
+    "text": "6.5: Interpreting P-Values"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

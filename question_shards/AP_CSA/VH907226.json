@@ -1,0 +1,39 @@
+{
+  "id": "VH907226",
+  "type": "mcq",
+  "title": "Good morning sunshine",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following code segments can be used to set the value of the string <span class=\"inline_code\">str</span> to <span class=\"inline_code\">\"Good morning, sunshine!\"</span> ?</p><ol class=\"hb_codeblock ordered_list style:1\"><li class=\"list_paragraph\"><span class=\"inline_code\">String str = \"Good \" + \"morning,\" + \" sunshine!\";</span></li><li class=\"list_paragraph\"><span class=\"inline_code\">String str = \"Good\";</span><span class=\"formatted_line_break delivery_mode:Both\"></span><span class=\"inline_code\">str += \" morning, sunshine!\";</span></li><li class=\"list_paragraph\"><span class=\"inline_code\">String str = \" morning, \";</span><span class=\"formatted_line_break delivery_mode:Both\"></span><span class=\"inline_code\">str = \"Good\" + str + \"sunshine!\";</span></li></ol>\n",
+    "answer": "i5",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">I only</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">II only</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">II and III only</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">I, II, and III</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "VR168758",
+  "type": "mcq",
+  "title": "Primary benefit of making a system fault-tolerant",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following is a primary benefit of making a computing system fault-tolerant?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">If one component of the system fails, users of the system can often still access it.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">If one component of the system is hacked, no information will be stolen.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">If the system becomes too expensive, making it fault-tolerant will save money.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">If the system cannot operate efficiently, making it fault-tolerant will speed up its operation.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "4.2",
+    "text": "4.2: Fault Tolerance"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "VR858961",
+  "type": "mcq",
+  "title": "Torque - horizontal disk on axle",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following correctly ranks the magnitudes of the torques <span class=\"math_expression\"><span aria-label=\"tau sub A\" role=\"math\"><math alttext=\"tau sub A\" overflow=\"scroll\"><msub><mi>τ</mi><mi>A</mi></msub></math></span></span>, <span class=\"math_expression\"><span aria-label=\"tau sub B\" role=\"math\"><math alttext=\"tau sub B\" overflow=\"scroll\"><msub><mi>τ</mi><mi>B</mi></msub></math></span></span>, <span class=\"math_expression\"><span aria-label=\"tau sub C\" role=\"math\"><math alttext=\"tau sub C\" overflow=\"scroll\"><msub><mi>τ</mi><mi>C</mi></msub></math></span></span>, <span class=\"math_expression\">and&nbsp;<span aria-label=\"tau sub D\" role=\"math\"><math alttext=\"tau sub D\" overflow=\"scroll\"> <msub> <mi>τ</mi> <mi>D</mi> </msub> </math></span></span> about the axle by forces <span class=\"math_expression\"><span aria-label=\"A\" role=\"math\"><math alttext=\"A\" overflow=\"scroll\"><mi mathvariant=\"normal\">A</mi></math></span></span>, <span class=\"math_expression\"><span aria-label=\"B\" role=\"math\"><math alttext=\"B\" overflow=\"scroll\"><mi mathvariant=\"normal\">B</mi></math></span></span>, <span class=\"math_expression\"><span aria-label=\"C\" role=\"math\"><math alttext=\"C\" overflow=\"scroll\"><mi mathvariant=\"normal\">C</mi></math></span></span>, and&nbsp;<span class=\"math_expression\"><span aria-label=\"D\" role=\"math\"><math alttext=\"D\" overflow=\"scroll\"><mi mathvariant=\"normal\">D</mi></math></span></span>, respectively?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"tau sub A equals tau sub B, which equals tau sub C, which equals tau sub D\"><math alttext=\"tau sub A equals tau sub B, which equals tau sub C, which equals tau sub D\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>τ</mi><mi>A</mi></msub><mo>=</mo><msub><mi>τ</mi><mi>B</mi></msub><mo>=</mo><msub><mi>τ</mi><mi>C</mi></msub><mo>=</mo><msub><mi>τ</mi><mi>D</mi></msub></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"tau sub A is greater than tau sub D, which is greater than open parenthesis, tau sub B equals tau sub C, close parenthesis\"><math alttext=\"tau sub A is greater than tau sub D, which is greater than open parenthesis, tau sub B equals tau sub C, close parenthesis\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>τ</mi><mi>A</mi></msub><mo>&gt;</mo><msub><mi>τ</mi><mi>D</mi></msub><mo>&gt;</mo><mrow><mo>(</mo><msub><mi>τ</mi><mi>B</mi></msub><mo>=</mo><msub><mi>τ</mi><mi>C</mi></msub><mo>)</mo></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"open parenthesis, tau sub A equals tau sub B, which equals tau sub D, close parenthesis, which is greater than tau sub C\"><math alttext=\"open parenthesis, tau sub A equals tau sub B, which equals tau sub D, close parenthesis, which is greater than tau sub C\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mo>(</mo><msub><mi>τ</mi><mi>A</mi></msub><mo>=</mo><msub><mi>τ</mi><mi>B</mi></msub><mo>=</mo><msub><mi>τ</mi><mi>D</mi></msub><mo>)</mo></mrow><mo>&gt;</mo><msub><mi>τ</mi><mi>C</mi></msub></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"open parenthesis, tau sub B equals tau sub C, close parenthesis, is greater than tau sub D, which is greater than tau sub A\"><math alttext=\"open parenthesis, tau sub B equals tau sub C, close parenthesis, is greater than tau sub D, which is greater than tau sub A\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mo>(</mo><msub><mi>τ</mi><mi>B</mi></msub><mo>=</mo><msub><mi>τ</mi><mi>C</mi></msub><mo>)</mo></mrow><mo>&gt;</mo><msub><mi>τ</mi><mi>D</mi></msub><mo>&gt;</mo><msub><mi>τ</mi><mi>A</mi></msub></mstyle></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.3",
+    "text": "5.3: Torque"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

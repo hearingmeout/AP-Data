@@ -1,0 +1,39 @@
+{
+  "id": "VR856259",
+  "type": "mcq",
+  "title": "Convex mirror set - compare h-i for points P and Q",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR856258.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">The image formed by the mirror has a height of magnitude <span class=\"math_expression\"><span aria-label=\"h sub P\"><math alttext=\"h sub P\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>h</mi><mtext>P</mtext></msub></mstyle></math></span></span> when the object is at Point <span class=\"math_expression\"><span aria-label=\"P\"><math alttext=\"P\" display=\"inline\" overflow=\"scroll\"><mtext>P</mtext></math></span></span>. If the object is moved to Point <span class=\"math_expression\"><span aria-label=\"Q\"><math alttext=\"Q\" display=\"inline\" overflow=\"scroll\"><mtext>Q</mtext></math></span></span>, twice as far from the mirror as Point <span class=\"math_expression\"><span aria-label=\"P\"><math alttext=\"P\" display=\"inline\" overflow=\"scroll\"><mtext>P</mtext></math></span></span>, how does the new image height magnitude <span class=\"math_expression\"><span aria-label=\"h sub Q\"><math alttext=\"h sub Q\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>h</mi><mtext>Q</mtext></msub></mstyle></math></span></span> compare to <span class=\"math_expression\"><span aria-label=\"h sub P\"><math alttext=\"h sub P\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>h</mi><mtext>P</mtext></msub></mstyle></math></span></span>?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"h sub Q, is less than one half h sub P\"><math alttext=\"h sub Q, is less than one half h sub P\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>h</mi><mtext>Q</mtext></msub><mo>&lt;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msub><mi>h</mi><mtext>P</mtext></msub></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"one half h sub P, is less than h sub Q, which is less than h sub P\"><math alttext=\"one half h sub P, is less than h sub Q, which is less than h sub P\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mn>1</mn><mn>2</mn></mfrac><msub><mi>h</mi><mtext>P</mtext></msub><mo>&lt;</mo><msub><mi>h</mi><mtext>Q</mtext></msub><mo>&lt;</mo><msub><mi>h</mi><mtext>P</mtext></msub></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"h sub P, is less than h sub Q, which is less than 2 h sub P\"><math alttext=\"h sub P, is less than h sub Q, which is less than 2 h sub P\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>h</mi><mtext>P</mtext></msub><mo>&lt;</mo><msub><mi>h</mi><mtext>Q</mtext></msub><mo>&lt;</mo><mn>2</mn><msub><mi>h</mi><mtext>P</mtext></msub></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"h sub Q, is greater than 2 h sub P\"><math alttext=\"h sub Q, is greater than 2 h sub P\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>h</mi><mtext>Q</mtext></msub><mo>&gt;</mo><mn>2</mn><msub><mi>h</mi><mtext>P</mtext></msub></mstyle></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Geometric Optics"
+  },
+  "topic": {
+    "code": "13.2",
+    "text": "13.2: Images Formed by Mirrors"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT1309",
+  "type": "mcq",
+  "title": "Behavior of functions from derivatives",
+  "content": {
+    "prompt": "<p>Let <em>g</em> be a twice-differentiable function with <em>g’</em>(<em>x</em>) &gt; 0 and <em>g”</em>(<em>x</em>) &gt; 0 for all real numbers <em>x</em>, such that <em>g</em>(4) = 12 and <em>g</em>(5) = 18 Of the following, which is a possible value for <em>g</em>(6)?</p>",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>15</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>18</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>21</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>24</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>27</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.3",
+    "text": "5.3: Determining Intervals on Which a Function Is Increasing or Decreasing"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Explain how an approximated value relates to the actual value."
+  }
+}

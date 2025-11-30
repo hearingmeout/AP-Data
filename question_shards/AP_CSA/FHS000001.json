@@ -1,0 +1,39 @@
+{
+  "id": "FHS000001",
+  "type": "mcq",
+  "title": "Vbox class - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following declarations, appearing in a class other than <span class=\"dap_inline\">Vbox</span>, will correctly instantiate a <span class=\"dap_inline\">Vbox</span> object?</p>",
+    "answer": "1726084004936.86",
+    "choices": [
+      {
+        "value": "1726084004935.6816",
+        "label": "<pre><code class=\"language-plaintext\">Vbox b1 = new Vbox(4.0);</code></pre>"
+      },
+      {
+        "value": "1726084004935.9758",
+        "label": "<pre><code class=\"language-plaintext\">Vbox b2 = new Vbox(4, 2);</code></pre>"
+      },
+      {
+        "value": "1726084004936.86",
+        "label": "<pre><code class=\"language-plaintext\">Vbox b3 = new Vbox(2, 8, 4);</code></pre>"
+      },
+      {
+        "value": "1726084004936.898",
+        "label": "<pre><code class=\"language-plaintext\">Vbox b4 = new Vbox(4.0, 4.0, 4.0);</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.13",
+    "text": "1.13: Object Creation and Storage (Instantiation)"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

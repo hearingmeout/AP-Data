@@ -1,0 +1,43 @@
+{
+  "id": "FT545918",
+  "type": "mcq",
+  "title": "Dielectric material placed in capacitor X",
+  "content": {
+    "prompt": "<p>Two identical capacitors, <em>X</em> and <em>Y</em>, are connected in series across a battery. A dielectric material with 𝜿 = 5 is placed in capacitor <em>X</em>. Once equilibrium is reached, how do the potential differences across the two capacitors and their charges compare?</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<table class=\"table table-bordered\" style=\"background-color:rgb(255, 255, 255); font-family:helvetica neue,helvetica,arial,sans-serif\"><tbody><tr><td><strong>Potential Difference</strong></td><td><strong>Charge</strong></td></tr><tr><td>𝑉<sub>x</sub> &gt; 𝑉<sub>y</sub></td><td>𝑄<sub>x</sub> &gt; 𝑄<sub>y</sub></td></tr></tbody></table>",
+        "value": "i0"
+      },
+      {
+        "label": "<table class=\"table table-bordered\" style=\"background-color:rgb(255, 255, 255); font-family:helvetica neue,helvetica,arial,sans-serif\"><tbody><tr><td><strong>Potential Difference</strong></td><td><strong>Charge</strong></td></tr><tr><td>𝑉<sub>x</sub> &gt; 𝑉<sub>y</sub></td><td>𝑄<sub>x</sub> = 𝑄<sub>y</sub></td></tr></tbody></table>",
+        "value": "i1"
+      },
+      {
+        "label": "<table class=\"table table-bordered\" style=\"background-color:rgb(255, 255, 255); font-family:helvetica neue,helvetica,arial,sans-serif\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong>Potential Difference</strong></td>\n\t\t\t<td><strong>Charge</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>𝑉<sub>x</sub> = 𝑉<sub>y</sub></td>\n\t\t\t<td>𝑄<sub>x</sub> &gt; 𝑄<sub>y</sub></td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i2"
+      },
+      {
+        "label": "<table class=\"table table-bordered\" style=\"background-color:rgb(255, 255, 255); font-family:helvetica neue,helvetica,arial,sans-serif\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong>Potential Difference</strong></td>\n\t\t\t<td><strong>Charge</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>𝑉<sub>x</sub> &lt; 𝑉<sub>y</sub></td>\n\t\t\t<td>𝑄<sub>x</sub> = 𝑄<sub>y</sub></td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i3"
+      },
+      {
+        "label": "<table class=\"table table-bordered\" style=\"background-color:rgb(255, 255, 255); font-family:helvetica neue,helvetica,arial,sans-serif\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong>Potential Difference</strong></td>\n\t\t\t<td><strong>Charge</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>𝑉<sub>x</sub> &lt; 𝑉<sub>y</sub></td>\n\t\t\t<td>𝑄<sub>x</sub> &lt; 𝑄<sub>y</sub></td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Conductors and Capacitors"
+  },
+  "topic": {
+    "code": "10.3",
+    "text": "10.3: Capacitors"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

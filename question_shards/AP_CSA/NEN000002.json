@@ -1,0 +1,39 @@
+{
+  "id": "NEN000002",
+  "type": "mcq",
+  "title": "a plus b divided by c times 2 - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What is printed as a result of executing the code segment?</p>",
+    "answer": "01JQ5BZ24CF498W0B1HM5RQT8K",
+    "choices": [
+      {
+        "value": "01JQ5BZ249AQQ7HGBMBJDZNTTT",
+        "label": "<pre><code class=\"language-plaintext\">2</code></pre>"
+      },
+      {
+        "value": "01JQ5BZ24BYES2Q8KEEBTJPM5G",
+        "label": "<pre><code class=\"language-plaintext\">6</code></pre>"
+      },
+      {
+        "value": "01JQ5BZ24B24KVB600NS1CKWRD",
+        "label": "<pre><code class=\"language-plaintext\">8</code></pre>"
+      },
+      {
+        "value": "01JQ5BZ24CF498W0B1HM5RQT8K",
+        "label": "<pre><code class=\"language-plaintext\">9</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

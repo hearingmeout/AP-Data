@@ -1,0 +1,35 @@
+{
+  "id": "FT545135",
+  "type": "mcq",
+  "title": "La zapatera... - marido viejo - esposa joven",
+  "content": {
+    "prompt": "<p>¿Qué se establece en el primer parlamento de la zapatera? </p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Es una mujer acostumbrada a la soledad. </p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Hay una diferencia de edad entre su marido y ella.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Tiene buenas relaciones con sus vecinas.</p>"
+      },
+      {
+        "label": "Su marido y ella pertenecen a clases sociales diferentes.",
+        "value": "i3"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Teatro y poesía del siglo XX"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Read/listen to and comprehend literary texts."
+  }
+}

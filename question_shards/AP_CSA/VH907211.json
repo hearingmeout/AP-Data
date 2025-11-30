@@ -1,0 +1,39 @@
+{
+  "id": "VH907211",
+  "type": "mcq",
+  "title": "call myMethod",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Consider the following method.</p><div class=\"standalone_code style:1\"><p class=\"code_line\">public double myMethod(int a, boolean b)</p><p class=\"code_line\">{&nbsp;&nbsp;/* <span class=\"formatted_text font_style:normal font_variant:normal font_weight:normal\">implementation not shown</span> */&nbsp;&nbsp;}</p></div><p class=\"stem_paragraph\">Which of the following lines of code, if located in a method in the same class as <span class=\"inline_code\">myMethod</span>,<span> </span>will compile without error?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">int result = myMethod(2, false);</span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">double result = myMethod(0, false);</span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">double result = myMethod(true, 10);</span></p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">double result = myMethod(2.5, true);</span></p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Method Signatures"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

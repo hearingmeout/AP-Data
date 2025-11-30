@@ -1,0 +1,43 @@
+{
+  "id": "VH962385",
+  "type": "mcq",
+  "title": "Lab - hanging mass pulls cart",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"standalone_image\"><img alt=\"The figure presents an illustration and a scatterplot. The illustration depicts a cart that is on a horizontal platform attached by a string that passes over an ideal pulley to a hanger, which is hanging vertically by the side of the platform. Three identical plates are shown on both the cart and the hanger. The scatterplot contains 7 data points and the origin is labeled O. The data points begin near the origin and trend upwards and to the right, ending approximately three quarters of the way across the horizontal axis and above the midpoint on the vertical axis.\" height=\"215\" src=\"/images/86584f3e7af101b24c7a77a828c85763.png\" width=\"475\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">Students attach a light string to a cart. The string passes over an ideal pulley to a hanger. A number of small identical plates are on both the cart and the hanger. The students measure the acceleration of the cart when the cart-hanger-plate system is released from rest. The students repeat this procedure for several trials. For each trial, students move one plate from the cart onto the hanger. The data are collected and shown in the straight-line graph. Which quantities on the vertical and horizontal axis, respectively, could produce the graph shown?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"></p><div class=\"table_wrapper\"><table class=\"tgroup cols:2\"><thead class=\"thead\"><tr class=\"row\"><th class=\"entry colname:col1\">Vertical axis</th><th class=\"entry colname:col2\">Horizontal axis</th></tr></thead><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry colname:col1\">Acceleration</td><td class=\"entry colname:col2\">Total mass of plates on the hanger</td></tr></tbody></table></div>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"></p><div class=\"table_wrapper\"><table class=\"tgroup cols:2\"><thead class=\"thead\"><tr class=\"row\"><th class=\"entry colname:col1\">Vertical axis </th><th class=\"entry colname:col2\">Horizontal axis </th></tr></thead><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry colname:col1\">Acceleration </td><td class=\"entry colname:col2\">Mass of the cart <span class=\"math_expression\"><span aria-label=\"plus\"><math alttext=\"plus\" overflow=\"scroll\"><mstyle><mrow><mo>+</mo></mrow></mstyle></math></span></span> total mass of plates on the cart </td></tr></tbody></table></div>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"></p><div class=\"table_wrapper\"><table class=\"tgroup cols:2\"><thead class=\"thead\"><tr class=\"row\"><th class=\"entry colname:col1\">Vertical axis</th><th class=\"entry colname:col2\">Horizontal axis</th></tr></thead><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry colname:col1\">Acceleration</td><td class=\"entry colname:col2\">Mass of the cart <span class=\"math_expression\"><span aria-label=\"plus\"><math alttext=\"plus\" overflow=\"scroll\"><mstyle><mrow><mo>+</mo></mrow></mstyle></math></span></span> total mass of plates on the cart <span class=\"math_expression\"><span aria-label=\"plus\"><math alttext=\"plus\" overflow=\"scroll\"><mstyle><mrow><mo>+</mo></mrow></mstyle></math></span></span> total mass of plates on the hanger</td></tr></tbody></table></div>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"></p><div class=\"table_wrapper\"><table class=\"tgroup cols:2\"><thead class=\"thead\"><tr class=\"row\"><th class=\"entry colname:col1\">Vertical axis</th><th class=\"entry colname:col2\">Horizontal axis</th></tr></thead><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry colname:col1\">Total mass of plates on the hanger</td><td class=\"entry colname:col2\">Mass of the cart <span class=\"math_expression\"><span aria-label=\"plus\"><math alttext=\"plus\" overflow=\"scroll\"><mstyle><mrow><mo>+</mo></mrow></mstyle></math></span></span> total mass of plates on the cart <span class=\"math_expression\"><span aria-label=\"plus\"><math alttext=\"plus\" overflow=\"scroll\"><mstyle><mrow><mo>+</mo></mrow></mstyle></math></span></span> total mass of plates on the hanger</td></tr></tbody></table></div>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"></p><div class=\"table_wrapper\"><table class=\"tgroup cols:2\"><thead class=\"thead\"><tr class=\"row\"><th class=\"entry colname:col1\">Vertical axis</th><th class=\"entry colname:col2\">Horizontal axis</th></tr></thead><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry colname:col1\">Total mass of plates on the hanger</td><td class=\"entry colname:col2\">Mass of the cart <span class=\"math_expression\"><span aria-label=\"plus\"><math alttext=\"plus\" overflow=\"scroll\"><mstyle><mrow><mo>+</mo></mrow></mstyle></math></span></span> total mass of plates on the cart</td></tr></tbody></table></div>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Force and Translational Dynamics"
+  },
+  "topic": {
+    "code": "2.5",
+    "text": "2.5: Newton's Second Law"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

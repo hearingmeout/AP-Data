@@ -1,0 +1,39 @@
+{
+  "id": "FT659835",
+  "type": "mcq",
+  "title": "someCode methd with parameters a, b, and c",
+  "content": {
+    "prompt": "<p>Consider the following method.</p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">public int someCode(int a, int b, int c)</span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">{</span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">&nbsp; if ((a &lt; b) &amp;&amp; (b &lt; c))</span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">&nbsp; &nbsp; return a;</span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">&nbsp; if ((a &gt;= b) &amp;&amp; (b &gt;= c))</span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">&nbsp; &nbsp; return b;</span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">&nbsp; if ((a == b) || (a == c) || (b == c))</span></span></span></span></p>\n<p style=\"margin-bottom: 0px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">&nbsp; &nbsp; return c;</span></span></span></span></p>\n<p style=\"margin-bottom: 11px; margin-left: 40px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">}</span></span></span></span></p>\n<p>Which of the following best describes why this method does not compile?</p>\n",
+    "answer": "1",
+    "choices": [
+      {
+        "label": "It is possible to reach the end of the method without returning a value.",
+        "value": "1"
+      },
+      {
+        "label": "The<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Courier New&quot;\"> if </span></span></span>statements must have<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Courier New&quot;\"> else </span></span></span>parts when they contain<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\"> return </span></span></span></span>statements.",
+        "value": "2"
+      },
+      {
+        "label": "<p style=\"margin-bottom: 11px;\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"></span></span></span>Methods cannot have multiple<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\"> return </span></span></span></span>statements.<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"></span></span></span></p>\n",
+        "value": "3"
+      },
+      {
+        "label": "The third<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Courier New&quot;\"> if </span></span></span>statement is not reachable.",
+        "value": "4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Boolean Expressions"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

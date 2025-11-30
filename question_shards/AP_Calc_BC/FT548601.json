@@ -1,0 +1,43 @@
+{
+  "id": "FT548601",
+  "type": "mcq",
+  "title": "Derivatives with vectors",
+  "content": {
+    "prompt": "If <em>f</em> is a vector-valued function defined by <span aria-label=\"f of t is equal to open paren e raised to the negative t power comma cosine t close paren\"><math> <semantics> <mrow> <mi>f</mi> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> <mo>=</mo> <mrow> <mo>(</mo> <mrow> <msup> <mi>e</mi> <mrow> <mo>−</mo> <mi>t</mi> </mrow> </msup> <mo>,</mo> <mi>cos</mi> <mi>t</mi> </mrow> <mo>)</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbiaadAgadaqadaWdaeaapeGaamiDaaGaayjkaiaawMcaaiabg2da9maabmaapaqaa8qacaWGLbWdamaaCaaaleqabaWdbiabgkHiTiaadshaaaGccaGGSaGaci4yaiaac+gacaGGZbGaamiDaaGaayjkaiaawMcaaaaa@46F7@</annotation> </semantics> </math></span>, then <span aria-label=\"f double prime times t is equal to\"><math> <semantics> <mrow> <msup> <mi>f</mi> <mo>″</mo> </msup> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> <mo>=</mo> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbiqadAgagaGbamaabmaapaqaa8qacaWG0baacaGLOaGaayzkaaGaeyypa0daaa@3DBA@</annotation> </semantics> </math></span>",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>-e<sup>-</sup><em><sup>t</sup></em>+sin <em>t</em></p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>e-<em><sup>t</sup></em>-cos <em>t</em></p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>(-e<sup>-</sup><em><sup>t</sup></em>, -sin <em>t</em>)</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>(e<sup>-</sup><em><sup>t</sup></em>, cos <em>t</em>)</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>(e<sup>-</sup><em><sup>t</sup></em>, -cos <em>t</em>)</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Parametric Equations, Polar Coordinates, and Vector-Valued Functions"
+  },
+  "topic": {
+    "code": "9.4",
+    "text": "9.4: (BC ONLY) Defining and Differentiating Vector-Valued Functions"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "OHT000001",
+  "type": "mcq",
+  "title": "Vector-Valued Functions - position and velocity",
+  "content": {
+    "prompt": "<div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <p class=\"dap_body\">The position of a particle in the&nbsp;<span aria-label=\"x y\"><math alttext=\"x y\"><mi>x</mi><mi>y</mi></math></span>-plane is given by the vector-valued function&nbsp;<span aria-label=\"p open parentheses t close parentheses equals open parentheses negative e to the power of t end exponent plus 5 close parentheses vector i plus open parentheses ln t close parentheses vector j\"><math alttext=\"p open parentheses t close parentheses equals open parentheses negative e to the power of t end exponent plus 5 close parentheses vector i plus open parentheses ln t close parentheses vector j\"><mi>p</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced><mrow><mo>-</mo><msup><mi>e</mi><mi>t</mi></msup><mo>+</mo><mn>5</mn></mrow></mfenced><mover><mi>i</mi><mo>→</mo></mover><mo>+</mo><mfenced><mrow><mi>ln</mi><mi>t</mi></mrow></mfenced><mover><mi>j</mi><mo>→</mo></mover></math></span>&nbsp;for&nbsp;<span aria-label=\"1 less than t less than 1.5\"><math alttext=\"1 less than t less than 1.5\"><mn>1</mn><mo>&lt;</mo><mi>t</mi><mo>&lt;</mo><mn>1.5</mn></math></span>. The vector-valued function&nbsp;<span aria-label=\"v open parentheses t close parentheses equals x open parentheses t close parentheses vector i plus y open parentheses t close parentheses vector j\"><math alttext=\"v open parentheses t close parentheses equals x open parentheses t close parentheses vector i plus y open parentheses t close parentheses vector j\"><mi>v</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mi>x</mi><mfenced><mi>t</mi></mfenced><mover><mi>i</mi><mo>→</mo></mover><mo>+</mo><mi>y</mi><mfenced><mi>t</mi></mfenced><mover><mi>j</mi><mo>→</mo></mover></math></span>&nbsp;gives the velocity of the particle for&nbsp;<span aria-label=\"1 less than t less than 1.5\"><math alttext=\"1 less than t less than 1.5\"><mn>1</mn><mo>&lt;</mo><mi>t</mi><mo>&lt;</mo><mn>1.5</mn></math></span>. Which of the following is true?</p> </div> </div> </div>\n",
+    "answer": "A-55548",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\">The particle is always moving to the left and up, so&nbsp;<span aria-label=\"x open parentheses t close parentheses less than 0\"><math alttext=\"x open parentheses t close parentheses less than 0\"><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>&lt;</mo><mn>0</mn></math></span>&nbsp;and&nbsp;<span aria-label=\"y open parentheses t close parentheses greater than 0\"><math alttext=\"y open parentheses t close parentheses greater than 0\"><mi>y</mi><mfenced><mi>t</mi></mfenced><mo>&gt;</mo><mn>0</mn></math></span>.</p>",
+        "value": "A-55548"
+      },
+      {
+        "label": "<p class=\"dap_body\">The particle is always moving to the left and up, so&nbsp;<span aria-label=\"x open parentheses t close parentheses greater than 0\"><math alttext=\"x open parentheses t close parentheses greater than 0\"><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>&gt;</mo><mn>0</mn></math></span>&nbsp;and&nbsp;<span aria-label=\"y open parentheses t close parentheses less than 0\"><math alttext=\"y open parentheses t close parentheses less than 0\"><mi>y</mi><mfenced><mi>t</mi></mfenced><mo>&lt;</mo><mn>0</mn></math></span>.</p>",
+        "value": "B-55549"
+      },
+      {
+        "label": "<p class=\"dap_body\">The particle is always moving to the right and up, so&nbsp;<span aria-label=\"x open parentheses t close parentheses greater than 0\"><math alttext=\"x open parentheses t close parentheses greater than 0\"><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>&gt;</mo><mn>0</mn></math></span>&nbsp;and&nbsp;<span aria-label=\"y open parentheses t close parentheses greater than 0\"><math alttext=\"y open parentheses t close parentheses greater than 0\"><mi>y</mi><mfenced><mi>t</mi></mfenced><mo>&gt;</mo><mn>0</mn></math></span>.</p>",
+        "value": "C-55550"
+      },
+      {
+        "label": "<p class=\"dap_body\">The particle is always moving to the right and up, so&nbsp;<span aria-label=\"x open parentheses t close parentheses less than 0\"><math alttext=\"x open parentheses t close parentheses less than 0\"><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>&lt;</mo><mn>0</mn></math></span>&nbsp;and&nbsp;<span aria-label=\"y open parentheses t close parentheses greater than 0\"><math alttext=\"y open parentheses t close parentheses greater than 0\"><mi>y</mi><mfenced><mi>t</mi></mfenced><mo>&gt;</mo><mn>0</mn></math></span>.</p>",
+        "value": "D-55551"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.9",
+    "text": "4.9: Vector-Valued Functions"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Support conclusions or choices with a logical rationale or appropriate data."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT543655",
+  "type": "mcq",
+  "title": "Calculate dollar price of Paris meal",
+  "content": {
+    "prompt": "<p>The exchange rate is 1.2 euros per United States dollar. If a restaurant meal costs 30 euros in Paris, France, what is its dollar cost to a United States tourist?</p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>$2.50</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>$3.60</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>$25</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>$30</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>$36</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Open Economy - International Trade and Finance"
+  },
+  "topic": {
+    "code": "6.2",
+    "text": "6.2: Exchange Rates"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Identify an economic concept, principle, or model using quantitative data or calculations."
+  }
+}

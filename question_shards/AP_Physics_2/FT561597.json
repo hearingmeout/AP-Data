@@ -1,0 +1,39 @@
+{
+  "id": "FT561597",
+  "type": "mcq",
+  "title": "Total current of battery connected to two lamps",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows a graph in a gridded coordinate plane with origin at lower left, and with the horizontal axis labeled Potential Difference, in volts, and the vertical axis labeled Current, in amperes.  There are evenly spaced tick marks along the horizontal axis, withlabels0, 1, 2, 3, and 4 from left to righton every other tick mark.  There are evenly spaced tick marks on the vertical axis, with labels from 0.0 to 1.0 in increments of 0.2, from bottom to topon every other tick mark. There are two curves on the graph.  The lower of the two curves starts at the origin and curves gently up and to the right, and ends just past 4 volts and just below 0.7amperes. The higher of the two curves starts at the origin and curves up and to the right, and is always above the lower curve.  The higher curve ends slightly before 3.5voltsand above 1.0amperes\" height=\"267\" src=\"/images/54504159287f5e1b9a6a3c51f7f2bd8a.png\" width=\"400\"></p>\n\n<p>The above graph shows current as a function of potential difference for two different filament lamps. If the two lamps are connected in parallel to a 3.0 V battery, what is the total current supplied by the battery?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p> 0.5 A </p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>0.8 A </p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>1.0 A </p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>1.6 A</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.5",
+    "text": "11.5: Compound Direct Current (DC) Circuits"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Calculate or estimate an unknown quantity with units from known quantities, by selecting and following a logical computational pathway."
+  }
+}

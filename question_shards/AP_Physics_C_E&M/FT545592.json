@@ -1,0 +1,43 @@
+{
+  "id": "FT545592",
+  "type": "mcq",
+  "title": "Where ammeter should be inserted",
+  "content": {
+    "prompt": "<p>Ammeters are inserted at points I, II, III, and IV. At which of the other points would the ammeter register the same current as the ammeter at point IV ?</p>",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>I only</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>III only</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>I and II only</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>II and III only</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>I, II, and III</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.5",
+    "text": "11.5: Compound Direct Current Circuits"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "NIQ000004",
+  "type": "mcq",
+  "title": "change findValue method - describe behavior",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Suppose the&nbsp; <code class=\"dap_inline\">for</code>&nbsp; loop initialization&nbsp; <code class=\"dap_inline\">int j = 0</code>&nbsp; in line 4 of the method is replaced with &nbsp;<code class=\"dap_inline\">int&nbsp;j&nbsp;=&nbsp;1</code>. Which of the following best explains the effect of this change?</p>",
+    "answer": "01JXVHXS4K7ZQJP3FQG0XSPZJD",
+    "choices": [
+      {
+        "value": "01JXVHXS4JP78PAQKWFM2VK5BA",
+        "label": "<p class=\"dap_body\">It will have no effect on the behavior of the method.</p>"
+      },
+      {
+        "value": "01JXVHXS4JC3DHA9NJ8PBHER5W",
+        "label": "<p class=\"dap_body\">It will cause the method to return a different result when&nbsp; <code class=\"dap_inline\">key</code>&nbsp; is not in&nbsp; <code class=\"dap_inline\">words</code>.</p>"
+      },
+      {
+        "value": "01JXVHXS4K7ZQJP3FQG0XSPZJD",
+        "label": "<p class=\"dap_body\">It will cause the method to return a different result when&nbsp; <code class=\"dap_inline\">key</code>&nbsp; is found only at the first index in&nbsp; <code class=\"dap_inline\">words</code>.</p>"
+      },
+      {
+        "value": "01JXVHXS4K2J01N8Q68V8KRW0C",
+        "label": "<p class=\"dap_body\">It will cause the method to return a different result when&nbsp; <code class=\"dap_inline\">key</code>&nbsp; is found only at the last index in the list.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.9",
+    "text": "4.9: `ArrayList` Traversals"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

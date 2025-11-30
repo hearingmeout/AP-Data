@@ -1,0 +1,39 @@
+{
+  "id": "SLF000003",
+  "type": "mcq",
+  "title": "value of Boolean x - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What is the value of &nbsp;<span class=\"dap_inline\">x</span> &nbsp;after the statement is executed?</p>",
+    "answer": "01JQ4J35N02BKKVZK5YG4GXGVK",
+    "choices": [
+      {
+        "value": "01JQ4HDH58A8TZDPG2SKF41V82",
+        "label": "<pre><code class=\"language-plaintext\">5</code></pre>"
+      },
+      {
+        "value": "01JQ4HDH58E2HZZ71VEQ05N6S9",
+        "label": "<pre><code class=\"language-plaintext\">8</code></pre>"
+      },
+      {
+        "value": "01JQ4HDH58BATW6SQB74PK1WVV",
+        "label": "<pre><code class=\"language-plaintext\">true</code></pre>"
+      },
+      {
+        "value": "01JQ4J35N02BKKVZK5YG4GXGVK",
+        "label": "<pre><code class=\"language-plaintext\">false</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Boolean Expressions"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

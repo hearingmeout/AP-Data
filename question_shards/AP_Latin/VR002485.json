@@ -1,0 +1,39 @@
+{
+  "id": "VR002485",
+  "type": "mcq",
+  "title": "Beethoven Sonata secondary leading tone",
+  "content": {
+    "prompt": "<p class=\"direction_paragraph\" xmlns=\"http://www.imsglobal.org/xsd/apip/apipv1p0/qtiitem/imsqti_v2p2\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">Listen to the excerpt.</p><br><div><div class=\"stimulus_reference\"><span class=\"sound_script\"><span class=\"learnosity-feature\" data-player=\"bar\" data-src=\"https://assets.learnosity.com/organisations/537/VR002485.a01.mp3\" data-type=\"audioplayer\"></span></span></div></div><p class=\"stem_paragraph\">The last two chords of the excerpt heard are <span class=\"music_roman_numeral\">ⅰ</span><span class=\"music_figured_bass\"><sup>6</sup><sub>4</sub></span> and <span class=\"music_roman_numeral\">Ⅴ</span>. Which of the following Roman numerals best describes the chord that immediately precedes the final two chords?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"music_roman_numeral\">Ⅴ</span>/<span class=\"music_roman_numeral\">Ⅴ</span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"music_roman_numeral\">Ⅴ</span><span class=\"music_superscript\">7</span>/<span class=\"music_roman_numeral\">Ⅴ</span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">V/<span class=\"music_roman_numeral\">ⅱ</span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"music_roman_numeral\">ⅶ</span><span class=\"music_diminished\">o</span><span class=\"music_superscript\">7</span>/<span class=\"music_roman_numeral\">Ⅴ</span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Harmony and Voice Leading IV - Secondary Function"
+  },
+  "topic": {
+    "code": "7.3",
+    "text": "7.3: Tonicization through Secondary Leading Tone Chords"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Use symbols and terms to describe melodic, harmonic, and rhythmic relationships in performed music. (This skill is applied in describing these elements in a full musical context.)"
+  }
+}

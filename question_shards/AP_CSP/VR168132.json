@@ -1,0 +1,35 @@
+{
+  "id": "VR168132",
+  "type": "mcq",
+  "title": "Digital representation of position of runner",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">The position of a runner in a race is a type of analog data. The runner’s position is tracked using sensors. Which of the following best describes how the position of the runner is represented digitally?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The position of the runner is determined by calculating the time difference between the start and the end of the race and making an estimation based on the runner’s average speed.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The position of the runner is measured and rounded to either 0 or 1 depending on whether the runner is closer to the starting line or closer to the finish line.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The position of the runner is predicted using a model based on performance data captured from previous races.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The position of the runner is sampled at regular intervals to approximate the real-word position, and a sequence of bits is used to represent each sample.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Binary Numbers"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Explain how abstraction manages complexity."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "FT544018",
+  "type": "mcq",
+  "title": "Meeting location",
+  "content": {
+    "prompt": "<p>Where will Zhang Liang and Zheng Yuhang meet tomorrow?</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>In the fitness room</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>At the swimming pool</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>At the indoor track</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>At the front desk</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Families in Different Societies"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

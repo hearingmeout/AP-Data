@@ -1,0 +1,39 @@
+{
+  "id": "LQZ000001",
+  "type": "mcq",
+  "title": "Parametric Rates of Change - direction with trig",
+  "content": {
+    "prompt": "<div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <p class=\"dap_body\">In the&nbsp;<span aria-label=\"x y\"><math alttext=\"x y\"><mi>x</mi><mi>y</mi></math></span>-plane, the position of a particle at time&nbsp;<span aria-label=\"t\"><math alttext=\"t\"><mi>t</mi></math></span>&nbsp;is given by the parametric function&nbsp;<span aria-label=\"f\"><math alttext=\"f\"><mi>f</mi></math></span>&nbsp;defined by&nbsp;<span aria-label=\"f open parentheses t close parentheses equals open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses\"><math alttext=\"f open parentheses t close parentheses equals open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses\"><mi>f</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced></math></span>&nbsp;for&nbsp;<span aria-label=\"0 less or equal than t less or equal than 2 pi\"><math alttext=\"0 less or equal than t less or equal than 2 pi\"><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>2</mn><mi>π</mi></math></span>&nbsp;seconds. If&nbsp;<span aria-label=\"x open parentheses t close parentheses equals sin t\"><math alttext=\"x open parentheses t close parentheses equals sin t\"><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mi>sin</mi><mi>t</mi></math></span>&nbsp;and&nbsp;<span aria-label=\"y open parentheses t close parentheses equals 2 cos t\"><math alttext=\"y open parentheses t close parentheses equals 2 cos t\"><mi>y</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>2</mn><mi>cos</mi><mi>t</mi></math></span>, which way is the particle moving as&nbsp;<span aria-label=\"t\"><math alttext=\"t\"><mi>t</mi></math></span>&nbsp;increases from&nbsp;<span aria-label=\"t equals fraction numerator 3 pi over denominator 2 end fraction\"><math alttext=\"t equals fraction numerator 3 pi over denominator 2 end fraction\"><mi>t</mi><mo>=</mo><mfrac><mrow><mn>3</mn><mi>π</mi></mrow><mn>2</mn></mfrac></math></span>&nbsp;to&nbsp;<span aria-label=\"t equals 2 pi\"><math alttext=\"t equals 2 pi\"><mi>t</mi><mo>=</mo><mn>2</mn><mi>π</mi></math></span>&nbsp;seconds?</p> </div> </div> </div>\n",
+    "answer": "A-17648",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\">Up and to the right</p>",
+        "value": "A-17648"
+      },
+      {
+        "label": "<p class=\"dap_body\">Up and to the left</p>",
+        "value": "B-17649"
+      },
+      {
+        "label": "<p class=\"dap_body\">Down and to the right</p>",
+        "value": "C-17650"
+      },
+      {
+        "label": "<p class=\"dap_body\">Down and to the left</p>",
+        "value": "D-17651"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Parametric Functions and Rates of Change"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Apply numerical results in a given mathematical or applied context."
+  }
+}

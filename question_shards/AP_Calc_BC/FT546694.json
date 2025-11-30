@@ -1,0 +1,43 @@
+{
+  "id": "FT546694",
+  "type": "mcq",
+  "title": "Continuity and differentiability",
+  "content": {
+    "prompt": "<p>If <math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the limit as x approaches a of f of x equals L\">\n <semantics>\n  <mrow>\n   <munder>\n    <mrow>\n     <mi>lim</mi></mrow>\n    <mrow>\n     <mi>x</mi><mo>→</mo><mi>a</mi></mrow>\n   </munder>\n   <mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mi>L</mi></mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaCbeaeaaqa\n  aaaaaaaaWdbiGacYgacaGGPbGaaiyBaaWcpaqaa8qacaWG4bGaeyOK\n  H4QaamyyaaWdaeqaaOWdbiaadAgacaGGOaGaamiEaiaacMcacqGH9a\n  qpcaWGmbaaaa@424F@\n  </annotation>\n </semantics>\n</math>\n, where <em>L</em> is a real number, which of the following must be true? </p><p></p>",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p><em>f</em>'(<em>a</em>) exists</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><em>f</em>(<em>x</em>) is continuous at<em> x=a</em>.</p><p></p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p><em>f</em>(x<em>)</em> is defined at <em>x=a</em>.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p><em>f(a)=L</em></p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>none of the above</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: Defining Continuity at a Point"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Confirm whether hypotheses or conditions of a selected definition, theorem, or test have been satisfied."
+  }
+}

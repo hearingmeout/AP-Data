@@ -1,0 +1,39 @@
+{
+  "id": "VR876958",
+  "type": "mcq",
+  "title": "Inductance - current when V is beta t-squared",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">What is the magnitude of the current in the inductor as a function of time?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Zero</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction 2 beta over L, end fraction, times t\"><math alttext=\"the fraction 2 beta over L, end fraction, times t\" overflow=\"scroll\"><mfrac><mrow><mn>2</mn><mi>β</mi></mrow><mi>L</mi></mfrac><mi>t</mi></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction beta over L, end fraction, times t squared\"><math alttext=\"the fraction beta over L, end fraction, times t squared\" overflow=\"scroll\"><mfrac><mi>β</mi><mi>L</mi></mfrac><msup><mi>t</mi><mn>2</mn></msup></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction beta over 3 L, end fraction, times t cubed\"><math alttext=\"the fraction beta over 3 L, end fraction, times t cubed\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mi>β</mi><mrow><mn>3</mn><mi>L</mi></mrow></mfrac><msup><mi>t</mi><mn>3</mn></msup></mstyle></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.4",
+    "text": "13.4: Inductance"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "UTP000004",
+  "type": "mcq",
+  "title": "puzzle method - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Consider the call&nbsp; <code class=\"dap_inline\">puzzle(3)</code>,&nbsp; which appears in a method in the same class as&nbsp; <code class=\"dap_inline\">puzzle</code>.&nbsp; What value, if any, is returned as a result of the call&nbsp; <code class=\"dap_inline\">puzzle(3)</code>?</p>",
+    "answer": "01JXN08KJMNWVF4EP58VY9GR49",
+    "choices": [
+      {
+        "value": "01JXN08KJK3QK345JQ6JZHSVEV",
+        "label": "<pre><code class=\"language-plaintext\">0.0</code></pre>"
+      },
+      {
+        "value": "01JXN08KJKWXXDF7AWJT7V5BDX",
+        "label": "<pre><code class=\"language-plaintext\">0.5</code></pre>"
+      },
+      {
+        "value": "01JXN08KJMNWVF4EP58VY9GR49",
+        "label": "<pre><code class=\"language-plaintext\">0.75</code></pre>"
+      },
+      {
+        "value": "01JXV5MSTDMWD44S86C8NWMXXP",
+        "label": "<p class=\"dap_body\">Nothing is returned because a&nbsp; <code class=\"dap_inline\">Double</code>&nbsp; value cannot be returned from a method with return type&nbsp; <code class=\"dap_inline\">double</code>.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

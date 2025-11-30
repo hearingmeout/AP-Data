@@ -1,0 +1,39 @@
+{
+  "id": "VR595738",
+  "type": "mcq",
+  "title": "Domain structure of proteins set member 1",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR595734.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">Which of the following claims is best supported by the data from test <span class=\"math_expression\"><span aria-label=\"5\"><math alttext=\"5\" display=\"inline\" overflow=\"scroll\"><mn>5</mn></math></span></span> in Table 1 ?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Domain <span class=\"math_expression\"><span aria-label=\"L\"><math alttext=\"L\" display=\"inline\" overflow=\"scroll\"><mtext>L</mtext></math></span></span> is required for transcription activation.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Domain <span class=\"math_expression\"><span aria-label=\"F\"><math alttext=\"F\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle mathvariant=\"normal\"><mrow><mi>F</mi></mrow></mstyle></mrow></mstyle></math></span></span> is not required for protein-protein interaction.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Protein-protein interaction is necessary for DNA binding.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Protein-protein interaction is sufficient for transcription activation.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Chemistry of Life"
+  },
+  "topic": {
+    "code": "1.7",
+    "text": "1.7: Proteins"
+  },
+  "skill": {
+    "code": "6.A",
+    "text": "6.A: Make a scientific claim."
+  }
+}

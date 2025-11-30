@@ -1,0 +1,43 @@
+{
+  "id": "FT545368",
+  "type": "mcq",
+  "title": "Describe shape of histogram of time to finish game",
+  "content": {
+    "prompt": "<p><img alt=\"A bar graph is shown with frequency on the vertical axis from 0 to 9 in increments of 1 with horizontal reference lines drawn and time in minutes on the horizontal axis from 0 to 21 in increments of 2 minutes starting at 1 minute. Each bar is 2 minutes wide. The bar from 1 to 3 minutes goes up to 1. The bar from 3 to 5 minutes goes up to 1. The bar from 5 to 7 minutes goes up to 3. The bar from 7 to 9 minutes goes up to 3. The bar from 9 to 11 minutes goes up to 2. The bar from 11 to 13 minutes goes up to 5. The bar from 13 to 15 minutes goes up to 7. The bar from 15 to 17 minutes goes up to 9. The bar from 17 to 19 minutes goes up to 5. The bar from 19 to 21 minutes goes up to 9.\" height=\"237\" src=\"/images/25e2915ac16998142960cf3330fa886c.png\" width=\"295\"></p>\n\n<p>The histogram above shows the number of minutes needed by 45 students to finish playing a computer game. Which of the following statements is correct?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The distribution is skewed to the right.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The distribution is skewed to the left.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The distribution appears to be normal.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The distribution appears to be chi-square.</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>The distribution appears to be uniform.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.6",
+    "text": "1.6: Describing the Distribution of a Quantitative Variable"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Describe data presented numerically or graphically."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT546293",
+  "type": "mcq",
+  "title": "Equation of motion for pulley modified atwood",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows the right edge of a frictionless horizontal surface with a pulley of radius R attached at the edge. A mass m sub 1 sits on the surface. A string runs from mass 1 horizontally parallel to the table, over the pulley, and vertically down to the right of the surface. Another mass m sub 2 is attached to the lower end of the string. The string has tension T sub 1 in the horizontal section between mass 1 and the pulley, and tension T sub 2 in the vertical section between the pulley and mass 2. \" height=\"190\" src=\"/images/185e5d7ac616b3aec18d219d1b071324.png\" width=\"320\"></p>\n\n<p>Two blocks are joined by a light string that passes over the pulley shown above, which has radius <em>R</em> and moment of inertia <em>I</em> about its center. <em>T</em><sub>1</sub> and <em>T</em><sub>2</sub> are the tensions in the string on either side of the pulley and <em>𝛂</em> is the angular acceleration of the pulley. Which of the following equations best describes the pulley's rotational motion during the time the blocks accelerate?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p><em>m<sub>2</sub>gR = Iα </em></p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><em>(T<sub>1</sub> + T<sub>2</sub>)R = Iα</em></p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p><em>T<sub>2</sub>R = Iα</em></p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p><em>(T<sub>2</sub> - T<sub>1</sub>)R = Iα</em></p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p><em>(m<sub>2</sub> - m<sub>1</sub>)gR = Iα</em></p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.3",
+    "text": "5.3: Torque"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

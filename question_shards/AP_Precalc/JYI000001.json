@@ -1,0 +1,39 @@
+{
+  "id": "JYI000001",
+  "type": "mcq",
+  "title": "Parametric Functions - finding parameter values",
+  "content": {
+    "prompt": "<div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <p class=\"dap_body\">The parametric function&nbsp;<span aria-label=\"f\"><math alttext=\"f\"><mi>f</mi></math></span>&nbsp;is given by&nbsp;<span aria-label=\"f open parentheses t close parentheses equals open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses\"><math alttext=\"f open parentheses t close parentheses equals open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses\"><mi>f</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced></math></span>, where&nbsp;<span aria-label=\"x open parentheses t close parentheses equals t squared plus t\"><math alttext=\"x open parentheses t close parentheses equals t squared plus t\"><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mi>t</mi></math></span>&nbsp;and&nbsp;<span aria-label=\"y open parentheses t close parentheses equals t plus 9\"><math alttext=\"y open parentheses t close parentheses equals t plus 9\"><mi>y</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mi>t</mi><mo>+</mo><mn>9</mn></math></span>&nbsp;for&nbsp;<span aria-label=\"t greater or equal than 0\"><math alttext=\"t greater or equal than 0\"><mi>t</mi><mo>≥</mo><mn>0</mn></math></span>. For what values of&nbsp;<span aria-label=\"t\"><math alttext=\"t\"><mi>t</mi></math></span>&nbsp;will the&nbsp;<span aria-label=\"x\"><math alttext=\"x\"><mi>x</mi></math></span>-&nbsp;and&nbsp;<span aria-label=\"y\"><math alttext=\"y\"><mi>y</mi></math></span>-coordinates be equal?</p> </div> </div> </div>\n",
+    "answer": "C-67079",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"t equals negative 3\"><math alttext=\"t equals negative 3\"><mi>t</mi><mo>=</mo><mo>-</mo><mn>3</mn></math></span>&nbsp;and&nbsp;<span aria-label=\"t equals 3\"><math alttext=\"t equals 3\"><mi>t</mi><mo>=</mo><mn>3</mn></math></span></p>",
+        "value": "A-67077"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"t equals 6\"><math alttext=\"t equals 6\"><mi>t</mi><mo>=</mo><mn>6</mn></math></span>&nbsp;and&nbsp;<span aria-label=\"t equals 12\"><math alttext=\"t equals 12\"><mi>t</mi><mo>=</mo><mn>12</mn></math></span></p>",
+        "value": "B-67078"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"t equals 3\"><math alttext=\"t equals 3\"><mi>t</mi><mo>=</mo><mn>3</mn></math></span>&nbsp;only</p>",
+        "value": "C-67079"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"t equals 12\"><math alttext=\"t equals 12\"><mi>t</mi><mo>=</mo><mn>12</mn></math></span>&nbsp;only</p>",
+        "value": "D-67080"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.1",
+    "text": "4.1: Parametric Functions"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Solve equations and inequalities represented analytically, with and without technology."
+  }
+}

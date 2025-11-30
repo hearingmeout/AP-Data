@@ -1,0 +1,39 @@
+{
+  "id": "VR781867",
+  "type": "mcq",
+  "title": "Kinematics - Derive maximum height of a rocket",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following is a correct expression that could be used to determine the maximum height above the ground reached by the rocket?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction a times t squared, over 2\"><math alttext=\"the fraction a times t squared, over 2\" overflow=\"scroll\"><mfrac><mrow><mi>a</mi><msup><mi>t</mi><mn>2</mn></msup></mrow><mn>2</mn></mfrac></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction a squared, times t squared, over 2 g, end fraction\"><math alttext=\"the fraction a squared, times t squared, over 2 g, end fraction\" overflow=\"scroll\"><mfrac><mrow><msup><mi>a</mi><mn>2</mn></msup><msup><mi>t</mi><mn>2</mn></msup></mrow><mrow><mn>2</mn><mi>g</mi></mrow></mfrac></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction a, times t squared, over 2, end fraction plus the fraction a squared times t squared over 2g end fraction\"><math alttext=\"the fraction a, times t squared, over 2, end fraction plus the fraction a squared times t squared over 2g end fraction\" overflow=\"scroll\"><mfrac><mrow><mi>a</mi><msup><mi>t</mi><mn>2</mn></msup></mrow><mn>2</mn></mfrac><mo>+</mo><mfrac><mrow><msup><mi>a</mi><mn>2</mn></msup><msup><mi>t</mi><mn>2</mn></msup></mrow><mrow><mn>2</mn><mi>g</mi></mrow></mfrac></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction a times t squared, over 2, end fraction, plus the fraction a squared, times t squared, over 2 g, end fraction\"><math alttext=\"the fraction a times t squared, over 2, end fraction, plus the fraction a squared, times t squared, over 2 g, end fraction\" overflow=\"scroll\"><mfrac><mrow><mi>a</mi><msup><mi>t</mi><mn>2</mn></msup></mrow><mn>2</mn></mfrac><mo>-</mo><mfrac><mrow><msup><mi>a</mi><mn>2</mn></msup><msup><mi>t</mi><mn>2</mn></msup></mrow><mrow><mn>2</mn><mi>g</mi></mrow></mfrac></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Representing Motion"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

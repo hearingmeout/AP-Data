@@ -1,0 +1,35 @@
+{
+  "id": "FT535666",
+  "type": "mcq",
+  "title": "Comparing programs for sum calcuations",
+  "content": {
+    "prompt": "<p>Programs I and II below are each intended to calculate the sum of the integers from 1 to <em>n</em>. Assume that <em>n</em> is a positive integer (e.g., 1, 2, 3, …).</p>\n\n<p><img alt=\"Two segments of code is shown. The code on the left has the title Program 1, and the code on the right has the title Program 2. At the top of each are two white boxes on top of each other that read i left arrow n in the top box and result left arrow 0 in the bottom box. This is at the top left corner of a larger grey box, at the top of which it reads REPEAT n TIMES. Below this in the grey box and indented is a white box with two smaller white boxes inside on top of each other. The top box reads result left arrow result plus i. The bottom box reads i left arrow i plus 1 in Program 1 and i left arrow i minus 1 in Program 2. Below the larger grey box at its lower left corner is a white box that reads DISPLAY, then result, which is in a rectangle. \" height=\"230\" src=\"/images/b1beab2f76e9449b9047bc3ce69637b7.png\" width=\"575\"></p>\n\n<p>&nbsp;</p>\n\n<p>Which of the following best describes the behavior of the two programs?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Program I displays the correct sum, but program II does not.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Program II displays the correct sum, but program I does not.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Both program I and program II display the correct sum.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Neither program I nor program II displays the correct sum.</p>"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.9",
+    "text": "3.9: Developing Algorithms"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

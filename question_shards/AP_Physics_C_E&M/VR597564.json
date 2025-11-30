@@ -1,0 +1,43 @@
+{
+  "id": "VR597564",
+  "type": "mcq",
+  "title": "Current magnetic field and number of loops",
+  "content": {
+    "prompt": "<div>\n<include href=\"../Passage/VR597561.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include><div class=\"stimulus_reference\"><div class=\"standalone_image\"><img alt=\"The figure shows a graph of a line and 5 data points in the first quadrant of a coordinate plane. The horizontal axis is labeled I, in amps, and the numbers 0 through 4.0, in increments of 2.0, are indicated. The vertical axis is labeled B, in times 10 to the negative 3 power tesla, with numbers 0 through 20.0, in increments of 4.0, indicated. The line begins at coordinates 1.0 comma 4.0 and the line moves diagonally up and to the right with a constant slope through coordinates 2.0 comma 8.0, 3.0 comma 12.0, and 4.0 comma 16.0 and ends. 2 of the data points are located on the line, 1 data point, 4.0 comma 15.0 is located on right side below the line, and 1 data point, 4.2 comma 17.0, is located the left side above the line.\" src=\"/images/1bb95c1991e266a35669e33f0efb7cf1.svg\"></div></div>\n</div><p class=\"stem_paragraph\">The students insert the magnetic field probe along the axis of the solenoid at the midpoint of the solenoid. The solenoid is connected to the power supply, and measurements are recorded for the magnitude <span class=\"math_expression\"><span aria-label=\"B\"><math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>B</mi></mrow></mstyle></math></span></span> of the magnetic field at that location as a function of the current <span class=\"math_expression\"><span aria-label=\"I\"><math alttext=\"I\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>I</mi></mrow></mstyle></math></span></span> passing through it. The data are taken for five different power supply settings, and the plot of the data is shown in the graph. Which of the following is correct for the total number of loops for this solenoid?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"3200\"><math alttext=\"3200\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>3200</mn></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"480\"><math alttext=\"480\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>480</mn></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"250\"><math alttext=\"250\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>250</mn></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"60\"><math alttext=\"60\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>60</mn></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The number of loops cannot be determined without knowing the radius of the solenoid.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "12",
+    "text": "12: Magnetic Fields and Electromagnetism"
+  },
+  "topic": {
+    "code": "12.4",
+    "text": "12.4: Ampère's Law"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Calculate or estimate an unknown quantity with units from known quantities, by selecting and following a logical computational pathway."
+  }
+}

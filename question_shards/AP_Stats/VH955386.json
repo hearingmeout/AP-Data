@@ -1,0 +1,43 @@
+{
+  "id": "VH955386",
+  "type": "mcq",
+  "title": "Farm Size",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"passage\"><div class=\"prose style:1\"><p class=\"passage_para\">An agricultural engineer selected a random sample of <span class=\"math_expression\"><span aria-label=\"30\"><math alttext=\"30\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>30</mn></mrow></mstyle></math></span></span> farms in the United States to construct a <span class=\"math_expression\"><span aria-label=\"95\"><math alttext=\"95\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>95</mn></mrow></mstyle></math></span></span> percent confidence interval for the mean size, in acres, of farms in the United States. The resulting interval was <span class=\"math_expression\"><span aria-label=\"open parenthesis, 367 comma 558, close parenthesis\"><math alttext=\"open parenthesis, 367 comma 558, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mrow><mn>367</mn></mrow><mo>,</mo><mrow><mn>558</mn></mrow><mo>)</mo></mrow></mrow></mstyle></math></span></span>.</p></div></div></div></div><p class=\"stem_paragraph\">Which of the following is an appropriate interpretation of the <span class=\"math_expression\"><span aria-label=\"95\"><math alttext=\"95\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>95</mn></mrow></mstyle></math></span></span> percent confidence level?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Approximately <span class=\"math_expression\"><span aria-label=\"95%\"><math alttext=\"95%\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>95</mn><mo>%</mo></mrow></mstyle></math></span></span> of the farm sizes in the sample are between <span class=\"math_expression\"><span aria-label=\"367\"><math alttext=\"367\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>367</mn></mrow></mstyle></math></span></span> acres and <span class=\"math_expression\"><span aria-label=\"558\"><math alttext=\"558\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>558</mn></mrow></mstyle></math></span></span> acres.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Approximately <span class=\"math_expression\"><span aria-label=\"95%\"><math alttext=\"95%\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>95</mn><mo>%</mo></mrow></mstyle></math></span></span> of all farm sizes in the United States are between <span class=\"math_expression\"><span aria-label=\"367\"><math alttext=\"367\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>367</mn></mrow></mstyle></math></span></span> acres and <span class=\"math_expression\"><span aria-label=\"558\"><math alttext=\"558\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>558</mn></mrow></mstyle></math></span></span> acres.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Approximately <span class=\"math_expression\"><span aria-label=\"95%\"><math alttext=\"95%\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>95</mn><mo>%</mo></mrow></mstyle></math></span></span> of all random samples of size <span class=\"math_expression\"><span aria-label=\"30\"><math alttext=\"30\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>30</mn></mrow></mstyle></math></span></span> from the population will have a mean farm size between <span class=\"math_expression\"><span aria-label=\"367\"><math alttext=\"367\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>367</mn></mrow></mstyle></math></span></span> acres and <span class=\"math_expression\"><span aria-label=\"558\"><math alttext=\"558\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>558</mn></mrow></mstyle></math></span></span> acres.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Approximately <span class=\"math_expression\"><span aria-label=\"95%\"><math alttext=\"95%\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>95</mn><mo>%</mo></mrow></mstyle></math></span></span> of all random samples of size <span class=\"math_expression\"><span aria-label=\"30\"><math alttext=\"30\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>30</mn></mrow></mstyle></math></span></span> from the population will produce intervals that contain the mean size of farms in the United States.</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Approximately <span class=\"math_expression\"><span aria-label=\"95%\"><math alttext=\"95%\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>95</mn><mo>%</mo></mrow></mstyle></math></span></span> of all random samples of size <span class=\"math_expression\"><span aria-label=\"30\"><math alttext=\"30\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>30</mn></mrow></mstyle></math></span></span> from the population will produce intervals that contain the sample mean.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.3",
+    "text": "7.3: Justifying a Claim About a Population Mean Based on a Confidence Interval"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT544467",
+  "type": "mcq",
+  "title": "Effect of transformed scores on summary statistics",
+  "content": {
+    "prompt": "<p>A data set of test scores is being transformed by applying the following rule to each of the raw scores.</p>\n\n<p class=\"text-center\">Transformed score = 3.5(raw score) + 6.2</p>\n\n<p>Which of the following is NOT true?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The mean transformed score equals 3.5(the mean raw score) + 6.2.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The median transformed score equals 3.5(the median raw score) + 6.2.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The range of the transformed scores equals 3.5(the range of the raw scores) + 6.2.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The standard deviation of the transformed scores equals 3.5(the standard deviation of the raw scores).</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>The IQR of the transformed scores equals 3.5(the IQR of the raw scores).</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.7",
+    "text": "1.7: Summary Statistics for a Quantitative Variable"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}

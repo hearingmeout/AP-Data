@@ -1,0 +1,39 @@
+{
+  "id": "UMG000001",
+  "type": "mcq",
+  "title": "timesTwo method and assignments - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What, if anything, is printed as a result of executing the code segment?</p>",
+    "answer": "01JVAFVW6258TCH1KGW4QKR0Z0",
+    "choices": [
+      {
+        "value": "01JVAFVW62F09JT0DTBZDZ0J5J",
+        "label": "<pre><code class=\"language-plaintext\">10</code></pre>"
+      },
+      {
+        "value": "01JVAFVW6258TCH1KGW4QKR0Z0",
+        "label": "<pre><code class=\"language-plaintext\">20</code></pre>"
+      },
+      {
+        "value": "01JVAFVW62QRTXSFHJAWA3BGAR",
+        "label": "<p class=\"dap_body\">Nothing is printed; the code segment will not compile because &nbsp;<code class=\"dap_inline\">timesTwo</code> &nbsp;cannot accept an &nbsp;<code class=\"dap_inline\">Integer</code> &nbsp;argument.</p>"
+      },
+      {
+        "value": "01JVAGKJ0CKSVCZNGHRQV311G5",
+        "label": "<p class=\"dap_body\">Nothing is printed; the code segment will not compile because the &nbsp;<code class=\"dap_inline\">int</code> &nbsp;variable &nbsp;<code class=\"dap_inline\">result1</code> &nbsp;cannot be assigned to the&nbsp; <code class=\"dap_inline\">Integer</code> &nbsp;variable &nbsp;<code class=\"dap_inline\">result2</code>.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.7",
+    "text": "4.7: Wrapper Classes"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

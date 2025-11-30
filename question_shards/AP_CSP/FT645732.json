@@ -1,0 +1,35 @@
+{
+  "id": "FT645732",
+  "type": "mcq",
+  "title": "Using a 4 bit representation for integers",
+  "content": {
+    "prompt": "<p>A computer program uses 4 bits to represent nonnegative integers. Which of the following statements describe a possible result when the program uses this number representation?</p>\n<p style=\"margin-left: 40px;\">I. The operation&nbsp;<img alt=\"4 plus 8\" height=\"17\" src=\"/images/327e4122903876a28cf478b857a4cd26.JPG\" width=\"45\">&nbsp;will result in an overflow error.</p>\n<p style=\"margin-left: 40px;\">II. The operation&nbsp;<img alt=\"7 plus 10\" height=\"17\" src=\"/images/8d8c046f552fdbb9baa7198984ddea0d.JPG\" width=\"55\">&nbsp;will result in an overflow error.</p>\n<p style=\"margin-left: 40px;\">III. The operation&nbsp;<img alt=\"12 plus 3\" height=\"16\" src=\"/images/a7854906e5d3552631266311c97278fc.JPG\" width=\"54\">&nbsp;will result in an overflow error.</p>\n",
+    "answer": "1",
+    "choices": [
+      {
+        "label": "I only",
+        "value": "0"
+      },
+      {
+        "label": "II only",
+        "value": "1"
+      },
+      {
+        "label": "II and III only",
+        "value": "2"
+      },
+      {
+        "label": "I, II, and III",
+        "value": "3"
+      }
+    ]
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Binary Numbers"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

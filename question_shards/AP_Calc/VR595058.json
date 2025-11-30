@@ -1,0 +1,39 @@
+{
+  "id": "VR595058",
+  "type": "mcq",
+  "title": "Processes - Behavior of Accumulation Function",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Let <span class=\"math_expression\"><span aria-label=\"f\"><math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math></span></span> be the function defined by <span class=\"math_expression\"><span aria-label=\"f of x equals, negative 2 x plus, the integral from 2 to x, of, the square root of, 1 plus t squared, end root, d t\"><math alttext=\"f of x equals, negative 2 x plus, the integral from 2 to x, of, the square root of, 1 plus t squared, end root, d t\" display=\"inline\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mrow><mo>−</mo><mn>2</mn></mrow><mi>x</mi><mo>+</mo><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>2</mn></mrow><mrow><mi>x</mi></mrow></msubsup><msqrt><mrow><mn>1</mn><mo>+</mo><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></msqrt><mo>ⅆ</mo><mi>t</mi></mrow></mstyle></mrow></math></span></span>. Which of the following statements is true on the interval <span class=\"math_expression\"><span aria-label=\"0 less than x, less than 1\"><math alttext=\"0 less than x, less than 1\" display=\"inline\" overflow=\"scroll\"><mrow><mn>0</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>1</mn></mrow></math></span></span> ?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"f\"><math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math></span></span> is decreasing, and the graph of <span class=\"math_expression\"><span aria-label=\"f\"><math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math></span></span> is concave up.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"f\"><math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math></span></span> is decreasing, and the graph of <span class=\"math_expression\"><span aria-label=\"f\"><math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math></span></span> is concave down.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"f\"><math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math></span></span> is increasing, and the graph of <span class=\"math_expression\"><span aria-label=\"f\"><math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math></span></span> is concave up.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"f\"><math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math></span></span> is increasing, and the graph of <span class=\"math_expression\"><span aria-label=\"f\"><math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math></span></span> is concave down.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.5",
+    "text": "6.5: Interpreting the Behavior of Accumulation Functions Involving Area"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

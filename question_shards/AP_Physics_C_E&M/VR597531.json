@@ -1,0 +1,43 @@
+{
+  "id": "VR597531",
+  "type": "mcq",
+  "title": "Electric potential at a point",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR597530.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">What is the electric potential <span class=\"math_expression\"><span aria-label=\"V\"><math alttext=\"V\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>V</mi></mrow></mstyle></math></span></span> at point <span class=\"math_expression\"><span aria-label=\"P\"><math alttext=\"P\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>P</mtext></mrow></mstyle></math></span></span> ?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"V equals the fraction with numerator 2 Q, and denominator the square root of 2, end root, times pi, times epsilon naught, times a, end fraction\"><math alttext=\"V equals the fraction with numerator 2 Q, and denominator the square root of 2, end root, times pi, times epsilon naught, times a, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>V</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi>Q</mi></mrow><mrow><msqrt><mrow><mn>2</mn></mrow></msqrt><mi>π</mi><msub><mrow><mi>ε</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>a</mi></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"V equals the fraction with numerator Q, and denominator the square root of 2, end root, times pi, times epsilon naught, times a, end fraction\"><math alttext=\"V equals the fraction with numerator Q, and denominator the square root of 2, end root, times pi, times epsilon naught, times a, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>V</mi><mo>=</mo><mfrac><mrow><mi>Q</mi></mrow><mrow><msqrt><mrow><mn>2</mn></mrow></msqrt><mi>π</mi><msub><mrow><mi>ε</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>a</mi></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"V equals the fraction with numerator Q, and denominator 2 times the square root of 2, end root, times pi, times epsilon naught, times a, end fraction\"><math alttext=\"V equals the fraction with numerator Q, and denominator 2 times the square root of 2, end root, times pi, times epsilon naught, times a, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>V</mi><mo>=</mo><mfrac><mrow><mi>Q</mi></mrow><mrow><mn>2</mn><msqrt><mrow><mn>2</mn></mrow></msqrt><mi>π</mi><msub><mrow><mi>ε</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>a</mi></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"V equals the fraction with numerator Q, and denominator 4 times the square root of 2, end root, times pi, times epsilon naught, times a, end fraction\"><math alttext=\"V equals the fraction with numerator Q, and denominator 4 times the square root of 2, end root, times pi, times epsilon naught, times a, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>V</mi><mo>=</mo><mfrac><mrow><mi>Q</mi></mrow><mrow><mn>4</mn><msqrt><mrow><mn>2</mn></mrow></msqrt><mi>π</mi><msub><mrow><mi>ε</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>a</mi></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"V equals 0\"><math alttext=\"V equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>V</mi><mo>=</mo><mn>0</mn></mrow></mstyle></math></span></span></p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Electric Potential"
+  },
+  "topic": {
+    "code": "9.2",
+    "text": "9.2: Electric Potential"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

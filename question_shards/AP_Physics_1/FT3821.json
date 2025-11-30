@@ -1,0 +1,43 @@
+{
+  "id": "FT3821",
+  "type": "mcq",
+  "title": "Tension in chain supporting person and board",
+  "content": {
+    "prompt": "<p>What is the tension in the left chain?</p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>250 N</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>375 N</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>500 N</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>625 N</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>875 N</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Force and Translational Dynamics"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Newton's First Law"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Calculate or estimate an unknown quantity with units from known quantities, by selecting and following a logical computational pathway."
+  }
+}

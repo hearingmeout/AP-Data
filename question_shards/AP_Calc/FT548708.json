@@ -1,0 +1,43 @@
+{
+  "id": "FT548708",
+  "type": "mcq",
+  "title": "Implicit second derivative",
+  "content": {
+    "prompt": "<p>If x<sup>2</sup>+y<sup>2</sup>=25, what is the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the second derivative of y with respect to x \">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mrow>\n     <msup>\n      <mi>d</mi>\n      <mn>2</mn>\n     </msup>\n     <mi>y</mi></mrow>\n    <mrow>\n     <mi>d</mi><msup>\n      <mi>x</mi>\n      <mn>2</mn>\n     </msup>\n     </mrow>\n   </mfrac>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWcaaWdaeaapeGaamiza8aadaahaaWcbeqaa8qacaaIYaaaaOGa\n  amyEaaWdaeaapeGaamizaiaadIhapaWaaWbaaSqabeaapeGaaGOmaa\n  aaaaaaaa@3C4B@\n  </annotation>\n </semantics>\n</math>\n at the point (4,3) ? </p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>-<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\" 25 divided by 27\">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mrow>\n     <mn>25</mn></mrow>\n    <mrow>\n     <mn>27</mn></mrow>\n   </mfrac>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWcaaWdaeaapeGaaGOmaiaaiwdaa8aabaWdbiaaikdacaaI3aaa\n  aaaa@395C@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>-<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"7 divided by 27\">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mn>7</mn>\n    <mrow>\n     <mn>27</mn></mrow>\n   </mfrac>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWcaaWdaeaapeGaaG4naaWdaeaapeGaaGOmaiaaiEdaaaaaaa@38A2@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"7 divided by 27\">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mn>7</mn>\n    <mrow>\n     <mn>27</mn></mrow>\n   </mfrac>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWcaaWdaeaapeGaaG4naaWdaeaapeGaaGOmaiaaiEdaaaaaaa@38A2@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"3 divided by 4\">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mn>3</mn>\n    <mn>4</mn>\n   </mfrac>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWcaaWdaeaapeGaaG4maaWdaeaapeGaaGinaaaaaaa@37DF@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"25 divided by 27\">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mrow>\n     <mn>25</mn></mrow>\n    <mrow>\n     <mn>27</mn></mrow>\n   </mfrac>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWcaaWdaeaapeGaaGOmaiaaiwdaa8aabaWdbiaaikdacaaI3aaa\n  aaaa@395C@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.2",
+    "text": "3.2: Implicit Differentiation"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

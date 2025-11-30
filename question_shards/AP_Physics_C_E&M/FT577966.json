@@ -1,0 +1,43 @@
+{
+  "id": "FT577966",
+  "type": "mcq",
+  "title": "Graph of potential difference after switch closed",
+  "content": {
+    "prompt": "<p>&nbsp;</p>\n\n\n<img alt=\"The figure presents a circuit with a capacitor, a resistor, a voltmeter, and an open switch. The left side of the circuit has a capacitor labeled C. Moving clockwise around the circuit, the right side has a resistor labeled R. The voltmeter is on a parallel branch that is to the right of resistor R, with connections above and below resistor R. The bottom side has an open switch labeled S.\" src=\"/images/403047c1ca5ffac9e1f2eca354400c3a.png\">\n<p>A charged capacitor C, resistor R, and switch S are connected in series. Voltmeter V is connected in parallel with the resistor, as shown in the figure above. At time t = 0, the switch is then closed. Which of the following shows the potential difference ΔV reading on the voltmeter as a function of time t after the switch is closed?</p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<img alt=\"The figure presents the graph of a curve in the first quadrant of a coordinate plane, with the origin labeled O. The horizontal axis is labeled t, and the vertical axis is labeled delta V. The curve begins at the origin and extends up and to the right. The curve is concave down, becoming approximately horizontal approximately three fourths of the way along, and high above the horizontal axis.\" height=\"106\" src=\"/images/8ded0f6216b77f174c22b70db1778552.png\" width=\"150\">",
+        "value": "i0"
+      },
+      {
+        "label": "<img alt=\"The figure presents the graph of a curve in the first quadrant of a coordinate plane, with the origin labeled O. The horizontal axis is labeled t, and the vertical axis is labeled delta V. The curve begins on the vertical axis, high above the origin, and extends down and to the right. The curve is concave up, becoming approximately horizontal and ends near the horizontal axis, far to the right of the origin.\" height=\"100\" src=\"/images/f69fe448c52f70930e86803cab3e490f.png\" width=\"150\">",
+        "value": "i1"
+      },
+      {
+        "label": "<img alt=\"The figure presents the graph of a curve in the first quadrant of a coordinate plane, with the origin labeled O. The horizontal axis is labeled t, and the vertical axis is labeled delta V. The curve begins at the origin and initially extends up and to the right. The curve is concave up, starts approximately horizontally, and then gets steeper high above the horizontal axis.\" height=\"105\" src=\"/images/de029e0b679c3cf11739880dab74d75b.png\" width=\"150\">",
+        "value": "i2"
+      },
+      {
+        "label": "<img alt=\"The figure presents the graph of a line in the first quadrant of a coordinate plane, with the origin labeled O. The horizontal axis is labeled t, and the vertical axis is labeled delta V. The line begins on the vertical axis, high above the origin, and extends in a straight line horizontally to the right until it ends.\" height=\"101\" src=\"/images/7bf10020aab2e98605a17197936d7416.png\" width=\"150\">",
+        "value": "i3"
+      },
+      {
+        "label": "<img alt=\"The figure presents the graph of a line in the first quadrant of a coordinate plane, with the origin labeled O. The horizontal axis is labeled t, and the vertical axis is labeled delta V. The line begins on the vertical axis, high above the origin, and extends in a straight line down and to the right until it reaches the horizontal axis, far to the right of the origin.\" height=\"101\" src=\"/images/a3b02087bfc9d9bb58f46ed8e7b741bf.png\" width=\"150\">",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.8",
+    "text": "11.8: Resistor-Capacitor (RC) Circuits"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "VR876943",
+  "type": "mcq",
+  "title": "E field of distribution - rod half pos half neg",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which integral expression could be solved to determine the <span class=\"math_expression\"><span aria-label=\"x\" role=\"math\"><math alttext=\"x\" overflow=\"scroll\"><mi>x</mi></math></span></span>-component of the electric field at Point <span class=\"math_expression\"><span aria-label=\"P\" role=\"math\"><math alttext=\"P\" overflow=\"scroll\"><mtext>P</mtext></math></span></span>, which is on the <span class=\"math_expression\"><span aria-label=\"x\" role=\"math\"><math alttext=\"x\" overflow=\"scroll\"><mi>x</mi></math></span></span>-axis at position <span class=\"math_expression\"><span aria-label=\"x equals lowercase d\" role=\"math\"><math alttext=\"x equals lowercase d\" overflow=\"scroll\"> <mi>x</mi> <mo>=</mo> <mi>d</mi> </math></span></span>?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"negative k lambda times the integral from 0 to uppercase D, of, the fraction with numerator d x, and denominator open parenthesis, lowercase d minus x, close parenthesis squared end fraction plus k lambda times the integral from negative uppercase D to 0, of, the fraction with numerator d x, and denominator open parenthesis, lowercase d minus x, close parenthesis squared\"><math alttext=\"negative k lambda times the integral from 0 to uppercase D, of, the fraction with numerator d x, and denominator open parenthesis, lowercase d minus x, close parenthesis squared end fraction plus k lambda times the integral from negative uppercase D to 0, of, the fraction with numerator d x, and denominator open parenthesis, lowercase d minus x, close parenthesis squared\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mo>−</mo><mi>k</mi><mi>λ</mi><munderover><mo>∫</mo><mn>0</mn><mi>D</mi></munderover><mfrac><mrow><mtext> </mtext><mi>d</mi><mi>x</mi></mrow><msup><mrow><mo>(</mo><mi>d</mi><mo>−</mo><mi>x</mi><mo>)</mo></mrow><mn>2</mn></msup></mfrac><mo>+</mo><mi>k</mi><mi>λ</mi><munderover><mo>∫</mo><mrow><mo>−</mo><mi>D</mi></mrow><mn>0</mn></munderover><mfrac><mrow><mtext> </mtext><mi>d</mi><mi>x</mi></mrow><msup><mrow><mo>(</mo><mi>d</mi><mo>−</mo><mi>x</mi><mo>)</mo></mrow><mn>2</mn></msup></mfrac></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"negative k lambda times the integral from 0 to uppercase D, of, the fraction with numerator d x, and denominator, open parenthesis, lowercase d minus x, close parenthesis, squared, end fraction, minus k lambda times the integral from negative uppercase D to 0, of, the fraction with numerator d x, and denominator, open parenthesis, lowercase d minus x, close parenthesis, squared, end fraction\"><math alttext=\"negative k lambda times the integral from 0 to uppercase D, of, the fraction with numerator d x, and denominator, open parenthesis, lowercase d minus x, close parenthesis, squared, end fraction, minus k lambda times the integral from negative uppercase D to 0, of, the fraction with numerator d x, and denominator, open parenthesis, lowercase d minus x, close parenthesis, squared, end fraction\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>k</mi><mi>λ</mi><munderover><mo>∫</mo><mn>0</mn><mi>D</mi></munderover><mfrac><mrow><mtext> </mtext><mi>d</mi><mi>x</mi></mrow><msup><mrow><mo>(</mo><mi>d</mi><mo>−</mo><mi>x</mi><mo>)</mo></mrow><mn>2</mn></msup></mfrac><mo>−</mo><mi>k</mi><mi>λ</mi><munderover><mo>∫</mo><mrow><mo>−</mo><mi>D</mi></mrow><mn>0</mn></munderover><mfrac><mrow><mtext> </mtext><mi>d</mi><mi>x</mi></mrow><msup><mrow><mo>(</mo><mi>d</mi><mo>−</mo><mi>x</mi><mo>)</mo></mrow><mn>2</mn></msup></mfrac></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"k lambda times the integral from negative uppercase D to uppercase D, of, the fraction with numerator d x, and denominator lowercase d minus x, close parenthesis, squared, end fraction\"><math alttext=\"k lambda times the integral from negative uppercase D to uppercase D, of, the fraction with numerator d x, and denominator lowercase d minus x, close parenthesis, squared, end fraction\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>k</mi><mi>λ</mi><munderover><mo>∫</mo><mrow><mo>−</mo><mi>D</mi></mrow><mi>D</mi></munderover><mfrac><mrow><mtext> </mtext><mi>d</mi><mi>x</mi></mrow><msup><mrow><mo>(</mo><mi>d</mi><mo>−</mo><mi>x</mi><mo>)</mo></mrow><mn>2</mn></msup></mfrac></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"2 k lambda times the integral from 0 to uppercase D, of, the fraction with numerator d x, and denominator, open parenthesis, lowercase d minus x, close parenthesis, squared, end fraction\"><math alttext=\"2 k lambda times the integral from 0 to uppercase D, of, the fraction with numerator d x, and denominator, open parenthesis, lowercase d minus x, close parenthesis, squared, end fraction\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mn>2</mn><mi>k</mi><mi>λ</mi><munderover><mo>∫</mo><mn>0</mn><mi>D</mi></munderover><mfrac><mrow><mtext> </mtext><mi>d</mi><mi>x</mi></mrow><msup><mrow><mo>(</mo><mi>d</mi><mo>−</mo><mi>x</mi><mo>)</mo></mrow><mn>2</mn></msup></mfrac></mstyle></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Electric Charges, Fields, and Gauss's Law"
+  },
+  "topic": {
+    "code": "8.4",
+    "text": "8.4: Electric Fields of Charge Distributions"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

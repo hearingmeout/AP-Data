@@ -1,0 +1,39 @@
+{
+  "id": "SWU000001",
+  "type": "mcq",
+  "title": "Multi-way selection discount - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What is printed as a result of executing this code segment?</p>",
+    "answer": "1717009284406.2498",
+    "choices": [
+      {
+        "value": "1717009284406.7202",
+        "label": "<pre><code class=\"language-plaintext\">25.0</code></pre>"
+      },
+      {
+        "value": "1717009284406.2498",
+        "label": "<pre><code class=\"language-plaintext\">23.0</code></pre>"
+      },
+      {
+        "value": "1717009284406.247",
+        "label": "<pre><code class=\"language-plaintext\">20.0</code></pre>"
+      },
+      {
+        "value": "1717009284406.7507",
+        "label": "<pre><code class=\"language-plaintext\">15.0</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Nested `if` Statements"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

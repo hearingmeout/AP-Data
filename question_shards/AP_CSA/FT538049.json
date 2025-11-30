@@ -1,0 +1,39 @@
+{
+  "id": "FT538049",
+  "type": "mcq",
+  "title": "TimeRecord array",
+  "content": {
+    "prompt": "<p>Consider the following declaration that appears in a class other than TimeRecord.</p>\n<p>TimeRecord [ ] timeCards = new TimeRecord [100] ;<br>\n<br>\nAssume that timeCards has been initialized with TimeRecord objects. Consider the following code segment that is intended to compute the total of all the times stored in timeCards.<br>\n&nbsp;</p>\n<p><img alt=\"A 5-line code segment reads as follows. Line 1: Time Record total equals new Time Record, open parenthesis, 0 comma 0, close parenthesis, semicolon. Line 2: for, open parenthesis, int k equals 0, semicolon, k less than time Cards, dot, length, semicolon, k, plus, plus, close parenthesis.\nLine 3: open brace. Line 4: forward slash, asterisk, missing expression, asterisk, forward slash, semicolon. Line 5: close brace.\" height=\"138\" src=\"/images/4841d4f82a3ab731445433a083f27e3b.jpg\" width=\"432\"></p>\n<p>Which of the following can be used to replace / * <em>missing expression</em> * / so that the code segment will work as intended?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i1",
+        "label": "<p>total += timeCards [ k ] .advance ( ) </p>"
+      },
+      {
+        "label": "<img alt=\"Option C shows a 2-line code segment that reads as follows. Line 1: total, dot, advance, open parenthesis, time Cards, open square bracket, k, close square bracket, dot, hours comma. Line 2: time Cards, open square bracket, k, close square bracket, dot, minutes, close parenthesis.\" height=\"51\" src=\"/images/5db27befe7b4f50b8af3049ccca30774.jpg\" width=\"327\">",
+        "value": "i2"
+      },
+      {
+        "label": "<img alt=\"Option D shows a 2-line code segment that reads as follows. Line 1: total, dot, advance, open parenthesis, time Cards, open square bracket, k, close square bracket, dot, get Hours, open parenthesis, close parenthesis, comma. Line 2: time Cards, open square bracket, k, close square bracket, dot, get Minutes, open parenthesis, close parenthesis, close parenthesis.\" height=\"58\" src=\"/images/b3020c9971384538f8a87eb18038fc28.jpg\" width=\"376\">",
+        "value": "i3"
+      },
+      {
+        "label": "<img alt=\"Option E shows a 2-line code segment that reads as follows. Line 1: time Cards, open square bracket, k, close square bracket, dot, advance, open parenthesis, time Cards, open square bracket, k, close square bracket, dot, get Hours, open parenthesis, close parenthesis, comma. Line 2: time Cards, open square bracket, k, close square bracket, dot, get Minutes, open parenthesis, close parenthesis, close parenthesis.\" height=\"60\" src=\"/images/9fa00bdff1b43b3a52ee4e7dfd354d4d.jpg\" width=\"431\">",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Method Signatures"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

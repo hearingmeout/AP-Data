@@ -1,0 +1,35 @@
+{
+  "id": "FT541327",
+  "type": "mcq",
+  "title": "Where the conversation takes place",
+  "content": {
+    "prompt": "<p>Where does the conversation most likely take place?</p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>On a downtown street</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>At the woman’s house</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>In a parking lot</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>In a train station</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Factors That Impact the Quality of Life"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Interpret the meaning of a text."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "WGM000002",
+  "type": "mcq",
+  "title": "While loop - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What is printed as a result of executing this code segment?</p>",
+    "answer": "01JEQGVP08H9WA0TN9WWT19ANX",
+    "choices": [
+      {
+        "value": "01JEQGVP06G4HXVXJDY3DWVRV7",
+        "label": "<pre><code class=\"language-plaintext\">2 4 5 </code></pre>"
+      },
+      {
+        "value": "01JEQGVP07EVYJD9BMWN7WM10V",
+        "label": "<pre><code class=\"language-plaintext\">4 5 </code></pre>"
+      },
+      {
+        "value": "01JEQGVP07QBDH6B07GMNBDTP6",
+        "label": "<pre><code class=\"language-plaintext\">5 4 </code></pre>"
+      },
+      {
+        "value": "01JEQGVP08H9WA0TN9WWT19ANX",
+        "label": "<pre><code class=\"language-plaintext\">5 4 2 </code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.9",
+    "text": "2.9: Implementing Selection and Iteration Algorithms"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

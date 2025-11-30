@@ -1,0 +1,39 @@
+{
+  "id": "FT577877",
+  "type": "mcq",
+  "title": "Loop equation long time after switch closed",
+  "content": {
+    "prompt": "<p>&nbsp;</p>\n<img alt=\"The figure presents a circuit with a battery, a closed switch, two resistors, and a capacitor. The left side of the circuit has a battery labeled script e. Moving up the left side and across the top of the circuit, there is a closed switch labeled S and a resistor labeled R sub 1. To the right of the resistor, the circuit splits into two vertical branches. The first branch has a resistor labeled R sub 2, and the second branch has a capacitor labeled C. \" height=\"98\" src=\"/images/98359c0ede3716d7ddf34c742d273eff.png\" width=\"250\">\n<p>The circuit shown above includes a battery, two resistors, and a capacitor with values as labeled. The current through the battery is I. Which of the following is a correct equation for potential differences in the circuit a long time after the switch is closed?</p>\n",
+    "answer": "i0",
+    "choices": [
+      {
+        "label": "<em>ε</em> − <em>IR</em><sub>1</sub> − <em>IR</em><sub>2</sub> = 0",
+        "value": "i0"
+      },
+      {
+        "label": "<em>ε</em> +<em> IR</em><sub>1</sub> +<em> IR</em><sub>2</sub> = 0",
+        "value": "i1"
+      },
+      {
+        "label": "<em>ε</em> − <em>IR</em><sub>1</sub> − <em>IR</em><sub>2</sub> − <em>Cε</em> = 0",
+        "value": "i2"
+      },
+      {
+        "label": "<em>ε </em>− <em>IR</em><sub>1</sub> − <em>IR</em><sub>2</sub> + <em>Cε</em> = 0",
+        "value": "i3"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.3",
+    "text": "11.3: Resistance, Resistivity, and Ohm's Law"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

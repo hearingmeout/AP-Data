@@ -1,0 +1,39 @@
+{
+  "id": "LLC000006",
+  "type": "mcq",
+  "title": "ArrayList algorithm - describe behavior",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following best describes the value assigned to&nbsp; <span class=\"dap_inline\">count</span>&nbsp; as a result of executing the code segment?</p>",
+    "answer": "01JGM1Q1SQ8QPSM8AYEYDRNY0N",
+    "choices": [
+      {
+        "value": "01JGM1Q1SQ1BGMQ81AJXMJN316",
+        "label": "<p class=\"dap_body\">The number of elements in&nbsp; <span class=\"dap_inline\">words</span> &nbsp;whose length is the same length as the first element</p>"
+      },
+      {
+        "value": "01JGM1Q1SQ8QPSM8AYEYDRNY0N",
+        "label": "<p class=\"dap_body\">The number of elements in&nbsp; <span class=\"dap_inline\">words</span> &nbsp;whose length is the same length as the element immediately preceding it</p>"
+      },
+      {
+        "value": "01JGM1Q1SQ8BF2TH4NC8ABQ3MR",
+        "label": "<p class=\"dap_body\">The number of elements in&nbsp; <span class=\"dap_inline\">words</span> &nbsp;whose value is equal to the first element</p>"
+      },
+      {
+        "value": "01JGM1Q1SP741FC4PP6H0ACDMX",
+        "label": "<p class=\"dap_body\">The number of elements in&nbsp; <span class=\"dap_inline\">words</span> &nbsp;whose value is equal to the element immediately preceding it</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.10",
+    "text": "4.10: Implementing `ArrayList` Algorithms"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

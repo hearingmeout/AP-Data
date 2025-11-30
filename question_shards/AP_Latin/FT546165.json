@@ -1,0 +1,43 @@
+{
+  "id": "FT546165",
+  "type": "mcq",
+  "title": "Representation of ball's motion after 2D collision",
+  "content": {
+    "prompt": "<p><img alt=\"Two figures labeled 1 and 2, respectively. Figure 1 shows two balls X and Y on a horizontal dashed line. A rightward arrow, labeled 10 meters per second, points from ball X toward ball Y. Figure 2 shows ball X on a ray, labeled 6 meters per second, drawn at an angle of 53 degrees above and from a horizontal dashed line.\" height=\"292\" src=\"/images/4355a9fbdac57af037cefc07d3bff74a.png\" width=\"500\"></p>\n\n<p>Two balls are on a frictionless horizontal tabletop. Ball <em>X</em> initially moves at 10 meters per second, as shown in Figure I above. It then collides elastically with identical ball <em>Y</em>, which is initially at rest. After the collision, ball <em>X</em> moves at 6 meters per second along a path at 53° to its original direction, as shown in Figure II above. Which of the following diagrams best represents the motion of ball <em>Y</em> after the collision?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<img alt=\"A diagram shows a ball, labeled v equals 0, on a horizontal dashed line.\" height=\"176\" src=\"/images/40dac145a4be75920d839c41120d115a.png\" width=\"280\">",
+        "value": "i0"
+      },
+      {
+        "label": "<img alt=\"A diagram shows a ball with a rightward arrow, labeled 10 meters per second, pointing from it and extending toward the right.\" height=\"188\" src=\"/images/2e39dbb9556a471b33005e712d919a12.png\" width=\"280\">",
+        "value": "i1"
+      },
+      {
+        "label": "<img alt=\"A diagram shows ball on a ray, labeled 4 meters per second, drawn at an angle of 37 degrees below and from a horizontal dashed line.\" height=\"217\" src=\"/images/d62620c096cb94e2c9c527b8b186b3d8.png\" width=\"280\">",
+        "value": "i2"
+      },
+      {
+        "label": "<img alt=\"A diagram shows ball on a ray, labeled 8 meters per second, drawn at an angle of 37 degrees below and from a horizontal dashed line.\" height=\"219\" src=\"/images/80b878391f8a5cc93e4be80268379197.png\" width=\"280\">",
+        "value": "i3"
+      },
+      {
+        "label": "<img alt=\"A diagram shows ball on a ray, labeled 8 meters per second, drawn at an angle of 53 degrees below and from a horizontal dashed line.\" height=\"239\" src=\"/images/0475021c2fce1b9ef8d81f87ad51629c.png\" width=\"280\">",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Linear Momentum"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Conservation of Linear Momentum"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Calculate or estimate an unknown quantity with units from known quantities, by selecting and following a logical computational pathway."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "VR023630",
+  "type": "mcq",
+  "title": "Three circuits with capacitors store charge",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"standalone_image\"><img alt=\"The figure presents three circuit diagrams, labeled X, Y, and Z. Each of the diagrams contain 3 capacitors and a battery. In circuit X, the top side contains 2 capacitors. Moving down the circuit, there are 2 horizontal branches. The first horizontal branch contains another capacitor, and the second horizontal branch contains a battery. In circuit Y, the top side contains 3 capacitors. The bottom side contains a battery. In circuit Z, the left side contains a battery. Moving to the right across the circuit, there are 3 vertical branches. Each of the three vertical branches contains a single capacitor.\" height=\"104\" src=\"/images/22d17e2139e28481db5383a3571d4c6f.png\" width=\"365\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">The figures above show three circuits, each containing the same battery and identical capacitors. Which circuit has the largest stored charge when it reaches steady state?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"X\"><math alttext=\"X\" overflow=\"scroll\"><mstyle><mrow><mtext>X</mtext></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"Y\"><math alttext=\"Y\" overflow=\"scroll\"><mstyle><mrow><mtext>Y</mtext></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"Z\"><math alttext=\"Z\" overflow=\"scroll\"><mstyle><mrow><mtext>Z</mtext></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">All three store the same charge.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Electric Force, Field, and Potential"
+  },
+  "topic": {
+    "code": "10.6",
+    "text": "10.6: Capacitors"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

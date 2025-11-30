@@ -1,0 +1,39 @@
+{
+  "id": "ABR000008",
+  "type": "mcq",
+  "title": "Parcel API Specification - describe behavior",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Based on the class specification, which of the following is a true statement about&nbsp; <span class=\"dap_inline\">Parcel</span>&nbsp; objects?</p>",
+    "answer": "01JCGTDFK9WJFQS47M3KACWNNN",
+    "choices": [
+      {
+        "value": "01JCGTDFK9WJFQS47M3KACWNNN",
+        "label": "<p class=\"dap_body\"><span class=\"dap_inline\">status</span>&nbsp; and&nbsp; <span class=\"dap_inline\">location</span>&nbsp; are attributes; &nbsp;<span class=\"dap_inline\">updateStatus</span>&nbsp; and&nbsp; <span class=\"dap_inline\">updateLocation</span>&nbsp; are behaviors.</p>"
+      },
+      {
+        "value": "01JCGTDFKA1N4HMPK8NM14VPHB",
+        "label": "<p class=\"dap_body\"><span class=\"dap_inline\">status</span>&nbsp; and&nbsp; <span class=\"dap_inline\">location</span>&nbsp; are behaviors; &nbsp;<span class=\"dap_inline\">updateStatus</span>&nbsp; and&nbsp; <span class=\"dap_inline\">updateLocation</span>&nbsp; are attributes.</p>"
+      },
+      {
+        "value": "01JCGTDFKA0T86DBAPA24SM897",
+        "label": "<p class=\"dap_body\"><span class=\"dap_inline\">status</span>&nbsp; and&nbsp; <span class=\"dap_inline\">updateStatus</span>&nbsp; are attributes; &nbsp;<span class=\"dap_inline\">location</span>&nbsp; and&nbsp; <span class=\"dap_inline\">updateLocation</span>&nbsp; are behaviors.</p>"
+      },
+      {
+        "value": "01JCGTDFKAJ4A3A1X384P7K891",
+        "label": "<p class=\"dap_body\"><span class=\"dap_inline\">status</span>&nbsp; and&nbsp; <span class=\"dap_inline\">updateStatus</span>&nbsp; are behaviors; &nbsp;<span class=\"dap_inline\">location</span>&nbsp; and&nbsp; <span class=\"dap_inline\">updateLocation</span>&nbsp; are attributes.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.7",
+    "text": "1.7: Application Program Interface (API) and Libraries"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

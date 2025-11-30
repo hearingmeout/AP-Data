@@ -1,0 +1,43 @@
+{
+  "id": "FT323",
+  "type": "mcq",
+  "title": "Particle motion - analysis of speed from position",
+  "content": {
+    "prompt": "<p>&nbsp;</p>\n\n<p>The position of a particle moving along a line is given by <em>s(t)</em> = 2<em>t</em><sup>3</sup> - 24<em>t</em><sup>2</sup> + 90<em>t</em> + 7 for <em>t</em> ≥ 0. For what values of <em>t</em> is the speed of the particle increasing?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "3 &lt; <em>t</em> &lt; 4 only",
+        "value": "i0"
+      },
+      {
+        "label": "<em>t</em> &gt; 4 only",
+        "value": "i1"
+      },
+      {
+        "label": "<em>t</em> &gt; 5 only",
+        "value": "i2"
+      },
+      {
+        "label": "0 &lt; <em>t</em> &lt; 3 and <em>t</em> &gt; 5",
+        "value": "i3"
+      },
+      {
+        "label": "3 &lt; <em>t</em> &lt; 4 and <em>t</em> &gt; 5",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Contextual Applications of Differentiation"
+  },
+  "topic": {
+    "code": "4.2",
+    "text": "4.2: Straight-Line Motion - Connecting Position, Velocity, and Acceleration"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

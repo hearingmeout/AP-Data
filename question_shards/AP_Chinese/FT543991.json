@@ -1,0 +1,35 @@
+{
+  "id": "FT543991",
+  "type": "mcq",
+  "title": "Change to the original plan",
+  "content": {
+    "prompt": "<p>What change does Liping want to make to the original plan?</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>To change it to a different activity</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>To change the location</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>To cancel it</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>To postpone it</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Families in Different Societies"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

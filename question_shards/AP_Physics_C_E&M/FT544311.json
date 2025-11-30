@@ -1,0 +1,43 @@
+{
+  "id": "FT544311",
+  "type": "mcq",
+  "title": "Nonresponse bias on results of survey",
+  "content": {
+    "prompt": "<p>Each person in a simple random sample of 2,000 received a survey, and 317 people returned their survey. How could nonresponse cause the results of the survey to be biased?</p>",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Those who did not respond reduced the sample size, and small samples have more bias than large samples.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Those who did not respond caused a violation of the assumption of independence.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Those who did not respond were indistinguishable from those who did not receive the survey.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Those who did not respond represent a stratum, changing the simple random sample into a stratified random sample.</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>Those who did respond may differ in some important way from those who did not respond.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Collecting Data"
+  },
+  "topic": {
+    "code": "3.4",
+    "text": "3.4: Potential Problems with Sampling"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Describe an appropriate method for gathering and representing data."
+  }
+}

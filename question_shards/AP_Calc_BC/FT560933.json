@@ -1,0 +1,43 @@
+{
+  "id": "FT560933",
+  "type": "mcq",
+  "title": "Riemann sum with table",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows a table with 2 rows and 8 columns.  The first column contains the labels, from top to bottom, x, and f of x. From top to bottom and left to right, the data are as follows: Row 1: 0, 1, 2, 3, 4, 5, 6 Row 2: 0, 5, 2, negative 1, negative 2, 0, 3\" height=\"99\" src=\"/images/ce02e4eeea5616728f7329d0b3c0e5c3.png\" width=\"465\"></p>\n\n<p>The function f is continuous on the closed interval [0, 6] and has values as shown in the table above. Using the intervals [0,2], [2,4], and [4,6], what is the approximation of <span aria-label=\"the integral from 0 to 6 of f x d x\"><math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>6</mn> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mtext> </mtext><mi>d</mi><mi>x</mi></mrow> </math></span> obtained from a midpoint Riemann sum?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>0</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>3</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>4</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>6</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>8</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.2",
+    "text": "6.2: Approximating Areas with Riemann Sums"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Explain how an approximated value relates to the actual value."
+  }
+}

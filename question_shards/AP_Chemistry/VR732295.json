@@ -1,0 +1,39 @@
+{
+  "id": "VR732295",
+  "type": "mcq",
+  "title": "Rank Internuclear Distances",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR732294.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">Which of the following correctly ranks the internuclear distances for the <span class=\"math_expression\"><span aria-label=\"H 2\"><math alttext=\"H 2\" overflow=\"scroll\"><msub><mtext>H</mtext><mn>2</mn></msub></math></span></span>, <span class=\"math_expression\"><span aria-label=\"C l 2\"><math alttext=\"C l 2\" overflow=\"scroll\"><msub><mtext>Cl</mtext><mn>2</mn></msub></math></span></span>, and <span class=\"math_expression\"><span aria-label=\"H C l\"><math alttext=\"H C l\" overflow=\"scroll\"><mtext>HCl</mtext></math></span></span> molecules from shortest to longest?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"H 2 is less than C l 2, which is less than H C l\"><math alttext=\"H 2 is less than C l 2, which is less than H C l\" overflow=\"scroll\"><msub><mtext>H</mtext><mn>2</mn></msub><mo>&lt;</mo><msub><mi>Cl</mi><mn>2</mn></msub><mo>&lt;</mo><mtext>HCl</mtext></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"H 2 is less than H C l, which is less than C l 2\"><math alttext=\"H 2 is less than H C l, which is less than C l 2\" overflow=\"scroll\"><msub><mtext>H</mtext><mn>2</mn></msub><mo>&lt;</mo><mtext>HCl</mtext><mo>&lt;</mo><msub><mi>Cl</mi><mn>2</mn></msub></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"C l 2 is less than H C l, which is less than H 2\"><math alttext=\"C l 2 is less than H C l, which is less than H 2\" overflow=\"scroll\"><msub><mtext>Cl</mtext><mn>2</mn></msub><mo>&lt;</mo><mtext>HCl</mtext><mo>&lt;</mo><msub><mtext>H</mtext><mn>2</mn></msub></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"C l 2 is less than H 2, which is less than H C l\"><math alttext=\"C l 2 is less than H 2, which is less than H C l\" overflow=\"scroll\"><msub><mtext>Cl</mtext><mn>2</mn></msub><mo>&lt;</mo><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mo>&lt;</mo><mtext>HCl</mtext></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Compound Structure and Properties"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Intramolecular Force and Potential Energy"
+  },
+  "skill": {
+    "code": "6.A",
+    "text": "6.A: Make a scientific claim."
+  }
+}

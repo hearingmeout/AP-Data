@@ -1,0 +1,39 @@
+{
+  "id": "HCD000005",
+  "type": "mcq",
+  "title": "Nested loops that print 6 - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following can be used to replace &nbsp;<code class=\"dap_inline\">/* missing loop header */</code>&nbsp; so that the code segment prints &nbsp;<code class=\"dap_inline\">6</code>?</p>",
+    "answer": "01JSDXK2KJFFCQTXT7EY400JGA",
+    "choices": [
+      {
+        "value": "01JSDWVE0QHBN36TCEWENB4C5S",
+        "label": "<pre><code class=\"language-plaintext\">for (int y = 0; y &lt;= 2; y++)</code></pre>"
+      },
+      {
+        "value": "01JSDWVE0Q349GKVF2WFGJ4RTS",
+        "label": "<pre><code class=\"language-plaintext\">for (int y = 0; y &lt; 3; y++)</code></pre>"
+      },
+      {
+        "value": "01JSDWVE0QYYCD3CSE3NVT7VK1",
+        "label": "<pre><code class=\"language-plaintext\">for (int y = 3; y &lt;= x; y++)</code></pre>"
+      },
+      {
+        "value": "01JSDXK2KJFFCQTXT7EY400JGA",
+        "label": "<pre><code class=\"language-plaintext\">for (int y = 0; y &lt; x; y++)</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.11",
+    "text": "2.11: Nested Iteration"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

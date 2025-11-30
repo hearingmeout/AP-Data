@@ -1,0 +1,39 @@
+{
+  "id": "VH919968",
+  "type": "mcq",
+  "title": "getScore accessor",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Consider the following class definition. The class does not compile.</p><div class=\"standalone_code style:1\"><p class=\"code_line indent:0\">public class Player</p><p class=\"code_line indent:0\">{</p><p class=\"code_line indent:3\">private double score;</p><p class=\"code_line indent:0\"></p><p class=\"code_line indent:3\">public getScore()</p><p class=\"code_line indent:3\">{</p><p class=\"code_line indent:6\">return score;</p><p class=\"code_line indent:3\">}</p><p class=\"code_line\"></p><p class=\"code_line indent:3\">// Constructor not shown</p><p class=\"code_line indent:0\">}</p></div><p class=\"stem_paragraph\">The accessor method <span class=\"inline_code\">getScore</span> is intended to return the score of a <span class=\"inline_code\">Player</span> object. Which of the following best explains why the class does not compile?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The <span class=\"inline_code\">getScore</span> method should be declared as <span class=\"inline_code\">private</span>.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The <span class=\"inline_code\">getScore</span> method requires a parameter.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The return type of the <span class=\"inline_code\">getScore</span> method needs to be defined as <span class=\"inline_code\">double</span>.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The return type of the <span class=\"inline_code\">getScore</span> method needs to be defined as <span class=\"inline_code\">void</span>.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Method Signatures"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

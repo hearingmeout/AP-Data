@@ -1,0 +1,43 @@
+{
+  "id": "FT560859",
+  "type": "mcq",
+  "title": "Behavior of function from graph of derivative",
+  "content": {
+    "prompt": "<p><img alt=\"A graph shows a piecewise continuous curve, f prime. The x-axis ranges from negative 1 through 4. The curve rises in quadrant 3 with a concave upward trend and touches the origin. It then rises in quadrant 1, first with a concave downward trend, and then with a concave upward trend. It rises to a point with the value 2 on the x-axis and a positive value on the y-axis. Finally, it dips to the value 4 on the x-axis.\" height=\"248\" src=\"/images/206f59e2715dfc77fd27584071fadc8e.png\" width=\"655\"></p>\n\n<p>The graph of <em>f'</em>, the derivative of <em>f</em>, is shown above. The line tangent to the graph of <em>f' </em>at <em>x = 0</em> is vertical, and<em> f'</em> is not differentiable at <em>x = 2.</em> Which of the following statements is true?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p><em>f'</em> does not exist at <em>x =  2</em></p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><em>f</em> is decreasing on the interval (2, 4).</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The graph of f has a point of inflection at <em>x = 2.</em></p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The graph of <em>f</em> has a point of inflection at <em>x = 0</em>. </p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p><em>f</em> has a local maximum at <em>x = 0</em>. </p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.9",
+    "text": "5.9: Connecting a Function, Its First Derivative, and Its Second Derivative"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Identify how mathematical characteristics or properties of functions are related in different representations."
+  }
+}

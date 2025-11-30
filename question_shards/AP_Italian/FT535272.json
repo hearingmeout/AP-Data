@@ -1,0 +1,35 @@
+{
+  "id": "FT535272",
+  "type": "mcq",
+  "title": "A cook's advice - inference",
+  "content": {
+    "prompt": "<p>Secondo il cuoco, per preparare un buon piatto di spaghetti una persona deve</p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>avere tanto tempo</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>seguire una ricetta semplice</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>lavorare in una cucina grande</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>avere molta esperienza</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Factors That Impact the Quality of Life"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

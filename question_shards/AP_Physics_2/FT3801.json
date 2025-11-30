@@ -1,0 +1,43 @@
+{
+  "id": "FT3801",
+  "type": "mcq",
+  "title": "Explain equivalent capacitance in parallel",
+  "content": {
+    "prompt": "<p>The total capacitance of several capacitors in parallel is the sum of the individual capacitances for which of the following reasons?</p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The charge on each capacitor depends on its capacitance, but the potential difference across each is the same.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The charge is the same on each capacitor, but the potential difference across each capacitor depends on its capacitance.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Equivalent capacitance is always greater than the largest capacitance.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Capacitors in a circuit always combine like resistors in series.</p>"
+      },
+      {
+        "label": "The parallel combination increases the effective separation of the plates.",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.6",
+    "text": "11.6: Kirchhoff's Loop Rule"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

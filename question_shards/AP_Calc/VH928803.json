@@ -1,0 +1,39 @@
+{
+  "id": "VH928803",
+  "type": "mcq",
+  "title": "Processes - Parametric Eq - Arc Length",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">A curve is defined by the parametric equations <span class=\"math_expression\"><span aria-label=\"x of t, equals, a, t\"><math alttext=\"x of t, equals, a, t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mi>a</mi><mi>t</mi></mrow></mstyle></math></span></span> and <span class=\"math_expression\"><span aria-label=\"y of t, equals, b t\"><math alttext=\"y of t, equals, b t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mi>b</mi><mi>t</mi></mrow></mstyle></math></span></span>, where <span class=\"math_expression\"><span aria-label=\"a\"><math alttext=\"a\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>a</mi></mrow></mstyle></math></span></span> and <span class=\"math_expression\"><span aria-label=\"b\"><math alttext=\"b\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>b</mi></mrow></mstyle></math></span></span> are constants. What is the length of the curve from <span class=\"math_expression\"><span aria-label=\"t equals 0\"><math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>0</mn></mrow></mstyle></math></span></span> to <span class=\"math_expression\"><span aria-label=\"t equals 1\"><math alttext=\"t equals 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>1</mn></mrow></mstyle></math></span></span> ?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the square root of a, plus b, end root\"><math alttext=\"the square root of a, plus b, end root\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msqrt><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow></msqrt></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator 2, times the square root of a, plus b, end root, and denominator 3\"><math alttext=\"the fraction with numerator 2, times the square root of a, plus b, end root, and denominator 3\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>2</mn><msqrt><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow></msqrt></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the square root of a, squared, plus b squared, end root\"><math alttext=\"the square root of a, squared, plus b squared, end root\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msqrt><mrow><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></msqrt></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator the square root of a, squared, plus b squared, end root, and denominator 2\"><math alttext=\"the fraction with numerator the square root of a, squared, plus b squared, end root, and denominator 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><msqrt><mrow><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></msqrt></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Parametric Equations, Polar Coordinates, and Vector-Valued Functions"
+  },
+  "topic": {
+    "code": "9.3",
+    "text": "9.3: (BC ONLY) Finding Arc Lengths of Curves Given by Parametric Equations"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

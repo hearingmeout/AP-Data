@@ -1,0 +1,35 @@
+{
+  "id": "FT541104",
+  "type": "mcq",
+  "title": "Expected weather along the Japan Sea coast",
+  "content": {
+    "prompt": "<p>What kind of weather is expected along the Japan Sea coast?</p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Rainy</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Snowy</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Sunny</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Windy</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: How Science and Technology Affect Our Lives"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Make connections among cultural and interdisciplinary information provided in texts."
+  }
+}

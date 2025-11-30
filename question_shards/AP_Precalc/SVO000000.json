@@ -1,0 +1,39 @@
+{
+  "id": "SVO000000",
+  "type": "mcq",
+  "title": "Trigonometric Equations - moose population",
+  "content": {
+    "prompt": "<div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <p class=\"dap_body\">​The number of moose in a park is modeled by the sinusoidal function&nbsp;<span aria-label=\"M\"><math alttext=\"M\"><semantics><mi>M</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;given by&nbsp;<span aria-label=\"M open parentheses t close parentheses equals 174 plus 150 sin open parentheses fraction numerator 2 pi over denominator 365 end fraction t close parentheses\"><math alttext=\"M open parentheses t close parentheses equals 174 plus 150 sin open parentheses fraction numerator 2 pi over denominator 365 end fraction t close parentheses\"><semantics><mrow><mi>M</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>174</mn><mo>+</mo><mn>150</mn><mi>sin</mi><mfenced><mrow><mfrac><mrow><mn>2</mn><mi>π</mi></mrow><mn>365</mn></mfrac><mi>t</mi></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>,&nbsp;where&nbsp;<span aria-label=\"t\"><math alttext=\"t\"><semantics><mi>t</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;is the number of days since January&nbsp;<span aria-label=\"1\"><math alttext=\"1\"><semantics><mn>1</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>. Which of the following statements is true?</p> </div> </div> </div>\n",
+    "answer": "B-17098",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\">​​<span aria-label=\"M\"><math alttext=\"M\"><semantics><mi>M</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;is decreasing on the interval&nbsp;<span aria-label=\"0 less than t less than 182\"><math alttext=\"0 less than t less than 182\"><semantics><mrow><mn>0</mn><mo>&lt;</mo><mi>t</mi><mo>&lt;</mo><mn>182</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>.</p>",
+        "value": "A-17097"
+      },
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"M\"><math alttext=\"M\"><semantics><mi>M</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;is decreasing on the interval&nbsp;<span aria-label=\"92 less than t less than 273\"><math alttext=\"92 less than t less than 273\"><semantics><mrow><mn>92</mn><mo>&lt;</mo><mi>t</mi><mo>&lt;</mo><mn>273</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>.</p>",
+        "value": "B-17098"
+      },
+      {
+        "label": "<p class=\"dap_body\">​​<span aria-label=\"M\"><math alttext=\"M\"><semantics><mi>M</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;is decreasing on the interval&nbsp;<span aria-label=\"183 less than t less than 365\"><math alttext=\"183 less than t less than 365\"><semantics><mrow><mn>183</mn><mo>&lt;</mo><mi>t</mi><mo>&lt;</mo><mn>365</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>.</p>",
+        "value": "C-17099"
+      },
+      {
+        "label": "<p class=\"dap_body\">​​<span aria-label=\"M\"><math alttext=\"M\"><semantics><mi>M</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;is decreasing on the intervals&nbsp;<span aria-label=\"0 less than t less than 91\"><math alttext=\"0 less than t less than 91\"><semantics><mrow><mn>0</mn><mo>&lt;</mo><mi>t</mi><mo>&lt;</mo><mn>91</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;and&nbsp;<span aria-label=\"274 less than t less than 365\"><math alttext=\"274 less than t less than 365\"><semantics><mrow><mn>274</mn><mo>&lt;</mo><mi>t</mi><mo>&lt;</mo><mn>365</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>.</p>",
+        "value": "D-17100"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Trigonometric and Polar Functions"
+  },
+  "topic": {
+    "code": "3.10",
+    "text": "3.10: Trigonometric Equations and Inequalities"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Apply numerical results in a given mathematical or applied context."
+  }
+}

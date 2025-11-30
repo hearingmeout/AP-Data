@@ -1,0 +1,39 @@
+{
+  "id": "VR080822",
+  "type": "mcq",
+  "title": "Percent Change Wind Power Production",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR080821.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">Based on the data in the graph, which of the following methods would be used to calculate the percent change of wind energy generated from 2010 to 2015 ?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction 200 kilowatt hours minus 100 kilowatt hours over 2015 minus 2010, end fraction, times 100\"><math alttext=\"the fraction 200 kilowatt hours minus 100 kilowatt hours over 2015 minus 2010, end fraction, times 100\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mrow><mo>(</mo><mn>200</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mtext>k</mtext><mtext>Wh</mtext><mo>−</mo><mn>100</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mtext>k</mtext><mtext>Wh</mtext><mo>)</mo></mrow><mstyle mathvariant=\"normal\"><mrow><mo>⁢</mo></mrow></mstyle></mrow><mrow><mo>(</mo><mn>2015</mn><mo>−</mo><mn>2010</mn><mo>)</mo></mrow></mfrac><mo>×</mo><mn>100</mn></mrow></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction 200 kilowatt hours minus 100 kilowatt hours over 100 kilowatt hours, end fraction, times 100\"><math alttext=\"the fraction 200 kilowatt hours minus 100 kilowatt hours over 100 kilowatt hours, end fraction, times 100\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mrow><mo>(</mo><mn>200</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mtext>k</mtext><mtext>Wh</mtext><mo>−</mo><mn>100</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mtext>k</mtext><mtext>Wh</mtext><mo>)</mo></mrow><mstyle mathvariant=\"normal\"><mrow><mo>⁢</mo></mrow></mstyle></mrow><mrow><mo>(</mo><mn>100</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mtext>k</mtext><mtext>Wh</mtext><mo>)</mo></mrow></mfrac><mo>×</mo><mn>100</mn></mrow></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction 2015 minus 2010 over 200 kilowatt hours minus 100 kilowatt hours, end fraction, times 100\"><math alttext=\"the fraction 2015 minus 2010 over 200 kilowatt hours minus 100 kilowatt hours, end fraction, times 100\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mrow><mo>(</mo><mn>2015</mn><mo>−</mo><mn>2010</mn><mo>)</mo></mrow><mstyle mathvariant=\"normal\"><mrow><mo>⁢</mo></mrow></mstyle></mrow><mrow><mo>(</mo><mn>200</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mtext>k</mtext><mtext>Wh</mtext><mo>−</mo><mn>100</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mtext>k</mtext><mtext>Wh</mtext><mo>)</mo></mrow></mfrac><mo>×</mo><mn>100</mn></mrow></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction 200 kilowatt hours over 2015, end fraction, minus the fraction 100 kilowatt hours over 2010, end fraction, times 100\"><math alttext=\"the fraction 200 kilowatt hours over 2015, end fraction, minus the fraction 100 kilowatt hours over 2010, end fraction, times 100\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mn>200</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mtext>k</mtext><mtext>Wh</mtext></mrow><mrow><mn>2015</mn></mrow></mfrac><mo>−</mo><mfrac><mrow><mn>100</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mtext>k</mtext><mtext>Wh</mtext></mrow><mrow><mn>2010</mn></mrow></mfrac><mo>×</mo><mn>100</mn></mrow></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Energy Resources and Consumption"
+  },
+  "topic": {
+    "code": "6.2",
+    "text": "6.2: Global Energy Consumption"
+  },
+  "skill": {
+    "code": "Skill 6.A",
+    "text": "Skill 6.A: Determine an approach or method aligned with the problem to be solved."
+  }
+}

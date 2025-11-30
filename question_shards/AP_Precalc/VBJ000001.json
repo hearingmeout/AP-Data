@@ -1,0 +1,39 @@
+{
+  "id": "VBJ000001",
+  "type": "mcq",
+  "title": "Particle Motion - extrema",
+  "content": {
+    "prompt": "<div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <p class=\"dap_body\">The position of a particle moving in the&nbsp;<span aria-label=\"x y\"><math alttext=\"x y\"><mi>x</mi><mi>y</mi></math></span>-plane is given by the parametric function&nbsp;<span aria-label=\"f open parentheses t close parentheses equals open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses\"><math alttext=\"f open parentheses t close parentheses equals open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses\"><mi>f</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced></math></span>, where&nbsp;<span aria-label=\"x open parentheses t close parentheses equals 2 plus 3 cos t\"><math alttext=\"x open parentheses t close parentheses equals 2 plus 3 cos t\"><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>2</mn><mo>+</mo><mn>3</mn><mi>cos</mi><mi>t</mi></math></span>&nbsp;and&nbsp;<span aria-label=\"y open parentheses t close parentheses equals 2 plus 5 sin t\"><math alttext=\"y open parentheses t close parentheses equals 2 plus 5 sin t\"><mi>y</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>2</mn><mo>+</mo><mn>5</mn><mi>sin</mi><mi>t</mi></math></span>&nbsp;for&nbsp;<span aria-label=\"0 less or equal than t less or equal than 2 pi\"><math alttext=\"0 less or equal than t less or equal than 2 pi\"><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>2</mn><mi>π</mi></math></span>&nbsp;seconds. Which of the following describes the position of the particle at time&nbsp;<span aria-label=\"t equals pi\"><math alttext=\"t equals pi\"><mi>t</mi><mo>=</mo><mi>π</mi></math></span>&nbsp;seconds?</p> </div> </div> </div>\n",
+    "answer": "B-68707",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\">The particle is farthest right at time&nbsp;<span aria-label=\"t equals pi\"><math alttext=\"t equals pi\"><mi>t</mi><mo>=</mo><mi>π</mi></math></span>&nbsp;seconds.</p>",
+        "value": "A-68706"
+      },
+      {
+        "label": "<p class=\"dap_body\">The particle is farthest left at time&nbsp;<span aria-label=\"t equals pi\"><math alttext=\"t equals pi\"><mi>t</mi><mo>=</mo><mi>π</mi></math></span>&nbsp;seconds.</p>",
+        "value": "B-68707"
+      },
+      {
+        "label": "<p class=\"dap_body\">The particle is farthest up at time&nbsp;<span aria-label=\"t equals pi\"><math alttext=\"t equals pi\"><mi>t</mi><mo>=</mo><mi>π</mi></math></span>&nbsp;seconds.</p>",
+        "value": "C-68708"
+      },
+      {
+        "label": "<p class=\"dap_body\">The particle is farthest down at time&nbsp;<span aria-label=\"t equals pi\"><math alttext=\"t equals pi\"><mi>t</mi><mo>=</mo><mi>π</mi></math></span>&nbsp;seconds.</p>",
+        "value": "D-68709"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.2",
+    "text": "4.2: Parametric Functions Modeling Planar Motion"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Describe the characteristics of a function with varying levels of precision, depending on the function representation and available mathematical tools."
+  }
+}

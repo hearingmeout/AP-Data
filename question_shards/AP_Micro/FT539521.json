@@ -1,0 +1,43 @@
+{
+  "id": "FT539521",
+  "type": "mcq",
+  "title": "Identify tax revenue on graph",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows a graph with the horizontal axis labeled Quantity and the vertical axis labeled Price. There are 3 points on the horizontal axis labeled, from left to right, Q 1, Q 2, and Q 3. There are 4 points on the vertical axis labeled, from bottom to top, P 1, P2, P 3, and P 4. The origin is labeled zero. There are 3 solid straight lines on the graph. One solid straight line, labeled Demand, begins toward the top left of the graph and slopes down and to the right. The second solid straight line is labeled S, begins toward the bottom left of the graph, and slopes up and to the right. Line S intersects line Demand at point U with coordinates Q 3 and P 2. The third solid straight line is labeled S 1 and is always above line S and parallel to it. Line S 1 begins toward the bottom left of the graph and slopes up and to the right. Line S 1intersects line Demand at point V with coordinates Q 2 and P 3. There are 4 additional points on the graph. Point T lies on line S with coordinates Q 2 and P 1. Point Z lies on line S 1 with coordinates Q 1 and P 2. Point X lies on line S 1 with coordinates Q 3 and P 4. Point R lies on line Demand with coordinates Q 1 and P 4. \" src=\"/images/ce6533d5b824dc1e184c6e8f318ff1e6.jpg\"></p><p>In the graph above, S is the original supply curve, and S<sub>1</sub> is the supply curve including an excise tax. The area representing the tax revenue to the government is</p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>P<sub>1</sub>P<sub>3</sub>V<sub>T</sub> </p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>P<sub>2</sub>P<sub>4</sub>RZ </p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>P<sub>2</sub>P<sub>4</sub>XU </p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>P<sub>2</sub>UQ<sub>3</sub>0 </p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>P<sub>3</sub>VQ<sub>2</sub>0 </p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Supply and Demand"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: The Effects of Government Intervention in Markets"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Determine the outcome of an economic situation using economic concepts, principles, or models."
+  }
+}

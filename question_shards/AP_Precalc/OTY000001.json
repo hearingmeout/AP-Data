@@ -1,0 +1,39 @@
+{
+  "id": "OTY000001",
+  "type": "mcq",
+  "title": "Matrix determinant - area of triangle",
+  "content": {
+    "prompt": "<div><div class=\"long_descriptions_container\"></div></div><div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <div class=\"standalone_image qti-align-center\"><img alt=\"Graph of a triangle in the x y plane with the origin labeled O. Refer to long description.\" aria-describedby=\"LDC-OTY000001_01\" src=\"/images/305bf37197728f172b5335b5fa0570cf.svg\"><div aria-label=\"Long description for triangle in the coordinate plane\" class=\"sr-only qti-visually-hidden\" id=\"LDC-OTY000001_01\" role=\"region\"><p class=\"dap_body\">A grid with no labeled scale for the axes is shown. One vertex of the triangle is at the origin. The other two vertices are at the points (2 comma 3) and (2 comma 0).</p></div></div><p class=\"dap_body\">&nbsp;</p><p class=\"dap_body\">The figure shows a triangle and the location of its vertices in the&nbsp;<span aria-label=\"x y\"><math alttext=\"x y\"><mi>x</mi><mi>y</mi></math></span>-plane. The area of the triangle is&nbsp;<span aria-label=\"p\"><math alttext=\"p\"><mi>p</mi></math></span>&nbsp;square units. Matrix&nbsp;<span aria-label=\"A\"><math alttext=\"A\"><mi>A</mi></math></span>&nbsp;is given by&nbsp;<span aria-label=\"A equals a 2 by 2 matrix with row 1 column 1 value 2, row 1 column 2 value 2, row 2 column 1 value 0, row 2 column 2 value 3\"><math alttext=\"A equals a 2 by 2 matrix with row 1 column 1 value 2, row 1 column 2 value 2, row 2 column 1 value 0, row 2 column 2 value 3\"><mi>A</mi><mo>=</mo><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>2</mn></mtd><mtd><mn>2</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>3</mn></mtd></mtr></mtable></mfenced></math></span>. If &nbsp;<span aria-label=\"c equals 1 half open vertical bar d e t open parentheses A close parentheses close vertical bar\"><math alttext=\"c equals 1 half open vertical bar d e t open parentheses A close parentheses close vertical bar\"><mi>c</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced close=\"|\" open=\"|\"><mrow><mtext>det</mtext><mfenced><mi>A</mi></mfenced></mrow></mfenced></math></span>, what is the relationship between the value of&nbsp;<span aria-label=\"p\"><math alttext=\"p\"><mi>p</mi></math></span>&nbsp;and the value of&nbsp;<span aria-label=\"c\"><math alttext=\"c\"><mi>c</mi></math></span>&nbsp;?</p> </div> </div> </div>\n",
+    "answer": "C-49910",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"c equals 1 over p\"><math alttext=\"c equals 1 over p\"><mi>c</mi><mo>=</mo><mfrac><mn>1</mn><mi>p</mi></mfrac></math></span></p>",
+        "value": "A-49908"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"c equals 1 half p\"><math alttext=\"c equals 1 half p\"><mi>c</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>p</mi></math></span></p>",
+        "value": "B-49909"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"c equals p\"><math alttext=\"c equals p\"><mi>c</mi><mo>=</mo><mi>p</mi></math></span></p>",
+        "value": "C-49910"
+      },
+      {
+        "label": "<p class=\"dap_body\"><span aria-label=\"c equals 2 p\"><math alttext=\"c equals 2 p\"><mi>c</mi><mo>=</mo><mn>2</mn><mi>p</mi></math></span></p>",
+        "value": "D-49911"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.11",
+    "text": "4.11: The Inverse and Determinant of a Matrix"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Apply numerical results in a given mathematical or applied context."
+  }
+}

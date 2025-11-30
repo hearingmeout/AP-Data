@@ -1,0 +1,39 @@
+{
+  "id": "LAS000000",
+  "type": "mcq",
+  "title": "Polynomial Zeros - finding possible linear factors",
+  "content": {
+    "prompt": "<div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <p class=\"dap_body\">​The polynomial function is given by&nbsp;<span aria-label=\"p open parentheses x close parentheses equals open parentheses x minus 3 close parentheses to the power of 7 open parentheses x plus 2 close parentheses to the power of 5 open parentheses x squared plus a x plus 9 close parentheses\"><math alttext=\"p open parentheses x close parentheses equals open parentheses x minus 3 close parentheses to the power of 7 open parentheses x plus 2 close parentheses to the power of 5 open parentheses x squared plus a x plus 9 close parentheses\"><mi>p</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mfenced><mrow><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfenced><mn>7</mn></msup><msup><mfenced><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfenced><mn>5</mn></msup><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>a</mi><mi>x</mi><mo>+</mo><mn>9</mn></mrow></mfenced></math></span>, where&nbsp;<span aria-label=\"a\"><math alttext=\"a\"><mi>a</mi></math></span>&nbsp;is an integer. For&nbsp;<span aria-label=\"p\"><math alttext=\"p\"><mi>p</mi></math></span>, which of the following statements is true about the multiplicity of the zero&nbsp;<span aria-label=\"x equals 3\"><math alttext=\"x equals 3\"><mi>x</mi><mo>=</mo><mn>3</mn></math></span>&nbsp;?</p> </div> </div> </div>\n",
+    "answer": "D-71239",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\">​The multiplicity must be&nbsp;<span aria-label=\"7\"><math alttext=\"7\"><mn>7</mn></math></span>,&nbsp;because the exponent on the factor&nbsp;<span aria-label=\"open parentheses x minus 3 close parentheses\"><math alttext=\"open parentheses x minus 3 close parentheses\"><mfenced><mrow><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfenced></math></span>&nbsp;is&nbsp;<span aria-label=\"7\"><math alttext=\"7\"><mn>7</mn></math></span>.</p>",
+        "value": "A-71236"
+      },
+      {
+        "label": "<p class=\"dap_body\">​The multiplicity can be&nbsp;<span aria-label=\"8\"><math alttext=\"8\"><mn>8</mn></math></span>,&nbsp;because the exponent on the factor&nbsp;<span aria-label=\"open parentheses x minus 3 close parentheses\"><math alttext=\"open parentheses x minus 3 close parentheses\"><mfenced><mrow><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfenced></math></span>&nbsp;is&nbsp;<span aria-label=\"7\"><math alttext=\"7\"><mn>7</mn></math></span>, and&nbsp;<span aria-label=\"x equals 3\"><math alttext=\"x equals 3\"><mi>x</mi><mo>=</mo><mn>3</mn></math></span>&nbsp;is a zero of&nbsp;<span aria-label=\"open parentheses x squared plus 0 x plus 9 close parentheses\"><math alttext=\"open parentheses x squared plus 0 x plus 9 close parentheses\"><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>0</mn><mi>x</mi><mo>+</mo><mn>9</mn></mrow></mfenced></math></span>&nbsp;with multiplicity&nbsp;<span aria-label=\"1\"><math alttext=\"1\"><mn>1</mn></math></span>.</p>",
+        "value": "B-71237"
+      },
+      {
+        "label": "<p class=\"dap_body\">​The multiplicity&nbsp;can be&nbsp;<span aria-label=\"9\"><math alttext=\"9\"><mn>9</mn></math></span>,&nbsp;because the exponent on the factor&nbsp;<span aria-label=\"open parentheses x minus 3 close parentheses\"><math alttext=\"open parentheses x minus 3 close parentheses\"><mfenced><mrow><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfenced></math></span>&nbsp;is&nbsp;<span aria-label=\"7\"><math alttext=\"7\"><mn>7</mn></math></span>,&nbsp;and&nbsp;<span aria-label=\"x equals 3\"><math alttext=\"x equals 3\"><mi>x</mi><mo>=</mo><mn>3</mn></math></span>&nbsp;is a zero of&nbsp;<span aria-label=\"open parentheses x squared plus 6 x plus 9 close parentheses\"><math alttext=\"open parentheses x squared plus 6 x plus 9 close parentheses\"><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><mi>x</mi><mo>+</mo><mn>9</mn></mrow></mfenced></math></span>&nbsp;with multiplicity&nbsp;<span aria-label=\"2\"><math alttext=\"2\"><mn>2</mn></math></span>.&nbsp;</p>",
+        "value": "C-71238"
+      },
+      {
+        "label": "<p class=\"dap_body\">​The multiplicity&nbsp;can be&nbsp;<span aria-label=\"9\"><math alttext=\"9\"><mn>9</mn></math></span>,&nbsp;because the exponent on the factor&nbsp;<span aria-label=\"open parentheses x minus 3 close parentheses\"><math alttext=\"open parentheses x minus 3 close parentheses\"><mfenced><mrow><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfenced></math></span>&nbsp;is&nbsp;<span aria-label=\"7\"><math alttext=\"7\"><mn>7</mn></math></span>,&nbsp;and&nbsp;<span aria-label=\"x equals 3\"><math alttext=\"x equals 3\"><mi>x</mi><mo>=</mo><mn>3</mn></math></span>&nbsp;is a zero of&nbsp;<span aria-label=\"open parentheses x squared minus 6 x plus 9 close parentheses\"><math alttext=\"open parentheses x squared minus 6 x plus 9 close parentheses\"><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>6</mn><mi>x</mi><mo>+</mo><mn>9</mn></mrow></mfenced></math></span>&nbsp;with multiplicity&nbsp;<span aria-label=\"2\"><math alttext=\"2\"><mn>2</mn></math></span>.</p>",
+        "value": "D-71239"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Polynomial and Rational Functions"
+  },
+  "topic": {
+    "code": "1.5",
+    "text": "1.5: Polynomial Functions and Complex Zeros"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Support conclusions or choices with a logical rationale or appropriate data."
+  }
+}

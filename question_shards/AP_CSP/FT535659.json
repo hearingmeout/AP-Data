@@ -1,0 +1,35 @@
+{
+  "id": "FT535659",
+  "type": "mcq",
+  "title": "Detecting errors in code to sum values in a list",
+  "content": {
+    "prompt": "<p>A programmer wrote the program below. The program uses a list of numbers called <em>numList</em>. The program is intended to display the sum of the numbers in the list.</p><p><img alt=\"A segment of code is shown. At the top is a white box that reads sum left arrow numList, then the number 1 in a square. This is at the top left corner of a larger grey box, at the top of which it reads FOR EACH value IN numList. Below this in the grey box and indented is a white box that reads sum left arrow sum plus value. Below the larger grey box at its lower left corner is a white box that reads DISPLAY, then sum, which is in a rectangle.\" src=\"/images/8b646410f1b6f2f2a7be31bbdf00c089.png\"></p><p>In order to test the program, the programmer initializes <em>numList</em> to <em>[0, 1, 4, 5]</em>. The program displays <em>10</em>, and the programmer concludes that the program works as intended.</p><p>Which of the following is true?</p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The conclusion is correct; the program works as intended.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The conclusion is incorrect; the program does not display the correct value for the test case [0, 1, 4, 5].</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The conclusion is incorrect; using the test case [0, 1, 4, 5] is not sufficient to conclude the program is correct. </p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The conclusion is incorrect; using the test case [0, 1, 4, 5] only confirms that the program works for lists in increasing order.</p>"
+      }
+    ]
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Identifying and Correcting Errors"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Identify and correct errors in algorithms and programs, including error discovery through testing."
+  }
+}

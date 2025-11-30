@@ -1,0 +1,43 @@
+{
+  "id": "FT545537",
+  "type": "mcq",
+  "title": "Bulb brightness when switch closes",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows a rectangular circuit diagram with a battery labeled epsilon at the left end of the top edge of the rectangle. The positive terminal is on the right. Going clockwise from the positive terminal there is a junction which splits into an upper and lower branch. The upper branch has a switch labeled S, then a light bulb labeled 1. The lower branch has a lightbulb labeled 2. The two branches come back together just before the right end of the top edge of the rectangle. Continuing around there is a lightbulb labeled 3 on the bottom edge of the rectangle. The circuit is then completed at the negative terminal of the battery.\" height=\"118\" src=\"/images/f9a1967e67fbcb76a56cda01da89f9cc.png\" width=\"165\"></p>\n\n<p>The three lightbulbs in the circuit above are identical, and the battery has zero internal resistance. When switch <em>S</em> is closed to cause bulb 1 to light, which of the other two bulbs increase(s) in brightness?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Neither bulb</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Bulb 2 only</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Bulb 3 only</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Both bulbs</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>It cannot be determined without knowing the emf of the battery.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.5",
+    "text": "11.5: Compound Direct Current Circuits"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

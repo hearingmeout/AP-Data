@@ -1,0 +1,39 @@
+{
+  "id": "OPR000003",
+  "type": "mcq",
+  "title": "BankAccount class - explain why will not work",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following best explains why the <span class=\"dap_inline\">deposit</span> method does not work as intended?</p>",
+    "answer": "1726107109947.234",
+    "choices": [
+      {
+        "value": "1726107109947.2593",
+        "label": "<p class=\"dap_body\">The <span class=\"dap_inline\">deposit</span> method must have a <span class=\"dap_inline\">return</span> statement.</p>"
+      },
+      {
+        "value": "1726107109947.701",
+        "label": "<p class=\"dap_body\">In the <span class=\"dap_inline\">deposit</span> method, the variable <span class=\"dap_inline\">balance</span> should be replaced by the variable <span class=\"dap_inline\">initialBalance</span>.</p>"
+      },
+      {
+        "value": "1726107109947.234",
+        "label": "<p class=\"dap_body\">In the <span class=\"dap_inline\">deposit</span> method, the variable <span class=\"dap_inline\">balance</span> is declared as a local variable and is different from the instance variable <span class=\"dap_inline\">balance</span>.</p>"
+      },
+      {
+        "value": "17261073345414.902",
+        "label": "<p class=\"dap_body\">The variable <span class=\"dap_inline\">balance</span> must be passed to the <span class=\"dap_inline\">deposit</span> method.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.8",
+    "text": "3.8: Scope and Access"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "CZH000001",
+  "type": "mcq",
+  "title": "Instantiate Date object ",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following code segments, appearing in a class other than <span class=\"dap_inline\">Date</span>, will correctly create an instance of a <span class=\"dap_inline\">Date</span> object?&nbsp;</p>",
+    "answer": "1713278379076.2102",
+    "choices": [
+      {
+        "value": "1713278379076.3057",
+        "label": "<pre><code class=\"language-plaintext\">Date birthday = new Date(\"September\", \"5th\");</code></pre>"
+      },
+      {
+        "value": "1713278379076.2102",
+        "label": "<pre><code class=\"language-plaintext\">Date birthday = new Date(\"September\", 5);</code></pre>"
+      },
+      {
+        "value": "1713278379076.2654",
+        "label": "<pre><code class=\"language-plaintext\">Date birthday = new Date(\"September 5\");</code></pre>"
+      },
+      {
+        "value": "1713278379076.3662",
+        "label": "<pre><code class=\"language-plaintext\">Date birthday = new Date();\nbirthday.month = \"September\";\nbirthday.day = 5;</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Method Signatures"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

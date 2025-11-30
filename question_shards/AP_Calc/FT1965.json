@@ -1,0 +1,43 @@
+{
+  "id": "FT1965",
+  "type": "mcq",
+  "title": "Asymptotes with limits at infinity",
+  "content": {
+    "prompt": "<p>For <em>x</em> ≥ 0, the horizontal line <em>y</em> = 2  is an asymptote for the graph of the function <em>f</em>. Which of the following statements must be true?</p>",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p><em>f</em>(0) = 2</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><em>f</em>(<em>x</em>) ≠ 2 for all <em>x</em> ≥ 0</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p><em>f</em>(2) is undefined.</p>"
+      },
+      {
+        "label": "<span aria-label=\"limit x to 2 of f times x is equal to infinity\"><math> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>x</mi> <mo>→</mo> <mn>2</mn> </mrow> </munder> <mi>f</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mi>∞</mi> </mrow> </math></span>",
+        "value": "i3"
+      },
+      {
+        "label": "<span aria-label=\"limit x to infinity of f times x is equal to 2\"><math> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>x</mi> <mo>→</mo> <mi>∞</mi> </mrow> </munder> <mi>f</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mn>2</mn> </mrow> </math></span>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: Connecting Limits at Infinity and Horizontal Asymptotes"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Identify how mathematical characteristics or properties of functions are related in different representations."
+  }
+}

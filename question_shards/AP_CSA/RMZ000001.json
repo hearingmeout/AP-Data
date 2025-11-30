@@ -1,0 +1,39 @@
+{
+  "id": "RMZ000001",
+  "type": "mcq",
+  "title": "Division with casting",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What is printed as a result of executing this code segment?</p>",
+    "answer": "1711643979795.4778",
+    "choices": [
+      {
+        "value": "1711643979795.185",
+        "label": "<pre><code class=\"language-plaintext\">7.0 7.0</code></pre>"
+      },
+      {
+        "value": "1711643979795.4778",
+        "label": "<pre><code class=\"language-plaintext\">7.0 7.5</code></pre>"
+      },
+      {
+        "value": "1711643979795.4314",
+        "label": "<pre><code class=\"language-plaintext\">7.5 7.0</code></pre>"
+      },
+      {
+        "value": "1711643979795.9133",
+        "label": "<pre><code class=\"language-plaintext\">7.5 7.5</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

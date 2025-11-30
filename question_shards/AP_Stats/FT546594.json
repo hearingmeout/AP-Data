@@ -1,0 +1,43 @@
+{
+  "id": "FT546594",
+  "type": "mcq",
+  "title": "Back-to-back stemplot of candies guessed by gender",
+  "content": {
+    "prompt": "<p>A school is having a contest in which students guess the number of candies in a jar. The student whose guess is closest to the correct number of candies in the jar wins a prize. The number of candies guessed by male and female students is shown in the back-to-back stemplot below.</p>\n\n<p><img alt=\"A stem and leaf plot is shown with male on the left and female on the right, and stem values in the middle. Row 1 has stem value 6, no leaves on the left, and leaf 4 on the right. Row 2 has stem value 7, leaf 2 on the left, and leaves 5 and 8 on the right. Row 3 has stem value 8, leaf 1 on the left, and leaves 0 and 9 on the right. Row 4 has stem value 9, leaf 0 on the left, and leaves 0, 0, and 5 on the right. Row 5 has stem value 10, leaves 0 and 0 on the left, and leaves 0, 0, 1, and 4 on the right. Row 6 has stem value 11, leaves 5, 5, 3, and 0 on the left, and leaves 0, 0, 5, 7, 8, and 8 on the right. Row 7 has stem value 12, leaves 5, 5, 5, 4, 2, 1, and 0 on the left, and leaves 0, 1, 1, and 2 on the right. Row 8 has stem value 13, leaves 8, 6, 5, 0, 0, and 0 on the left, and no leaves on the right. Row 9 has stem value 14, leaves 9, 5, and 0 on the left, and no leaves on the right.\" height=\"189\" src=\"/images/9c2c6efab68e800188f3a42c1a3a5858.png\" width=\"369\"></p>\n\n<p>Which of the following statements is true about the distributions of guesses?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The distribution of guesses for male students is skewed to the left, and the distribution of guesses for female students is skewed to the right.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The distribution of guesses for male students is skewed to the right, and the distribution of guesses for female students is skewed to the left.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The distributions of guesses for male and female students are both skewed to the right.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The distributions of guesses for male and female students are both skewed to the left.</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>The distributions of guesses for male and female students are both symmetric.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.5",
+    "text": "1.5: Representing a Quantitative Variable with Graphs"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Compare distributions or relative positions of points within a distribution."
+  }
+}

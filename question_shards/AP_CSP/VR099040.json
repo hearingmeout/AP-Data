@@ -1,0 +1,35 @@
+{
+  "id": "VR099040",
+  "type": "mcq",
+  "title": "Cause of video play count error",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following is the most likely explanation for the error?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The count for the video became larger than the maximum value allowed by the data type used to store the count.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The mathematical operations used to calculate the count caused a rounding error to occur.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The software used to update the count failed when too many videos were played simultaneously by too many users.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The software used to update the count contained a sampling error when using digital data to approximate the analog count.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Identifying and Correcting Errors"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

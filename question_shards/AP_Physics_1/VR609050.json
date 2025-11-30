@@ -1,0 +1,39 @@
+{
+  "id": "VR609050",
+  "type": "mcq",
+  "title": "Motion in one dimension - car dropping coins",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"passage\"><div class=\"prose style:1\"><div class=\"standalone_image\"><img alt=\"The figure shows a diagram. The diagram shows a rightward pointing horizontal arrow that represents the path of a toy car. Ten dots representing coins are placed at various points above the arrow. From left to right, the dots initially get farther apart from each other until they reach a point that is at the midpoint of the arrow. From here, the dots get closer together until they end at the right side of the arrow.\" src=\"/images/285c1441e468c9bda007365e4693ba01.svg\"></div></div></div></div></div><p class=\"stem_paragraph\">As a toy car moves along a level track, coins are placed beside the car’s position on the track every second. The locations of the coins are shown in the diagram. Which of the following claims about the acceleration of the car is correct?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The acceleration is not constant because the spacings between successive coins increase and then decrease.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The acceleration is not constant because the spacings between the coins are not all the same.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The acceleration is zero because the spacing between the last two coins is the same as the spacing between the first two coins.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The acceleration is zero because only the position is changing, while acceleration is the change in the velocity.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Representing Motion"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

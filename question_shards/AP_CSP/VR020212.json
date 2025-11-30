@@ -1,0 +1,35 @@
+{
+  "id": "VR020212",
+  "type": "mcq",
+  "title": "Color represented by binary triplet",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR020210.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">According to information in the table, what color is represented by the binary RGB triplet <span class=\"inline_code\">(11111111, 11111111, 11110000)</span> ?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Ivory</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Light yellow</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Neutral gray</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Vivid yellow</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Binary Numbers"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

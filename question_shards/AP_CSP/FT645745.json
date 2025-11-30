@@ -1,0 +1,35 @@
+{
+  "id": "FT645745",
+  "type": "mcq",
+  "title": "Skip counting integers in a loop",
+  "content": {
+    "prompt": "Which of the following describes the result of executing the program?",
+    "answer": "3",
+    "choices": [
+      {
+        "label": "The program displays the sum of the even integers from 0 to 10.",
+        "value": "0"
+      },
+      {
+        "label": "The program displays the sum of the even integers from 0 to 20.",
+        "value": "1"
+      },
+      {
+        "label": "The program displays the sum of the odd integers from 1 to 9.",
+        "value": "2"
+      },
+      {
+        "label": "The program displays the sum of the odd integers from 1 to 19.",
+        "value": "3"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.8",
+    "text": "3.8: Iteration"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

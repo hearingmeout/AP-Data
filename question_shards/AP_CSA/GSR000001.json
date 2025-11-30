@@ -1,0 +1,39 @@
+{
+  "id": "GSR000001",
+  "type": "mcq",
+  "title": "printValues method - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\"><span style=\"background-color:rgb(255,255,255);color:rgb(30,30,30);\">What is printed as a result of executing the code segment?</span></p>",
+    "answer": "1726084517904.4175",
+    "choices": [
+      {
+        "value": "1726084517904.1223",
+        "label": "<pre><code class=\"language-plaintext\">222\n44444</code></pre>"
+      },
+      {
+        "value": "1726084517904.5637",
+        "label": "<pre><code class=\"language-plaintext\">2222\n33333</code></pre>"
+      },
+      {
+        "value": "1726084517904.4175",
+        "label": "<pre><code class=\"language-plaintext\">33\n5555</code></pre>"
+      },
+      {
+        "value": "17260846032184.27",
+        "label": "<pre><code class=\"language-plaintext\">44\n555</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Method Signatures"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

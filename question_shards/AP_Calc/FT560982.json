@@ -1,0 +1,43 @@
+{
+  "id": "FT560982",
+  "type": "mcq",
+  "title": "Rate of change of area with parameter",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows a graph in the x y plane.  The origin and a point k on the positive x axis are labeled.  A curve on the graph is labeled y equals f of x.  The curve begins at an open dot on the positive y axis and curves gently down, passes through the x axis to the right of point k, and ends below the x axis.  A vertical line extends up from point k and intersects the curve.  The area bounded by the vertical line at x equals k, the curve, and the x and y axes is shaded and labeled A.\" height=\"168\" src=\"/images/400ecc711d4911cbf1443cfb790d5b6f.png\" width=\"350\"></p>\n\n<p>The figure above shows the region <em>A</em>, which is bounded by the x- and y-axes, the graph of <span aria-label=\"f of x is equal to sine x over x\"><math> <mrow> <mi>f</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mfrac> <mrow> <mi>sin</mi> <mi>x</mi> </mrow> <mi>x</mi> </mfrac> </mrow> </math></span> for <em>x</em> &gt; 0, and the vertical line <em>x = k.</em> If <em>k</em> increases at a rate of <span aria-label=\"pi over 4\"><math> <mrow> <mi>π</mi><mo>/</mo><mn>4</mn></mrow> </math></span>&nbsp;units per second, how fast is the area of region <em>A</em> increasing when <span aria-label=\"k is equal to pi over 6\"><math> <mrow> <mi>k</mi><mo>=</mo><mi>π</mi><mo>/</mo><mn>6</mn></mrow> </math></span>?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>0</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>3/4</p>"
+      },
+      {
+        "label": "<span aria-label=\"3 over pi\"><math> <mrow> <mn>3</mn> <mo>/</mo> <mi>π</mi> </mrow> </math></span>",
+        "value": "i2"
+      },
+      {
+        "label": "<span aria-label=\"the fraction with numerator square root of 3 and denominator 2\"><math> <mrow> <mfrac> <mrow> <msqrt> <mn>3</mn> </msqrt> </mrow> <mn>2</mn> </mfrac> </mrow> </math></span>",
+        "value": "i3"
+      },
+      {
+        "label": "<span aria-label=\"2 square root of 3\"><math> <mrow> <mn>2</mn><msqrt> <mn>3</mn> </msqrt> </mrow> </math></span>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.4",
+    "text": "6.4: The Fundamental Theorem of Calculus and Accumulation Functions"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

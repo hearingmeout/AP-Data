@@ -1,0 +1,39 @@
+{
+  "id": "VH904712",
+  "type": "mcq",
+  "title": "Print AP CS A",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Consider the following code segment.</p><div class=\"standalone_code style:1\"><p class=\"code_line\">System.out.print(\"AP\");</p><p class=\"code_line\">System.out.println();</p><p class=\"code_line\">System.out.println(\"CS\");</p><p class=\"code_line\">System.out.print(\"A\");</p></div><p class=\"stem_paragraph\">What is printed as a result of executing the code segment?</p>",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">APCS</p><p class=\"code_line\">A</p></div>",
+        "value": "i2"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">AP</p><p class=\"code_line\">CSA</p></div>",
+        "value": "i3"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">AP</p><p class=\"code_line\">CS</p><p class=\"code_line\">A</p></div>",
+        "value": "i4"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\">\n<p class=\"code_line\">AP</p>\n<p class=\"code_line\">&nbsp;</p>\n<p class=\"code_line\">CS</p>\n<p class=\"code_line\">A</p>\n</div>\n",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

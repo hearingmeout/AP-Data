@@ -1,0 +1,39 @@
+{
+  "id": "EXP000007",
+  "type": "mcq",
+  "title": "recursive mystery method - describe result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following best describes the value returned by the method?</p>",
+    "answer": "01JXVJGJB7A7QRG59P5VJ3HE4B",
+    "choices": [
+      {
+        "value": "01JXVJGJB6M0B04TCBDTH1S2DN",
+        "label": "<p class=\"dap_body\">It returns&nbsp; <code class=\"dap_inline\">2</code>&nbsp; more than the number of digits in&nbsp; <code class=\"dap_inline\">num</code>.</p>"
+      },
+      {
+        "value": "01JXVJGJB7HBCBSKGAKVD5YPR7",
+        "label": "<p class=\"dap_body\">It returns&nbsp; <code class=\"dap_inline\">2</code>&nbsp; more than the sum of the digits in&nbsp; <code class=\"dap_inline\">num</code>.</p>"
+      },
+      {
+        "value": "01JXVJGJB7A7QRG59P5VJ3HE4B",
+        "label": "<p class=\"dap_body\">It returns&nbsp; <code class=\"dap_inline\">2</code>&nbsp; times the number of digits in&nbsp; <code class=\"dap_inline\">num</code>.</p>"
+      },
+      {
+        "value": "01JXVJGJB7RWKG9NXHSXV6D0D0",
+        "label": "<p class=\"dap_body\">It returns&nbsp; <code class=\"dap_inline\">2</code>&nbsp; times the sum of the digits in&nbsp; <code class=\"dap_inline\">num</code>.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.16",
+    "text": "4.16: Recursion"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

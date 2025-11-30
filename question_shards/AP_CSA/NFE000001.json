@@ -1,0 +1,39 @@
+{
+  "id": "NFE000001",
+  "type": "mcq",
+  "title": "Substrings of LMNOP",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What is the value of <span class=\"dap_inline\">str2</span> after executing this code segment?</p>",
+    "answer": "1713279222149.1174",
+    "choices": [
+      {
+        "value": "1713279222149.1174",
+        "label": "<pre><code class=\"language-plaintext\">\"OPN\"</code></pre>"
+      },
+      {
+        "value": "1713279222149.3137",
+        "label": "<pre><code class=\"language-plaintext\">\"OPNO\"</code></pre>"
+      },
+      {
+        "value": "1713279222149.6375",
+        "label": "<pre><code class=\"language-plaintext\">\"NOPM\"</code></pre>"
+      },
+      {
+        "value": "1713279222149.9983",
+        "label": "<pre><code class=\"language-plaintext\">\"NOPMN\"</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

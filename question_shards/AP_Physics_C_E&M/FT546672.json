@@ -1,0 +1,43 @@
+{
+  "id": "FT546672",
+  "type": "mcq",
+  "title": "Probability distribution for eaglet survival",
+  "content": {
+    "prompt": "Mating eagle pairs typically have two baby eagles (called eaglets). When there are two eaglets, the parents always feed the older eaglet until it has had its fill, and then they feed the younger eaglet. This results in an unequal chance of survival for the two eaglets. Suppose that the older eaglet has a 50 percent chance of survival. If the older eaglet survives, the younger eaglet has a 10 percent chance of survival. If the older eaglet does not survive, the younger eaglet has a 30 percent chance of survival. Let <em>X</em> be the number of eaglets that survive. Which of the following tables shows the probability distribution of <em>X</em> ?",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<img alt=\"Choice A is a table with two rows. The first row is x, 0, 1, and 2. The second row has p of x in the first column. In choice A, row 2 has values one third, one third, and one third. \" height=\"72\" src=\"/images/32052fbfad2622bbf8c80cd869a2149d.png\" width=\"300\">",
+        "value": "i0"
+      },
+      {
+        "label": "<img alt=\"Choice B is a table with two rows. In choice B, row 2 has values one fourth, one half, and one fourth. \" height=\"71\" src=\"/images/d46b918cda87ddbe10434f9e204e0d7f.png\" width=\"300\">",
+        "value": "i1"
+      },
+      {
+        "label": "<img alt=\"Choice C is a table with two rows. In choice C, row 2 has values 0.35, 0.60, and 0.05. \" height=\"58\" src=\"/images/b403e693a4c84c59e9fbf20dde1f2ac9.png\" width=\"300\">",
+        "value": "i2"
+      },
+      {
+        "label": "<img alt=\"Choice D is a table with two rows. In choice D, row 2 has values 0.05, 0.90, and 0.05. \" height=\"56\" src=\"/images/7c843085fdc336dd6011cfccf3024c90.png\" width=\"300\">",
+        "value": "i3"
+      },
+      {
+        "label": "<img alt=\"Choice E is a table with two rows. In choice E, row 2 has values 0.10, 0.30, and 0.50.\" height=\"58\" src=\"/images/67f67e5dd914814784ec0c64bfb663df.png\" width=\"300\">",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Conditional Probability"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Construct numerical or graphical representations of distributions."
+  }
+}

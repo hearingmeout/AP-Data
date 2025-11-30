@@ -1,0 +1,43 @@
+{
+  "id": "FT576408",
+  "type": "mcq",
+  "title": "Interpret margin of error of sunscreen use survey",
+  "content": {
+    "prompt": "Based on the estimate and the margin of error, which of the following is an appropriate conclusion?",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Approximately 1% of all the people living in the region were surveyed. </p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Between 18% and 20% of all the people living in the region were surveyed. </p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>All possible samples of the same size will result in between 18% and 20% of those surveyed indicating they regularly use sunscreen.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The probability is 0.01 that a person living in the region will use sunscreen when going outdoors. </p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>It is plausible that the percent of all people living in the region who regularly use sunscreen is 18.5%.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.2",
+    "text": "6.2: Constructing a Confidence Interval for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 4.D",
+    "text": "Skill 4.D: Justify a claim based on a confidence interval."
+  }
+}

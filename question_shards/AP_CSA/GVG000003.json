@@ -1,0 +1,39 @@
+{
+  "id": "GVG000003",
+  "type": "mcq",
+  "title": "Vehicle API Specification - describe behavior",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Based on the class specification, which of the following descriptions is accurate?</p>",
+    "answer": "01JCGSVS1Q8N5AP5A0P86EREQD",
+    "choices": [
+      {
+        "value": "01JCGSVS1NMYH6EZGGK55JHXZC",
+        "label": "<p class=\"dap_body\"><span class=\"dap_inline\">Vehicle</span>&nbsp; objects are attributes of the variables &nbsp;<span class=\"dap_inline\">make</span>,&nbsp; <span class=\"dap_inline\">model</span>,&nbsp; and&nbsp; <span class=\"dap_inline\">year</span>.</p>"
+      },
+      {
+        "value": "01JCGSVS1QTS2YYKS8ZZGH7C3M",
+        "label": "<p class=\"dap_body\"><span class=\"dap_inline\">Vehicle</span>&nbsp; objects are behaviors of the variables &nbsp;<span class=\"dap_inline\">make</span>,&nbsp; <span class=\"dap_inline\">model</span>,&nbsp; and&nbsp; <span class=\"dap_inline\">year</span>.</p>"
+      },
+      {
+        "value": "01JCGSVS1Q8N5AP5A0P86EREQD",
+        "label": "<p class=\"dap_body\">The variables &nbsp;<span class=\"dap_inline\">make</span>,&nbsp; <span class=\"dap_inline\">model</span>,&nbsp; and&nbsp; <span class=\"dap_inline\">year</span>&nbsp; are attributes of&nbsp; <span class=\"dap_inline\">Vehicle</span>&nbsp; objects.</p>"
+      },
+      {
+        "value": "01JCGSVS1QKQP3W1XQS4X6Z2WB",
+        "label": "<p class=\"dap_body\">The variables &nbsp;<span class=\"dap_inline\">make</span>,&nbsp; <span class=\"dap_inline\">model</span>,&nbsp; and&nbsp; <span class=\"dap_inline\">year</span>&nbsp; are behaviors of&nbsp; <span class=\"dap_inline\">Vehicle</span>&nbsp; objects.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.7",
+    "text": "1.7: Application Program Interface (API) and Libraries"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

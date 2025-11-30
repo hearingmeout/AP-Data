@@ -1,0 +1,35 @@
+{
+  "id": "FT536134",
+  "type": "mcq",
+  "title": "Hockey and climate - treat Emilie right",
+  "content": {
+    "prompt": "<p>Vous allez contacter Émilie Forget pour lui demander plus d’informations. Comment devriez-vous formuler votre demande?</p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>«J’aimerais m’inscrire pour le match du 16 février. Est-ce que ce serait possible?»</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>«Émilie, ma vieille! Ça va? Écoute, c’est pour le match du 16 février: ça marche toujours?»</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>«Je vous prie d’avoir la bonté de m’inscrire sur les listes du match de l’année prochaine. Merci.»</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>«Émilie, j’habite juste à côté du parc Toussaint-Louverture! J’y serai, sans faute!»</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Factors That Affect the Quality of Life"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Interpret the meaning of a text."
+  }
+}

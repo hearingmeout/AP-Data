@@ -1,0 +1,39 @@
+{
+  "id": "VH959564",
+  "type": "mcq",
+  "title": "Time equals method",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Consider the following class definition.</p>\n<div class=\"standalone_code style:1\">\n<p class=\"code_line\">public class Time</p>\n<p class=\"code_line\">{</p>\n<p class=\"code_line indent:3\">private int hours;</p>\n<p class=\"code_line indent:3\">private int minutes;</p>\n<p class=\"code_line\">&nbsp;</p>\n<p class=\"code_line indent:3\">public Time(int h, int m)</p>\n<p class=\"code_line indent:3\">{</p>\n<p class=\"code_line indent:6\">hours = h;</p>\n<p class=\"code_line indent:6\">minutes = m;</p>\n<p class=\"code_line indent:3\">}</p>\n<p class=\"GenericCodeLine\" style=\"margin-left:10px\"><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Courier New&quot;\"></span></span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Times LT Std&quot;,serif\">&nbsp;</span></span><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Courier New&quot;\">/** </span></span>Returns<span style=\"font-size:11pt\"><span style=\"font-family:&quot;Courier New&quot;\"> true </span></span>if<span style=\"font-size:11pt\"><span style=\"font-family:&quot;Courier New&quot;\"> hours * 60 + minutes </span></span>of<span style=\"font-size:11pt\"><span style=\"font-family:&quot;Courier New&quot;\"> this <span style=\"font-family:&quot;Times LT Std&quot;,serif\"></span></span></span><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Courier New&quot;\"> <span style=\"font-family:&quot;Times LT Std&quot;,serif\"></span></span></span></p>\n<p class=\"GenericCodeLine\" style=\"margin-left:10px\"><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Courier New&quot;\">&nbsp;&nbsp;</span></span><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Courier New&quot;\">*<span style=\"font-family:&quot;Times LT Std&quot;,serif\">&nbsp; &nbsp;</span></span></span>&nbsp;object is equal to<span style=\"font-size:11pt\"><span style=\"font-family:&quot;Courier New&quot;\"><span style=\"font-family:&quot;Times LT Std&quot;,serif\"></span> hours * 60 + minutes </span></span>of object<span style=\"font-size:11pt\"><span style=\"font-family:&quot;Courier New&quot;\"> <span style=\"font-family:&quot;Times LT Std&quot;,serif\"></span></span></span></p>\n<p class=\"GenericCodeLine\"><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Times LT Std&quot;,serif\"><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Courier New&quot;\">&nbsp; &nbsp;*</span></span>&nbsp;&nbsp; &nbsp;</span></span>other; otherwise returns<span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Courier New&quot;\"> false</span></span><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Courier New&quot;\"><span style=\"font-family:&quot;Times LT Std&quot;,serif\"></span></span></span><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Courier New&quot;\"><span style=\"font-family:&quot;Times LT Std&quot;,serif\"></span></span></span></p>\n<p class=\"GenericCodeLine\" style=\"margin-left:10px\"><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Courier New&quot;\">&nbsp; */</span></span></p>\n<p class=\"GenericCodeLine\" style=\"margin-left:10px\"><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Courier New&quot;\">&nbsp;public boolean equals(Object other)</span></span></p>\n<p class=\"GenericCodeLine\" style=\"margin-left:10px\"><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Courier New&quot;\">&nbsp;&nbsp; {</span></span></p>\n<p class=\"GenericCodeLine\" style=\"margin-left:10px\"><span style=\"font-size:11pt\"><span style=\"font-family:&quot;Courier New&quot;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//implementation not shown</span></span></p>\n<p class=\"code_line indent:3\" style=\"margin-left: 40px;\">}</p>\n<p class=\"code_line\">}</p>\n</div>\n<p class=\"stem_paragraph\">The following code segment appears in a class other than <span class=\"inline_code\">Time</span>.</p>\n<div class=\"standalone_code style:1\">\n<p class=\"code_line\">Time t1 = new Time(1, 10);</p>\n<p class=\"code_line\">Time t2 = new Time(0, 70);</p>\n</div>\n<p class=\"stem_paragraph\">Which of the following statements will print <span class=\"inline_code\">true</span> ?</p>\n<ol class=\"hb_codeblock ordered_list style:1\">\n<li class=\"list_paragraph\"><span class=\"inline_code\">System.out.println(t1 == t2);</span></li>\n<li class=\"list_paragraph\"><span class=\"inline_code\">System.out.println(t1.equals(t2));</span></li>\n<li class=\"list_paragraph\"><span class=\"inline_code\">System.out.println(equals(t1, t2);</span></li>\n</ol>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">I only</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">II only</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">III only</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">I and II</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Comparing Boolean Expressions"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

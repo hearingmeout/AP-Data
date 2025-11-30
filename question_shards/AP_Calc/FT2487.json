@@ -1,0 +1,43 @@
+{
+  "id": "FT2487",
+  "type": "mcq",
+  "title": "Additivity of two definite integrals",
+  "content": {
+    "prompt": "If <span aria-label=\"the integral from 0 to 3 of f of x d x is equal to 6\"><math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>3</mn> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>d</mi><mi>x</mi><mo>=</mo><mn>6</mn></mrow> </math></span>&nbsp;and <span aria-label=\"the integral from 3 to 5 of f of x d x is equal to 4\"><math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>3</mn> <mn>5</mn> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>d</mi><mi>x</mi><mo>=</mo><mn>4</mn></mrow> </math></span>, then&nbsp;<span aria-label=\"the integral from 0 to 5 of open paren 3 plus 2 f of x close paren d x is equal to\"><math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>5</mn> </msubsup> <mrow> <mrow> <mo>(</mo> <mrow> <mn>3</mn> <mo>+</mo> <mn>2</mn> <mi>f</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> </mstyle> <mi>d</mi> <mi>x</mi> <mo>=</mo> </mrow> </math></span>&nbsp;",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>10</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>20</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>23</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>35</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>50</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.6",
+    "text": "6.6: Applying Properties of Definite Integrals"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

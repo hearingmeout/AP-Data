@@ -1,0 +1,39 @@
+{
+  "id": "VR876962",
+  "type": "mcq",
+  "title": "Ohms law - find R from capacitor discharge data",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which expression is equal to the resistance of the resistor?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator delta V sub 1 minus delta V sub 2, and denominator I sub 1 minus I sub 2\"><math alttext=\"the fraction with numerator delta V sub 1 minus delta V sub 2, and denominator I sub 1 minus I sub 2\" overflow=\"scroll\"><mfrac><mrow><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mn>1</mn></msub><mo>−</mo><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mn>2</mn></msub></mrow><mrow><msub><mi>I</mi><mn>1</mn></msub><mo>−</mo><msub><mi>I</mi><mn>2</mn></msub></mrow></mfrac></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator delta V sub 1, and denominator I sub 1, end fraction, minus the fraction with numerator delta V sub 2, and denominator I sub 2\"><math alttext=\"the fraction with numerator delta V sub 1, and denominator I sub 1, end fraction, minus the fraction with numerator delta V sub 2, and denominator I sub 2\" overflow=\"scroll\"><mfrac><mrow><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mn>1</mn></msub></mrow><msub><mi>I</mi><mn>1</mn></msub></mfrac><mo>−</mo><mfrac><mrow><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mn>2</mn></msub></mrow><msub><mi>I</mi><mn>2</mn></msub></mfrac></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator I sub 1 minus I sub 2, and denominator delta V sub 1 minus delta V sub 2\"><math alttext=\"the fraction with numerator I sub 1 minus I sub 2, and denominator delta V sub 1 minus delta V sub 2\" overflow=\"scroll\"><mfrac><mrow><msub><mi>I</mi><mn>1</mn></msub><mo>−</mo><msub><mi>I</mi><mn>2</mn></msub></mrow><mrow><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mn>1</mn></msub><mo>−</mo><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mn>2</mn></msub></mrow></mfrac></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator I sub 1, and denominator delta V sub 1, end fraction, minus the fraction with numerator I sub 2, and denominator delta V sub 2\"><math alttext=\"the fraction with numerator I sub 1, and denominator delta V sub 1, end fraction, minus the fraction with numerator I sub 2, and denominator delta V sub 2\" overflow=\"scroll\"><mfrac><msub><mi>I</mi><mn>1</mn></msub><mrow><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mn>1</mn></msub></mrow></mfrac><mo>−</mo><mfrac><msub><mi>I</mi><mn>2</mn></msub><mrow><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mn>2</mn></msub></mrow></mfrac></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.3",
+    "text": "11.3: Resistance, Resistivity, and Ohm's Law"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

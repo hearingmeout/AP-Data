@@ -1,0 +1,43 @@
+{
+  "id": "VH979045",
+  "type": "mcq",
+  "title": "Where is strength zero",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"standalone_image\"><img alt=\"The figure presents two long, vertical straight wires that are parallel to one another, and separated by a distance L. The left wire carries a current i that moves upward, and the right wire carries a current 2 i that moves upward.\" height=\"159\" src=\"/images/50469c8d9074da7063bca6e4fddd568a.png\" width=\"150\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">Two long, parallel, current-carrying wires are located near each other. The wires have currents <span class=\"math_expression\"><span aria-label=\"i\"><math alttext=\"i\" overflow=\"scroll\"><mstyle><mrow><mi>I</mi></mrow></mstyle></math></span></span> and <span class=\"math_expression\"><span aria-label=\"2 i\"><math alttext=\"2 i\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn><mi>I</mi></mrow></mstyle></math></span></span> and are a distance <span class=\"math_expression\"><span aria-label=\"L\"><math alttext=\"L\" overflow=\"scroll\"><mstyle><mrow><mo>ℓ</mo></mrow></mstyle></math></span></span> apart. Which of the following claims, with the appropriate evidence, is correct about the position around the wires where the magnetic field is zero?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The magnetic field is zero at a horizontal distance that is halfway between the wires, because the position is equidistant from each wire.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The magnetic field is zero at a horizontal distance <span class=\"math_expression\"><span aria-label=\"the fraction L over 3\"><math alttext=\"the fraction L over 3\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mo>ℓ</mo></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mstyle></math></span></span> from the wire that has current <span class=\"math_expression\"><span aria-label=\"2 i\"><math alttext=\"2 i\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn><mi>I</mi></mrow></mstyle></math></span></span> and in between both wires, because the position should be closer to the wire that has the greatest current.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The magnetic field is zero at a horizontal distance <span class=\"math_expression\"><span aria-label=\"the fraction L over 3\"><math alttext=\"the fraction L over 3\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mo>ℓ</mo></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mstyle></math></span></span> from the wire that has current <span class=\"math_expression\"><span aria-label=\"i\"><math alttext=\"i\" overflow=\"scroll\"><mstyle><mrow><mi>I</mi></mrow></mstyle></math></span></span> and in between both wires, because the position should be closer to the wire that has the smallest current.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The magnetic field is zero at a horizontal distance <span class=\"math_expression\"><span aria-label=\"the fraction L over 4\"><math alttext=\"the fraction L over 4\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mo>ℓ</mo></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></mstyle></math></span></span> from the wire that has current <span class=\"math_expression\"><span aria-label=\"i\"><math alttext=\"i\" overflow=\"scroll\"><mstyle><mrow><mi>I</mi></mrow></mstyle></math></span></span> and in between both wires, because the position should be closer to the wire that has the smallest current.</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">There is no point between the wires where the magnetic field is zero, because the currents in each wire travel in the same direction.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "12",
+    "text": "12: Magnetic Fields and Electromagnetism"
+  },
+  "topic": {
+    "code": "12.4",
+    "text": "12.4: Ampère's Law"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

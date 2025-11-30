@@ -1,0 +1,43 @@
+{
+  "id": "VH950435",
+  "type": "mcq",
+  "title": "One sample z",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Consider a population with population proportion <span class=\"math_expression\"><span aria-label=\"p\"><math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math></span></span>, and a sample from the population with sample proportion <span class=\"math_expression\"><span aria-label=\"p hat\"><math alttext=\"p hat\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mover><mrow><mi>p</mi></mrow><mrow><mo>^</mo></mrow></mover></mrow></mstyle></math></span></span>. Which of the following describes the purpose of the one-sample <span class=\"math_expression\"><span aria-label=\"z\"><math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math></span></span>-test?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">To estimate the value of <span class=\"math_expression\"><span aria-label=\"p hat\"><math alttext=\"p hat\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mover><mrow><mi>p</mi></mrow><mrow><mo>^</mo></mrow></mover></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">To estimate the value of <span class=\"math_expression\"><span aria-label=\"p\"><math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">To estimate a margin of error for <span class=\"math_expression\"><span aria-label=\"p hat\"><math alttext=\"p hat\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mover><mrow><mi>p</mi></mrow><mrow><mo>^</mo></mrow></mover></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">To estimate the probability of observing a value as extreme as <span class=\"math_expression\"><span aria-label=\"p hat\"><math alttext=\"p hat\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mover><mrow><mi>p</mi></mrow><mrow><mo>^</mo></mrow></mover></mrow></mstyle></math></span></span> given <span class=\"math_expression\"><span aria-label=\"p\"><math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">To estimate the probability of observing a value as extreme as <span class=\"math_expression\"><span aria-label=\"p\"><math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math></span></span> given <span class=\"math_expression\"><span aria-label=\"p hat\"><math alttext=\"p hat\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mover><mrow><mi>p</mi></mrow><mrow><mo>^</mo></mrow></mover></mrow></mstyle></math></span></span></p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.4",
+    "text": "6.4: Setting Up a Test for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Identify an appropriate inference method for significance tests."
+  }
+}

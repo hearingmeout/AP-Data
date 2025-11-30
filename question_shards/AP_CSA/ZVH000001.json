@@ -1,0 +1,39 @@
+{
+  "id": "ZVH000001",
+  "type": "mcq",
+  "title": "Recursive method - determine initial conditions",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following can be used to replace&nbsp; <span class=\"dap_inline\">/*&nbsp;missing&nbsp;initialization&nbsp;*/</span>&nbsp; so that the code segment prints&nbsp; &nbsp;<span class=\"dap_inline\">0&nbsp;1&nbsp;4&nbsp;6&nbsp;7 </span>?</p>",
+    "answer": "01JGM62QSV0RFQ4XSA0FZB70Q7",
+    "choices": [
+      {
+        "value": "01JGM62QSSNJ9X3EQFVJGBDEB6",
+        "label": "<pre><code class=\"language-plaintext\">{\"Stool\", \"Chair\", \"Chair\", \"Chair\",\n \"Stool\", \"Couch\", \"Couch\", \"Table\"}</code></pre>"
+      },
+      {
+        "value": "01JGM62QSTE8K2YWJQHRYQ3K29",
+        "label": "<pre><code class=\"language-plaintext\">{\"Table\", \"Couch\", \"Couch\", \"Stool\",\n \"Chair\", \"Chair\", \"Chair\", \"Stool\"}</code></pre>"
+      },
+      {
+        "value": "01JGM62QSV0RFQ4XSA0FZB70Q7",
+        "label": "<pre><code class=\"language-plaintext\">{\"Stool\", \"Chair\", \"Chair\", \"Chair\",\n \"Couch\", \"Couch\", \"Stool\", \"Table\"}</code></pre>"
+      },
+      {
+        "value": "01JGM62QSVD08X9B8FGQA9W20G",
+        "label": "<pre><code class=\"language-plaintext\">{\"Table\", \"Stool\", \"Couch\", \"Couch\",\n \"Chair\", \"Chair\", \"Chair\", \"Stool\"}</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.17",
+    "text": "4.17: Recursive Searching and Sorting"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

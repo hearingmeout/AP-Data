@@ -1,0 +1,35 @@
+{
+  "id": "VR595004",
+  "type": "mcq",
+  "title": "Processes - Area of Region - Function of x",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">What is the area of the region enclosed by the curve <span class=\"math_expression\"><span aria-label=\"y equals the fraction 2 over x\"><math alttext=\"y equals the fraction 2 over x\" display=\"inline\" overflow=\"scroll\"><mrow><mi>y</mi><mo>=</mo><mstyle><mrow><mfrac><mrow><mn>2</mn></mrow><mrow><mi>x</mi></mrow></mfrac></mrow></mstyle></mrow></math></span></span>, the <span class=\"math_expression\"><span aria-label=\"x\"><math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mi>x</mi></math></span></span>-axis, and the lines <span class=\"math_expression\"><span aria-label=\"x equals 1\"><math alttext=\"x equals 1\" display=\"inline\" overflow=\"scroll\"><mrow><mi>x</mi><mo>=</mo><mn>1</mn></mrow></math></span></span> and <span class=\"math_expression\"><span aria-label=\"x equals 2\"><math alttext=\"x equals 2\" display=\"inline\" overflow=\"scroll\"><mrow><mi>x</mi><mo>=</mo><mn>2</mn></mrow></math></span></span> ?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the natural log of 4, minus the natural log of 2\"><math alttext=\"the natural log of 4, minus the natural log of 2\" display=\"inline\" overflow=\"scroll\"><mrow><mi>ln</mi><mo>⁡</mo><mn>4</mn><mo>−</mo><mi>ln</mi><mo>⁡</mo><mn>2</mn></mrow></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"2 times the natural log of 2\"><math alttext=\"2 times the natural log of 2\" display=\"inline\" overflow=\"scroll\"><mrow><mn>2</mn><mi>ln</mi><mo>⁡</mo><mn>2</mn></mrow></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"three fourths\"><math alttext=\"three fourths\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mn>3</mn></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"three halves\"><math alttext=\"three halves\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>3</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Applications of Integration"
+  },
+  "topic": {
+    "code": "8.4",
+    "text": "8.4: Finding the Area Between Curves Expressed as Functions of x"
+  }
+}

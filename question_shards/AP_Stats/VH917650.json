@@ -1,0 +1,43 @@
+{
+  "id": "VH917650",
+  "type": "mcq",
+  "title": "Books read last month",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Alma is estimating the proportion of students in her school district who, in the past month, read at least 1 book. From a random sample of 50 students, she found that 32 students read at least 1 book last month. Assuming all conditions for inference are met, which of the following defines a 90 percent confidence interval for the proportion of all students in her district who read at least 1 book last month?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"32 plus or minus 1.645 times, the square root of the fraction 32 times 18 over 50\"><math alttext=\"32 plus or minus 1.645 times, the square root of the fraction 32 times 18 over 50\" display=\"inline\" overflow=\"scroll\"><mrow><mn>32</mn><mo>±</mo><mn>1.645</mn><msqrt><mrow><mfrac><mrow><mo>(</mo><mn>32</mn><mo>)</mo><mo>(</mo><mn>18</mn><mo>)</mo></mrow><mrow><mn>50</mn></mrow></mfrac></mrow></msqrt></mrow></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"32 plus or minus 1.96 times, the square root of the fraction 32 times 18 over 50\"><math alttext=\"32 plus or minus 1.96 times, the square root of the fraction 32 times 18 over 50\" display=\"inline\" overflow=\"scroll\"><mrow><mn>32</mn><mo>±</mo><mn>1.96</mn><msqrt><mrow><mfrac><mrow><mo>(</mo><mn>32</mn><mo>)</mo><mo>(</mo><mn>18</mn><mo>)</mo></mrow><mrow><mn>50</mn></mrow></mfrac></mrow></msqrt></mrow></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"0.64 plus or minus 1.282 times, the square root of the fraction 0.64 times 0.36 over 50\"><math alttext=\"0.64 plus or minus 1.282 times, the square root of the fraction 0.64 times 0.36 over 50\" display=\"inline\" overflow=\"scroll\"><mrow><mn>0.64</mn><mo>±</mo><mn>1.282</mn><msqrt><mrow><mfrac><mrow><mo>(</mo><mn>0.64</mn><mo>)</mo><mo>(</mo><mn>0.36</mn><mo>)</mo></mrow><mrow><mn>50</mn></mrow></mfrac></mrow></msqrt></mrow></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"0.64 plus or minus 1.645 times, the square root of the fraction 0.64 times 0.36 over 50\"><math alttext=\"0.64 plus or minus 1.645 times, the square root of the fraction 0.64 times 0.36 over 50\" display=\"inline\" overflow=\"scroll\"><mrow><mn>0.64</mn><mo>±</mo><mn>1.645</mn><msqrt><mrow><mfrac><mrow><mo>(</mo><mn>0.64</mn><mo>)</mo><mo>(</mo><mn>0.36</mn><mo>)</mo></mrow><mrow><mn>50</mn></mrow></mfrac></mrow></msqrt></mrow></math></span></span></p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"0.64 plus or minus 1.96 times, the square root of the fraction 0.64 times 0.36 over 50\"><math alttext=\"0.64 plus or minus 1.96 times, the square root of the fraction 0.64 times 0.36 over 50\" display=\"inline\" overflow=\"scroll\"><mrow><mn>0.64</mn><mo>±</mo><mn>1.96</mn><msqrt><mrow><mfrac><mrow><mo>(</mo><mn>0.64</mn><mo>)</mo><mo>(</mo><mn>0.36</mn><mo>)</mo></mrow><mrow><mn>50</mn></mrow></mfrac></mrow></msqrt></mrow></math></span></span></p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.2",
+    "text": "6.2: Constructing a Confidence Interval for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Construct a confidence interval, provided conditions for inference are met."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT546112",
+  "type": "mcq",
+  "title": "Incorrect justification for distance estimate plan",
+  "content": {
+    "prompt": "<p>A certain motel is roughly 20 miles from the entrance to Yosemite National Park. The motel manager wants to get a better estimate of the distance and asks five people to each measure the distance, to the nearest tenth of a mile, using the odometer in his or her car. The manager will use the median of the five measurements as the estimate of the distance. Which of the following statements is NOT a statistical justification for the manager’s plan?</p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p> Odometer reading should be considered a variable when used to measure this distance.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The median of the five measurements is more likely to be close to the actual distance than is a single measurement.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The actual distance should be considered a variable, and taking five measurements allows the manager to estimate the variability in the actual distance.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>If one or two odometers give inaccurate readings, the estimate still should be fairly close to the actual distance.</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>The manager can get some indication of how far off the estimate might be.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.2",
+    "text": "1.2: The Language of Variation - Variables"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Describe data presented numerically or graphically."
+  }
+}

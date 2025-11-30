@@ -1,0 +1,39 @@
+{
+  "id": "VR799447",
+  "type": "mcq",
+  "title": "Ohms law - resistivity - bar with uniform E field",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div>Which expression is equal to the current in the bar?</div>\n</div>\n</div>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction E A over rho\"><math alttext=\"the fraction E A over rho\" overflow=\"scroll\"><mfrac><mrow><mi>E</mi><mi>A</mi></mrow><mi>ρ</mi></mfrac></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction E A over rho L, end fraction\"><math alttext=\"the fraction E A over rho L, end fraction\" overflow=\"scroll\"><mfrac><mrow><mi>E</mi><mi>A</mi></mrow><mrow><mi>ρ</mi><mi>L</mi></mrow></mfrac></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction E rho over A\"><math alttext=\"the fraction E rho over A\" overflow=\"scroll\"><mfrac><mrow><mi>E</mi><mi>ρ</mi></mrow><mi>A</mi></mfrac></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction E rho L over A\"><math alttext=\"the fraction E rho L over A\" overflow=\"scroll\"><mfrac><mrow><mi>E</mi><mi>ρ</mi><mi>L</mi></mrow><mi>A</mi></mfrac></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.3",
+    "text": "11.3: Resistance, Resistivity, and Ohm's Law"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

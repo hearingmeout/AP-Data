@@ -1,0 +1,43 @@
+{
+  "id": "FT1913",
+  "type": "mcq",
+  "title": "Estimate value of definite integral from table",
+  "content": {
+    "prompt": "<p>&nbsp;</p>\n<img alt=\"It is a table with two rows and 8 columns. First row is x, 0, 0.5, 1, 1.5, 2, 2.5 and 3. Second row is f of x, 0, 4, 10, 18, 28, 40 and 54.\" height=\"51\" src=\"/images/b700d5421e861f712490b8e11ea22c72.png\" width=\"330\">\n<p>The table above gives selected values for a continuous function <em>f</em>. If <em>f</em> is increasing over the closed interval [ 0,3], which of the following could be the value of <span aria-label=\"the integral from 0 to 3 of f x d x\"><math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>3</mn> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>d</mi><mi>x</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWdXaWdaeaapeGaamOzaaWcpaqaa8qacaaIWaaapaqaa8qacaaIZaaaniabgUIiYdGcdaqadaWdaeaapeGaamiEaaGaayjkaiaawMcaaiaadsgacaWG4baaaa@3F91@</annotation> </semantics> </math></span>?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>50</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>62</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>77</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>100</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>154</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.2",
+    "text": "6.2: Approximating Areas with Riemann Sums"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Explain how an approximated value relates to the actual value."
+  }
+}

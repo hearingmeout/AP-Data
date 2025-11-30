@@ -1,0 +1,43 @@
+{
+  "id": "FT546209",
+  "type": "mcq",
+  "title": "Inference procedure for talkative and quiet study",
+  "content": {
+    "prompt": "<p>A study compared the language skills and mental development of two groups of 24-month-old children. One group consisted of children identified as talkative, and the other group consisted of children identified as quiet. The scores for the two groups on a test that measured language skills are shown in the table below.</p>\n\n<p><img alt=\"A table is shown with two rows. The first row reads talkative, 75, 70, 70, 65, 85, 85, 80, 90, 90, and 60. The second row reads quiet, 80, 75, 65, 70, 90, 90, 75, 85, 75, 80.\" height=\"71\" src=\"/images/9d00b8d2746bbd4a88f8a82e3ba1c3f5.png\" width=\"575\"></p>\n\n<p>Assuming that it is reasonable to regard the groups as simple random samples and that the other conditions for inference are met, what statistical test should be used to determine if there is a significant difference in the average test score of talkative and quiet children at the age of 24 months?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>A chi-square goodness-of-fit test</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>A chi-square test of independence</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>A matched-pairs <em>t</em>-test for means</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>A two-sample <em>t</em>-test for means</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p> A linear regression <em>t</em>-test</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.8",
+    "text": "7.8: Setting Up a Test for the Difference of Two Population Means"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Identify an appropriate inference method for significance tests."
+  }
+}

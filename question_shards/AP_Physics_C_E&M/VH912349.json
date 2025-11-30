@@ -1,0 +1,43 @@
+{
+  "id": "VH912349",
+  "type": "mcq",
+  "title": "Residual plot",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"passage\">\n<div class=\"prose style:1\">\n<p class=\"passage_para\">The following is a residual plot from a regression of a variable with the independent variable <span class=\"math_expression\"><span aria-label=\"x\"><math alttext=\"x\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math></span></span>.</p>\n</div>\n</div>\n\n<div class=\"standalone_image\"><img alt=\"The figure presents a scatterplot in a coordinate plane. The horizontal axis is labeled x, and the numbers 0 through 8, in increments of 1, are indicated. The vertical axis labeled Residuals, and the numbers negative 1.0 through 0.6, in increments of 0.2, are indicated. There are 24 data points in the scatterplot, and a horizontal line is drawn at Residual value 0.0. The data points are scattered throughout the plane. There are 14 data points scattered above the horizontal line at 0.0., and 10 data points scattered below the horizontal line at 0.0.\" height=\"316\" src=\"/images/f6cb031992d57330bd35cc67949dbe59.png\" width=\"500\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">Based on the plot, is it reasonable to conclude that a linear model is appropriate?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Yes, because the plot shows no apparent pattern.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Yes, because the points in the plot display less variation as <span class=\"math_expression\"><span aria-label=\"x\"><math alttext=\"x\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math></span></span> increases.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Yes, because the sum of the residuals is close to zero.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No, because the plot shows no apparent pattern.</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No, because the points in the plot display more variation as <span class=\"math_expression\"><span aria-label=\"x\"><math alttext=\"x\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math></span></span> increases.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.7",
+    "text": "2.7: Residuals"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Describe data presented numerically or graphically."
+  }
+}

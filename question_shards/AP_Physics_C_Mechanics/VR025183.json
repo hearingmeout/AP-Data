@@ -1,0 +1,43 @@
+{
+  "id": "VR025183",
+  "type": "mcq",
+  "title": "Maximum height after block-dart collision",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR025142.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">The block and projectile smoothly transition onto the inclined plane. Which of the following is a correct expression for the maximum height that the block moves up the inclined plane in terms of <span class=\"math_expression\"><span aria-label=\"v sub f\"><math alttext=\"v sub f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><msub><mrow><mi>v</mi></mrow><mrow><mi>f</mi></mrow></msub></mrow></mrow></mstyle></math></span></span> ?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction v sub f squared over 2 g\"><math alttext=\"the fraction v sub f squared over 2 g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mfrac><mrow><msubsup><mrow><mi>v</mi></mrow><mrow><mi>f</mi></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>2</mn><mi>g</mi></mrow></mfrac></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction v sub f over the square root of 2 g\"><math alttext=\"the fraction v sub f over the square root of 2 g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mfrac><mrow><msub><mrow><mi>v</mi></mrow><mrow><mi>f</mi></mrow></msub></mrow><mrow><msqrt><mrow><mn>2</mn><mi>g</mi></mrow></msqrt></mrow></mfrac></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction uppercase M v sub f squared over 2 lowercase m g\"><math alttext=\"the fraction uppercase M v sub f squared over 2 lowercase m g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mfrac><mrow><mi>M</mi><msubsup><mrow><mi>v</mi></mrow><mrow><mi>f</mi></mrow><mrow><mn>2</mn></mrow></msubsup></mrow><mrow><mn>2</mn><mi>m</mi><mi>g</mi></mrow></mfrac></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction 2 g over v sub f squared\"><math alttext=\"the fraction 2 g over v sub f squared\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mfrac><mrow><mn>2</mn><mi>g</mi></mrow><mrow><msubsup><mrow><mi>v</mi></mrow><mrow><mi>f</mi></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction 2 g over v sub f\"><math alttext=\"the fraction 2 g over v sub f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mfrac><mrow><mn>2</mn><mi>g</mi></mrow><mrow><msub><mrow><mi>v</mi></mrow><mrow><mi>f</mi></mrow></msub></mrow></mfrac></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Work, Energy, and Power"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: Translational Kinetic Energy"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

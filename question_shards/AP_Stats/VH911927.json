@@ -1,0 +1,43 @@
+{
+  "id": "VH911927",
+  "type": "mcq",
+  "title": "Transformations of cubic relationship",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Data were collected on two variables, <span class=\"math_expression\"><span aria-label=\"x\"><math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math></span></span> and <span class=\"math_expression\"><span aria-label=\"y\"><math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi></mrow></mstyle></math></span></span>, to create a model to predict <span class=\"math_expression\"><span aria-label=\"y\"><math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi></mrow></mstyle></math></span></span> from <span class=\"math_expression\"><span aria-label=\"x\"><math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math></span></span>. A scatterplot of the collected data revealed a curved pattern with a possible cubic relationship (<span class=\"math_expression\"><span aria-label=\"y equals a times x cubed\"><math alttext=\"y equals a times x cubed\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mi>a</mi><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mstyle></math></span></span>, where <span class=\"math_expression\"><span aria-label=\"a\"><math alttext=\"a\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>a</mi></mrow></mstyle></math></span></span> is a constant) between the variables. Which of the following transformations would be most appropriate for creating linearity between the variables?</p>\n",
+    "answer": "i5",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Taking the cube of <span class=\"math_expression\"><span aria-label=\"y\"><math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Taking the cube root of <span class=\"math_expression\"><span aria-label=\"y \"><math alttext=\"y \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Taking the cube root of both <span class=\"math_expression\"><span aria-label=\"y \"><math alttext=\"y \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi></mrow></mstyle></math></span></span> and <span class=\"math_expression\"><span aria-label=\"x \"><math alttext=\"x \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Taking the log of <span class=\"math_expression\"><span aria-label=\"y\"><math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Taking the log of both <span class=\"math_expression\"><span aria-label=\"y\"><math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi></mrow></mstyle></math></span></span> and <span class=\"math_expression\"><span aria-label=\"x\"><math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math></span></span></p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.9",
+    "text": "2.9: Analyzing Departures from Linearity"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}

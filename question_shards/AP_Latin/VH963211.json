@@ -1,0 +1,43 @@
+{
+  "id": "VH963211",
+  "type": "mcq",
+  "title": "V-t graph for coffee filter lab",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VH963171.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include>\n<div class=\"stimulus_reference\">\n<div class=\"standalone_image\"><img alt=\"The figure presents a graph in the first quadrant of the coordinate plane with the horizontal axis labeled t and the vertical axis labeled v. The line begins at the origin and curves upwards and to the right at a decreasing rate.\" height=\"253\" src=\"/images/6bff21904535251449e945a543ec092e.png\" width=\"400\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">Data from the motion detector is used to produce the graph shown for the speed as a function of time for the filter as it falls to the ground. Which of the following describes the speed and magnitude of acceleration of the coffee filter as it falls?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"></p><div class=\"table_wrapper\"><table class=\"tgroup cols:2\"><thead class=\"thead\"><tr class=\"row\"><th class=\"entry colname:col1\">Speed</th><th class=\"entry colname:col2\">Magnitude of the Acceleration</th></tr></thead><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry colname:col1\">Increasing</td><td class=\"entry colname:col2\">Increasing</td></tr></tbody></table></div>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"></p><div class=\"table_wrapper\"><table class=\"tgroup cols:2\"><thead class=\"thead\"><tr class=\"row\"><th class=\"entry colname:col1\">Speed</th><th class=\"entry colname:col2\">Magnitude of the Acceleration</th></tr></thead><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry colname:col1\">Decreasing</td><td class=\"entry colname:col2\">Decreasing</td></tr></tbody></table></div>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"></p><div class=\"table_wrapper\"><table class=\"tgroup cols:2\"><thead class=\"thead\"><tr class=\"row\"><th class=\"entry colname:col1\">Speed</th><th class=\"entry colname:col2\">Magnitude of the Acceleration</th></tr></thead><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry colname:col1\">Increasing</td><td class=\"entry colname:col2\">Decreasing</td></tr></tbody></table></div>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"></p><div class=\"table_wrapper\"><table class=\"tgroup cols:2\"><thead class=\"thead\"><tr class=\"row\"><th class=\"entry colname:col1\">Speed</th><th class=\"entry colname:col2\">Magnitude of the Acceleration</th></tr></thead><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry colname:col1\">Decreasing</td><td class=\"entry colname:col2\">Increasing</td></tr></tbody></table></div>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"></p><div class=\"table_wrapper\"><table class=\"tgroup cols:2\"><thead class=\"thead\"><tr class=\"row\"><th class=\"entry colname:col1\">Speed</th><th class=\"entry colname:col2\">Magnitude of the Acceleration</th></tr></thead><tbody class=\"tbody\"><tr class=\"row\"><td class=\"entry colname:col1\">Increasing</td><td class=\"entry colname:col2\">Remains the same</td></tr></tbody></table></div>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Representing Motion"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

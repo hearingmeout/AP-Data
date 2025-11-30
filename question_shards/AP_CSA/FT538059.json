@@ -1,0 +1,39 @@
+{
+  "id": "FT538059",
+  "type": "mcq",
+  "title": "checkArray Postcondition",
+  "content": {
+    "prompt": "<p>Consider the following instance variable and method.</p>\n<p><img alt=\"A 16-line code segment reads as follows. Line 1: private int, open square bracket, close square bracket, array, semicolon. Line 2: blank.  Line 3: forward slash, asterisk, asterisk, Precondition, colon, array, dot, length greater than 0. Line 4: asterisk, forward slash. Line 5: public int check Array, open parenthesis, close parenthesis. Line 6: open brace. Line 7: int loc equals array, dot, length, division slash, 2, semicolon. Line 8: for, open parenthesis, int k equals 0, semicolon, k less than array, dot, length, semicolon, k, plus, plus, close parenthesis. Line 9: open brace. Line 10: if, open parenthesis, array, open square bracket, k, close square bracket, greater than array, open square bracket, loc, close square bracket, close parenthesis. Line 11: open brace. Line 12: loc equals k, semicolon. Line 13: close brace. Line 14: close brace. Line 15: return loc, semicolon. Line 16: close brace.\" height=\"398\" src=\"/images/81f7d227d5b72f7ffb7c8f23a56195bd.jpg\" width=\"417\"></p>\n<p>Which of the following is the best postcondition for checkArray ?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i1",
+        "label": "<p>Returns the index of the last element in array array whose value is greater than array [loc]</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Returns the largest value in array array </p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Returns the index of the largest value in array array </p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>Returns the index of the largest value in the second half of array array </p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implementing Array Algorithms"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

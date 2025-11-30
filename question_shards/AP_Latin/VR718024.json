@@ -1,0 +1,39 @@
+{
+  "id": "VR718024",
+  "type": "mcq",
+  "title": "Linear and rotation - how to calculate rim speed",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">A horizontal disk rotates about a vertical axis through its center. If the rotation rate is given in revolutions per second and the disk’s radius is given in meters, which of the following best describes how the linear speed, in meters per second, of a point on the outer rim of the disk can be determined?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Multiply the given rotation rate by <span class=\"math_expression\"><span aria-label=\"2 pi\"><math alttext=\"2 pi\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mi>π</mi></math></span></span> and then multiply by the given radius.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Multiply the given rotation rate by <span class=\"math_expression\"><span aria-label=\"2 pi\"><math alttext=\"2 pi\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mi>π</mi></math></span></span> and then divide by the given radius.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Multiply the given rotation rate by the given radius.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Divide the given rotation rate by the given radius.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.2",
+    "text": "5.2: Connecting Linear and Rotational Motion"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

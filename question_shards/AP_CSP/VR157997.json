@@ -1,0 +1,35 @@
+{
+  "id": "VR157997",
+  "type": "mcq",
+  "title": "Move element from end of list to beginning",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following code segments transforms the list as intended?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">len <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> LENGTH(utensils)</p><p class=\"code_line\">temp <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> utensils[len]</p><p class=\"code_line\">REMOVE(utensils, len)</p><p class=\"code_line\">APPEND(utensils, temp)</p></div>",
+        "value": "i1"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">len <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> LENGTH(utensils)</p><p class=\"code_line\">REMOVE(utensils, len)</p><p class=\"code_line\">temp <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> utensils[len]</p><p class=\"code_line\">APPEND(utensils, temp)</p></div>",
+        "value": "i2"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">len <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> LENGTH(utensils)</p><p class=\"code_line\">temp <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> utensils[len]</p><p class=\"code_line\">REMOVE(utensils, len)</p><p class=\"code_line\">INSERT(utensils, 1, temp)</p></div>",
+        "value": "i3"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">len <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> LENGTH(utensils)</p><p class=\"code_line\">REMOVE(utensils, len)</p><p class=\"code_line\">temp <span class=\"math_expression\"><span aria-label=\"←\"><math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math></span></span> utensils[len]</p><p class=\"code_line\">INSERT(utensils, 1, temp)</p></div>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.10",
+    "text": "3.10: Lists"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

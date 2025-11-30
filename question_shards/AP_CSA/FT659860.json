@@ -1,0 +1,39 @@
+{
+  "id": "FT659860",
+  "type": "mcq",
+  "title": "2D array mat sum",
+  "content": {
+    "prompt": "<p style=\"margin-bottom:11px\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"></span></span></span>Assume<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\"> mat </span></span></span></span>is defined as follows.<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"></span></span></span></p>\n<p style=\"text-indent:.5in; margin-bottom:0px\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">int dim = 4;</span></span></span></span></p>\n<p style=\"text-indent:.5in; margin-bottom:11px\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">int[][] mat = new int[dim][dim];</span></span></span></span></p>\n<p>Consider the following code segment.</p>\n<p style=\"text-indent:.5in; margin-bottom:11px\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">int sum = 0;</span></span></span></span></p>\n<p style=\"text-indent:.5in; margin-bottom:0px\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">for (int row = 0; row &lt; dim; row++)</span></span></span></span></p>\n<p style=\"text-indent:.5in; margin-bottom:0px\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">{</span></span></span></span></p>\n<p style=\"text-indent:.5in; margin-bottom:0px\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">&nbsp; sum = sum + mat[row][dim - 1];</span></span></span></span></p>\n<p style=\"margin-left:48px; margin-bottom:11px\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\">}</span></span></span></span></p>\n<p style=\"margin-bottom:11px\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"></span></span></span>Assume that<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\"> mat </span></span></span></span>contains the following values before the code segment is executed. Note that<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\"> mat[0][3] </span></span></span></span>is<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\"> 2</span></span></span></span>.<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\"></span></span></span></span></p>\n<table class=\"table table-bordered lrn_width_auto\">\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td><strong>0</strong></td>\n<td><strong>1</strong></td>\n<td><strong>2</strong></td>\n<td><strong>3</strong></td>\n</tr>\n<tr>\n<td><strong>0</strong></td>\n<td>1</td>\n<td>1</td>\n<td>2</td>\n<td>2</td>\n</tr>\n<tr>\n<td><strong>1</strong></td>\n<td>1</td>\n<td>2</td>\n<td>2</td>\n<td>4</td>\n</tr>\n<tr>\n<td><strong>2</strong></td>\n<td>1</td>\n<td>3</td>\n<td>2</td>\n<td>6</td>\n</tr>\n<tr>\n<td><strong>3</strong></td>\n<td>1</td>\n<td>4</td>\n<td>2</td>\n<td>8</td>\n</tr>\n</tbody>\n</table>\n<p style=\"margin-left: 80px;\">&nbsp;</p>\n<p style=\"margin-bottom:11px\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"></span></span></span>What value will<span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-family:&quot;Courier New&quot;\"> sum </span><span style=\"font-family:&quot;Times New Roman&quot;,serif\">contain after the code segment is executed?</span></span></span></span></p>\n",
+    "answer": "4",
+    "choices": [
+      {
+        "label": "6",
+        "value": "0"
+      },
+      {
+        "label": "8",
+        "value": "1"
+      },
+      {
+        "label": "15",
+        "value": "3"
+      },
+      {
+        "label": "20",
+        "value": "4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.13",
+    "text": "4.13: Implementing 2D Array Algorithms"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

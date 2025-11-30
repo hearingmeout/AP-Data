@@ -1,0 +1,39 @@
+{
+  "id": "HTD000005",
+  "type": "mcq",
+  "title": "Song class - describe behavior",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following statements is true?</p>",
+    "answer": "01JXVA81XBT32ZB25DH2NMN2ER",
+    "choices": [
+      {
+        "value": "01JXVA81XAW2VXKGD4GNFTC17V",
+        "label": "<p class=\"dap_body\"><code class=\"dap_inline\">artist</code>,&nbsp; <code class=\"dap_inline\">title</code>,&nbsp; and&nbsp; <code class=\"dap_inline\">album</code>&nbsp; are instances of the&nbsp; <code class=\"dap_inline\">Song</code>&nbsp; class.</p>"
+      },
+      {
+        "value": "01JXVA81XB64SAPH1TDNSY60V6",
+        "label": "<p class=\"dap_body\"><code class=\"dap_inline\">happyBirthday</code>&nbsp; is an instance of three&nbsp; <code class=\"dap_inline\">String</code>&nbsp; objects.</p>"
+      },
+      {
+        "value": "01JXVA81XBT32ZB25DH2NMN2ER",
+        "label": "<p class=\"dap_body\"><code class=\"dap_inline\">happyBirthday</code>&nbsp; is an instance of the&nbsp; <code class=\"dap_inline\">Song</code>&nbsp; class.</p>"
+      },
+      {
+        "value": "01JXVA81XBR8B27MN0H2FPT0TM",
+        "label": "<p class=\"dap_body\"><code class=\"dap_inline\">Song</code>&nbsp; is an instance of the&nbsp; <code class=\"dap_inline\">happyBirthday</code>&nbsp; object.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.12",
+    "text": "1.12: Objects: Instances of Classes"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

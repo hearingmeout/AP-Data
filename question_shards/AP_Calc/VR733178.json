@@ -1,0 +1,39 @@
+{
+  "id": "VR733178",
+  "type": "mcq",
+  "title": "Representations - Functions as Power Series",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Let <span class=\"math_expression\"><span aria-label=\"f\"><math alttext=\"f\" overflow=\"scroll\"><mi>f</mi></math></span></span> be the function with <span class=\"math_expression\"><span aria-label=\"f of 0 equals 0\"><math alttext=\"f of 0 equals 0\" overflow=\"scroll\"><mi>f</mi><mpadded><mo>(</mo><mpadded><mn>0</mn></mpadded><mo>)</mo></mpadded><mo>=</mo><mn>0</mn></math></span></span> and derivative given by <span class=\"math_expression\"><span aria-label=\"f prime of x equals, the cosine of x squared\"><math alttext=\"f prime of x equals, the cosine of x squared\" overflow=\"scroll\"><msup><mi>f</mi><mo>′</mo></msup><mpadded><mo>(</mo><mpadded><mi>x</mi></mpadded><mo>)</mo></mpadded><mo>=</mo><mi>cos</mi><mo>⁡</mo><mpadded><mo>(</mo><mpadded><msup><mi>x</mi><mn>2</mn></msup><mspace height=\"2.4ex\"></mspace></mpadded><mo>)</mo></mpadded></math></span></span>. Which of the following is the Maclaurin series for <span class=\"math_expression\"><span aria-label=\"f\"><math alttext=\"f\" overflow=\"scroll\"><mi>f</mi></math></span></span> ?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the sum from n equals 0 to infinity, of, the fraction with numerator, open parenthesis, negative 1, close parenthesis, to the n power, times x raised to the 2 n power, and denominator, open parenthesis, 2 n, close parenthesis, factorial, end fraction\"><math alttext=\"the sum from n equals 0 to infinity, of, the fraction with numerator, open parenthesis, negative 1, close parenthesis, to the n power, times x raised to the 2 n power, and denominator, open parenthesis, 2 n, close parenthesis, factorial, end fraction\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>n</mi><mo>=</mo><mn>0</mn></mrow><mi>∞</mi></munderover></mstyle><mfrac><mpadded><msup><mrow><mo>(</mo><mpadded><mo>-</mo><mn>1</mn></mpadded><mo>)</mo></mrow><mi>n</mi></msup><msup><mi>x</mi><mrow><mn>2</mn><mi>n</mi></mrow></msup></mpadded><mrow><mpadded><mo>(</mo><mpadded><mn>2</mn><mi>n</mi></mpadded><mo>)</mo></mpadded><mo>!</mo></mrow></mfrac></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the sum from n equals 0 to infinity, of, the fraction with numerator, open parenthesis, negative 1, close parenthesis, to the n power, times x raised to the 4 n power, and denominator, open parenthesis, 2 n, close parenthesis, factorial, end fraction\"><math alttext=\"the sum from n equals 0 to infinity, of, the fraction with numerator, open parenthesis, negative 1, close parenthesis, to the n power, times x raised to the 4 n power, and denominator, open parenthesis, 2 n, close parenthesis, factorial, end fraction\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>n</mi><mo>=</mo><mn>0</mn></mrow><mi>∞</mi></munderover></mstyle><mfrac><mpadded><msup><mrow><mo>(</mo><mpadded><mo>-</mo><mn>1</mn></mpadded><mo>)</mo></mrow><mi>n</mi></msup><msup><mi>x</mi><mrow><mn>4</mn><mi>n</mi></mrow></msup></mpadded><mrow><mpadded><mo>(</mo><mpadded><mn>2</mn><mi>n</mi></mpadded><mo>)</mo></mpadded><mo>!</mo></mrow></mfrac></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the sum from n equals 0 to infinity, of, the fraction with numerator, open parenthesis, negative 1, close parenthesis, to the n power, times x raised to the 4 n plus 1, power, and denominator, open parenthesis, 4 n plus 1, close parenthesis, times, open parenthesis, 2 n, close parenthesis, factorial, end fraction\"><math alttext=\"the sum from n equals 0 to infinity, of, the fraction with numerator, open parenthesis, negative 1, close parenthesis, to the n power, times x raised to the 4 n plus 1, power, and denominator, open parenthesis, 4 n plus 1, close parenthesis, times, open parenthesis, 2 n, close parenthesis, factorial, end fraction\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>n</mi><mo>=</mo><mn>0</mn></mrow><mi>∞</mi></munderover></mstyle><mfrac><mpadded><msup><mrow><mo>(</mo><mpadded><mo>-</mo><mn>1</mn></mpadded><mo>)</mo></mrow><mi>n</mi></msup><msup><mi>x</mi><mrow><mn>4</mn><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msup></mpadded><mrow><mpadded><mo>(</mo><mpadded><mn>4</mn><mi>n</mi><mo>+</mo><mn>1</mn></mpadded><mo>)</mo></mpadded><mpadded><mo>(</mo><mpadded><mn>2</mn><mi>n</mi></mpadded><mo>)</mo></mpadded><mo>!</mo></mrow></mfrac></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the sum from n equals 0 to infinity, of, the fraction with numerator, open parenthesis, negative 1, close parenthesis, to the n power, times, open parenthesis, 4 n, close parenthesis, times x raised to the 4 n minus 1, power, and denominator, open parenthesis, 2 n, close parenthesis, factorial, end fraction\"><math alttext=\"the sum from n equals 0 to infinity, of, the fraction with numerator, open parenthesis, negative 1, close parenthesis, to the n power, times, open parenthesis, 4 n, close parenthesis, times x raised to the 4 n minus 1, power, and denominator, open parenthesis, open parenthesis, 2 n, close parenthesis, factorial, end fraction\" overflow=\"scroll\"> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>n</mi> <mo>=</mo> <mn>0</mn> </mrow> <mi>∞</mi> </munderover> </mstyle> <mfrac> <mpadded> <msup> <mrow> <mo>(</mo> <mpadded> <mo>-</mo> <mn>1</mn> </mpadded> <mo>)</mo> </mrow> <mi>n</mi> </msup> <mpadded> <mo>(</mo> <mpadded> <mn>4</mn> <mi>n</mi> </mpadded> <mo>)</mo> </mpadded> <msup> <mi>x</mi> <mrow> <mn>4</mn> <mi>n</mi> <mo>-</mo> <mn>1</mn> </mrow> </msup> </mpadded> <mrow> <mpadded> <mo>(</mo> <mpadded> <mn>2</mn> <mi>n</mi> </mpadded> <mo>)</mo> </mpadded> <mo>!</mo> </mrow> </mfrac> </math></span></span></p>\n",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.15",
+    "text": "10.15: (BC ONLY) Representing Functions as Power Series"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

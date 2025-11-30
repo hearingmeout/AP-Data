@@ -1,0 +1,39 @@
+{
+  "id": "FT573821",
+  "type": "mcq",
+  "title": "Integration with partial fractions",
+  "content": {
+    "prompt": "<span aria-label=\"the integral of the fraction with numerator 8 x minus 10 and denominator open paren 2 x minus 1 close paren times open paren x plus 1 close paren d x is equal to\"><math> <mrow> <mstyle displaystyle=\"true\"> <mrow><mo>∫</mo> <mrow> <mfrac> <mrow> <mn>8</mn><mi>x</mi><mo>−</mo><mn>10</mn></mrow> <mrow> <mrow><mo>(</mo> <mrow> <mn>2</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow> <mo>)</mo></mrow><mrow><mo>(</mo> <mrow> <mi>x</mi><mo>+</mo><mn>1</mn></mrow> <mo>)</mo></mrow></mrow> </mfrac> </mrow> </mrow> </mstyle><mtext> </mtext><mi>d</mi><mi>x</mi><mo>=</mo></mrow> </math></span>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>-4 ln |2x-1| + 6 ln |x+1| + C</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>-2 ln |2x-1| + 6 ln |x+1| + C</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>3 ln |2x-1| - 4 ln |x+1| + C</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>6 ln |2x-1| - 4 ln |x+1| + C</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.12",
+    "text": "6.12: (BC ONLY) Integrating Using Linear Partial Fractions"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

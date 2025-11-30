@@ -1,0 +1,39 @@
+{
+  "id": "CQP000002",
+  "type": "mcq",
+  "title": "Patient data privacy - explain impact",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following statements best describes the privacy of the customer’s payment information?</p>",
+    "answer": "01JGM0MQ8ZS8NQC5J8WPX5KC56",
+    "choices": [
+      {
+        "value": "01JGM0MQ8Y0305JGERDCY3ZNTK",
+        "label": "<p class=\"dap_body\">It is considered private because retrieving it requires a password.</p>"
+      },
+      {
+        "value": "01JGM0MQ8ZAD9G0H2WKTBQZGC4",
+        "label": "<p class=\"dap_body\">It is considered private because the value of the instance variable &nbsp;<code class=\"dap_inline\">cName</code>&nbsp; is not easy to guess.</p>"
+      },
+      {
+        "value": "01JGM0MQ8ZS8NQC5J8WPX5KC56",
+        "label": "<p class=\"dap_body\">It is not considered private because the instance variables are declared&nbsp; <span class=\"dap_inline\">public</span>.</p>"
+      },
+      {
+        "value": "01JGM0MQ90NKN81NZP30RWCYPW",
+        "label": "<p class=\"dap_body\">It is not considered private because the &nbsp;<code class=\"dap_inline\">getName</code>&nbsp; method has no password parameter.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.1",
+    "text": "4.1: Ethical and Social Issues Around Data Collection"
+  },
+  "skill": {
+    "code": "5.A",
+    "text": "5.A: Explain how computing impacts society, economy, and culture."
+  }
+}

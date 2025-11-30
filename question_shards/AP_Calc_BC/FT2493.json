@@ -1,0 +1,43 @@
+{
+  "id": "FT2493",
+  "type": "mcq",
+  "title": "Estimated value of a derivative from a table",
+  "content": {
+    "prompt": "<p>&nbsp;</p>\n\n<table class=\"table table-bordered lrn_width_auto\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><em>x</em></td>\n\t\t\t<td class=\"text-center\">2.5</td>\n\t\t\t<td class=\"text-center\">2.8</td>\n\t\t\t<td class=\"text-center\">3.0</td>\n\t\t\t<td class=\"text-center\">3.1</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td class=\"text-center\"><em>f(x)</em></td>\n\t\t\t<td class=\"text-center\">31.25</td>\n\t\t\t<td class=\"text-center\">39.20</td>\n\t\t\t<td class=\"text-center\">45</td>\n\t\t\t<td class=\"text-center\">48.05</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>The function f is differentiable and has values as shown in the table above. Both f &nbsp;and <em> </em><span aria-label=\"f prime\"><math> <semantics> <msup> <mi>f</mi> <mo>′</mo> </msup> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGabmOzayaafaaaaa@36EB@</annotation> </semantics> </math></span> are strictly increasing on the interval <span aria-label=\"0 is less than or equal to x comma x is less than or equal to 5\"><math> <semantics> <mrow> <mn>0</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>5</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaaIWaGaeyizImQaamiEaiabgsMiJkaaiwdaaaa@3BF4@</annotation> </semantics> </math></span>.&nbsp;Which of the following could be the value of <span aria-label=\"f prime times 3\"><math> <semantics> <mrow> <msup> <mi>f</mi> <mo>′</mo> </msup> <mo stretchy=\"false\">(</mo><mn>3</mn><mo stretchy=\"false\">)</mo> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGabmOzayaafaGaaiikaiaaiodacaGGPaaaaa@3901@</annotation> </semantics> </math></span>?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>20</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>27.5</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>29</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>30</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>30.5</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: Estimating Derivatives of a Function at a Point"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

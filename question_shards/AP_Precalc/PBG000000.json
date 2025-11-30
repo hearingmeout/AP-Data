@@ -1,0 +1,39 @@
+{
+  "id": "PBG000000",
+  "type": "mcq",
+  "title": "Polar Change - justifying change",
+  "content": {
+    "prompt": "<div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <p class=\"dap_body\">​The polar function&nbsp;<span aria-label=\"r equals f open parentheses theta close parentheses\"><math alttext=\"r equals f open parentheses theta close parentheses\"><semantics><mrow><mi>r</mi><mo>=</mo><mi>f</mi><mfenced><mi>θ</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>, where&nbsp;<span aria-label=\"f open parentheses theta close parentheses equals 3 sin theta\"><math alttext=\"f open parentheses theta close parentheses equals 3 sin theta\"><semantics><mrow><mi>f</mi><mfenced><mi>θ</mi></mfenced><mo>=</mo><mn>3</mn><mi>sin</mi><mi>θ</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>, is graphed in the polar coordinate system&nbsp;on the interval&nbsp;<span aria-label=\"0 less than theta less than pi over 2\"><math alttext=\"0 less than theta less than pi over 2\"><semantics><mrow><mn>0</mn><mo>&lt;</mo><mi>θ</mi><mo>&lt;</mo><mfrac><mi>π</mi><mn>2</mn></mfrac></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>. Which of the following statements is true about the distance between the origin and the point on the graph with polar coordinates&nbsp;<span aria-label=\"open parentheses f open parentheses theta close parentheses comma theta close parentheses\"><math alttext=\"open parentheses f open parentheses theta close parentheses comma theta close parentheses\"><semantics><mfenced><mrow><mi>f</mi><mfenced><mi>θ</mi></mfenced><mo>,</mo><mi>θ</mi></mrow></mfenced><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;?</p> </div> </div> </div>\n",
+    "answer": "A-65592",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\">​The distance is increasing, because&nbsp;<span aria-label=\"f open parentheses theta close parentheses\"><math alttext=\"f open parentheses theta close parentheses\"><semantics><mrow><mi>f</mi><mfenced><mi>θ</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;is positive and increasing on this interval.</p>",
+        "value": "A-65592"
+      },
+      {
+        "label": "<p class=\"dap_body\">​​The distance is decreasing, because&nbsp;<span aria-label=\"f open parentheses theta close parentheses\"><math alttext=\"f open parentheses theta close parentheses\"><semantics><mrow><mi>f</mi><mfenced><mi>θ</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;is positive and decreasing on this interval.</p>",
+        "value": "B-65593"
+      },
+      {
+        "label": "<p class=\"dap_body\">​​The distance is increasing, because&nbsp;<span aria-label=\"f open parentheses theta close parentheses\"><math alttext=\"f open parentheses theta close parentheses\"><semantics><mrow><mi>f</mi><mfenced><mi>θ</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;is negative and decreasing on this interval.</p>",
+        "value": "C-65594"
+      },
+      {
+        "label": "<p class=\"dap_body\">​​The distance is decreasing, because&nbsp;<span aria-label=\"f open parentheses theta close parentheses\"><math alttext=\"f open parentheses theta close parentheses\"><semantics><mrow><mi>f</mi><mfenced><mi>θ</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;is negative and increasing on this interval.</p>",
+        "value": "D-65595"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Trigonometric and Polar Functions"
+  },
+  "topic": {
+    "code": "3.15",
+    "text": "3.15: Rates of Change in Polar Functions"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Support conclusions or choices with a logical rationale or appropriate data."
+  }
+}

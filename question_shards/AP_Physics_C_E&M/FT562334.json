@@ -1,0 +1,43 @@
+{
+  "id": "FT562334",
+  "type": "mcq",
+  "title": "Compare boxplots of golf tournament scores",
+  "content": {
+    "prompt": "Based on the boxplots, which of the following statements must be true?",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>More golfers played in tournament 1 than in tournament 2. </p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>In both tournaments, at least half the golfers completed the tournament with a score less than 288. </p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The number of golfers who completed tournament 1 with a score less than 288 was greater than the number of golfers who completed tournament 2 with a score less than 288. </p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The range of scores for tournament 1 is less than the range of scores for tournament 2. </p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>The score of the golfer with the least score in tournament 1 was greater than the score of the golfer with the least score in tournament 2. </p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.8",
+    "text": "1.8: Graphical Representations of Summary Statistics"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Compare distributions or relative positions of points within a distribution."
+  }
+}

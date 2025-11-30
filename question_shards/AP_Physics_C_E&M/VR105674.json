@@ -1,0 +1,39 @@
+{
+  "id": "VR105674",
+  "type": "mcq",
+  "title": "Chi square - Flower cross",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Assuming two degrees of freedom, which of the following is the correct interpretation of the chi-square analysis, using a <span class=\"math_expression\"><span aria-label=\"p\" role=\"math\"><math alttext=\"p\" overflow=\"scroll\"><mstyle><mrow><mtext>p</mtext></mrow></mstyle></math></span></span>-value of <span class=\"math_expression\"><span aria-label=\"0.05\" role=\"math\"><math alttext=\"0.05\" overflow=\"scroll\"> <mstyle> <mrow> <mn>0.05</mn> </mrow> </mstyle> </math></span></span> ?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The null hypothesis should be rejected because the critical value is less than the calculated value.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The null hypothesis should not be rejected because the critical value is less than the calculated value.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The null hypothesis should not be rejected because the critical value is greater than the calculated value.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The null hypothesis should be rejected because the critical value is greater than the calculated value.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Heredity"
+  },
+  "topic": {
+    "code": "5.4",
+    "text": "5.4: Non-Mendelian Genetics"
+  },
+  "skill": {
+    "code": "5.C",
+    "text": "5.C: Perform chi-square hypothesis testing."
+  }
+}

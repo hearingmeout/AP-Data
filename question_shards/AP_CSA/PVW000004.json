@@ -1,0 +1,39 @@
+{
+  "id": "PVW000004",
+  "type": "mcq",
+  "title": "Dog class - explain error",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following can be used to replace line 2 so that this code segment will compile without error?</p>",
+    "answer": "01JCGZJVKCH266TSDBW07N343Y",
+    "choices": [
+      {
+        "value": "01JCGZJVKAA5GZF7J07N1F7BJT",
+        "label": "<pre><code class=\"language-plaintext\">double miles = calculateWalkLength(90);</code></pre>"
+      },
+      {
+        "value": "01JCGZJVKBPQP14PX0N5X8AHJW",
+        "label": "<pre><code class=\"language-plaintext\">double miles = Dog.calculateWalkLength(fido, 90);</code></pre>"
+      },
+      {
+        "value": "01JCGZJVKCS3KHD94RCYWNW18N",
+        "label": "<pre><code class=\"language-plaintext\">double miles = Dog.calculateWalkLength(90);</code></pre>"
+      },
+      {
+        "value": "01JCGZJVKCH266TSDBW07N343Y",
+        "label": "<pre><code class=\"language-plaintext\">double miles = fido.calculateWalkLength(90);</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.14",
+    "text": "1.14: Calling Instance Methods"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

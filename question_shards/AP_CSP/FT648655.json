@@ -1,0 +1,35 @@
+{
+  "id": "FT648655",
+  "type": "mcq",
+  "title": "Random movements for a robot",
+  "content": {
+    "prompt": "<p><b>Directions: The question or incomplete statement below is followed by four suggested answers or completions. Select the one that is best in each case.</b></p>\n\n<p>The question below uses a robot in a grid of squares. The robot is represented as a triangle, which is initially in the center square of the grid and facing toward the top of the grid.</p>\n\n<p class=\"text-center\"><img alt=\"The figure shows a 5 by 5 grid of squares. There is an upward-facing triangle representing a robot in the third square of row 3 from the top.\" height=\"138\" src=\"/images/9ae3bb592b757487a5368648c33008a2.JPG\" width=\"138\"></p>\n\n<p>The following code segment is used to move the robot within the grid.</p>\n\n<p><img alt=\"A coding program reads as follows. Line 1: x leftward arrow random left parenthesis 1 comma 3 right parenthesis. Line 2: Repeat x times. Line 3: Left curly bracket. Line 4: Rotate underscore right left parenthesis right parenthesis. Line 5: Right curly bracket. Line 6: y leftward arrow random left parenthesis 1 comma 2 right parenthesis. Line 7: Left curly bracket. Line 8: Move forward left parenthesis right parenthesis. Line 8: Right curly bracket.\n\" height=\"206\" src=\"/images/60a786fdfd1506d2068de4c43b1a3c96.JPG\" width=\"179\"></p>\n\n<p>A gray square represents a possible final location of the robot after the code segment is executed. Which of the following represents all possible final locations for the robot?</p>\n",
+    "answer": "1",
+    "choices": [
+      {
+        "label": "<img alt=\"Each option shows a grid of squares with 5 rows and 5 columns. There is an upward-facing arrow representing a robot in the third square of row 3.  The squares of the grid are as follows, from left to right and top to bottom: Row 1: white, white, white, white, white. Row 2: white, white, gray, white, white. Row 3: white, gray, white with robot facing upward, gray, white. Row 4: white, white, gray, white, white. Row 5: white, white, white, white, white.\" height=\"88\" src=\"/images/e8ea0bf839927a0a64c11e0f205a4a62.JPG\" width=\"88\">",
+        "value": "0"
+      },
+      {
+        "label": "<img alt=\"Each option shows a grid of squares with 5 rows and 5 columns. There is an upward-facing arrow representing a robot in the third square of row 3. The squares of the grid are as follows, from left to right and top to bottom: Row 1: white, white, white, white, white. Row 2: white, white, white, white, white. Row 3: gray, gray, white with robot facing upward, gray, gray. Row 4: white, white, gray, white, white. Row 5: white, white, gray, white, white.\" height=\"89\" src=\"/images/3f7cd6f258b46faf12cc0ec3aba62045.JPG\" width=\"88\">",
+        "value": "1"
+      },
+      {
+        "label": "<img alt=\"Each option shows a grid of squares with 5 rows and 5 columns. There is an upward-facing arrow representing a robot in the third square of row 3. The squares of the grid are as follows, from left to right and top to bottom: Row 1: white, white, gray, white, white. Row 2: white, white, gray, white, white. Row 3: white, white, white with robot facing upward, gray, gray. Row 4: white, white, gray, white, white. Row 5: white, white, gray, white, white.\" height=\"87\" src=\"/images/01f6f727abb7fa4ffbb9c0386a708bf1.JPG\" width=\"88\">",
+        "value": "2"
+      },
+      {
+        "label": "<img alt=\"Each option shows a grid of squares with 5 rows and 5 columns. There is an upward-facing arrow representing a robot in the third square of row 3. The squares of the grid are as follows, from left to right and top to bottom: Row 1: white, white, gray, white, white. Row 2: white, white, gray, white, white. Row 3: gray, gray, white with robot facing upward, gray, gray. Row 4: white, white, gray, white, white. Row 5: white, white, gray, white, white.\" height=\"88\" src=\"/images/a6cb0c77d26581a299cdb66ebd880fa7.JPG\" width=\"88\">",
+        "value": "3"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.15",
+    "text": "3.15: Random Values"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

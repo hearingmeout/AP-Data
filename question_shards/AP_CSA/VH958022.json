@@ -1,0 +1,39 @@
+{
+  "id": "VH958022",
+  "type": "mcq",
+  "title": "add elements from oldList to newList",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Consider the following code segment.</p><div class=\"standalone_code style:1\"><p class=\"code_line\">ArrayList&lt;Integer&gt; oldList = new ArrayList();</p><p class=\"code_line\">oldList.add(100);</p><p class=\"code_line\">oldList.add(200);</p><p class=\"code_line\">oldList.add(300);</p><p class=\"code_line\">oldList.add(400);</p><p class=\"code_line\"></p><p class=\"code_line\">ArrayList&lt;Integer&gt; newList = new ArrayList();</p><p class=\"code_line\">newList.add(oldList.remove(1));</p><p class=\"code_line\">newList.add(oldList.get(2));</p><p class=\"code_line\"></p><p class=\"code_line\">System.out.println(newList);</p></div><p class=\"stem_paragraph\">What, if anything, is printed as a result of executing the code segment?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">[100, 300, 400]</span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">[200, 300]</span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_code\">[200, 400]</span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Nothing is printed because the code segment does not compile.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

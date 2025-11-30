@@ -1,0 +1,43 @@
+{
+  "id": "FT562330",
+  "type": "mcq",
+  "title": "Compute mean ticket cost for musical performance",
+  "content": {
+    "prompt": "Based on the distribution shown, what is the mean cost per customer for the performance?",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>$2.45</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>$2.75</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>$24.50</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>$29.40</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>$36.00</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: Mean and Standard Deviation of Random Variables"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Determine parameters for probability distributions."
+  }
+}

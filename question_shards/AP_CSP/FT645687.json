@@ -1,0 +1,35 @@
+{
+  "id": "FT645687",
+  "type": "mcq",
+  "title": "Boolean variable needed for simulation",
+  "content": {
+    "prompt": "A student is writing a program to model different real-world events using simulations. Which of the following simulations will generate a result that would best be stored using a Boolean variable?",
+    "answer": "0",
+    "choices": [
+      {
+        "label": "A simulation of flipping a fair coin",
+        "value": "0"
+      },
+      {
+        "label": "A simulation of rolling a fair die (with sides numbered 1 through 6)",
+        "value": "1"
+      },
+      {
+        "label": "A simulation of the temperature in a location over time",
+        "value": "2"
+      },
+      {
+        "label": "A simulation of traffic patterns on a road",
+        "value": "3"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: Variables and Assignments"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Generalize data sources through variables."
+  }
+}

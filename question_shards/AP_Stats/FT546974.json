@@ -1,0 +1,43 @@
+{
+  "id": "FT546974",
+  "type": "mcq",
+  "title": "Effect of multiplying and adding on variance",
+  "content": {
+    "prompt": "<p>Each value in a sample has been transformed by multiplying by 3 and then adding 10. If the original sample had a variance of 4, what is the variance of the transformed sample?</p>",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>4</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>12</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>16</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>22</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>36</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.7",
+    "text": "1.7: Summary Statistics for a Quantitative Variable"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}

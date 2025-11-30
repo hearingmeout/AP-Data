@@ -1,0 +1,35 @@
+{
+  "id": "VR023832",
+  "type": "mcq",
+  "title": "Flowchart to set available",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following statements is equivalent to the algorithm in the flowchart?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"></span></p>\n<span class=\"inline_image\"><img alt=\"The figure presents a block of code that consists of 1 line. Throughout the code there are nested blocks of code. Line 1: [begin block] available ← [Begin Block] [begin block] weekday [end block] OR [begin block] miles are less than 20 [end block] [End Block] [end block]\" height=\"48\" src=\"/images/40ab05d980cfb6a79cb2a002e6724d91.png\" width=\"420\"></span>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"></span></p>\n<span class=\"inline_image\"><img alt=\"The figure presents a block of code that consists of 1 line. Throughout the code there are nested blocks of code. Line 1: [begin block] available ← [Begin Block] [begin block] weekday [end block] AND [begin block] miles are greater than or equal to 20 [end block] [End Block] [end block]\" height=\"60\" src=\"/images/87a59038e20fad3b36de205fb6938aa8.PNG\" width=\"428\"></span>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"></span></p>\n<span class=\"inline_image\"></span>\n<span class=\"inline_image\"><img alt=\"The figure presents a block of code that consists of 1 line. Throughout the code there are nested blocks of code. Line 1: [begin block] available ← [Begin Block] [begin block] weekday [end block] OR [begin block] miles are greater than or equal to 20 [end block] [End Block] [end block]\" height=\"48\" src=\"/images/5860512f50fb59a1de79a3bd0da099c8.png\" width=\"420\"></span>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"></span></p>\n<img alt=\"The figure presents a block of code that consists of 1 line. Throughout the code there are nested blocks of code. Line 1: [begin block] available ← [Begin Block] [begin block] weekday [end block] AND [begin block] miles are less than 20 [end block] [End Block] [end block] \" height=\"57\" src=\"/images/9282e4b528bcdefea617aa1db3938450.PNG\" width=\"429\">",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.9",
+    "text": "3.9: Developing Algorithms"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

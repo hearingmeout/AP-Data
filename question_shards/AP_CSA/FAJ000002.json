@@ -1,0 +1,39 @@
+{
+  "id": "FAJ000002",
+  "type": "mcq",
+  "title": "Fitness active level - explain error",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following best explains the error, if any, in this code segment?</p>",
+    "answer": "01JCH9JBE9G5GX68ZD6DC60082",
+    "choices": [
+      {
+        "value": "01JCH9JBE9F0S8D0DJ83NYHMET",
+        "label": "<p class=\"dap_body\">There is no error in the code segment as it correctly identifies “Active” step counts.</p>"
+      },
+      {
+        "value": "01JCH9JBE9G5GX68ZD6DC60082",
+        "label": "<p class=\"dap_body\">The condition should be <span class=\"dap_inline\">if (steps &gt;= 10000 &amp;&amp; steps &lt;= 15000)</span> to properly include 10,000 and 15,000.</p>"
+      },
+      {
+        "value": "01JCH9JBE8YQY78ZGCS0YTHJ6A",
+        "label": "<p class=\"dap_body\">The condition should be <span class=\"dap_inline\">if (steps &gt; 10000 || steps &lt; 15000)</span> to include the correct range of step counts.</p>"
+      },
+      {
+        "value": "01JCH9JBE9S077S20QD6FMZ6B1",
+        "label": "<p class=\"dap_body\">The condition should be <span class=\"dap_inline\">if (steps &gt;= 10000 || steps &lt;= 15000)</span> to include all step counts from 10,000 and above, as well as 15,000 and below.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.5",
+    "text": "2.5: Compound Boolean Expressions"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

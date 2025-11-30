@@ -1,0 +1,35 @@
+{
+  "id": "VR169995",
+  "type": "mcq",
+  "title": "Data not provided by Alejandra but needed",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR169993.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">Which of the following data is not provided by Alejandra but is necessary for DineOutHelper to recommend a restaurant for the group?</p><ol class=\"ordered_list style:1\"><li class=\"list_paragraph\">Brandon’s contact list</li><li class=\"list_paragraph\">Information about which restaurants Brandon and Cynthia have visited in the past</li><li class=\"list_paragraph\">Information about which food allergies and dietary restrictions can be accommodated at different restaurants near Alejandra</li></ol>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">II only</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">III only</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">II and III only</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">I, II, and III</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "1.2",
+    "text": "1.2: Program Function and Purpose"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Generalize data sources through variables."
+  }
+}

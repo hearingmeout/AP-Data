@@ -1,0 +1,35 @@
+{
+  "id": "VR156070",
+  "type": "mcq",
+  "title": "Use of weak passwords",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following best explains how devices and information can be susceptible to unauthorized access if weak passwords are used?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Unauthorized individuals can deny service to a computing system by overwhelming the system with login attempts.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Unauthorized individuals can exploit vulnerabilities in compression algorithms to determine a user’s password from their decompressed data.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Unauthorized individuals can exploit vulnerabilities in encryption algorithms to determine a user’s password from their encryption key.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Unauthorized individuals can use data mining and other techniques to guess a user’s password.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "5.6",
+    "text": "5.6: Safe Computing"
+  },
+  "skill": {
+    "code": "Skill 5.E",
+    "text": "Skill 5.E: Evaluate the use of computing based on legal and ethical factors."
+  }
+}

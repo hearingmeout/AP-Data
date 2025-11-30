@@ -1,0 +1,43 @@
+{
+  "id": "VR000172",
+  "type": "mcq",
+  "title": "Peach ice cream",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">A scientist selected a random sample of seven varieties of peach ice cream to investigate the relationship between the density, in pounds per cubic inch, of the varieties of ice cream and the percent concentration of peaches in the ice cream. Assuming all conditions for inference are met, which of the following significance tests should be used to investigate whether there is convincing evidence at the 0.05 level of significance that a greater percent of peaches in the ice cream is associated with an increase in the density of the ice cream?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">A two-sample <span class=\"math_expression\"><span aria-label=\"t\"><math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math></span></span>-test for a difference between means</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">A chi-square test of independence</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">A linear regression <span class=\"math_expression\"><span aria-label=\"t\"><math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math></span></span>-test for slope</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">A two-sample <span class=\"math_expression\"><span aria-label=\"z\"><math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math></span></span>-test for a difference between proportions</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">A matched pairs <span class=\"math_expression\"><span aria-label=\"t\"><math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math></span></span>-test for a mean difference</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Inference for Quantitative Data-Slopes"
+  },
+  "topic": {
+    "code": "9.4",
+    "text": "9.4: Setting Up a Test for the Slope of a Regression Model"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Identify an appropriate inference method for significance tests."
+  }
+}

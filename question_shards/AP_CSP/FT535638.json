@@ -1,0 +1,35 @@
+{
+  "id": "FT535638",
+  "type": "mcq",
+  "title": "Using procedure IsFound with lists",
+  "content": {
+    "prompt": "<p>The code segment below uses the procedure<em> IsFound (list, item)</em>, which returns <em>true</em> if <em>item</em> appears in <em>list</em> and returns<em> false</em> otherwise. The list <em>resultList</em> is initially empty.</p>\n\n<p><img alt=\"Seven lines of coding program reads as follows. First line: For each item in input List 1. Second line: Left curly bracket. Third line: indented, If left parenthesis is found left parenthesis input List 2, item right parenthesis. Fourth line: indented, left curly bracket. Fifth line: indented, Append left parenthesis result List, item right parenthesis. Sixth line: indented, right curly bracket. Seventh line: right curly bracket\" height=\"149\" src=\"/images/4239970e645b4f407c286ed9a7beb6a3.png\" width=\"355\"></p>\n\n<p>Which of the following best describes the contents of <em>resultList</em> after the code segment is executed?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>All elements in<em> inputList1 </em> followed by all elements in <em> inputList2</em> </p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Only elements that appear in both <em>inputList1</em>  and  <em>inputList2 </em></p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Only elements that appear in either  <em>inputList1 </em> or  <em>inputList2</em>  but not in both lists </p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Only elements that appear in  <em>inputList1 </em> but not in  <em>inputList2 </em></p>"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.10",
+    "text": "3.10: Lists"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

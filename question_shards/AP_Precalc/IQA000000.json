@@ -1,0 +1,39 @@
+{
+  "id": "IQA000000",
+  "type": "mcq",
+  "title": "Logarithmic Modeling - life expectancy",
+  "content": {
+    "prompt": "<div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <p class=\"dap_body\">​The life expectancy for a human in the United States can be modeled by the function&nbsp;<span aria-label=\"L\"><math alttext=\"L\"><semantics><mi>L</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;given by&nbsp;<span aria-label=\"L open parentheses x close parentheses equals 42.53 plus 13.86 ln x\"><math alttext=\"L open parentheses x close parentheses equals 42.53 plus 13.86 ln x\"><semantics><mrow><mi>L</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>42.53</mn><mo>+</mo><mn>13.86</mn><mi>ln</mi><mi>x</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>.&nbsp;<span aria-label=\"L open parentheses x close parentheses\"><math alttext=\"L open parentheses x close parentheses\"><semantics><mrow><mi>L</mi><mfenced><mi>x</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;gives the life expectancy, in years, for&nbsp;<span aria-label=\"x\"><math alttext=\"x\"><semantics><mi>x</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;decades after the year 1900. Based on the model, when is the first time that human life expectancy is predicted to be&nbsp;<span aria-label=\"80\"><math alttext=\"80\"><semantics><mn>80</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;years? (Note:&nbsp;<span aria-label=\"1\"><math alttext=\"1\"><semantics><mn>1</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;decade is&nbsp;<span aria-label=\"10\"><math alttext=\"10\"><semantics><mn>10</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;years).</p> </div> </div> </div>\n",
+    "answer": "C-18822",
+    "choices": [
+      {
+        "label": "<p><span class=\"dap_body\">​Late 1914</span></p>",
+        "value": "A-18820"
+      },
+      {
+        "label": "<p><span class=\"dap_body\">​Early 2003</span></p>",
+        "value": "B-18821"
+      },
+      {
+        "label": "<p class=\"dap_body\">​Late 2040s</p>",
+        "value": "C-18822"
+      },
+      {
+        "label": "<p class=\"dap_body\">​Early 2050s</p>",
+        "value": "D-18823"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.14",
+    "text": "2.14: Logarithmic Function Context and Data Modeling"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Apply numerical results in a given mathematical or applied context."
+  }
+}

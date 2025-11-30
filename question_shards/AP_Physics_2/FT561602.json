@@ -1,0 +1,39 @@
+{
+  "id": "FT561602",
+  "type": "mcq",
+  "title": "Power dissipated by lightbulb",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows a graph on a gridded coordinate plane with origin at lower left, and with the horizontal axis labeled Current, in amperes, and the vertical axis labeled Potential Difference, in volts.  There are evenly spaced tick marks on the horizontal axis labeled from zero to 1.0, in increments of 0.2.  There are evenly spaced tick marks on the vertical axis labeled from zero to 18, in increments of 2. There is a curve and 10 points on the graph. The curve moves up from the bottom left to the top right. All of the points are on or near the curve.  The approximate coordinates of the points are as follows.   Point 1: 0.1 comma 2 Point 2: 0.2 comma 3 Point 3: 0.3 comma 4 Point 4: 0.4 comma 5 Point 5: 0.5 comma 7 Point 6: 0.6 comma 8 Point 7: 0.7 comma 11 Point 8: 0.8 comma 12 Point 9: 0.9 comma 14 Point 10: 1.0 comma 17\" height=\"215\" src=\"/images/a317c8d8c7ffdc1f2d2c16f801c96e32.png\" width=\"310\"></p>\n\n<p>The graph above shows experimental data for the potential difference across a lightbulb as a function of the current through the lightbulb. The power dissipated by the lightbulb when the potential difference across the bulb is 12 V is most nearly</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>0.067 W </p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>7.7 W </p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p> 9.6 W </p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>15 W</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Thermodynamics"
+  },
+  "topic": {
+    "code": "9.1",
+    "text": "9.1: Kinetic Theory of Temperature and Pressure"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Calculate or estimate an unknown quantity with units from known quantities, by selecting and following a logical computational pathway."
+  }
+}

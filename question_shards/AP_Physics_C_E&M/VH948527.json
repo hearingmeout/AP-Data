@@ -1,0 +1,43 @@
+{
+  "id": "VH948527",
+  "type": "mcq",
+  "title": "Factory specs",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"passage\"><div class=\"prose style:1\"><p class=\"passage_para\">At a manufacturing company for medical supplies, machines produce parts used in highly specialized lasers. Company researchers are testing a new machine designed to improve the precision of the parts. The null hypothesis is that the new machine does not improve the precision. For the researchers, the more consequential error would be that the new machine actually improves the precision, but the test does not detect the improvement.</p></div></div></div></div><p class=\"stem_paragraph\">Which of the following should the researchers do to avoid the more consequential error?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Increase the significance level to increase the probability of a Type <span class=\"math_expression\"><span aria-label=\"1\"><math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi mathvariant=\"normal\">I</mi></mrow></mstyle></math></span></span> error.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Increase the significance level to decrease the probability of a Type <span class=\"math_expression\"><span aria-label=\"1\"><math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi mathvariant=\"normal\">I</mi></mrow></mstyle></math></span></span> error.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Decrease the significance level to increase the probability of a Type <span class=\"math_expression\"><span aria-label=\"1\"><math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi mathvariant=\"normal\">I</mi></mrow></mstyle></math></span></span> error.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Decrease the significance level to decrease the probability of a Type <span class=\"math_expression\"><span aria-label=\"1\"><math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi mathvariant=\"normal\">I</mi></mrow></mstyle></math></span></span> error.</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Decrease the significance level to decrease the standard error.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.7",
+    "text": "6.7: Potential Errors When Performing Tests"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

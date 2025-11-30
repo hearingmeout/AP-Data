@@ -1,0 +1,43 @@
+{
+  "id": "VH954209",
+  "type": "mcq",
+  "title": "Social media",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">A newspaper article claims that 92 percent of teens use social media. To investigate the claim, a polling organization selected a random sample of 100 teens, and 96 teens in the sample indicated that they use social media. Given the data, why is it <span class=\"formatted_text text_decoration:underline\">not</span> appropriate to use a one-sample <span class=\"math_expression\"><span aria-label=\"z\"><math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mrow><mi>z</mi></mrow></math></span></span>-test for a proportion to test the newspaper’s claim?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The random sample condition is not met.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The sample is more than 10% of the population.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The observed number of teens in the sample who do <span class=\"formatted_text text_decoration:underline\">not</span> use social media is less than 10.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The expected number of teens in the sample who do <span class=\"formatted_text text_decoration:underline\">not</span> use social media is less than 10.</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The distribution of the population is not approximately normal.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.4",
+    "text": "6.4: Setting Up a Test for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Verify that inference procedures apply in a given situation."
+  }
+}

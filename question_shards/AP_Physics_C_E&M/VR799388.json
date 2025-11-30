@@ -1,0 +1,39 @@
+{
+  "id": "VR799388",
+  "type": "mcq",
+  "title": "Amperes Law - thin wire inside cylindrical shell",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div>If the magnetic field has a magnitude <span class=\"math_expression\"><span aria-label=\"B sub 1\" role=\"math\"><math alttext=\"B sub 1\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>B</mi><mn>1</mn></msub></mstyle></math></span></span> at a distance of <span class=\"math_expression\"><span aria-label=\"1.0 millimeter\" role=\"math\"><math alttext=\"1.0 millimeter\" overflow=\"scroll\"> <mstyle displaystyle=\"true\"> <mn>1.0</mn> <mspace width=\"0.2em\"> </mspace> <mtext>mm</mtext> </mstyle> </math></span></span> from the central axis and a magnitude <span class=\"math_expression\"><span aria-label=\"B sub 2\" role=\"math\"><math alttext=\"B sub 2\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>B</mi><mn>2</mn></msub></mstyle></math></span></span> at distance of <span class=\"math_expression\"><span aria-label=\"2.0 millimeters\" role=\"math\"><math alttext=\"2.0 millimeters\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mn>2.0</mn><mspace width=\"0.2em\"></mspace><mtext>mm</mtext></mstyle></math></span></span> from the central axis, what is the ratio <span class=\"math_expression\"><span aria-label=\"the fraction B sub 2 over B sub 1\" role=\"math\"><math alttext=\"the fraction B sub 2 over B sub 1\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><msub><mi>B</mi><mn>2</mn></msub><msub><mi>B</mi><mn>1</mn></msub></mfrac></mstyle></math></span></span>?</div>\n</div>\n</div>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"one fourth\"><math alttext=\"one fourth\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mn>1</mn><mn>4</mn></mfrac></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"one half\"><math alttext=\"one half\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mn>1</mn><mn>2</mn></mfrac></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction 1 over 1\"><math alttext=\"the fraction 1 over 1\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mn>1</mn><mn>1</mn></mfrac></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The ratio is undefined because <span class=\"math_expression\"><span aria-label=\"B sub 1\"><math alttext=\"B sub 1\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>B</mi><mn>1</mn></msub></mstyle></math></span></span> and <span class=\"math_expression\"><span aria-label=\"B sub 2\"><math alttext=\"B sub 2\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>B</mi><mn>2</mn></msub></mstyle></math></span></span> are both zero.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "12",
+    "text": "12: Magnetic Fields and Electromagnetism"
+  },
+  "topic": {
+    "code": "12.4",
+    "text": "12.4: Ampère's Law"
+  },
+  "skill": {
+    "code": "2.D",
+    "text": "2.D: Predict new values or factors of change of physical quantities using functional dependence between variables."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "FT4276",
+  "type": "mcq",
+  "title": "Match the given motion graph to the scenario",
+  "content": {
+    "prompt": "<p><img alt=\"A graph is shown with its vertical axis labeled “x” and the horizontal axis labeled “t.” A point, “t sub 1” is marked on the horizontal axis. A curve is shown originating from the point of origin to run below the horizontal line and finally rise upward until it reaches a point on the horizontal axis. A graph is shown with its vertical axis labeled “v” and the horizontal axis labeled “t.” A linear line is drawn from a point on the vertical axis that lies below the origin. It moves upward and passes through a point “t sub 1” marked on the horizontal axis. A graph is shown with its vertical axis labeled “x” and the horizontal axis labeled “t.” A point, “t sub 1” is marked on the horizontal axis. A linear line is drawn from a point on the vertical axis that lies above the origin.\" src=\"/images/a5322ada3515910775f3c10e427167e4.png\"></p><p>The graphs above represent the position <em>x</em>, velocity <em>v</em>, and acceleration <em>a </em>as a function of time <em>t </em>for a marble moving in one dimension. Which of the following could describe the motion of the marble?</p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Rolling along the floor and then bouncing off a wall</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Rolling down one side of a bowl and then rolling up the other side</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Rolling up a ramp and then rolling back down</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Falling and then bouncing elastically off a hard floor</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Representing Motion"
+  },
+  "skill": {
+    "code": "2.D",
+    "text": "2.D: Predict new values or factors of change of physical quantities using functional dependence between variables."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT548858",
+  "type": "mcq",
+  "title": "Integration by parts",
+  "content": {
+    "prompt": "∫xe<sup>2x</sup>dx=",
+    "answer": "i0",
+    "choices": [
+      {
+        "label": "xe<sup>2x</sup>/2 − e<sup>2x</sup>/4 + C",
+        "value": "i0"
+      },
+      {
+        "label": "xe<sup>2x</sup>/2 − e<sup>2x</sup>/2 + C",
+        "value": "i1"
+      },
+      {
+        "label": "xe<sup>2x</sup>/2 + e<sup>2x</sup>/4 + C",
+        "value": "i2"
+      },
+      {
+        "label": "xe<sup>2x</sup>/2 + e<sup>2x</sup>/2 + C",
+        "value": "i3"
+      },
+      {
+        "label": "x<sup>2</sup>e<sup>2x</sup>/4 + C",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.11",
+    "text": "6.11: (BC ONLY) Integrating Using Integration by Parts"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

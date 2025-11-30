@@ -1,0 +1,39 @@
+{
+  "id": "VH910596",
+  "type": "mcq",
+  "title": "Justification - Volume by Cross Sections",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"standalone_image\"><img alt=\"The figure presents a bounded region R in quadrant 1 of the x y coordinate plane, with the origin labeled O. The numbers 1 and 2 are indicated on the x axis. The numbers 1 through 4, in increments of 1, are indicated on the y axis. Region R is bounded above by the graph of a line, and is bounded below by the graph of a curve. The graphs intersect at the origin and at a point in quadrant 1 with approximate coordinates 2 comma 4.&nbsp;\" height=\"311\" src=\"/images/54f651afeb4df8c455178f0d7192eba1.png\" width=\"300\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">Let <span class=\"math_expression\"><span aria-label=\"R\"><math alttext=\"R\" overflow=\"scroll\"><mstyle><mrow><mi>R</mi></mrow></mstyle></math></span></span> be the region in the first quadrant bounded by the graphs of <span class=\"math_expression\"><span aria-label=\"y equals, x squared\"><math alttext=\"y equals, x squared\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle></math></span></span> and <span class=\"math_expression\"><span aria-label=\"y equals 2 x\"><math alttext=\"y equals 2 x\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi></mrow></mstyle></math></span></span>, as shown in the figure above. The region <span class=\"math_expression\"><span aria-label=\"R\"><math alttext=\"R\" overflow=\"scroll\"><mstyle><mrow><mi>R</mi></mrow></mstyle></math></span></span> is the base of a solid. For the solid, each cross section perpendicular to the <span class=\"math_expression\"><span aria-label=\"x\"><math alttext=\"x\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math></span></span>-axis is a square. What is the volume of the solid?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction 16 over 15\"><math alttext=\"the fraction 16 over 15\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>16</mn></mrow><mrow><mn>15</mn></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"four thirds\"><math alttext=\"four thirds\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction 64 over 15\"><math alttext=\"the fraction 64 over 15\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>64</mn></mrow><mrow><mn>15</mn></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction 512 over 15\"><math alttext=\"the fraction 512 over 15\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>512</mn></mrow><mrow><mn>15</mn></mrow></mfrac></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Applications of Integration"
+  },
+  "topic": {
+    "code": "8.7",
+    "text": "8.7: Volumes with Cross Sections - Squares and Rectangles"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

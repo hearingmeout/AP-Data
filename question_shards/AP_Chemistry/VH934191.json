@@ -1,0 +1,39 @@
+{
+  "id": "VH934191",
+  "type": "mcq",
+  "title": "Rate and Temperature",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"standalone_image\"><img alt=\"The figure presents a graph that shows the distribution of energies for N O 2 gas molecules at two temperatures.&nbsp;The horizontal axis is labeled, Energy of Molecules, and no values are indicated along it. A vertical line, labeled E sub a, Activation Energy, extends upwards approximately three quarters of the way across the horizontal axis. The vertical axis is labeled, Number of Molecules, and no values are indicated along it.&nbsp; The first curve, labeled Temperature 1, begins at the origin and moves steeply upward and to the right, reaching a peak near the top of the graph and approximately one third of the way across the graph. It then moves downward and to the right, crossing the vertical indicator for E a, Activation Energy, and ending just above the horizontal axis.&nbsp;The second curve, labeled Temperature 2, begins at the origin and moves upward and to the right, reaching a peak about three-quarters of the way up the graph. The curve then gradually moves downward and to the right, passing the vertical indicator for E a, Activation Energy, and ending above the horizontal axis. The peak for the Temperature 2 curve is below and slightly to the right of the peak for the Temperature 1 curve. &nbsp;The temperature 2 curve crosses the E sub a, activation energy, line above the temperature 1 curve and ends above the temperature 1 curve.\" height=\"218\" src=\"/images/c98d0c2eb927b07a2c255dc4cacc4d89.png\" width=\"350\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">The proposed rate-determining step for a reaction is <span class=\"math_expression\"><span aria-label=\"2 N O 2 gas reacts to produce N O 3 gas plus N O gas \"><math alttext=\"2 N O 2 gas reacts to produce N O 3 gas plus N O gas \" overflow=\"scroll\"><mstyle><mrow><mrow><mn>2</mn><mtext> </mtext><msub><mrow><mtext>NO</mtext></mrow><mrow><mn>2</mn></mrow></msub><mo stretchy=\"false\">(</mo><mi>g</mi><mo stretchy=\"false\">)</mo><mo>→</mo><msub><mrow><mtext>NO</mtext></mrow><mrow><mn>3</mn></mrow></msub><mo stretchy=\"false\">(</mo><mi>g</mi><mo stretchy=\"false\">)</mo><mo>+</mo><mtext>NO</mtext><mo stretchy=\"false\">(</mo><mi>g</mi><mo stretchy=\"false\">)</mo></mrow></mrow></mstyle></math></span></span>. The graph above shows the distribution of energies for <span class=\"math_expression\"><span aria-label=\"N O 2 gas \"><math alttext=\"N O 2 gas \" overflow=\"scroll\"><mstyle><mrow><mrow><msub><mrow><mtext>NO</mtext></mrow><mrow><mn>2</mn></mrow></msub><mo stretchy=\"false\">(</mo><mi>g</mi><mo stretchy=\"false\">)</mo></mrow></mrow></mstyle></math></span></span> molecules at two temperatures. Based on the graph, which of the following statements best explains why the rates of disappearance of <span class=\"math_expression\"><span aria-label=\"N O 2 gas \"><math alttext=\"N O 2 gas \" overflow=\"scroll\"><mstyle><mrow><mrow><msub><mrow><mtext>NO</mtext></mrow><mrow><mn>2</mn></mrow></msub><mo stretchy=\"false\">(</mo><mi>g</mi><mo stretchy=\"false\">)</mo></mrow></mrow></mstyle></math></span></span> are different at temperature 2 and temperature 1 ?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"N O 2 gas \"><math alttext=\"N O 2 gas \" overflow=\"scroll\"><mstyle><mrow><mrow><msub><mrow><mtext>NO</mtext></mrow><mrow><mn>2</mn></mrow></msub><mo stretchy=\"false\">(</mo><mi>g</mi><mo stretchy=\"false\">)</mo></mrow></mrow></mstyle></math></span></span> is consumed at a faster rate at temperature 2 because more molecules possess energies at or above the minimum energy required for a collision to lead to a reaction compared to temperature 1.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"N O 2 gas \"><math alttext=\"N O 2 gas \" overflow=\"scroll\"><mstyle><mrow><mrow><msub><mrow><mtext>NO</mtext></mrow><mrow><mn>2</mn></mrow></msub><mo stretchy=\"false\">(</mo><mi>g</mi><mo stretchy=\"false\">)</mo></mrow></mrow></mstyle></math></span></span> is consumed at a faster rate at temperature 2 because the molecules have a wider range of energies allowing for a better orientation during a collision compared to temperature 1.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Fewer <span class=\"math_expression\"><span aria-label=\"N O 2 gas \"><math alttext=\"N O 2 gas \" overflow=\"scroll\"><mstyle><mrow><mrow><msub><mrow><mtext>NO</mtext></mrow><mrow><mn>2</mn></mrow></msub><mo stretchy=\"false\">(</mo><mi>g</mi><mo stretchy=\"false\">)</mo></mrow></mrow></mstyle></math></span></span> molecules have a relatively high energy at temperature 1, which favors collisions between molecules rather than between the molecules and the container, leading to a faster rate of disappearance compared to temperature 2.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">More <span class=\"math_expression\"><span aria-label=\"N O 2 gas \"><math alttext=\"N O 2 gas \" overflow=\"scroll\"><mstyle><mrow><mrow><msub><mrow><mtext>NO</mtext></mrow><mrow><mn>2</mn></mrow></msub><mo stretchy=\"false\">(</mo><mi>g</mi><mo stretchy=\"false\">)</mo></mrow></mrow></mstyle></math></span></span> molecules have a relatively low energy at temperature 1, which increases the number of effective collisions taking place and the rate of disappearance compared to temperature 2.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Kinetics"
+  },
+  "topic": {
+    "code": "5.5",
+    "text": "5.5: Collision Model"
+  },
+  "skill": {
+    "code": "6.E",
+    "text": "6.E: Provide reasoning to justify a claim using connections between particulate and macroscopic scales or levels."
+  }
+}

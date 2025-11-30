@@ -1,0 +1,39 @@
+{
+  "id": "VR846600",
+  "type": "mcq",
+  "title": "Kirchhoff junction - current between points X Y",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"standalone_image\"><img alt=\"The figure shows a rectangular circuit diagram with a battery and four resistors. The circuit has three vertical branches and two horizontal branches. An additional horizontal subbranch links the middle and right vertical branches. It intersects the middle vertical branch at point X, and intersects the right vertical branch at point Y. The left vertical branch has the battery with its long terminal downward. From top to bottom, the middle vertical branch has a resistor with resistance R above point X, and has a resistor with resistance 2 R below point X. From top to bottom, the right vertical branch has a resistor with resistance 2 R above point Y, and has a resistor with resistance R below point Y.\" src=\"/images/55fec194831bea66dbf7561e6bc83d58.svg\"></div></div></div><p class=\"stem_paragraph\">A circuit consists of a battery and four resistors, connected as shown in the figure. The resistors have the indicated resistances. Which of the following claims about the current in the wire section between points <span class=\"math_expression\"><span aria-label=\"X\"><math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">X</mi></math></span></span> and <span class=\"math_expression\"><span aria-label=\"Y\"><math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Y</mi></math></span></span> is correct, and what evidence or reasoning helps support the claim?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">There is current in the wire. Points <span class=\"math_expression\"><span aria-label=\"X\"><math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">X</mi></math></span></span> and <span class=\"math_expression\"><span aria-label=\"Y\"><math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Y</mi></math></span></span> are not the same distance from the battery.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">There is current in the wire. There are unequal currents in resistors of unequal resistance.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">There is no current in the wire. Points <span class=\"math_expression\"><span aria-label=\"X\"><math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">X</mi></math></span></span> and <span class=\"math_expression\"><span aria-label=\"Y\"><math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Y</mi></math></span></span> are at the same potential.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">There is no current in the wire. The potential difference across all resistors is the same.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.7",
+    "text": "11.7: Kirchhoff's Junction Rule"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

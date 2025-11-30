@@ -1,0 +1,39 @@
+{
+  "id": "VH935643",
+  "type": "mcq",
+  "title": "Justification - Sequence of Partial Sums",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">If <span class=\"math_expression\"><span aria-label=\"c\"><math alttext=\"c\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>c</mi></mrow></mstyle></math></span></span> is a positive real number and <span class=\"math_expression\"><span aria-label=\"a, sub k, equals, k times the natural log of c\"><math alttext=\"a, sub k, equals, k times the natural log of c\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>a</mi></mrow><mrow><mi>k</mi></mrow></msub><mo>=</mo><mi>k</mi><mo>⁢</mo><mi>ln</mi><mo>⁡</mo><mi>c</mi></mrow></mstyle></math></span></span>, for what values of <span class=\"math_expression\"><span aria-label=\"c\"><math alttext=\"c\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>c</mi></mrow></mstyle></math></span></span>, if any, does the infinite series <span class=\"math_expression\"><span aria-label=\"the sum, from k equals 1, to infinity of, a, sub k\"><math alttext=\"the sum, from k equals 1, to infinity of, a, sub k\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><munderover><mstyle displaystyle=\"true\" mathsize=\"140%\"><mrow><mo>∑</mo></mrow></mstyle><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></munderover><msub><mrow><mi>a</mi></mrow><mrow><mi>k</mi></mrow></msub></mrow></mstyle></math></span></span> converge?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"c equals 1\"><math alttext=\"c equals 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>c</mi><mo>=</mo><mn>1</mn></mrow></mstyle></math></span></span> only</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"c is less than or equal to 1\"><math alttext=\"c is less than or equal to 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>c</mi><mo>≤</mo><mn>1</mn></mrow></mstyle></math></span></span> only</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"c is greater than or equal to 1\"><math alttext=\"c is greater than or equal to 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>c</mi><mo>≥</mo><mn>1</mn></mrow></mstyle></math></span></span> only</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">There are no positive values of <span class=\"math_expression\"><span aria-label=\"c\"><math alttext=\"c\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>c</mi></mrow></mstyle></math></span></span> for which the series converges.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.1",
+    "text": "10.1: (BC ONLY) Defining Convergent and Divergent Infinite Series"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

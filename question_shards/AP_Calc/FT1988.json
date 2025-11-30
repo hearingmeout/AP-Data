@@ -1,0 +1,43 @@
+{
+  "id": "FT1988",
+  "type": "mcq",
+  "title": "Limit from graph",
+  "content": {
+    "prompt": "<p>For which of the following does&nbsp;<span aria-label=\"limit x to 4 of f times x\"><math> <semantics> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>x</mi><mo>→</mo><mn>4</mn> </mrow> </munder> <mi>f</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaCbeaeaaqaaaaaaaaaWdbiGacYgacaGGPbGaaiyBaaWcpaqaa8qacaWG4bGaeyOKH4QaaGinaaWdaeqaaOWdbiaadAgadaqadaWdaeaapeGaamiEaaGaayjkaiaawMcaaaaa@409D@</annotation> </semantics> </math></span>&nbsp;exist?</p>\n\n<p><img alt=\"The graphs are given for f(x), labeled I, II and III. All three graphs lie above the x-axis in the first quadrant. Graph I: This graph is increasing and concave down from (0,2) to (3,4).  It then is decreasing and concave down until it passes through an open circle at (4,3), at which point it continues to decrease, but switches to concave up.  A closed point exists at (4,4). At (5,3), the graph begins to increase, remaining concave up.  Graph II: This graph is increasing and concave down from (0,3) to (3,5).  It then is decreasing and concave down, passing through an open circle at (4,4).  Graph III: This graph is increasing and concave up from (0,2) to a closed circle at (4,4), where the graph stops.  It continues from an open circle at (4,2), concave up and increasing.\" src=\"/images/a4c0ea680276c9e716485125f6d647d8.png\"></p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>I only</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>II only</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>III only</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>I and II only</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>I and III only</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Estimating Limit Values from Graphs"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Identify mathematical information from graphical, numerical, analytical, and/or verbal representations."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT545508",
+  "type": "mcq",
+  "title": "Time-varying magnetic field induces emf in loop",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows a grid of xes labeled B into page representing a magnetic field. A circle is drawn that is entirely contained in the grid of xes.\" maxwidth=\"400\" src=\"/images/d4e3b11756dbfa7c47977b5e81e4473a.png\" width=\"400\"></p>\n\n<p>A wire loop of area <em>A</em> is placed in a time-varying but spatially uniform magnetic field that is perpendicular to the plane of the loop, as shown above. The induced emf in the loop is given by&nbsp;<span aria-label=\"epsilon is equal to b cap A t raised to the 1 half power\"><math> <mrow> <mi>ε</mi><mo>=</mo><mi>b</mi><mi>A</mi><msup> <mi>t</mi> <mrow> <mn>1</mn><mo>/</mo><mn>2</mn></mrow> </msup> </mrow> </math></span>, where <em>b</em> is a constant<em>. </em>The time-varying magnetic field could be given by</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<span aria-label=\"1 half b cap A t raised to the negative 1 over 2 power\"><math> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mi>b</mi> <mi>A</mi> <msup> <mi>t</mi> <mrow> <mo>−</mo> <mn>1</mn> <mo>/</mo> <mn>2</mn> </mrow> </msup> </mrow> </math></span>",
+        "value": "i0"
+      },
+      {
+        "label": "<span aria-label=\"1 half b t raised to the negative 1 over 2 power\"><math> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mi>b</mi> <msup> <mi>t</mi> <mrow> <mo>−</mo> <mn>1</mn> <mo>/</mo> <mn>2</mn> </mrow> </msup> </mrow> </math></span>",
+        "value": "i1"
+      },
+      {
+        "label": "<span aria-label=\"1 half b t raised to the 1 half power\"><math> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mi>b</mi> <msup> <mi>t</mi> <mrow> <mn>1</mn> <mo>/</mo> <mn>2</mn> </mrow> </msup> </mrow> </math></span>",
+        "value": "i2"
+      },
+      {
+        "label": "<span aria-label=\"2 thirds b cap A t raised to the 3 halves power\"><math> <mrow> <mfrac> <mn>2</mn> <mn>3</mn> </mfrac> <mi>b</mi> <mi>A</mi> <msup> <mi>t</mi> <mrow> <mn>3</mn> <mo>/</mo> <mn>2</mn> </mrow> </msup> </mrow> </math></span>",
+        "value": "i3"
+      },
+      {
+        "label": "<span aria-label=\"2 thirds b t raised to the 3 halves power\"><math> <mrow> <mfrac> <mn>2</mn> <mn>3</mn> </mfrac> <mi>b</mi><msup> <mi>t</mi> <mrow> <mn>3</mn><mo>/</mo><mn>2</mn></mrow> </msup> </mrow> </math></span>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.2",
+    "text": "13.2: Electromagnetic Induction"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "FT534315",
+  "type": "mcq",
+  "title": "Radio program - when it is broadcast",
+  "content": {
+    "prompt": "<p>¿Cuándo se emite este programa?</p>",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Por la mañana</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Al mediodía</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Por la tarde</p><p></p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Durante la noche</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Factors That Impact the Quality of Life"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

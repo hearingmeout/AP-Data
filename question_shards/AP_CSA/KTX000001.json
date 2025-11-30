@@ -1,0 +1,39 @@
+{
+  "id": "KTX000001",
+  "type": "mcq",
+  "title": "Class diagram for Book class - determine design",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Of the following diagrams, which represents the most appropriate design for the <span class=\"dap_inline\">Book</span> class?</p>",
+    "answer": "1717037601673.2024",
+    "choices": [
+      {
+        "value": "1717037601673.5796",
+        "label": "<figure class=\"image\" data-original-file-name=\"KTX000000_Option1_AP...\" role=\"presentation\" style=\"padding-top:30px;\"><img alt=\"A class design diagram. Refer to long description.\" data-filename=\"\" data-height=\"173\" data-sizeinkb=\"\" data-status=\"\" data-uploadedon=\"\" data-width=\"234\" height=\"auto\" src=\"/images/9b60fb1c1a1d4341156c25ec01380b80.svg\" style=\"aspect-ratio:234/173;\" width=\"234\"></figure><div aria-label=\"Long description for Answer Choice A\" class=\"sr-only\" id=\"dee4ca83-b2ef-4f68-b52e-07ba84a11d5a\" role=\"region\"><ul><li><p class=\"dap_body\">The diagram has 3 sections containing text as follows:</p><ul><li><p class=\"dap_body\">Section 1:</p><ul><li><p class=\"dap_body\">Book</p></li></ul></li><li><p class=\"dap_body\">Section 2:</p><ul><li><p class=\"dap_body\">+ title : String</p></li><li><p class=\"dap_body\">+ author : String</p></li><li><p class=\"dap_body\">+ numPages : String</p></li></ul></li><li><p class=\"dap_body\">Section 3:</p><ul><li><p class=\"dap_body\">- getTitle() : String</p></li><li><p class=\"dap_body\">- getAuthor() : String</p></li><li><p class=\"dap_body\">- getNumPages() : String</p></li></ul></li></ul></li></ul></div>"
+      },
+      {
+        "value": "1717037601673.4443",
+        "label": "<figure class=\"image\" data-original-file-name=\"KTX000000_Option2_AP...\" role=\"presentation\" style=\"padding-top:30px;\"><img alt=\"A class design diagram. Refer to long description.\" data-filename=\"\" data-height=\"173\" data-sizeinkb=\"\" data-status=\"\" data-uploadedon=\"\" data-width=\"234\" height=\"auto\" src=\"/images/6ee51661b4eb8bc4ecb19179948672c8.svg\" style=\"aspect-ratio:234/173;\" width=\"234\"></figure><div aria-label=\"Long description for Answer Choice B\" class=\"sr-only\" id=\"1f1ec1af-aa99-4da3-b841-f8dcbc49b215\" role=\"region\"><ul><li><p class=\"dap_body\">The diagram has 3 sections containing text as follows:</p><ul><li><p class=\"dap_body\">Section 1:</p><ul><li><p class=\"dap_body\">Book</p></li></ul></li><li><p class=\"dap_body\">Section 2:</p><ul><li><p class=\"dap_body\">- title : String</p></li><li><p class=\"dap_body\">- author : String</p></li><li><p class=\"dap_body\">- numPages : String</p></li></ul></li><li><p class=\"dap_body\">Section 3:</p><ul><li><p class=\"dap_body\">+ getTitle() : String</p></li><li><p class=\"dap_body\">+ getAuthor() : String</p></li><li><p class=\"dap_body\">+ getNumPages() : String</p></li></ul></li></ul></li></ul></div>"
+      },
+      {
+        "value": "1717037601673.0095",
+        "label": "<figure class=\"image\" data-original-file-name=\"KTX000000_Option3_AP...\" role=\"presentation\" style=\"padding-top:30px;\"><img alt=\"A class design diagram. Refer to long description.\" data-filename=\"\" data-height=\"173\" data-sizeinkb=\"\" data-status=\"\" data-uploadedon=\"\" data-width=\"234\" height=\"auto\" src=\"/images/49c843d45d72c41d0c2e6cb0cb5fb55e.svg\" style=\"aspect-ratio:234/173;\" width=\"234\"></figure><div aria-label=\"Long description for Answer Choice C\" class=\"sr-only\" id=\"2e20697d-0e1c-42f2-9c22-1cc5154b182f\" role=\"region\"><ul><li><p class=\"dap_body\">The diagram has 3 sections containing text as follows:</p><ul><li><p class=\"dap_body\">Section 1:</p><ul><li><p class=\"dap_body\">Book</p></li></ul></li><li><p class=\"dap_body\">Section 2:</p><ul><li><p class=\"dap_body\">+ title : String</p></li><li><p class=\"dap_body\">+ author : String</p></li><li><p class=\"dap_body\">+ numPages : int</p></li></ul></li><li><p class=\"dap_body\">Section 3:</p><ul><li><p class=\"dap_body\">- getTitle() : String</p></li><li><p class=\"dap_body\">- getAuthor() : String</p></li><li><p class=\"dap_body\">- getNumPages() : int</p></li></ul></li></ul></li></ul></div>"
+      },
+      {
+        "value": "1717037601673.2024",
+        "label": "<figure class=\"image\" data-original-file-name=\"KTX000000_Option4_AP...\" role=\"presentation\" style=\"padding-top:30px;\"><img alt=\"A class design diagram. Refer to long description.\" data-filename=\"\" data-height=\"173\" data-sizeinkb=\"\" data-status=\"\" data-uploadedon=\"\" data-width=\"234\" height=\"auto\" src=\"/images/30e5271fad1b9218d7cec14163ec0a6d.svg\" style=\"aspect-ratio:234/173;\" width=\"234\"></figure><div aria-label=\"Long description for Answer Choice D\" class=\"sr-only\" id=\"6a7d88ac-6c57-4acc-8d1b-0baa92b97fda\" role=\"region\"><ul><li><p class=\"dap_body\">The diagram has 3 sections containing text as follows:</p><ul><li><p class=\"dap_body\">Section 1:</p><ul><li><p class=\"dap_body\">Book</p></li></ul></li><li><p class=\"dap_body\">Section 2:</p><ul><li><p class=\"dap_body\">- title : String</p></li><li><p class=\"dap_body\">- author : String</p></li><li><p class=\"dap_body\">- numPages : int</p></li></ul></li><li><p class=\"dap_body\">Section 3:</p><ul><li><p class=\"dap_body\">+ getTitle() : String</p></li><li><p class=\"dap_body\">+ getAuthor() : String</p></li><li><p class=\"dap_body\">+ getNumPages() : int</p></li></ul></li></ul></li></ul></div>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: Abstraction and Program Design"
+  },
+  "skill": {
+    "code": "1.A",
+    "text": "1.A: Determine an appropriate program design to solve a problem or accomplish a task."
+  }
+}

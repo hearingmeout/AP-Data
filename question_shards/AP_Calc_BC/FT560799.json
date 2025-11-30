@@ -1,0 +1,43 @@
+{
+  "id": "FT560799",
+  "type": "mcq",
+  "title": "Definite integral from graph",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows a graph in the x y plane titled Graph of f.  The graph consists of a quarter circle and a line segment. The quarter circle has a radius of 3 and is centered at the origin, with closed dots at zero comma 3 and 3 comma zero. The line segment connects the closed dot 3 comma zero and a closed dot at 7 comma negative 4.\" height=\"316\" src=\"/images/92d16f7b81af5a04eefb41f93b0ddfad.png\" width=\"305\"></p>\n\n<p>The graph of the function f, which has a domain of [0, 7] , is shown in the figure above. The graph consists of a quarter circle of radius 3 and a segment with slope -1. Let b be a positive number such that&nbsp;<span aria-label=\"the integral from 0 to b of f x d x is equal to 0\"><math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mi>b</mi> </msubsup> <mi>f</mi> </mrow> </mstyle> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mi>d</mi> <mi>x</mi> <mo>=</mo> <mn>0</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaapedapaqaa8qacaWGMbaal8aabaWdbiaaicdaa8aabaWdbiaadkgaa0Gaey4kIipakmaabmaapaqaa8qacaWG4baacaGLOaGaayzkaaGaamizaiaadIhacqGH9aqpcaaIWaaaaa@4482@</annotation> </semantics> </math></span>. &nbsp;What is the value of <em>b</em>?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>3.760</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>5.548</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>5.659</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>6.760</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>There is no such value of b.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.6",
+    "text": "6.6: Applying Properties of Definite Integrals"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

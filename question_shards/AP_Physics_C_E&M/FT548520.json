@@ -1,0 +1,43 @@
+{
+  "id": "FT548520",
+  "type": "mcq",
+  "title": "Interpret scatterplot of machine defective parts",
+  "content": {
+    "prompt": "<p>A factory has two machines, A and B, making the same part for refrigerators. The number of defective parts produced by each machine during the first hour of operation was recorded on 19 randomly selected days. The scatterplot below shows the number of defective parts produced by each machine on the selected days.</p>\n\n<p><img alt=\"The figure shows a scatterplot with the horizontal axis labeled Machine A and the left vertical axis labeled Machine B. There are evenly spaced tick marks at increments of 1 on both axes. The even-numbered tick marks are labeled zero through 14 on both axes. There are 19 dots on the scatterplot at the following positions: 2 comma 4. 3 comma 6. 3 comma 8.  3 comma 9.  3 comma 10. 4 comma 5. 4 comma 6. 4 comma 12. 5 comma 5. 5 comma 7.  5 comma 8.  5 comma 9. 6 comma 6. 6 comma 7. 6 comma 8. 7 comma 5. 7 comma 7. 8 comma 14. 10 comma 10. \" height=\"267\" src=\"/images/f547f332e3f6e05a005e637e491dca2d.png\" width=\"320\"></p>\n\n<p>Which statement gives the best comparison between the number of defective parts produced by the machines during the first hour of operation on the 19 days?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Machine A always produced the same number of defective parts as machine B.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Machine A always produced fewer defective parts than machine B.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Machine A always produced more defective parts than machine B.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Machine A usually, but not always, produced fewer defective parts than machine B.</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>Machine A usually, but not always, produced more defective parts than machine B.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Representing the Relationship Between Two Quantitative Variables"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Describe data presented numerically or graphically."
+  }
+}

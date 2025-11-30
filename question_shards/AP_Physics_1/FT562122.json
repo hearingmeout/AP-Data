@@ -1,0 +1,39 @@
+{
+  "id": "FT562122",
+  "type": "mcq",
+  "title": "Magnitude of net force on box with inclined force",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows a box about halfway up an inclined plan that creates an angle labeled theta with the horizontal. An arrow starts at the center of the box and extends up and to the right, and makes an angle labeled phi with a dashed line parallel to the inclined plane that also starts at the center of the box.\" src=\"/images/3569f0894a9a90b6e34caf145c492cd3.png\" width=\"200\"></p>\n\n<p>A box of mass <em>m</em> is on a rough inclined plane that is at an angle <em>θ</em> with the horizontal. A force of magnitude <em>F</em> at an angle <em>Φ</em> with the plane is exerted on the block, as shown above. As the block moves up the plane, there is a frictional force between the box and the plane of magnitude <em>f</em>. What is the magnitude of the net force acting on the box?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p><em>F sin Φ - mgcos θ - f</em></p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><em>F cos(Φ + θ) + mg sin θ - f</em></p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p><em>F cosΦ - mg sin θ - f</em></p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p><em>F cos(Φ + θ) - mg sin θ - f</em></p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.5",
+    "text": "1.5: Vectors and Motion in Two Dimensions"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

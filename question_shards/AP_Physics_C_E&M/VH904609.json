@@ -1,0 +1,43 @@
+{
+  "id": "VH904609",
+  "type": "mcq",
+  "title": "Voltage graph for RC Circuit",
+  "content": {
+    "prompt": "<div class=\"standalone_image\">\n\n<img alt=\"The figure presents a circuit diagram. A battery labeled epsilon is connected in series to an open switch and a parallel configuration. In the parallel configuration, resistor lowercase r is connected in series with capacitor C, and both are connected in parallel with resistor uppercase R.\" src=\"/images/2f284654cf294a74c0516057b5297f56.png\"></div>\n\n<p class=\"stem_paragraph\">The circuit shown has capacitor <span class=\"math_expression\"><span aria-label=\"C\"><math alttext=\"C\" overflow=\"scroll\"><mstyle><mrow><mi>C</mi></mrow></mstyle></math></span></span>, resistor <span class=\"math_expression\"><span aria-label=\"uppercase R\"><math alttext=\"uppercase R\" overflow=\"scroll\"><mstyle><mrow><mi>R</mi></mrow></mstyle></math></span></span>, and another resistor <span class=\"math_expression\"><span aria-label=\"lowercase r\"><math alttext=\"lowercase r\" overflow=\"scroll\"><mstyle><mrow><mi>r</mi></mrow></mstyle></math></span></span> connected to a battery of <span class=\"math_expression\"><span aria-label=\"e m f\"><math alttext=\"e m f\" overflow=\"scroll\"><mstyle><mrow><mi>e</mi><mi>m</mi><mi>f</mi></mrow></mstyle></math></span></span> <span class=\"math_expression\"><span aria-label=\"epsilon\"><math alttext=\"epsilon\" overflow=\"scroll\"><mstyle><mrow><mi>ε</mi></mrow></mstyle></math></span></span>. Initially the switch is open and the capacitor is uncharged. The switch is then closed. Which of the following graphs best represents the voltage <span class=\"math_expression\"><span aria-label=\"V sub uppercase R\"><math alttext=\"V sub uppercase R\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>V</mi></mrow><mrow><mi>R</mi></mrow></msub></mrow></mstyle></math></span></span>across the resistor <span class=\"math_expression\"><span aria-label=\"uppercase R\"><math alttext=\"uppercase R\" overflow=\"scroll\"><mstyle><mrow><mi>R</mi></mrow></mstyle></math></span></span> as a function of time?</p>",
+    "answer": "i5",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure presents the graph of a curve in the first quadrant of the coordinate plane, with the origin labeled O. The horizontal axis is labeled t, and no values are indicated along it. The vertical axis is labeled V sub uppercase R, and the value epsilon is indicated along it. The curve begins at the point 0, comma epsilon, and moves downwards and to the right at a decreasing rate. The curve tapers off and approaches but never intersects the horizontal axis.\" height=\"117\" src=\"/images/98ddfc7da3c378fde0398924bf4eb5a7.png\" width=\"160\"></span></p>\n",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure presents the graph of a curve in the first quadrant of the coordinate plane, with the origin labeled O. The horizontal axis is labeled t, and no values are indicated along it. The vertical axis is labeled V sub uppercase R, and the value epsilon is indicated along it. The curve begins at the origin, and moves upwards and to the right at a decreasing rate. The curve tapers off and approaches but never intersects a horizontal line that passes through the point 0, comma epsilon.\" height=\"117\" src=\"/images/9fe14eac7b62bf2943356150e1b71c91.png\" width=\"160\"></span></p>\n",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure presents the graph of a line in the first quadrant of the coordinate plane, with the origin labeled O. The horizontal axis is labeled t, and no values are indicated along it. The vertical axis is labeled V sub uppercase R, and the value epsilon is indicated along it. The line begins at the origin, and moves upwards and to the right at a constant rate. The line approaches a horizontal line that passes through the point 0, comma epsilon.\" height=\"117\" src=\"/images/5fb87ca8a34484e179189f6a075cb1ec.png\" width=\"160\"></span></p>\n",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure presents the graph of a curve in the first quadrant of the coordinate plane, with the origin labeled O. The horizontal axis is labeled t, and no values are indicated along it. The vertical axis is labeled V sub uppercase R, and the value epsilon is indicated along it. From a region close to but not intersecting the vertical axis, the curve moves downwards and to the right at a decreasing rate. The curve tapers off and approaches but never intersects a horizontal line that passes through the point 0, comma epsilon.\" height=\"118\" src=\"/images/1384cb861939e28c7f9779340f3adb0c.png\" width=\"160\"></span></p>\n",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure presents the graph of a line in the first quadrant of the coordinate plane, with the origin labeled O. The horizontal axis is labeled t, and no values are indicated along it. The vertical axis is labeled V sub uppercase R, and the value epsilon is indicated along it. The line begins at the point 0, comma epsilon, the line extends horizontally to the right.\" height=\"118\" src=\"/images/c8bb9e9a47adaeaab215efcba1fbba24.png\" width=\"160\"></span></p>\n",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.5",
+    "text": "11.5: Compound Direct Current Circuits"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

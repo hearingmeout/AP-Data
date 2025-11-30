@@ -1,0 +1,43 @@
+{
+  "id": "FT1887",
+  "type": "mcq",
+  "title": "Value of a function based on its derivative",
+  "content": {
+    "prompt": "Let <em>f</em> be a differentiable function such that <span aria-label=\"f of 0 is equal to negative 5\"><math> <mrow> <mi>f</mi> <mrow> <mo>(</mo> <mn>0</mn> <mo>)</mo> </mrow> <mo>=</mo> <mo>−</mo> <mn>5</mn> </mrow> </math></span> and <span aria-label=\"f prime times x is less than or equal to 3\"><math> <mrow> <msup> <mi>f</mi> <mo>′</mo> </msup> <mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mo>≤</mo><mn>3</mn></mrow> </math></span> for all <em>x</em>. Of the following, which is not a possible value for <em>f</em> (2)?",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>-10</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>-5</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>0</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>1</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>2</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.7",
+    "text": "6.7: The Fundamental Theorem of Calculus and Definite Integrals"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

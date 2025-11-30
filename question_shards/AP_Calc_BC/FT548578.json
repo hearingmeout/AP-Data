@@ -1,0 +1,43 @@
+{
+  "id": "FT548578",
+  "type": "mcq",
+  "title": "Solving differential equation",
+  "content": {
+    "prompt": "<p>If<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the derivative of y with respect to x equals sine x times cosine squared x\">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mrow>\n     <mi>d</mi><mi>y</mi></mrow>\n    <mrow>\n     <mi>d</mi><mi>x</mi></mrow>\n   </mfrac>\n   <mo>=</mo><mi>sin</mi><mi>x</mi><msup>\n    <mrow>\n     <mi>cos</mi></mrow>\n    <mn>2</mn>\n   </msup>\n   <mi>x</mi></mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWcaaWdaeaapeGaamizaiaadMhaa8aabaWdbiaadsgacaWG4baa\n  aiabg2da9iGacohacaGGPbGaaiOBaiaadIhaciGGJbGaai4Baiaaco\n  hapaWaaWbaaSqabeaapeGaaGOmaaaakiaadIhaaaa@43EE@\n  </annotation>\n </semantics>\n</math>\n and if <em>y</em>=0 when <math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"x equals pi divided by 2\">\n <semantics>\n  <mrow>\n   <mi>x</mi><mo>=</mo><mfrac>\n    <mi>π</mi>\n    <mn>2</mn>\n   </mfrac>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qacaWG4bGaeyypa0ZaaSaaa8aabaWdbiabec8aWbWdaeaapeGaaGOm\n  aaaaaaa@3AE0@\n  </annotation>\n </semantics>\n</math>\n, what is the value of <em>y</em> when <em>x</em>=0 ? </p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>-1</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"negative one third\">\n <mrow>\n  <mo>−</mo><mfrac>\n   <mn>1</mn>\n   <mn>3</mn>\n  </mfrac>\n  </mrow>\n</math>\n</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>0</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"one third\">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mn>1</mn>\n    <mn>3</mn>\n   </mfrac>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWcaaWdaeaapeGaaGymaaWdaeaapeGaaG4maaaaaaa@37DC@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>1</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.7",
+    "text": "7.7: Finding Particular Solutions Using Initial Conditions and Separation of Variables"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

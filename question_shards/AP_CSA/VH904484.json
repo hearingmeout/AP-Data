@@ -1,0 +1,39 @@
+{
+  "id": "VH904484",
+  "type": "mcq",
+  "title": "Print Hello",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Each of the following code segments is intended to print the word <span class=\"inline_code\">Hello</span>.<span> </span>Which of the following code segments works as intended?</p><ol class=\"hb_codeblock ordered_list style:1\"><li class=\"list_paragraph\"><span class=\"inline_code\">System.out.print(\"Hello\");</span></li><li class=\"list_paragraph\"><span class=\"inline_code\">System.out.print(Hello);</span></li><li class=\"list_paragraph\"><span class=\"inline_code\">System.out.print(He);</span><span class=\"formatted_line_break delivery_mode:Both\"></span><span class=\"inline_code\">System.out.print(llo);</span></li></ol>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">I only</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">III only</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">I and II</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">II and III</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

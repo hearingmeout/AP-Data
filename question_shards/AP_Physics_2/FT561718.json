@@ -1,0 +1,39 @@
+{
+  "id": "FT561718",
+  "type": "mcq",
+  "title": "Determine voltage across capacitor",
+  "content": {
+    "prompt": "Which of the following is correct about the voltage <em>V<sub>C</sub></em> across the capacitor?",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<em>V<sub>C</sub></em> = 0",
+        "value": "i0"
+      },
+      {
+        "label": "0 &lt; <em>V<sub>C</sub></em> &lt; 10 V",
+        "value": "i1"
+      },
+      {
+        "label": "<em>V<sub>C</sub></em> = 10 V",
+        "value": "i2"
+      },
+      {
+        "label": "<em>V<sub>C</sub></em> &gt; 10 V",
+        "value": "i3"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.3",
+    "text": "11.3: Resistance, Resistivity, and Ohm's Law"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

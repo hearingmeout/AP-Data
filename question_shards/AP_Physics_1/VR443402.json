@@ -1,0 +1,39 @@
+{
+  "id": "VR443402",
+  "type": "mcq",
+  "title": "Bicycle wheel with rotational inertia",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"passage\">\n<div class=\"prose style:1\">\n<div class=\"standalone_image\"><img alt=\"The figure shows a bicycle wheel that is rotating about a center axis.\" height=\"220\" src=\"/images/8108854c57f4947720b3e22d984ecbe7.png\" width=\"125\"></div>\n</div>\n</div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">A bicycle wheel of known rotational inertia is free to rotate about its central axis. With the wheel initially at rest, a student wraps a string around the wheel and pulls the string with a spring scale, causing the wheel to rotate. The student records the tension in the string and the time for which the string was pulled. Without measuring the wheel’s final angular speed, can the student find the magnitude of the wheel’s final angular momentum, and what is a correct explanation?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Yes. The student has sufficient information already.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Yes. The student also needs to measure the wheel’s radius to calculate the torque exerted on the wheel.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No. Angular momentum can only be found by measuring rotational inertia and angular speed.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No. Measuring the radius would allow the student to calculate the torque, not the angular momentum.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.6",
+    "text": "5.6: Newton's Second Law in Rotational Form"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

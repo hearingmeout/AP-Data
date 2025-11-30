@@ -1,0 +1,39 @@
+{
+  "id": "VR030176",
+  "type": "mcq",
+  "title": "Senate Vote Conclusions",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR030174.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">Which of the following conclusions can be drawn based on the table?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Forty-six Republicans voted against the bill, which led to a successful filibuster.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The bill was able to pass because some Republicans and Independents voted for it along with all Democrats.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Independents align most strongly with Republicans in the Senate.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The smaller chamber size of the Senate made this bill easier to pass in the Senate than in the House of Representatives.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Interactions Among Branches of Government"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Structures, Powers, and Functions of Congress"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Describe patterns and trends in data."
+  }
+}

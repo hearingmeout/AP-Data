@@ -1,0 +1,51 @@
+{
+  "id": "VR175110",
+  "type": "mcq",
+  "title": "Aural - 7th chord quality",
+  "content": {
+    "prompt": "<p class=\"direction_paragraph\" xmlns=\"http://www.imsglobal.org/xsd/apip/apipv1p0/qtiitem/imsqti_v2p2\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><span class=\"formatted_text font_weight:bold\">Question 5</span> asks you to identify a pitch pattern that is played. You will have ten seconds to read the choices, and then you will hear the musical example played twice, with a brief pause between playings. Now listen to the music for <span class=\"formatted_text font_weight:bold\">Question 5</span> and identify the pitch pattern that is played.</p><br><div><div class=\"stimulus_reference\"><span class=\"sound_script\"><span class=\"learnosity-feature\" data-player=\"bar\" data-src=\"https://assets.learnosity.com/organisations/537/VR175110.a02.mp3\" data-type=\"audioplayer\"></span></span></div></div><p class=\"stem_paragraph\">Which of the following is played?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<div class=\"standalone_image\"><img alt=\"A stack of four whole notes in bass clef. The pitches are D3, F-sharp 3, A3, and C-sharp 4.\" height=\"137\" src=\"/images/df1f79512e9229d3e0451fcf3811f866.png\" width=\"250\"></div>\n",
+        "value": "i1",
+        "assistive_label": {
+          "exposed_visible_label": true
+        }
+      },
+      {
+        "label": "<div class=\"standalone_image\"><img alt=\"A stack of four whole notes in bass clef. The pitches are D3, F-sharp 3, A3, and C4.\" height=\"137\" src=\"/images/d89cf553c48365c389bb8ae4aaa4e9c0.png\" width=\"250\"></div>\n",
+        "value": "i2",
+        "assistive_label": {
+          "exposed_visible_label": true
+        }
+      },
+      {
+        "label": "<div class=\"standalone_image\"><img alt=\"A stack of four whole notes in bass clef. The pitches are D3, F3, A3, and C4.\" height=\"137\" src=\"/images/aa34481f483e0d8ade8de0ebfbddcc5d.png\" width=\"250\"></div>\n",
+        "value": "i3",
+        "assistive_label": {
+          "exposed_visible_label": true
+        }
+      },
+      {
+        "label": "<div class=\"standalone_image\"><img alt=\"A stack of four whole notes in bass clef. The pitches are D3, F3, A-flat 3, and C4.\" height=\"137\" src=\"/images/bd36c1a272fdb77c6cb10aadb368c1f3.png\" width=\"250\"></div>\n",
+        "value": "i4",
+        "assistive_label": {
+          "exposed_visible_label": true
+        }
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Music Fundamentals I - Pitch, Major Scales and Key Signatures, Rhythm, Meter, and Expressive Elements"
+  },
+  "topic": {
+    "code": "3.4",
+    "text": "3.4: Seventh Chords"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Use symbols and terms to describe features of pitch in performed music, including pitch patterns and relationships, melodic features, chords, harmonic progressions, and cadences."
+  }
+}

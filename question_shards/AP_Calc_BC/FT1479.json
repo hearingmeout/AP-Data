@@ -1,0 +1,43 @@
+{
+  "id": "FT1479",
+  "type": "mcq",
+  "title": "Taylor polynomial given various derivative values",
+  "content": {
+    "prompt": "Let <em>f</em> be a function with <em>f</em>(3) = 2, and <em>f</em>′(3) = −1, <em>f</em>″(3) = 6, and <em>f</em>‴(3) = 12. Which of the following is the third-degree Taylor polynomial for <em>f</em> about <em>x</em> = 3?",
+    "answer": "i0",
+    "choices": [
+      {
+        "label": "2 − (<em>x </em>− 3) + 3(<em>x</em> − 3)<sup>2</sup> + 2(<em>x</em> − 3)<sup>3</sup>",
+        "value": "i0"
+      },
+      {
+        "label": "2 − (<em>x</em> − 3) + 3(<em>x</em> − 3)<sup>2</sup> + 4(<em>x</em> − 3)<sup>3</sup>",
+        "value": "i1"
+      },
+      {
+        "label": "2 − (<em>x</em> − 3) + 6(<em>x</em> − 3)<sup>2</sup> + 12(<em>x</em> − 3)<sup>3</sup>",
+        "value": "i2"
+      },
+      {
+        "label": "2 − <em>x</em> + 3<em>x</em><sup>2</sup> + 2<em>x</em><sup>3</sup>",
+        "value": "i3"
+      },
+      {
+        "label": "2 − <em>x</em> + 6<em>x</em><sup>2</sup> + 12<em>x</em><sup>3</sup>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.11",
+    "text": "10.11: (BC ONLY) Finding Taylor Polynomial Approximations of Functions"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

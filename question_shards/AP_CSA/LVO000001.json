@@ -1,0 +1,39 @@
+{
+  "id": "LVO000001",
+  "type": "mcq",
+  "title": "Using dot operator with Pair object - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Assume that&nbsp; <span class=\"dap_inline\">myPair</span>&nbsp; is a properly declared and initialized&nbsp; <span class=\"dap_inline\">Pair</span>&nbsp; object that appears in a class other than&nbsp; <span class=\"dap_inline\">Pair</span>.&nbsp; Which of the following code segments will compile without error?</p>",
+    "answer": "1717014607222.407",
+    "choices": [
+      {
+        "value": "1717014607222.407",
+        "label": "<pre><code class=\"language-plaintext\">int val = myPair.getX();</code></pre>"
+      },
+      {
+        "value": "1717014607222.7617",
+        "label": "<pre><code class=\"language-plaintext\">int val = myPair.getX(x);</code></pre>"
+      },
+      {
+        "value": "1717014607222.6511",
+        "label": "<pre><code class=\"language-plaintext\">int val = myPair.x;</code></pre>"
+      },
+      {
+        "value": "1717014607222.9956",
+        "label": "<pre><code class=\"language-plaintext\">int val = myPair.x1;</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.14",
+    "text": "1.14: Calling Instance Methods"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "VR095107",
+  "type": "mcq",
+  "title": "Effect of appending three zeros to a binary number",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following correctly describes the relationship between the transformed number and the original number?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The transformed number is 3 times the value of the original number.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The transformed number is 4 times the value of the original number.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The transformed number is 8 times the value of the original number.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The transformed number is 1,000 times the value of the original number.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Binary Numbers"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

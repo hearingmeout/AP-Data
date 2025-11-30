@@ -1,0 +1,39 @@
+{
+  "id": "VR796968",
+  "type": "mcq",
+  "title": "Electric potential energy - sphere and particle",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR796967.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">The particle of charge <span class=\"math_expression\"><span aria-label=\"positive lowercase q\"><math alttext=\"positive lowercase q\" display=\"inline\" overflow=\"scroll\"><mpadded><mo>+</mo><mi>q</mi></mpadded></math></span></span> is initially located a distance <span class=\"math_expression\"><span aria-label=\"2 R sub S\"><math alttext=\"2 R sub S\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><msub><mi>R</mi><mtext>S</mtext></msub></math></span></span> from the center of the sphere and then moved to the sphere’s center. Which of the following correctly describes the change in the electric potential energy of the particle-sphere system, <span class=\"math_expression\"><span aria-label=\"delta U sub P S, end sub\"><math alttext=\"delta U sub P S, end sub\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi mathvariant=\"normal\">Δ</mi><msub><mi>U</mi><mtext>PS</mtext></msub></mstyle></math></span></span>, when the particle is moved, and provides a valid justification?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"delta U sub P S, is greater than 0\"><math alttext=\"delta U sub P S, is greater than 0\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi mathvariant=\"normal\">Δ</mi><msub><mi>U</mi><mi>PS</mi></msub><mo>&gt;</mo><mn>0</mn></mstyle></math></span></span>. The electric field due to the sphere’s charge does positive work on the positively charged particle.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"delta U sub P S, is greater than 0\"><math alttext=\"delta U sub P S, is greater than 0\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi mathvariant=\"normal\">Δ</mi><msub><mi>U</mi><mi>PS</mi></msub><mo>&gt;</mo><mn>0</mn></mstyle></math></span></span>. The motion of the positively charged particle is opposite to the direction of the electric field due to the sphere’s charge.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"delta U sub P S, equals 0\"><math alttext=\"delta U sub P S, equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi mathvariant=\"normal\">Δ</mi><msub><mi>U</mi><mi>PS</mi></msub><mo>=</mo><mn>0</mn></mstyle></math></span></span>. The electric field due to the sphere’s charge is zero at the center of the sphere.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"delta U sub P S, equals 0\"><math alttext=\"delta U sub P S, equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi mathvariant=\"normal\">Δ</mi><msub><mi>U</mi><mi>PS</mi></msub><mo>=</mo><mn>0</mn></mstyle></math></span></span>. As the positively charged particle is moved, positive work done outside the sphere is canceled by negative work of equal magnitude that is done inside the sphere.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Electric Potential"
+  },
+  "topic": {
+    "code": "9.3",
+    "text": "9.3: Conservation of Electric Energy"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

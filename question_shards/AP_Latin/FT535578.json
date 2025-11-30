@@ -1,0 +1,35 @@
+{
+  "id": "FT535578",
+  "type": "mcq",
+  "title": "Shadows of memories - poodle Bellevue Square",
+  "content": {
+    "prompt": "<p>Was hat der Pudel am Bellevue-Platz getan?</p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Er wartete auf eine andere Straßenbahn</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Er lief zu einer anderen Bahnstation.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Er suchte nach einem Kondukteur.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Er traf sich mit seinem Besitzer.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Families in Different Societies"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Describe the literal meaning of the text."
+  }
+}

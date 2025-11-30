@@ -1,0 +1,39 @@
+{
+  "id": "FT559984",
+  "type": "mcq",
+  "title": "Rate of change of water in a tank at a given time",
+  "content": {
+    "prompt": "The number of gallons of water in a storage tank at time <em>t</em>, in minutes, is modeled by <em>w(t) = 25 − t<sup>2</sup></em> for <span aria-label=\"0 is less than or equal to t comma t is less than or equal to 5\"><math> <mrow> <mn>0</mn> <mo>≤</mo> <mi>t</mi> <mo>≤</mo> <mn>5</mn> </mrow> </math></span>. At what rate, in gallons per minute, is the amount of water in the tank changing at time <em>t = 3</em> minutes?",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>66</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>16</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>-3</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>-6</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Contextual Applications of Differentiation"
+  },
+  "topic": {
+    "code": "4.1",
+    "text": "4.1: Interpreting the Meaning of the Derivative in Context"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

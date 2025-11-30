@@ -1,0 +1,39 @@
+{
+  "id": "FXD000000",
+  "type": "mcq",
+  "title": "Sinusoidal Transformations - vertical",
+  "content": {
+    "prompt": "<div><div class=\"long_descriptions_container\"></div></div><div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <p class=\"dap_body\">​</p><div class=\"standalone_image qti-align-center\"><img alt=\"Graph of a sinusoidal function f in the x y plane with equally spaced gridlines with the origin labeled O. The x axis ranges from 0 to 2 pi in increments of pi over 2. The y axis ranges from negative 3 to 7 in increments of 1. Refer to long description.\" aria-describedby=\"LDC-FXD000000_01\" src=\"/images/b00652a4586448f894c8f340f2e648b5.svg\"><div aria-label=\"Long description for graph of f\" class=\"sr-only qti-visually-hidden\" id=\"LDC-FXD000000_01\" role=\"region\"><ul>\n<li>All coordinates are approximate.</li>\n<li>Moving from left to right:<ul>\n<li>The curve begins at point (0 comma 7).</li>\n<li>The curve trends down gradually, crosses the x axis between x equals pi over 2 and x equals pi, and reaches its minimum point at (pi comma negative 1).</li>\n<li>At point (pi comma negative 1), the curve trends up gradually to the right, crosses the x axis between x equals pi and x equals 3 pi over 2, and ends leveling at point (2 pi comma 7).</li>\n</ul>\n</li>\n</ul></div></div><p class=\"dap_body\">​A portion of the graph of a sinusoidal function&nbsp;<span aria-label=\"f\"><math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;in the&nbsp;<span aria-label=\"x y\"><math alttext=\"x y\"><semantics><mrow><mi>x</mi><mi>y</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>-plane is given for&nbsp;<span aria-label=\"0 less or equal than x less or equal than 2 pi\"><math alttext=\"0 less or equal than x less or equal than 2 pi\"><semantics><mrow><mn>0</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>2</mn><mi>π</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>. Which of the following could define&nbsp;<span aria-label=\"f open parentheses x close parentheses\"><math alttext=\"f open parentheses x close parentheses\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;?</p> </div> </div> </div>\n",
+    "answer": "A-21828",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"3 plus 4 cos x\"><math alttext=\"3 plus 4 cos x\"><semantics><mrow><mn>3</mn><mo>+</mo><mn>4</mn><mi>cos</mi><mi>x</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "A-21828"
+      },
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"3 plus 4 sin x\"><math alttext=\"3 plus 4 sin x\"><semantics><mrow><mn>3</mn><mo>+</mo><mn>4</mn><mi>sin</mi><mi>x</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "B-21829"
+      },
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"4 plus 3 cos x\"><math alttext=\"4 plus 3 cos x\"><semantics><mrow><mn>4</mn><mo>+</mo><mn>3</mn><mi>cos</mi><mi>x</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "C-21830"
+      },
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"4 plus 3 sin x\"><math alttext=\"4 plus 3 sin x\"><semantics><mrow><mn>4</mn><mo>+</mo><mn>3</mn><mi>sin</mi><mi>x</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "D-21831"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Trigonometric and Polar Functions"
+  },
+  "topic": {
+    "code": "3.6",
+    "text": "3.6: Sinusoidal Function Transformations"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Construct equivalent graphical, numerical, analytical, and verbal representations of functions that are useful in a given mathematical or applied context, with and without technology."
+  }
+}

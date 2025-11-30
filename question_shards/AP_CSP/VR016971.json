@@ -1,0 +1,35 @@
+{
+  "id": "VR016971",
+  "type": "mcq",
+  "title": "BotMover",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following code segments will move the robot to the gray square along the path indicated by the arrows?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure presents three blocks of code. Throughout the code there are nested blocks of code. Line 1: [begin block] BotMover [begin block] 1 [end block] [end block] Line 2: [begin block] BotMover [begin block] 1 [end block] [end block] Line 3: [begin block] BotMover [begin block] 0 [end block] [end block]\" height=\"121\" src=\"/images/023f2bd8c0f0cb134bb92284928f6dbc.png\" width=\"180\"></span></p>\n",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure presents three blocks of code. Throughout the code there are nested blocks of code. Line 1: [begin block] BotMover [begin block] 1 [end block] [end block] Line 2: [begin block] BotMover [begin block] 2 [end block] [end block] Line 3: [begin block] BotMover [begin block] 3 [end block] [end block]\" height=\"121\" src=\"/images/9677ae584cbda6520f087fdf1faacf33.png\" width=\"180\"></span></p>\n",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure presents three blocks of code. Throughout the code there are nested blocks of code. Line 1: [begin block] BotMover [begin block] 1 [end block] [end block] Line 2: [begin block] BotMover [begin block] 3 [end block] [end block] Line 3: [begin block] BotMover [begin block] 0 [end block] [end block]\" height=\"121\" src=\"/images/08e1a93ff1982912738d14f0c508fd32.png\" width=\"180\"></span></p>\n",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure presents three blocks of code. Throughout the code there are nested blocks of code. Line 1: [begin block] BotMover [begin block] 3 [end block] [end block] Line 2: [begin block] BotMover [begin block] 1 [end block] [end block] Line 3: [begin block] BotMover [begin block] 0 [end block] [end block]\" height=\"121\" src=\"/images/2fd1d774ccf07f5d07b12c35e4113036.png\" width=\"180\"></span></p>\n",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.12",
+    "text": "3.12: Calling Procedures"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Use abstraction to manage complexity in a program."
+  }
+}

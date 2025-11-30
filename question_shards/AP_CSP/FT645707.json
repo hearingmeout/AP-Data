@@ -1,0 +1,35 @@
+{
+  "id": "FT645707",
+  "type": "mcq",
+  "title": "Redundant routing with four computers",
+  "content": {
+    "prompt": "In which configuration is it NOT possible to have redundant routing between computers P and S?",
+    "answer": "1",
+    "choices": [
+      {
+        "label": "<img alt=\"The figure shows a network of physically linked computers labeled P through S. Computer P is connected to computers Q and R. Computer Q is connected to computers P and S. Computer R is connected to computers P and S. Computer S is connected to computers Q and R.\" height=\"112\" src=\"/images/a1361376de6e3ceaea2e966fb3341e5f.jpg\" width=\"112\">",
+        "value": "0"
+      },
+      {
+        "label": "<img alt=\"The figure shows a network of physically linked computers labeled P through S. Computer P is connected to computer R. Computer Q is connected to computers R and S. Computer R is connected to computers P and Q. Computer S is connected to computer Q.\" height=\"114\" src=\"/images/7b4f3624a3db1ac4a49053cbc639ef65.jpg\" width=\"111\">",
+        "value": "1"
+      },
+      {
+        "label": "<img alt=\"The figure shows a network of physically linked computers labeled P through S. Computer P is connected to computers Q, R, and S. Computer Q is connected to computers P and S. Computer R is connected to computer P. Computer S is connected to computers P and Q.\" height=\"111\" src=\"/images/50c18bdbfa95073af5436d8e01ea6a9e.jpg\" width=\"113\">",
+        "value": "2"
+      },
+      {
+        "label": "<img alt=\"The figure shows a network of physically linked computers labeled P through S. Computer P is connected to computers Q and R. Computer Q is connected to computers P, R, and S. Computer R is connected to computers P, Q, and S. Computer S is connected to computers Q and R.\" height=\"112\" src=\"/images/2cbfe362c53226a614781f51968f82c7.jpg\" width=\"110\">",
+        "value": "3"
+      }
+    ]
+  },
+  "topic": {
+    "code": "4.2",
+    "text": "4.2: Fault Tolerance"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "VR165839",
+  "type": "mcq",
+  "title": "Documentation for procedure with add and div",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">In the following procedure, the parameters <span class=\"inline_code\">x</span> and <span class=\"inline_code\">y</span> are integers.</p>\n<div class=\"standalone_image\"><img alt=\"The figure presents one block of code that consists of 4 lines. Throughout the block of code there are nested blocks of code, as follows. [Begin Block] Line 1: PROCEDURE calculate [Begin Block] x, y [End Block] [Begin Block] Line 2: [Begin Block] result ← x + y [End Block] Line 3: [Begin Block] result ← result / x [End Block] Line 4: [Begin Block] DISPLAY [Begin Block] result [End Block] [End Block] [End Block] [End Block]\" height=\"177\" src=\"/images/fd6a58513777d08e4a5d0494447c9bb1.png\" width=\"400\"></div>\n<p class=\"stem_paragraph\">Which of the following is the most appropriate documentation to appear with the <span class=\"inline_code\">calculate</span> procedure?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Displays the value of <span class=\"inline_code\">x + (y / x)</span>.<span class=\"formatted_line_break delivery_mode:Both\"></span>The value of the parameter <span class=\"inline_code\">x</span> must not be <span class=\"inline_code\">0</span>.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Displays the value of <span class=\"inline_code\">x + (y / x)</span>.<span class=\"formatted_line_break delivery_mode:Both\"></span>The value of the parameter <span class=\"inline_code\">y</span> must not be <span class=\"inline_code\">0</span>.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Displays the value of <span class=\"inline_code\">(x + y) / x</span>.<span class=\"formatted_line_break delivery_mode:Both\"></span>The value of the parameter <span class=\"inline_code\">x</span> must not be <span class=\"inline_code\">0</span>.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Displays the value of <span class=\"inline_code\">(x + y) / x</span>.<span class=\"formatted_line_break delivery_mode:Both\"></span>The sum of the parameters <span class=\"inline_code\">x</span> and <span class=\"inline_code\">y</span> must not be <span class=\"inline_code\">0</span>.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Program Design and Development"
+  },
+  "skill": {
+    "code": "Skill 4.A",
+    "text": "Skill 4.A: Explain how a code segment or program functions."
+  }
+}

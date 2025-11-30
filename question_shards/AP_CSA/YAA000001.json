@@ -1,0 +1,39 @@
+{
+  "id": "YAA000001",
+  "type": "mcq",
+  "title": "Substrings within while loop - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What is printed as a result of executing this code segment?</p>",
+    "answer": "1717036969413.9539",
+    "choices": [
+      {
+        "value": "1717036969413.9539",
+        "label": "<pre><code class=\"language-plaintext\">ookout okout out </code></pre>"
+      },
+      {
+        "value": "1717036969413.968",
+        "label": "<pre><code class=\"language-plaintext\">ookout out </code></pre>"
+      },
+      {
+        "value": "1717036969413.7585",
+        "label": "<pre><code class=\"language-plaintext\">okout out </code></pre>"
+      },
+      {
+        "value": "1717036969413.9485",
+        "label": "<pre><code class=\"language-plaintext\">kout ut </code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GYR000008",
+  "type": "mcq",
+  "title": "Date class - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following replacements for&nbsp; <code class=\"dap_inline\">/* missing code */</code>&nbsp; is the most appropriate implementation of the class?</p>",
+    "answer": "01JZ14DP0K42A9AE059KKSPCEZ",
+    "choices": [
+      {
+        "value": "01JZ14DP0KCA0217NQY6R0ZB33",
+        "label": "<pre><code class=\"language-plaintext\">private int day; \nprivate int month; \nprivate int year; \n \npublic Date() \n{ /* implementation not shown */ } \n \nprivate void setDate(int d, int m, int y) \n{ /* implementation not shown */ } </code></pre>"
+      },
+      {
+        "value": "01JZ14DP0K42A9AE059KKSPCEZ",
+        "label": "<pre><code class=\"language-plaintext\">private int day; \nprivate int month; \nprivate int year; \n \npublic Date() \n{ /* implementation not shown */ } \n \npublic void setDate(int d, int m, int y) \n{ /* implementation not shown */ } </code></pre>"
+      },
+      {
+        "value": "01JZ14DP0K1K7PT3VTTWKDAENG",
+        "label": "<pre><code class=\"language-plaintext\">public int day; \npublic int month; \npublic int year; \n \nprivate Date() \n{ /* implementation not shown */ } \n \nprivate void setDate(int d, int m, int y) \n{ /* implementation not shown */ } </code></pre>"
+      },
+      {
+        "value": "01JZ158KVTCNXNV5P5ECGZCY92",
+        "label": "<pre><code class=\"language-plaintext\">public int day; \npublic int month; \npublic int year; \n \npublic Date() \n{ /* implementation not shown */ } \n \npublic void setDate(int d, int m, int y) \n{ /* implementation not shown */ } </code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Anatomy of a Class"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

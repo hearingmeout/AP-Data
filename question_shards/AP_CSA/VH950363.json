@@ -1,0 +1,39 @@
+{
+  "id": "VH950363",
+  "type": "mcq",
+  "title": "sum some 2D array elements",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Consider the following code segment.</p><div class=\"standalone_code style:1\"><p class=\"code_line\">int[][] arr = {{1,  2,  3,  4},</p><p class=\"code_line indent:15\">{5,  6,  7,  8},</p><p class=\"code_line indent:15\">{9, 10, 11, 12}};</p><p class=\"code_line\"></p><p class=\"code_line\">int sum = 0;</p><p class=\"code_line\"></p><p class=\"code_line\">for (int[] x :&nbsp;arr)</p><p class=\"code_line\">{</p><p class=\"code_line indent:3\">for (int y = 0;&nbsp;y &lt; x.length - 1;&nbsp;y++)</p><p class=\"code_line indent:3\">{</p><p class=\"code_line indent:6\">sum += x[y];</p><p class=\"code_line indent:3\">}</p><p class=\"code_line\">}</p></div><p class=\"stem_paragraph\">What is the value of <span class=\"inline_code\">sum</span> as a result of executing the code segment?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">36</p></div>",
+        "value": "i1"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">54</p></div>",
+        "value": "i2"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">63</p></div>",
+        "value": "i3"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">78</p></div>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.12",
+    "text": "4.12: 2D Array Traversals"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

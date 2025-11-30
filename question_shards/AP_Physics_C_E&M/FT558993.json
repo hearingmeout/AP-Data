@@ -1,0 +1,43 @@
+{
+  "id": "FT558993",
+  "type": "mcq",
+  "title": "Internal resistance battery voltmeter reading",
+  "content": {
+    "prompt": "<p><img alt=\"The figure presents a rectangular circuit with two additional vertical branches in the middle connecting the top and bottom sides of the rectangle. On the left side of the rectangle there is a circle with the label V inside. On the top side between the two middle branches is an open switch labeled S. On the right side there is a resistor labeled big R. Each vertical branch has a resistor labeled small r and a battery labeled epsilon, with each resistor and battery enclosed by a dashed line rectangle.\" src=\"/images/dc80ce5ca923976f08fc1ba640bf717a.png\"></p>\n\n<p>A resistor of resistance <em>R</em> is connected in a circuit to two identical batteries. The circuit also contains switch <em>S</em> and ideal voltmeter <em>V</em>, as shown in the figure above. The batteries both have an emf&nbsp;<span aria-label=\"epsilon\"><math> <semantics> <mi>ε</mi> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacqaH1oqzaaa@37BB@</annotation> </semantics> </math></span>and internal resistance <em>r</em>. The reading of the voltmeter is noted with the switch in the open position. Which of the following best represents how the voltmeter reading after the switch is closed compares to the reading before the switch is closed?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The reading of the voltmeter is the same.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The reading of the voltmeter is higher.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The reading of the voltmeter is lower.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Cannot be determined without knowing the internal resistance of the batteries.</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>Cannot be determined without knowing the emf of the batteries.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.5",
+    "text": "11.5: Compound Direct Current Circuits"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

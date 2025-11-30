@@ -1,0 +1,39 @@
+{
+  "id": "VR737481",
+  "type": "mcq",
+  "title": "Impulse - momentum change from graph",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"passage\"><div class=\"prose style:1\"><div class=\"standalone_image\"><img alt=\"The figure shows a graph of a line in the first quadrant of a coordinate plane with the origin labeled O. The horizontal axis is labeled “time, in milliseconds,” and the numbers 20 through 100, in increments of 20, are indicated. The vertical axis is labeled “Net Force, in newtons,” and the numbers 1 through 4, in increments of 1, are indicated. The line begins on the vertical axis at 1 newton and moves upward and to the right and ends at coordinates 100 milliseconds comma 3 newtons.\" src=\"/images/950e76c2fac6056b523f0d6e8b34e7cd.svg\"></div></div></div></div></div><p class=\"stem_paragraph\">A lab cart is traveling along a straight, horizontal track with an unknown initial velocity. The graph shows the net force on the cart as a function of time during a short time interval. Does the graph provide sufficient information to determine the change in momentum of the cart during the time interval shown, and what evidence supports the claim?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Yes, because the change in momentum is equal to the area under the curve of the force-versus-time graph.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Yes, because the change in momentum is equal to the slope of the force-versus-time graph.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No, because the initial momentum is unknown and therefore the change in momentum cannot be determined.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No, because the force is not constant and therefore the change in momentum cannot be determined.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Linear Momentum"
+  },
+  "topic": {
+    "code": "4.2",
+    "text": "4.2: Change in Momentum and Impulse"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

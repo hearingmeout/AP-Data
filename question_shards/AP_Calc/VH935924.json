@@ -1,0 +1,39 @@
+{
+  "id": "VH935924",
+  "type": "mcq",
+  "title": "Justification - Geometric Series",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">If <span class=\"math_expression\"><span aria-label=\"x\"><math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math></span></span> and <span class=\"math_expression\"><span aria-label=\"y\"><math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi></mrow></mstyle></math></span></span> are positive real numbers, which of the following conditions guarantees that the infinite series <span class=\"math_expression\"><span aria-label=\"the sum, from n equals 0, to infinity, of, open parenthesis, the fraction x over y, close parenthesis, times, open parenthesis, the fraction x over y squared, end fraction, close parenthesis, to the n power\"><math alttext=\"the sum, from n equals 0, to infinity, of, open parenthesis, the fraction x over y, close parenthesis, times, open parenthesis, the fraction x over y squared, end fraction, close parenthesis, to the n power\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><munderover><mstyle displaystyle=\"true\" mathsize=\"140%\"><mrow><mo>∑</mo></mrow></mstyle><mrow><mi>n</mi><mo>=</mo><mn>0</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><mo>(</mo><mfrac><mrow><mi>x</mi></mrow><mrow><mi>y</mi></mrow></mfrac><mo>)</mo></mrow><msup><mrow><mo>(</mo><mrow><mfrac><mrow><mi>x</mi></mrow><mrow><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow><mo>)</mo></mrow><mrow><mi>n</mi></mrow></msup></mrow></mstyle></math></span></span> converges?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"x is greater than y\"><math alttext=\"x is greater than y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>x</mi><mo>&gt;</mo><mi>y</mi></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"x is greater than y squared\"><math alttext=\"x is greater than y squared\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>x</mi><mo>&gt;</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"x is less than y\"><math alttext=\"x is less than y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>x</mi><mo>&lt;</mo><mi>y</mi></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"x is less than y squared\"><math alttext=\"x is less than y squared\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>x</mi><mo>&lt;</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.2",
+    "text": "10.2: (BC ONLY) Working with Geometric Series"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

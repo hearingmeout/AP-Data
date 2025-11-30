@@ -1,0 +1,39 @@
+{
+  "id": "VWK000006",
+  "type": "mcq",
+  "title": "Multi-select with indexOf - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following code segments assigns the same value to <span class=\"dap_inline\">result</span> as the preceding code segment for all values of <span class=\"dap_inline\">str</span>?</p>",
+    "answer": "01JCH4QNYTE1NV99YP3TTXCSDW",
+    "choices": [
+      {
+        "value": "01JCH4QNYR8T01CC0HCZVHKK1S",
+        "label": "<pre><code class=\"language-plaintext\">int result = 0; \nif (str.indexOf(\"A\") &lt; 0) \n{\n   result = 3; \n}\nelse if (str.indexOf(\"B\") &lt; 0) \n{\n   result = 2; \n}\nelse if (str.length() &gt; 5); \n{\n   result = 1; \n}</code></pre>"
+      },
+      {
+        "value": "01JCH4QNYSB5V64S70CRJNZGBA",
+        "label": "<pre><code class=\"language-plaintext\">int result = 0; \nif (str.indexOf(\"A\") &lt; 0) \n{\n   if (str.length() &gt; 5) \n   {\n      result = 1; \n   }\n   else if (str.indexOf(\"B\") &lt; 0) \n   {\n      result = 2; \n   }\n   else \n   {\n      result = 3; \n   }\n}</code></pre>"
+      },
+      {
+        "value": "01JCH4QNYTE1NV99YP3TTXCSDW",
+        "label": "<pre><code class=\"language-plaintext\">int result = 0; \nif (str.indexOf(\"A\") &lt; 0) \n{\n   if(str.length() &gt; 5) \n   {\n      result = 1; \n   }\n   else \n   {\n      result = 3; \n   }\n}\nelse if (str.indexOf(\"B\") &lt; 0) \n{\n   if (str.length() &gt; 5) \n   { \n      result = 2; \n   }\n}</code></pre>"
+      },
+      {
+        "value": "01JCH4QNYTCYHHPHAAQKGNHBR8",
+        "label": "<pre><code class=\"language-plaintext\">int result = 0; \nif (str.indexOf(\"B\") &lt; 0) \n{\n   if (str.length() &gt; 5) \n   {\n      result = 2; \n   }\n}\nelse if (str.indexOf(\"A\") &lt; 0) \n{\n   if (str.length() &gt; 5) \n   {\n      result = 1; \n   }\n   else \n   {\n      result = 3;\n   }\n}</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Nested `if` Statements"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

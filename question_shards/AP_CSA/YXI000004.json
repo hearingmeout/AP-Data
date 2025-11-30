@@ -1,0 +1,39 @@
+{
+  "id": "YXI000004",
+  "type": "mcq",
+  "title": "Search of arr - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What is printed as a result of executing the code segment?</p>",
+    "answer": "01JGM3M7BFYRKXWTRGWQ2GHC3V",
+    "choices": [
+      {
+        "value": "01JGM3M7BD2GA0DT2DQ9XYYEX4",
+        "label": "<pre><code class=\"language-plaintext\"><span class=\"tts-container\" data-ssml-say-as=\"characters\" ssml-label=\"Characters\">-</span>1</code></pre>"
+      },
+      {
+        "value": "01JGM3M7BFYRKXWTRGWQ2GHC3V",
+        "label": "<pre><code class=\"language-plaintext\">5</code></pre>"
+      },
+      {
+        "value": "01JGM3M7BFNWWNSFD6N3J6VB4V",
+        "label": "<pre><code class=\"language-plaintext\">6</code></pre>"
+      },
+      {
+        "value": "01JGM3M7BF9C4V1VCPPMDTSWME",
+        "label": "<pre><code class=\"language-plaintext\">8</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.14",
+    "text": "4.14: Searching Algorithms"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

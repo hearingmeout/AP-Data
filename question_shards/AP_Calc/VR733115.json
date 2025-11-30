@@ -1,0 +1,39 @@
+{
+  "id": "VR733115",
+  "type": "mcq",
+  "title": "Representations - Sketching Slope Fields",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following is a slope field for the differential equation <span class=\"math_expression\"><span aria-label=\"the derivative of y with respect to x equals, 1 minus x squared\"><math alttext=\"the derivative of y with respect to x equals, 1 minus x squared\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mo>ⅆ</mo><mi>y</mi></mrow><mrow><mo>ⅆ</mo><mi>x</mi></mrow></mfrac><mo>=</mo><mn>1</mn><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup></math></span></span> ?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure shows a slope field in the x y plane with the origin labeled O. The numbers negative 2 and 2 are indicated on both the x and y axes. There are 19 rows and columns of line segments in the slope field. In each column, all the line segments have equivalent slopes. To the left of x equals negative 1, all line segments have negative slopes becoming less steep as x increases. Between x equals negative 1 and x equals zero, the line segments have positive slopes becoming steeper as x increases. Between x equals zero and x equals 1, the line segments have positive slopes becoming less steep as x increases. To the right of x equals 1, all line segments have negative slopes becoming steeper as x increases.\" src=\"/images/ab981fe0bb967b8b24d1890ae007fc81.svg\"></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure shows a slope field in the x y plane, with the origin labeled O. The numbers negative 2 and 2 are indicated on both the x and y axes. There are 19 rows and columns of line segments in the slope field. In each column, all the line segments have equivalent slopes. To the left of x equals 0, all line segments have positive slopes becoming less steep as x increases. To the right of x equals 0, all line segments have negative slopes becoming steeper as x increases.\" src=\"/images/53f0654468ff32091903d8f847c4b4ef.svg\"></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure shows a slope field in the x y plane, with the origin labeled O. The numbers negative 2 and 2 are indicated on both the x and y axes. There are 19 rows and columns of line segments in the slope field. In each column, all the line segments have equivalent slopes. To the left of x equals negative 1, all line segments have positive slopes becoming less steep as x increases. Between x equals negative 1 and x equals zero, the line segments have negative slopes until reaching x equals zero at which the slopes are horizontal. Between x equals zero and x equals 1, the line segments have positive slopes becoming less steep as x increases. To the right of x equals 1, all line segments have negative slopes becoming steeper as x increases.\" src=\"/images/31f3a1b1703d5bdd603415d83e98c057.svg\"></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure shows a slope field in the x y plane, with the origin labeled O. The numbers negative 2 and 2 are indicated on both the x and y axes. There are 19 rows and columns of line segments in the slope field. In each column, all the line segments have equivalent slopes. To the left of x equals 0, all line segments have negative slopes becoming less steep as x increases. To the right of x equals 0, all line segments have positive slopes becoming steeper as x increases.\" src=\"/images/bff9482b0557ef5006c9db75d2eef2dc.svg\"></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.3",
+    "text": "7.3: Sketching Slope Fields"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

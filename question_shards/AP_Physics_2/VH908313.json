@@ -1,0 +1,39 @@
+{
+  "id": "VH908313",
+  "type": "mcq",
+  "title": "Current same left and right",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VH908249.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">In which switch position, open or closed, can the current be the same in the left and right branches, and why?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Neither position, because the resistors in these branches have different resistances.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Both positions, because the current in the middle branch will be zero at some time for both positions.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Only when the switch is open, because then the resistors are in series.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Only immediately after the switch is closed, because then the equivalent resistance of the middle and right branches equals that of the left branch.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.2",
+    "text": "11.2: Simple Circuits"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "VH915662",
+  "type": "mcq",
+  "title": "Time for one revolution",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VH915625.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">The satellite orbits at a distance <span class=\"math_expression\"><span aria-label=\"R\"><math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>R</mi></mrow></mstyle></math></span></span> from the center of the moon. Which of the following is a correct expression for the time <span class=\"math_expression\"><span aria-label=\"T\"><math alttext=\"T\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>T</mi></mrow></mstyle></math></span></span> it takes the satellite to make one complete revolution around the moon?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"T equals 2 pi times the square root of the fraction, R cubed over G lowercase m\"><math alttext=\"T equals 2 pi times the square root of the fraction, R cubed over G lowercase m\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>T</mi><mo>=</mo><mn>2</mn><mi>π</mi><msqrt><mrow><mfrac><mrow><msup><mrow><mi>R</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow><mrow><mi>G</mi><mi>m</mi></mrow></mfrac></mrow></msqrt></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"T equals 2 pi times the square root of the fraction, R cubed over G uppercase M\"><math alttext=\"T equals 2 pi times the square root of the fraction, R cubed over G uppercase M\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mi>T</mi><mo>=</mo><mn>2</mn><mi>π</mi><msqrt><mrow><mfrac><mrow><msup><mrow><mi>R</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow><mrow><mi>G</mi><mi>M</mi></mrow></mfrac></mrow></msqrt></mrow></mstyle></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"T equals 2 pi times the square root of the fraction, G lowercase m over R cubed\"><math alttext=\"T equals 2 pi times the square root of the fraction, G lowercase m over R cubed\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mi>T</mi><mo>=</mo><mn>2</mn><mi>π</mi><msqrt><mrow><mfrac><mrow><mi>G</mi><mi>m</mi></mrow><mrow><msup><mrow><mi>R</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac></mrow></msqrt></mrow></mstyle></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"T equals 2 pi times the square root of the fraction, G uppercase M over R cubed\"><math alttext=\"T equals 2 pi times the square root of the fraction, G uppercase M over R cubed\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mi>T</mi><mo>=</mo><mn>2</mn><mi>π</mi><msqrt><mrow><mfrac><mrow><mi>G</mi><mi>M</mi></mrow><mrow><msup><mrow><mi>R</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac></mrow></msqrt></mrow></mstyle></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Force and Translational Dynamics"
+  },
+  "topic": {
+    "code": "2.9",
+    "text": "2.9: Circular Motion"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

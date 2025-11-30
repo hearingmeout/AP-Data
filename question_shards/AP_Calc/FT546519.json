@@ -1,0 +1,43 @@
+{
+  "id": "FT546519",
+  "type": "mcq",
+  "title": "Implicit differentiation and evaluation",
+  "content": {
+    "prompt": "<p>If y=ln(x<sup>2</sup>+y<sup>2</sup>) , then the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the derivative of y with respect to x\">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mrow>\n     <mi>d</mi><mi>y</mi></mrow>\n    <mrow>\n     <mi>d</mi><mi>x</mi></mrow>\n   </mfrac>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWcaaWdaeaapeGaamizaiaadMhaa8aabaWdbiaadsgacaWG4baa\n  aaaa@3A31@\n  </annotation>\n </semantics>\n</math>\n at the point (1, 0) is</p><p></p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>0</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"one half\">\n <semantics>\n  <mrow>\n   <mfrac>\n    <mn>1</mn>\n    <mn>2</mn>\n   </mfrac>\n   </mrow>\n  <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n  feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n  hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n  4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n  vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n  fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n  qadaWcaaWdaeaapeGaaGymaaWdaeaapeGaaGOmaaaaaaa@37DB@\n  </annotation>\n </semantics>\n</math>\n</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>1</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>2</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>undefined</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.2",
+    "text": "3.2: Implicit Differentiation"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

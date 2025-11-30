@@ -1,0 +1,39 @@
+{
+  "id": "VH965993",
+  "type": "mcq",
+  "title": "VOC Relationship Supported by Data",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VH965958.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">Which of the following best describes the relationship between variables in the data table?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Impact factor causes a change in temperature maximum.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Isoprene levels vary depending on traffic and urbanization.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Ozone maximum is correlated to average and maximum temperature.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Changes in average temperature are linked to changes in land use in Berlin.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Atmospheric Pollution"
+  },
+  "topic": {
+    "code": "7.2",
+    "text": "7.2: Photochemical Smog"
+  },
+  "skill": {
+    "code": "Skill 5.B",
+    "text": "Skill 5.B: Describe relationships among variables in data represented."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT1710",
+  "type": "mcq",
+  "title": "Finding relative maximum given first derivative",
+  "content": {
+    "prompt": "The function <em>f</em> has a first derivative given by <span aria-label=\"f prime times x is equal to x open paren x minus 3 close paren squared open paren x plus 1 close paren\"><math> <semantics> <mrow> <msup> <mi>f</mi> <mo>′</mo> </msup> <mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mo>=</mo><mi>x</mi><msup> <mrow> <mrow><mo>(</mo> <mrow> <mi>x</mi><mo>−</mo><mn>3</mn></mrow> <mo>)</mo></mrow></mrow> <mn>2</mn> </msup> <mrow><mo>(</mo> <mrow> <mi>x</mi><mo>+</mo><mn>1</mn></mrow> <mo>)</mo></mrow></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qaceWGMbGbauaadaqadaWdaeaapeGaamiEaaGaayjkaiaawMcaaiab g2da9iaadIhadaqadaWdaeaapeGaamiEaiabgkHiTiaaiodaaiaawI cacaGLPaaapaWaaWbaaSqabeaapeGaaGOmaaaakmaabmaapaqaa8qa caWG4bGaey4kaSIaaGymaaGaayjkaiaawMcaaaaa@4558@ </annotation> </semantics> </math></span>. At what values of <em>x</em> does <em>f</em> have a relative maximum?",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>-1 only</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>0 only</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>-1 and 0 only</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>-1 and 3 only</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>-1, 0, and 3</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.4",
+    "text": "5.4: Using the First Derivative Test to Determine Relative (Local) Extrema"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

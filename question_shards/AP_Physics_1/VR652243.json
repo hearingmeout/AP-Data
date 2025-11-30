@@ -1,0 +1,39 @@
+{
+  "id": "VR652243",
+  "type": "mcq",
+  "title": "Torque - torque dependence on angle",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"passage\"><div class=\"prose style:1\"><div class=\"standalone_image\"><img alt=\"The figure shows a top view of a horizontal rod with a pivot point indicated at its left end. A dashed horizontal line is drawn from the pivot point through the center of the rod to the right end. An arrow labeled F&nbsp;points upward and to the left from the middle of the rod at an angle theta from the horizontal.\" src=\"/images/412c551bcce08249810b2285d91fd909.svg\"></div></div></div></div></div><p class=\"stem_paragraph\">A rod is free to rotate on a horizontal surface about a pivot at its left end, as shown. Frictional forces are negligible. A force of magnitude <span class=\"math_expression\"><span aria-label=\"F\"><math alttext=\"F\" display=\"inline\" overflow=\"scroll\"><mi>F</mi></math></span></span> is exerted at the midpoint of the rod at an angle <span class=\"math_expression\"><span aria-label=\"theta\"><math alttext=\"theta\" display=\"inline\" overflow=\"scroll\"><mi>θ</mi></math></span></span>, where initially <span class=\"math_expression\"><span aria-label=\"theta equals 45 degrees\"><math alttext=\"theta equals 45 degrees\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>θ</mi><mo>=</mo><mn>45</mn><mi mathvariant=\"normal\">°</mi></mstyle></math></span></span>. If the angle <span class=\"math_expression\"><span aria-label=\"theta\"><math alttext=\"theta\" display=\"inline\" overflow=\"scroll\"><mi>θ</mi></math></span></span> is increased while keeping the location and magnitude of the force constant, which of the following graphs would correctly represent the torque exerted by the force as a function of <span class=\"math_expression\"><span aria-label=\"theta\"><math alttext=\"theta\" display=\"inline\" overflow=\"scroll\"><mi>θ</mi></math></span></span> as it is increased from <span class=\"math_expression\"><span aria-label=\"45 degrees\"><math alttext=\"45 degrees\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mn>45</mn><mi mathvariant=\"normal\">°</mi></mstyle></math></span></span> to <span class=\"math_expression\"><span aria-label=\"90 degrees\"><math alttext=\"90 degrees\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mn>90</mn><mi mathvariant=\"normal\">°</mi></mstyle></math></span></span>?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure shows the graph of a line in a coordinate plane. The horizontal axis is labeled theta, and the values 45 degrees through 90 degrees, in increments of 15 degrees, are indicated. The vertical axis is labeled Torque. The line begins halfway up the vertical axis and moves linearly upward and to the right.\" src=\"/images/699107fcdadb7b7df79e04e23cabcd4b.svg\"></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure shows the graph of a curve in a coordinate plane. The horizontal axis is labeled theta, and the values 45 degrees through 90 degrees, in increments of 15 degrees, are indicated. The vertical axis is labeled Torque. The curve begins slightly more than halfway up the vertical axis and moves gradually upward and to the right. The curve is concave down.\" src=\"/images/daa7a8086596ac8412e96ed4b57651b2.svg\"></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure shows the graph of a line in a coordinate plane. The horizontal axis is labeled theta, and the values 45 degrees through 90 degrees, in increments of 15 degrees, are indicated. The vertical axis is labeled Torque. The line begins halfway up the vertical axis and moves linearly downward and to the right and reaches a value of 0 at 90 degrees.\" src=\"/images/43089a7272033aed60de9b841b2303c4.svg\"></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure shows the graph of a curve in a coordinate plane. The horizontal axis is labeled theta, and the values 45 degrees through 90 degrees, in increments of 15 degrees, are indicated. The vertical axis is labeled Torque. The curve begins more than halfway up the vertical axis and moves gradually downward and to the right and levels off at 90 degrees. The curve is concave up.\" src=\"/images/f1945f90403099649d3d6f5a0153ecd5.svg\"></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.3",
+    "text": "5.3: Torque"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Calculate or estimate an unknown quantity with units from known quantities, by selecting and following a logical computational pathway."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT578042",
+  "type": "mcq",
+  "title": "Ranked rebound heights of spheres",
+  "content": {
+    "prompt": "<p>Assume the spheres collide elastically with the ground. Which of the following ranks the spheres based on the rebound height after they collide with the ground? </p>",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>X &gt; Y &gt;Z </p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Y &gt; (X = Z) </p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Z &gt; Y &gt; X </p>"
+      },
+      {
+        "label": "( X = Y) &gt; Z",
+        "value": "i3"
+      },
+      {
+        "value": "i4",
+        "label": "<p>(X = Z) &gt; Y</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.5",
+    "text": "1.5: Motion in Two or Three Dimensions"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

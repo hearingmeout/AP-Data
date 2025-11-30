@@ -1,0 +1,35 @@
+{
+  "id": "FT536334",
+  "type": "mcq",
+  "title": "Youth hostel - what offered for 55,80 Euros",
+  "content": {
+    "prompt": "<p>Was wird für 55,80 € alles geboten?</p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Übernachtung mit Frühstücksbüfett</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Nur die Übernachtung selbst</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Alle Mahlzeiten plus Übernachtung</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Übernachtung und Erlebnisprogramm</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Factors That Impact the Quality of Life"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Make cultural connections."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "VR026183",
+  "type": "mcq",
+  "title": "Identifica el tono",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR026047.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">¿Cuál es el tono de la presentación?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Enfático</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Agresivo</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Sentimental</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Optimista</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Escritores contemporáneos de Estados Unidos y España"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify perspective, attitude, or tone."
+  }
+}

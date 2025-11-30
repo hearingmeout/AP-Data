@@ -1,0 +1,39 @@
+{
+  "id": "FT577855",
+  "type": "mcq",
+  "title": "Identify process where no work done on or by gas",
+  "content": {
+    "prompt": "<p>During which process is no work done on or by the gas?</p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<em>XY</em>",
+        "value": "i0"
+      },
+      {
+        "label": "<em>YZ</em>",
+        "value": "i1"
+      },
+      {
+        "label": "<em>ZX</em>",
+        "value": "i2"
+      },
+      {
+        "label": "Work was done on or by the gas during every process",
+        "value": "i3"
+      }
+    ]
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Thermodynamics"
+  },
+  "topic": {
+    "code": "9.4",
+    "text": "9.4: The First Law of Thermodynamics"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

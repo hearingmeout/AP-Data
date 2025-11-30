@@ -1,0 +1,43 @@
+{
+  "id": "VH902606",
+  "type": "mcq",
+  "title": "Daily bank transactions",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">The distribution of the number of transactions performed at a bank each day is approximately normal with mean 478 transactions and standard deviation 64 transactions. Which of the following is closest to the proportion of daily transactions greater than 350 ?</p>\n",
+    "answer": "i5",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">0.023</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">0.046</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">0.477</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">0.954</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">0.977</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.10",
+    "text": "1.10: The Normal Distribution"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+  }
+}

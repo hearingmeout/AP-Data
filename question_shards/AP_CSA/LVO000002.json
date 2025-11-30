@@ -1,0 +1,39 @@
+{
+  "id": "LVO000002",
+  "type": "mcq",
+  "title": "Modify private variable in Pair class - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following methods can be added to the&nbsp; <span class=\"dap_inline\">Pair</span>&nbsp; class to allow other classes to modify the value of <span class=\"dap_inline\">y</span>?</p>",
+    "answer": "1717014820849.6152",
+    "choices": [
+      {
+        "value": "1717014820849.134",
+        "label": "<pre><code class=\"language-plaintext\">private int setY(int num)\n{\n   return num;\n}</code></pre>"
+      },
+      {
+        "value": "1717014820849.063",
+        "label": "<pre><code class=\"language-plaintext\">public int setY(int num)\n{\n   return num;\n}</code></pre>"
+      },
+      {
+        "value": "1717014820849.222",
+        "label": "<pre><code class=\"language-plaintext\">private void setY(int num)\n{\n   y = num;\n}</code></pre>"
+      },
+      {
+        "value": "1717014820849.6152",
+        "label": "<pre><code class=\"language-plaintext\">public void setY(int num)\n{\n   y = num;\n}</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Anatomy of a Class"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

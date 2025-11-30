@@ -1,0 +1,43 @@
+{
+  "id": "VH925937",
+  "type": "mcq",
+  "title": "Employee age",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"passage\"><div class=\"prose style:1\"><p class=\"passage_para\">The mean age of the employees at a large corporation is 35.2 years, and the standard deviation is 9.5 years. A random sample of 4 employees will be selected.</p></div></div></div></div><p class=\"stem_paragraph\">What are the mean and standard deviation of the sampling distribution of the sample mean for samples of size 4&nbsp;?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The mean is 35.2, and the standard deviation is 9.5.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The mean is 35.2, and the standard deviation is <span class=\"math_expression\"><span aria-label=\"the fraction 9.5 over 4\"><math alttext=\"the fraction 9.5 over 4\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>9.5</mn></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></mstyle></math></span></span>.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The mean is 35.2, and the standard deviation is <span class=\"math_expression\"><span aria-label=\"the fraction 9.5 over 2\"><math alttext=\"the fraction 9.5 over 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>9.5</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math></span></span>.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The mean is <span class=\"math_expression\"><span aria-label=\"the fraction 35.2 over 4\"><math alttext=\"the fraction 35.2 over 4\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>35.2</mn></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></mstyle></math></span></span>, and the standard deviation is <span class=\"math_expression\"><span aria-label=\"the fraction 9.5 over 4\"><math alttext=\"the fraction 9.5 over 4\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>9.5</mn></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></mstyle></math></span></span>.</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The mean is <span class=\"math_expression\"><span aria-label=\"the fraction 35.2 over 2\"><math alttext=\"the fraction 35.2 over 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>35.2</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math></span></span>, and the standard deviation is <span class=\"math_expression\"><span aria-label=\"the fraction 9.5 over 2\"><math alttext=\"the fraction 9.5 over 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>9.5</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math></span></span>.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Sampling Distributions"
+  },
+  "topic": {
+    "code": "5.7",
+    "text": "5.7: Sampling Distributions for Sample Means"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Determine parameters for probability distributions."
+  }
+}

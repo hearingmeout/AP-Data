@@ -1,0 +1,35 @@
+{
+  "id": "VR154313",
+  "type": "mcq",
+  "title": "Hot and humid conditionals",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Assume that the Boolean variable <span class=\"inline_code\">hot</span> is assigned the value <span class=\"inline_code\">true</span> and the Boolean variable <span class=\"inline_code\">humid</span> is assigned the value <span class=\"inline_code\">false</span>. Which of the following will display the value <span class=\"inline_code\">true</span>&nbsp;?</p><p class=\"stem_paragraph\">Select <span class=\"formatted_text text_decoration:underline\">two</span> answers.</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure presents one block of code that consists of 2 lines. Throughout the code there are nested blocks of code, as follows. [Begin Block] Line 1: IF [begin block] hot [end block] [Begin Block] Line 2: [begin block] DISPLAY [begin block] hot AND humid [end block] [end block] [End Block] [End Block]\" height=\"84\" src=\"/images/a22a0900266512496f34a6a5e67b8cb5.png\" width=\"280\"></span></p>\n",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure presents one block of code that consists of 2 lines. Throughout the code there are nested blocks of code, as follows. [Begin Block] Line 1: IF [begin block] NOT humid [end block] [Begin Block] Line 2: [begin block] DISPLAY [begin block] hot OR humid [end block] [end block] [End Block] [End Block]\" height=\"88\" src=\"/images/e8e5494a9dc97979c84e2b6c27d56c61.png\" width=\"280\"></span></p>\n",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure presents one block of code that consists of 2 lines. Throughout the code there are nested blocks of code, as follows. [Begin Block] Line 1: IF [begin block] hot OR humid [end block] [Begin Block] Line 2: [begin block] DISPLAY [begin block] hot [end block] [end block] [End Block] [End Block]\" height=\"129\" src=\"/images/06630a29356c498b7c8294fffcbad74d.png\" width=\"280\"></span></p>\n",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure presents one block of code that consists of 2 lines. Throughout the code there are nested blocks of code. [Begin Block] Line 1: IF [begin block] hot AND humid [end block] [Begin Block] Line 2: [begin block] DISPLAY [begin block] hot [end block] [end block] [End Block] [End Block]\" height=\"129\" src=\"/images/5e072018c133562ac72eda0392c5195f.png\" width=\"280\"></span></p>\n",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.5",
+    "text": "3.5: Boolean Expressions"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

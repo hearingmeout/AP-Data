@@ -1,0 +1,43 @@
+{
+  "id": "FT546016",
+  "type": "mcq",
+  "title": "Compare median and IQR of boxplots of tree heights",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows two vertical boxplots that summarize data on the heights of pine seedlings. The boxplots are graphed on the same vertical axis. The vertical axis is labeled Height, open parenthesis, centimeters, close parenthesis. Tickmarks with the numbers from 0 through 250, from bottom to top in increments of 50, are shown. The first boxplot is labeled Fertilized. In the boxplot, the lower whisker extends from approximately 60 to aproximately 130; the box extends from approximately 130 to approximately 170; a horizontal line segment at approximately 155 breaks the box into 2 parts; and the upper whisker extends from approximately 170 to approximately 235. Below the lower whisker eight stars are plotted. Three of the stars are adjacent and attached to the end of the lower whisker. They correspond to three data values that are between 50 and 60. Two of the stars are adjacent and correspond to two data values that are between 40 and 50. Two stars are adjacent and correspond to two data values that are between 30 and 40. The lowest star corresponds to a data value that is approximately equal to 25. Above the upper whisker two stars are plotted. One attached to the whisker corresponding to a data value that is approximately equal to 236 and one corresponding to a data value that is approximately equal to 245. The second boxplot is labeled Unfertilized. In the boxplot, the lower whisker extends from approximately 35 to aproximately 105; the box extends from approximately 105 to approximately 165; a horizontal line segment at approximately 135 breaks the box into 2 parts; and the upper whisker extends from approximately 165 to approximately 230. Below the lower whisker one star corresponding to a data value approximately equal to 10 is plotted.\" height=\"316\" src=\"/images/4f57f5cf7e5bc8b9c4d54657b7516724.jpg\" width=\"447\"></p>\n\n<p>The figure above summarizes the heights, in centimeters, of approximately 400 pine seedlings six years after they were planted at a center for environmental study. Approximately half of the trees were fertilized yearly, and the remaining trees were never fertilized. Which of the following statements about the medians and interquartile ranges (IQRs) of the heights of the two groups of trees 6 years after being planted is true?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>The medians and IQRs are the same for the unfertilized trees and the fertilized trees.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>The median for the unfertilized trees is greater than the median for the fertilized trees, and the IQR is also greater for the unfertilized trees.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>The median for the unfertilized trees is the same as the median for the fertilized trees, and the IQR is greater for the unfertilized trees.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The median for the unfertilized trees is less than the median for the fertilized trees, and the IQR is greater for the unfertilized trees.</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p> The median for the unfertilized trees is less than the median for the fertilized trees, and the IQR is less for the unfertilized trees.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.8",
+    "text": "1.8: Graphical Representations of Summary Statistics"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Compare distributions or relative positions of points within a distribution."
+  }
+}

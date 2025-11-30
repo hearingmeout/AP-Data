@@ -1,0 +1,39 @@
+{
+  "id": "VR814832",
+  "type": "mcq",
+  "title": "Electrostatics - effect of charge on force",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR814824.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">In the original configuration of the three charged particles, Particle <span class=\"math_expression\"><span aria-label=\"Z\"><math alttext=\"Z\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Z</mi></math></span></span> experiences a force <span class=\"math_expression\"><span aria-label=\"F\"><math alttext=\"F\" display=\"inline\" overflow=\"scroll\"><mi>F</mi></math></span></span> from Particle <span class=\"math_expression\"><span aria-label=\"Y\"><math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Y</mi></math></span></span> only. If the magnitude of the charge of Particle <span class=\"math_expression\"><span aria-label=\"Y\"><math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Y</mi></math></span></span> is changed to <span class=\"math_expression\"><span aria-label=\"2 Q\"><math alttext=\"2 Q\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mi>Q</mi></math></span></span>, what is the new force on Particle <span class=\"math_expression\"><span aria-label=\"Z\"><math alttext=\"Z\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Z</mi></math></span></span> from Particle <span class=\"math_expression\"><span aria-label=\"Y\"><math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mtext>Y</mtext></math></span></span> only?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"F\"><math alttext=\"F\" display=\"inline\" overflow=\"scroll\"><mi>F</mi></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"2 F\"><math alttext=\"2 F\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mi>F</mi></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"3 F\"><math alttext=\"3 F\" display=\"inline\" overflow=\"scroll\"><mn>3</mn><mi>F</mi></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"4 F\"><math alttext=\"4 F\" display=\"inline\" overflow=\"scroll\"><mn>4</mn><mi>F</mi></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Electric Force, Field, and Potential"
+  },
+  "topic": {
+    "code": "10.1",
+    "text": "10.1: Electric Charge and Electric Force"
+  },
+  "skill": {
+    "code": "2.D",
+    "text": "2.D: Predict new values or factors of change of physical quantities using functional dependence between variables."
+  }
+}

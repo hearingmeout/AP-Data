@@ -1,0 +1,43 @@
+{
+  "id": "VR024816",
+  "type": "mcq",
+  "title": "Standardized scores for Iowa and Ohio corn weight",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">If an ear of corn from the farm in Ohio weighs <span class=\"math_expression\"><span aria-label=\"1.39\" role=\"math\"><math alttext=\"1.39\" overflow=\"scroll\"> <mstyle> <mrow> <mn>1.39</mn> </mrow> </mstyle> </math></span></span> pounds, how many standard deviations from the mean is the weight with respect to the Ohio distribution?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"1.46\"><math alttext=\"1.46\" overflow=\"scroll\"><mstyle><mrow><mn>1.46</mn></mrow></mstyle></math></span></span> standard deviations below the mean</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"1.46\"><math alttext=\"1.46\" overflow=\"scroll\"><mstyle><mrow><mn>1.46</mn></mrow></mstyle></math></span></span> standard deviations above the mean</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"1.65\"><math alttext=\"1.65\" overflow=\"scroll\"><mstyle><mrow><mn>1.65</mn></mrow></mstyle></math></span></span> standard deviations above the mean</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"1.88\"><math alttext=\"1.88\" overflow=\"scroll\"><mstyle><mrow><mn>1.88</mn></mrow></mstyle></math></span></span> standard deviations below the mean</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"1.88\"><math alttext=\"1.88\" overflow=\"scroll\"><mstyle><mrow><mn>1.88</mn></mrow></mstyle></math></span></span> standard deviations above the mean</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.10",
+    "text": "1.10: The Normal Distribution"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+  }
+}

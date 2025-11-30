@@ -1,0 +1,39 @@
+{
+  "id": "VR789084",
+  "type": "mcq",
+  "title": "Forces - Velocity graphs to FBD",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"standalone_image\"><img alt=\"The figure shows two graphs in the first and fourth quadrants of separate coordinate planes. Each graph consists of a line segment. No values are indicated along either axis. The horizontal axes are labeled “Time.” In the first graph, the vertical axis is labeled v sub x. The line segment begins on the vertical axis, above the horizontal axis, and moves horizontally to the right until it ends above the end of the horizontal axis. In the second graph, the vertical axis is labeled v sub y. The line segment begins on the vertical axis, above the horizontal axis. It slants downward and to the right, crosses the horizontal axis, and continues downward and to the right until it ends below the end of the horizontal axis, the same distance below the horizontal axis as it had started above the horizontal axis.\" src=\"/images/3c5f5404cfe046168629708692ccc518.svg\"></div></div></div><p class=\"stem_paragraph\">An object is subject to multiple forces that result in the object having horizontal and vertical velocity components <span class=\"math_expression\"><span aria-label=\"v sub x\"><math alttext=\"v sub x\" display=\"inline\" overflow=\"scroll\"><msub><mi>v</mi><mi>x</mi></msub></math></span></span> and <span class=\"math_expression\"><span aria-label=\"v sub y\"><math alttext=\"v sub y\" display=\"inline\" overflow=\"scroll\"><msub><mi>v</mi><mi>y</mi></msub></math></span></span>, respectively as a function of time, as shown. Which of the following diagrams could represent the forces exerted on the object?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure shows a force diagram which consists of two arrows extending from a dot on a coordinate grid. A pair of axes indicate that positive x points horizontally to the right, and positive y points vertically upward. The first arrow extends vertically upward three units. The second arrow extends vertically downward three units.\" src=\"/images/729bb7d8e9bd6b969bfa7fff59d5e31a.svg\"></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure shows a force diagram which consists of two arrows extending from a dot on a coordinate grid. A pair of axes indicate that positive x points horizontally to the right, and positive y points vertically upward. The first arrow slants to the left two units and upward three units. The second arrow extends vertically downward three units.\" src=\"/images/351e93043063cab82a4684a706cd3f7a.svg\"></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure shows a force diagram which consists of three arrows extending from a dot on a coordinate grid. A pair of axes indicate that positive x points horizontally to the right, and positive y points vertically upward. The first arrow slants to the left two units and upward three units. The second arrow extends vertically downward three units. The third arrow extends horizontally to the left two units.\" src=\"/images/36d4cf9834e64866c436c9685541b71d.svg\"></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"The figure shows a force diagram which consists of three arrows extending from a dot on a coordinate grid. A pair of axes indicate that positive x points horizontally to the right, and positive y points vertically upward. The first arrow extends vertically upward three units. The second arrow extends horizontally to the right two units. The third arrow slants to the left two units and downward four units.\" src=\"/images/935933c867b67bede34f38ccb75ef335.svg\"></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Force and Translational Dynamics"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Newton's First Law"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

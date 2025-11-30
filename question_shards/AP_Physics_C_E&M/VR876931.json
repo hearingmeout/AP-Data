@@ -1,0 +1,39 @@
+{
+  "id": "VR876931",
+  "type": "mcq",
+  "title": "Capacitors - speed vs t of particle between plates",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">If gravitational forces and capacitor edge effects are negligible, what is the particle’s speed as a function of time <span class=\"math_expression\"><span aria-label=\"t\" role=\"math\"><math alttext=\"t\" overflow=\"scroll\"> <mstyle displaystyle=\"true\"> <mi>t</mi> </mstyle> </math></span></span> during the time it is within the region between the plates?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"v sub 0, end sub, plus, open parenthesis, the fraction with numerator E sub C, end sub, times Q sub p, and denominator M sub p, close parenthesis, times t\"><math alttext=\"v sub 0, end sub, plus, open parenthesis, the fraction with numerator E sub C, end sub, times Q sub p, and denominator M sub p, close parenthesis, times t\" overflow=\"scroll\"><msub><mi>v</mi><mn>0</mn></msub><mo>+</mo><mrow><mo>(</mo><mfrac><mrow><msub><mi>E</mi><mtext>c</mtext></msub><msub><mi>Q</mi><mi>p</mi></msub></mrow><msub><mi>M</mi><mi>p</mi></msub></mfrac><mo>)</mo></mrow><mi>t</mi></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"v sub 0 plus one half times, open parenthesis, the fraction with numerator E sub C, end sub, times Q sub p, and denominator M sub p, close parenthesis, times t squared\"><math alttext=\"v sub 0 plus one half times, open parenthesis, the fraction with numerator E sub C, end sub, times Q sub p, and denominator M sub p, close parenthesis, times t squared\" overflow=\"scroll\"><msub><mi>v</mi><mn>0</mn></msub><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mrow><mo>(</mo><mfrac><mrow><msub><mi>E</mi><mtext>c</mtext></msub><msub><mi>Q</mi><mi>p</mi></msub></mrow><msub><mi>M</mi><mi>p</mi></msub></mfrac><mo>)</mo></mrow><msup><mi>t</mi><mn>2</mn></msup></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the square root of v sub 0, end sub, squared plus, open parenthesis, the fraction with numerator E sub C, end sub, times Q sub p, end sub, times t, and denominator M sub p, close parenthesis, squared, end root\"><math alttext=\"the square root of v sub 0, end sub, squared plus, open parenthesis, the fraction with numerator E sub C, end sub, times Q sub p, end sub, times t, and denominator M sub p, close parenthesis, squared, end root\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msqrt><msup><msub><mi>v</mi><mn>0</mn></msub><mn>2</mn></msup><mo>+</mo><msup><mrow><mo>(</mo><mfrac><mrow><msub><mi>E</mi><mtext>c</mtext></msub><msub><mi>Q</mi><mi>p</mi></msub><mi>t</mi></mrow><msub><mi>M</mi><mi>p</mi></msub></mfrac><mo>)</mo></mrow><mn>2</mn></msup></msqrt></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the square root of v sub 0, end sub, squared plus, open parenthesis, one half times the fraction with numerator E sub C, end sub, times Q sub p, end sub, times t squared, and denominator M sub p, close parenthesis, squared, end root\"><math alttext=\"the square root of v sub 0, end sub, squared plus, open parenthesis, one half times the fraction with numerator E sub C, end sub, times Q sub p, end sub, times t squared, and denominator M sub p, close parenthesis, squared, end root\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msqrt><msup><msub><mi>v</mi><mn>0</mn></msub><mn>2</mn></msup><mo>+</mo><msup><mrow><mo>(</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfrac><mrow><msub><mi>E</mi><mtext>c</mtext></msub><msub><mi>Q</mi><mi>p</mi></msub><msup><mi>t</mi><mn>2</mn></msup></mrow><msub><mi>M</mi><mi>p</mi></msub></mfrac><mo>)</mo></mrow><mn>2</mn></msup></msqrt></mstyle></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Conductors and Capacitors"
+  },
+  "topic": {
+    "code": "10.3",
+    "text": "10.3: Capacitors"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

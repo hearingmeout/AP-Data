@@ -1,0 +1,39 @@
+{
+  "id": "SWB000001",
+  "type": "mcq",
+  "title": "Equivalent Boolean expression - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Assume that&nbsp; <span class=\"dap_inline\">isEven</span>,&nbsp; <span class=\"dap_inline\">isPositive</span>,&nbsp; and&nbsp; <span class=\"dap_inline\">isPrime</span>&nbsp; are&nbsp; <span class=\"dap_inline\">boolean</span>&nbsp; variables that have been properly declared and initialized. Which of the following expressions is equivalent to the expression&nbsp; <span class=\"dap_inline\">!(isEven&nbsp;&amp;&amp;&nbsp;isPositive)&nbsp;&amp;&amp;&nbsp;isPrime</span>?</p>",
+    "answer": "1717016633186.8062",
+    "choices": [
+      {
+        "value": "1717016633186.8062",
+        "label": "<pre><code class=\"language-plaintext\">(!isEven || !isPositive) &amp;&amp; isPrime</code></pre>"
+      },
+      {
+        "value": "1717016633186.7922",
+        "label": "<pre><code class=\"language-plaintext\">(!isEven || !isPositive) &amp;&amp; !isPrime</code></pre>"
+      },
+      {
+        "value": "1717016633187.7605",
+        "label": "<pre><code class=\"language-plaintext\">(!isEven &amp;&amp; !isPositive) &amp;&amp; isPrime</code></pre>"
+      },
+      {
+        "value": "1717016633187.3577",
+        "label": "<pre><code class=\"language-plaintext\">(!isEven &amp;&amp; !isPositive) &amp;&amp; !isPrime</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.5",
+    "text": "2.5: Compound Boolean Expressions"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

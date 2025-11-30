@@ -1,0 +1,39 @@
+{
+  "id": "OVJ000003",
+  "type": "mcq",
+  "title": "Create adult person - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following statements, when appearing in a method in a class other than&nbsp; <code class=\"dap_inline\">Person</code>,&nbsp; will correctly a create an instance of a&nbsp; <code class=\"dap_inline\">Person</code>&nbsp; object that represents an adult person?</p>",
+    "answer": "01JZ19NV6C4JVEVCV946FT6Z64",
+    "choices": [
+      {
+        "value": "01JZ19NV6C4JVEVCV946FT6Z64",
+        "label": "<pre><code class=\"language-plaintext\">Person p = new Person(\"Homer\", 23);</code></pre>"
+      },
+      {
+        "value": "01JZ19NV6CS58RHDDGXK3T6SBA",
+        "label": "<pre><code class=\"language-plaintext\">Person p = new Person(\"Homer\", \"23\");</code></pre>"
+      },
+      {
+        "value": "01JZ19NV6CJW5VNSZ0F4RDYQ9C",
+        "label": "<pre><code class=\"language-plaintext\">Person p = new Person(\"Homer\", true);</code></pre>"
+      },
+      {
+        "value": "01JZ1AHCYFQKN5HM1JXPVGDYZH",
+        "label": "<pre><code class=\"language-plaintext\">Person p = new Person(\"Homer\", 17);</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: `if` Statements"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

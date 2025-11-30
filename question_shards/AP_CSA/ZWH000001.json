@@ -1,0 +1,39 @@
+{
+  "id": "ZWH000001",
+  "type": "mcq",
+  "title": "Car class public private access - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following replacements for &nbsp;<code class=\"dap_inline\">/* missing code */</code>&nbsp; is the most appropriate partial implementation of the class?</p>",
+    "answer": "01JXVFX1ECM2B9C2EY1T54R73Y",
+    "choices": [
+      {
+        "value": "01JXVFX1EB8T8H3V0CXK4BFGYR",
+        "label": "<pre><code class=\"language-plaintext\">public String make;\npublic String model; \n\npublic Car(String myMake, String myModel)\n{ /* implementation not shown */ }</code></pre>"
+      },
+      {
+        "value": "01JXVFX1EB6NS94DX67YP75JJ8",
+        "label": "<pre><code class=\"language-plaintext\">public String make;\npublic String model;\n\nprivate Car(String myMake, String myModel)\n{ /* implementation not shown */ }</code></pre>"
+      },
+      {
+        "value": "01JXVFX1ECM2B9C2EY1T54R73Y",
+        "label": "<pre><code class=\"language-plaintext\">private String make;\nprivate String model;\n\npublic Car(String myMake, String myModel)\n{ /* implementation not shown */ }</code></pre>"
+      },
+      {
+        "value": "01JXVG2NN64N9B4E8B7345HSM0",
+        "label": "<pre><code class=\"language-plaintext\">private String make;\nprivate String model;\n\nprivate Car(String myMake, String myModel)\n{ /* implementation not shown */ }</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Anatomy of a Class"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

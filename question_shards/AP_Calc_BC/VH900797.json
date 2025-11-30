@@ -1,0 +1,39 @@
+{
+  "id": "VH900797",
+  "type": "mcq",
+  "title": "Representations - Limits with Graphs",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"standalone_image\"><img alt=\"The figure presents the graph of f in the x y coordinate plane, with the origin labeled O. The numbers 1 through 8 are indicated on both axes. The graph consists of two curves that are not connected, as well as one closed circle and one open circle. The first curve begins on the y axis at the approximate point with coordinates 0 comma 3 point 3, and moves downward and to the right until it reaches a minimum at the point with coordinates 3 comma 1. At this point, the curve moves upward and to the right until it reaches a closed circle at the point with coordinates 5 comma 2. Directly above the closed circle, is an open circle at the point with coordinates 5 comma 4. The second curve begins at the open circle and moves upward and to the right until it reaches a maximum at the approximate point with coordinates 7 comma 6 point 5. At this point, the curve moves downward and the right until it ends at the approximate point with coordinates 8 point 2 comma 5 point 5.\" height=\"337\" src=\"/images/b76a11de9c627780a9ee7ad7333a91e3.png\" width=\"291\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">The graph of the function <span class=\"math_expression\"><span aria-label=\"f\"><math alttext=\"f\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math></span></span> is shown above. The value of <span class=\"math_expression\"><span aria-label=\"the limit as x approaches 5, of, f of x\"><math alttext=\"the limit as x approaches 5, of, f of x\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mn>5</mn></mrow></munder><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math></span></span> is</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">2</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">3</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">4</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">nonexistent</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Estimating Limit Values from Graphs"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Identify mathematical information from graphical, numerical, analytical, and/or verbal representations."
+  }
+}

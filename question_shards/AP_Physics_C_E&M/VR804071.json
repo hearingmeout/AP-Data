@@ -1,0 +1,39 @@
+{
+  "id": "VR804071",
+  "type": "mcq",
+  "title": "Magnetic flux - direction of mag field changes th",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"standalone_image\"><img alt=\"The figure shows an x y z coordinate system, a rectangular surface, and a magnetic field of magnitude B. The rectangle is in the x z plane, and the magnetic field passes through the rectangle at an angle theta from the vertical positive y axis.\" src=\"/images/9a15b76cc588f780daa7af1e88fe63ec.svg\"></div></div></div><p class=\"stem_paragraph\">A uniform magnetic field of magnitude <span class=\"math_expression\"><span aria-label=\"B\"><math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mi>B</mi></math></span></span> is directed an angle <span class=\"math_expression\"><span aria-label=\"theta\"><math alttext=\"theta\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>θ</mi></mstyle></math></span></span> from the <span class=\"math_expression\"><span aria-label=\"positive y\"><math alttext=\"positive y\" display=\"inline\" overflow=\"scroll\"><mo>+</mo><mi>y</mi></math></span></span>-axis. The magnetic field passes through a rectangle in the <span class=\"math_expression\"><span aria-label=\"x z\"><math alttext=\"x z\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>x</mi><mi>z</mi></mstyle></math></span></span>-plane, as shown. The angle <span class=\"math_expression\"><span aria-label=\"theta\"><math alttext=\"theta\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>θ</mi></mstyle></math></span></span> is slowly increased over time. Which of the following changes could result in the flux through the rectangle remaining constant over time, and provides correct justification?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Decreasing the magnitude of the magnetic field. Increasing <span class=\"math_expression\"><span aria-label=\"theta\"><math alttext=\"theta\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>θ</mi></mstyle></math></span></span> increases the component of the magnetic field parallel to the plane of the rectangle, while decreasing the magnitude of the magnetic field decreases the component of the magnetic field parallel to the rectangle.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Decreasing the magnitude of the magnetic field. Increasing <span class=\"math_expression\"><span aria-label=\"theta\"><math alttext=\"theta\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>θ</mi></mstyle></math></span></span> increases the component of the magnetic field perpendicular to the plane of the rectangle, while decreasing the magnitude of the magnetic field decreases the component of the magnetic field perpendicular to the rectangle.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Increasing the magnitude of the magnetic field. Increasing <span class=\"math_expression\"><span aria-label=\"theta\"><math alttext=\"theta\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>θ</mi></mstyle></math></span></span> decreases the component of the magnetic field parallel to the plane of the rectangle, while increasing the magnitude of the magnetic field increases the component of the magnetic field perpendicular to the rectangle.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Increasing the magnitude of the magnetic field. Increasing <span class=\"math_expression\"><span aria-label=\"theta\"><math alttext=\"theta\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>θ</mi></mstyle></math></span></span> decreases the component of the magnetic field perpendicular to the plane of the rectangle, while increasing the magnitude of the magnetic field increases the component of the magnetic field perpendicular to the rectangle.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.1",
+    "text": "13.1: Magnetic Flux"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

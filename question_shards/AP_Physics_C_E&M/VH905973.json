@@ -1,0 +1,43 @@
+{
+  "id": "VH905973",
+  "type": "mcq",
+  "title": "Collar size from height",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">The height <span class=\"math_expression\"><span aria-label=\"h\"><math alttext=\"h\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>h</mi></mrow></mstyle></math></span></span> and collar size <span class=\"math_expression\"><span aria-label=\"c\"><math alttext=\"c\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>c</mi></mrow></mstyle></math></span></span>, both in centimeters, measured from a sample of boys were used to create the regression line <span class=\"math_expression\"><span aria-label=\"c hat, equals negative 94 plus 0.9 times h\"><math alttext=\"c hat, equals negative 94 plus 0.9 times h\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mover><mrow><mi>c</mi></mrow><mrow><mo>^</mo></mrow></mover><mo>=</mo><mo>−</mo><mn>94</mn><mo>+</mo><mn>0.9</mn><mi>h</mi></mrow></mstyle></math></span></span>. The line is used to predict collar size from height, both in centimeters, for boys’ shirt collars. Which of the following has no logical interpretation in context?</p>\n",
+    "answer": "i5",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The predicted collar size of a boy with height <span class=\"math_expression\"><span aria-label=\"140 centimeters \"><math alttext=\"140 centimeters \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>140</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mtext>cm</mtext></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The <span class=\"math_expression\"><span aria-label=\"h\"><math alttext=\"h\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>h</mi></mrow></mstyle></math></span></span> values in the sample</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The <span class=\"math_expression\"><span aria-label=\"c\"><math alttext=\"c\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>c</mi></mrow></mstyle></math></span></span> values in the sample</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The slope of the regression line</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The <span class=\"math_expression\"><span aria-label=\"c\"><math alttext=\"c\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>c</mi></mrow></mstyle></math></span></span>-intercept of the regression line</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: Least Squares Regression"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}

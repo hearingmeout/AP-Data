@@ -1,0 +1,39 @@
+{
+  "id": "ZOJ000012",
+  "type": "mcq",
+  "title": "Read data from text file - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What is printed as a result of executing the code segment?</p>",
+    "answer": "01JGPKB9GNJBPNCV60ZKBH8HQS",
+    "choices": [
+      {
+        "value": "01JGPKB9GN47YJ6WRFGKQXF6F3",
+        "label": "<pre><code class=\"language-plaintext\"><span class=\"tts-container\" data-ssml-say-as=\"characters\" ssml-label=\"Characters\">0</span></code></pre>"
+      },
+      {
+        "value": "01JGPKB9GNG94X8M0QZNAJKHAW",
+        "label": "<pre><code class=\"language-plaintext\"><span class=\"tts-container\" data-ssml-say-as=\"characters\" ssml-label=\"Characters\">123</span></code></pre>"
+      },
+      {
+        "value": "01JGPKB9GNJBPNCV60ZKBH8HQS",
+        "label": "<pre><code class=\"language-plaintext\"><span class=\"tts-container\" data-ssml-say-as=\"characters\" ssml-label=\"Characters\">789</span></code></pre>"
+      },
+      {
+        "value": "01JGPKB9GNPGNDQAKJE89DM24V",
+        "label": "<pre><code class=\"language-plaintext\"><span class=\"tts-container\" data-ssml-say-as=\"characters\" ssml-label=\"Characters\">123456789</span></code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.6",
+    "text": "4.6: Using Text Files"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

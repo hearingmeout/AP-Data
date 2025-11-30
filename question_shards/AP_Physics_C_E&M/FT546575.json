@@ -1,0 +1,43 @@
+{
+  "id": "FT546575",
+  "type": "mcq",
+  "title": "Median senior height given frequency table",
+  "content": {
+    "prompt": "<p>Heights, in inches, for the 200 graduating seniors from Washington High School are summarized in the frequency table below.</p>\n\n<p><img alt=\"A table is shown with two columns, height on the left and frequency on the right. The first row reads height less than 60 inches and 22. The second row reads 60 inches less than or equal to height less than 66 inches and 84. The third row reads 66 inches less than or equal to height less than or equal to 72 inches and 62. The fourth row reads 72 inches less than or equal to height less than 78 inches and 24. The fifth row reads height greater than or equal to 78 inches and 8.\" height=\"180\" src=\"/images/77715da8e204b681aa92e20cbebb92a0.png\" width=\"370\"></p>\n\n<p>Which of the following statements about the median height is true?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>It is greater than or equal to 78 inches.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>It is greater than or equal to 72 inches but less than 78 inches.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>It is greater than or equal to 66 inches but less than 72 inches.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>It is greater than or equal to 60 inches but less than 66 inches.</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>It is less than 60 inches.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Representing a Categorical Variable with Tables"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}

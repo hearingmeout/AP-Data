@@ -1,0 +1,35 @@
+{
+  "id": "VR010406",
+  "type": "mcq",
+  "title": "IP address assignment",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following best explains how IP addresses are assigned?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">As a new device is connected to the Internet, it is assigned an IP address to enable communication on the network.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">IP addresses are assigned only to servers that host Web sites; user devices do not require an IP address.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">New devices are connected to the Internet without an IP address, but are eventually assigned an IP address once they can be verified by a certificate authority.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">New devices are connected to the Internet without an IP address; IP addresses are assigned only for encrypted communications.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "4.1",
+    "text": "4.1: The Internet"
+  },
+  "skill": {
+    "code": "Skill 5.A",
+    "text": "Skill 5.A: Explain how computing systems work."
+  }
+}

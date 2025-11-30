@@ -1,0 +1,43 @@
+{
+  "id": "FT546492",
+  "type": "mcq",
+  "title": "Expected error in period of pendulum",
+  "content": {
+    "prompt": "The period <em>T</em> of a pendulum of length <em>L</em> is measured to determine <em>g</em> at the surface of Earth. The equation used is&nbsp;<span aria-label=\"cap t is equal to 2 pi square root of cap l over g end root\"><math> <semantics> <mrow> <mi>T</mi><mo>=</mo><mn>2</mn><mi>π</mi><msqrt> <mrow> <mi>L</mi><mo>/</mo><mi>g</mi> </mrow> </msqrt> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWGubGaeyypa0JaaGOmaiabec8aWnaakaaapaqaa8qacaWGmbGaai4laiaadEgaaSqabaaaaa@3D16@</annotation> </semantics> </math></span>. The mass of the pendulum bob is 10.0 kg, and the length of the pendulum is 1.00 m. Which of the following would contribute most to the expected error in the result?",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>A 10% uncertainty in the measurement of the mass</p>"
+      },
+      {
+        "label": "Approximating the value of <em>π</em> as 3.14",
+        "value": "i1"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Variation in the value of <em>g</em> as the pendulum bob moves along its arc</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Using the average period of 10 timed oscillations instead of the period of 1 timed oscillation</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>Starting the pendulum swinging by releasing it from a horizontal position</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Oscillations"
+  },
+  "topic": {
+    "code": "7.2",
+    "text": "7.2: Frequency and Period of SHM"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

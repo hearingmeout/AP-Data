@@ -1,0 +1,39 @@
+{
+  "id": "FFW000002",
+  "type": "mcq",
+  "title": "Last letter - explain error",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following best describes why this code segment will not work as intended?</p>",
+    "answer": "01JCH09GC1SKQJ8RBT8V0DHYYQ",
+    "choices": [
+      {
+        "value": "01JCH09GC0FERTSE3Q43DNG3H9",
+        "label": "<p class=\"dap_body\"><span class=\"dap_inline\">substring</span>&nbsp; needs to be called with two parameters, so the method call in line 3 should be changed to&nbsp; <span class=\"dap_inline\">word.substring(len,&nbsp;len + 1)</span>.</p>"
+      },
+      {
+        "value": "01JCH09GC1SKQJ8RBT8V0DHYYQ",
+        "label": "<p class=\"dap_body\"><span class=\"dap_inline\">len</span>&nbsp; is not the correct index of the last character in&nbsp; <span class=\"dap_inline\">word</span>,&nbsp; so the method call in line 3 should be changed to&nbsp; <span class=\"dap_inline\">word.substring(len&nbsp;-&nbsp;1)</span>.</p>"
+      },
+      {
+        "value": "01JCH09GC1S03BMMQC35HSR070",
+        "label": "<p class=\"dap_body\"><span class=\"dap_inline\">len</span>&nbsp; is not the correct index of the last character in&nbsp; <span class=\"dap_inline\">word</span>,&nbsp;&nbsp;so the method call in line 3 should be changed to&nbsp; <span class=\"dap_inline\">word.substring(len&nbsp;+&nbsp;1)</span>.</p>"
+      },
+      {
+        "value": "01JCH09GC1RWQ3WDWHA3SQH1FK",
+        "label": "<p class=\"dap_body\"><span class=\"dap_inline\">substring</span>&nbsp; cannot be called with a variable as the parameter, so the method call in line 3 should be changed to&nbsp; <span class=\"dap_inline\">word.substring(word.length())</span>.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

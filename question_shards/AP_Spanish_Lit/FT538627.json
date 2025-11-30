@@ -1,0 +1,35 @@
+{
+  "id": "FT538627",
+  "type": "mcq",
+  "title": "Descripcion de producto cultural - la Alhambra",
+  "content": {
+    "prompt": "<p>Basándote en el contexto del Poema 1, ¿qué es la Alhambra (estrofas 3 y 4) ?</p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Un campo de batalla</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Una fortaleza de los moros</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Un castillo de los cristianos</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Una sinagoga judía</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: La época medieval"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Read/listen to and comprehend literary texts."
+  }
+}

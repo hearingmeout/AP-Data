@@ -1,0 +1,35 @@
+{
+  "id": "VH892780",
+  "type": "mcq",
+  "title": "Copy even values from originalList to newList",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following changes, if any, can be made so that the code segment works as intended?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Changing line 1 to <span class=\"inline_code\">FOR EACH number IN newList</span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Changing line 3 to <span class=\"inline_code\">IF (number MOD 2 = 1)</span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Changing line 5 to <span class=\"inline_code\">APPEND (newList, number)</span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No change is needed; the code segment is correct as is.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Identifying and Correcting Errors"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Identify and correct errors in algorithms and programs, including error discovery through testing."
+  }
+}

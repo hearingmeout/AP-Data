@@ -1,0 +1,39 @@
+{
+  "id": "PGE000002",
+  "type": "mcq",
+  "title": "calculateFee method in RentalCar - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following code segments can be used to replace&nbsp; <code class=\"dap_inline\">/* missing code */</code>&nbsp; so that the &nbsp;<code class=\"dap_inline\">calculateFee</code> &nbsp;method works as intended?</p>",
+    "answer": "01JSDEKF5CH0JPMAQZA8PJ2NDX",
+    "choices": [
+      {
+        "value": "01JSDEKF5AJAXDCFAM4WCCS32M",
+        "label": "<pre><code class=\"language-plaintext\">return dailyRate + mileageRate;</code></pre>"
+      },
+      {
+        "value": "01JSDEKF5BTJ7AKA3RSHPETK9H",
+        "label": "<pre><code class=\"language-plaintext\">return (daily * dailyRate) + (mileage * mileageRate);</code></pre>"
+      },
+      {
+        "value": "01JSDEKF5BCVKNPMDJVBG3JSJ1",
+        "label": "<pre><code class=\"language-plaintext\">return (daily * days) + (mileage * miles);</code></pre>"
+      },
+      {
+        "value": "01JSDEKF5CH0JPMAQZA8PJ2NDX",
+        "label": "<pre><code class=\"language-plaintext\">return (days * dailyRate) + (miles * mileageRate);</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.5",
+    "text": "3.5: Methods: How to Write Them"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

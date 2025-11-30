@@ -1,0 +1,39 @@
+{
+  "id": "VR788678",
+  "type": "mcq",
+  "title": "Equipotential map - electron moves from A to B",
+  "content": {
+    "prompt": "<div>\n<div class=\"stimulus_reference\">\n<div class=\"standalone_image\"><img alt=\"The figure shows 6 equipotential curves. The curves are nearly vertical and parallel at the bottom of the figure, and spread out from each other at the top of the figure. The two left-most and the two right-most curves change direction more than the two middle curves do. From left to right, the curves are labeled 6 volts, 3 volts, 0 volts, negative 3 volts, negative 6 volts, and negative 9 volts. Point A is indicated near the bottom of the figure on the negative 9 volts curve, and Point B is indicated near the top of the figure on the 0 volts curve. A dotted, concave down curve connects points A and B.\" src=\"/images/7e827bed7b9486cd6de272a0b2f22686.svg\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">The figure shows an isoline map of electric potential in a region of space where there is an electric field. An electron is initially in motion at Point <span class=\"math_expression\"><span aria-label=\"A\" role=\"math\"><math alttext=\"A\" overflow=\"scroll\"><mi mathvariant=\"normal\">A</mi></math></span></span> and follows the path indicated by the dashed line as it travels through Point <span class=\"math_expression\"><span aria-label=\"B\" role=\"math\"><math alttext=\"B\" overflow=\"scroll\"><mi mathvariant=\"normal\">B</mi></math></span></span>. Which of the following forms of energy will increase as the electron moves from Point <span class=\"math_expression\"><span aria-label=\"A\" role=\"math\"><math alttext=\"A\" overflow=\"scroll\"><mi mathvariant=\"normal\">A</mi></math></span></span> to Point <span class=\"math_expression\"><span aria-label=\"B\" role=\"math\"><math alttext=\"B\" overflow=\"scroll\"><mi mathvariant=\"normal\">B</mi></math></span></span>, and what evidence or reasoning supports the claim?</p>\n\n<p class=\"stem_paragraph\">&nbsp;</p>\n\n<ul>\n\t<li class=\"list_paragraph list_item\"><span class=\"math_expression\"><span aria-label=\"U sub e f\" role=\"math\"><math alttext=\"U sub e f\" overflow=\"scroll\"><msub><mi>U</mi><mtext>e-f</mtext></msub></math></span></span>, the electric potential energy of the electron-field system</li>\n\t<li class=\"list_paragraph list_item\"><span class=\"math_expression\"><span aria-label=\"K sub e\" role=\"math\"><math alttext=\"K sub e\" overflow=\"scroll\"><msub><mi>K</mi><mtext>e</mtext></msub></math></span></span>, the kinetic energy of the electron</li>\n</ul>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"U sub e f\"><math alttext=\"U sub e f\" overflow=\"scroll\"><msub><mi>U</mi><mtext>e-f</mtext></msub></math></span></span> increases. The electron moves from a lower to a higher electric potential.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"U sub e f\"><math alttext=\"U sub e f\" overflow=\"scroll\"><msub><mi>U</mi><mtext>e-f</mtext></msub></math></span></span> increases. The electric field does positive work on the electron.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"K sub e\"><math alttext=\"K sub e\" overflow=\"scroll\"><msub><mi>K</mi><mtext>e</mtext></msub></math></span></span> increases. The electric potential magnitude is a minimum wherever it is zero.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"K sub e\"><math alttext=\"K sub e\" overflow=\"scroll\"><msub><mi>K</mi><mtext>e</mtext></msub></math></span></span> increases. The electron moves against a component of the electric field.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Electric Potential"
+  },
+  "topic": {
+    "code": "9.2",
+    "text": "9.2: Electric Potential"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

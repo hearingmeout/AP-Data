@@ -1,0 +1,35 @@
+{
+  "id": "FT545688",
+  "type": "mcq",
+  "title": "Una Sra - narracion del pasado",
+  "content": {
+    "prompt": "<p>En la narración, ¿cuándo tiene lugar la escena en el tranvía?</p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "Acontecerá en el futuro.",
+        "value": "i0"
+      },
+      {
+        "label": "Ocurrió en el pasado.",
+        "value": "i1"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Nunca sucedió en realidad.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Se sitúa en el presente.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: El Boom latinoamericano"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Identify or describe literary elements, voices, and stylistic features."
+  }
+}

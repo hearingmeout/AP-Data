@@ -1,0 +1,35 @@
+{
+  "id": "VR023231",
+  "type": "mcq",
+  "title": "Correctness of robot programs",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following statements best describes the correctness of the programs?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Program I correctly moves the robot to the gray square, but program II does not.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Program II correctly moves the robot to the gray square, but program I does not.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Both program I and program II correctly move the robot to the gray square.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Neither program I nor program II correctly moves the robot to the gray square.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.9",
+    "text": "3.9: Developing Algorithms"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

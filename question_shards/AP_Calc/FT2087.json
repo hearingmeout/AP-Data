@@ -1,0 +1,43 @@
+{
+  "id": "FT2087",
+  "type": "mcq",
+  "title": "Find area of the region between two polar graphs",
+  "content": {
+    "prompt": "<p><img alt=\"A graph plots a rose curve with three petals within a circle. The first petal lies in the second quadrant, the second petal lies on the positive x axis, and the third petal lies in the third quadrant. All the curve begin and end at the origin. \" maxwidth=\"200\" src=\"/images/cdae9055cb1bcbd42e224621672b8ef3.png\" width=\"200\"></p>\n\n<p>The figure above shows the graphs of the polar curves&nbsp;<span aria-label=\"r is equal to 2 cosine 3 theta\"><math> <semantics> <mrow> <mi>r</mi><mo>=</mo><mn>2</mn><mi>cos</mi><mrow><mo>(</mo> <mrow> <mn>3</mn><mi>θ</mi></mrow> <mo>)</mo></mrow></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk 0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr 0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeGacaakiaakoabaaa aaaaaapeGaamOCaiabg2da9iaaikdaciGGJbGaai4Baiaacohadaqa daWdaeaapeGaaG4maiabeI7aXbGaayjkaiaawMcaaaaa@432E@ </annotation> </semantics> </math></span>&nbsp;and <span aria-label=\"r is equal to 2\"><math> <semantics> <mrow> <mi>r</mi><mo>=</mo><mn>2</mn></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk 0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr 0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeGacaakiaakoiaadk hacqGH9aqpcaaIYaaaaa@3C20@ </annotation> </semantics> </math></span>. What is the sum of the areas of the shaded regions?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>0.858</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>3.142</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>8.566</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>9.425</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>15.708</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Parametric Equations, Polar Coordinates, and Vector-Valued Functions"
+  },
+  "topic": {
+    "code": "9.9",
+    "text": "9.9: (BC ONLY) Finding the Area of the Region Bounded by Two Polar Curves"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

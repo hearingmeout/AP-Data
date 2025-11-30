@@ -1,0 +1,35 @@
+{
+  "id": "VR168769",
+  "type": "mcq",
+  "title": "Put binary and decimal numbers in order",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Consider the following numeric values.</p>\n\n<ul>\n\t<li class=\"list_paragraph\">Binary 1011</li>\n\t<li class=\"list_paragraph\">Binary 1101</li>\n\t<li class=\"list_paragraph\">Decimal 5</li>\n\t<li class=\"list_paragraph\">Decimal 12</li>\n</ul>\n\n<p class=\"stem_paragraph\">Which of the following lists the values in order from least to greatest?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Decimal 5, binary 1011, decimal 12, binary 1101</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Decimal 5, decimal 12, binary 1011, binary 1101</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Decimal 5, binary 1011, binary 1101, decimal 12</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Binary 1011, binary 1101, decimal 5, decimal 12</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Binary Numbers"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

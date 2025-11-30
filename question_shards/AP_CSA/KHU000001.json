@@ -1,0 +1,39 @@
+{
+  "id": "KHU000001",
+  "type": "mcq",
+  "title": "Values after assignments - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">What is printed as a result of executing this code segment?</p>",
+    "answer": "1716997518878.4248",
+    "choices": [
+      {
+        "value": "1716997518878.1594",
+        "label": "<pre><code class=\"language-plaintext\">10 100</code></pre>"
+      },
+      {
+        "value": "1716997518878.4248",
+        "label": "<pre><code class=\"language-plaintext\">10 200</code></pre>"
+      },
+      {
+        "value": "1716997518878.4956",
+        "label": "<pre><code class=\"language-plaintext\">20 100</code></pre>"
+      },
+      {
+        "value": "1716997518878.197",
+        "label": "<pre><code class=\"language-plaintext\">20 200</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

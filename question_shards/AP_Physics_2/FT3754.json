@@ -1,0 +1,43 @@
+{
+  "id": "FT3754",
+  "type": "mcq",
+  "title": "Graph of induced current as magnet moves to coil",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows a cylindrical bar magnet labeled with uppercase S on the left side of the cylinder and uppercase N on the right side of the magnet and a loop of wire with a clockwise direction that is indicated with an arrow outside of the loop. The bar magnet is passing through the loop of wire with the north end leading. The bar magnet is moving to the right. \" maxwidth=\"200\" src=\"/images/efc0d58d3a1b6f01bfa7d600430fab05.png\" width=\"200\"></p><p>The magnet shown above is initially far away from the conducting loop and is moved at constant speed toward and completely through the loop. If <em>T</em> is the time at which the magnet is halfway through the loop, which of the following graphs best represents the induced current <em>I</em> in the loop as a function of time <em>t</em> ?</p>",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p><img alt=\"Choice A shows a curve that is concave down always positive with a maximum at the time when the magnet is halfway through and going toward zero at both ends\" maxwidth=\"200\" src=\"/images/09b0e0b655927f8ce80be5fb28a7a6ec.png\" width=\"200\"></p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><img alt=\"Choice B shows a curve that is concave up always negative with a minimum at the time when the magnet is halfway through and going toward zero at both ends.\" maxwidth=\"200\" src=\"/images/d04cbc895e20b0dbebf85b5172cd94a0.png\" width=\"200\"></p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p><img alt=\"Choice C shows a curve that is concave down positive before the magnet is halfway through and is concave up negative after the magnet is halfway through. The curve goes toward zero at both ends, passes through zero when the magnet is halfway through, and has a maximum peak shortly before the magnet is halfway through and a minimum peak shortly after the magnet is halfway through.\" maxwidth=\"200\" src=\"/images/8c2e00319cf412df9bdabc3a51c9ea05.png\" width=\"200\"></p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p><img alt=\" Choice D shows a curve thatis concave up negative before the magnet is halfway through and positive after the magnet is halfway through. The curve then is concave down and goes toward zero at both ends, passes through zero when the magnet is halfway through, and has a minimum peak shortly before the magnet is halfway through and a maximum peak shortly after the magnet is halfway through.\" maxwidth=\"200\" src=\"/images/b4c9b9c9189c0ea93fda94764baab03d.png\" width=\"200\"></p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p><img alt=\"Choice E shows a curve that isconcave downalways positive except when the magnet is halfway through, when it touches zero. The curve then is concave down and goes toward zero at both ends and has two maximum peaks of equal size, one shortly before the magnet is halfway through and one shortly after the magnet is halfway through. \" maxwidth=\"200\" src=\"/images/c3db50ac7fbdbbece28d286f290638e9.png\" width=\"200\"></p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "12",
+    "text": "12: Magnetism and Electromagnetism"
+  },
+  "topic": {
+    "code": "12.1",
+    "text": "12.1: Magnetic Fields"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

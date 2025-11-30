@@ -1,0 +1,39 @@
+{
+  "id": "SHA000003",
+  "type": "mcq",
+  "title": "Count negative values in array - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Consider an&nbsp; <span class=\"dap_inline\">int</span>&nbsp; array named&nbsp; <span class=\"dap_inline\">nums</span>,&nbsp; which has been properly declared and initialized with one or more values. Which of the following code segments counts the number of negative values found in&nbsp; <span class=\"dap_inline\">nums</span>&nbsp; and stores the count in&nbsp; <span class=\"dap_inline\">counter</span>?</p>",
+    "answer": "01JMFRZME78QW6X6DAGBGH3SK5",
+    "choices": [
+      {
+        "value": "01JMFRZME9XJE8W0R01Q9RHB6C",
+        "label": "<pre><code class=\"language-plaintext\">int counter = 0;\nint i = 0;\nwhile (i &lt; nums.length)\n{\n   if (nums[i] &lt; 0)\n   {\n      counter++;\n      i++;\n   }\n}</code></pre>"
+      },
+      {
+        "value": "01JMFRZME78QW6X6DAGBGH3SK5",
+        "label": "<pre><code class=\"language-plaintext\">int counter = 0;\nint i = 0;\nwhile (i &lt;= nums.length - 1)\n{\n   if (nums[i] &lt; 0)\n   {\n      counter++;\n   }\n   i++;\n}</code></pre>"
+      },
+      {
+        "value": "01JMFRZME87R4QV1CKEM7WKZHQ",
+        "label": "<pre><code class=\"language-plaintext\">int counter = 0;\nfor (int i = 1; i &lt; nums.length; i++)\n{\n   if (nums[i] &lt; 0)\n   {\n      counter++;\n   }\n}</code></pre>"
+      },
+      {
+        "value": "01JMFRZME856CM65FMGKS4DGCB",
+        "label": "<pre><code class=\"language-plaintext\">int counter = 0;\nfor (int i : nums)\n{\n   if (nums[i] &lt; 0)\n   {\n      counter++;\n   }\n}</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implementing Array Algorithms"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

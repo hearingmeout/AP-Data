@@ -1,0 +1,39 @@
+{
+  "id": "VH935514",
+  "type": "mcq",
+  "title": "Justification - Sequence of Partial Sums",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">If <span class=\"math_expression\"><span aria-label=\"a, sub n, equals 1\"><math alttext=\"a, sub n, equals 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>a</mi></mrow><mrow><mi>n</mi></mrow></msub><mo>=</mo><mn>1</mn></mrow></mstyle></math></span></span>, for all positive integers <span class=\"math_expression\"><span aria-label=\"n\"><math alttext=\"n\" display=\"inline\" overflow=\"scroll\"><mrow><mi>n</mi></mrow></math></span></span>, what is the value of <span class=\"math_expression\"><span aria-label=\"s sub n\"><math alttext=\"s sub n\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>S</mi></mrow><mrow><mi>n</mi></mrow></msub></mrow></mstyle></math></span></span>, the <span class=\"math_expression\"><span aria-label=\"n\"><math alttext=\"n\" display=\"inline\" overflow=\"scroll\"><mrow><mi>n</mi><mtext>th</mtext></mrow></math></span></span> partial sum of the infinite series <span class=\"math_expression\"><span aria-label=\"the sum, from n equals 1, to infinity, of a, sub n\"><math alttext=\"the sum, from n equals 1, to infinity, of a, sub n\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><munderover><mstyle displaystyle=\"true\" mathsize=\"140%\"><mrow><mo>∑</mo></mrow></mstyle><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></munderover><msub><mrow><mi>a</mi></mrow><mrow><mi>n</mi></mrow></msub></mrow></mstyle></math></span></span> ?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">1</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"n\"><math alttext=\"n\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"n plus 1\"><math alttext=\"n plus 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator n, times open parenthesis, n plus 1, close parenthesis, and denominator 2\"><math alttext=\"the fraction with numerator n, times open parenthesis, n plus 1, close parenthesis, and denominator 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mfrac><mrow><mi>n</mi><mrow><mo>(</mo><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.1",
+    "text": "10.1: (BC ONLY) Defining Convergent and Divergent Infinite Series"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

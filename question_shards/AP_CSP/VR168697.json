@@ -1,0 +1,35 @@
+{
+  "id": "VR168697",
+  "type": "mcq",
+  "title": "Expression to check for two-digit integer",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Let <span class=\"inline_code\">n</span> be an integer value. Which of the following expressions evaluates to <span class=\"inline_code\">true</span> if and only if <span class=\"inline_code\">n</span> is a two-digit integer (i.e., in the range from <span class=\"inline_code\">10</span> to <span class=\"inline_code\">99</span>,<span> </span>inclusive)?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">n = (n MOD 100)</p></div>",
+        "value": "i1"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">(n ≥ 10) AND (n &lt; 100)</p></div>",
+        "value": "i2"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">(n &lt; 10) AND (n ≥ 100)</p></div>",
+        "value": "i3"
+      },
+      {
+        "label": "<div class=\"standalone_code style:1\"><p class=\"code_line\">(n &gt; 10) AND (n &lt; 99)</p></div>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.5",
+    "text": "3.5: Boolean Expressions"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

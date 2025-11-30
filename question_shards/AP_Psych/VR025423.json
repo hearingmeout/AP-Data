@@ -1,0 +1,39 @@
+{
+  "id": "VR025423",
+  "type": "mcq",
+  "title": "Table using data in sets A and B which is true",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR025407.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">Using the data in sets A and B, which of the following statements is true?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Set B has a smaller standard deviation than set A.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The mean for set B is smaller than the mean for set A.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Each set of data represents a normal distribution.</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Data set B has a skewed distribution.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Cognition"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: Introduction to Memory"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Calculate and interpret measures of central tendency, variation, and percentile rank in a given data set."
+  }
+}

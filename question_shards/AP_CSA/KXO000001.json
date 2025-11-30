@@ -1,0 +1,39 @@
+{
+  "id": "KXO000001",
+  "type": "mcq",
+  "title": "Rope lengths - describe behavior ",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following best describes the behavior of the code segment?</p>",
+    "answer": "1726085508836.7317",
+    "choices": [
+      {
+        "value": "1726085508836.1914",
+        "label": "<p class=\"dap_body\">The code segment works as intended for all nonnegative values of <span class=\"dap_inline\">len1</span>, <span class=\"dap_inline\">len2</span>, and <span class=\"dap_inline\">len3</span>.</p>"
+      },
+      {
+        "value": "1726085508836.7317",
+        "label": "<p class=\"dap_body\">The code segment works as intended but only when the sum of the three lengths is an integer or the decimal part of the sum of the three lengths is greater than or equal to 0.5.</p>"
+      },
+      {
+        "value": "1726085508836.289",
+        "label": "<p class=\"dap_body\">The code segment does not work as intended for some values of <span class=\"dap_inline\">len1</span>, <span class=\"dap_inline\">len2</span>, and <span class=\"dap_inline\">len3</span> because these values must be cast to <span class=\"dap_inline\">int</span>&nbsp; before they are added together.</p>"
+      },
+      {
+        "value": "1726085508836.6055",
+        "label": "<p class=\"dap_body\">The code segment does not work as intended for some values of <span class=\"dap_inline\">len1</span>, <span class=\"dap_inline\">len2</span>, &nbsp;and <span class=\"dap_inline\">len3</span> because <span class=\"dap_inline\">minLength </span>should be declared as a <span class=\"dap_inline\">double</span> and then cast to an <span class=\"dap_inline\">int</span> in the print statement.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.5",
+    "text": "1.5: Casting and Range of Variables"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

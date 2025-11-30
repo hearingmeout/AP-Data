@@ -1,0 +1,35 @@
+{
+  "id": "FT645724",
+  "type": "mcq",
+  "title": "Result of computer performing 2 divide by 3",
+  "content": {
+    "prompt": "A computer program performs the operation&nbsp;<img alt=\"2 divided by 3\" height=\"18\" src=\"/images/a37b5b9d188c4df7d7f07dda9e9e1a31.JPG\" width=\"46\">&nbsp;and represents the result as the value&nbsp;<img alt=\"0 point 6 6 6 6 6 6 7\" height=\"16\" src=\"/images/e1884a58275ad846d993a916a865c920.JPG\" width=\"93\">.&nbsp;Which of the following best explains this result?",
+    "answer": "1",
+    "choices": [
+      {
+        "label": "An overflow error occurred.",
+        "value": "0"
+      },
+      {
+        "label": "The precision of the result is limited due to the constraints of using a floating-point representation.",
+        "value": "1"
+      },
+      {
+        "label": "The program attempted to execute the operation with the arguments in reverse order.",
+        "value": "2"
+      },
+      {
+        "label": "The program attempted to represent a floating-point number as an integer.",
+        "value": "3"
+      }
+    ]
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Binary Numbers"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

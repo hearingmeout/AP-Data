@@ -1,0 +1,43 @@
+{
+  "id": "FT558480",
+  "type": "mcq",
+  "title": "Increased income changes Carmen's consumption",
+  "content": {
+    "prompt": "If Carmen’s income increases, which of the following will be the immediate impact on her consumption?",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p>Entertainment: Increase; Medical care: Increase</p>\n\n<table class=\"table table-bordered\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td class=\"text-center\"><u>Entertainment</u></td>\n\t\t\t<td class=\"text-center\"><u>Medical care</u></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td class=\"text-center\">Increase</td>\n\t\t\t<td class=\"text-center\">Increase</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i0"
+      },
+      {
+        "label": "<table class=\"table table-bordered\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td class=\"text-center\"><u>Entertainment</u></td>\n\t\t\t<td class=\"text-center\"><u>Medical care</u></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td class=\"text-center\">Increase</td>\n\t\t\t<td class=\"text-center\">No change</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i1"
+      },
+      {
+        "label": "<table class=\"table table-bordered\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td class=\"text-center\"><u>Entertainment</u></td>\n\t\t\t<td class=\"text-center\"><u>Medical care</u></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td class=\"text-center\">No change</td>\n\t\t\t<td class=\"text-center\">Increase</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i2"
+      },
+      {
+        "label": "<table class=\"table table-bordered\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td class=\"text-center\"><u>Entertainment</u></td>\n\t\t\t<td class=\"text-center\"><u>Medical care</u></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td class=\"text-center\">Increase</td>\n\t\t\t<td class=\"text-center\">Decrease</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i3"
+      },
+      {
+        "label": "<table class=\"table table-bordered\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td class=\"text-center\"><u>Entertainment</u></td>\n\t\t\t<td class=\"text-center\"><u>Medical care</u></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td class=\"text-center\">Decrease</td>\n\t\t\t<td class=\"text-center\">Increase</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Supply and Demand"
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Demand"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Determine the outcome of an economic situation using economic concepts, principles, or models."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "FT535202",
+  "type": "mcq",
+  "title": "Play for children - inference about group",
+  "content": {
+    "prompt": "<p>Según la información del anuncio, ¿qué se puede inferir sobre el grupo de Teatro Scaramouches?</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Que es un grupo de niños actores venezolanos</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Que es un grupo de productores hispanos residentes en Nueva York</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Que es un grupo de músicos venezolanos</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Que es un grupo hispano que recorre distintos sitios con sus obras</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Influences of Beauty and Art"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Make cultural connections."
+  }
+}

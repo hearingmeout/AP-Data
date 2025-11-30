@@ -1,0 +1,35 @@
+{
+  "id": "VH184735",
+  "type": "mcq",
+  "title": "Information determined by delivery truck database",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Using only the information in the database, which of the following questions CANNOT be answered?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">On which day in a particular range of dates did the greatest number of trucks enter and leave the depot?</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">What is the average number of customer deliveries made by each truck on a particular day?</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">What is the change in weight of a particular truck between when it entered and left the depot?</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Which truck has the shortest average time spent at the depot on a particular day?</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: Extracting Information from Data"
+  },
+  "skill": {
+    "code": "Skill 5.B",
+    "text": "Skill 5.B: Explain how knowledge can be generated from data."
+  }
+}

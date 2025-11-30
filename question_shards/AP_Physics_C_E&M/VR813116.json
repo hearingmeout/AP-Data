@@ -1,0 +1,39 @@
+{
+  "id": "VR813116",
+  "type": "mcq",
+  "title": "LC circuit - current-potential difference graphs",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"standalone_image\"><img alt=\"The figure shows a rectangular circuit diagram with a capacitor, an inductor, an open switch, a voltmeter, and an ammeter. The open switch is located on the bottom horizontal branch. The capacitor C is located on the left vertical branch so that its positive terminal faces upward and its negative terminal faces downward. The voltmeter V is connected to the left vertical branch by wires above and below the capacitor. The ammeter A is located on the top horizontal branch. The inductor L is located on the right vertical branch.\" src=\"/images/9886d1dce0ef0d2ed8e47005cd53d786.svg\"></div></div></div><p class=\"stem_paragraph\">A charged capacitor, an inductor, an ammeter, and an open switch are connected as shown. The switch is then closed. Which pair of graphs correctly shows the current <span class=\"math_expression\"><span aria-label=\"I of t\"><math alttext=\"I of t\" display=\"inline\" overflow=\"scroll\"><mi>I</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></math></span></span> measured by the ammeter and the potential difference <span class=\"math_expression\"><span aria-label=\"delta V of t\"><math alttext=\"delta V of t\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Δ</mi><mi>V</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></math></span></span> measured by the voltmeter as functions of time where <span class=\"math_expression\"><span aria-label=\"t equals 0\"><math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn></math></span></span> corresponds to the moment the switch is closed?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"Two figures are shown. Each figure shows the graph of a sinusoidal curve in the first and fourth quadrant of a coordinate plane, with the origin labeled O. In each graph, the horizontal axis is labeled t, and no values are indicated along it. The vertical axis is labeled I of t in the first graph, the vertical axis is labeled delta V of t in the second graph, and no values are indicated along them. The first figure is described as follows. The curve begins halfway up the vertical axis above the origin at a peak, has one trough and one additional peak, and intersects the horizontal axis twice. The second figure is described as follows. The curve begins halfway up the vertical axis above the origin at a peak, has one trough and one additional peak, and intersects the horizontal axis twice.\" src=\"/images/2c29492ce22bf285a5c6ec7ee9bd315b.svg\"></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"Two figures are shown. Each figure shows the graph of a sinusoidal curve in the first and fourth quadrant of a coordinate plane, with the origin labeled O. In each graph, the horizontal axis is labeled t, and no values are indicated along it. The vertical axis is labeled I of t in the first graph, the vertical axis is labeled delta V of t in the second graph, and no values are indicated along them. The first figure is described as follows. The curve begins halfway up the vertical axis above the origin at a peak, has one trough and one additional peak, and intersects the horizontal axis twice. The second figure is described as follows. The curve begins at the origin, has one peak and one trough with absolute magnitudes of one fourth of the way up the vertical axis, and intersects the horizontal axis three times.\" src=\"/images/c2fda451da033ee88a4891f227bb61d9.svg\"></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"Two figures are shown. Each figure shows the graph of a sinusoidal curve in the first and fourth quadrant of a coordinate plane, with the origin labeled O. In each graph, the horizontal axis is labeled t, and no values are indicated along it. The vertical axis is labeled I of t in the first graph, the vertical axis is labeled delta V of t in the second graph, and no values are indicated along them. The first figure is described as follows. The curve begins at the origin, has one peak and one trough with absolute magnitudes of one fourth of the way up the vertical axis, and intersects the horizontal axis three times. The second figure is described as follows. The curve begins halfway up the vertical axis above the origin at a peak, has one trough and one additional peak, and intersects the horizontal axis twice.\" src=\"/images/e45be3bb093766fa36d278c51213a4bd.svg\"></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"inline_image\"><img alt=\"Two figures are shown. Each figure shows the graph of a sinusoidal curve in the first and fourth quadrant of a coordinate plane, with the origin labeled O. In each graph, the horizontal axis is labeled t, and no values are indicated along it. The vertical axis is labeled I of t in the first graph, the vertical axis is labeled delta V of t in the second graph, and no values are indicated along them. The first figure is described as follows. The curve begins at the origin, has one peak and one trough with absolute magnitudes of one fourth of the way up the vertical axis, and intersects the horizontal axis three times. The second figure is described as follows. The curve begins at the origin, has one peak and one trough with absolute magnitudes of one fourth of the way up the vertical axis, and intersects the horizontal axis three times.\" src=\"/images/e37247787862385e25b0a318f7d9bd4e.svg\"></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.6",
+    "text": "13.6: Circuits with Capacitors and Inductors (LC Circuits)"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

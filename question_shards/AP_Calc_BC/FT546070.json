@@ -1,0 +1,43 @@
+{
+  "id": "FT546070",
+  "type": "mcq",
+  "title": "Taylor polynomial",
+  "content": {
+    "prompt": "<p>Which is the best of the following polynomial approximations to cos 2<em>x</em> near <em>x</em> = 0?</p>",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "1+<em>x</em>/2",
+        "value": "i0"
+      },
+      {
+        "label": "1 + <em>x</em>",
+        "value": "i1"
+      },
+      {
+        "label": "1−<em>x</em><sup>2</sup>/2",
+        "value": "i2"
+      },
+      {
+        "label": "1 - 2<em>x</em><sup>2</sup>",
+        "value": "i3"
+      },
+      {
+        "label": "1 - 2<em>x</em> + <em>x</em><sup>2</sup>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.11",
+    "text": "10.11: (BC ONLY) Finding Taylor Polynomial Approximations of Functions"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

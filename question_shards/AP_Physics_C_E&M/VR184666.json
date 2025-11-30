@@ -1,0 +1,43 @@
+{
+  "id": "VR184666",
+  "type": "mcq",
+  "title": "Charge on capacitor in LC circuit",
+  "content": {
+    "prompt": "<div class=\"standalone_image\"><img alt=\"The figure shows a square circuit diagram that consists of an open switch, a capaticor, and an inductor. The bottom horizontal edge has an open switch labeled S. The left vertical edge has a capacitor with capacitance C. The right vertical edge has an inductor with inductance L.\" height=\"222\" src=\"/images/cfa7c3dbf4fe6f6a9cc9437ac9d4b44c.png\" width=\"300\"></div>\n\n<p class=\"stem_paragraph\">In the circuit shown above, the capacitor is initially charged. Which of the following graphs best represents the charge <span class=\"math_expression\"><span aria-label=\"Q\"><math alttext=\"Q\" overflow=\"scroll\"><mstyle><mrow><mi>Q</mi></mrow></mstyle></math></span></span> on the capacitor versus time <span class=\"math_expression\"><span aria-label=\"t\"><math alttext=\"t\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math></span></span> after switch <span class=\"math_expression\"><span aria-label=\"S\"><math alttext=\"S\" overflow=\"scroll\"><mstyle><mrow><mtext>S</mtext></mrow></mstyle></math></span></span> is closed at time <span class=\"math_expression\"><span aria-label=\"t equals 0\"><math alttext=\"t equals 0\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>0</mn></mrow></mstyle></math></span></span> ?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<div class=\"standalone_image\"><img alt=\"The figure shows the graph of a curve in the first quadrant of a coordinate plane, with the origin labeled O. The horizontal axis is labeled t, the vertical axis is labeled Q, and no values are indicated along them. The curve begins at the origin and curves upward and to the right. It levels out and ends far to the right of the horizontal t axis and near the top of the vertical Q axis.\" height=\"145\" src=\"/images/46c956d5c7447b9664bf02c18e81d1d6.png\" width=\"300\"></div>\n",
+        "value": "i1"
+      },
+      {
+        "label": "<div class=\"standalone_image\"><img alt=\"The figure shows the graph of a curve in the first quadrant of a coordinate plane, with the origin labeled O. The horizontal axis is labeled t, the vertical axis is labeled Q, and no values are indicated along them. The curve begins along the vertical Q axis near its top, and curves downward and to the right. It levels off as it approaches the horizontal t axis, and ends just above it far to the right of it.\" height=\"148\" src=\"/images/18ca45cb0b25dd6e562b86d88db33d9f.png\" width=\"300\"></div>\n",
+        "value": "i2"
+      },
+      {
+        "label": "<div class=\"standalone_image\"><img alt=\"The figure shows the graph of a curve in the first and fourth quadrants of a coordinate plane, with the origin labeled O. The horizontal axis is labeled t, the vertical axis is labeled Q, and no values are indicated along them. The curve begins along the vertical Q axis near its top, and curves downward and to the right. It passes through the horizontal t axis, continues curving downward and to the right and levels off at a minimum as it reaches the bottom of the vertical Q axis. It then curves upward and to the right, passing through the horizontal t axis again, and levels off as it ends at the same height it started along the vertical Q axis, at the end of the horizontal t axis.\" height=\"169\" src=\"/images/2b7c281abe7ca8825e3ff510ebbc59c9.png\" width=\"300\"></div>\n",
+        "value": "i3"
+      },
+      {
+        "label": "<div class=\"standalone_image\"><img alt=\"The figure shows the graph of a curve in the first and fourth quadrants of a coordinate plane, with the origin labeled O. The horizontal axis is labeled t, the vertical axis is labeled Q, and no values are indicated along them. The curve begins at the origin and curves upward and to the right. It levels off as it reaches a maximum halfway up the vertical Q axis, then curves downward and to the right. It passes through the horizontal t axis and continues curving downward and to the right, then levels off as it reaches a minimum halfway down the vertical Q axis. It then curves upward and to the right again, and ends along the horizontal t axis, at the end of the horizontal t axis.\" height=\"170\" src=\"/images/494449e783136f8972daaca302c1f9d9.png\" width=\"300\"></div>\n",
+        "value": "i4"
+      },
+      {
+        "label": "<div class=\"standalone_image\"><img alt=\"The figure shows the graph of a curve in the first quadrant of a coordinate plane, with the origin labeled O.&nbsp;The horizontal axis is labeled t, the vertical axis is labeled Q, and no values are indicated along them. The line begins along the vertical Q axis near its top, and moves horizontally to the right until it ends at the end of the horizontal t axis.\" height=\"145\" src=\"/images/1f7ebb1171cfdaff3f178e4dbe43c5c5.png\" width=\"300\"></div>\n",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.6",
+    "text": "13.6: Circuits with Capacitors and Inductors (LC Circuits)"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

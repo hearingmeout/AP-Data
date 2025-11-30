@@ -1,0 +1,35 @@
+{
+  "id": "FT535646",
+  "type": "mcq",
+  "title": "Drawing lines between dots",
+  "content": {
+    "prompt": "<p>The procedure <em>Draw (length, direction)  </em>is used to draw a line segment <em>length</em> units long in a given <em>direction</em> (left, right, up, or down), starting at the current cursor position. The cursor is then repositioned at the end of the line segment that was drawn. Consider the following program, where the cursor starts in the upper left corner of a grid of dots. The dots are spaced one unit apart.</p><p>Draw  (1,  right)</p><p>Draw  (2,  down)</p><p>Draw  (1,  left)</p><p>Draw  (1,  right)</p><p>Draw  (1,  up)</p><p>Draw  (1,  left)</p><p>Which of the following represents the figure that is drawn by the program?</p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<img alt=\"Choice A shows a three by three square grid of dots with line segments connecting certain dots. In choice A there are line segments in the first column connecting the first to second and second to third dots, and in all three rows connecting the first and second dots. \" height=\"102\" src=\"/images/2120b56705a8277cbafff667bab7a63d.png\" width=\"100\">",
+        "value": "i0"
+      },
+      {
+        "label": "<img alt=\"Choice B shows a three by three square grid of dots with line segments connecting certain dots. In choice B there are line segments in the second column connecting the first to second and second to third dots, and in all three rows connecting the first and second dots. \" height=\"108\" src=\"/images/3baff2c98d93ba9fa486073b86e57205.png\" width=\"100\">",
+        "value": "i1"
+      },
+      {
+        "label": "<img alt=\"Choice C shows a three by three square grid of dots with line segments connecting certain dots. In choice C there are line segments in the second column connecting the first to second and second to third dots, in the first and third rows connecting the first and second dots, and in the second row connecting the second and third dots. \" height=\"101\" src=\"/images/4c6eaf08235215f907b18f4096fc39f7.png\" width=\"100\">",
+        "value": "i2"
+      },
+      {
+        "label": "<img alt=\"Choice D shows a three by three square grid of dots with line segments connecting certain dots. In choice D there are line segments in the first column connecting the second and third dots, in the second column connecting the first and second dots, and in all three rows connecting the first and second dots.\" height=\"96\" src=\"/images/2f54b3abaf6b380d3da6834674d4d0ca.png\" width=\"100\">",
+        "value": "i3"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.12",
+    "text": "3.12: Calling Procedures"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT560996",
+  "type": "mcq",
+  "title": "Absolute extrema from definite integral",
+  "content": {
+    "prompt": "If <span aria-label=\"0 is less than or equal to b comma b is less than or equal to 2\"><math> <mrow> <mn>0</mn> <mo>≤</mo> <mi>b</mi> <mo>≤</mo> <mn>2</mn> </mrow> </math></span>, for what value of b is <span aria-label=\"the integral from 0 to b of cosine open paren e to the x th power close paren\"><math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mi>b</mi> </msubsup> <mrow> <mi>cos</mi> </mrow> </mrow> </mstyle> <mrow> <mo>(</mo> <mrow> <msup> <mi>e</mi> <mi>x</mi> </msup> </mrow> <mo>)</mo> </mrow> <mtext> </mtext> <mi>d</mi> <mi>x</mi> </mrow> </math></span> a minimum?",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>0</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>0.452</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>1.145</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>1.550</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>2</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.5",
+    "text": "6.5: Interpreting the Behavior of Accumulation Functions Involving Area"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Identify how mathematical characteristics or properties of functions are related in different representations."
+  }
+}

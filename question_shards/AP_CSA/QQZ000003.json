@@ -1,0 +1,39 @@
+{
+  "id": "QQZ000003",
+  "type": "mcq",
+  "title": "reverse array method - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following statements can be used to replace&nbsp;&nbsp;<span> </span><code class=\"dap_inline\">/* missing statement */</code>&nbsp; so that the method works as intended?</p>",
+    "answer": "01JVABTM8MWQ1KQW1C15JVR60C",
+    "choices": [
+      {
+        "value": "01JV7Z4W3BZMF0DTTVW96ES2W1",
+        "label": "<pre><code class=\"language-plaintext\">newArray[k] = arr[k - arr.length];</code></pre>"
+      },
+      {
+        "value": "01JV7Z4W3B9ARMRY8HKJ2AX6M4",
+        "label": "<pre><code class=\"language-plaintext\">newArray[k] = arr[k - arr.length - 1];</code></pre>"
+      },
+      {
+        "value": "01JV7Z4W3BPE6VF39BX4317JSY",
+        "label": "<pre><code class=\"language-plaintext\">newArray[k] = arr[arr.length - k];</code></pre>"
+      },
+      {
+        "value": "01JVABTM8MWQ1KQW1C15JVR60C",
+        "label": "<pre><code class=\"language-plaintext\">newArray[k] = arr[arr.length - k - 1];</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implementing Array Algorithms"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "FT645731",
+  "type": "mcq",
+  "title": "Runtime of algorithm for online retailer",
+  "content": {
+    "prompt": "Based on the values in the table, which of the following best characterizes the algorithm for very large values of <em>n </em>?",
+    "answer": "0",
+    "choices": [
+      {
+        "label": "The algorithm runs in reasonable time.",
+        "value": "0"
+      },
+      {
+        "label": "The algorithm runs, but not in reasonable time.",
+        "value": "1"
+      },
+      {
+        "label": "The algorithm attempts to solve an undecidable problem.",
+        "value": "2"
+      },
+      {
+        "label": "The algorithm attempts to find an approximate solution whenever it fails to find an exact solution.",
+        "value": "3"
+      }
+    ]
+  },
+  "topic": {
+    "code": "3.17",
+    "text": "3.17: Algorithmic Efficiency"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

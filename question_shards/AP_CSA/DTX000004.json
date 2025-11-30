@@ -1,0 +1,39 @@
+{
+  "id": "DTX000004",
+  "type": "mcq",
+  "title": "Print result of compound assignment - write code",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following code segments can be used to print the output&nbsp; <span class=\"dap_inline tts-container\" data-ssml-say-as=\"characters\" ssml-label=\"Characters\">2526</span>?</p>",
+    "answer": "01JCGRPSRYCFZGFPN57Z1B7ECM",
+    "choices": [
+      {
+        "value": "01JCGRPSRYCFZGFPN57Z1B7ECM",
+        "label": "<pre><code class=\"language-plaintext\">int val = 5; \nval *= val;\nSystem.out.print(val);\nval++;\nSystem.out.print(val);</code></pre>"
+      },
+      {
+        "value": "01JCGRPSRZVR15T7Z32SDSDYGK",
+        "label": "<pre><code class=\"language-plaintext\">int val = 5; \nval *= val;\nSystem.out.print(val);\nval *= 1;\nSystem.out.print(val);</code></pre>"
+      },
+      {
+        "value": "01JCGRPSRZ9TD58EFQN6XWPW6S",
+        "label": "<pre><code class=\"language-plaintext\">int val = 5; \nval += val;\nSystem.out.print(val);\nval++;\nSystem.out.print(val);</code></pre>"
+      },
+      {
+        "value": "01JCGRPSRZVNF4HJZ1S3ZVW8BG",
+        "label": "<pre><code class=\"language-plaintext\">int val = 5; \nval += val;\nSystem.out.print(val);\nval *= 1;\nSystem.out.print(val);</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.6",
+    "text": "1.6: Compound Assignment Operators"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

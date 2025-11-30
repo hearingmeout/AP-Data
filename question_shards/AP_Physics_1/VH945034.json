@@ -1,0 +1,39 @@
+{
+  "id": "VH945034",
+  "type": "mcq",
+  "title": "Interval of time with greatest momentum",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VH944742.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include>\n<div class=\"stimulus_reference\">\n<div class=\"standalone_image\"><img alt=\"The figure presents a graph of a line in the first quadrant of the coordinate plane. The horizontal axis is labeled Time, in seconds, and the numbers 0, 0.005, and 0.010, are indicated. The vertical axis is labeled Magnitude of Force, in Newtons, and the numbers 0 through 2,000, in increments of 500, are indicated. The line begins at the origin and moves upward and to the right at a constant rate, reaching a peak halfway across the horizontal axis at the point 0.005 second, comma 2000 newtons, and then moves downward and to the right at a constant rate, ending at the point 0.010 second, comma 0 newtons.\" height=\"236\" src=\"/images/f57c92acf8ef12757b009af772ca139e.png\" width=\"315\"></div>\n</div>\n</div>\n\n<p class=\"stem_paragraph\">Assume that the collision in each scenario is elastic. A graph of the magnitude of the force exerted on Cart <span class=\"math_expression\"><span aria-label=\"Y\"><math alttext=\"Y\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mstyle><mrow><mi>Y</mi></mrow></mstyle></mrow></mstyle></math></span></span> as a function of time for scenario 1 is shown. During which interval of time does the magnitude of the momentum of Cart <span class=\"math_expression\"><span aria-label=\"Y\"><math alttext=\"Y\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mstyle><mrow><mi>Y</mi></mrow></mstyle></mrow></mstyle></math></span></span> change the most?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"0 seconds \"><math alttext=\"0 seconds \" overflow=\"scroll\"><mstyle><mrow><mn>0.</mn><mstyle mathvariant=\"normal\"><mrow><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace></mrow></mstyle><mstyle mathvariant=\"normal\"><mi>s</mi></mstyle></mrow></mstyle></math></span></span> to <span class=\"math_expression\"><span aria-label=\"0.002 second \"><math alttext=\"0.002 second \" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mn>0.002</mn><mstyle mathvariant=\"normal\"><mrow><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace></mrow></mstyle><mstyle mathvariant=\"normal\"><mrow><mi>s</mi></mrow></mstyle></mrow></mstyle></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"0.004 second \"><math alttext=\"0.004 second \" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mn>0.004</mn><mstyle mathvariant=\"normal\"><mrow><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace></mrow></mstyle><mstyle mathvariant=\"normal\"><mrow><mi>s</mi></mrow></mstyle></mrow></mstyle></mrow></mstyle></math></span></span> to <span class=\"math_expression\"><span aria-label=\"0.006 second \"><math alttext=\"0.006 second \" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mn>0.006</mn><mstyle mathvariant=\"normal\"><mrow><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace></mrow></mstyle><mstyle mathvariant=\"normal\"><mrow><mi>s</mi></mrow></mstyle></mrow></mstyle></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"0.008 second \"><math alttext=\"0.008 second \" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mn>0.008</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mi>s</mi></mrow></mstyle></math></span></span> to <span class=\"math_expression\"><span aria-label=\"0.010 second\"><math alttext=\"0.010 second\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mn>0.010</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mi>s</mi></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The change in momentum is the same for each time interval listed.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Linear Momentum"
+  },
+  "topic": {
+    "code": "4.2",
+    "text": "4.2: Change in Momentum and Impulse"
+  },
+  "skill": {
+    "code": "2.D",
+    "text": "2.D: Predict new values or factors of change of physical quantities using functional dependence between variables."
+  }
+}

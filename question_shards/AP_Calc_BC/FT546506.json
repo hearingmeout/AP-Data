@@ -1,0 +1,43 @@
+{
+  "id": "FT546506",
+  "type": "mcq",
+  "title": "Substitution: endpoints of integration",
+  "content": {
+    "prompt": "<p>If <math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\" the integral from 1 to 2 of f of open parentheses x minus c close parentheses with respect to x equals 5\">\n <semantics>\n  <mrow>\n   <mstyle displaystyle=\"true\">\n    <mrow><munderover>\n     <mo>∫</mo>\n     <mn>1</mn>\n     <mn>2</mn>\n    </munderover>\n    <mi>f</mi>\n   </mrow>\n   \n  </mstyle><mo stretchy=\"false\">(</mo><mi>x</mi><mo>−</mo><mi>c</mi><mo stretchy=\"false\">)</mo><mi>d</mi><mi>x</mi><mo>=</mo><mn>5</mn></mrow>\n <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n qadaWdXbWdaeaapeGaamOzaaWcpaqaa8qacaaIXaaapaqaa8qacaaI\n YaaaniabgUIiYdGccaGGOaGaamiEaiabgkHiTiaadogacaGGPaGaam\n izaiaadIhacqGH9aqpcaaI1aaaaa@431E@\n </annotation>\n</semantics>\n</math>\n where <em>c </em>is a constant, then <math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the integral from 1 minus c to 2 minus c of f of x with respect to x equals\">\n <semantics>\n  <mrow>\n   <mstyle displaystyle=\"true\">\n    <mrow><munderover>\n     <mo>∫</mo>\n     <mrow>\n      <mn>1</mn><mo>−</mo><mi>c</mi></mrow>\n     <mrow>\n      <mn>2</mn><mo>−</mo><mi>c</mi></mrow>\n    </munderover>\n    <mi>f</mi>\n   </mrow>\n   \n  </mstyle><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mi>d</mi><mi>x</mi><mo>=</mo></mrow>\n <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=\n feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8\n qadaWdXbWdaeaapeGaamOzaaWcpaqaa8qacaaIXaGaeyOeI0Iaam4y\n aaWdaeaapeGaaGOmaiabgkHiTiaadogaa0Gaey4kIipakiaacIcaca\n WG4bGaaiykaiaadsgacaWG4bGaeyypa0daaa@4434@\n </annotation>\n</semantics>\n</math>\n</p><p></p>",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>5+<em>c</em></p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>5</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>5-<em>c</em></p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p><em>c</em>-5</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>-5</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.9",
+    "text": "6.9: Integrating Using Substitution"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

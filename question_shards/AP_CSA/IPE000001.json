@@ -1,0 +1,39 @@
+{
+  "id": "IPE000001",
+  "type": "mcq",
+  "title": "Scan usernames from text file",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following can replace <span class=\"dap_inline\">/* missing code */</span> so that this code segment works as intended?</p>",
+    "answer": "1713292961380.6172",
+    "choices": [
+      {
+        "value": "1713292961380.756",
+        "label": "<pre><code class=\"language-plaintext\">while (scan.hasNext())\n{\n   String temp = scan.next().substring(0, 1);\n   usernames.add(temp + scan.next());\n}</code></pre>"
+      },
+      {
+        "value": "1713292961380.5857",
+        "label": "<pre><code class=\"language-plaintext\">while (scan.hasNext())\n{\n   String one = scan.next();\n   String two = scan.next();\n   usernames.add(two.substring(0, 1) + one);\n}</code></pre>"
+      },
+      {
+        "value": "1713292961380.6172",
+        "label": "<pre><code class=\"language-plaintext\">while (scan.hasNext())\n{\n   String[] temp = scan.next().split(\"-\");\n   usernames.add(temp[1].substring(0, 1) + temp[0]);\n}</code></pre>"
+      },
+      {
+        "value": "1713292961380.169",
+        "label": "<pre><code class=\"language-plaintext\">while (scan.hasNext())\n{\n   String[] temp = scan.next().split(\"-\");\n   usernames.add(temp[0].substring(0, 1) + temp[1]);\n}</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

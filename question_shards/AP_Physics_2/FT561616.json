@@ -1,0 +1,39 @@
+{
+  "id": "FT561616",
+  "type": "mcq",
+  "title": "Plot graph of candle and image location",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows a horizontal surface with a candle on the left, a screen on the right, and a lens between them. The distance from the candle to the lens is labeled d, and the distance from the lens to the screen is labeled s.\" height=\"185\" src=\"/images/2140518a5b3d28fea7e8505742cb6c73.png\" width=\"395\"></p>\n\n<p>In the experimental setup shown in the figure above, a thin lens stands between a candle and a screen. A student moves the candle to several positions relative to the lens and then adjusts the position of the screen until an image is formed. Each time, the student records the distance d from the candle to the lens and the distance s from the lens to the screen. Which of the following procedures will allow the student to determine the focal length of the lens?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>Graph s as a function of d. The focal length will be the vertical intercept. </p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Graph s as a function of d. The focal length will be the slope of the line. </p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Graph 1/s as a function of 1/d . The focal length will be the inverse of the vertical intercept. </p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p> Graph 1/s as a function of 1/d . The focal length will be the inverse of the slope of the line. </p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Geometric Optics"
+  },
+  "topic": {
+    "code": "13.4",
+    "text": "13.4: Images Formed by Lenses"
+  },
+  "skill": {
+    "code": "2.D",
+    "text": "2.D: Predict new values or factors of change of physical quantities using functional dependence between variables."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "VR804170",
+  "type": "mcq",
+  "title": "Kirchhoff loop - battery and identical R1 R2 R3 R4",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"standalone_image\"><img alt=\"The figure shows a rectangular circuit with a battery and four resistors. The left vertical branch has the battery, the middle vertical branch has resistor R sub 2, and the right vertical branch has resistor R sub 4. The top horizontal branch has resistors R sub 1 and R sub 3. Resistor R sub 1 is between the left and middle vertical branches, and resistor R sub 3 is between the middle and right vertical branches.\" src=\"/images/0a02bf84303012f713ccdf71f2b64599.svg\"></div></div></div><p class=\"stem_paragraph\">Four identical resistors are connected to a battery, as shown in the figure. Which of the following claims must be correct? Take all stated potential differences to be positive quantities.</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The battery <span class=\"math_expression\"><span aria-label=\"e m f\"><math alttext=\"e m f\" display=\"inline\" overflow=\"scroll\"><mi>emf</mi></math></span></span> is the same as the potential difference across <span class=\"math_expression\"><span aria-label=\"R sub 2\"><math alttext=\"R sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi mathvariant=\"normal\">R</mi><mn>2</mn></msub></math></span></span>.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The battery <span class=\"math_expression\"><span aria-label=\"e m f\"><math alttext=\"e m f\" display=\"inline\" overflow=\"scroll\"><mi>emf</mi></math></span></span> is the sum of the potential differences across <span class=\"math_expression\"><span aria-label=\"R sub 2\"><math alttext=\"R sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi mathvariant=\"normal\">R</mi><mn>2</mn></msub></math></span></span> and <span class=\"math_expression\"><span aria-label=\"R sub 4\"><math alttext=\"R sub 4\" display=\"inline\" overflow=\"scroll\"><msub><mi mathvariant=\"normal\">R</mi><mn>4</mn></msub></math></span></span>.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The potential differences across <span class=\"math_expression\"><span aria-label=\"R sub 1\"><math alttext=\"R sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi mathvariant=\"normal\">R</mi><mn>1</mn></msub></math></span></span> and <span class=\"math_expression\"><span aria-label=\"R sub 2\"><math alttext=\"R sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi mathvariant=\"normal\">R</mi><mn>2</mn></msub></math></span></span> are the same.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The potential difference across <span class=\"math_expression\"><span aria-label=\"R sub 2\"><math alttext=\"R sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi mathvariant=\"normal\">R</mi><mn>2</mn></msub></math></span></span> is the sum of the potential differences across <span class=\"math_expression\"><span aria-label=\"R sub 3\"><math alttext=\"R sub 3\" display=\"inline\" overflow=\"scroll\"><msub><mi mathvariant=\"normal\">R</mi><mn>3</mn></msub></math></span></span> and <span class=\"math_expression\"><span aria-label=\"R sub 4\"><math alttext=\"R sub 4\" display=\"inline\" overflow=\"scroll\"><msub><mi mathvariant=\"normal\">R</mi><mn>4</mn></msub></math></span></span>.</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.6",
+    "text": "11.6: Kirchhoff's Loop Rule"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

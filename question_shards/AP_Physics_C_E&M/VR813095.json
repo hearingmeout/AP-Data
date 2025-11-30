@@ -1,0 +1,39 @@
+{
+  "id": "VR813095",
+  "type": "mcq",
+  "title": "Inductance - stretching a spring solenoid",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"standalone_image\"><img alt=\"The figure shows a horizontal spring over a long horizontal wooden meterstick in 4 stages. The values 0 through 100 centimeters, in increments of 20 centimeters, are indicated on the meterstick in each stage. In stage 1 the spring is tightly coiled from 0 to 20 centimeters. In stage 2 the spring is slightly more uncoiled from 0 to 40 centimeters. In stage 3 the spring is uncoiled more from 0 to 60 centimeters. In stage 4 the spring is completely uncoiled from 0 to 80 centimeters.\" src=\"/images/bc1c61d41560975b019b0fc0a9d53f97.svg\"></div></div></div><p class=\"stem_paragraph\">Students in a lab construct a solenoid from a spring stretched along a wooden meterstick. They place one end of the spring at zero centimeters and move the other end to <span class=\"math_expression\"><span aria-label=\"20 centimeters\"><math alttext=\"20 centimeters\" display=\"inline\" overflow=\"scroll\"><mn>20</mn><mspace width=\"0.2em\"></mspace><mi>cm</mi></math></span></span>, <span class=\"math_expression\"><span aria-label=\"40 centimeters\"><math alttext=\"40 centimeters\" display=\"inline\" overflow=\"scroll\"><mn>40</mn><mspace width=\"0.2em\"></mspace><mi>cm</mi></math></span></span>, <span class=\"math_expression\"><span aria-label=\"60 centimeters\"><math alttext=\"60 centimeters\" display=\"inline\" overflow=\"scroll\"><mn>60</mn><mspace width=\"0.2em\"></mspace><mtext>c</mtext><mi mathvariant=\"normal\">m</mi></math></span></span>, and <span class=\"math_expression\"><span aria-label=\"80 centimeters\"><math alttext=\"80 centimeters\" display=\"inline\" overflow=\"scroll\"><mn>80</mn><mspace width=\"0.2em\"></mspace><mtext>c</mtext><mi mathvariant=\"normal\">m</mi></math></span></span>, as shown. How do the inductances <span class=\"math_expression\"><span aria-label=\"L sub 20\"><math alttext=\"L sub 20\" display=\"inline\" overflow=\"scroll\"><msub><mi>L</mi><mn>20</mn></msub></math></span></span>, <span class=\"math_expression\"><span aria-label=\"L sub 40\"><math alttext=\"L sub 40\" display=\"inline\" overflow=\"scroll\"><msub><mi>L</mi><mn>40</mn></msub></math></span></span>, <span class=\"math_expression\"><span aria-label=\"L sub 60\"><math alttext=\"L sub 60\" display=\"inline\" overflow=\"scroll\"><msub><mi>L</mi><mn>60</mn></msub></math></span></span>, and <span class=\"math_expression\"><span aria-label=\"L sub 80\"><math alttext=\"L sub 80\" display=\"inline\" overflow=\"scroll\"><msub><mi>L</mi><mn>80</mn></msub></math></span></span> of the solenoids compare at each of the four different lengths, respectively?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"L sub 20 equals L sub 40, equals L sub 60, which equals L sub 80\"><math alttext=\"L sub 20 equals L sub 40, equals L sub 60, which equals L sub 80\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>L</mi><mn>20</mn></msub><mo>=</mo><msub><mi>L</mi><mn>40</mn></msub><mo>=</mo><msub><mi>L</mi><mn>60</mn></msub><mo>=</mo><msub><mi>L</mi><mn>80</mn></msub></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"L sub 20 is greater than L sub 40, which is greater than L sub 60, which is greater than L sub 80\"><math alttext=\"L sub 20 is greater than L sub 40, which is greater than L sub 60, which is greater than L sub 80\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>L</mi><mn>20</mn></msub><mo>&gt;</mo><msub><mi>L</mi><mn>40</mn></msub><mo>&gt;</mo><msub><mi>L</mi><mn>60</mn></msub><mo>&gt;</mo><msub><mi>L</mi><mn>80</mn></msub></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"L sub 80 is greater than L sub 60, which is greater than L sub 40, which is greater than L sub 20\"><math alttext=\"L sub 80 is greater than L sub 60, which is greater than L sub 40, which is greater than L sub 20\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>L</mi><mn>80</mn></msub><mo>&gt;</mo><msub><mi>L</mi><mn>60</mn></msub><mo>&gt;</mo><msub><mi>L</mi><mn>40</mn></msub><mo>&gt;</mo><msub><mi>L</mi><mn>20</mn></msub></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"L sub 20 equals, open parenthesis, L sub 40 is greater than L sub 60, close parenthesis, which equals L sub 80\"><math alttext=\"L sub 20 equals, open parenthesis, L sub 40 is greater than L sub 60, close parenthesis, which equals L sub 80\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>L</mi><mn>20</mn></msub><mo>=</mo><mrow><mo>(</mo><msub><mi>L</mi><mn>40</mn></msub><mo>&gt;</mo><msub><mi>L</mi><mn>60</mn></msub><mo>)</mo></mrow><mo>=</mo><msub><mi>L</mi><mn>80</mn></msub></mstyle></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.4",
+    "text": "13.4: Inductance"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

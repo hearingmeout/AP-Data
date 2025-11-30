@@ -1,0 +1,43 @@
+{
+  "id": "VH954472",
+  "type": "mcq",
+  "title": "Sampling without replacement",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Consider a situation in which sampling without replacement is used to generate a random sample from each of two separate populations. To calculate a confidence interval to estimate the difference between population proportions, which of the following checks must be made?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Each population must be at least 10 times as large as its corresponding sample.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Both populations must be approximately normal.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The data from both samples must be unimodal, symmetrical, and approximately normal.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">Each sample proportion value must be less than or equal to 0.5.</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The sample sizes must be the same.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.8",
+    "text": "6.8: Confidence Intervals for the Difference of Two Proportions"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Verify that inference procedures apply in a given situation."
+  }
+}

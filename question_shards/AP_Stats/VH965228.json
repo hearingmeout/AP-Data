@@ -1,0 +1,43 @@
+{
+  "id": "VH965228",
+  "type": "mcq",
+  "title": "Baby orcas",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">The mean and standard deviation of a random sample of 7 baby orca whales were calculated as 430 pounds and 26.9 pounds, respectively. Assuming all conditions for inference are met, which of the following is a 90 percent confidence interval for the mean weight of all baby orca whales?</p>\n",
+    "answer": "i5",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"26.9 plus or minus 1.895 times the fraction with numerator 430 and denominator the square root of 7\"><math alttext=\"26.9 plus or minus 1.895 times the fraction with numerator 430 and denominator the square root of 7\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>26.9</mn><mo>±</mo><mn>1.895</mn><mrow><mo>(</mo><mrow><mfrac><mrow><mn>430</mn></mrow><mrow><msqrt><mrow><mn>7</mn></mrow></msqrt></mrow></mfrac></mrow><mo>)</mo></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"26.9 plus or minus 1.943 times the fraction with numerator 430 and denominator the square root of 7\"><math alttext=\"26.9 plus or minus 1.943 times the fraction with numerator 430 and denominator the square root of 7\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>26.9</mn><mo>±</mo><mn>1.943</mn><mrow><mo>(</mo><mrow><mfrac><mrow><mn>430</mn></mrow><mrow><msqrt><mrow><mn>7</mn></mrow></msqrt></mrow></mfrac></mrow><mo>)</mo></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"430 plus or minus 1.440 times the fraction with numerator 26.9 and denominator the square root of 7\"><math alttext=\"430 plus or minus 1.440 times the fraction with numerator 26.9 and denominator the square root of 7\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>430</mn><mo>±</mo><mn>1.440</mn><mrow><mo>(</mo><mrow><mfrac><mrow><mn>26.9</mn></mrow><mrow><msqrt><mrow><mn>7</mn></mrow></msqrt></mrow></mfrac></mrow><mo>)</mo></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"430 plus or minus 1.895 times the fraction with numerator 26.9 and denominator the square root of 7\"><math alttext=\"430 plus or minus 1.895 times the fraction with numerator 26.9 and denominator the square root of 7\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>430</mn><mo>±</mo><mn>1.895</mn><mrow><mo>(</mo><mrow><mfrac><mrow><mn>26.9</mn></mrow><mrow><msqrt><mrow><mn>7</mn></mrow></msqrt></mrow></mfrac></mrow><mo>)</mo></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"430 plus or minus 1.943 times the fraction with numerator 26.9 and denominator the square root of 7\"><math alttext=\"430 plus or minus 1.943 times the fraction with numerator 26.9 and denominator the square root of 7\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>430</mn><mo>±</mo><mrow><mn>1.943</mn><mrow><mo>(</mo><mrow><mfrac><mrow><mn>26.9</mn></mrow><mrow><msqrt><mrow><mn>7</mn></mrow></msqrt></mrow></mfrac></mrow><mo>)</mo></mrow></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.2",
+    "text": "7.2: Constructing a Confidence Interval for a Population Mean"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Construct a confidence interval, provided conditions for inference are met."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT543948",
+  "type": "mcq",
+  "title": "Association between student employment and class",
+  "content": {
+    "prompt": "<p><img alt=\"A three by three matrix is shown. From the upper left corner the columns are labeled Job, No Job, and Total, and the rows are labeled juniors, seniors, total. A white space is left between the second and third rows, and another between the second and third columns, to separate the total values from the other values. The values in the first row are 13, 5, 18. The values in the second row are 13, 26, 39. The values in the third row are 26, 31, 57.\" height=\"157\" src=\"/images/7a6139efcce6fe1b496fd587377e25ad.png\" width=\"276\"></p>\n\n<p>A survey of 57 students was conducted to determine whether or not they held jobs outside of school. The two-way table above shows the number of students by employment status (job, no job), and class (juniors, seniors). Which of the following best describes the relationship between employment status and class?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>There appears to be no association, since the same number of juniors and seniors have jobs.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>There appears to be no association, since close to half of the students have jobs.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>There appears to be an association, since there are more seniors than juniors in the survey.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>There appears to be an association, since the proportion of juniors having jobs is much larger than the proportion of seniors having jobs.</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>A measure of association cannot be determined from these data.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: Statistics for Two Categorical Variables"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Compare distributions or relative positions of points within a distribution."
+  }
+}

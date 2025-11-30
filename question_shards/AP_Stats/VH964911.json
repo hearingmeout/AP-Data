@@ -1,0 +1,43 @@
+{
+  "id": "VH964911",
+  "type": "mcq",
+  "title": "Flower cost",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">To estimate the average cost of flowers for summer weddings in a certain region, a journalist selected a random sample of 15 summer weddings that were held in the state. A graph of the sample data showed an approximately symmetric distribution with no outliers. The sample mean and standard deviation were $734 and $102, respectively. The journalist will create a 95 percent confidence interval to estimate the population mean. Have all conditions for inference been met?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Yes, all conditions have been met.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No, the 15 weddings in the sample were not selected at random.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No, the sample size is not large enough to assume the sampling distribution of sample means is approximately normal.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No, because the graphical display is approximately symmetric it cannot be assumed that the sampling distribution of sample means is approximately normal.</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No, the sample size of 15 is not less than 10 percent of all weddings in the state.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.2",
+    "text": "7.2: Constructing a Confidence Interval for a Population Mean"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Verify that inference procedures apply in a given situation."
+  }
+}

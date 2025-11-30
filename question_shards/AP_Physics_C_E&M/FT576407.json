@@ -1,0 +1,43 @@
+{
+  "id": "FT576407",
+  "type": "mcq",
+  "title": "Inference procedure for body fat exercise program",
+  "content": {
+    "prompt": "Which of the following procedures is the most appropriate for such an investigation?",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>A matched-pairs t-test for a mean difference </p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>A two-sample t-test for a difference between means </p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>A two-sample z-test for a difference between proportions </p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>A chi-square test of association </p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>A linear regression t-test for slope</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Inference for Quantitative Data-Slopes"
+  },
+  "topic": {
+    "code": "9.4",
+    "text": "9.4: Setting Up a Test for the Slope of a Regression Model"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Identify an appropriate inference method for significance tests."
+  }
+}

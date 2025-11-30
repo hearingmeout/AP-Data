@@ -1,0 +1,43 @@
+{
+  "id": "FT545370",
+  "type": "mcq",
+  "title": "Compute median from histogram of waiting times",
+  "content": {
+    "prompt": "<p>The histogram below displays the frequencies of waiting times, in minutes, for 175 patients in a dentist's office.</p>\n\n<p><img alt=\"A bar graph is shown with number of patients from 0 to 100 in increments of 20 on the vertical axis and waiting time in minutes from 0 to 30 in increments of 5 on the horizontal axis. Each bar is 5 minutes wide. The bar from 0 to 5 minutes goes up to 80. The bar from 5 to 10 minutes goes up to 50. The bar from 10 to 15 minutes goes up to 25. The bar from 15 to 20 minutes goes up to 10. The bar from 20 to 25 minutes goes up to 5. The bar from 25 to 30 minutes goes up to 5.\" height=\"267\" src=\"/images/3eaaa21919894bcb5ee491b1e9ff62da.png\" width=\"402\"></p>\n\n<p>Which of the following could be the median of the waiting times, in minutes?</p>\n",
+    "answer": "i1",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>2.50</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>7.25</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>12.25</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>15.00</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>17.50</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.7",
+    "text": "1.7: Summary Statistics for a Quantitative Variable"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT545371",
+  "type": "mcq",
+  "title": "Interpret quartiles of amount spent on dinner",
+  "content": {
+    "prompt": "<p>Data were collected on the amount, in dollars, that individual customers spent on dinner in an Italian restaurant. The quartiles for these data are given below.</p>\n\n<p><img alt=\"A table is shown with two rows. The first row reads Q 1, Q 2, and Q 3. The second row reads 36.27 dollars, 44.27 dollars, and 58.97 dollars.\" height=\"66\" src=\"/images/39c96cf35a5a72fc618317a8688413be.png\" width=\"322\"></p>\n\n<p>Which of the following statements must be true for these customers?</p>\n",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>At least half of the customers spent less than or equal to $44.27 and at least half spent greater than or equal to $44.27.</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Seventy-five percent of the customers spent between $36.27 and $58.97.</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Twenty-five percent of the customers spent less than or equal to $58.97 and the remaining 75 percent spent greater than or equal to $58.97.</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>The mean amount spent by customers is $44.27.</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>A majority of customers spent $44.27.</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.7",
+    "text": "1.7: Summary Statistics for a Quantitative Variable"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}

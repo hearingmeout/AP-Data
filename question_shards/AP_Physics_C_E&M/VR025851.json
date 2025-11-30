@@ -1,0 +1,43 @@
+{
+  "id": "VR025851",
+  "type": "mcq",
+  "title": "Inference procedure for cars in student parking",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Assuming all conditions for inference are met, which of the following is the appropriate test for the investigation?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">A two-sample <span class=\"math_expression\"><span aria-label=\"z\"><math alttext=\"z\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math></span></span>-test for a difference between proportions</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">A two-sample <span class=\"math_expression\"><span aria-label=\"t\"><math alttext=\"t\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math></span></span>-test for a difference between means</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">A matched-pairs <span class=\"math_expression\"><span aria-label=\"t\"><math alttext=\"t\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math></span></span>-test for a mean difference</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">A chi-square test of homogeneity</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">A chi-square test of independence</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.4",
+    "text": "7.4: Setting Up a Test for a Population Mean"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Identify an appropriate inference method for significance tests."
+  }
+}

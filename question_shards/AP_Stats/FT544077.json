@@ -1,0 +1,43 @@
+{
+  "id": "FT544077",
+  "type": "mcq",
+  "title": "Expected amount to pay to rent movie",
+  "content": {
+    "prompt": "<p>If the customer rolls the dice and rents a second movie every Thursday for 20 consecutive weeks, what is the total amount that the customer would expect to pay for these second movies?</p>",
+    "answer": "i4",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>$0.45</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>$0.47</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>$0.67</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>$3.00</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>$9.40</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.9",
+    "text": "4.9: Combining Random Variables"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Determine parameters for probability distributions."
+  }
+}

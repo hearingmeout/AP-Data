@@ -1,0 +1,39 @@
+{
+  "id": "IAB000000",
+  "type": "mcq",
+  "title": "Sinusoidal Modeling - water depth phase shift",
+  "content": {
+    "prompt": "<div class=\"qti-layout-row\"> <div class=\"qti-layout-col12\"> <div class=\"prompt\"> <p class=\"dap_body\">​The depth of water in a bay periodically increases and decreases with a period of&nbsp;<span aria-label=\"12\"><math alttext=\"12\"><semantics><mn>12</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;hours. The depth of water, in feet, at a point in the bay can be modeled by a sinusoidal function&nbsp;<span aria-label=\"f\"><math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;of time&nbsp;<span aria-label=\"t\"><math alttext=\"t\"><semantics><mi>t</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>, measured in hours starting at&nbsp;<span aria-label=\"t equals 0\"><math alttext=\"t equals 0\"><semantics><mrow><mi>t</mi><mo>=</mo><mn>0</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>. The depth of water at the point is&nbsp;<span aria-label=\"10\"><math alttext=\"10\"><semantics><mn>10</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;feet at time&nbsp;<span aria-label=\"t equals 3\"><math alttext=\"t equals 3\"><semantics><mrow><mi>t</mi><mo>=</mo><mn>3</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;hours and&nbsp;<span aria-label=\"2\"><math alttext=\"2\"><semantics><mn>2</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;feet at time&nbsp;<span aria-label=\"t equals 9\"><math alttext=\"t equals 9\"><semantics><mrow><mi>t</mi><mo>=</mo><mn>9</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;hours. If these time-depth pairs represent a maximum value and the first minimum value after the maximum, respectively, which of the following could define&nbsp;<span aria-label=\"f open parentheses t close parentheses\"><math alttext=\"f open parentheses t close parentheses\"><semantics><mrow><mi>f</mi><mfenced><mi>t</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span>&nbsp;?</p> </div> </div> </div>\n",
+    "answer": "A-93011",
+    "choices": [
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"4 cos open parentheses pi over 6 open parentheses t minus 3 close parentheses close parentheses plus 6\"><math alttext=\"4 cos open parentheses pi over 6 open parentheses t minus 3 close parentheses close parentheses plus 6\"><semantics><mrow><mn>4</mn><mi>cos</mi><mfenced><mrow><mfrac><mi>π</mi><mn>6</mn></mfrac><mfenced><mrow><mi>t</mi><mo>-</mo><mn>3</mn></mrow></mfenced></mrow></mfenced><mo>+</mo><mn>6</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "A-93011"
+      },
+      {
+        "label": "<p class=\"dap_body\">​​<span aria-label=\"4 cos open parentheses pi over 6 open parentheses t plus 3 close parentheses close parentheses plus 6\"><math alttext=\"4 cos open parentheses pi over 6 open parentheses t plus 3 close parentheses close parentheses plus 6\"><semantics><mrow><mn>4</mn><mi>cos</mi><mfenced><mrow><mfrac><mi>π</mi><mn>6</mn></mfrac><mfenced><mrow><mi>t</mi><mo>+</mo><mn>3</mn></mrow></mfenced></mrow></mfenced><mo>+</mo><mn>6</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "B-93012"
+      },
+      {
+        "label": "<p class=\"dap_body\">​​<span aria-label=\"4 sin open parentheses pi over 6 open parentheses t minus 3 close parentheses close parentheses plus 6\"><math alttext=\"4 sin open parentheses pi over 6 open parentheses t minus 3 close parentheses close parentheses plus 6\"><semantics><mrow><mn>4</mn><mi>sin</mi><mfenced><mrow><mfrac><mi>π</mi><mn>6</mn></mfrac><mfenced><mrow><mi>t</mi><mo>-</mo><mn>3</mn></mrow></mfenced></mrow></mfenced><mo>+</mo><mn>6</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "C-93013"
+      },
+      {
+        "label": "<p class=\"dap_body\">​<span aria-label=\"4 sin open parentheses pi over 6 open parentheses t plus 3 close parentheses close parentheses plus 6\"><math alttext=\"4 sin open parentheses pi over 6 open parentheses t plus 3 close parentheses close parentheses plus 6\"><semantics><mrow><mn>4</mn><mi>sin</mi><mfenced><mrow><mfrac><mi>π</mi><mn>6</mn></mfrac><mfenced><mrow><mi>t</mi><mo>+</mo><mn>3</mn></mrow></mfenced></mrow></mfenced><mo>+</mo><mn>6</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math></span></p>",
+        "value": "D-93014"
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Trigonometric and Polar Functions"
+  },
+  "topic": {
+    "code": "3.7",
+    "text": "3.7: Sinusoidal Function Context and Data Modeling"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

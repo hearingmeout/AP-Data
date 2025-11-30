@@ -1,0 +1,39 @@
+{
+  "id": "OCI000005",
+  "type": "mcq",
+  "title": "error in findZero method - initial conditions",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following values of &nbsp;<code class=\"dap_inline\">mat</code> &nbsp;can be used to show that the method does <strong>not</strong> work as intended?</p>",
+    "answer": "01JZ16HHRFF599A2H5KX56S28V",
+    "choices": [
+      {
+        "value": "01JZ16HHRE00SVF70XQ1TCXVP4",
+        "label": "<pre><code class=\"language-plaintext\">{{30, 20}, \n {10, 0}}</code></pre>"
+      },
+      {
+        "value": "01JZ16HHRFH99JVEAY3S7YE0EC",
+        "label": "<pre><code class=\"language-plaintext\">{{4, 3}, \n {2, 1}, \n {0, <span class=\"tts-container\" data-ssml-say-as=\"characters\" ssml-label=\"Characters\">-</span>1}}</code></pre>"
+      },
+      {
+        "value": "01JZ16HHRF43DWP7YAQTDNWAN5",
+        "label": "<pre><code class=\"language-plaintext\">{{0, 1, 2}, \n {3, 4, 5}, \n {6, 7, 8}}</code></pre>"
+      },
+      {
+        "value": "01JZ16HHRFF599A2H5KX56S28V",
+        "label": "<pre><code class=\"language-plaintext\">{{5, 10, 15, 20}, \n {25, 30, 35, 40}} </code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.14",
+    "text": "4.14: Searching Algorithms"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

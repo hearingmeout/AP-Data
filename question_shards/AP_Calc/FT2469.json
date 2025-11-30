@@ -1,0 +1,43 @@
+{
+  "id": "FT2469",
+  "type": "mcq",
+  "title": "Unique solution of a differential equation",
+  "content": {
+    "prompt": "If <span aria-label=\"f prime times x is equal to 2 over x\"><math> <mrow> <msup> <mi>f</mi> <mo>′</mo> </msup> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mfrac> <mn>2</mn> <mi>x</mi> </mfrac> </mrow> </math></span> and <span aria-label=\"f of open paren square root of e close paren is equal to 5\"><math> <mrow> <mi>f</mi> <mrow> <mo>(</mo> <mrow> <msqrt> <mi>e</mi> </msqrt> </mrow> <mo>)</mo> </mrow> <mo>=</mo> <mn>5</mn> </mrow> </math></span> then <span aria-label=\"f of e is equal to\"><math> <mrow> <mi>f</mi><mrow><mo>(</mo> <mi>e</mi> <mo>)</mo></mrow><mo>=</mo></mrow> </math></span>",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>2</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p><em>ln</em> 25</p>"
+      },
+      {
+        "label": "<span aria-label=\"5 plus 2 over e minus the fraction with numerator 2 and denominator e squared\"><math> <mrow> <mn>5</mn> <mo>+</mo> <mfrac> <mn>2</mn> <mi>e</mi> </mfrac> <mo>−</mo> <mfrac> <mn>2</mn> <mrow> <msup> <mi>e</mi> <mn>2</mn> </msup> </mrow> </mfrac> </mrow> </math></span>",
+        "value": "i2"
+      },
+      {
+        "value": "i3",
+        "label": "<p>6</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>25</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.7",
+    "text": "7.7: Finding Particular Solutions Using Initial Conditions and Separation of Variables"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

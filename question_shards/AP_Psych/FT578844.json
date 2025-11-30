@@ -1,0 +1,39 @@
+{
+  "id": "FT578844",
+  "type": "mcq",
+  "title": "Graph IQ scores how many 2 standard dev above mean",
+  "content": {
+    "prompt": "<p><img alt=\"The figure presents a histogram. The horizontal axis is labeled “I Q Score,” and the numbers 70 through 145, in increments of 15, are indicated. The vertical axis is labeled “Frequency,” and the numbers 0 through 10, in increments of 2, are indicated. The histogram has 11 bars. The data presented by the bars are as follows. Note that all values are approximate.  Bar 1. I Q Score, 72 to 76. Frequency, 3. Bar 2. I Q Score, 77 to 81. Frequency, 1. Bar 3. I Q Score, 82 to 86. Frequency, 3. Bar 4. I Q Score, 87 to 91. Frequency, 2. Bar 5. I Q Score, 92 to 96. Frequency, 10. Bar 6. I Q Score, 97 to 101. Frequency, 10. Bar 7. I Q Score, 102 to 106. Frequency, 8. Bar 8. I Q Score, 107 to 111. Frequency, 2. Bar 9. I Q Score, 112 to 116. Frequency, 8. Bar 10. I Q Score, 117 to 121. Frequency, 1. Bar 11. I Q Score, 132 to 136. Frequency, 2. There are no bars for the I Q Score ranges of 122 to 126, and 127 to 131.  A curve is drawn over the histogram. The curve begins on the vertical axis, slightly above the origin, and moves gradually upward and to the right for a short period of time. It then moves steeply upward and to the right until it reaches a maximum at an I Q score of approximately 100, with a frequency of just under 8. At this point, the curve begins to move downward and to the right. It moves steeply at first, and then begins to gradually level off as it approaches the horizontal axis. The curve ends on the horizontal axis at an I Q score of 145.\" height=\"230\" src=\"/images/9bfe65df3d02fca2f68809ef346d96c4.png\" width=\"264\"></p>\n\n<p>A psychologist administered the most recent edition of the Stanford-Binet IQ test to 50 students and their scores are shown in the chart above. How many students earned scores higher than two standard deviations above the mean?</p>\n",
+    "answer": "i0",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>2 </p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>3 </p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>8 </p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>10 </p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Cognition"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: Intelligence and Achievement"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Calculate and interpret measures of central tendency, variation, and percentile rank in a given data set."
+  }
+}

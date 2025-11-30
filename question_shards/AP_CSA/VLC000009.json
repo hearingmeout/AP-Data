@@ -1,0 +1,39 @@
+{
+  "id": "VLC000009",
+  "type": "mcq",
+  "title": "2D array method operation - determine result",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following represents the contents of&nbsp; <span class=\"dap_inline\">arr</span>&nbsp; after executing the code segment?</p>",
+    "answer": "01JMGF9PTJ6B180K5NFEEKXHHM",
+    "choices": [
+      {
+        "value": "01JMGF9PTJ2VW1A53B2TYZZR6C",
+        "label": "<pre><code class=\"language-plaintext\">{1, 0, 6, 3}</code></pre>"
+      },
+      {
+        "value": "01JMGF9PTJ7QEPN8K4H9HXNJ1R",
+        "label": "<pre><code class=\"language-plaintext\">{1, 9, 0, 4}</code></pre>"
+      },
+      {
+        "value": "01JMGF9PTJ6B180K5NFEEKXHHM",
+        "label": "<pre><code class=\"language-plaintext\">{4, 0, 9, 1}</code></pre>"
+      },
+      {
+        "value": "01JMGF9PTH6JEXB3FQPXDAJRPC",
+        "label": "<pre><code class=\"language-plaintext\">{4, 3, 6, 2}</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.12",
+    "text": "4.12: 2D Array Traversals"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

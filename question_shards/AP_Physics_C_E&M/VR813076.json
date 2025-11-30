@@ -1,0 +1,39 @@
+{
+  "id": "VR813076",
+  "type": "mcq",
+  "title": "Induced current - loop of wire_changing B-field",
+  "content": {
+    "prompt": "<div><div class=\"stimulus_reference\"><div class=\"standalone_image\"><img alt=\"The figure shows a square with side lengths s in a region with a magnetic field of magnitude B. The field is directed into the page.\" src=\"/images/233067a36faf1ecb448a9841b9f33d3b.svg\"></div></div></div><p class=\"stem_paragraph\">A single loop of wire with resistance <span class=\"math_expression\"><span aria-label=\"R\"><math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math></span></span> is placed in a magnetic field that is directed into the page, as shown. The loop is a square with each side having a length <span class=\"math_expression\"><span aria-label=\"s\"><math alttext=\"s\" display=\"inline\" overflow=\"scroll\"><mi>s</mi></math></span></span>. The magnitude of the magnetic field as a function of time is given by <span class=\"math_expression\"><span aria-label=\"B of t equals, 4 t cubed plus 3\"><math alttext=\"B of t equals, 4 t cubed plus 3\" display=\"inline\" overflow=\"scroll\"><mi>B</mi><mo stretchy=\"false\">(</mo><mi>t</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>4</mn><msup><mi>t</mi><mn>3</mn></msup><mo>+</mo><mn>3</mn></math></span></span>. What is the magnitude of the current induced in the wire due to the changing magnetic field as a function of time?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator open parenthesis, t to the fourth power, plus 3 t, close parenthesis, times s squared, and denominator R\"><math alttext=\"the fraction with numerator open parenthesis, t to the fourth power, plus 3 t, close parenthesis, times s squared, and denominator R\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mrow><mo>(</mo><msup><mi>t</mi><mn>4</mn></msup><mo>+</mo><mn>3</mn><mi>t</mi><mo>)</mo></mrow><msup><mi>s</mi><mn>2</mn></msup></mrow><mi>R</mi></mfrac></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"open parenthesis, t to the fourth power, plus 3 t, close parenthesis, times s squared\"><math alttext=\"open parenthesis, t to the fourth power, plus 3 t, close parenthesis, times s squared\" display=\"inline\" overflow=\"scroll\"><mrow><mo>(</mo><msup><mi>t</mi><mn>4</mn></msup><mo>+</mo><mn>3</mn><mi>t</mi><mo>)</mo></mrow><msup><mi>s</mi><mn>2</mn></msup></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the fraction with numerator 12 t squared, times s squared, and denominator R\"><math alttext=\"the fraction with numerator 12 t squared, times s squared, and denominator R\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mn>12</mn><msup><mi>t</mi><mn>2</mn></msup><msup><mi>s</mi><mn>2</mn></msup></mrow><mi>R</mi></mfrac></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"12 t squared, times s squared\"><math alttext=\"12 t squared, times s squared\" display=\"inline\" overflow=\"scroll\"><mn>12</mn><msup><mi>t</mi><mn>2</mn></msup><msup><mi>s</mi><mn>2</mn></msup></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.2",
+    "text": "13.2: Electromagnetic Induction"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

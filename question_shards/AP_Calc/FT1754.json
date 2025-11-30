@@ -1,0 +1,43 @@
+{
+  "id": "FT1754",
+  "type": "mcq",
+  "title": "Concavity from a table of second derivative values",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows a table with 2 rows and 5 columns. Row 1 is labeled x.  Row 2 is labeled f double prime of x. Moving through the four columns that contain data from left to right, the data are as follows:   Column 1: x, 0, f double prime of x, 5.   Column 2: x, 1, f double prime of x, 0.   Column 3: x, 2, f double prime of x, negative 7  Column 4: x, 3, f double prime of x, 4.\" height=\"72\" src=\"/images/381878a60b85e107cbac04b4a220c10a.jpg\" width=\"300\"></p>\n\n<p>The polynomial function <em> f </em> has selected values of its second derivative <span aria-label=\"f double prime\"><math> <msup> <mi> f </mi> <mo> ″ </mo> </msup> </math></span> given in the table above.<br>\nWhich of the following statements must be true?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<em>f </em> is increasing on the interval <span aria-label=\"Left parenthesis 0 comma 2 right parenthesis\"><math> <mrow> <mrow> <mo> ( </mo> <mrow> <mn> 0 </mn> <mo> , </mo> <mn> 2 </mn> </mrow> <mo> ) </mo> </mrow> </mrow> </math></span> .",
+        "value": "i0"
+      },
+      {
+        "label": "<em>f </em> is decreasing on the interval <span aria-label=\"Left parenthesis 0 comma 2 right parenthesis\"><math> <mrow> <mrow> <mo> ( </mo> <mrow> <mn> 0 </mn> <mo> , </mo> <mn> 2 </mn> </mrow> <mo> ) </mo> </mrow> </mrow> </math></span> .",
+        "value": "i1"
+      },
+      {
+        "label": "<em>f </em> has a local maximum at <span aria-label=\"x equals 1\"><math> <mrow> <mi> x </mi> <mo> = </mo> <mn> 1 </mn> </mrow> </math></span>",
+        "value": "i2"
+      },
+      {
+        "label": "The graph of <em> f </em> has a point of inflection at <span aria-label=\"x equals 1\"><math> <mrow> <mi> x </mi> <mo> = </mo> <mn> 1 </mn> </mrow> </math></span>",
+        "value": "i3"
+      },
+      {
+        "label": "The graph of <em> f </em> changes concavity in the interval <span aria-label=\"Left parenthesis 0 comma 2 right parenthesis\"><math> <mrow> <mrow> <mo> ( </mo> <mrow> <mn> 0 </mn> <mo> , </mo> <mn> 2 </mn> </mrow> <mo> ) </mo> </mrow> </mrow> </math></span> .",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.6",
+    "text": "5.6: Determining Concavity of Functions over Their Domains"
+  },
+  "skill": {
+    "code": "Skill 2.E",
+    "text": "Skill 2.E: Describe the relationships among different representations of functions and their derivatives."
+  }
+}

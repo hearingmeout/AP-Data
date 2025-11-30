@@ -1,0 +1,43 @@
+{
+  "id": "FT546098",
+  "type": "mcq",
+  "title": "Hollow concentric cylinders carry current",
+  "content": {
+    "prompt": "<p><img alt=\"The figure shows 4 concentric circles.  Starting from the innermost circle, the first circle is unfilled.  The distance from the center to the edge of the first circle is labeled uppercase R.  The area between the first and second circle is filled with x’s in regular rows and columns, and is labeled J.  The distance from the center to the edge of the second circle is labeled 2 uppercase R.  The area between the second and third circle is unfilled.  The distance from the center to the edge of the third circle is labeled 3 uppercase R.  The area between the third and fourth circle is filled with dots in regular rows and columns, and is labeled J.  The distance from the center to the edge of the fourth circle is labeled 4 uppercase R.\" height=\"247\" src=\"/images/fd6f87c1635474377b2fb7c05b36d968.png\" width=\"328\"></p>\n\n<p>Two long, hollow, concentric conducting cylinders carry currents in opposite directions into and out of the plane of the page, as shown in the cross section above. The currents are unequal, but the current density <em>J </em>is the same for both cylinders. In which of the following regions can the net magnetic field be zero at some nonzero finite distance <em>r </em>from the central axis?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p><em>r </em>&lt;<em> R</em> only</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>Both <em>r </em>&lt;<em> R </em>and <em>R &lt;  r</em>  &lt; 2<em>R</em></p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>Both <em>r </em>&lt;<em> R </em>and 2<em>R &lt; r</em> &lt; 3<em>R</em></p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>Both <em>r </em>&lt;<em> R </em>and 3<em>R &lt; r</em> &lt; 4<em>R</em></p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p><em>r</em> &gt; 4<em>R</em> only</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "12",
+    "text": "12: Magnetic Fields and Electromagnetism"
+  },
+  "topic": {
+    "code": "12.4",
+    "text": "12.4: Ampère's Law"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "FT560861",
+  "type": "mcq",
+  "title": "Properties of definite integrals",
+  "content": {
+    "prompt": "The function f is continuous on the closed interval [1, 7 ]. If&nbsp;<span aria-label=\"the integral from 1 to 7 of f x d x is equal to 42\"><math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>1</mn> <mn>7</mn> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>d</mi><mi>x</mi><mo>=</mo><mn>42</mn></mrow> </math></span>&nbsp;and&nbsp;<span aria-label=\"the integral from 7 to 3 of f x d x is equal to negative 32\"><math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>7</mn> <mn>3</mn> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>d</mi><mi>x</mi><mo>=</mo><mo>−</mo><mn>32</mn></mrow> </math></span>&nbsp;then&nbsp;<span aria-label=\"the integral from 1 to 3 of 2 f x d x is equal to\"><math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>1</mn> <mn>3</mn> </msubsup> <mn>2</mn> </mrow> </mstyle><mi>f</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>d</mi><mi>x</mi><mo>=</mo></mrow> </math></span>",
+    "answer": "i3",
+    "choices": [
+      {
+        "value": "i0",
+        "label": "<p>-148</p>"
+      },
+      {
+        "value": "i1",
+        "label": "<p>10</p>"
+      },
+      {
+        "value": "i2",
+        "label": "<p>12</p>"
+      },
+      {
+        "value": "i3",
+        "label": "<p>20</p>"
+      },
+      {
+        "value": "i4",
+        "label": "<p>148</p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.6",
+    "text": "6.6: Applying Properties of Definite Integrals"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

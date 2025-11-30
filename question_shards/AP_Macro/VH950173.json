@@ -1,0 +1,39 @@
+{
+  "id": "VH950173",
+  "type": "mcq",
+  "title": "Daily Energy Production from PV panels",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VH950165.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">Which of the following <span class=\"math_expression\"><span aria-label=\"P V\"><math alttext=\"P V\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>PV</mtext></mrow></mstyle></math></span></span> panel systems is least effective at producing energy?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">Tracking, dual-axis</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No tracking, tilted south</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No tracking, tilted west</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">No tracking, tilted east</p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Energy Resources and Consumption"
+  },
+  "topic": {
+    "code": "6.8",
+    "text": "6.8: Solar Energy"
+  },
+  "skill": {
+    "code": "Skill 5.C",
+    "text": "Skill 5.C: Explain patterns and trends in data to draw conclusions."
+  }
+}

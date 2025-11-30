@@ -1,0 +1,39 @@
+{
+  "id": "VH931306",
+  "type": "mcq",
+  "title": "Processes - Antidifferentiation Techniques",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following is equivalent to <span class=\"math_expression\"><span aria-label=\"the integral from, 3 to 5, of x times the natural log of x, d x\"><math alttext=\"the integral from, 3 to 5, of x times the natural log of x, d x\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>3</mn></mrow><mrow><mn>5</mn></mrow></msubsup><mrow><mi>x</mi><mo>⁢</mo><mi>ln</mi><mo>⁡</mo><mi>x</mi></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></math></span></span> ?</p>\n",
+    "answer": "i3",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the integral from, the natural log of 3, to, the natural log of 5, of, u, d u\"><math alttext=\"the integral from, the natural log of 3, to, the natural log of 5, of, u, d u\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mi>ln</mi><mo>⁡</mo><mn>3</mn></mrow><mrow><mi>ln</mi><mo>⁡</mo><mn>5</mn></mrow></msubsup><mrow><mi>u</mi></mrow><mo>ⅆ</mo><mi>u</mi></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"the integral from, 3 to 5, of x, d x, times, the integral from, 3 to 5, of, the natural log of x, d x\"><math alttext=\"the integral from, 3 to 5, of x, d x, times, the integral from, 3 to 5, of, the natural log of x, d x\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mrow><msubsup><mo>∫</mo><mrow><mn>3</mn></mrow><mrow><mn>5</mn></mrow></msubsup><mrow><mi>x</mi></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow><mo>⋅</mo><mrow><msubsup><mo>∫</mo><mrow><mn>3</mn></mrow><mrow><mn>5</mn></mrow></msubsup><mrow><mi>ln</mi><mo>⁡</mo><mi>x</mi></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"one half times x squared, times the natural log of x, evaluated from 3 to 5, minus, the integral from, 3 to 5, of, one half x, d x\"><math alttext=\"one half times x squared, times the natural log of x, evaluated from 3 to 5, minus, the integral from, 3 to 5, of, one half x, d x\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>ln</mi><mo>⁡</mo><mi>x</mi><msubsup><mrow><mo>|</mo></mrow><mrow><mn>3</mn></mrow><mrow><mn>5</mn></mrow></msubsup><mo>−</mo><mrow><msubsup><mo>∫</mo><mrow><mn>3</mn></mrow><mrow><mn>5</mn></mrow></msubsup><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>x</mi></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mrow></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"one half times x squared, times the natural log of x, evaluated from 3 to 5, plus, the integral from, 3 to 5, of, one half x, d x\"><math alttext=\"one half times x squared, times the natural log of x, evaluated from 3 to 5, plus, the integral from, 3 to 5, of, one half x, d x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>ln</mi><mo>⁡</mo><mi>x</mi><msubsup><mrow><mo>|</mo></mrow><mrow><mn>3</mn></mrow><mrow><mn>5</mn></mrow></msubsup><mo>+</mo><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>3</mn></mrow><mrow><mn>5</mn></mrow></msubsup><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>x</mi></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mrow></mstyle></mrow></mstyle></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.14",
+    "text": "6.14: Selecting Techniques for Antidifferentiation"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Identify an appropriate mathematical rule or procedure based on the classification of a given expression (e.g., Use the chain rule to find the derivative of a composite function)."
+  }
+}

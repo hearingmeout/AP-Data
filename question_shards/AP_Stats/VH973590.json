@@ -1,0 +1,43 @@
+{
+  "id": "VH973590",
+  "type": "mcq",
+  "title": "No homogeneity",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">Which of the following is a reason <span class=\"formatted_text text_decoration:underline\">not</span> to use a chi-square test of homogeneity to analyze a set of data?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\">The data consist of one categorical variable for two or more different populations and are summarized by counts in a two-way table.</p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The data were obtained through a simple random sample from a single population and summarized by counts on two categorical variables.</p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The data were obtained from more than two populations to investigate whether the proportions for categorical data collected are the same.</p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The data were obtained from four different regions to investigate whether the distribution of a categorical variable is different across the four regions.</p>",
+        "value": "i4"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\">The data were obtained using a simple random sample of a population from last year and a simple random sample of the same population from this year where the data collected were categorical variables.</p>",
+        "value": "i5"
+      }
+    ]
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Inference for Categorical Data-Chi-Square"
+  },
+  "topic": {
+    "code": "8.5",
+    "text": "8.5: Setting Up a Chi-Square Test for Homogeneity or Independence"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Identify an appropriate inference method for significance tests."
+  }
+}

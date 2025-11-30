@@ -1,0 +1,39 @@
+{
+  "id": "VR442188",
+  "type": "mcq",
+  "title": "count statement execution",
+  "content": {
+    "prompt": "<div><include href=\"../Passage/VR442187.qti.xml\" xmlns:xi=\"http://www.w3.org/2001/XInclude\"></include></div><p class=\"stem_paragraph\">Assume that <span class=\"inline_code\">insertionSort</span> is called with an <span class=\"inline_code\">ArrayList</span> parameter that has been initialized with the following <span class=\"inline_code\">Integer</span> objects.</p><div class=\"standalone_code style:1\"><p class=\"code_line indent:3\">[1, 2, 3, 4, 5, 6]</p></div><p class=\"stem_paragraph\">How many times will the statements indicated by <span class=\"inline_code\">/*</span> <span class=\"formatted_text font_style:italic\">Statement 1</span> <span class=\"inline_code\">*/</span> and <span class=\"inline_code\">/*</span> <span class=\"formatted_text font_style:italic\">Statement 2</span> <span class=\"inline_code\">*/</span> execute?</p>\n",
+    "answer": "i2",
+    "choices": [
+      {
+        "label": "<div class=\"table_wrapper\">\n<table class=\"tgroup cols:2\">\n<tbody class=\"tbody\">\n<tr class=\"row\">\n<td class=\"entry colname:col1\"><span class=\"formatted_text font_style:italic\">Statement 1</span></td>\n<td class=\"entry colname:col2\"><span class=\"formatted_text font_style:italic\">Statement 2</span></td>\n</tr>\n<tr class=\"row\">\n<td class=\"entry colname:col1 text-center\"><span class=\"math_expression\"><span aria-label=\"0\"><math alttext=\"0\" overflow=\"scroll\"><mn>0</mn></math></span></span></td>\n<td class=\"entry colname:col2 text-center\"><span class=\"math_expression\"><span aria-label=\"0\"><math alttext=\"0\" overflow=\"scroll\"><mn>0</mn></math></span></span></td>\n</tr>\n</tbody>\n</table>\n</div>\n",
+        "value": "i1"
+      },
+      {
+        "label": "<div class=\"table_wrapper\">\n<table class=\"tgroup cols:2\">\n<tbody class=\"tbody\">\n<tr class=\"row\">\n<td class=\"entry colname:col1\"><span class=\"formatted_text font_style:italic\">Statement 1</span></td>\n<td class=\"entry colname:col2\"><span class=\"formatted_text font_style:italic\">Statement 2</span></td>\n</tr>\n<tr class=\"row\">\n<td class=\"entry colname:col1 text-center\"><span class=\"math_expression\"><span aria-label=\"0\"><math alttext=\"0\" overflow=\"scroll\"><mn>0</mn></math></span></span></td>\n<td class=\"entry colname:col2 text-center\"><span class=\"math_expression\"><span aria-label=\"5\"><math alttext=\"5\" overflow=\"scroll\"><mn>5</mn></math></span></span></td>\n</tr>\n</tbody>\n</table>\n</div>\n",
+        "value": "i2"
+      },
+      {
+        "label": "<div class=\"table_wrapper\">\n<table class=\"tgroup cols:2\">\n<tbody class=\"tbody\">\n<tr class=\"row\">\n<td class=\"entry colname:col1\"><span class=\"formatted_text font_style:italic\">Statement 1</span></td>\n<td class=\"entry colname:col2\"><span class=\"formatted_text font_style:italic\">Statement 2</span></td>\n</tr>\n<tr class=\"row\">\n<td class=\"entry colname:col1 text-center\"><span class=\"math_expression\"><span aria-label=\"0\"><math alttext=\"0\" overflow=\"scroll\"><mn>0</mn></math></span></span></td>\n<td class=\"entry colname:col2 text-center\"><span class=\"math_expression\"><span aria-label=\"6\"><math alttext=\"6\" overflow=\"scroll\"><mn>6</mn></math></span></span></td>\n</tr>\n</tbody>\n</table>\n</div>\n",
+        "value": "i3"
+      },
+      {
+        "label": "<div class=\"table_wrapper\">\n<table class=\"tgroup cols:2\">\n<tbody class=\"tbody\">\n<tr class=\"row\">\n<td class=\"entry colname:col1\"><span class=\"formatted_text font_style:italic\">Statement 1</span></td>\n<td class=\"entry colname:col2\"><span class=\"formatted_text font_style:italic\">Statement 2</span></td>\n</tr>\n<tr class=\"row\">\n<td class=\"entry colname:col1 text-center\"><span class=\"math_expression\"><span aria-label=\"5\"><math alttext=\"5\" overflow=\"scroll\"><mn>5</mn></math></span></span></td>\n<td class=\"entry colname:col2 text-center\"><span class=\"math_expression\"><span aria-label=\"5\"><math alttext=\"5\" overflow=\"scroll\"><mn>5</mn></math></span></span></td>\n</tr>\n</tbody>\n</table>\n</div>\n",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.10",
+    "text": "4.10: Implementing `ArrayList` Algorithms"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

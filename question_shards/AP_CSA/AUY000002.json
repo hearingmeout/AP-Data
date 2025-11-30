@@ -1,0 +1,39 @@
+{
+  "id": "AUY000002",
+  "type": "mcq",
+  "title": "Scanning ints from file - initial conditions",
+  "content": {
+    "prompt": "<p class=\"dap_body\">Which of the following could be the contents of&nbsp; <span class=\"dap_inline\">input.txt</span>&nbsp; so that the variables &nbsp;<span class=\"dap_inline\">firstIn</span>, &nbsp;<span class=\"dap_inline\">secondIn</span>,&nbsp; and &nbsp;<span class=\"dap_inline\">thirdIn</span>&nbsp; are each assigned a valid value by the code segment?</p>",
+    "answer": "01JH66GZWDF3QHNW5QBCER4SV2",
+    "choices": [
+      {
+        "value": "01JH66GZWBGN3AKN2ACGHWH7ZA",
+        "label": "<pre><code class=\"language-plaintext\">123</code></pre>"
+      },
+      {
+        "value": "01JH66GZWDF3QHNW5QBCER4SV2",
+        "label": "<pre><code class=\"language-plaintext\">1\n2\n3</code></pre>"
+      },
+      {
+        "value": "01JH66GZWDQA097ATX0RHSHQ3A",
+        "label": "<pre><code class=\"language-plaintext\">1,  2,  3</code></pre>"
+      },
+      {
+        "value": "01JH66GZWDBWPJAD1N672ERCGB",
+        "label": "<pre><code class=\"language-plaintext\">firstIn: 1 secondIn: 2 thirdIn: 3</code></pre>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.6",
+    "text": "4.6: Using Text Files"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

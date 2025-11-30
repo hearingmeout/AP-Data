@@ -1,0 +1,39 @@
+{
+  "id": "VR798889",
+  "type": "mcq",
+  "title": "Power - energy dissipated when I equals alpha t",
+  "content": {
+    "prompt": "<p class=\"stem_paragraph\">How much energy is dissipated by the resistor during the time interval <span class=\"math_expression\"><span aria-label=\"0 less than or equal to t, less than or equal to t sub f\" role=\"math\"><math alttext=\"0 less than or equal to t, less than or equal to t sub f\" overflow=\"scroll\"> <mstyle displaystyle=\"true\"> <mn>0</mn> <mo>≤</mo> <mi>t</mi> <mo>≤</mo> <msub> <mi>t</mi> <mi>f</mi> </msub> </mstyle> </math></span></span> ?</p>\n",
+    "answer": "i4",
+    "choices": [
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"alpha times R sub 0, end sub, times t sub f\"><math alttext=\"alpha times R sub 0, end sub, times t sub f\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>α</mi><msub><mi>R</mi><mn>0</mn></msub><msub><mi>t</mi><mi>f</mi></msub></mstyle></math></span></span></p>",
+        "value": "i1"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"alpha squared, times R sub 0, end sub, times t sub f, end sub, squared\"><math alttext=\"alpha squared, times R sub 0, end sub, times t sub f, end sub, squared\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msup><mi>α</mi><mn>2</mn></msup><msub><mi>R</mi><mn>0</mn></msub><msubsup><mi>t</mi><mi>f</mi><mn>2</mn></msubsup></mstyle></math></span></span></p>",
+        "value": "i2"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"2 alpha squared times R sub 0, end sub, times t sub f\"><math alttext=\"2 alpha squared times R sub 0, end sub, times t sub f\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mn>2</mn><msup><mi>α</mi><mn>2</mn></msup><msub><mi>R</mi><mn>0</mn></msub><msub><mi>t</mi><mi>f</mi></msub></mstyle></math></span></span></p>",
+        "value": "i3"
+      },
+      {
+        "label": "<p class=\"choice_paragraph\"><span class=\"math_expression\"><span aria-label=\"one third alpha squared times R sub 0, end sub, times t sub f, end sub, cubed\"><math alttext=\"one third alpha squared times R sub 0, end sub, times t sub f, end sub, cubed\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mn>1</mn><mn>3</mn></mfrac><msup><mi>α</mi><mn>2</mn></msup><msub><mi>R</mi><mn>0</mn></msub><msubsup><mi>t</mi><mi>f</mi><mn>3</mn></msubsup></mstyle></math></span></span></p>",
+        "value": "i4"
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.4",
+    "text": "11.4: Electric Power"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

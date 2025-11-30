@@ -1,0 +1,39 @@
+{
+  "id": "KRV000001",
+  "type": "mcq",
+  "title": "Print leftmost digit of n - fix error",
+  "content": {
+    "prompt": "<p class=\"dap_body\">This code segment is intended to print the leftmost digit of&nbsp; <span class=\"dap_inline\">n</span>.&nbsp; For example, if&nbsp; <span class=\"dap_inline\">n</span>&nbsp; is&nbsp; <span class=\"dap_inline\">302</span>,&nbsp; this code segment should print&nbsp; <span class=\"dap_inline\">3</span>.&nbsp; However, this code segment is not working as intended. Which of the following changes can be made so that this code segment works as intended?</p>",
+    "answer": "1717337883827.6467",
+    "choices": [
+      {
+        "value": "1717337883827.6467",
+        "label": "<p class=\"dap_body\">In line 1, changing the condition&nbsp; <span class=\"dap_inline\">n &gt; 0</span>&nbsp; to&nbsp; <span class=\"dap_inline\">n&nbsp;/&nbsp;10&nbsp;&gt;&nbsp;0</span></p>"
+      },
+      {
+        "value": "1717337883827.7815",
+        "label": "<p class=\"dap_body\">In line 1, changing the condition&nbsp; <span class=\"dap_inline\">n &gt; 0</span>&nbsp; to&nbsp; <span class=\"dap_inline\">n&nbsp;%&nbsp;10&nbsp;&gt;&nbsp;0</span></p>"
+      },
+      {
+        "value": "1717337883827.0486",
+        "label": "<p class=\"dap_body\">In line 3, changing the statement&nbsp; <span class=\"dap_inline\">n /= 10</span>&nbsp; to&nbsp; <span class=\"dap_inline\">n&nbsp;-=&nbsp;10</span></p>"
+      },
+      {
+        "value": "1717337883827.0823",
+        "label": "<p class=\"dap_body\">In line 3, changing the statement&nbsp; <span class=\"dap_inline\">n /= 10</span>&nbsp; to&nbsp; <span class=\"dap_inline\">n&nbsp;%=&nbsp;10</span></p>"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.9",
+    "text": "2.9: Implementing Selection and Iteration Algorithms"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}
