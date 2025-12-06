@@ -1,0 +1,41 @@
+{
+  "id": "VR442155",
+  "type": "mcq",
+  "title": "print values of k",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "for (int k = 0; k < 9; k = k + 2) { if ((k % 2) != 0) { System.out.print(k + \" \"); } } What, if anything, is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "0 2 4 6 8",
+        "image": null
+      },
+      {
+        "label": "1 3 5 7 9",
+        "image": null
+      },
+      {
+        "label": "1 3 5 7",
+        "image": null
+      },
+      {
+        "label": "Nothing is printed.",
+        "image": null
+      }
+    ],
+    "answer": "Nothing is printed."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

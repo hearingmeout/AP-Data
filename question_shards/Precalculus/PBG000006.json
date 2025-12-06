@@ -1,0 +1,41 @@
+{
+  "id": "PBG000006",
+  "type": "mcq",
+  "title": "Matrix Modeling - high school language study",
+  "content": {
+    "description": "",
+    "question": "At a certain high school, students are required to study Spanish or French during each of their four years in high school. Students may switch languages between school years but must take the next appropriate level in that language. Past data have shown that among year-one, year-two, and year-three students, those who study Spanish in a given year switch to French <math alttext=\"20 percent sign\"><mn>20</mn><mo>%</mo></math> of the time, and those who study French in a given year switch to Spanish <math alttext=\"40 percent sign\"><mn>40</mn><mo>%</mo></math> of the time. In a given year, there are a total of <math alttext=\"257\"><mn>257</mn></math> year-one, year-two, and year-three students studying Spanish and a total of <math alttext=\"337\"><mn>337</mn></math> year-one, year-two, and year-three students studying French. Which of the following best approximates the total number of these students studying each language the following year?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"a 2 by 2 matrix with row 1 column 1 value 0.8, row 1 column 2 value 0.4, row 2 column 1 value 0.2, row 2 column 2 value 0.6 end matrix times a 2 by 1 matrix with row 1 column 1 value 257, row 2 column 1 value 337\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>0.8</mn></mtd><mtd><mn>0.4</mn></mtd></mtr><mtr><mtd><mn>0.2</mn></mtd><mtd><mn>0.6</mn></mtd></mtr></mtable></mfenced><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>257</mn></mtd></mtr><mtr><mtd><mn>337</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"a 2 by 2 matrix with row 1 column 1 value 0.2, row 1 column 2 value 0.6, row 2 column 1 value 0.8, row 2 column 2 value 0.4 end matrix times a 2 by 1 matrix with row 1 column 1 value 257, row 2 column 1 value 337\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>0.2</mn></mtd><mtd><mn>0.6</mn></mtd></mtr><mtr><mtd><mn>0.8</mn></mtd><mtd><mn>0.4</mn></mtd></mtr></mtable></mfenced><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>257</mn></mtd></mtr><mtr><mtd><mn>337</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"a 2 by 2 matrix with row 1 column 1 value 0.4, row 1 column 2 value 0.8, row 2 column 1 value 0.6, row 2 column 2 value 0.2 end matrix times a 2 by 1 matrix with row 1 column 1 value 257, row 2 column 1 value 337\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>0.4</mn></mtd><mtd><mn>0.8</mn></mtd></mtr><mtr><mtd><mn>0.6</mn></mtd><mtd><mn>0.2</mn></mtd></mtr></mtable></mfenced><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>257</mn></mtd></mtr><mtr><mtd><mn>337</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"a 2 by 2 matrix with row 1 column 1 value 0.6, row 1 column 2 value 0.2, row 2 column 1 value 0.4, row 2 column 2 value 0.8 end matrix times a 2 by 1 matrix with row 1 column 1 value 257, row 2 column 1 value 337\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>0.6</mn></mtd><mtd><mn>0.2</mn></mtd></mtr><mtr><mtd><mn>0.4</mn></mtd><mtd><mn>0.8</mn></mtd></mtr></mtable></mfenced><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>257</mn></mtd></mtr><mtr><mtd><mn>337</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"a 2 by 2 matrix with row 1 column 1 value 0.8, row 1 column 2 value 0.4, row 2 column 1 value 0.2, row 2 column 2 value 0.6 end matrix times a 2 by 1 matrix with row 1 column 1 value 257, row 2 column 1 value 337\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>0.8</mn></mtd><mtd><mn>0.4</mn></mtd></mtr><mtr><mtd><mn>0.2</mn></mtd><mtd><mn>0.6</mn></mtd></mtr></mtable></mfenced><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>257</mn></mtd></mtr><mtr><mtd><mn>337</mn></mtd></mtr></mtable></mfenced></math>"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.14",
+    "text": "4.14: Matrices Modeling Contexts"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Apply numerical results in a given mathematical or applied context."
+  }
+}

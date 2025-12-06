@@ -1,0 +1,41 @@
+{
+  "id": "ZYP000005",
+  "type": "mcq",
+  "title": "Parse method with text file - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following can replace /* missing expression */ so that the code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Double.parseDouble(scan.next())",
+        "image": null
+      },
+      {
+        "label": "Integer.parseInt(scan.next())",
+        "image": null
+      },
+      {
+        "label": "Integer.parseInt(scan.nextInt())",
+        "image": null
+      },
+      {
+        "label": "Integer.parseInt(scan.nextLine())",
+        "image": null
+      }
+    ],
+    "answer": "Integer.parseInt(scan.next())"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.7",
+    "text": "4.7: Wrapper Classes"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

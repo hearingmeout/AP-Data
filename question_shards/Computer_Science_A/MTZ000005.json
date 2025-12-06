@@ -1,0 +1,41 @@
+{
+  "id": "MTZ000005",
+  "type": "mcq",
+  "title": "StringFinder - determine result",
+  "content": {
+    "description": "",
+    "question": "What is printed as a result of executing this code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "-1 -1 -1",
+        "image": null
+      },
+      {
+        "label": "-1 2 0",
+        "image": null
+      },
+      {
+        "label": "-1 2 4",
+        "image": null
+      },
+      {
+        "label": "0 2 4",
+        "image": null
+      }
+    ],
+    "answer": "-1 2 0"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.7",
+    "text": "3.7: Class Variables and Methods"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

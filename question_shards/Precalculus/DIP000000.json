@@ -1,0 +1,41 @@
+{
+  "id": "DIP000000",
+  "type": "mcq",
+  "title": "Function Model Construction - model rocket",
+  "content": {
+    "description": "",
+    "question": "​A model rocket is launched from a site on level ground. One second after the rocket is launched, it is at a height of <math alttext=\"20.1\"><mn>20.1</mn></math> meters above the ground. One additional second later, it is at a height of <math alttext=\"30.4\"><mn>30.4</mn></math> meters above the ground. A quadratic regression using the heights of the rocket at times <math alttext=\"t equals 0\"><mi>t</mi><mo>=</mo><mn>0</mn></math>, <math alttext=\"t equals 1\"><mi>t</mi><mo>=</mo><mn>1</mn></math>, and <math alttext=\"t equals 2\"><mi>t</mi><mo>=</mo><mn>2</mn></math> seconds is calculated to model the rocket’s height above the ground, in meters, at time <math alttext=\"t\"><mi>t</mi></math> seconds. At what time <math alttext=\"t\"><mi>t</mi></math> seconds, does the model predict that the rocket will land back on the ground?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"t equals 2.551\"><mi>t</mi><mo>=</mo><mn>2.551</mn></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"t equals 4.000\"><mi>t</mi><mo>=</mo><mn>4.000</mn></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"t equals 5.000\"><mi>t</mi><mo>=</mo><mn>5.000</mn></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"t equals 5.102\"><mi>t</mi><mo>=</mo><mn>5.102</mn></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"t equals 5.102\"><mi>t</mi><mo>=</mo><mn>5.102</mn></math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Polynomial and Rational Functions"
+  },
+  "topic": {
+    "code": "1.14",
+    "text": "1.14: Function Model Construction and Application"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Apply numerical results in a given mathematical or applied context."
+  }
+}

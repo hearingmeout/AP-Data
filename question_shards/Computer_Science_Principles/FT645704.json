@@ -1,0 +1,37 @@
+{
+  "id": "FT645704",
+  "type": "mcq",
+  "title": "Finding the maximum value of three using MAX",
+  "content": {
+    "description": "",
+    "question": "Which of the following expressions will produce the desired result in every case?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Max, open parenthesis, a comma b, close parenthesis, comma, c, close parenthesis",
+        "image": "https://ap.oly.st/images/078aafc7cdf9c3e2bba8163d07ac997f.jpg"
+      },
+      {
+        "label": "Max, open parenthesis, a comma b, close parenthesis, minus Max, open parenthesis, b comma c, close parenthesis",
+        "image": "https://ap.oly.st/images/68bdb3b0ebb5563292ed2a8649774c0b.jpg"
+      },
+      {
+        "label": "Max, open parenthesis, a comma b, close parenthesis, plus Max, open parenthesis b comma c, close parenthesis, minus Max, open parenthesis, a comma c, close parenthesis",
+        "image": "https://ap.oly.st/images/a6d989bb10f5c1dec824eb39b31df1fe.jpg"
+      },
+      {
+        "label": "Max, open parenthesis, a comma b, close parenthesis, plus Max, open parenthesis, b comma c, close parenthesis, close parenthesis, slash 2",
+        "image": "https://ap.oly.st/images/78f294724425ab1502f4c78b78490002.jpg"
+      }
+    ],
+    "answer": "Max, open parenthesis, a comma b, close parenthesis, comma, c, close parenthesis"
+  },
+  "topic": {
+    "code": "3.12",
+    "text": "3.12: Calling Procedures"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Use abstraction to manage complexity in a program."
+  }
+}

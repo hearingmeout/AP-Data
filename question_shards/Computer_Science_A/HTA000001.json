@@ -1,0 +1,41 @@
+{
+  "id": "HTA000001",
+  "type": "mcq",
+  "title": "Precondition to avoid overflow - describe conditi",
+  "content": {
+    "description": "",
+    "question": "Which of the following preconditions for the method is most appropriate to avoid an overflow error?",
+    "image": null,
+    "choices": [
+      {
+        "label": "/** Precondition: num1 and num2 are both positive. */",
+        "image": null
+      },
+      {
+        "label": "/** Precondition: num1 is not equal to num2 */",
+        "image": null
+      },
+      {
+        "label": "/** Preconditions: num1 is between Integer.MIN_VALUE * and Integer.MAX_VALUE, inclusive. * num2 is between Integer.MIN_VALUE * and Integer.MAX_VALUE, inclusive. */",
+        "image": null
+      },
+      {
+        "label": "/** Precondition: (num1 + num2) is between Integer.MIN_VALUE * and Integer.MAX_VALUE, inclusive. */",
+        "image": null
+      }
+    ],
+    "answer": "/** Precondition: (num1 + num2) is between Integer.MIN_VALUE * and Integer.MAX_VALUE, inclusive. */"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.5",
+    "text": "1.5: Casting and Range of Variables"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

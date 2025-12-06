@@ -1,0 +1,41 @@
+{
+  "id": "OOQ000010",
+  "type": "mcq",
+  "title": "Print a equals equals b - determine result",
+  "content": {
+    "description": "",
+    "question": "What is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "10",
+        "image": null
+      },
+      {
+        "label": "10 == 10",
+        "image": null
+      },
+      {
+        "label": "true",
+        "image": null
+      },
+      {
+        "label": "false",
+        "image": null
+      }
+    ],
+    "answer": "true"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Boolean Expressions"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

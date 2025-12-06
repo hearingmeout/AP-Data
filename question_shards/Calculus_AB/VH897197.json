@@ -1,0 +1,41 @@
+{
+  "id": "VH897197",
+  "type": "mcq",
+  "title": "Justification - Absolute-Conditional Convergence",
+  "content": {
+    "description": "",
+    "question": "Which of the following series is conditionally convergent?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the sum, from n equals 1, to infinity, of, the fraction with numerator sine n, and denominator n squared, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mrow><munderover><mo>∑</mo><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><mfrac><mrow><mi>sin</mi><mo>⁡</mo><mrow><mo>(</mo><mi>n</mi><mo>)</mo></mrow></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the sum, from n equals 1, to infinity, of, open parenthesis, negative 1, close parenthesis, raised to the n plus 1, power, times the fraction with numerator 17 plus n, and denominator the square root of n\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><munderover><mo>∑</mo><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><msup><mrow><mo>(</mo><mrow><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msup><mfrac><mrow><mn>17</mn><mo>+</mo><mi>n</mi></mrow><mrow><msqrt><mrow><mi>n</mi></mrow></msqrt></mrow></mfrac></mrow></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the sum, from n equals 1, to infinity, of, open parenthesis, negative 1, close parenthesis, raised to the n plus 1, power, times the fraction with numerator 17 plus the square root of n, and denominator n\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><munderover><mo>∑</mo><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><msup><mrow><mo>(</mo><mrow><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msup><mfrac><mrow><mn>17</mn><mo>+</mo><msqrt><mrow><mi>n</mi></mrow></msqrt></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the sum, from n equals 1, to infinity, of, open parenthesis, negative 1, close parenthesis, raised to the n plus 1, power, times, open parenthesis, the fraction 1 over 17, close parenthesis, to the n power\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><munderover><mo>∑</mo><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><msup><mrow><mo>(</mo><mrow><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msup><mrow><mo>(</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>17</mn></mrow></mfrac><msup><mrow><mo>)</mo></mrow><mrow><mi>n</mi></mrow></msup></mrow></mrow></mrow></mstyle></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the sum, from n equals 1, to infinity, of, open parenthesis, negative 1, close parenthesis, raised to the n plus 1, power, times the fraction with numerator 17 plus the square root of n, and denominator n\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><munderover><mo>∑</mo><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><msup><mrow><mo>(</mo><mrow><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msup><mfrac><mrow><mn>17</mn><mo>+</mo><msqrt><mrow><mi>n</mi></mrow></msqrt></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mrow></mstyle></mrow></math>"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.9",
+    "text": "10.9: (BC ONLY) Determining Absolute or Conditional Convergence"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

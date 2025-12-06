@@ -1,0 +1,41 @@
+{
+  "id": "VH964066",
+  "type": "mcq",
+  "title": "how many values printed in traversal of array2D",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "int[][] array2D = {{1, 2, 3, 4},{5, 6, 7, 8},{9, 10, 11, 12},{13, 14, 15, 16}};for (int[] i : array2D){for (int x : i){System.out.print(x + \" \");}System.out.println(\" \");}How many times will the statement System.out.print(x + \" \") be executed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "4 times",
+        "image": null
+      },
+      {
+        "label": "6 times",
+        "image": null
+      },
+      {
+        "label": "12 times",
+        "image": null
+      },
+      {
+        "label": "16 times",
+        "image": null
+      }
+    ],
+    "answer": "16 times"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.12",
+    "text": "4.12: 2D Array Traversals"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

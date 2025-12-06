@@ -1,0 +1,41 @@
+{
+  "id": "IKF000000",
+  "type": "mcq",
+  "title": "Sine and Cosine - area of triangle",
+  "content": {
+    "description": "The circle passes through the points (1 comma 0) and (0 comma 1). Point Q is on the x axis between the origin and (1 comma 0). Point P is at the intersection of the circle and a ray from the origin into the first quadrant. A segment from point P to point Q is perpendicular to the x axis. A right triangle is formed by the origin, point P, and point Q. ​",
+    "question": "​​The figure shows the terminal ray of an angle in standard position intersecting the unit circle at point <math alttext=\"P\"><semantics><mi>P</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> in the <math alttext=\"x y\"><semantics><mrow><mi>x</mi><mi>y</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>-plane. Segment <math alttext=\"P Q\"><semantics><mrow><mi>P</mi><mi>Q</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is perpendicular to the <math alttext=\"x\"><semantics><mi>x</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>-axis. A triangle is formed by the points at the origin, <math alttext=\"P\"><semantics><mi>P</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, and <math alttext=\"Q\"><semantics><mi>Q</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. The function <math alttext=\"A\"><semantics><mi>A</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> gives the area of the triangle, <math alttext=\"A open parentheses theta close parentheses\"><semantics><mrow><mi>A</mi><mfenced><mi>θ</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, based on the measure of the angle <math alttext=\"theta\"><semantics><mi>θ</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, in radians. What is the value of <math alttext=\"A open parentheses pi over 3 close parentheses\"><semantics><mrow><mi>A</mi><mfenced><mfrac><mi>π</mi><mn>3</mn></mfrac></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ? (Note: The area of a triangle with base <math alttext=\"b\"><semantics><mi>b</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> and height <math alttext=\"h\"><semantics><mi>h</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is <math alttext=\"A equals 1 half b h\"><semantics><mrow><mi>A</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>b</mi><mi>h</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>.)",
+    "image": "https://ap.oly.st/images/c0eb5e29de7e531f6035c3d2b3fdd9d7.svg",
+    "choices": [
+      {
+        "label": "​<math alttext=\"fraction numerator square root of 3 over denominator 8 end fraction\"><semantics><mfrac><msqrt><mn>3</mn></msqrt><mn>8</mn></mfrac><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"fraction numerator square root of 3 over denominator 4 end fraction\"><semantics><mfrac><msqrt><mn>3</mn></msqrt><mn>4</mn></mfrac><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"1 half\"><semantics><mfrac><mn>1</mn><mn>2</mn></mfrac><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"fraction numerator square root of 3 over denominator 2 end fraction\"><semantics><mfrac><msqrt><mn>3</mn></msqrt><mn>2</mn></mfrac><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"fraction numerator square root of 3 over denominator 8 end fraction\"><semantics><mfrac><msqrt><mn>3</mn></msqrt><mn>8</mn></mfrac><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Trigonometric and Polar Functions"
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Sine and Cosine Function Values"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Apply numerical results in a given mathematical or applied context."
+  }
+}

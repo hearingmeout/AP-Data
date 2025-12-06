@@ -1,0 +1,45 @@
+{
+  "id": "FT1817",
+  "type": "mcq",
+  "title": "Basic trig integration rules",
+  "content": {
+    "description": "",
+    "question": "<math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <mo>∫</mo> <mrow> <mi>sec</mi> </mrow> </mrow> </mstyle> <mi>x</mi> <mtext> </mtext> <mi>tan</mi> <mi>x</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk 0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr 0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbm aapeaapaqaa8qaciGGZbGaaiyzaiaacogaaSqabeqaniabgUIiYdGc caWG4bWdaiaaysW7peGaciiDaiaacggacaGGUbGaamiEaaaa@4481@ </annotation> </semantics> </math> dx =",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <semantics> <mrow> <mi>sec</mi><mi>x</mi><mo>+</mo><mi>C</mi></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk 0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr 0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbi GacohacaGGLbGaai4yaiaadIhacqGHRaWkcaWGdbaaaa@3E8D@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mi>tan</mi><mi>x</mi><mo>+</mo><mi>C</mi></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk 0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr 0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbi GacshacaGGHbGaaiOBaiaadIhacqGHRaWkcaWGdbaaaa@3E95@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mrow> <msup> <mrow> <mi>sec</mi></mrow> <mn>2</mn> </msup> <mi>x</mi></mrow> <mn>2</mn> </mfrac> <mo>+</mo><mi>C</mi></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk 0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr 0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbm aalaaapaqaa8qaciGGZbGaaiyzaiaacogapaWaaWbaaSqabeaapeGa aGOmaaaakiaadIhaa8aabaWdbiaaikdaaaGaey4kaSIaam4qaaaa@40A9@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mrow> <msup> <mrow> <mi>tan</mi></mrow> <mn>2</mn> </msup> <mi>x</mi></mrow> <mn>2</mn> </mfrac> <mo>+</mo><mi>C</mi></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk 0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr 0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbm aalaaapaqaa8qaciGG0bGaaiyyaiaac6gapaWaaWbaaSqabeaapeGa aGOmaaaakiaadIhaa8aabaWdbiaaikdaaaGaey4kaSIaam4qaaaa@40B1@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mrow> <msup> <mrow> <mi>sec</mi></mrow> <mn>2</mn> </msup> <mi>x</mi><msup> <mrow> <mi>tan</mi></mrow> <mn>2</mn> </msup> <mi>x</mi></mrow> <mn>2</mn> </mfrac> <mo>+</mo><mi>C</mi></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk 0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr 0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbm aalaaapaqaa8qaciGGZbGaaiyzaiaacogapaWaaWbaaSqabeaapeGa aGOmaaaakiaadIhaciGG0bGaaiyyaiaac6gapaWaaWbaaSqabeaape GaaGOmaaaakiaadIhaa8aabaWdbiaaikdaaaGaey4kaSIaam4qaaaa @4589@ </annotation> </semantics> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <semantics> <mrow> <mi>sec</mi><mi>x</mi><mo>+</mo><mi>C</mi></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk 0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr 0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbi GacohacaGGLbGaai4yaiaadIhacqGHRaWkcaWGdbaaaa@3E8D@ </annotation> </semantics> </math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.8",
+    "text": "6.8: Finding Antiderivatives and Indefinite Integrals - Basic Rules and Notation"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Use appropriate mathematical symbols and notation (e.g., Represent a derivative using ƒ'(x), y', and dy/dx)."
+  }
+}

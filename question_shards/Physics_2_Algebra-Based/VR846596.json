@@ -1,0 +1,41 @@
+{
+  "id": "VR846596",
+  "type": "mcq",
+  "title": "Kirchhoff junction - rank I in 4 of 5 resistors",
+  "content": {
+    "description": "",
+    "question": "A circuit consists of five identical resistors and a battery, as shown in the figure. Four of the resistors are labeled <math alttext=\"W\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">W</mi></math>, <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">X</mi></math>, <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Y</mi></math>, and <math alttext=\"Z\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Z</mi></math>. Which of the following correctly compares the magnitudes <math alttext=\"I sub W\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mi mathvariant=\"normal\">W</mi></msub></math>, <math alttext=\"I sub X\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mi mathvariant=\"normal\">X</mi></msub></math>, <math alttext=\"I sub Y\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mi mathvariant=\"normal\">Y</mi></msub></math>, and <math alttext=\"I sub Z\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mi mathvariant=\"normal\">Z</mi></msub></math> of the currents in the four labeled resistors?",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_2_Algebra-Based/b124d2976a10a265645a094d703803be.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"I sub W equals I sub X, which equals I sub Y, which equals I sub Z\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mtext>W</mtext></msub><mo>=</mo><msub><mi>I</mi><mtext>X</mtext></msub><mo>=</mo><msub><mi>I</mi><mtext>Y</mtext></msub><mo>=</mo><msub><mi>I</mi><mtext>Z</mtext></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open parenthesis, I sub X equals I sub Z, close parenthesis, is greater than open parenthesis, I sub W equals I sub Y, which equals 0, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mrow><mo>(</mo><msub><mi>I</mi><mtext>X</mtext></msub><mo>=</mo><msub><mi>I</mi><mtext>Z</mtext></msub><mo>)</mo></mrow><mo>&gt;</mo><mrow><mo>(</mo><msub><mi>I</mi><mtext>W</mtext></msub><mo>=</mo><msub><mi>I</mi><mtext>Y</mtext></msub><mo>=</mo><mn>0</mn><mo>)</mo></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open parenthesis, I sub X equals I sub Z, close parenthesis, is greater than open parenthesis, I sub W equals I sub Y, close parenthesis, which is greater than 0\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mo>(</mo><msub><mi>I</mi><mtext>X</mtext></msub><mo>=</mo><msub><mi>I</mi><mtext>Z</mtext></msub><mo>)</mo></mrow><mo>&gt;</mo><mrow><mo>(</mo><msub><mi>I</mi><mtext>W</mtext></msub><mo>=</mo><msub><mi>I</mi><mtext>Y</mtext></msub><mo>)</mo></mrow><mo>&gt;</mo><mn>0</mn></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"I sub Z, is greater than open parenthesis, I sub W equals I sub X, which equals I sub Y, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>I</mi><mtext>Z</mtext></msub><mo>&gt;</mo><mrow><mo>(</mo><msub><mi>I</mi><mtext>W</mtext></msub><mo>=</mo><msub><mi>I</mi><mtext>X</mtext></msub><mo>=</mo><msub><mi>I</mi><mtext>Y</mtext></msub><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"I sub Z, is greater than open parenthesis, I sub W equals I sub X, which equals I sub Y, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>I</mi><mtext>Z</mtext></msub><mo>&gt;</mo><mrow><mo>(</mo><msub><mi>I</mi><mtext>W</mtext></msub><mo>=</mo><msub><mi>I</mi><mtext>X</mtext></msub><mo>=</mo><msub><mi>I</mi><mtext>Y</mtext></msub><mo>)</mo></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.7",
+    "text": "11.7: Kirchhoff's Junction Rule"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

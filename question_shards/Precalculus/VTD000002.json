@@ -1,0 +1,41 @@
+{
+  "id": "VTD000002",
+  "type": "mcq",
+  "title": "Exponential Modeling - bacteria growth",
+  "content": {
+    "description": "",
+    "question": "​The number of bacteria in a dish is <math alttext=\"1150\"><semantics><mn>1150</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> at time <math alttext=\"t equals 0\"><semantics><mrow><mi>t</mi><mo>=</mo><mn>0</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> hours. The number of bacteria in the dish doubles every <math alttext=\"3\"><semantics><mn>3</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> hours. If the function <math alttext=\"B\"><semantics><mi>B</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> gives the number of bacteria in the dish at time <math alttext=\"t\"><semantics><mi>t</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> hours for <math alttext=\"t greater or equal than 0\"><semantics><mrow><mi>t</mi><mo>≥</mo><mn>0</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, which of the following could define <math alttext=\"B open parentheses t close parentheses\"><semantics><mrow><mi>B</mi><mfenced><mi>t</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"1150 times open parentheses cube root of 2 close parentheses to the power of open parentheses t divided by 3 close parentheses end exponent\"><semantics><mrow><mn>1150</mn><mo>·</mo><msup><mfenced><mroot><mn>2</mn><mn>3</mn></mroot></mfenced><mfenced><mrow><mi>t</mi><mo>/</mo><mn>3</mn></mrow></mfenced></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"1150 times 2 to the power of t\"><semantics><mrow><mn>1150</mn><mo>·</mo><msup><mn>2</mn><mi>t</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"1150 times open parentheses 2 cubed close parentheses to the power of t\"><semantics><mrow><mn>1150</mn><mo>·</mo><msup><mfenced><msup><mn>2</mn><mn>3</mn></msup></mfenced><mi>t</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"1150 times 2 to the power of open parentheses t divided by 3 close parentheses end exponent\"><semantics><mrow><mn>1150</mn><mo>·</mo><msup><mn>2</mn><mfenced><mrow><mi>t</mi><mo>/</mo><mn>3</mn></mrow></mfenced></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"1150 times 2 to the power of open parentheses t divided by 3 close parentheses end exponent\"><semantics><mrow><mn>1150</mn><mo>·</mo><msup><mn>2</mn><mfenced><mrow><mi>t</mi><mo>/</mo><mn>3</mn></mrow></mfenced></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.5",
+    "text": "2.5: Exponential Function Context and Data Modeling"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

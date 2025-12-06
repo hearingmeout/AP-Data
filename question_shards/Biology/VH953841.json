@@ -1,0 +1,41 @@
+{
+  "id": "VH953841",
+  "type": "mcq",
+  "title": "Tomato Plants",
+  "content": {
+    "description": "In a strain of tomato plants, short plant height and small fruit size are traits that display autosomal recessive patterns of inheritance. To investigate whether the traits segregate independently, researchers cross a pure-breeding line of tall tomato plants that have large fruits with a pure-breeding line of short tomato plants that have small fruits. The researchers observe that all the plants in the <math alttext=\"F 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>F</mtext></mrow><mrow><mtext>1</mtext></mrow></msub></mrow></mstyle></math> generation are tall and have large fruits. The researchers cross the <math alttext=\"F 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>F</mtext></mrow><mrow><mtext>1</mtext></mrow></msub></mrow></mstyle></math> plants with one another to generate an <math alttext=\"F 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>F</mtext></mrow><mrow><mtext>2</mtext></mrow></msub></mrow></mstyle></math> generation. The researchers record observations for the <math alttext=\"F 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>F</mtext></mrow><mrow><mtext>2</mtext></mrow></msub></mrow></mstyle></math> generation and will use the data to perform a chi-square goodness-of-fit test for a model of independent assortment. The setup for the chi-square goodness-of-fit test is shown in Table 1.",
+    "question": "Table 1. Observed and expected counts of tomato plants in the <math alttext=\"F 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>F</mtext></mrow><mrow><mtext>2</mtext></mrow></msub></mrow></mstyle></math> generation Phenotype Observed Expected Tall plant with large fruits 104 90 Tall plant with small fruits 17 30 Short plant with large fruits 26 30 Short plant with small fruits 13 10 The researchers choose a significance level of <math alttext=\"p equals 0.05\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi><mo>=</mo><mn>0.05</mn></mrow></mstyle></math>. Which of the following best completes the chi-square goodness-of-fit test?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The calculated chi-square value is 9.24, and the critical value is 7.82. The null hypothesis of independent assortment can be rejected.",
+        "image": null
+      },
+      {
+        "label": "The calculated chi-square value is 9.24, and the critical value is 9.49. The null hypothesis of independent assortment cannot be rejected.",
+        "image": null
+      },
+      {
+        "label": "The calculated chi-square value is 13.13, and the critical value is 7.82. The null hypothesis of independent assortment can be rejected.",
+        "image": null
+      },
+      {
+        "label": "The calculated chi-square value is 13.13, and the critical value is 9.49. The null hypothesis of independent assortment cannot be rejected.",
+        "image": null
+      }
+    ],
+    "answer": "The calculated chi-square value is 9.24, and the critical value is 7.82. The null hypothesis of independent assortment can be rejected."
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Heredity"
+  },
+  "topic": {
+    "code": "5.3",
+    "text": "5.3: Mendelian Genetics"
+  },
+  "skill": {
+    "code": "5.C",
+    "text": "5.C: Perform chi-square hypothesis testing."
+  }
+}

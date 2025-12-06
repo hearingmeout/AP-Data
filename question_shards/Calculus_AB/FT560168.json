@@ -1,0 +1,41 @@
+{
+  "id": "FT560168",
+  "type": "mcq",
+  "title": "Inflection points from several second derivatives",
+  "content": {
+    "description": "<math> <mrow> <msup> <mi>f</mi> <mo>″</mo> </msup> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mi>x</mi> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>−</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mn>2</mn> </msup> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>+</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mn>3</mn> </msup> </mrow> </math>",
+    "question": "<math> <mrow> <msup> <mi>g</mi> <mo>″</mo> </msup> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mi>x</mi> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>−</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mn>2</mn> </msup> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>+</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mn>3</mn> </msup> <mo>+</mo> <mn>1</mn> </mrow> </math> <math> <mrow> <msup> <mi>h</mi> <mo>″</mo> </msup> <mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mo>=</mo><mi>x</mi><msup> <mrow> <mrow><mo>(</mo> <mrow> <mi>x</mi><mo>−</mo><mn>1</mn></mrow> <mo>)</mo></mrow></mrow> <mn>2</mn> </msup> <msup> <mrow> <mrow><mo>(</mo> <mrow> <mi>x</mi><mo>+</mo><mn>2</mn></mrow> <mo>)</mo></mrow></mrow> <mn>3</mn> </msup> <mo>−</mo><mn>1</mn></mrow> </math> The twice-differentiable functions f, g, and h have second derivatives given above. Which of the functions f, g, and h have a graph with exactly two points of inflection?",
+    "image": null,
+    "choices": [
+      {
+        "label": "g only",
+        "image": null
+      },
+      {
+        "label": "h only",
+        "image": null
+      },
+      {
+        "label": "f and g only",
+        "image": null
+      },
+      {
+        "label": "f, g, and h",
+        "image": null
+      }
+    ],
+    "answer": "f and g only"
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.6",
+    "text": "5.6: Determining Concavity of Functions over Their Domains"
+  },
+  "skill": {
+    "code": "Skill 2.E",
+    "text": "Skill 2.E: Describe the relationships among different representations of functions and their derivatives."
+  }
+}

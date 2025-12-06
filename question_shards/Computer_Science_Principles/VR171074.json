@@ -1,0 +1,37 @@
+{
+  "id": "VR171074",
+  "type": "mcq",
+  "title": "Bookstore spreadsheet",
+  "content": {
+    "description": "A large spreadsheet contains the following information about the books at a bookstore. A sample portion of the spreadsheet is shown below.",
+    "question": "A Book Title B Author C Genre D Number of Copies in Stock E Cost (in dollars) 1 Little Women Louisa May Alcott Fiction 3 13.95 2 The Secret Adversary Agatha Christie Mystery 2 12.95 3 A Study in Scarlet Arthur Conan Doyle Mystery 0 8.99 4 The Hound of the Baskervilles Arthur Conan Doyle Mystery 1 8.95 5 Les Misérables Victor Hugo Fiction 1 12.99 6 Frankenstein Mary Shelley Horror 2 11.95 An employee wants to count the number of books that meet all of the following criteria. Is a mystery book Costs less than $10.00 Has at least one copy in stock For a given row in the spreadsheet, suppose genre contains the genre as a string, num contains the number of copies in stock as a number, and cost contains the cost as a number. Which of the following expressions will evaluate to true if the book should be counted and evaluates to false otherwise?",
+    "image": null,
+    "choices": [
+      {
+        "label": "(genre = \"mystery\") AND ((1 ≤ num) AND (cost < 10.00))",
+        "image": null
+      },
+      {
+        "label": "(genre = \"mystery\") AND ((1 < num) AND (cost < 10.00))",
+        "image": null
+      },
+      {
+        "label": "(genre = \"mystery\") OR ((1 ≤ num) OR (cost < 10.00))",
+        "image": null
+      },
+      {
+        "label": "(genre = \"mystery\") OR ((1 < num) OR (cost < 10.00))",
+        "image": null
+      }
+    ],
+    "answer": "(genre = \"mystery\") AND ((1 ≤ num) AND (cost < 10.00))"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Using Programs with Data"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

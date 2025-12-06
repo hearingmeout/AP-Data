@@ -1,0 +1,41 @@
+{
+  "id": "VH935212",
+  "type": "mcq",
+  "title": "effect of changing nested for loops",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "for (int x = 0; x <= 4; x++) // Line 1{for (int y = 0; y < 4; y++) // Line 3{System.out.print(\"a\");}System.out.println();}Which of the following best explains the effect of simultaneously changing x <= 4 to x < 4 in line 1 and y < 4 to y <= 4 in line 3 ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "\"a\" will be printed fewer times because while each output line will have the same length as before, the number of lines printed will decrease by 1.",
+        "image": null
+      },
+      {
+        "label": "\"a\" will be printed more times because while the number of output lines will be the same as before, the length of each output line will increase by 1.",
+        "image": null
+      },
+      {
+        "label": "\"a\" will be printed the same number of times because while the number of output lines will decrease by 1, the length of each line will increase by 1.",
+        "image": null
+      },
+      {
+        "label": "The output of the code segment will not change in any way.",
+        "image": null
+      }
+    ],
+    "answer": "\"a\" will be printed the same number of times because while the number of output lines will decrease by 1, the length of each line will increase by 1."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.11",
+    "text": "2.11: Nested Iteration"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

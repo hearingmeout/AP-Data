@@ -1,0 +1,41 @@
+{
+  "id": "MDT000004",
+  "type": "mcq",
+  "title": "Indexed and enhanced for loops - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following code segments will produce the same output as the given code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "int sum = 0; for (int k = 0; k < arr.length; k++) { sum = sum + 2 * k; } System.out.print(sum);",
+        "image": null
+      },
+      {
+        "label": "int sum = 0; for (int k = 0; k <= arr.length; k++) { sum = sum + 2 * k; } System.out.print(sum);",
+        "image": null
+      },
+      {
+        "label": "int sum = 0; for (int k = 0; k < arr.length; k++) { sum = sum + 2 * arr[k]; } System.out.print(sum);",
+        "image": null
+      },
+      {
+        "label": "int sum = arr[0]; for (int k = 1; k <= arr.length; k++) { sum = sum + 2 * arr[k]; } System.out.print(sum);",
+        "image": null
+      }
+    ],
+    "answer": "int sum = 0; for (int k = 0; k < arr.length; k++) { sum = sum + 2 * arr[k]; } System.out.print(sum);"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.4",
+    "text": "4.4: Array Traversals"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

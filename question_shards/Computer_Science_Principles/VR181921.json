@@ -1,0 +1,37 @@
+{
+  "id": "VR181921",
+  "type": "mcq",
+  "title": "Modify code to count number of robot moves",
+  "content": {
+    "description": "The following question uses a robot in a grid of squares. The robot is represented as a triangle, which is initially facing toward the top of the grid.",
+    "question": "The following code segment moves the robot around the grid. Assume that n is a positive integer. Line 1: count <math alttext=\"←\" overflow=\"scroll\"><mrow><mo>←</mo></mrow></math> 0 Line 2: REPEAT n TIMES Line 3: { Line 4: REPEAT 2 TIMES Line 5: { Line 6: MOVE_FORWARD() Line 7: } Line 8: ROTATE_RIGHT() Line 9: } Consider the goal of modifying the code segment to count the number of squares the robot visits before execution terminates. Which of the following modifications can be made to the code segment to correctly count the number of squares the robot moves to?",
+    "image": "https://ap.oly.st/images/d5b7b677d2ce36a6375091caac999f76.png",
+    "choices": [
+      {
+        "label": "Inserting the statement count ← count + 1 between line 6 and line 7",
+        "image": null
+      },
+      {
+        "label": "Inserting the statement count ← count + 2 between line 6 and line 7",
+        "image": null
+      },
+      {
+        "label": "Inserting the statement count ← count + 1 between line 8 and line 9",
+        "image": null
+      },
+      {
+        "label": "Inserting the statement count ← count + n between line 8 and line 9",
+        "image": null
+      }
+    ],
+    "answer": "Inserting the statement count ← count + 1 between line 6 and line 7"
+  },
+  "topic": {
+    "code": "3.9",
+    "text": "3.9: Developing Algorithms"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

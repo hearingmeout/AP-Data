@@ -1,0 +1,37 @@
+{
+  "id": "VR191540",
+  "type": "mcq",
+  "title": "Compression algorithm for storing a data file",
+  "content": {
+    "description": "",
+    "question": "A user wants to save a data file on an online storage site. The user wants to reduce the size of the file, if possible, and wants to be able to completely restore the file to its original version. Which of the following actions best supports the user’s needs?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Compressing the file using a lossless compression algorithm before uploading it",
+        "image": null
+      },
+      {
+        "label": "Compressing the file using a lossy compression algorithm before uploading it",
+        "image": null
+      },
+      {
+        "label": "Compressing the file using both lossy and lossless compression algorithms before uploading it",
+        "image": null
+      },
+      {
+        "label": "Uploading the original file without using any compression algorithm",
+        "image": null
+      }
+    ],
+    "answer": "Compressing the file using a lossless compression algorithm before uploading it"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Data Compression"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

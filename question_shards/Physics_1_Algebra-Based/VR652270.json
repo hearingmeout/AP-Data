@@ -1,0 +1,41 @@
+{
+  "id": "VR652270",
+  "type": "mcq",
+  "title": "Rotational dynamics - ang acceleration three axes",
+  "content": {
+    "description": "",
+    "question": "Two spheres, with masses <math alttext=\"m\" display=\"inline\" overflow=\"scroll\"><mi>m</mi></math> and <math alttext=\"3 m\" display=\"inline\" overflow=\"scroll\"><mn>3</mn><mi>m</mi></math>, are connected by a rod of negligible mass, as shown. Three rotational axes are labeled in the figure. Axis <math alttext=\"B \" display=\"inline\" overflow=\"scroll\"><mtext>B</mtext></math> passes through the center of mass of the spheres-rod system, which is represented by the dot, and axes <math alttext=\"A\" display=\"inline\" overflow=\"scroll\"><mtext>A</mtext></math> and <math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mtext>C</mtext></math> are both a distance <math alttext=\"d\" display=\"inline\" overflow=\"scroll\"><mi>d</mi></math> from Axis <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mtext>B</mtext></math>. If the same torque is exerted on the system as it rotates about each of the three axes, which of the following correctly compares the angular accelerations <math alttext=\"alpha sub A\" display=\"inline\" overflow=\"scroll\"><msub><mi>α</mi><mtext>A</mtext></msub></math>, <math alttext=\"alpha sub B\" display=\"inline\" overflow=\"scroll\"><msub><mi>α</mi><mtext>B</mtext></msub></math>, and <math alttext=\"alpha sub C\" display=\"inline\" overflow=\"scroll\"><msub><mi>α</mi><mtext>C</mtext></msub></math> of the spheres-rod system about axes <math alttext=\"A\" display=\"inline\" overflow=\"scroll\"><mtext>A</mtext></math>, <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mtext>B</mtext></math>, and <math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mtext>C</mtext></math>, respectively?",
+    "image": "https://ap.oly.st/images/2f4f6b9d3118b8f182dc2a3cd06b1cd8.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"alpha sub A, equals alpha sub B, which equals alpha sub C\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>α</mi><mtext>A</mtext></msub><mo>=</mo><mspace width=\"0.1em\"></mspace><msub><mi>α</mi><mtext>B</mtext></msub><mo>=</mo><mspace width=\"0.1em\"></mspace><msub><mi>α</mi><mtext>C</mtext></msub></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"alpha sub C is greater than alpha sub B, which is greater than alpha sub A\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>α</mi><mi>C</mi></msub><mo>&gt;</mo><mspace width=\"0.1em\"></mspace><msub><mi>α</mi><mtext>B</mtext></msub><mo>&gt;</mo><mspace width=\"0.1em\"></mspace><msub><mi>α</mi><mtext>A</mtext></msub></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open parenthesis, alpha sub A equals alpha sub C, close parenthesis, is greater than alpha sub B\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mo>(</mo><msub><mi>α</mi><mtext>A</mtext></msub><mo>=</mo><mspace width=\"0.1em\"></mspace><msub><mi>α</mi><mtext>C</mtext></msub><mo>)</mo></mrow><mo>&gt;</mo><mspace width=\"0.1em\"></mspace><msub><mi>α</mi><mtext>B</mtext></msub></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"alpha sub B is greater than, open parenthesis, alpha sub A equals alpha sub C, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>α</mi><mtext>B</mtext></msub><mo>&gt;</mo><mrow><mo>(</mo><msub><mi>α</mi><mtext>A</mtext></msub><mo>=</mo><mspace width=\"0.1em\"></mspace><mspace width=\"0.1em\"></mspace><msub><mi>α</mi><mtext>C</mtext></msub><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"alpha sub B is greater than, open parenthesis, alpha sub A equals alpha sub C, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>α</mi><mtext>B</mtext></msub><mo>&gt;</mo><mrow><mo>(</mo><msub><mi>α</mi><mtext>A</mtext></msub><mo>=</mo><mspace width=\"0.1em\"></mspace><mspace width=\"0.1em\"></mspace><msub><mi>α</mi><mtext>C</mtext></msub><mo>)</mo></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.6",
+    "text": "5.6: Newton's Second Law in Rotational Form"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

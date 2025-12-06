@@ -1,0 +1,41 @@
+{
+  "id": "KFO000004",
+  "type": "mcq",
+  "title": "behavior of WordClass - Describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following is a true statement about the behavior of WordClass objects?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Every time a WordClass object is created, the maxWord variable is referenced.",
+        "image": null
+      },
+      {
+        "label": "Every time a WordClass object is created, the value of the maxWord variable changes.",
+        "image": null
+      },
+      {
+        "label": "No two WordClass objects can have their word length equal to the length of maxWord.",
+        "image": null
+      },
+      {
+        "label": "The value of the maxWord variable cannot be changed once it has been initialized.",
+        "image": null
+      }
+    ],
+    "answer": "Every time a WordClass object is created, the maxWord variable is referenced."
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.7",
+    "text": "3.7: Class Variables and Methods"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "QTN000003",
+  "type": "mcq",
+  "title": "Relational operators - output of boolean segment",
+  "content": {
+    "description": "",
+    "question": "What output is produced when this code segment is executed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "true true true",
+        "image": null
+      },
+      {
+        "label": "true false true",
+        "image": null
+      },
+      {
+        "label": "true false false",
+        "image": null
+      },
+      {
+        "label": "false true false",
+        "image": null
+      }
+    ],
+    "answer": "true false false"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.5",
+    "text": "2.5: Compound Boolean Expressions"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

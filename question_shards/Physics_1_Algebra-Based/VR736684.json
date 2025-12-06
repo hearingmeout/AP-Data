@@ -1,0 +1,41 @@
+{
+  "id": "VR736684",
+  "type": "mcq",
+  "title": "Bernoullis equation - pressure difference in tube",
+  "content": {
+    "description": "",
+    "question": "A fluid of density <math alttext=\"rho\" display=\"inline\" overflow=\"scroll\"><mi>ρ</mi></math> is flowing with speed <math alttext=\"v sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>v</mi><mn>1</mn></msub></math> through a horizontal tube of cross-sectional area <math alttext=\"A sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>A</mi><mn>1</mn></msub></math>. The tube splits into two smaller tubes, each at the same vertical height as the first tube. Each of the two smaller vessels has a cross-sectional area <math alttext=\"A sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>A</mi><mn>2</mn></msub></math>, as shown in the top view figure. The pressure of the fluid in the regions where the cross-sectional areas are <math alttext=\"A sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>A</mi><mn>1</mn></msub></math> and <math alttext=\"A sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>A</mi><mn>2</mn></msub></math> is <math alttext=\"P sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>P</mi><mn>1</mn></msub></math> and <math alttext=\"P sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>P</mi><mn>2</mn></msub></math>, respectively. Which of the following expressions is equal to the pressure difference <math alttext=\"P sub 2 minus P sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>P</mi><mn>2</mn></msub><mo>−</mo><msub><mi>P</mi><mn>1</mn></msub></math> ?",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_1_Algebra-Based/01dc2b3fca291ac935594013133c7443.svg",
+    "choices": [
+      {
+        "label": "Zero",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one half rho v sub 1, end sub, squared, times, open parenthesis, 1 minus the fraction with numerator A sub 1, end sub, squared, and denominator 4 A sub 2, end sub, squared, end fraction, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>ρ</mi><msup><msub><mi>v</mi><mn>1</mn></msub><mn>2</mn></msup><mrow><mo>(</mo><mn>1</mn><mo>−</mo><mfrac><msup><msub><mi>A</mi><mn>1</mn></msub><mn>2</mn></msup><msup><mrow><mn>4</mn><msub><mi>A</mi><mn>2</mn></msub></mrow><mn>2</mn></msup></mfrac><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the negative fraction 15 over 2, end fraction, rho v sub 1, end sub, squared\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mpadded><mo>−</mo><mfrac><mn>15</mn><mn>2</mn></mfrac></mpadded><mi>ρ</mi><msup><msub><mi>v</mi><mn>1</mn></msub><mn>2</mn></msup></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"negative three halves, end fraction, rho v sub 1, end sub, squared\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mpadded><mrow><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></mpadded></mstyle><mpadded><mpadded><mstyle displaystyle=\"true\"><mi>ρ</mi><msup><msub><mi>v</mi><mn>1</mn></msub><mn>2</mn></msup></mstyle></mpadded></mpadded></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"one half rho v sub 1, end sub, squared, times, open parenthesis, 1 minus the fraction with numerator A sub 1, end sub, squared, and denominator 4 A sub 2, end sub, squared, end fraction, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>ρ</mi><msup><msub><mi>v</mi><mn>1</mn></msub><mn>2</mn></msup><mrow><mo>(</mo><mn>1</mn><mo>−</mo><mfrac><msup><msub><mi>A</mi><mn>1</mn></msub><mn>2</mn></msup><msup><mrow><mn>4</mn><msub><mi>A</mi><mn>2</mn></msub></mrow><mn>2</mn></msup></mfrac><mo>)</mo></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Fluids"
+  },
+  "topic": {
+    "code": "8.4",
+    "text": "8.4: Fluids and Conservation Laws"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

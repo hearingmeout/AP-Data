@@ -1,0 +1,41 @@
+{
+  "id": "ZTU000001",
+  "type": "mcq",
+  "title": "Regression Model - Residuals and Error",
+  "content": {
+    "description": "",
+    "question": "Which of the following statements is true about the model and the estimates produced by the model that correspond to <math alttext=\"A\"> <mi>A</mi> </math> and <math alttext=\"B\"><mi>B</mi></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The model produces an overestimate at <math alttext=\"A\"><mi>A</mi></math> and an underestimate at <math alttext=\"B\"><mi>B</mi></math>. Based on the absolute values of the residuals, there is a greater error in the model with <math alttext=\"B\"><mi>B</mi></math> than with <math alttext=\"A\"><mi>A</mi></math>.",
+        "image": null
+      },
+      {
+        "label": "The model produces an underestimate at <math alttext=\"A\"><mi>A</mi></math> and an overestimate at <math alttext=\"B\"><mi>B</mi></math>. Based on the absolute values of the residuals, there is a greater error in the model with <math alttext=\"B\"><mi>B</mi></math> than with <math alttext=\"A\"><mi>A</mi></math>.",
+        "image": null
+      },
+      {
+        "label": "The model produces an overestimate at <math alttext=\"A\"><mi>A</mi></math> and an underestimate at <math alttext=\"B\"><mi>B</mi></math>. Based on the absolute values of the residuals, there is a greater error in the model with <math alttext=\"A\"><mi>A</mi></math> than with <math alttext=\"B\"><mi>B</mi></math>.",
+        "image": null
+      },
+      {
+        "label": "The model produces an underestimate at <math alttext=\"A\"><mi>A</mi></math> and an overestimate at <math alttext=\"B\"><mi>B</mi></math>. Based on the absolute values of the residuals, there is a greater error in the model with <math alttext=\"A\"><mi>A</mi></math> than with <math alttext=\"B\"><mi>B</mi></math>.",
+        "image": null
+      }
+    ],
+    "answer": "The model produces an underestimate at <math alttext=\"A\"><mi>A</mi></math> and an overestimate at <math alttext=\"B\"><mi>B</mi></math>. Based on the absolute values of the residuals, there is a greater error in the model with <math alttext=\"B\"><mi>B</mi></math> than with <math alttext=\"A\"><mi>A</mi></math>."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Competing Function Model Validation"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Describe the characteristics of a function with varying levels of precision, depending on the function representation and available mathematical tools."
+  }
+}

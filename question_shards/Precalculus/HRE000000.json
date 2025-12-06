@@ -1,0 +1,41 @@
+{
+  "id": "HRE000000",
+  "type": "mcq",
+  "title": "Inverses of Exponentials - defining the inverse",
+  "content": {
+    "description": "",
+    "question": "​The exponential function <math alttext=\"g\"><semantics><mi>g</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is given by <math alttext=\"g open parentheses x close parentheses equals 5 to the power of x\"><semantics><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mn>5</mn><mi>x</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. Which of the following expressions defines <math alttext=\"g to the power of negative 1 end exponent open parentheses x close parentheses\"><semantics><mrow><msup><mi>g</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfenced><mi>x</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"log subscript 5 x\"><semantics><mrow><msub><mi>log</mi><mn>5</mn></msub><mi>x</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"log subscript x 5\"><semantics><mrow><msub><mi>log</mi><mi>x</mi></msub><mn>5</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"fifth root of x\"><semantics><mroot><mi>x</mi><mn>5</mn></mroot><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"x-th root of 5\"><semantics><mroot><mn>5</mn><mi>x</mi></mroot><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"log subscript 5 x\"><semantics><mrow><msub><mi>log</mi><mn>5</mn></msub><mi>x</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.10",
+    "text": "2.10: Inverses of Exponential Functions"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "VR165843",
+  "type": "mcq",
+  "title": "Efficiency of algorithm to draw shapes",
+  "content": {
+    "description": "A graphic artist uses a program to draw geometric shapes in a given pattern. The program uses an algorithm that draws the shapes based on input from the artist. The table shows the approximate number of steps the algorithm takes to draw different numbers of shapes.",
+    "question": "Number of Shapes Drawn Number of Steps 4 17 5 24 6 35 7 50 Based on the values in the table, which of the following best characterizes the algorithm for drawing <math alttext=\"n\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi></mrow></mstyle></math> shapes, where <math alttext=\"n\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi></mrow></mstyle></math> is a very large number?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The algorithm runs in a reasonable amount of time because it will use approximately <math alttext=\"n\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi></mrow></mstyle></math> steps to draw <math alttext=\"n\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi></mrow></mstyle></math> shapes.",
+        "image": null
+      },
+      {
+        "label": "The algorithm runs in a reasonable amount of time because it will use approximately <math alttext=\"n squared\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle></math> steps to draw <math alttext=\"n\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi></mrow></mstyle></math> shapes.",
+        "image": null
+      },
+      {
+        "label": "The algorithm runs in an unreasonable amount of time because it will use approximately <math alttext=\"n\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi></mrow></mstyle></math> steps to draw <math alttext=\"n\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi></mrow></mstyle></math> shapes.",
+        "image": null
+      },
+      {
+        "label": "The algorithm runs in an unreasonable amount of time because it will use approximately <math alttext=\"n squared\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle></math> steps to draw <math alttext=\"n\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi></mrow></mstyle></math> shapes.",
+        "image": null
+      }
+    ],
+    "answer": "The algorithm runs in a reasonable amount of time because it will use approximately <math alttext=\"n squared\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle></math> steps to draw <math alttext=\"n\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi></mrow></mstyle></math> shapes."
+  },
+  "topic": {
+    "code": "3.17",
+    "text": "3.17: Algorithmic Efficiency"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

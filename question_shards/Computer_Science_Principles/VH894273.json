@@ -1,0 +1,37 @@
+{
+  "id": "VH894273",
+  "type": "mcq",
+  "title": "Effect of limited bandwidth",
+  "content": {
+    "description": "",
+    "question": "A local router is configured to limit the bandwidth of guest users connecting to the Internet. Which of the following best explains the result of this configuration as compared to a configuration in which the router does not limit the bandwidth?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The amount of time it takes guest users to send and receive large files is likely to decrease.",
+        "image": null
+      },
+      {
+        "label": "The number of packets required for guest users to send and receive data is likely to decrease.",
+        "image": null
+      },
+      {
+        "label": "Guest users will be prevented from having fault-tolerant routing on the Internet.",
+        "image": null
+      },
+      {
+        "label": "Guest users will be restricted in the maximum amount of data that they can send and receive per second.",
+        "image": null
+      }
+    ],
+    "answer": "Guest users will be restricted in the maximum amount of data that they can send and receive per second."
+  },
+  "topic": {
+    "code": "4.1",
+    "text": "4.1: The Internet"
+  },
+  "skill": {
+    "code": "Skill 5.A",
+    "text": "Skill 5.A: Explain how computing systems work."
+  }
+}

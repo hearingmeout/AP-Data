@@ -1,0 +1,41 @@
+{
+  "id": "LQQ000004",
+  "type": "mcq",
+  "title": "Game class method - write code",
+  "content": {
+    "description": "",
+    "question": "Assume that the Game object myGame and the int variable points have been properly declared and initialized in a class other than Game. Which of the following code segments is a valid method call?",
+    "image": null,
+    "choices": [
+      {
+        "label": "myGame.addPoints(int points);",
+        "image": null
+      },
+      {
+        "label": "myGame.addPoints(points);",
+        "image": null
+      },
+      {
+        "label": "addPoints(Game myGame, int points);",
+        "image": null
+      },
+      {
+        "label": "addPoints(myGame, points);",
+        "image": null
+      }
+    ],
+    "answer": "myGame.addPoints(points);"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.14",
+    "text": "1.14: Calling Instance Methods"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

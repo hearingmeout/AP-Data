@@ -1,0 +1,41 @@
+{
+  "id": "ZST000009",
+  "type": "mcq",
+  "title": "cast num to int - determine result",
+  "content": {
+    "description": "",
+    "question": "What is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "2.0 2",
+        "image": null
+      },
+      {
+        "label": "2.0 2.0",
+        "image": null
+      },
+      {
+        "label": "2.25 2",
+        "image": null
+      },
+      {
+        "label": "2.25 2.0",
+        "image": null
+      }
+    ],
+    "answer": "2.0 2"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.5",
+    "text": "1.5: Casting and Range of Variables"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

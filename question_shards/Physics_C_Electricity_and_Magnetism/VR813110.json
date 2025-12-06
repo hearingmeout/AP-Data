@@ -1,0 +1,41 @@
+{
+  "id": "VR813110",
+  "type": "mcq",
+  "title": "Inductor - oscillation period and inductance",
+  "content": {
+    "description": "",
+    "question": "A circuit containing a <math alttext=\"20 volt\" display=\"inline\" overflow=\"scroll\"><mn>20</mn><mtext></mtext><mspace width=\"0.2em\"></mspace><mtext>V</mtext></math> battery, a <math alttext=\"100 ohm\" display=\"inline\" overflow=\"scroll\"><mn>100</mn><mspace width=\"0.2em\"></mspace><mi mathvariant=\"normal\">Ω</mi></math> resistor, a capacitor, an inductor, and two switches is shown in the diagram. When Switch <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> has been closed for a long time, the charge stored on the capacitor is <math alttext=\"0.25 coulomb\" display=\"inline\" overflow=\"scroll\"><mn>0.25</mn><mspace width=\"0.2em\"></mspace><mtext>C</mtext></math>. Switch <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> is then opened, and Switch <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> is closed. The period of oscillation of the charge stored on the capacitor with Switch <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> open and Switch <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> closed is <math alttext=\"2.0 seconds\" display=\"inline\" overflow=\"scroll\"><mn>2.0</mn><mtext></mtext><mspace width=\"0.2em\"></mspace><mtext>s</mtext></math>. What is the inductance of the inductor?",
+    "image": "https://ap.oly.st/images/c423e3c85fd2769b9b4eaac62ae50385.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"0.51 henry\" display=\"inline\" overflow=\"scroll\"><mn>0.51</mn><mspace width=\"0.2em\"></mspace><mtext>H</mtext></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"8.1 henries\" display=\"inline\" overflow=\"scroll\"><mn>8.1</mn><mspace width=\"0.2em\"></mspace><mtext>H</mtext></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"45 henries\" display=\"inline\" overflow=\"scroll\"><mn>45</mn><mspace width=\"0.2em\"></mspace><mtext>H</mtext></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"200 henries\" display=\"inline\" overflow=\"scroll\"><mn>200</mn><mspace width=\"0.2em\"></mspace><mtext>H</mtext></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"8.1 henries\" display=\"inline\" overflow=\"scroll\"><mn>8.1</mn><mspace width=\"0.2em\"></mspace><mtext>H</mtext></math>"
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.6",
+    "text": "13.6: Circuits with Capacitors and Inductors (LC Circuits)"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Calculate or estimate an unknown quantity with units from known quantities, by selecting and following a logical computational pathway."
+  }
+}

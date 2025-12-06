@@ -1,0 +1,41 @@
+{
+  "id": "SHO000002",
+  "type": "mcq",
+  "title": "Copying an Object - describe condition",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the conditions under which the method works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The method will run correctly only if it is defined in a class other than Location.",
+        "image": null
+      },
+      {
+        "label": "The method will run correctly only if it is defined inside the Location class.",
+        "image": null
+      },
+      {
+        "label": "The method will always run correctly.",
+        "image": null
+      },
+      {
+        "label": "The method will never run correctly.",
+        "image": null
+      }
+    ],
+    "answer": "The method will run correctly only if it is defined inside the Location class."
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.6",
+    "text": "3.6: Methods: Passing and Returning References of an Object"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

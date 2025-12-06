@@ -1,0 +1,41 @@
+{
+  "id": "NKR000000",
+  "type": "mcq",
+  "title": "Logarithmic Equation - Solving",
+  "content": {
+    "description": "",
+    "question": "What are all values of <math alttext=\"x\"><semantics><mi>x</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> for which <math alttext=\"ln open parentheses x cubed close parentheses minus ln x equals 4\"><semantics><mrow><mi>ln</mi><mfenced><msup><mi>x</mi><mn>3</mn></msup></mfenced><mo>-</mo><mi>ln</mi><mpadded lspace=\"+1px\"><mi>x</mi><mo>=</mo><mn>4</mn></mpadded></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​​<math alttext=\"x equals negative 2\"><semantics><mrow><mi>x</mi><mo>=</mo><mo>-</mo><mn>2</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> and <math alttext=\"x equals 2\"><semantics><mrow><mi>x</mi><mo>=</mo><mn>2</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"x equals negative e squared\"><semantics><mrow><mi>x</mi><mo>=</mo><mo>-</mo><msup><mi>e</mi><mn>2</mn></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> and <math alttext=\"x equals e squared\"><semantics><mrow><mi>x</mi><mo>=</mo><msup><mi>e</mi><mn>2</mn></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"x equals e squared\"><semantics><mrow><mi>x</mi><mo>=</mo><msup><mi>e</mi><mn>2</mn></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> only",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"x equals e to the power of 4\"><semantics><mrow><mi>x</mi><mo>=</mo><msup><mi>e</mi><mn>4</mn></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"x equals e squared\"><semantics><mrow><mi>x</mi><mo>=</mo><msup><mi>e</mi><mn>2</mn></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> only"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.13",
+    "text": "2.13: Exponential and Logarithmic Equations and Inequalities"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Solve equations and inequalities represented analytically, with and without technology."
+  }
+}

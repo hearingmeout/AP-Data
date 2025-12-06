@@ -1,0 +1,41 @@
+{
+  "id": "VH981778",
+  "type": "mcq",
+  "title": "Determine Angular Speed After Collision",
+  "content": {
+    "description": "",
+    "question": "A rod of length <math alttext=\"l\" overflow=\"scroll\"><mstyle><mrow><mo>ℓ</mo></mrow></mstyle></math> and rotational inertia <math alttext=\"I sub r\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>I</mi></mrow><mrow><mi>r</mi></mrow></msub></mrow></mstyle></math> about one end may freely rotate about a pivot that is attached to the ceiling and upper end of the rod. A sphere of mass <math alttext=\"M\" overflow=\"scroll\"><mrow><mi>M</mi></mrow></math> and radius <math alttext=\"R\" overflow=\"scroll\"><mstyle><mrow><mi>R</mi></mrow></mstyle></math> is launched horizontally with velocity <math alttext=\"v sub 0\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>v</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mstyle></math> toward the rod. It collides with the bottom of the rod, as shown in Figure 1. After colliding with the rod, the sphere momentarily comes to rest before it falls vertically to the ground. The rod swings upward with an angular speed <math alttext=\"omega sub 2\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>ω</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mstyle></math>, as shown in Figure 2. The rotational inertia of the sphere is <math alttext=\"I sub s\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>I</mi></mrow><mrow><mi>s</mi></mrow></msub></mrow></mstyle></math>. Which of the following mathematical procedures, if any, can a student use to determine <math alttext=\"omega sub 2\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>ω</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mstyle></math> immediately after the sphere collides with the rod? Justify your selection.",
+    "image": "https://ap.oly.st/images/f99ec072b4c1524652103689a9afea49.png",
+    "choices": [
+      {
+        "label": "Angular momentum is conserved, so calculate the initial angular momentum of the sphere as measured from the end of the rod, and set that equal to the angular momentum of the rod immediately after the collision.",
+        "image": null
+      },
+      {
+        "label": "Angular momentum is conserved, so calculate the initial angular momentum of the sphere as measured from the pivot, and set that equal to the angular momentum of the rod immediately after the collision.",
+        "image": null
+      },
+      {
+        "label": "Energy is conserved, so calculate the initial kinetic energy of the sphere immediately before the collision, and set that equal to the kinetic energy of the rod immediately after the collision.",
+        "image": null
+      },
+      {
+        "label": "None of the procedures can be used to determine <math alttext=\"omega sub 2\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>ω</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mstyle></math> immediately after the collision.",
+        "image": null
+      }
+    ],
+    "answer": "Angular momentum is conserved, so calculate the initial angular momentum of the sphere as measured from the pivot, and set that equal to the angular momentum of the rod immediately after the collision."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Energy and Momentum of Rotating Systems"
+  },
+  "topic": {
+    "code": "6.4",
+    "text": "6.4: Conservation of Angular Momentum"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

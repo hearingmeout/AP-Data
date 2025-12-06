@@ -1,0 +1,41 @@
+{
+  "id": "FT659833",
+  "type": "mcq",
+  "title": "Compute product of nonnegative numbers",
+  "content": {
+    "description": "Consider the following code segment. The code is intended to read nonnegative numbers and compute their product until a negative number is read; however, it does not work as intended. (Assume that the readInt method correctly reads the next number from the input stream.)",
+    "question": "int k = 0; int prod = 1; while (k >= 0) { System.out.print(\"enter a number: \"); k = readInt(); // readInt reads the next number from input prod = prod * k; } System.out.println(\"product: \" + prod); Which of the following best describes the error in the program?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The variable prod is incorrectly initialized.",
+        "image": null
+      },
+      {
+        "label": "The while condition always evaluates to true.",
+        "image": null
+      },
+      {
+        "label": "The negative number entered to signal no more input is included in the product.",
+        "image": null
+      },
+      {
+        "label": "If the user enters a zero, the computation of the product will be terminated prematurely.",
+        "image": null
+      }
+    ],
+    "answer": "The negative number entered to signal no more input is included in the product."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.7",
+    "text": "2.7: `while` Loops"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

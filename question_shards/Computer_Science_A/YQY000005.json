@@ -1,0 +1,41 @@
+{
+  "id": "YQY000005",
+  "type": "mcq",
+  "title": "for loop that prints values - fix error",
+  "content": {
+    "description": "",
+    "question": "Which of the following changes can be made so that this code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "In line 1, changing the condition j >= 0 to j > 0",
+        "image": null
+      },
+      {
+        "label": "In line 1, changing the initialization j = 10 to j = 9",
+        "image": null
+      },
+      {
+        "label": "In line 3, changing the expression j - 1 to j + 1",
+        "image": null
+      },
+      {
+        "label": "In line 3, changing the expression j - 1 to j - 2",
+        "image": null
+      }
+    ],
+    "answer": "In line 1, changing the condition j >= 0 to j > 0"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: `for` Loops"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

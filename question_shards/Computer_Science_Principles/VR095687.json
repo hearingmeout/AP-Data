@@ -1,0 +1,37 @@
+{
+  "id": "VR095687",
+  "type": "mcq",
+  "title": "Error in isIncreasing procedure",
+  "content": {
+    "description": "",
+    "question": "Which of the following changes is needed for the program to work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "In line 3, 2 should be changed to 1.",
+        "image": null
+      },
+      {
+        "label": "In line 6, < should be changed to ≥.",
+        "image": null
+      },
+      {
+        "label": "Lines 8 and 12 should be interchanged.",
+        "image": null
+      },
+      {
+        "label": "Lines 10 and 11 should be interchanged.",
+        "image": null
+      }
+    ],
+    "answer": "Lines 8 and 12 should be interchanged."
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Identifying and Correcting Errors"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Identify and correct errors in algorithms and programs, including error discovery through testing."
+  }
+}

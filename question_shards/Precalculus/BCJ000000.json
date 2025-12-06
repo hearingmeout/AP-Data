@@ -1,0 +1,41 @@
+{
+  "id": "BCJ000000",
+  "type": "mcq",
+  "title": "Solving Exp and Logs - inverses",
+  "content": {
+    "description": "​",
+    "question": "<math alttext=\"x\"><semantics><mi>x</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"y\"><semantics><mi>y</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"0\"><semantics><mn>0</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"e to the power of 1 plus 4\"><semantics><mrow><msup><mi>e</mi><mn>1</mn></msup><mo>+</mo><mn>4</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"1\"><semantics><mn>1</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"e cubed plus 4\"><semantics><mrow><msup><mi>e</mi><mn>3</mn></msup><mo>+</mo><mn>4</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"2\"><semantics><mn>2</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"e to the power of 5 plus 4\"><semantics><mrow><msup><mi>e</mi><mn>5</mn></msup><mo>+</mo><mn>4</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"3\"><semantics><mn>3</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"e to the power of 7 plus 4\"><semantics><mrow><msup><mi>e</mi><mn>7</mn></msup><mo>+</mo><mn>4</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"4\"><semantics><mn>4</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"e to the power of 9 plus 4\"><semantics><mrow><msup><mi>e</mi><mn>9</mn></msup><mo>+</mo><mn>4</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>​​The table gives coordinates of five points <math alttext=\"open parentheses x comma y close parentheses\"><semantics><mfenced><mrow><mi>x</mi><mo>,</mo><mi>y</mi></mrow></mfenced><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. Based on these values, which of the following gives <math alttext=\"x\"><semantics><mi>x</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> as a function of <math alttext=\"y\"><semantics><mi>y</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"x equals negative 2 plus ln open parentheses y minus 4 close parentheses\"><semantics><mrow><mi>x</mi><mo>=</mo><mo>-</mo><mn>2</mn><mo>+</mo><mi>ln</mi><mfenced><mrow><mi>y</mi><mo>-</mo><mn>4</mn></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"x equals negative 1 plus ln open parentheses square root of y minus 4 end root close parentheses\"><semantics><mrow><mi>x</mi><mo>=</mo><mo>-</mo><mn>1</mn><mo>+</mo><mi>ln</mi><mfenced><msqrt><mi>y</mi><mo>-</mo><mn>4</mn></msqrt></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"x equals negative 1 half plus ln open parentheses y minus 4 close parentheses\"><semantics><mrow><mi>x</mi><mo>=</mo><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mi>ln</mi><mfenced><mrow><mi>y</mi><mo>-</mo><mn>4</mn></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"x equals negative 1 half plus ln open parentheses square root of y minus 4 end root close parentheses\"><semantics><mrow><mi>x</mi><mo>=</mo><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mi>ln</mi><mfenced><msqrt><mi>y</mi><mo>-</mo><mn>4</mn></msqrt></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"x equals negative 1 half plus ln open parentheses square root of y minus 4 end root close parentheses\"><semantics><mrow><mi>x</mi><mo>=</mo><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mi>ln</mi><mfenced><msqrt><mi>y</mi><mo>-</mo><mn>4</mn></msqrt></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.13",
+    "text": "2.13: Exponential and Logarithmic Equations and Inequalities"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VR187125",
+  "type": "mcq",
+  "title": "Processes - Product Rule",
+  "content": {
+    "description": "",
+    "question": "If <math alttext=\"f prime of x, equals, x squared\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mrow></math> and <math alttext=\"g prime of x, equals, 3 times e to the x power\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>g</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><msup><mrow><mn>3</mn><mi>e</mi></mrow><mrow><mi>x</mi></mrow></msup></mrow></mrow></math> and if <math alttext=\"h of x, equals, f of x, times, g of x\" display=\"inline\" overflow=\"scroll\"><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mrow></mrow></math>, then <math alttext=\"h prime of x\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>h</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></math> could be",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"3 times x squared, times e to the x power\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mn>3</mn><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>e</mi></mrow><mrow><mi>x</mi></mrow></msup></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"x cubed, times e to the x power, plus, 3 times x squared, times e to the x power\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><msup><mrow><mi>e</mi></mrow><mrow><mi>x</mi></mrow></msup><mo>+</mo><msup><mrow><mn>3</mn><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>e</mi></mrow><mrow><mi>x</mi></mrow></msup></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"x cubed, times e to the x power, plus x squared, times e to the x power\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><msup><mrow><mi>e</mi></mrow><mrow><mi>x</mi></mrow></msup><mo>+</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>e</mi></mrow><mrow><mi>x</mi></mrow></msup></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"3 times x squared, times e to the x power, plus 6 x times e to the x power\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mn>3</mn><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>e</mi></mrow><mrow><mi>x</mi></mrow></msup><mo>+</mo><mn>6</mn><msup><mrow><mi>x</mi><mi>e</mi></mrow><mrow><mi>x</mi></mrow></msup></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"x cubed, times e to the x power, plus, 3 times x squared, times e to the x power\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><msup><mrow><mi>e</mi></mrow><mrow><mi>x</mi></mrow></msup><mo>+</mo><msup><mrow><mn>3</mn><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>e</mi></mrow><mrow><mi>x</mi></mrow></msup></mrow></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: The Product Rule"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

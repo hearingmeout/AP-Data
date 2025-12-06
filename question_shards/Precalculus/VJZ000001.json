@@ -1,0 +1,41 @@
+{
+  "id": "VJZ000001",
+  "type": "mcq",
+  "title": "Linear Transformations - mapping the zero vector",
+  "content": {
+    "description": "Function",
+    "question": "Input VectorsOutput Vectors<math alttext=\"A\"><mi>A</mi></math><math alttext=\"A 3 by 3 vector matrix. Row 1 column 1 is a. Row 1 column 2 is 0. Row 1 column 3 is c. Row 2 column 1 is b. Row 2 column 2 is 0. Row 2 column 3 is d.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mi>a</mi></mtd><mtd><mn>0</mn></mtd><mtd><mi>c</mi></mtd></mtr><mtr><mtd><mi>b</mi></mtd><mtd><mn>0</mn></mtd><mtd><mi>d</mi></mtd></mtr></mtable></mfenced></math><math alttext=\"A 3 by 3 vector matrix. Row 1 column 1 is a. Row 1 column 2 is c. Row 1 column 3 is 0. Row 2 column 1 is b. Row 2 column 2 is d. Row 2 column 3 is 0.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mi>a</mi></mtd><mtd><mi>c</mi></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mi>b</mi></mtd><mtd><mi>d</mi></mtd><mtd><mn>0</mn></mtd></mtr></mtable></mfenced></math><math alttext=\"N\"><mi>N</mi></math><math alttext=\"A 3 by 3 vector matrix. Row 1 column 1 is a. Row 1 column 2 is 0. Row 1 column 3 is c. Row 2 column 1 is b. Row 2 column 2 is 0. Row 2 column 3 is d.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mi>a</mi></mtd><mtd><mn>0</mn></mtd><mtd><mi>c</mi></mtd></mtr><mtr><mtd><mi>b</mi></mtd><mtd><mn>0</mn></mtd><mtd><mi>d</mi></mtd></mtr></mtable></mfenced></math><math alttext=\"A 3 by 3 vector matrix. Row 1 column 1 is b. Row 1 column 2 is 0. Row 1 column 3 is d. Row 2 column 1 is a. Row 2 column 2 is 0. Row 2 column 3 is c.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mi>b</mi></mtd><mtd><mn>0</mn></mtd><mtd><mi>d</mi></mtd></mtr><mtr><mtd><mi>a</mi></mtd><mtd><mn>0</mn></mtd><mtd><mi>c</mi></mtd></mtr></mtable></mfenced></math> The table gives information for functions <math alttext=\"A\"><mi>A</mi></math> and <math alttext=\"N\"><mi>N</mi></math> that map the selected input column vectors to the given output column vectors. The values of <math alttext=\"a\"><mi>a</mi></math>, <math alttext=\"b\"><mi>b</mi></math>, <math alttext=\"c\"><mi>c</mi></math>, and <math alttext=\"d\"><mi>d</mi></math> are nonzero real numbers. Which of the following is true about functions <math alttext=\"A\"><mi>A</mi></math> and <math alttext=\"N\"><mi>N</mi></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"A\"><mi>A</mi></math> and <math alttext=\"N\"><mi>N</mi></math> could both be linear transformation functions because both <math alttext=\"A\"><mi>A</mi></math> and <math alttext=\"N\"><mi>N</mi></math> map the zero vector to the zero vector.",
+        "image": null
+      },
+      {
+        "label": "Only <math alttext=\"A\"><mi>A</mi></math> could be a linear transformation function because only <math alttext=\"A\"><mi>A</mi></math> maps the zero vector to the zero vector.",
+        "image": null
+      },
+      {
+        "label": "Only <math alttext=\"N\"><mi>N</mi></math> could be a linear transformation function because only <math alttext=\"N\"><mi>N</mi></math> maps the zero vector to the zero vector.",
+        "image": null
+      },
+      {
+        "label": "Neither <math alttext=\"A\"><mi>A</mi></math> nor <math alttext=\"N\"><mi>N</mi></math> could be linear transformation functions because neither <math alttext=\"A\"><mi>A</mi></math> nor <math alttext=\"N\"><mi>N</mi></math> maps the zero vector to the zero vector.",
+        "image": null
+      }
+    ],
+    "answer": "Only <math alttext=\"N\"><mi>N</mi></math> could be a linear transformation function because only <math alttext=\"N\"><mi>N</mi></math> maps the zero vector to the zero vector."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.12",
+    "text": "4.12: Linear Transformations and Matrices"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Support conclusions or choices with a logical rationale or appropriate data."
+  }
+}

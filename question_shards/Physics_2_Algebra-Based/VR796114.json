@@ -1,0 +1,41 @@
+{
+  "id": "VR796114",
+  "type": "mcq",
+  "title": "RC circuit - compare power dissipated by resistors",
+  "content": {
+    "description": "",
+    "question": "When the switch is open, which of the following correctly compares the powers <math alttext=\"P sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>P</mi><mn>1</mn></msub></math>, <math alttext=\"P sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>P</mi><mn>2</mn></msub></math>, and <math alttext=\"P sub 3\" display=\"inline\" overflow=\"scroll\"><msub><mi>P</mi><mn>3</mn></msub></math> dissipated by the resistors with resistances <math alttext=\"R sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>1</mn></msub></math>, <math alttext=\"R sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>2</mn></msub></math>, and <math alttext=\"R sub 3\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>3</mn></msub></math>, respectively?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"P sub 1 equals P sub 2, which equals P sub 3\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>P</mi><mn>1</mn></msub><mo>=</mo><msub><mi>P</mi><mn>2</mn></msub><mo>=</mo><msub><mi>P</mi><mn>3</mn></msub></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"P sub 3 is greater than open parenthesis, P sub 1 equals P sub 2, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>P</mi><mn>3</mn></msub><mo>&gt;</mo><mrow><mo>(</mo><msub><mi>P</mi><mn>1</mn></msub><mo>=</mo><msub><mi>P</mi><mn>2</mn></msub><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open parenthesis, P sub 1 equals P sub 2, close parenthesis is greater than P sub 3, which is greater than 0\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mo>(</mo><msub><mi>P</mi><mn>1</mn></msub><mo>=</mo><msub><mi>P</mi><mn>2</mn></msub><mo>)</mo></mrow><mo>&gt;</mo><msub><mi>P</mi><mn>3</mn></msub><mo>&gt;</mo><mn>0</mn></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open parenthesis, P sub 1 equals P sub 2, close parenthesis is greater than open parenthesis, P sub 3 equals 0, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mo>(</mo><msub><mi>P</mi><mn>1</mn></msub><mo>=</mo><msub><mi>P</mi><mn>2</mn></msub><mo>)</mo></mrow><mo>&gt;</mo><mrow><mo>(</mo><msub><mi>P</mi><mn>3</mn></msub><mo>=</mo><mn>0</mn><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"P sub 3 is greater than open parenthesis, P sub 1 equals P sub 2, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>P</mi><mn>3</mn></msub><mo>&gt;</mo><mrow><mo>(</mo><msub><mi>P</mi><mn>1</mn></msub><mo>=</mo><msub><mi>P</mi><mn>2</mn></msub><mo>)</mo></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.4",
+    "text": "11.4: Electric Power"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

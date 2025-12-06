@@ -1,0 +1,37 @@
+{
+  "id": "VR167986",
+  "type": "mcq",
+  "title": "Algorithm to print integers",
+  "content": {
+    "description": "Which of the following algorithms display all integers between 1 and 20, inclusive, that are not divisible by 3 ?",
+    "question": "Select two answers.",
+    "image": null,
+    "choices": [
+      {
+        "label": "Step 1: Set x to 0. Step 2: Increment x by 1. Step 3: If x is not divisible by 3, then display x. Step 4: Repeat steps 2 and 3 until x is 20.",
+        "image": null
+      },
+      {
+        "label": "Step 1: Set x to 0. Step 2: If x is divisible by 3, then display x. Step 3: Increment x by 1. Step 4: Repeat steps 2 and 3 until x is greater than 20.",
+        "image": null
+      },
+      {
+        "label": "Step 1: Set x to 1. Step 2: If x is divisible by 3, then do nothing; otherwise display x. Step 3: Increment x by 1. Step 4: Repeat steps 2 and 3 until x is 20.",
+        "image": null
+      },
+      {
+        "label": "Step 1: Set x to 1. Step 2: If x is divisible by 3, then do nothing; otherwise display x. Step 3: Increment x by 1. Step 4: Repeat steps 2 and 3 until x is greater than 20.",
+        "image": null
+      }
+    ],
+    "answer": "Step 1: Set x to 0. Step 2: Increment x by 1. Step 3: If x is not divisible by 3, then display x. Step 4: Repeat steps 2 and 3 until x is 20."
+  },
+  "topic": {
+    "code": "3.8",
+    "text": "3.8: Iteration"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Represent algorithmic processes without using a programming language."
+  }
+}

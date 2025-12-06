@@ -1,0 +1,41 @@
+{
+  "id": "ODG000004",
+  "type": "mcq",
+  "title": "Method to find mode of array - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following can replace /* missing condition 1 */ and /* missing condition 2 */ so the method works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "/* missing condition 1 *//* missing condition 2 */arr[j] == arr[k]valCount > modeCount",
+        "image": null
+      },
+      {
+        "label": "/* missing condition 1 *//* missing condition 2 */arr[j] == arr[k]modeCount > valCount",
+        "image": null
+      },
+      {
+        "label": "/* missing condition 1 *//* missing condition 2 */arr[j] != arr[k]valCount > modeCount",
+        "image": null
+      },
+      {
+        "label": "/* missing condition 1 *//* missing condition 2 */arr[j] != arr[k]modeCount > valCount",
+        "image": null
+      }
+    ],
+    "answer": "/* missing condition 1 *//* missing condition 2 */arr[j] == arr[k]valCount > modeCount"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implementing Array Algorithms"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

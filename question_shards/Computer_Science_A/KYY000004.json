@@ -1,0 +1,41 @@
+{
+  "id": "KYY000004",
+  "type": "mcq",
+  "title": "Recursive mystery method - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the behavior of the mystery method?",
+    "image": null,
+    "choices": [
+      {
+        "label": "It repeatedly prints the value j due to infinite recursion.",
+        "image": null
+      },
+      {
+        "label": "It prints the initial value of j a total of k times.",
+        "image": null
+      },
+      {
+        "label": "It prints the integers from j to k, inclusive, in order from least to greatest.",
+        "image": null
+      },
+      {
+        "label": "It prints the integers from j to k, inclusive, in order from greatest to least.",
+        "image": null
+      }
+    ],
+    "answer": "It prints the integers from j to k, inclusive, in order from least to greatest."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.16",
+    "text": "4.16: Recursion"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

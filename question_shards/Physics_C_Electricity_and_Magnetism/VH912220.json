@@ -1,0 +1,45 @@
+{
+  "id": "VH912220",
+  "type": "mcq",
+  "title": "Growth of sea turtles",
+  "content": {
+    "description": "A researcher collected data on the age, in years, and the growth of sea turtles. The following graph is a residual plot of the regression of growth versus age.",
+    "question": "Does the residual plot support the appropriateness of a linear model?",
+    "image": "https://ap.oly.st/images/35b1db9d92ea27e9f8892820e84d0214.png",
+    "choices": [
+      {
+        "label": "Yes, because there is a clear pattern displayed in the residual plot.",
+        "image": null
+      },
+      {
+        "label": "Yes, because about half the residuals are positive and the other half are negative.",
+        "image": null
+      },
+      {
+        "label": "Yes, because as age increases, the residuals increase.",
+        "image": null
+      },
+      {
+        "label": "No, because the points appear to be randomly distributed.",
+        "image": null
+      },
+      {
+        "label": "No, because the graph displays a <math alttext=\"U\" overflow=\"scroll\"><mstyle><mrow><mtext>U</mtext></mrow></mstyle></math>-shaped pattern.",
+        "image": null
+      }
+    ],
+    "answer": "No, because the graph displays a <math alttext=\"U\" overflow=\"scroll\"><mstyle><mrow><mtext>U</mtext></mrow></mstyle></math>-shaped pattern."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.7",
+    "text": "2.7: Residuals"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Describe data presented numerically or graphically."
+  }
+}

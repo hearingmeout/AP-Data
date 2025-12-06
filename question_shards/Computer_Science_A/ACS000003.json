@@ -1,0 +1,41 @@
+{
+  "id": "ACS000003",
+  "type": "mcq",
+  "title": "ArrayList adding and setting - determine result",
+  "content": {
+    "description": "",
+    "question": "What are the contents of numbers after executing this code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "[100, 200, 500, 400]",
+        "image": null
+      },
+      {
+        "label": "[100, 200, 400, 500]",
+        "image": null
+      },
+      {
+        "label": "[300, 100, 400, 500]",
+        "image": null
+      },
+      {
+        "label": "[300, 100, 500, 400]",
+        "image": null
+      }
+    ],
+    "answer": "[300, 100, 500, 400]"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

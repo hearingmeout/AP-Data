@@ -1,0 +1,41 @@
+{
+  "id": "ZDR000010",
+  "type": "mcq",
+  "title": "Nonnegative int difference - describe precondition",
+  "content": {
+    "description": "",
+    "question": "Which of the following preconditions, if any, is required so that the method works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "/** Preconditions: num1 >= 0, num2 >= 0 */",
+        "image": null
+      },
+      {
+        "label": "/** Precondition: num1 >= num2 */",
+        "image": null
+      },
+      {
+        "label": "/** Precondition: num2 >= num1 */",
+        "image": null
+      },
+      {
+        "label": "No precondition is required.",
+        "image": null
+      }
+    ],
+    "answer": "/** Precondition: num1 >= num2 */"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.8",
+    "text": "1.8: Documentation with Comments"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

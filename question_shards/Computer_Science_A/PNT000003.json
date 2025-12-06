@@ -1,0 +1,41 @@
+{
+  "id": "PNT000003",
+  "type": "mcq",
+  "title": "Three numbers in order - determine design",
+  "content": {
+    "description": "",
+    "question": "The variables x, y, and z are integers. Which of the following algorithms can be used to swap the values of the variables so that they are ordered from least to greatest (i.e., x ≤ y ≤ z)?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Step 1:If x is greater than y, swap the values of x and y.Step 2:If y is greater than z, swap the values of y and z.",
+        "image": null
+      },
+      {
+        "label": "Step 1:If x is greater than z, swap the values of x and z.Step 2:If y is greater than z, swap the values of y and z.",
+        "image": null
+      },
+      {
+        "label": "Step 1:If x is greater than y, swap the values of x and y.Step 2:If y is greater than z, swap the values of y and z.Step 3:If x is greater than y, swap the values of x and y.",
+        "image": null
+      },
+      {
+        "label": "Step 1:If x is greater than y, swap the values of x and y.Step 2:If y is greater than z, swap the values of y and z.Step 3:If x is greater than z, swap the values of x and z.",
+        "image": null
+      }
+    ],
+    "answer": "Step 1:If x is greater than y, swap the values of x and y.Step 2:If y is greater than z, swap the values of y and z.Step 3:If x is greater than y, swap the values of x and y."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Algorithms with Selection and Repetition"
+  },
+  "skill": {
+    "code": "1.A",
+    "text": "1.A: Determine an appropriate program design to solve a problem or accomplish a task."
+  }
+}

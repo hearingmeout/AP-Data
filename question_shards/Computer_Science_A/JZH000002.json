@@ -1,0 +1,41 @@
+{
+  "id": "JZH000002",
+  "type": "mcq",
+  "title": "Worker class - explain error",
+  "content": {
+    "description": "",
+    "question": "Which of the following best explains why an incorrect value is printed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The private instance variables hourlyRate and hoursWorked should be declared public.",
+        "image": null
+      },
+      {
+        "label": "The private method calculateEarnings should be declared public.",
+        "image": null
+      },
+      {
+        "label": "The variable earnings in the calculateEarnings method is a local variable.",
+        "image": null
+      },
+      {
+        "label": "The variables hourlyRate and hoursWorked in the calculateEarnings method are local variables.",
+        "image": null
+      }
+    ],
+    "answer": "The variable earnings in the calculateEarnings method is a local variable."
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.8",
+    "text": "3.8: Scope and Access"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

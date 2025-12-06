@@ -1,0 +1,45 @@
+{
+  "id": "FT545790",
+  "type": "mcq",
+  "title": "Second derivative with chain rule",
+  "content": {
+    "description": "",
+    "question": "If <math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the derivative with respect to x of f of x equals g of x\"><semantics><mrow><mfrac><mi>d</mi><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo stretchy=\"false\">(</mo><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo stretchy=\"false\">)</mo><mo>=</mo><mi>g</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow><annotation>MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaamizaaWdaeaapeGaamizaiaadIhaaaGaaiik aiaadAgacaGGOaGaamiEaiaacMcacaGGPaGaeyypa0Jaam4zaiaacI cacaWG4bGaaiykaaaa@4215@</annotation></semantics></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the derivative with respect to x of g of x equals f of open parentheses x squared close parentheses\"><semantics><mrow><mfrac><mi>d</mi><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo stretchy=\"false\">(</mo><mi>g</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo stretchy=\"false\">)</mo><mo>=</mo><mi>f</mi><mo stretchy=\"false\">(</mo><msup><mi>x</mi><mn>2</mn></msup><mo stretchy=\"false\">)</mo></mrow><annotation>MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaamizaaWdaeaapeGaamizaiaadIhaaaGaaiik aiaadEgacaGGOaGaamiEaiaacMcacaGGPaGaeyypa0JaamOzaiaacI cacaWG4bWdamaaCaaaleqabaWdbiaaikdaaaGccaGGPaaaaa@4327@</annotation></semantics></math> , then <math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the second derivative with respect to x of f of open parentheses x cubed close parentheses equals\"><semantics><mrow><mfrac><mrow><msup><mi>d</mi><mn>2</mn></msup></mrow><mrow><mi>d</mi><msup><mi>x</mi><mn>2</mn></msup></mrow></mfrac><mo stretchy=\"false\">(</mo><mi>f</mi><mo stretchy=\"false\">(</mo><msup><mi>x</mi><mn>3</mn></msup><mo stretchy=\"false\">)</mo><mo stretchy=\"false\">)</mo><mo>=</mo></mrow><annotation>MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaamiza8aadaahaaWcbeqaa8qacaaIYaaaaaGc paqaa8qacaWGKbGaamiEa8aadaahaaWcbeqaa8qacaaIYaaaaaaaki aacIcacaWGMbGaaiikaiaadIhapaWaaWbaaSqabeaapeGaaG4maaaa kiaacMcacaGGPaGaeyypa0daaa@420A@</annotation></semantics></math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "f(x6)",
+        "image": null
+      },
+      {
+        "label": "g(x3)",
+        "image": null
+      },
+      {
+        "label": "3x2g(x3)",
+        "image": null
+      },
+      {
+        "label": "9x4f(x6) + 6x g(x3)",
+        "image": null
+      },
+      {
+        "label": "f(x6) + g(x3)",
+        "image": null
+      }
+    ],
+    "answer": "9x4f(x6) + 6x g(x3)"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: The Chain Rule"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Identify an appropriate mathematical rule or procedure based on the classification of a given expression (e.g., Use the chain rule to find the derivative of a composite function)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GQE000005",
+  "type": "mcq",
+  "title": "Candy Class - explain why will not compile",
+  "content": {
+    "description": "",
+    "question": "Which of the following changes can be made so that access to the class is constrained as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Changing the public designation to private in line 1",
+        "image": null
+      },
+      {
+        "label": "Changing the class header in line 1 to public class Candy()",
+        "image": null
+      },
+      {
+        "label": "Changing the public designation to private in lines 3 and 4",
+        "image": null
+      },
+      {
+        "label": "Changing the data type in line 4 from double to String",
+        "image": null
+      }
+    ],
+    "answer": "Changing the public designation to private in lines 3 and 4"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Anatomy of a Class"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

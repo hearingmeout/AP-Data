@@ -1,0 +1,41 @@
+{
+  "id": "OKR000006",
+  "type": "mcq",
+  "title": "Not equal - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the behavior of the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "It prints true if a is true and b is false, and prints false otherwise.",
+        "image": null
+      },
+      {
+        "label": "It prints true if a and b have different values, and prints false otherwise.",
+        "image": null
+      },
+      {
+        "label": "It prints true if a and b have the same value, and prints false otherwise.",
+        "image": null
+      },
+      {
+        "label": "It prints false for all possible values of a and b.",
+        "image": null
+      }
+    ],
+    "answer": "It prints true if a and b have different values, and prints false otherwise."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Boolean Expressions"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "VR165844",
+  "type": "mcq",
+  "title": "Benefit of using a list as a data abstraction",
+  "content": {
+    "description": "",
+    "question": "Which of the following is a benefit of using a list as a data abstraction in a program?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Lists often allow their size to be easily updated to hold as many data values as needed.",
+        "image": null
+      },
+      {
+        "label": "Lists convert all elements to strings so that they can be inspected character-by-character.",
+        "image": null
+      },
+      {
+        "label": "Lists prevent duplicate data values from appearing in the list.",
+        "image": null
+      },
+      {
+        "label": "Lists are used to store all input data so that there is a running record of all user input.",
+        "image": null
+      }
+    ],
+    "answer": "Lists often allow their size to be easily updated to hold as many data values as needed."
+  },
+  "topic": {
+    "code": "3.2",
+    "text": "3.2: Data Abstraction"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Explain how abstraction manages complexity."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "JSM000002",
+  "type": "mcq",
+  "title": "Function Model Selection - applying a regression",
+  "content": {
+    "description": "<math alttext=\"x\"><mi>x</mi></math>",
+    "question": "<math alttext=\"negative 2\"><mo>-</mo><mn>2</mn></math><math alttext=\"0\"><mn>0</mn></math><math alttext=\"2\"><mn>2</mn></math><math alttext=\"3\"><mn>3</mn></math><math alttext=\"y\"><mi>y</mi></math><math alttext=\"17\"><mn>17</mn></math><math alttext=\"1\"><mn>1</mn></math><math alttext=\"1\"><mn>1</mn></math><math alttext=\"22\"><mn>22</mn></math> Model typePredicted value at <math alttext=\"x equals 2.5\"><mi>x</mi><mo>=</mo><mn>2.5</mn></math><math alttext=\"C open parentheses x close parentheses equals a x cubed plus b x squared plus c x plus d\"><mi>C</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mi>a</mi><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mi>b</mi><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>c</mi><mi>x</mi><mo>+</mo><mi>d</mi></math><math alttext=\"9.125\"><mn>9.125</mn></math><math alttext=\"Q open parentheses x close parentheses equals a x squared plus b x plus c\"><mi>Q</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mi>a</mi><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>b</mi><mi>x</mi><mo>+</mo><mi>c</mi></math><math alttext=\"10.636\"><mn>10.636</mn></math><math alttext=\"L open parentheses x close parentheses equals a x plus b\"><mi>L</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mi>a</mi><mi>x</mi><mo>+</mo><mi>b</mi></math><math alttext=\"11.697\"><mn>11.697</mn></math><math alttext=\"K open parentheses x close parentheses equals a\"><mi>K</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mi>a</mi></math><math alttext=\"10.250\"><mn>10.250</mn></math> ​The first table gives the coordinates of four points in the <math alttext=\"x y\"><mi>x</mi><mi>y</mi></math>-plane. The second table gives different function model types and the corresponding predicted value at <math alttext=\"x equals 2.5\"><mi>x</mi><mo>=</mo><mn>2.5</mn></math> for a best-fit function of that type. The graph of one of the function models in the table passes through all four points. What is the predicted value at <math alttext=\"x equals 2.5\"><mi>x</mi><mo>=</mo><mn>2.5</mn></math> for this function? (Note: <math alttext=\"a\"><mi>a</mi></math>, <math alttext=\"b\"><mi>b</mi></math>, <math alttext=\"c\"><mi>c</mi></math>, and <math alttext=\"d\"><mi>d</mi></math> represent different real numbers for each model type.)",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"9.125\"><mn>9.125</mn></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"10.250\"><mn>10.250</mn></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"10.636\"><mn>10.636</mn></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"11.697\"><mn>11.697</mn></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"9.125\"><mn>9.125</mn></math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Polynomial and Rational Functions"
+  },
+  "topic": {
+    "code": "1.13",
+    "text": "1.13: Function Model Selection and Assumption Articulation"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Apply numerical results in a given mathematical or applied context."
+  }
+}

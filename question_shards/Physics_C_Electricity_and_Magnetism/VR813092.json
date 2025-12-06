@@ -1,0 +1,41 @@
+{
+  "id": "VR813092",
+  "type": "mcq",
+  "title": "Induced emf - inductor with time dependent current",
+  "content": {
+    "description": "",
+    "question": "The current as a function of time in a circuit that includes an inductor of inductance <math alttext=\"L\" display=\"inline\" overflow=\"scroll\"><mi>L</mi></math> is given by the equation <math alttext=\"I equals, C times the square root of t\" display=\"inline\" overflow=\"scroll\"><mi>I</mi><mo>=</mo><mi>C</mi><msqrt><mi>t</mi></msqrt></math>, where <math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mi>C</mi></math> is a positive constant with appropriate units. Which of the following is an equation for the <math alttext=\"e m f\" display=\"inline\" overflow=\"scroll\"><mi>emf</mi></math> <math alttext=\"open E\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi></math> across the inductor as a function of time?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"open E equals, negative L times the fraction with numerator C, and denominator the square root of t\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi><mo>=</mo><mo>−</mo><mi>L</mi><mfrac><mi>C</mi><msqrt><mi>t</mi></msqrt></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open E equals, negative L times the fraction with numerator C, and denominator 2 times the square root of t, end fraction\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi><mo>=</mo><mo>−</mo><mi>L</mi><mfrac><mi>C</mi><mrow><mn>2</mn><msqrt><mi>t</mi></msqrt></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open E equals, negative two thirds times L C, times open parenthesis, the square root of t, close parenthesis cubed\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi><mo>=</mo><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>L</mi><mi>C</mi><msup><mrow><mo>(</mo><msqrt><mi>t</mi></msqrt><mo>)</mo></mrow><mn>3</mn></msup></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open E equals, negative one third times L C, times open parenthesis, the square root of t, close parenthesis, cubed\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>L</mi><mi>C</mi><msup><mrow><mo>(</mo><msqrt><mi>t</mi></msqrt><mo>)</mo></mrow><mn>3</mn></msup></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"open E equals, negative L times the fraction with numerator C, and denominator 2 times the square root of t, end fraction\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi><mo>=</mo><mo>−</mo><mi>L</mi><mfrac><mi>C</mi><mrow><mn>2</mn><msqrt><mi>t</mi></msqrt></mrow></mfrac></math>"
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.4",
+    "text": "13.4: Inductance"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

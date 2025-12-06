@@ -1,0 +1,41 @@
+{
+  "id": "VR442177",
+  "type": "mcq",
+  "title": "mystery integer array method",
+  "content": {
+    "description": "Consider the following method.",
+    "question": "public static int mystery(int value) { int sum = 0; int[] arr = {1, 4, 2, 5, 10, 3, 6, 4}; for (int item : arr) { if (item > value) { sum += item; } } return sum; } What value is returned as a result of the call mystery(4) ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "6",
+        "image": null
+      },
+      {
+        "label": "15",
+        "image": null
+      },
+      {
+        "label": "21",
+        "image": null
+      },
+      {
+        "label": "29",
+        "image": null
+      }
+    ],
+    "answer": "21"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.4",
+    "text": "4.4: Array Traversals"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

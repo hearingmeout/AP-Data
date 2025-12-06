@@ -1,0 +1,41 @@
+{
+  "id": "FVN000007",
+  "type": "mcq",
+  "title": "Recursive bSearch - determine num of calls",
+  "content": {
+    "description": "",
+    "question": "How many times will the bSearch method be called as a result of executing the code segment, including the initial call?",
+    "image": null,
+    "choices": [
+      {
+        "label": "1",
+        "image": null
+      },
+      {
+        "label": "2",
+        "image": null
+      },
+      {
+        "label": "3",
+        "image": null
+      },
+      {
+        "label": "4",
+        "image": null
+      }
+    ],
+    "answer": "2"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.17",
+    "text": "4.17: Recursive Searching and Sorting"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

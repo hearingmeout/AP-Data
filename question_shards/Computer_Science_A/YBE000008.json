@@ -1,0 +1,41 @@
+{
+  "id": "YBE000008",
+  "type": "mcq",
+  "title": "Mainly red pixels - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following expressions will evaluate to true for a “mainly red” pixel?",
+    "image": null,
+    "choices": [
+      {
+        "label": "(redPct <= 50) || (greenPct >= 10) || (bluePct >= 10)",
+        "image": null
+      },
+      {
+        "label": "(redPct > 50) && (greenPct < 10) || (bluePct < 10)",
+        "image": null
+      },
+      {
+        "label": "!( (redPct <= 50) || (greenPct >= 10) || (bluePct >= 10) )",
+        "image": null
+      },
+      {
+        "label": "!(redPct > 50) && !(greenPct > 10) && !(bluePct > 10)",
+        "image": null
+      }
+    ],
+    "answer": "!( (redPct <= 50) || (greenPct >= 10) || (bluePct >= 10) )"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Comparing Boolean Expressions"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

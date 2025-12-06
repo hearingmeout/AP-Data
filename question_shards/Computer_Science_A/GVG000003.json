@@ -1,0 +1,41 @@
+{
+  "id": "GVG000003",
+  "type": "mcq",
+  "title": "Vehicle API Specification - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Based on the class specification, which of the following descriptions is accurate?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Vehicle objects are attributes of the variables make, model, and year.",
+        "image": null
+      },
+      {
+        "label": "Vehicle objects are behaviors of the variables make, model, and year.",
+        "image": null
+      },
+      {
+        "label": "The variables make, model, and year are attributes of Vehicle objects.",
+        "image": null
+      },
+      {
+        "label": "The variables make, model, and year are behaviors of Vehicle objects.",
+        "image": null
+      }
+    ],
+    "answer": "The variables make, model, and year are attributes of Vehicle objects."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.7",
+    "text": "1.7: Application Program Interface (API) and Libraries"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "PGE000002",
+  "type": "mcq",
+  "title": "calculateFee method in RentalCar - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following code segments can be used to replace /* missing code */ so that the calculateFee method works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "return dailyRate + mileageRate;",
+        "image": null
+      },
+      {
+        "label": "return (daily * dailyRate) + (mileage * mileageRate);",
+        "image": null
+      },
+      {
+        "label": "return (daily * days) + (mileage * miles);",
+        "image": null
+      },
+      {
+        "label": "return (days * dailyRate) + (miles * mileageRate);",
+        "image": null
+      }
+    ],
+    "answer": "return (days * dailyRate) + (miles * mileageRate);"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.5",
+    "text": "3.5: Methods: How to Write Them"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

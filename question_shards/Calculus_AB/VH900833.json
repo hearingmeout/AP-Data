@@ -1,0 +1,41 @@
+{
+  "id": "VH900833",
+  "type": "mcq",
+  "title": "Processes - Evaluate Limits",
+  "content": {
+    "description": "",
+    "question": "It is known that <math alttext=\"the limit as x approaches 0, of, the fraction with numerator the sine of, open parenthesis, 2 x, close parenthesis, and denominator 2 x, end fraction, equals 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mn>0</mn></mrow></munder><mfrac><mrow><mi>sin</mi><mo>⁡</mo><mrow><mo>(</mo><mn>2</mn><mi>x</mi><mo>)</mo></mrow></mrow><mrow><mn>2</mn><mi>x</mi></mrow></mfrac><mo>=</mo><mn>1</mn></mrow></mstyle></math>. What is <math alttext=\"the limit as x approaches 0, of, the fraction with numerator the tangent of, open parenthesis, 2 x, close parenthesis, and denominator 6 x times, the secant of, open parenthesis, 3 x, close parenthesis, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mn>0</mn></mrow></munder><mfrac><mrow><mi>tan</mi><mo>⁡</mo><mrow><mo>(</mo><mn>2</mn><mi>x</mi><mo>)</mo></mrow></mrow><mrow><mn>6</mn><mi>x</mi><mo>⁢</mo><mi>sec</mi><mo>⁡</mo><mrow><mo>(</mo><mn>3</mn><mi>x</mi><mo>)</mo></mrow></mrow></mfrac></mrow></mstyle></math>?",
+    "image": null,
+    "choices": [
+      {
+        "label": "0",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one sixth\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>6</mn></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one third\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "nonexistent",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"one third\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.6",
+    "text": "1.6: Determining Limits Using Algebraic Manipulation"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Identify an appropriate mathematical rule or procedure based on the classification of a given expression (e.g., Use the chain rule to find the derivative of a composite function)."
+  }
+}

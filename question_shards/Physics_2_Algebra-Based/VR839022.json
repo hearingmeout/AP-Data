@@ -1,0 +1,41 @@
+{
+  "id": "VR839022",
+  "type": "mcq",
+  "title": "Kirchhoff loop - express KLR in 3-resistor circuit",
+  "content": {
+    "description": "",
+    "question": "A circuit is comprised of a battery of <math alttext=\"e m f\" display=\"inline\" overflow=\"scroll\"><mi>emf</mi></math> <math alttext=\"open E\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi></math> and three resistors, as shown in the figure. The resistors have resistances <math alttext=\"R sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>1</mn></msub></math>, <math alttext=\"R sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>2</mn></msub></math>, and <math alttext=\"R sub 3\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>3</mn></msub></math> and currents <math alttext=\"I sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>1</mn></msub></math>, <math alttext=\"I sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>2</mn></msub></math>, and <math alttext=\"I sub 3\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>3</mn></msub></math> in the directions indicated. Which of the following equations represents a correct application of Kirchhoff’s loop rule in the circuit?",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_2_Algebra-Based/376ba93e768eab9ebafbed9b0ad04e3b.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"open E plus I sub 1, end sub, times R sub 1, end sub, plus I sub 2, end sub, times R sub 2, end sub, equals 0\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi><mo>+</mo><msub><mi>I</mi><mn>1</mn></msub><msub><mi>R</mi><mn>1</mn></msub><mo>+</mo><msub><mi>I</mi><mn>2</mn></msub><msub><mi>R</mi><mn>2</mn></msub><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open E minus I sub 1, end sub, times R sub 1, end sub, minus I sub 3, end sub, times R sub 3, end sub, equals 0\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi><mo>−</mo><msub><mi>I</mi><mn>1</mn></msub><msub><mi>R</mi><mn>1</mn></msub><mo>−</mo><msub><mi>I</mi><mn>3</mn></msub><msub><mi>R</mi><mn>3</mn></msub><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open E plus I sub 1, end sub, times R sub 1, end sub, plus I sub 2, end sub, times R sub 2, end sub, plus I sub 3, end sub, times R sub 3, end sub, equals 0\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi><mo>+</mo><msub><mi>I</mi><mn>1</mn></msub><msub><mi>R</mi><mn>1</mn></msub><mo>+</mo><msub><mi>I</mi><mn>2</mn></msub><msub><mi>R</mi><mn>2</mn></msub><mo>+</mo><msub><mi>I</mi><mn>3</mn></msub><msub><mi>R</mi><mn>3</mn></msub><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open E minus I sub 1, end sub, times R sub 1, end sub, minus I sub 2, end sub, times R sub 2, end sub, minus I sub 3, end sub, times R sub 3, end sub, equals 0\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi><mo>−</mo><msub><mi>I</mi><mn>1</mn></msub><msub><mi>R</mi><mn>1</mn></msub><mo>−</mo><msub><mi>I</mi><mn>2</mn></msub><msub><mi>R</mi><mn>2</mn></msub><mo>−</mo><msub><mi>I</mi><mn>3</mn></msub><msub><mi>R</mi><mn>3</mn></msub><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"open E minus I sub 1, end sub, times R sub 1, end sub, minus I sub 3, end sub, times R sub 3, end sub, equals 0\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi><mo>−</mo><msub><mi>I</mi><mn>1</mn></msub><msub><mi>R</mi><mn>1</mn></msub><mo>−</mo><msub><mi>I</mi><mn>3</mn></msub><msub><mi>R</mi><mn>3</mn></msub><mo>=</mo><mn>0</mn></math>"
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.6",
+    "text": "11.6: Kirchhoff's Loop Rule"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

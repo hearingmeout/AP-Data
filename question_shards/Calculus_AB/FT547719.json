@@ -1,0 +1,45 @@
+{
+  "id": "FT547719",
+  "type": "mcq",
+  "title": "Additivity of two definite integrals",
+  "content": {
+    "description": "",
+    "question": "The graph of y=f(x) is shown in the figure above. If A1 and A2 are positive numbers that represent the areas of the shaded regions, then in terms of A1 and A2, <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mrow> <mo>−</mo> <mn>4</mn> </mrow> <mn>4</mn> </msubsup> <mi>f</mi> </mrow> </mstyle> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mi>d</mi> <mi>x</mi> <mo>−</mo> <mn>2</mn> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mrow> <mo>−</mo> <mn>1</mn> </mrow> <mn>4</mn> </msubsup> <mi>f</mi> </mrow> </mstyle> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mi>d</mi> <mi>x</mi> <mo>=</mo> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaapedapaqaa8qacaWGMbaal8aabaWdbiabgkHiTiaaisdaa8aabaWdbiaaisdaa0Gaey4kIipakmaabmaapaqaa8qacaWG4baacaGLOaGaayzkaaGaamizaiaadIhacqGHsislcaaIYaWaa8qma8aabaWdbiaadAgaaSWdaeaapeGaeyOeI0IaaGymaaWdaeaapeGaaGinaaqdcqGHRiI8aOWaaeWaa8aabaWdbiaadIhaaiaawIcacaGLPaaacaWGKbGaamiEaiabg2da9aaa@50A6@</annotation> </semantics> </math>",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Calculus_AB/27218037c4f4f21f18195d35272a3fd9.png",
+    "choices": [
+      {
+        "label": "A1",
+        "image": null
+      },
+      {
+        "label": "A1-A2",
+        "image": null
+      },
+      {
+        "label": "2A1-A2",
+        "image": null
+      },
+      {
+        "label": "A1+A2",
+        "image": null
+      },
+      {
+        "label": "A1+2A2",
+        "image": null
+      }
+    ],
+    "answer": "A1+A2"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.6",
+    "text": "6.6: Applying Properties of Definite Integrals"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VH929196",
+  "type": "mcq",
+  "title": "values printed in arr traversal",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "int[] arr = {3, 1, 0, 4, 2};for(int j = 0; j < arr.length; j++){System.out.print(arr[j] + j + \" \");}What, if anything, is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "3 1 0 4 2",
+        "image": null
+      },
+      {
+        "label": "3 2 2 7 6",
+        "image": null
+      },
+      {
+        "label": "6 2 0 8 4",
+        "image": null
+      },
+      {
+        "label": "Nothing is printed, because an ArrayIndexOutOfBoundsException is thrown.",
+        "image": null
+      }
+    ],
+    "answer": "3 2 2 7 6"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.4",
+    "text": "4.4: Array Traversals"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

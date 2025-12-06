@@ -1,0 +1,41 @@
+{
+  "id": "LXZ000006",
+  "type": "mcq",
+  "title": "how many times selectionSort - determine result",
+  "content": {
+    "description": "",
+    "question": "How many times is the statement in line 17 of the method executed as a result of the call selectionSort(arr)?",
+    "image": null,
+    "choices": [
+      {
+        "label": "2",
+        "image": null
+      },
+      {
+        "label": "3",
+        "image": null
+      },
+      {
+        "label": "4",
+        "image": null
+      },
+      {
+        "label": "5",
+        "image": null
+      }
+    ],
+    "answer": "2"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.15",
+    "text": "4.15: Sorting Algorithms"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

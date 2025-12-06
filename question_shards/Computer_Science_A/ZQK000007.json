@@ -1,0 +1,41 @@
+{
+  "id": "ZQK000007",
+  "type": "mcq",
+  "title": "Nested for loops - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the behavior of this code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The print statement is executed 7 times because the outer loop iterates 3 times and the inner loop iterates 4 times.",
+        "image": null
+      },
+      {
+        "label": "The print statement is executed 8 times because the outer loop iterates 3 times and the inner loop iterates 5 times.",
+        "image": null
+      },
+      {
+        "label": "The print statement is executed 12 times because the outer loop iterates 3 times and the inner loop iterates 4 times for each iteration of the outer loop.",
+        "image": null
+      },
+      {
+        "label": "The print statement is executed 15 times because the outer loop iterates 3 times and the inner loop iterates 5 times for each iteration of the outer loop.",
+        "image": null
+      }
+    ],
+    "answer": "The print statement is executed 12 times because the outer loop iterates 3 times and the inner loop iterates 4 times for each iteration of the outer loop."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.11",
+    "text": "2.11: Nested Iteration"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

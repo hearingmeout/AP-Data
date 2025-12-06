@@ -1,0 +1,40 @@
+{
+  "id": "VR869998",
+  "type": "frq",
+  "title": "Circuits - RC circuit with switch",
+  "content": {
+    "description": "",
+    "question": "(a) The switch is then closed. i. On the circuit diagram in Figure <math alttext=\"2\" overflow=\"scroll\"><mn>2</mn></math>, draw an arrow next to each resistor to show the direction of the initial current in each resistor immediately after the switch is closed. If there is no current in either of the resistors, write “<math alttext=\"I equals 0\" overflow=\"scroll\"> <mi>I</mi> <mo>=</mo> <mn>0</mn> </math>” next to that resistor.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "(a) The switch is then closed. i. On the circuit diagram in Figure <math alttext=\"2\" overflow=\"scroll\"><mn>2</mn></math>, draw an arrow next to each resistor to show the direction of the initial current in each resistor immediately after the switch is closed. If there is no current in either of the resistors, write “<math alttext=\"I equals 0\" overflow=\"scroll\"> <mi>I</mi> <mo>=</mo> <mn>0</mn> </math>” next to that resistor.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_C_Electricity_and_Magnetism/VR869998.g04.svg"
+      },
+      {
+        "text": "ii. Derive an equation for the initial current in the battery immediately after the switch is closed. Express your answer in terms of <math alttext=\"script uppercase E\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi></math> and <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math>. Begin your derivation by writing a fundamental physics principle or an equation from the reference booklet.",
+        "image": null
+      },
+      {
+        "text": "iii. After the switch has been closed for a long time, the switch is opened at time <math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn></math>. Using integral calculus, derive an expression to show that the charge on the positive capacitor plate as a function of time as the capacitor discharges is equal to <math alttext=\"q of t equals, C times script uppercase E, times e raised to the negative fraction t over 2 R C, end fraction, power\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>q</mi></mstyle><mstyle displaystyle=\"true\"><mo stretchy=\"false\">(</mo></mstyle><mstyle displaystyle=\"true\"><mi>t</mi></mstyle><mstyle displaystyle=\"true\"><mo stretchy=\"false\">)</mo></mstyle><mstyle displaystyle=\"true\"><mo>=</mo></mstyle><mstyle displaystyle=\"true\"><mi>C</mi></mstyle><mi>Ɛ</mi><mstyle displaystyle=\"true\"><msup><mstyle displaystyle=\"true\"><mi mathvariant=\"normal\">e</mi></mstyle><mrow><mo>−</mo><mfrac><mi>t</mi><mrow><mn>2</mn><mi>R</mi><mi>C</mi></mrow></mfrac></mrow></msup></mstyle></math>. Begin your derivation by writing a fundamental physics principle or an equation from the reference booklet.",
+        "image": null
+      },
+      {
+        "text": "(b) Derive an expression for the time <math alttext=\"t sub one half\" display=\"inline\" overflow=\"scroll\"><msub><mi>t</mi><mrow><mn>1</mn><mo>/</mo><mn>2</mn></mrow></msub></math> at which the current in the branch with the discharging capacitor is half the current immediately after the switch is opened. Express your answer in terms of <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math> and <math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mi>C</mi></math>. Begin your derivation by writing a fundamental physics principle or an equation from the reference booklet.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.3",
+    "text": "11.3: Resistance, Resistivity, and Ohm's Law"
+  },
+  "skill": {
+    "code": "1.A",
+    "text": "1.A: Create diagrams, tables, charts, or schematics to represent physical situations."
+  }
+}

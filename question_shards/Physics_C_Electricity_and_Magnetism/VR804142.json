@@ -1,0 +1,41 @@
+{
+  "id": "VR804142",
+  "type": "mcq",
+  "title": "Resistivity - varying resistivity in bars 1 2 3",
+  "content": {
+    "description": "Three resistors are constructed in the shape of a bar, each having the same length <math alttext=\"L\" display=\"inline\" overflow=\"scroll\"><mi>L</mi></math> and the same square cross section of area <math alttext=\"A\" display=\"inline\" overflow=\"scroll\"><mi>A</mi></math>. The bars are made of different materials and have different resistivities as follows.",
+    "question": "In Bar <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>, the resistivity has a uniform value of <math alttext=\"rho sub 1 equals 1.5 rho sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>ρ</mi><mn>1</mn></msub><mo>=</mo><mn>1.5</mn><msub><mi>ρ</mi><mn>0</mn></msub></math>, where <math alttext=\"rho sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>ρ</mi><mn>0</mn></msub></math> is a positive constant, along the length of the bar.In Bar <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>, the resistivity varies along the length of the bar. The resistivity, as a function of distance <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mi>x</mi></math> from the left end of the bar, is <math alttext=\"rho sub 2, of x, equals rho sub 0, times open parenthesis, 1 plus the fraction x over L, close parenthesis\" display=\"inline\" overflow=\"scroll\"><msub><mi>ρ</mi><mn>2</mn></msub><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msub><mi>ρ</mi><mn>0</mn></msub><mrow><mo>(</mo><mn>1</mn><mo>+</mo><mfrac><mi>x</mi><mi>L</mi></mfrac><mo>)</mo></mrow></math>.In Bar <math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mn>3</mn></math>, the resistivity varies along the length of the bar according to the function <math alttext=\"rho sub 3, of x, equals rho sub 0, times open parenthesis, 1 plus, open parenthesis, the fraction x over L, close parenthesis, squared, close parenthesis\" display=\"inline\" overflow=\"scroll\"><msub><mi>ρ</mi><mn>3</mn></msub><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msub><mi>ρ</mi><mn>0</mn></msub><mrow><mo>(</mo><mn>1</mn><mo>+</mo><msup><mrow><mo>(</mo><mfrac><mi>x</mi><mi>L</mi></mfrac><mo>)</mo></mrow><mn>2</mn></msup><mo>)</mo></mrow></math>.Which of the following claims about the resistances of the bars is correct?",
+    "image": "https://ap.oly.st/images/3be53a929d5e85816948faf957332072.svg",
+    "choices": [
+      {
+        "label": "Bar <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> has a greater resistance than Bar <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>.",
+        "image": null
+      },
+      {
+        "label": "Bar <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> has a greater resistance than Bar <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>.",
+        "image": null
+      },
+      {
+        "label": "Bar <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> has a greater resistance than Bar <math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mn>3</mn></math>.",
+        "image": null
+      },
+      {
+        "label": "Bar <math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mn>3</mn></math> has a greater resistance than Bar <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>.",
+        "image": null
+      }
+    ],
+    "answer": "Bar <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> has a greater resistance than Bar <math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mn>3</mn></math>."
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.3",
+    "text": "11.3: Resistance, Resistivity, and Ohm's Law"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

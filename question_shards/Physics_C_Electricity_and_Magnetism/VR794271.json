@@ -1,0 +1,41 @@
+{
+  "id": "VR794271",
+  "type": "mcq",
+  "title": "Ohms law - I-V data graph up to 3 mA at 5 V",
+  "content": {
+    "description": "",
+    "question": "A resistor is connected to a variable source of potential difference. A group of students take measurements of the potential difference <math alttext=\"delta V\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi mathvariant=\"normal\">Δ</mi><mi>V</mi></mstyle></math> across and current in a resistor for different settings of the source of potential difference. A graph of the students’ data is shown in the figure. Which of the following will best determine the resistance of the resistor?",
+    "image": "https://ap.oly.st/images/2400512308a2aa1cdcc3d26aafd9c175.svg",
+    "choices": [
+      {
+        "label": "Calculate the area under a best-fit line between the lowest and highest <math alttext=\"delta V\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Δ</mi><mi>V</mi></math> values.",
+        "image": null
+      },
+      {
+        "label": "Calculate the areas under line segments that connect adjacent data points. Add the areas together.",
+        "image": null
+      },
+      {
+        "label": "Calculate the slope of a best-fit line to the data. Take the inverse of the slope.",
+        "image": null
+      },
+      {
+        "label": "Calculate the slope of the line connecting the points with the lowest and highest <math alttext=\"delta V\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Δ</mi><mi>V</mi></math> values. Take the inverse of the slope.",
+        "image": null
+      }
+    ],
+    "answer": "Calculate the slope of a best-fit line to the data. Take the inverse of the slope."
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.3",
+    "text": "11.3: Resistance, Resistivity, and Ohm's Law"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

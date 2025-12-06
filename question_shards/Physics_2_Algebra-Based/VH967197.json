@@ -1,0 +1,41 @@
+{
+  "id": "VH967197",
+  "type": "mcq",
+  "title": "Does data support prediction",
+  "content": {
+    "description": "",
+    "question": "The students predict that the closer the sphere gets to the plates, the larger the electric field between points <math alttext=\"A\" overflow=\"scroll\"><mstyle><mrow><mtext>A</mtext></mrow></mstyle></math> and <math alttext=\"B\" overflow=\"scroll\"><mstyle><mrow><mtext>B</mtext></mrow></mstyle></math>. They measure the potential difference <math alttext=\"delta V sub A B\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi mathvariant=\"normal\">Δ</mi><mi>V</mi></mrow><mrow><mtext>AB</mtext></mrow></msub></mrow></mstyle></math> between points <math alttext=\"A\" overflow=\"scroll\"><mstyle><mrow><mtext>A</mtext></mrow></mstyle></math> and <math alttext=\"B\" overflow=\"scroll\"><mstyle><mrow><mtext>B</mtext></mrow></mstyle></math> for several values of <math alttext=\"L\" overflow=\"scroll\"><mrow><mi>L</mi></mrow></math>, and the results are shown in the graph. Do the results support their prediction, and why or why not?",
+    "image": "https://ap.oly.st/images/c9d66c07fef9969770945338948c96d3.png",
+    "choices": [
+      {
+        "label": "Yes. The distance between the plates is fixed, so the potential difference between points <math alttext=\"A\" overflow=\"scroll\"><mstyle><mrow><mtext>A</mtext></mrow></mstyle></math> and <math alttext=\"B\" overflow=\"scroll\"><mstyle><mrow><mtext>B</mtext></mrow></mstyle></math> is proportional to the electric field. The increasing potential difference with decreasing distance to the sphere indicates an increasing electric field.",
+        "image": null
+      },
+      {
+        "label": "Yes. The electric field is given by <math alttext=\"the fraction, delta V sub A B, over L\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><msub><mrow><mi mathvariant=\"normal\">Δ</mi><mi>V</mi></mrow><mrow><mtext>AB</mtext></mrow></msub></mrow><mrow><mi>L</mi></mrow></mfrac></mrow></mstyle></math>, and this ratio increases for decreasing values of <math alttext=\"L\" overflow=\"scroll\"><mrow><mi>L</mi></mrow></math>. Therefore, the electric field increases as the sphere gets closer.",
+        "image": null
+      },
+      {
+        "label": "No. The electric field depends on the distance between the points. The prediction cannot be confirmed without knowing the numerical value of <math alttext=\"d\" overflow=\"scroll\"><mstyle><mrow><mi>d</mi></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "No. The electric field between two plates is uniform. It will not change regardless of the potential difference between the points.",
+        "image": null
+      }
+    ],
+    "answer": "Yes. The distance between the plates is fixed, so the potential difference between points <math alttext=\"A\" overflow=\"scroll\"><mstyle><mrow><mtext>A</mtext></mrow></mstyle></math> and <math alttext=\"B\" overflow=\"scroll\"><mstyle><mrow><mtext>B</mtext></mrow></mstyle></math> is proportional to the electric field. The increasing potential difference with decreasing distance to the sphere indicates an increasing electric field."
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Electric Force, Field, and Potential"
+  },
+  "topic": {
+    "code": "10.5",
+    "text": "10.5: Electric Potential"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

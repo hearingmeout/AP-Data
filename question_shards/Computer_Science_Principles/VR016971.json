@@ -1,0 +1,37 @@
+{
+  "id": "VR016971",
+  "type": "mcq",
+  "title": "BotMover",
+  "content": {
+    "description": "",
+    "question": "Which of the following code segments will move the robot to the gray square along the path indicated by the arrows?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The figure presents three blocks of code. Throughout the code there are nested blocks of code. Line 1: [begin block] BotMover [begin block] 1 [end block] [end block] Line 2: [begin block] BotMover [begin block] 1 [end block] [end block] Line 3: [begin block] BotMover [begin block] 0 [end block] [end block]",
+        "image": "https://ap.oly.st/images/023f2bd8c0f0cb134bb92284928f6dbc.png"
+      },
+      {
+        "label": "The figure presents three blocks of code. Throughout the code there are nested blocks of code. Line 1: [begin block] BotMover [begin block] 1 [end block] [end block] Line 2: [begin block] BotMover [begin block] 2 [end block] [end block] Line 3: [begin block] BotMover [begin block] 3 [end block] [end block]",
+        "image": "https://ap.oly.st/images/9677ae584cbda6520f087fdf1faacf33.png"
+      },
+      {
+        "label": "The figure presents three blocks of code. Throughout the code there are nested blocks of code. Line 1: [begin block] BotMover [begin block] 1 [end block] [end block] Line 2: [begin block] BotMover [begin block] 3 [end block] [end block] Line 3: [begin block] BotMover [begin block] 0 [end block] [end block]",
+        "image": "https://ap.oly.st/images/08e1a93ff1982912738d14f0c508fd32.png"
+      },
+      {
+        "label": "The figure presents three blocks of code. Throughout the code there are nested blocks of code. Line 1: [begin block] BotMover [begin block] 3 [end block] [end block] Line 2: [begin block] BotMover [begin block] 1 [end block] [end block] Line 3: [begin block] BotMover [begin block] 0 [end block] [end block]",
+        "image": "https://ap.oly.st/images/2fd1d774ccf07f5d07b12c35e4113036.png"
+      }
+    ],
+    "answer": "The figure presents three blocks of code. Throughout the code there are nested blocks of code. Line 1: [begin block] BotMover [begin block] 1 [end block] [end block] Line 2: [begin block] BotMover [begin block] 3 [end block] [end block] Line 3: [begin block] BotMover [begin block] 0 [end block] [end block]"
+  },
+  "topic": {
+    "code": "3.12",
+    "text": "3.12: Calling Procedures"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Use abstraction to manage complexity in a program."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VH934813",
+  "type": "mcq",
+  "title": "Representations - Limits - Multi Representations",
+  "content": {
+    "description": "If <math alttext=\"h\" overflow=\"scroll\"><mstyle><mrow><mi>h</mi></mrow></mstyle></math> is a piecewise linear function such that <math alttext=\"the limit as x approaches 3, of, h of x\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mn>3</mn></mrow></munder><mi>h</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow></mstyle></math> does not exist, which of the following could be representative of the function <math alttext=\"h\" overflow=\"scroll\"><mstyle><mrow><mi>h</mi></mrow></mstyle></math> ?",
+    "question": "<math alttext=\"h of x, equals, 12 minus x, for x less than 3; h of x, equals, 4 x minus 3, for x greater than 3.\" overflow=\"scroll\"><mstyle><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mo>{</mo><mtable columnalign=\"left\"><mtr><mtd><mn>12</mn><mo>−</mo><mi>x</mi></mtd><mtd><mrow><mtext>for</mtext><mspace></mspace><mspace width=\"0.45em\"></mspace><mi>x</mi><mo>&lt;</mo><mn>3</mn></mrow></mtd></mtr><mtr><mtd><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn></mtd><mtd><mrow><mtext>for</mtext><mspace></mspace><mspace width=\"0.45em\"></mspace><mi>x</mi><mo>&gt;</mo><mn>3</mn></mrow></mtd></mtr></mtable></mrow></mstyle></math> <math alttext=\"The figure presents a 2 row table, with 7 columns of data. The heading for row 1 is “x,” and the heading for row 2 is “h of x.” The data in the table are as follows. Column 1. x is 0. h of x is 3. Column 2. x is 1. h of x is eight thirds. Column 3. x is 2. h of x is seven thirds. Column 4. x is 3. h of x is 0. Column 5. x is 4. h of x is 1. Column 6. x is 5. h of x is 2. Column 7. x is 6. h of x is 3.\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mtable columnlines=\"solid\" columnspacing=\"0.0em\" columnwidth=\"3em 0.05em 3em 3em 3em 3em 3em 3em 3em 3em 3em\" equalrows=\"true\" frame=\"solid\" framespacing=\"0.0em 0.5ex\" rowlines=\"solid\" rowspacing=\"1ex\" width=\"auto\"><mtr><mtd><mi>x</mi></mtd><mtd><mspace depth=\"1.0ex\" height=\"2.25ex\" width=\"0.0em\"></mspace></mtd><mtd><mn>0</mn></mtd><mtd><mn>1</mn></mtd><mtd><mn>2</mn></mtd><mtd><mn>3</mn></mtd><mtd><mn>4</mn></mtd><mtd><mn>5</mn></mtd><mtd><mn>6</mn></mtd></mtr><mtr><mtd><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mtd><mtd><mspace depth=\"1.0ex\" height=\"2.25ex\" width=\"0.0em\"></mspace></mtd><mtd><mn>3</mn></mtd><mtd><mfrac><mrow><mn>8</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mtd><mtd><mfrac><mrow><mn>7</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mtd><mtd><mn>0</mn></mtd><mtd><mn>1</mn></mtd><mtd><mn>2</mn></mtd><mtd><mn>3</mn></mtd></mtr></mtable></mrow></mstyle></mrow></mstyle></math>",
+    "image": "https://ap.oly.st/images/7a14908535806178d2573e050a07e09e.png",
+    "choices": [
+      {
+        "label": "I only",
+        "image": null
+      },
+      {
+        "label": "II only",
+        "image": null
+      },
+      {
+        "label": "III only",
+        "image": null
+      },
+      {
+        "label": "II and III only",
+        "image": null
+      }
+    ],
+    "answer": "II and III only"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Connecting Multiple Representations of Limits"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

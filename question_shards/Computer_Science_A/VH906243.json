@@ -1,0 +1,41 @@
+{
+  "id": "VH906243",
+  "type": "mcq",
+  "title": "volume of a cylinder",
+  "content": {
+    "description": "The volume of a cylinder is equal to the height times the area of the circular base. The area of the circular base is equal to <math alttext=\"pi\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>π</mi></mrow></mstyle></math> (pi) times the square of the radius.",
+    "question": "The code segment below is intended to compute and print the volume of a cylinder with radius r and height h. Assume that the double variables r, h, and pi have been properly declared and initialized./* missing code */System.out.print(volume);Which of the following can be used to replace /* missing code */ so that the code segment works as intended?double baseArea = pi * r * r;double volume = baseArea * h;double volume = pi * r * r;volume = volume * h;double volume = pi * r * r * h;",
+    "image": null,
+    "choices": [
+      {
+        "label": "I only",
+        "image": null
+      },
+      {
+        "label": "I and III only",
+        "image": null
+      },
+      {
+        "label": "II and III only",
+        "image": null
+      },
+      {
+        "label": "I, II, and III",
+        "image": null
+      }
+    ],
+    "answer": "I, II, and III"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Assignment Statements and Input"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

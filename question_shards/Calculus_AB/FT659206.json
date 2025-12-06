@@ -1,0 +1,40 @@
+{
+  "id": "FT659206",
+  "type": "frq",
+  "title": "Maclauring series for f(π)",
+  "content": {
+    "description": "",
+    "question": "The Maclaurin series for f(x) is given by <math> <semantics> <mrow> <mn>1</mn> <mo>+</mo> <mfrac> <mi>x</mi> <mrow> <mn>2</mn> <mo>!</mo> </mrow> </mfrac> <mo>+</mo> <mfrac> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mrow> <mn>3</mn> <mo>!</mo> </mrow> </mfrac> <mo>+</mo> <mfrac> <mrow> <msup> <mi>x</mi> <mn>3</mn> </msup> </mrow> <mrow> <mn>4</mn> <mo>!</mo> </mrow> </mfrac> <mo>+</mo> <mo>⋯</mo> <mo>+</mo> <mfrac> <mrow> <msup> <mi>x</mi> <mi>n</mi> </msup> </mrow> <mrow> <mo stretchy=\"false\">(</mo> <mi>n</mi> <mo>+</mo> <mn>1</mn> <mo stretchy=\"false\">)</mo> <mo>!</mo> </mrow> </mfrac> <mo>+</mo> <mo>⋯</mo> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaGymaiabgU caRmaalaaabaGaamiEaaqaaiaaikdacaGGHaaaaiabgUcaRmaalaaa baGaamiEamaaCaaaleqabaGaaGOmaaaaaOqaaiaaiodacaGGHaaaai abgUcaRmaalaaabaGaamiEamaaCaaaleqabaGaaG4maaaaaOqaaiaa isdacaGGHaaaaiabgUcaRiabl+UimjabgUcaRmaalaaabaGaamiEam aaCaaaleqabaGaamOBaaaaaOqaaiaacIcacaWGUbGaey4kaSIaaGym aiaacMcacaGGHaaaaiabgUcaRiabl+Uimbaa@4FD2@ </annotation> </semantics> </math> (a) Find f′(0) and f (17)(0) .",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "The Maclaurin series for f(x) is given by <math> <semantics> <mrow> <mn>1</mn> <mo>+</mo> <mfrac> <mi>x</mi> <mrow> <mn>2</mn> <mo>!</mo> </mrow> </mfrac> <mo>+</mo> <mfrac> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mrow> <mn>3</mn> <mo>!</mo> </mrow> </mfrac> <mo>+</mo> <mfrac> <mrow> <msup> <mi>x</mi> <mn>3</mn> </msup> </mrow> <mrow> <mn>4</mn> <mo>!</mo> </mrow> </mfrac> <mo>+</mo> <mo>⋯</mo> <mo>+</mo> <mfrac> <mrow> <msup> <mi>x</mi> <mi>n</mi> </msup> </mrow> <mrow> <mo stretchy=\"false\">(</mo> <mi>n</mi> <mo>+</mo> <mn>1</mn> <mo stretchy=\"false\">)</mo> <mo>!</mo> </mrow> </mfrac> <mo>+</mo> <mo>⋯</mo> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaGymaiabgU caRmaalaaabaGaamiEaaqaaiaaikdacaGGHaaaaiabgUcaRmaalaaa baGaamiEamaaCaaaleqabaGaaGOmaaaaaOqaaiaaiodacaGGHaaaai abgUcaRmaalaaabaGaamiEamaaCaaaleqabaGaaG4maaaaaOqaaiaa isdacaGGHaaaaiabgUcaRiabl+UimjabgUcaRmaalaaabaGaamiEam aaCaaaleqabaGaamOBaaaaaOqaaiaacIcacaWGUbGaey4kaSIaaGym aiaacMcacaGGHaaaaiabgUcaRiabl+Uimbaa@4FD2@ </annotation> </semantics> </math> (a) Find f′(0) and f (17)(0) .",
+        "image": null
+      },
+      {
+        "text": "(b) For what values of x does the given series converge? Show your reasoning.",
+        "image": null
+      },
+      {
+        "text": "(c) Let g(x) = x f(x). Write the Maclaurin series for g(x), showing the first three nonzero terms and the general term.",
+        "image": null
+      },
+      {
+        "text": "(d) Write g(x) in terms of a familiar function without using series. Then, write f(x) in terms of the same familiar function.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.11",
+    "text": "10.11: (BC ONLY) Finding Taylor Polynomial Approximations of Functions"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

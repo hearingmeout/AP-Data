@@ -1,0 +1,41 @@
+{
+  "id": "OAE000002",
+  "type": "mcq",
+  "title": "missing inner for loop header - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following can be used as a replacement for /* missing loop header */ so that the code segment produces the output 00_01_02_11_12_22_?",
+    "image": null,
+    "choices": [
+      {
+        "label": "int inner = 0; inner < 3; inner++",
+        "image": null
+      },
+      {
+        "label": "int inner = 1; inner < 3; inner++",
+        "image": null
+      },
+      {
+        "label": "int inner = outer - 1; inner < 3; inner++",
+        "image": null
+      },
+      {
+        "label": "int inner = outer; inner < 3; inner++",
+        "image": null
+      }
+    ],
+    "answer": "int inner = outer; inner < 3; inner++"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.11",
+    "text": "2.11: Nested Iteration"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VR625282",
+  "type": "mcq",
+  "title": "Energy conservation - sliding uphill with friction",
+  "content": {
+    "description": "",
+    "question": "A rock of mass <math alttext=\"m\" display=\"inline\" overflow=\"scroll\"><mi>m</mi></math> slides toward a ramp and has speed <math alttext=\"v sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>v</mi><mn>0</mn></msub></math> when it reaches the bottom of the ramp, which is at an angle <math alttext=\"theta\" display=\"inline\" overflow=\"scroll\"><mi>θ</mi></math> to the horizontal, as shown. The coefficient of kinetic friction between the rock and the ramp is <math alttext=\"mu sub k\" display=\"inline\" overflow=\"scroll\"><msub><mi>μ</mi><mi>k</mi></msub></math>. The rock slides a distance <math alttext=\"d\" display=\"inline\" overflow=\"scroll\"><mi>d</mi></math> up the hill before stopping at a vertical distance <math alttext=\"h\" display=\"inline\" overflow=\"scroll\"><mi>h</mi></math> above the bottom of the ramp. Which of the following expressions is equal to the force of friction exerted on the rock?",
+    "image": "https://ap.oly.st/images/f3eff35b72d2aa652637ebe275553f0e.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"mu sub k, end sub, m g\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>μ</mi><mi>k</mi></msub><mi>m</mi><mi>g</mi></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"m g times the cosine of theta\" display=\"inline\" overflow=\"scroll\"><mi>m</mi><mi>g</mi><mi>cos</mi><mi>θ</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator m v sub 0, end sub, squared and denominator 2 d, end fraction\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mi>m</mi><msubsup><mi>v</mi><mn>0</mn><mn>2</mn></msubsup></mrow><mrow><mn>2</mn><mi>d</mi></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator m, times open parenthesis, v sub 0, end sub, squared minus 2 g h, close parenthesis, and denominator 2 d, end fraction\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mi>m</mi><mrow><mo>(</mo><msubsup><mi>v</mi><mn>0</mn><mn>2</mn></msubsup><mo>−</mo><mn>2</mn><mi>g</mi><mi>h</mi><mo>)</mo></mrow></mrow><mrow><mn>2</mn><mi>d</mi></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the fraction with numerator m, times open parenthesis, v sub 0, end sub, squared minus 2 g h, close parenthesis, and denominator 2 d, end fraction\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mi>m</mi><mrow><mo>(</mo><msubsup><mi>v</mi><mn>0</mn><mn>2</mn></msubsup><mo>−</mo><mn>2</mn><mi>g</mi><mi>h</mi><mo>)</mo></mrow></mrow><mrow><mn>2</mn><mi>d</mi></mrow></mfrac></math>"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Work, Energy, and Power"
+  },
+  "topic": {
+    "code": "3.4",
+    "text": "3.4: Conservation of Energy"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

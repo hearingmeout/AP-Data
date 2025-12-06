@@ -1,0 +1,41 @@
+{
+  "id": "VH938949",
+  "type": "mcq",
+  "title": "error in countTarget method",
+  "content": {
+    "description": "The method countTarget below is intended to return the number of times the value target appears in the array arr. The method may not work as intended.",
+    "question": "public int countTarget(int[] arr, int target){int count = 0;for (int j = 0; j <= arr.length; j++) // line 4{if (arr[j] == target){count++;}}return count;}Which of the following changes, if any, can be made to line 4 so that the method will work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Changing j <= arr.length; to j < arr.length;",
+        "image": null
+      },
+      {
+        "label": "Changing j <= arr.length; to j < arr.length - 1;",
+        "image": null
+      },
+      {
+        "label": "Changing j <= arr.length; to j < arr.length + 1;",
+        "image": null
+      },
+      {
+        "label": "No change is necessary; the method works correctly as is.",
+        "image": null
+      }
+    ],
+    "answer": "Changing j <= arr.length; to j < arr.length;"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Array Creation and Access"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

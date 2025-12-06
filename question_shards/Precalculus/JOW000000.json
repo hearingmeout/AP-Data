@@ -1,0 +1,41 @@
+{
+  "id": "JOW000000",
+  "type": "mcq",
+  "title": "Semi-log Plots - parallel lines",
+  "content": {
+    "description": "",
+    "question": "In a semi-log plot, which of the following pairs of functions appear linear as parallel lines?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"f open parentheses x close parentheses equals 2 x\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>2</mn><mi>x</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> and <math alttext=\"g open parentheses x close parentheses equals 2 x plus 3\"><semantics><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"f open parentheses x close parentheses equals x squared\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> and <math alttext=\"g open parentheses x close parentheses equals 3 x squared\"><semantics><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"f open parentheses x close parentheses equals 2 to the power of x\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mn>2</mn><mi>x</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> and <math alttext=\"g open parentheses x close parentheses equals 3 times 2 to the power of x\"><semantics><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>3</mn><mo>·</mo><msup><mn>2</mn><mi>x</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"f open parentheses x close parentheses equals ln open parentheses 2 x close parentheses\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mi>ln</mi><mfenced><mrow><mn>2</mn><mi>x</mi></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> and <math alttext=\"g open parentheses x close parentheses equals 3 ln open parentheses 2 x close parentheses\"><semantics><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>3</mn><mi>ln</mi><mfenced><mrow><mn>2</mn><mi>x</mi></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"f open parentheses x close parentheses equals 2 to the power of x\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mn>2</mn><mi>x</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> and <math alttext=\"g open parentheses x close parentheses equals 3 times 2 to the power of x\"><semantics><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>3</mn><mo>·</mo><msup><mn>2</mn><mi>x</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.15",
+    "text": "2.15: Semi-log Plots"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Construct equivalent graphical, numerical, analytical, and verbal representations of functions that are useful in a given mathematical or applied context, with and without technology."
+  }
+}

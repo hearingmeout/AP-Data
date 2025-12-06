@@ -1,0 +1,41 @@
+{
+  "id": "VR876940",
+  "type": "mcq",
+  "title": "LR circuits - time constant with 2x inductance",
+  "content": {
+    "description": "",
+    "question": "If the inductor is replaced with another inductor of inductance <math alttext=\"2 L\" overflow=\"scroll\"> <mn>2</mn> <mi>L</mi> </math> and the scenario is repeated, how long after closing the switch will the current reach approximately <math alttext=\"63%\" overflow=\"scroll\"><mn>63</mn><mi>%</mi></math> of its maximum value?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"4 delta t\" overflow=\"scroll\"><mn>4</mn><mi mathvariant=\"normal\">Δ</mi><mi>t</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2 delta t\" overflow=\"scroll\"><mn>2</mn><mi mathvariant=\"normal\">Δ</mi><mi>t</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction delta t over 2\" overflow=\"scroll\"><mfrac><mrow><mi mathvariant=\"normal\">Δ</mi><mi>t</mi></mrow><mn>2</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction delta t over 4\" overflow=\"scroll\"><mfrac><mrow><mi mathvariant=\"normal\">Δ</mi><mi>t</mi></mrow><mn>4</mn></mfrac></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"2 delta t\" overflow=\"scroll\"><mn>2</mn><mi mathvariant=\"normal\">Δ</mi><mi>t</mi></math>"
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.5",
+    "text": "13.5: Circuits with Resistors and Inductors (LR Circuits)"
+  },
+  "skill": {
+    "code": "2.D",
+    "text": "2.D: Predict new values or factors of change of physical quantities using functional dependence between variables."
+  }
+}

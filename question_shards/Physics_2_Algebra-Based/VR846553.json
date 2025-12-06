@@ -1,0 +1,41 @@
+{
+  "id": "VR846553",
+  "type": "mcq",
+  "title": "Simple circuits - battery - 2 switches - R1 R2 R3",
+  "content": {
+    "description": "",
+    "question": "A circuit consists of a battery, two switches, and three resistors <math alttext=\"R sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mtext>R</mtext><mn>1</mn></msub></math>, <math alttext=\"R sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi mathvariant=\"normal\">R</mi><mn>2</mn></msub></math>, and <math alttext=\"R sub 3\" display=\"inline\" overflow=\"scroll\"><msub><mi mathvariant=\"normal\">R</mi><mn>3</mn></msub></math>, connected as shown in the figure. Which resistor(s) have a current when both switches are closed, and what reasoning supports the claim?",
+    "image": "https://ap.oly.st/images/3446f6504adb2356d83b32784fd69ce6.svg",
+    "choices": [
+      {
+        "label": "Only <math alttext=\"R sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi mathvariant=\"normal\">R</mi><mn>1</mn></msub></math> has a current. <math alttext=\"R sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi mathvariant=\"normal\">R</mi><mn>1</mn></msub></math> is the closest resistor to the battery.",
+        "image": null
+      },
+      {
+        "label": "Only <math alttext=\"R sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi mathvariant=\"normal\">R</mi><mn>1</mn></msub></math> has a current. Electrons from the battery’s negative terminal can flow through <math alttext=\"R sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mtext>R</mtext><mn>1</mn></msub></math> without passing through any other circuit element.",
+        "image": null
+      },
+      {
+        "label": "All three resistors have a current. There is a closed electrical loop that includes all three resistors.",
+        "image": null
+      },
+      {
+        "label": "All three resistors have a current. Each resistor is in a closed electrical loop that includes the battery.",
+        "image": null
+      }
+    ],
+    "answer": "All three resistors have a current. Each resistor is in a closed electrical loop that includes the battery."
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.2",
+    "text": "11.2: Simple Circuits"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

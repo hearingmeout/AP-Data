@@ -1,0 +1,41 @@
+{
+  "id": "FOT000001",
+  "type": "mcq",
+  "title": "If statements to print based on score - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following code segments will print the correct message for any valid value of score?",
+    "image": null,
+    "choices": [
+      {
+        "label": "String message = \"\"; if (score < 250) { message = \"Try again.\"; } else if (score <= 500) { message = \"Good!\"; } else { message = \"Great!\"; } System.out.println(message);",
+        "image": null
+      },
+      {
+        "label": "String message = \"\"; if (score < 250) { message = \"Try again.\"; } if (score <= 500) { message = \"Good!\"; } else { message = \"Great!\"; } System.out.println(message);",
+        "image": null
+      },
+      {
+        "label": "String message = \"\"; if (score >= 250) { message = \"Good!\"; } else if (score > 500) { message = \"Great!\"; } else { message = \"Try again.\"; } System.out.println(message);",
+        "image": null
+      },
+      {
+        "label": "String message = \"\"; if (score > 500) { message = \"Great!\"; } else if (score <= 500) { message = \"Good!\"; } else { message = \"Try again.\"; } System.out.println(message);",
+        "image": null
+      }
+    ],
+    "answer": "String message = \"\"; if (score < 250) { message = \"Try again.\"; } else if (score <= 500) { message = \"Good!\"; } else { message = \"Great!\"; } System.out.println(message);"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: `if` Statements"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

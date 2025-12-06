@@ -1,0 +1,41 @@
+{
+  "id": "YCD000003",
+  "type": "mcq",
+  "title": "Pet class attributes - design",
+  "content": {
+    "description": "",
+    "question": "A student is developing a class that will store information about pets, including each pet’s name and age. Which of the following sets of attributes is most appropriate for this class?",
+    "image": null,
+    "choices": [
+      {
+        "label": "One String attribute that includes the pet’s name and age",
+        "image": null
+      },
+      {
+        "label": "One String attribute for the pet’s name and one String attribute for the pet’s age",
+        "image": null
+      },
+      {
+        "label": "One String attribute for the pet’s name and one int attribute for the pet’s age",
+        "image": null
+      },
+      {
+        "label": "One int attribute for the pet’s name and one int attribute for the pet’s age",
+        "image": null
+      }
+    ],
+    "answer": "One String attribute for the pet’s name and one int attribute for the pet’s age"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: Abstraction and Program Design"
+  },
+  "skill": {
+    "code": "1.A",
+    "text": "1.A: Determine an appropriate program design to solve a problem or accomplish a task."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "VR208747",
+  "type": "mcq",
+  "title": "Harmful effect of using FileCleanUp",
+  "content": {
+    "description": "A software development company has created an application called FileCleanUp. When the application is run on a user device, it searches for all files (including pictures, videos, and documents) that have not been accessed in the past month, stores them on the company’s Web server, and deletes them from the user device. The application runs once each day. Users have the ability to manually retrieve files from the server if they are needed.",
+    "question": "Which of the following is most likely to be a harmful effect of using FileCleanUp?",
+    "image": null,
+    "choices": [
+      {
+        "label": "It prevents users from accessing frequently used files when there is no Internet connectivity.",
+        "image": null
+      },
+      {
+        "label": "It prevents users from accessing infrequently used files when there is no Internet connectivity.",
+        "image": null
+      },
+      {
+        "label": "It prevents users from accessing frequently used files when there is reliable Internet connectivity.",
+        "image": null
+      },
+      {
+        "label": "It prevents users from accessing infrequently used files when there is reliable Internet connectivity.",
+        "image": null
+      }
+    ],
+    "answer": "It prevents users from accessing infrequently used files when there is no Internet connectivity."
+  },
+  "topic": {
+    "code": "5.1",
+    "text": "5.1: Beneficial and Harmful Effects"
+  },
+  "skill": {
+    "code": "Skill 5.C",
+    "text": "Skill 5.C: Describe the impact of a computing innovation."
+  }
+}

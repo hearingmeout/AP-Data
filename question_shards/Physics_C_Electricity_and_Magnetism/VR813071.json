@@ -1,0 +1,41 @@
+{
+  "id": "VR813071",
+  "type": "mcq",
+  "title": "Magnetic flux - flux through hemisphere",
+  "content": {
+    "description": "",
+    "question": "A region of space has a hollow hemisphere of radius <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math>. A uniform magnetic field <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mi>B</mi></math> passes through the hemisphere at an angle <math alttext=\"theta\" display=\"inline\" overflow=\"scroll\"><mi>θ</mi></math> as shown. Which of the following correctly describes the magnetic flux through the curved surface of the hemisphere?",
+    "image": "https://ap.oly.st/images/637c64377f59579eb5ad5e92903e523a.svg",
+    "choices": [
+      {
+        "label": "The net flux through the curved surface is zero.",
+        "image": null
+      },
+      {
+        "label": "The flux through the curved surface can only be found by integrating <math alttext=\"the contour integral of vector B dot d vector A\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mo>∮</mo><mover accent=\"true\"><mi>B</mi><mo>→</mo></mover><mo>·</mo><mi>d</mi><mover accent=\"true\"><mi>A</mi><mo>→</mo></mover></mstyle></math> over the curved area.",
+        "image": null
+      },
+      {
+        "label": "The amount of flux out of the curved surface is equal to the amount of flux into the left circular face of the hemisphere.",
+        "image": null
+      },
+      {
+        "label": "The flux through the surface is the same no matter the orientation of the hemisphere.",
+        "image": null
+      }
+    ],
+    "answer": "The amount of flux out of the curved surface is equal to the amount of flux into the left circular face of the hemisphere."
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.1",
+    "text": "13.1: Magnetic Flux"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

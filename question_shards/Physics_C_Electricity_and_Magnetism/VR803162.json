@@ -1,0 +1,41 @@
+{
+  "id": "VR803162",
+  "type": "mcq",
+  "title": "Capacitor - flux through S from C and Delta V",
+  "content": {
+    "description": "",
+    "question": "A parallel-plate capacitor of capacitance <math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mi>C</mi></math> has a potential difference <math alttext=\"delta V\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Δ</mi><mi>V</mi></math> between its plates. Surface <math alttext=\"S\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">S</mi></math> is located halfway between, and has the same area as the plates. What is the electric flux through Surface <math alttext=\"S\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">S</mi></math>?",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_C_Electricity_and_Magnetism/870bfb325a422bb38bce4e76b2a107f2.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"epsilon sub 0, times C delta V\" display=\"inline\" overflow=\"scroll\"><msub><mi>ε</mi><mn>0</mn></msub><mi>C</mi><mi mathvariant=\"normal\">Δ</mi><mi>V</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator epsilon sub 0, times delta V, and denominator C\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><msub><mi>ε</mi><mn>0</mn></msub><mi mathvariant=\"normal\">Δ</mi><mi>V</mi></mrow><mi>C</mi></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator C delta V, and denominator epsilon sub 0, end fraction\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mi>C</mi><mi mathvariant=\"normal\">Δ</mi><mi>V</mi></mrow><msub><mi>ε</mi><mn>0</mn></msub></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator delta V, and denominator C epsilon sub 0, end fraction\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mi mathvariant=\"normal\">Δ</mi><mi>V</mi></mrow><mrow><mi>C</mi><msub><mi>ε</mi><mn>0</mn></msub></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the fraction with numerator C delta V, and denominator epsilon sub 0, end fraction\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mi>C</mi><mi mathvariant=\"normal\">Δ</mi><mi>V</mi></mrow><msub><mi>ε</mi><mn>0</mn></msub></mfrac></math>"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Conductors and Capacitors"
+  },
+  "topic": {
+    "code": "10.3",
+    "text": "10.3: Capacitors"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

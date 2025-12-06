@@ -1,0 +1,41 @@
+{
+  "id": "WCY000002",
+  "type": "mcq",
+  "title": "Average of 2 positive ints - explain error",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the error, if any, in the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "There is no error; the code segment works as intended.",
+        "image": null
+      },
+      {
+        "label": "In the expression (double) (sum / 2), the cast to double is applied too late, so the average will be less than the expected result for even values of sum.",
+        "image": null
+      },
+      {
+        "label": "In the expression (double) (sum / 2), the cast to double is applied too late, so the average will be less than the expected result for odd values of sum.",
+        "image": null
+      },
+      {
+        "label": "In the expression (double) (sum / 2), the cast to double is applied too late, so the average will be greater than the expected result for odd values of sum.",
+        "image": null
+      }
+    ],
+    "answer": "In the expression (double) (sum / 2), the cast to double is applied too late, so the average will be less than the expected result for odd values of sum."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.5",
+    "text": "1.5: Casting and Range of Variables"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

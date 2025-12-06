@@ -1,0 +1,41 @@
+{
+  "id": "VH910383",
+  "type": "mcq",
+  "title": "Representations - Area between Curves",
+  "content": {
+    "description": "",
+    "question": "The figure above shows the graph of <math alttext=\"y equals, 2 times sine x\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mn>2</mn><mi>sin</mi><mo>⁡</mo><mi>x</mi></mrow></mstyle></math> and the line <math alttext=\"y equals 1\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mn>1</mn></mrow></mstyle></math> for <math alttext=\"0 less than or equal to x, less than or equal to pi\" overflow=\"scroll\"><mstyle><mrow><mn>0</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mi>π</mi></mrow></mstyle></math>. Which of the following gives the sum of the areas of the shaded regions?",
+    "image": "https://ap.oly.st/images/e19d4758d7511009fd0fedd420b5ff3e.png",
+    "choices": [
+      {
+        "label": "<math alttext=\"the integral from, 0 to pi, of, open parenthesis, 2 times sine x, minus 1, close parenthesis, d x\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mi>π</mi></mrow></msubsup><mrow><mo>(</mo><mn>2</mn><mi>sin</mi><mo>⁡</mo><mi>x</mi><mo>−</mo><mn>1</mn><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></mstyle></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the integral from, 0 to the fraction pi over 6, of, 2 times sine x, d x, plus, the integral from, the fraction pi over 6 to the fraction 5 pi over 6, of, 1, d x, plus, the integral from, the fraction 5 pi over 6, to pi, of, 2 times sine x, d x\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mfrac><mrow><mi>π</mi></mrow><mrow><mn>6</mn></mrow></mfrac></mrow></msubsup><mrow><mn>2</mn><mi>sin</mi><mo>⁡</mo><mi>x</mi></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow><mo>+</mo><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mfrac><mrow><mi>π</mi></mrow><mrow><mn>6</mn></mrow></mfrac></mrow><mrow><mfrac><mrow><mn>5</mn><mi>π</mi></mrow><mrow><mn>6</mn></mrow></mfrac></mrow></msubsup><mrow><mn>1</mn></mrow><mo>ⅆ</mo><mrow><mi>x</mi><mo>+</mo><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mfrac><mrow><mn>5</mn><mi>π</mi></mrow><mrow><mn>6</mn></mrow></mfrac></mrow><mrow><mi>π</mi></mrow></msubsup><mrow><mn>2</mn><mi>sin</mi><mo>⁡</mo><mi>x</mi></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mrow></mrow></mrow></mstyle></mrow></mstyle></mrow></mstyle></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the integral from, 0 to the fraction pi over 6, of, open parenthesis, 1 minus 2 times sine x, close parenthesis, d x, plus, the integral from, the fraction pi over 6 to the fraction 5 pi over 6, of, open parenthesis, 2, sine x, minus 1, close parenthesis, times, d, x plus, the integral from, the fraction 5 pi over 6, to pi, of, open parenthesis, 1 minus 2 times sine x, close parenthesis, d x\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mfrac><mrow><mi>π</mi></mrow><mrow><mn>6</mn></mrow></mfrac></mrow></msubsup><mrow><mo>(</mo><mn>1</mn><mo>−</mo><mn>2</mn><mi>sin</mi><mo>⁡</mo><mi>x</mi><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow><mo>+</mo><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mfrac><mrow><mi>π</mi></mrow><mrow><mn>6</mn></mrow></mfrac></mrow><mrow><mfrac><mrow><mn>5</mn><mi>π</mi></mrow><mrow><mn>6</mn></mrow></mfrac></mrow></msubsup><mrow><mo>(</mo><mn>2</mn><mi>sin</mi><mo>⁡</mo><mi>x</mi><mo>−</mo><mn>1</mn><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>x</mi><mo>+</mo><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mfrac><mrow><mn>5</mn><mi>π</mi></mrow><mrow><mn>6</mn></mrow></mfrac></mrow><mrow><mi>π</mi></mrow></msubsup><mrow><mo>(</mo><mn>1</mn><mo>−</mo><mn>2</mn><mi>sin</mi><mo>⁡</mo><mi>x</mi><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mrow></mrow></mrow></mstyle></mrow></mstyle></mrow></mstyle></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the integral from, 0 to pi, of, open parenthesis, 2 times sine x, plus 1, close parenthesis, d x\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mi>π</mi></mrow></msubsup><mrow><mo>(</mo><mn>2</mn><mi>sin</mi><mo>⁡</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></mstyle></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the integral from, 0 to the fraction pi over 6, of, open parenthesis, 1 minus 2 times sine x, close parenthesis, d x, plus, the integral from, the fraction pi over 6 to the fraction 5 pi over 6, of, open parenthesis, 2, sine x, minus 1, close parenthesis, times, d, x plus, the integral from, the fraction 5 pi over 6, to pi, of, open parenthesis, 1 minus 2 times sine x, close parenthesis, d x\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mfrac><mrow><mi>π</mi></mrow><mrow><mn>6</mn></mrow></mfrac></mrow></msubsup><mrow><mo>(</mo><mn>1</mn><mo>−</mo><mn>2</mn><mi>sin</mi><mo>⁡</mo><mi>x</mi><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow><mo>+</mo><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mfrac><mrow><mi>π</mi></mrow><mrow><mn>6</mn></mrow></mfrac></mrow><mrow><mfrac><mrow><mn>5</mn><mi>π</mi></mrow><mrow><mn>6</mn></mrow></mfrac></mrow></msubsup><mrow><mo>(</mo><mn>2</mn><mi>sin</mi><mo>⁡</mo><mi>x</mi><mo>−</mo><mn>1</mn><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>x</mi><mo>+</mo><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mfrac><mrow><mn>5</mn><mi>π</mi></mrow><mrow><mn>6</mn></mrow></mfrac></mrow><mrow><mi>π</mi></mrow></msubsup><mrow><mo>(</mo><mn>1</mn><mo>−</mo><mn>2</mn><mi>sin</mi><mo>⁡</mo><mi>x</mi><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mrow></mrow></mrow></mstyle></mrow></mstyle></mrow></mstyle></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Applications of Integration"
+  },
+  "topic": {
+    "code": "8.6",
+    "text": "8.6: Finding the Area Between Curves That Intersect at More Than Two Points"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Identify mathematical information from graphical, numerical, analytical, and/or verbal representations."
+  }
+}

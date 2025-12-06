@@ -1,0 +1,41 @@
+{
+  "id": "POK000003",
+  "type": "mcq",
+  "title": "Correct error in findMaxValue method",
+  "content": {
+    "description": "",
+    "question": "This method does not always work as intended. Which of the following changes can be made so that the code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Changing line 4 to int max = ranges[0];",
+        "image": null
+      },
+      {
+        "label": "Changing line 4 to int max = Integer.MAX_VALUE;",
+        "image": null
+      },
+      {
+        "label": "Changing line 7 to if (value < max)",
+        "image": null
+      },
+      {
+        "label": "Changing line 9 to value = max;",
+        "image": null
+      }
+    ],
+    "answer": "Changing line 4 to int max = ranges[0];"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.4",
+    "text": "4.4: Array Traversals"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

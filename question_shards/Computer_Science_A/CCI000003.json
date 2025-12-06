@@ -1,0 +1,41 @@
+{
+  "id": "CCI000003",
+  "type": "mcq",
+  "title": "Name array - correct error",
+  "content": {
+    "description": "",
+    "question": "Which of the following changes can be made so that the code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Changing line 1 to String[] names = new String[4];",
+        "image": null
+      },
+      {
+        "label": "Changing line 1 to String[] names = new names[3];",
+        "image": null
+      },
+      {
+        "label": "Changing line 5 to names[2] = \"Darius\";",
+        "image": null
+      },
+      {
+        "label": "Removing line 5",
+        "image": null
+      }
+    ],
+    "answer": "Changing line 1 to String[] names = new String[4];"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Array Creation and Access"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

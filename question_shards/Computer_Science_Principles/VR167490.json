@@ -1,0 +1,37 @@
+{
+  "id": "VR167490",
+  "type": "mcq",
+  "title": "Algorithm that would most benefit from a heuristic",
+  "content": {
+    "description": "",
+    "question": "For which of the following situations would it be best to use a heuristic in order to find a solution that runs in a reasonable amount of time?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Appending a value to a list of <math alttext=\"n\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi></mrow></mstyle></math> elements, which requires no list elements be examined.",
+        "image": null
+      },
+      {
+        "label": "Finding the fastest route that visits every location among <math alttext=\"n\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi></mrow></mstyle></math> locations, which requires <math alttext=\"n!\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi><mo>!</mo></mrow></mstyle></math> possible routes be examined.",
+        "image": null
+      },
+      {
+        "label": "Performing a binary search for a score in a sorted list of <math alttext=\"n\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi></mrow></mstyle></math> scores, which requires that fewer than <math alttext=\"n\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi></mrow></mstyle></math> scores be examined.",
+        "image": null
+      },
+      {
+        "label": "Performing a linear search for a name in an unsorted database of <math alttext=\"n\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi></mrow></mstyle></math> people, which requires that up to <math alttext=\"n\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi></mrow></mstyle></math> entries be examined.",
+        "image": null
+      }
+    ],
+    "answer": "Finding the fastest route that visits every location among <math alttext=\"n\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi></mrow></mstyle></math> locations, which requires <math alttext=\"n!\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi><mo>!</mo></mrow></mstyle></math> possible routes be examined."
+  },
+  "topic": {
+    "code": "3.17",
+    "text": "3.17: Algorithmic Efficiency"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "AWB000005",
+  "type": "mcq",
+  "title": "3 passes of insertion sort - determine result",
+  "content": {
+    "description": "",
+    "question": "What will the contents of numList be after three passes of the outer loop (i.e., when j == 3 at the point indicated by /* end of outer loop */)?",
+    "image": null,
+    "choices": [
+      {
+        "label": "[10, 20, 30, 50, 60, 40]",
+        "image": null
+      },
+      {
+        "label": "[10, 20, 30, 60, 50, 40]",
+        "image": null
+      },
+      {
+        "label": "[10, 30, 60, 20, 50, 40]",
+        "image": null
+      },
+      {
+        "label": "[20, 10, 30, 60, 50, 40]",
+        "image": null
+      }
+    ],
+    "answer": "[10, 20, 30, 60, 50, 40]"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

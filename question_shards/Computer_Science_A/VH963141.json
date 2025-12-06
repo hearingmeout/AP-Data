@@ -1,0 +1,41 @@
+{
+  "id": "VH963141",
+  "type": "mcq",
+  "title": "printRightToLeft method",
+  "content": {
+    "description": "The printRightToLeft method is intended to print the elements in the ArrayList words in reverse order. For example, if words contains [\"jelly bean\", \"jukebox\", \"jewelry\"], the method should produce the following output.",
+    "question": "jewelryjukeboxjelly beanThe method is shown below.public static void printRightToLeft(ArrayList<String> words){if (words.size() > 0){System.out.println(words.get(words.size() - 1));/* missing code */}}Which of the following can be used to replace /* missing code */ so that the printRightToLeft method works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "words.remove(0);printRightToLeft(words);",
+        "image": null
+      },
+      {
+        "label": "words.remove(words.size());printRightToLeft(words);",
+        "image": null
+      },
+      {
+        "label": "words.remove(words.size() - 1);printRightToLeft(words);",
+        "image": null
+      },
+      {
+        "label": "printRightToLeft(words);words.remove(words.size() - 1);",
+        "image": null
+      }
+    ],
+    "answer": "words.remove(words.size() - 1);printRightToLeft(words);"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.17",
+    "text": "4.17: Recursive Searching and Sorting"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

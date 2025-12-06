@@ -1,0 +1,45 @@
+{
+  "id": "FT1731",
+  "type": "mcq",
+  "title": "Determine a logistic differential equation",
+  "content": {
+    "description": "",
+    "question": "The number of antibodies y in a patient’s bloodstream at time t is increasing according to a logistic differential equation. Which of the following could be the differential equation?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mrow> <mi>d</mi> <mi>y</mi> </mrow> <mrow> <mi>d</mi> <mi>t</mi> </mrow> </mfrac> <mo>=</mo> <mn>0.025</mn> <mi>t</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaamizaiaadMhaa8aabaWdbiaadsgacaWG0baa aiabg2da9iaaicdacaGGUaGaaGimaiaaikdacaaI1aGaamiDaaaa@3FCD@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mrow> <mi>d</mi><mi>y</mi></mrow> <mrow> <mi>d</mi><mi>t</mi></mrow> </mfrac> <mo>=</mo><mn>0.025</mn><mi>t</mi><mrow><mo>(</mo> <mrow> <mn>5000</mn><mo>−</mo><mi>t</mi></mrow> <mo>)</mo></mrow></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaamizaiaadMhaa8aabaWdbiaadsgacaWG0baa aiabg2da9iaaicdacaGGUaGaaGimaiaaikdacaaI1aGaamiDamaabm aapaqaa8qacaaI1aGaaGimaiaaicdacaaIWaGaeyOeI0IaamiDaaGa ayjkaiaawMcaaaaa@4648@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mrow> <mi>d</mi><mi>y</mi></mrow> <mrow> <mi>d</mi><mi>t</mi></mrow> </mfrac> <mo>=</mo><mn>0.025</mn><mi>y</mi></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaamizaiaadMhaa8aabaWdbiaadsgacaWG0baa aiabg2da9iaaicdacaGGUaGaaGimaiaaikdacaaI1aGaamyEaaaa@3FD2@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mrow> <mi>d</mi><mi>y</mi></mrow> <mrow> <mi>d</mi><mi>t</mi></mrow> </mfrac> <mo>=</mo><mn>0.025</mn><mrow><mo>(</mo> <mrow> <mn>5000</mn><mo>−</mo><mi>y</mi></mrow> <mo>)</mo></mrow></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaamizaiaadMhaa8aabaWdbiaadsgacaWG0baa aiabg2da9iaaicdacaGGUaGaaGimaiaaikdacaaI1aWaaeWaa8aaba WdbiaaiwdacaaIWaGaaGimaiaaicdacqGHsislcaWG5baacaGLOaGa ayzkaaaaaa@4554@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mrow> <mi>d</mi><mi>y</mi></mrow> <mrow> <mi>d</mi><mi>t</mi></mrow> </mfrac> <mo>=</mo><mn>0.025</mn><mi>y</mi><mrow><mo>(</mo> <mrow> <mn>5000</mn><mo>−</mo><mi>y</mi></mrow> <mo>)</mo></mrow></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaamizaiaadMhaa8aabaWdbiaadsgacaWG0baa aiabg2da9iaaicdacaGGUaGaaGimaiaaikdacaaI1aGaamyEamaabm aapaqaa8qacaaI1aGaaGimaiaaicdacaaIWaGaeyOeI0IaamyEaaGa ayjkaiaawMcaaaaa@4652@ </annotation> </semantics> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <semantics> <mrow> <mfrac> <mrow> <mi>d</mi><mi>y</mi></mrow> <mrow> <mi>d</mi><mi>t</mi></mrow> </mfrac> <mo>=</mo><mn>0.025</mn><mi>y</mi><mrow><mo>(</mo> <mrow> <mn>5000</mn><mo>−</mo><mi>y</mi></mrow> <mo>)</mo></mrow></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaamizaiaadMhaa8aabaWdbiaadsgacaWG0baa aiabg2da9iaaicdacaGGUaGaaGimaiaaikdacaaI1aGaamyEamaabm aapaqaa8qacaaI1aGaaGimaiaaicdacaaIWaGaeyOeI0IaamyEaaGa ayjkaiaawMcaaaaa@4652@ </annotation> </semantics> </math>"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.9",
+    "text": "7.9: (BC ONLY) Logistic Models with Differential Equations"
+  },
+  "skill": {
+    "code": "Skill 3.F",
+    "text": "Skill 3.F: Explain the meaning of mathematical solutions in context."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "RYT000001",
+  "type": "mcq",
+  "title": "updateX method - describe conditions",
+  "content": {
+    "description": "",
+    "question": "Suppose that tester is a properly instantiated reference to a MyClass object and num is an int value. Which of the following best describes the conditions under which the value of the instance variable x is unchanged as a result of the call tester.updateX(num)?",
+    "image": null,
+    "choices": [
+      {
+        "label": "When num is 0",
+        "image": null
+      },
+      {
+        "label": "When num is 1",
+        "image": null
+      },
+      {
+        "label": "When num is positive",
+        "image": null
+      },
+      {
+        "label": "When num is negative",
+        "image": null
+      }
+    ],
+    "answer": "When num is 0"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.5",
+    "text": "3.5: Methods: How to Write Them"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "VH437077",
+  "type": "mcq",
+  "title": "Error with multiplication using repeated addition",
+  "content": {
+    "description": "For which of the following procedure calls does the procedure NOT return the intended value?",
+    "question": "Select two answers.",
+    "image": null,
+    "choices": [
+      {
+        "label": "The figure presents a line of code. The line of code contains a nested block of code. Line 1: [begin block] Multiply [begin block] 2, 5 [end block] [end block]",
+        "image": "https://ap.oly.st/images/adb574567cd1923973fc54e14f0db830.png"
+      },
+      {
+        "label": "The figure presents a line of code. The line of code contains a nested block of code. Line 1: [begin block] Multiply [begin block] 2, −5 [end block] [end block]",
+        "image": "https://ap.oly.st/images/24e6754633cd879a1b4dd087e2d96688.png"
+      },
+      {
+        "label": "The figure presents a line of code. The line of code contains a nested block of code. Line 1: [begin block] Multiply [begin block] −2, 5 [end block] [end block]",
+        "image": "https://ap.oly.st/images/beea568fea7c54681db19ce81bcc2617.png"
+      },
+      {
+        "label": "The figure presents a line of code. The line of code contains a nested block of code. Line 1: [begin block] Multiply [begin block] −2, −5 [end block] [end block]",
+        "image": "https://ap.oly.st/images/9c1b7d608988c5d045a619618e4cd71e.png"
+      }
+    ],
+    "answer": "The figure presents a line of code. The line of code contains a nested block of code. Line 1: [begin block] Multiply [begin block] 2, −5 [end block] [end block]"
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Identifying and Correcting Errors"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Identify and correct errors in algorithms and programs, including error discovery through testing."
+  }
+}

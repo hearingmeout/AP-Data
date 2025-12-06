@@ -1,0 +1,41 @@
+{
+  "id": "AFG000001",
+  "type": "mcq",
+  "title": "Matrices - determining non-invertible matrix",
+  "content": {
+    "description": "<math alttext=\"A 2 by 2 matrix A. Row 1, column 1 value is 2. Row 1, column 2 value is 6. Row 2, column 1 value is x. Row 2, column 2 value is 4.\"><mi>A</mi><mo>=</mo><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>2</mn></mtd><mtd><mn>6</mn></mtd></mtr><mtr><mtd><mi>x</mi></mtd><mtd><mn>4</mn></mtd></mtr></mtable></mfenced></math>",
+    "question": "Matrix <math alttext=\"A\"><mi>A</mi></math> is given, where <math alttext=\"x\"><mi>x</mi></math> is a real number. If the inverse of matrix <math alttext=\"A\"><mi>A</mi></math> does not exist, what is the value of <math alttext=\"x\"><mi>x</mi></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"negative 12\"><mo>-</mo><mn>12</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"negative 4 over 3\"><mo>-</mo><mfrac><mn>4</mn><mn>3</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"4 over 3\"><mfrac><mn>4</mn><mn>3</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"12\"><mn>12</mn></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"4 over 3\"><mfrac><mn>4</mn><mn>3</mn></mfrac></math>"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.11",
+    "text": "4.11: The Inverse and Determinant of a Matrix"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Solve equations and inequalities represented analytically, with and without technology."
+  }
+}

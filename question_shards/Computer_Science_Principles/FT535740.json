@@ -1,0 +1,37 @@
+{
+  "id": "FT535740",
+  "type": "mcq",
+  "title": "Comparing linear and binary searches",
+  "content": {
+    "description": "",
+    "question": "A programmer is deciding between using a linear or binary search to find a target value in a sorted list. Which of the following is true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "In all cases, a binary search of a sorted list requires fewer comparisons than a linear search.",
+        "image": null
+      },
+      {
+        "label": "Generally, the advantage of using a binary search over a linear search increases as the size of the list increases.",
+        "image": null
+      },
+      {
+        "label": "A linear search will generally run faster than a binary search because a linear search requires fewer lines of code to implement.",
+        "image": null
+      },
+      {
+        "label": "Using a linear search is preferable to using a binary search if there is a chance that the target may not be found in the list.",
+        "image": null
+      }
+    ],
+    "answer": "Generally, the advantage of using a binary search over a linear search increases as the size of the list increases."
+  },
+  "topic": {
+    "code": "3.11",
+    "text": "3.11: Binary Search"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "FT545655",
+  "type": "mcq",
+  "title": "Confidence interval for slope for final exam score",
+  "content": {
+    "description": "As part of a class project at a large university, Amber selected a random sample of 12 students in her major field of study. All students in the sample were asked to report their number of hours spent studying for the final exam and their score on the final exam. A regression analysis on the data produced the following partial computer output.",
+    "question": "Amber wants to compute a 95 percent confidence interval for the slope of the least squares regression line in the population of all students in her major field of study. Assuming that conditions for inference are satisfied, which of the following gives the margin of error for the confidence interval?",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Statistics/3c95b3500d54771efaf5ef283bf05b1e.png",
+    "choices": [
+      {
+        "label": "(2.228) (0.745)",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mrow> <mo>(</mo> <mrow> <mn>2.228</mn> </mrow> <mo>)</mo> </mrow> <mrow> <mo>(</mo> <mrow> <mfrac> <mrow> <mn>0.745</mn> </mrow> <mrow> <msqrt> <mrow> <mn>12</mn> </mrow> </msqrt> </mrow> </mfrac> </mrow> <mo>)</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaadaqadaqaaiaaikdacaGGUaGaaGOmaiaaikdacaaI4aaacaGLOaGaayzkaaWaaeWaaeaadaWcaaqaaiaaicdacaGGUaGaaG4naiaaisdacaaI1aaabaWaaOaaaeaacaaIXaGaaGOmaaWcbeaaaaaakiaawIcacaGLPaaaaaa@450B@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "(2.228) (5.505)",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mrow> <mo>(</mo> <mrow> <mn>2.228</mn> </mrow> <mo>)</mo> </mrow> <mrow> <mo>(</mo> <mrow> <mfrac> <mrow> <mn>5.505</mn> </mrow> <mrow> <msqrt> <mrow> <mn>12</mn> </mrow> </msqrt> </mrow> </mfrac> </mrow> <mo>)</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaadaqadaqaaiaaikdacaGGUaGaaGOmaiaaikdacaaI4aaacaGLOaGaayzkaaWaaeWaaeaadaWcaaqaaiaaiwdacaGGUaGaaGynaiaaicdacaaI1aaabaWaaOaaaeaacaaIXaGaaGOmaaWcbeaaaaaakiaawIcacaGLPaaaaaa@450A@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "(2.228) (2.697)",
+        "image": null
+      }
+    ],
+    "answer": "(2.228) (0.745)"
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Inference for Quantitative Data-Slopes"
+  },
+  "topic": {
+    "code": "9.2",
+    "text": "9.2: Confidence Intervals for the Slope of a Regression Model"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Construct a confidence interval, provided conditions for inference are met."
+  }
+}

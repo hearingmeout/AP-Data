@@ -1,0 +1,41 @@
+{
+  "id": "KTX000001",
+  "type": "mcq",
+  "title": "Class diagram for Book class - determine design",
+  "content": {
+    "description": "",
+    "question": "Of the following diagrams, which represents the most appropriate design for the Book class?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The diagram has 3 sections containing text as follows:Section 1:BookSection 2:+ title : String+ author : String+ numPages : StringSection 3:- getTitle() : String- getAuthor() : String- getNumPages() : String",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/9b60fb1c1a1d4341156c25ec01380b80.svg"
+      },
+      {
+        "label": "The diagram has 3 sections containing text as follows:Section 1:BookSection 2:- title : String- author : String- numPages : StringSection 3:+ getTitle() : String+ getAuthor() : String+ getNumPages() : String",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/6ee51661b4eb8bc4ecb19179948672c8.svg"
+      },
+      {
+        "label": "The diagram has 3 sections containing text as follows:Section 1:BookSection 2:+ title : String+ author : String+ numPages : intSection 3:- getTitle() : String- getAuthor() : String- getNumPages() : int",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/49c843d45d72c41d0c2e6cb0cb5fb55e.svg"
+      },
+      {
+        "label": "The diagram has 3 sections containing text as follows:Section 1:BookSection 2:- title : String- author : String- numPages : intSection 3:+ getTitle() : String+ getAuthor() : String+ getNumPages() : int",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/30e5271fad1b9218d7cec14163ec0a6d.svg"
+      }
+    ],
+    "answer": "The diagram has 3 sections containing text as follows:Section 1:BookSection 2:- title : String- author : String- numPages : intSection 3:+ getTitle() : String+ getAuthor() : String+ getNumPages() : int"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: Abstraction and Program Design"
+  },
+  "skill": {
+    "code": "1.A",
+    "text": "1.A: Determine an appropriate program design to solve a problem or accomplish a task."
+  }
+}

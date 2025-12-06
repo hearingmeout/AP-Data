@@ -1,0 +1,37 @@
+{
+  "id": "VR166651",
+  "type": "mcq",
+  "title": "Appropriate data type for student name and absence",
+  "content": {
+    "description": "",
+    "question": "A teacher is writing a code segment that will use variables to represent a student’s name and whether or not the student is currently absent. Which of the following variables are most appropriate for the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A string variable named s and a Boolean variable named a",
+        "image": null
+      },
+      {
+        "label": "A string variable named s and a numeric variable named n",
+        "image": null
+      },
+      {
+        "label": "A string variable named studentName and a Boolean variable named isAbsent",
+        "image": null
+      },
+      {
+        "label": "A string variable named studentName and a numeric variable named numAbsences",
+        "image": null
+      }
+    ],
+    "answer": "A string variable named studentName and a Boolean variable named isAbsent"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: Variables and Assignments"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Generalize data sources through variables."
+  }
+}

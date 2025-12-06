@@ -1,0 +1,41 @@
+{
+  "id": "QSK000005",
+  "type": "mcq",
+  "title": "error in remDups method - fix error",
+  "content": {
+    "description": "",
+    "question": "Which of the following changes can be made so that the method always works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "In line 3, changing the Boolean expression to j < nums.size()",
+        "image": null
+      },
+      {
+        "label": "In line 7, changing the Boolean expression to first != second",
+        "image": null
+      },
+      {
+        "label": "In line 9, changing the expression to nums.remove(j + 1)",
+        "image": null
+      },
+      {
+        "label": "In line 10, changing the expression to j--",
+        "image": null
+      }
+    ],
+    "answer": "In line 10, changing the expression to j--"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.9",
+    "text": "4.9: `ArrayList` Traversals"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

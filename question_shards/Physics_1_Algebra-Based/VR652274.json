@@ -1,0 +1,41 @@
+{
+  "id": "VR652274",
+  "type": "mcq",
+  "title": "Rotational dynamics - ang acceleration stack disks",
+  "content": {
+    "description": "",
+    "question": "A disk is free to rotate about an axle at the disk’s center. A force of magnitude <math alttext=\"F \" display=\"inline\" overflow=\"scroll\"><mi>F</mi></math> is exerted tangentially at the edge of the disk, as shown in the left figure, and the disk has angular acceleration <math alttext=\"alpha\" display=\"inline\" overflow=\"scroll\"><mi>α</mi></math>. The disk is returned to rest and a second identical disk is placed on top of the first disk, as shown in the middle figure. The disks move together and do not slip. A force with magnitude <math alttext=\"F\" display=\"inline\" overflow=\"scroll\"><mi>F</mi></math> is again exerted tangentially at the edge of the first disk, as shown in the right figure. A student claims that the angular acceleration will again be <math alttext=\"alpha\" display=\"inline\" overflow=\"scroll\"><mi>α</mi></math> when the force of magnitude <math alttext=\"F\" display=\"inline\" overflow=\"scroll\"><mi>F</mi></math> is exerted on the two-disk system. Is the claim correct? Why or why not?",
+    "image": "https://ap.oly.st/images/e1098088d01af4fdf0dd37f3bf654d55.svg",
+    "choices": [
+      {
+        "label": "No, because the rotational inertia of the two-disk system is greater than that of the single disk.",
+        "image": null
+      },
+      {
+        "label": "No, because the two-disk system has twice the mass as the first disk and will therefore have twice the angular acceleration.",
+        "image": null
+      },
+      {
+        "label": "Yes, because the net torque exerted by the force is the same in both cases.",
+        "image": null
+      },
+      {
+        "label": "Yes, because the force is exerted at the same distance from the axis in both cases.",
+        "image": null
+      }
+    ],
+    "answer": "No, because the rotational inertia of the two-disk system is greater than that of the single disk."
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.6",
+    "text": "5.6: Newton's Second Law in Rotational Form"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "VR166340",
+  "type": "mcq",
+  "title": "Call to RANDOM to simulate game spinner",
+  "content": {
+    "description": "Consider a game where a player spins a wheel divided into four identical sections, labeled A, B, C, and D. If the player spins A, the score is 10. If the player spins B, the score is 5. If the player spins C or D, the score is -1.",
+    "question": "The following code segment is intended to implement the game. Which of the following could be used as a replacement for <MISSING STATEMENT> so the code segment works as intended?",
+    "image": "https://ap.oly.st/images/8b94680acd5bd38f3f6d9988b13daafb.png",
+    "choices": [
+      {
+        "label": "The figure presents 1 block of code as follows. [begin block] spin ← RANDOM [begin block] 1, 3 [end block] [end block]",
+        "image": "https://ap.oly.st/images/8f1d914a55e25f30fce94997176aa91d.png"
+      },
+      {
+        "label": "The figure presents 1 block of code as follows. [begin block] spin ← RANDOM [begin block] 1, 4 [end block] [end block]",
+        "image": "https://ap.oly.st/images/7d8721b3a041aee634a4d72781fdd532.png"
+      },
+      {
+        "label": "The figure presents 1 block of code as follows. [begin block] spin ← RANDOM [begin block] 1, 6 [end block] [end block]",
+        "image": "https://ap.oly.st/images/2fb03dab37b6b9008d363677f1bfc157.png"
+      },
+      {
+        "label": "The figure presents 1 block of code as follows. [begin block] spin ← RANDOM [begin block] 1, 8 [end block] [end block]",
+        "image": "https://ap.oly.st/images/1811e02a38a12c7652457c9b5b4f83c7.png"
+      }
+    ],
+    "answer": "The figure presents 1 block of code as follows. [begin block] spin ← RANDOM [begin block] 1, 4 [end block] [end block]"
+  },
+  "topic": {
+    "code": "3.15",
+    "text": "3.15: Random Values"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

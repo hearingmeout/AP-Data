@@ -1,0 +1,41 @@
+{
+  "id": "FT538039",
+  "type": "mcq",
+  "title": "Loop by 2 with if",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "What is printed as a result of executing the code segment?",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/6dd3441bfcff04bdc66949f18c544b0d.jpg",
+    "choices": [
+      {
+        "label": "4 10 16",
+        "image": null
+      },
+      {
+        "label": "0 6 12 18",
+        "image": null
+      },
+      {
+        "label": "1 4 7 10 13 16 19",
+        "image": null
+      },
+      {
+        "label": "0 2 4 6 8 10 12 14 16 18",
+        "image": null
+      }
+    ],
+    "answer": "4 10 16"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: `for` Loops"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

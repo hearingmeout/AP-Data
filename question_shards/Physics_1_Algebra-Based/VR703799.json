@@ -1,0 +1,41 @@
+{
+  "id": "VR703799",
+  "type": "mcq",
+  "title": "SHM - expression for position",
+  "content": {
+    "description": "",
+    "question": "At time <math alttext=\"lowercase t equals 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn></math>, an object is released from rest at position <math alttext=\"x equals positive x sub max\" display=\"inline\" overflow=\"scroll\"><mi>x</mi><mo>=</mo><mo>+</mo><msub><mi>x</mi><mi>max</mi></msub></math> and undergoes simple harmonic motion along the <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mi>x</mi></math>-axis about the equilibrium position of <math alttext=\"x equals 0\" display=\"inline\" overflow=\"scroll\"><mi>x</mi><mo>=</mo><mn>0</mn></math>. The period of oscillation of the object is <math alttext=\"uppercase T\" display=\"inline\" overflow=\"scroll\"><mi>T</mi></math>. Which of the following expressions is equal to the object’s position at time <math alttext=\"lowercase t equals uppercase T over 8\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mfrac><mi>T</mi><mn>8</mn></mfrac></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"x sub max over 8\" display=\"inline\" overflow=\"scroll\"><mfrac><msub><mi>x</mi><mi>max</mi></msub><mn>8</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"x sub max over 2\" display=\"inline\" overflow=\"scroll\"><mfrac><msub><mi>x</mi><mi>max</mi></msub><mn>2</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"x sub max times the cosine of pi over 8\" display=\"inline\" overflow=\"scroll\"><msub><mi>x</mi><mi>max</mi></msub><mi>cos</mi><mrow><mo>(</mo><mfrac><mi>π</mi><mn>8</mn></mfrac><mo>)</mo></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"x sub max times the cosine of pi over 4\" display=\"inline\" overflow=\"scroll\"><msub><mi>x</mi><mi>max</mi></msub><mi>cos</mi><mrow><mo>(</mo><mfrac><mi>π</mi><mn>4</mn></mfrac><mo>)</mo></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"x sub max times the cosine of pi over 4\" display=\"inline\" overflow=\"scroll\"><msub><mi>x</mi><mi>max</mi></msub><mi>cos</mi><mrow><mo>(</mo><mfrac><mi>π</mi><mn>4</mn></mfrac><mo>)</mo></mrow></math>"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Oscillations"
+  },
+  "topic": {
+    "code": "7.3",
+    "text": "7.3: Representing and Analyzing SHM"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

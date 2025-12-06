@@ -1,0 +1,41 @@
+{
+  "id": "WSB000003",
+  "type": "mcq",
+  "title": "Nested counting loops - describe conditions",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the conditions that must be true of m and n so that after this code segment executes, the value of result is greater than 0?",
+    "image": null,
+    "choices": [
+      {
+        "label": "n > 0 and m > 0",
+        "image": null
+      },
+      {
+        "label": "n > 0 and m > n",
+        "image": null
+      },
+      {
+        "label": "n > 0 and n > m",
+        "image": null
+      },
+      {
+        "label": "m > 0 and m > n",
+        "image": null
+      }
+    ],
+    "answer": "n > 0 and n > m"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Boolean Expressions"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

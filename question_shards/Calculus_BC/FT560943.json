@@ -1,0 +1,45 @@
+{
+  "id": "FT560943",
+  "type": "mcq",
+  "title": "Taylor polynomial with graph",
+  "content": {
+    "description": "",
+    "question": "The figure above shows the graph of a function f. Which of the following could be the second-degree Taylor polynomial for f about x = 2 ?",
+    "image": "https://ap.oly.st/images/528e99ba6eb6cc78299c7735e15c402f.png",
+    "choices": [
+      {
+        "label": "<math> <semantics> <mrow> <mn>2</mn> <mo>−</mo> <mi>x</mi> <mo>−</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaaIYaGaeyOeI0IaamiEaiabgkHiTiaadIhapaWaaWbaaSqabeaapeGaaGOmaaaaaaa@3BAC@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mn>2</mn> <mo>+</mo> <mi>x</mi> <mo>−</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaaIYaGaey4kaSIaamiEaiabgkHiTiaadIhapaWaaWbaaSqabeaapeGaaGOmaaaaaaa@3BA1@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mn>2</mn> <mo>−</mo> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo>−</mo> <mn>2</mn> <mo stretchy=\"false\">)</mo> <mo>+</mo> <msup> <mrow> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo>−</mo> <mn>2</mn> <mo stretchy=\"false\">)</mo> </mrow> <mn>2</mn> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaaIYaGaeyOeI0IaaiikaiaadIhacqGHsislcaaIYaGaaiykaiabgUcaRiaacIcacaWG4bGaeyOeI0IaaGOmaiaacMcapaWaaWbaaSqabeaapeGaaGOmaaaaaaa@41A5@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mn>2</mn> <mo>+</mo> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo>−</mo> <mn>2</mn> <mo stretchy=\"false\">)</mo> <mo>−</mo> <msup> <mrow> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo>−</mo> <mn>2</mn> <mo stretchy=\"false\">)</mo> </mrow> <mn>2</mn> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaaIYaGaey4kaSIaaiikaiaadIhacqGHsislcaaIYaGaaiykaiabgkHiTiaacIcacaWG4bGaeyOeI0IaaGOmaiaacMcapaWaaWbaaSqabeaapeGaaGOmaaaaaaa@41A5@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mn>2</mn> <mo>+</mo> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo>−</mo> <mn>2</mn> <mo stretchy=\"false\">)</mo> <mo>+</mo> <msup> <mrow> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo>−</mo> <mn>2</mn> <mo stretchy=\"false\">)</mo> </mrow> <mn>2</mn> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaaIYaGaey4kaSIaaiikaiaadIhacqGHsislcaaIYaGaaiykaiabgUcaRiaacIcacaWG4bGaeyOeI0IaaGOmaiaacMcapaWaaWbaaSqabeaapeGaaGOmaaaaaaa@419A@</annotation> </semantics> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <semantics> <mrow> <mn>2</mn> <mo>+</mo> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo>−</mo> <mn>2</mn> <mo stretchy=\"false\">)</mo> <mo>+</mo> <msup> <mrow> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo>−</mo> <mn>2</mn> <mo stretchy=\"false\">)</mo> </mrow> <mn>2</mn> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaaIYaGaey4kaSIaaiikaiaadIhacqGHsislcaaIYaGaaiykaiabgUcaRiaacIcacaWG4bGaeyOeI0IaaGOmaiaacMcapaWaaWbaaSqabeaapeGaaGOmaaaaaaa@419A@</annotation> </semantics> </math>"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.11",
+    "text": "10.11: (BC ONLY) Finding Taylor Polynomial Approximations of Functions"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

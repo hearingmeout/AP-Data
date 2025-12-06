@@ -1,0 +1,37 @@
+{
+  "id": "FT535730",
+  "type": "mcq",
+  "title": "Result of procedure Mystery with parameter number",
+  "content": {
+    "description": "In the procedure Mystery below, the parameter number is a positive integer.",
+    "question": "Which of the following best describes the result of running the procedure Mystery?",
+    "image": "https://ap.oly.st/images/e873230f3959c393cff3398be606a401.png",
+    "choices": [
+      {
+        "label": "The procedure returns true when the initial value of number is 2, and it otherwise returns false.",
+        "image": null
+      },
+      {
+        "label": "The procedure returns true when the initial value of number is greater than 2, and it otherwise returns false.",
+        "image": null
+      },
+      {
+        "label": "The procedure returns true when the initial value of number is even, and it otherwise returns false.",
+        "image": null
+      },
+      {
+        "label": "The procedure returns true when the initial value of number is odd, and it otherwise returns false.",
+        "image": null
+      }
+    ],
+    "answer": "The procedure returns true when the initial value of number is even, and it otherwise returns false."
+  },
+  "topic": {
+    "code": "3.12",
+    "text": "3.12: Calling Procedures"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "FT548519",
+  "type": "mcq",
+  "title": "Compare IQR of boxplots of sodium content in chips",
+  "content": {
+    "description": "Nutritionists examined the sodium content of different brands of potato chips. Each brand was classified as either healthy or regular based on how the chips were marketed to the public. The sodium contents, in milligrams (mg) per serving, of the chips are summarized in the boxplots below.",
+    "question": "Based on the boxplots, which statement gives a correct comparison between the two classifications of the sodium content of the chips?",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Statistics/5dc31cdcd4bcf9f2050929011031045f.png",
+    "choices": [
+      {
+        "label": "The number of brands classified as healthy is greater than the number of brands classified as regular.",
+        "image": null
+      },
+      {
+        "label": "The interquartile range (IQR) of the brands classified as healthy is greater than the IQR of the brands classified as regular.",
+        "image": null
+      },
+      {
+        "label": "The range of the brands classified as healthy is less than the range of the brands classified as regular.",
+        "image": null
+      },
+      {
+        "label": "The median of the brands classified as healthy is more than twice the median of the brands classified as regular.",
+        "image": null
+      },
+      {
+        "label": "The brand with the least sodium content and the brand with the greatest sodium content are both classified as healthy.",
+        "image": null
+      }
+    ],
+    "answer": "The interquartile range (IQR) of the brands classified as healthy is greater than the IQR of the brands classified as regular."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.8",
+    "text": "1.8: Graphical Representations of Summary Statistics"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Compare distributions or relative positions of points within a distribution."
+  }
+}

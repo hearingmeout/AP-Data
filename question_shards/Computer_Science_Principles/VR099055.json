@@ -1,0 +1,37 @@
+{
+  "id": "VR099055",
+  "type": "mcq",
+  "title": "old enough to drive but not to vote",
+  "content": {
+    "description": "In a certain country, a person must be at least 16 years old to drive a car and must be at least 18 years old to vote. The variable age represents the age of a person as an integer.",
+    "question": "Which of the following expressions evaluates to true if the person is old enough to drive but not old enough to vote, and evaluates to false otherwise?(age ≥ 16) AND (age ≤ 18)(age ≥ 16) AND (NOT(age ≥ 18))(age < 18) AND (NOT(age < 16))",
+    "image": null,
+    "choices": [
+      {
+        "label": "II only",
+        "image": null
+      },
+      {
+        "label": "I and II only",
+        "image": null
+      },
+      {
+        "label": "I and III only",
+        "image": null
+      },
+      {
+        "label": "II and III only",
+        "image": null
+      }
+    ],
+    "answer": "II and III only"
+  },
+  "topic": {
+    "code": "3.5",
+    "text": "3.5: Boolean Expressions"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

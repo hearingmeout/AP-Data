@@ -1,0 +1,41 @@
+{
+  "id": "VR442172",
+  "type": "mcq",
+  "title": "Box class addWeight",
+  "content": {
+    "description": "Consider the following class definition.",
+    "question": "public class Box { private double weight; /** Postcondition: weight is initialized to w. */ public Box(double w) { /* implementation not shown */ } public double getWeight() { return weight; } public void addWeight(double aw) { /* missing statement */ } } The following code segment, which appears in a class other than Box, is intended to create a Box object b1 with a weight of <math alttext=\"2.2\" overflow=\"scroll\"><mn>2.2</mn></math> units and then increase the weight of b1 by <math alttext=\"1.5\" overflow=\"scroll\"><mn>1.5</mn></math> units. Box b1 = new Box(2.2); b1.addWeight(1.5); Which of the following statements could replace /* missing statement */ so that the code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "aw += weight;",
+        "image": null
+      },
+      {
+        "label": "aw += getWeight();",
+        "image": null
+      },
+      {
+        "label": "weight += aw;",
+        "image": null
+      },
+      {
+        "label": "return weight + aw;",
+        "image": null
+      }
+    ],
+    "answer": "weight += aw;"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.5",
+    "text": "3.5: Methods: How to Write Them"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

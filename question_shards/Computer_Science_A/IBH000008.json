@@ -1,0 +1,41 @@
+{
+  "id": "IBH000008",
+  "type": "mcq",
+  "title": "static var in Something class - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the behavior of the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The code segment does not compile because the increment method should be called on an object of the class Something, not on the class itself.",
+        "image": null
+      },
+      {
+        "label": "The code segment creates a Something object s. The Something class’s static variable count is initially 0, then is increased by 1.",
+        "image": null
+      },
+      {
+        "label": "The code segment creates a Something object s. The Something class’s static variable count is initially 0, then is increased by 5, then is increased by 1.",
+        "image": null
+      },
+      {
+        "label": "The code segment creates a Something object s. The Something class’s static variable count does not change after it is initially set to 0.",
+        "image": null
+      }
+    ],
+    "answer": "The code segment creates a Something object s. The Something class’s static variable count is initially 0, then is increased by 5, then is increased by 1."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.10",
+    "text": "1.10: Calling Class Methods"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

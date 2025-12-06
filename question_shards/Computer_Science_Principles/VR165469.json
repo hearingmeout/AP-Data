@@ -1,0 +1,37 @@
+{
+  "id": "VR165469",
+  "type": "mcq",
+  "title": "Behavior of code that multiplies inside a loop",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "Which of the following best describes the behavior of the code segment?",
+    "image": "https://ap.oly.st/images/d1d0c3a9a6620a3e5b3089c77d1794aa.png",
+    "choices": [
+      {
+        "label": "The code segment displays the value of <math alttext=\"2 times, open parenthesis, 5 times 3, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn><mrow><mo>(</mo><mn>5</mn><mo>×</mo><mn>3</mn><mo>)</mo></mrow></mrow></mstyle></math> by initializing result to 2 and then multiplying result by 3 a total of five times.",
+        "image": null
+      },
+      {
+        "label": "The code segment displays the value of <math alttext=\"2 times, open parenthesis, 5 times 3, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn><mrow><mo>(</mo><mn>5</mn><mo>×</mo><mn>3</mn><mo>)</mo></mrow></mrow></mstyle></math> by initializing result to 2 and then multiplying result by 5 a total of three times.",
+        "image": null
+      },
+      {
+        "label": "The code segment displays the value of <math alttext=\"2 times, open parenthesis, 5 cubed, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn><mrow><mo>(</mo><msup><mrow><mn>5</mn></mrow><mrow><mn>3</mn></mrow></msup><mo>)</mo></mrow></mrow></mstyle></math> by initializing result to 2 and then multiplying result by 3 a total of five times.",
+        "image": null
+      },
+      {
+        "label": "The code segment displays the value of <math alttext=\"2 times, open parenthesis, 5 cubed, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn><mrow><mo>(</mo><msup><mrow><mn>5</mn></mrow><mrow><mn>3</mn></mrow></msup><mo>)</mo></mrow></mrow></mstyle></math> by initializing result to 2 and then multiplying result by 5 a total of three times.",
+        "image": null
+      }
+    ],
+    "answer": "The code segment displays the value of <math alttext=\"2 times, open parenthesis, 5 cubed, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn><mrow><mo>(</mo><msup><mrow><mn>5</mn></mrow><mrow><mn>3</mn></mrow></msup><mo>)</mo></mrow></mrow></mstyle></math> by initializing result to 2 and then multiplying result by 5 a total of three times."
+  },
+  "topic": {
+    "code": "1.2",
+    "text": "1.2: Program Function and Purpose"
+  },
+  "skill": {
+    "code": "Skill 4.A",
+    "text": "Skill 4.A: Explain how a code segment or program functions."
+  }
+}

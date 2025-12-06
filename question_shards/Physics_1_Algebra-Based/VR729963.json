@@ -1,0 +1,41 @@
+{
+  "id": "VR729963",
+  "type": "mcq",
+  "title": "Pressure density column and single fluid",
+  "content": {
+    "description": "",
+    "question": "Cylinders <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> and <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> are identical hollow containers. Equal volumes of five different liquids, <math alttext=\"A\" display=\"inline\" overflow=\"scroll\"><mtext>A</mtext></math>, <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mtext>B</mtext></math>, <math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mtext>C</mtext></math>, <math alttext=\"D\" display=\"inline\" overflow=\"scroll\"><mtext>D</mtext></math>, and <math alttext=\"E\" display=\"inline\" overflow=\"scroll\"><mtext>E</mtext></math>, are poured into Cylinder <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>. The liquids separate, forming five distinct layers, as shown in the figure. Cylinder <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> is filled with the same total volume of liquid as Cylinder <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>, but with only liquid <math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mtext>C</mtext></math>. A student claims the pressure at the bottom of Cylinder <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> must be equal to the pressure at the bottom of Cylinder <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>. Is the student’s claim correct? Why or why not?",
+    "image": "https://ap.oly.st/images/f142f1a7503a08d412da9137ce8b10d8.svg",
+    "choices": [
+      {
+        "label": "Yes, because the total depth of liquid in each cylinder is the same.",
+        "image": null
+      },
+      {
+        "label": "Yes, because the total depth of liquid and the average density of the liquid in each cylinder is the same.",
+        "image": null
+      },
+      {
+        "label": "No, because the pressure at the bottom of Cylinder <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> must be greater than the pressure at the bottom of Cylinder <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> because Cylinder <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> contains some liquid that is more dense than the liquid in Cylinder <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>.",
+        "image": null
+      },
+      {
+        "label": "No, because the pressure at the bottom of the two columns of liquid cannot be compared without knowing the relative values of the densities of the individual fluids.",
+        "image": null
+      }
+    ],
+    "answer": "No, because the pressure at the bottom of the two columns of liquid cannot be compared without knowing the relative values of the densities of the individual fluids."
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Fluids"
+  },
+  "topic": {
+    "code": "8.2",
+    "text": "8.2: Pressure"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

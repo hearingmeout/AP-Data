@@ -1,0 +1,41 @@
+{
+  "id": "BFS000001",
+  "type": "mcq",
+  "title": "Binomial Theorem - Expand Polynomial",
+  "content": {
+    "description": "",
+    "question": "The binomial theorem can be used to expand an expression of the form <math alttext=\"open parentheses a plus b close parentheses to the power of n\"><msup><mfenced><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow></mfenced><mi>n</mi></msup></math>. Which of the following is equivalent to <math alttext=\"open parentheses x plus 3 y close parentheses to the power of 5\"><msup><mfenced><mrow><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi></mrow></mfenced><mn>5</mn></msup></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"x to the power of 5 plus open parentheses 3 y close parentheses to the power of 5\"><msup><mi>x</mi><mn>5</mn></msup><mo>+</mo><msup><mfenced><mrow><mn>3</mn><mi>y</mi></mrow></mfenced><mn>5</mn></msup></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"x to the power of 5 plus x to the power of 4 open parentheses 3 y close parentheses plus x cubed open parentheses 3 y close parentheses squared plus x squared open parentheses 3 y close parentheses cubed plus x open parentheses 3 y close parentheses to the power of 4 plus open parentheses 3 y close parentheses to the power of 5\"><msup><mi>x</mi><mn>5</mn></msup><mo>+</mo><msup><mi>x</mi><mn>4</mn></msup><mfenced><mrow><mn>3</mn><mi>y</mi></mrow></mfenced><mo>+</mo><msup><mi>x</mi><mn>3</mn></msup><msup><mfenced><mrow><mn>3</mn><mi>y</mi></mrow></mfenced><mn>2</mn></msup><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup><msup><mfenced><mrow><mn>3</mn><mi>y</mi></mrow></mfenced><mn>3</mn></msup><mo>+</mo><mi>x</mi><msup><mfenced><mrow><mn>3</mn><mi>y</mi></mrow></mfenced><mn>4</mn></msup><mo>+</mo><msup><mfenced><mrow><mn>3</mn><mi>y</mi></mrow></mfenced><mn>5</mn></msup></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"x to the power of 5 plus 4 x to the power of 4 open parentheses 3 y close parentheses plus 6 x cubed open parentheses 3 y close parentheses squared plus 6 x squared open parentheses 3 y close parentheses cubed plus 4 x open parentheses 3 y close parentheses to the power of 4 plus open parentheses 3 y close parentheses to the power of 5\"><msup><mi>x</mi><mn>5</mn></msup><mo>+</mo><mn>4</mn><msup><mi>x</mi><mn>4</mn></msup><mfenced><mrow><mn>3</mn><mi>y</mi></mrow></mfenced><mo>+</mo><mn>6</mn><msup><mi>x</mi><mn>3</mn></msup><msup><mfenced><mrow><mn>3</mn><mi>y</mi></mrow></mfenced><mn>2</mn></msup><mo>+</mo><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><msup><mfenced><mrow><mn>3</mn><mi>y</mi></mrow></mfenced><mn>3</mn></msup><mo>+</mo><mn>4</mn><mi>x</mi><msup><mfenced><mrow><mn>3</mn><mi>y</mi></mrow></mfenced><mn>4</mn></msup><mo>+</mo><msup><mfenced><mrow><mn>3</mn><mi>y</mi></mrow></mfenced><mn>5</mn></msup></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"x to the power of 5 plus 5 x to the power of 4 open parentheses 3 y close parentheses plus 10 x cubed open parentheses 3 y close parentheses squared plus 10 x squared open parentheses 3 y close parentheses cubed plus 5 x open parentheses 3 y close parentheses to the power of 4 plus open parentheses 3 y close parentheses to the power of 5\"><msup><mi>x</mi><mn>5</mn></msup><mo>+</mo><mn>5</mn><msup><mi>x</mi><mn>4</mn></msup><mfenced><mrow><mn>3</mn><mi>y</mi></mrow></mfenced><mo>+</mo><mn>10</mn><msup><mi>x</mi><mn>3</mn></msup><msup><mfenced><mrow><mn>3</mn><mi>y</mi></mrow></mfenced><mn>2</mn></msup><mo>+</mo><mn>10</mn><msup><mi>x</mi><mn>2</mn></msup><msup><mfenced><mrow><mn>3</mn><mi>y</mi></mrow></mfenced><mn>3</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><msup><mfenced><mrow><mn>3</mn><mi>y</mi></mrow></mfenced><mn>4</mn></msup><mo>+</mo><msup><mfenced><mrow><mn>3</mn><mi>y</mi></mrow></mfenced><mn>5</mn></msup></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"x to the power of 5 plus 5 x to the power of 4 open parentheses 3 y close parentheses plus 10 x cubed open parentheses 3 y close parentheses squared plus 10 x squared open parentheses 3 y close parentheses cubed plus 5 x open parentheses 3 y close parentheses to the power of 4 plus open parentheses 3 y close parentheses to the power of 5\"><msup><mi>x</mi><mn>5</mn></msup><mo>+</mo><mn>5</mn><msup><mi>x</mi><mn>4</mn></msup><mfenced><mrow><mn>3</mn><mi>y</mi></mrow></mfenced><mo>+</mo><mn>10</mn><msup><mi>x</mi><mn>3</mn></msup><msup><mfenced><mrow><mn>3</mn><mi>y</mi></mrow></mfenced><mn>2</mn></msup><mo>+</mo><mn>10</mn><msup><mi>x</mi><mn>2</mn></msup><msup><mfenced><mrow><mn>3</mn><mi>y</mi></mrow></mfenced><mn>3</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><msup><mfenced><mrow><mn>3</mn><mi>y</mi></mrow></mfenced><mn>4</mn></msup><mo>+</mo><msup><mfenced><mrow><mn>3</mn><mi>y</mi></mrow></mfenced><mn>5</mn></msup></math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Polynomial and Rational Functions"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: Equivalent Representations of Polynomial and Rational Expressions"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Express functions, equations, or expressions in analytically equivalent forms that are useful in a given mathematical or applied context."
+  }
+}

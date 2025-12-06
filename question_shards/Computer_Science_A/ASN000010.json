@@ -1,0 +1,41 @@
+{
+  "id": "ASN000010",
+  "type": "mcq",
+  "title": "Point and PointChecker classes - explain error",
+  "content": {
+    "description": "",
+    "question": "Which of the following best explains why an error occurs when the classes are compiled?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The Point constructor should have return type void.",
+        "image": null
+      },
+      {
+        "label": "In the Point constructor, int values cannot be assigned to double variables.",
+        "image": null
+      },
+      {
+        "label": "The checkPoint method cannot have a parameter of type Point.",
+        "image": null
+      },
+      {
+        "label": "In the checkPoint method, the instance variables num1 and num2 cannot be accessed from a class other than Point.",
+        "image": null
+      }
+    ],
+    "answer": "In the checkPoint method, the instance variables num1 and num2 cannot be accessed from a class other than Point."
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Anatomy of a Class"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

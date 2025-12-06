@@ -1,0 +1,37 @@
+{
+  "id": "VR021838",
+  "type": "mcq",
+  "title": "Generalization of MaxTwo and MaxThree",
+  "content": {
+    "description": "",
+    "question": "Which of the following procedures is a generalization of the MaxTwo and MaxThree procedures?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Procedure Min (x, y), which returns the lesser of its two integer parameters",
+        "image": null
+      },
+      {
+        "label": "Procedure Max (numList), which returns the maximum value in the list of integers numList",
+        "image": null
+      },
+      {
+        "label": "Procedure MaxFour (w, x, y, z), which returns the greatest of its four integer parameters",
+        "image": null
+      },
+      {
+        "label": "Procedure OverMax (numList, max), which returns the number of integers in numList that exceed the integer value max",
+        "image": null
+      }
+    ],
+    "answer": "Procedure Max (numList), which returns the maximum value in the list of integers numList"
+  },
+  "topic": {
+    "code": "3.13",
+    "text": "3.13: Developing Procedures"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Explain how abstraction manages complexity."
+  }
+}

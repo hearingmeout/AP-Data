@@ -1,0 +1,41 @@
+{
+  "id": "PXG000000",
+  "type": "mcq",
+  "title": "Holes - rationale for limits",
+  "content": {
+    "description": "The x axis is ranges from 0 to 3 in increments of 1. The y axis ranges from 0 to 3 in increments of 1. Moving from left to right:",
+    "question": "The curve enters the window at approximately (0.2 comma 3). The curve decreases, sharply at first and getting shallower. The curve reaches the point (1 comma one-half), which is marked with an open circle. There are vertical and horizontal dashed lines from this point to the axes with labeled values to indicate its coordinates. The curve continues to decrease, exiting the window at (3.5 comma 0.2). ​The graph of the rational function <math alttext=\"r\"><mi>r</mi></math> is shown with a hole at the point <math alttext=\"open parentheses 1 comma 1 half close parentheses\"><mfenced><mrow><mn>1</mn><mo>,</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced></math>. Which of the following statements is true?",
+    "image": "https://ap.oly.st/images/caa8a22db07ab6c9153c41ac919f74c3.svg",
+    "choices": [
+      {
+        "label": "​Neither <math alttext=\"limit as x rightwards arrow 1 superscript minus of r open parentheses x close parentheses\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>→</mo><msup><mn>1</mn><mo>-</mo></msup></mrow></munder><mi>r</mi><mfenced><mi>x</mi></mfenced></math> nor <math alttext=\"limit as x rightwards arrow 1 superscript plus of r open parentheses x close parentheses\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>→</mo><msup><mn>1</mn><mo>+</mo></msup></mrow></munder><mi>r</mi><mfenced><mi>x</mi></mfenced></math> is defined, because the graph of <math alttext=\"r\"><mi>r</mi></math> has a hole at <math alttext=\"x equals 1\"><mi>x</mi><mo>=</mo><mn>1</mn></math>.",
+        "image": null
+      },
+      {
+        "label": "​​Neither <math alttext=\"limit as x rightwards arrow 1 superscript minus of r open parentheses x close parentheses\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>→</mo><msup><mn>1</mn><mo>-</mo></msup></mrow></munder><mi>r</mi><mfenced><mi>x</mi></mfenced></math> nor <math alttext=\"limit as x rightwards arrow 1 superscript plus of r open parentheses x close parentheses\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>→</mo><msup><mn>1</mn><mo>+</mo></msup></mrow></munder><mi>r</mi><mfenced><mi>x</mi></mfenced></math> is defined, but <math alttext=\"limit as x rightwards arrow 1 of r open parentheses x close parentheses\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>→</mo><mn>1</mn></mrow></munder><mi>r</mi><mfenced><mi>x</mi></mfenced></math> is defined, because the graph of <math alttext=\"r\"><mi>r</mi></math> has a hole at <math alttext=\"x equals 1\"><mi>x</mi><mo>=</mo><mn>1</mn></math>.",
+        "image": null
+      },
+      {
+        "label": "​Both ​​<math alttext=\"limit as x rightwards arrow 1 superscript minus of r open parentheses x close parentheses\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>→</mo><msup><mn>1</mn><mo>-</mo></msup></mrow></munder><mi>r</mi><mfenced><mi>x</mi></mfenced></math> and <math alttext=\"limit as x rightwards arrow 1 superscript plus of r open parentheses x close parentheses\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>→</mo><msup><mn>1</mn><mo>+</mo></msup></mrow></munder><mi>r</mi><mfenced><mi>x</mi></mfenced></math> are defined, but these limit values are not equal, because values from the left are greater than <math alttext=\"1 half\"><mfrac><mn>1</mn><mn>2</mn></mfrac></math> and values from the right are less than <math alttext=\"1 half\"><mfrac><mn>1</mn><mn>2</mn></mfrac></math>.",
+        "image": null
+      },
+      {
+        "label": "​Both ​​<math alttext=\"limit as x rightwards arrow 1 superscript minus of r open parentheses x close parentheses\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>→</mo><msup><mn>1</mn><mo>-</mo></msup></mrow></munder><mi>r</mi><mfenced><mi>x</mi></mfenced></math> and <math alttext=\"limit as x rightwards arrow 1 superscript plus of r open parentheses x close parentheses\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>→</mo><msup><mn>1</mn><mo>+</mo></msup></mrow></munder><mi>r</mi><mfenced><mi>x</mi></mfenced></math> are defined, and these limit values are both equal to <math alttext=\"limit as x rightwards arrow 1 of r open parentheses x close parentheses\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>→</mo><mn>1</mn></mrow></munder><mi>r</mi><mfenced><mi>x</mi></mfenced></math>, which is equal to <math alttext=\"1 half\"><mfrac><mn>1</mn><mn>2</mn></mfrac></math>.",
+        "image": null
+      }
+    ],
+    "answer": "​Both ​​<math alttext=\"limit as x rightwards arrow 1 superscript minus of r open parentheses x close parentheses\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>→</mo><msup><mn>1</mn><mo>-</mo></msup></mrow></munder><mi>r</mi><mfenced><mi>x</mi></mfenced></math> and <math alttext=\"limit as x rightwards arrow 1 superscript plus of r open parentheses x close parentheses\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>→</mo><msup><mn>1</mn><mo>+</mo></msup></mrow></munder><mi>r</mi><mfenced><mi>x</mi></mfenced></math> are defined, and these limit values are both equal to <math alttext=\"limit as x rightwards arrow 1 of r open parentheses x close parentheses\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>→</mo><mn>1</mn></mrow></munder><mi>r</mi><mfenced><mi>x</mi></mfenced></math>, which is equal to <math alttext=\"1 half\"><mfrac><mn>1</mn><mn>2</mn></mfrac></math>."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Polynomial and Rational Functions"
+  },
+  "topic": {
+    "code": "1.10",
+    "text": "1.10: Rational Functions and Holes"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Support conclusions or choices with a logical rationale or appropriate data."
+  }
+}

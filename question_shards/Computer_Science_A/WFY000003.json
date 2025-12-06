@@ -1,0 +1,41 @@
+{
+  "id": "WFY000003",
+  "type": "mcq",
+  "title": "Recursive linear search - correct the error",
+  "content": {
+    "description": "",
+    "question": "Which of the following changes can be made so that the method works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Changing line 4 to if (start > end)",
+        "image": null
+      },
+      {
+        "label": "Changing line 8 to else if (start == goal)",
+        "image": null
+      },
+      {
+        "label": "Changing line 10 to return arr[start];",
+        "image": null
+      },
+      {
+        "label": "Changing line 14 to return locateItem(arr, goal, start + 1, end + 1);",
+        "image": null
+      }
+    ],
+    "answer": "Changing line 4 to if (start > end)"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.17",
+    "text": "4.17: Recursive Searching and Sorting"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

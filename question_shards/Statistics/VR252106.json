@@ -1,0 +1,48 @@
+{
+  "id": "VR252106",
+  "type": "frq",
+  "title": "Multi-focus - difference in coaches scatterplot",
+  "content": {
+    "description": "",
+    "question": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations. The president of a large urban running club plans to investigate the effectiveness of two different training programs (C and D) in improving the time a runner takes to complete a one-mile run. A random sample of <math alttext=\"32\" overflow=\"scroll\"><mstyle><mrow><mn>32</mn></mrow></mstyle></math> runners was selected from those in the urban running club. At an indoor track, each of the <math alttext=\"32\" overflow=\"scroll\"><mstyle><mrow><mn>32</mn></mrow></mstyle></math> runners completed the one-mile run twice, once while training for the run using Program C and once while training for the run using Program D. The president used random assignment to determine which program each runner used to train for the first run, with <math alttext=\"16\" overflow=\"scroll\"><mstyle><mrow><mn>16</mn></mrow></mstyle></math> runners using Program C first and <math alttext=\"16\" overflow=\"scroll\"><mstyle><mrow><mn>16</mn></mrow></mstyle></math> runners using Program D first. All other factors were held constant between the two runs. The difference in the running times, measured by the difference in time to complete the one-mile run after training with Program C and the time to complete the one-mile run after training with Program D, was recorded for each runner. The histogram shows the distribution of the differences in running times, in seconds, (C minus D) for the <math alttext=\"32\" overflow=\"scroll\"><mstyle><mrow><mn>32</mn></mrow></mstyle></math> runners. (a) Describe the distributions of the differences in running times for the <math alttext=\"32\" overflow=\"scroll\"><mstyle><mrow><mn>32</mn></mrow></mstyle></math> runners.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations. The president of a large urban running club plans to investigate the effectiveness of two different training programs (C and D) in improving the time a runner takes to complete a one-mile run. A random sample of <math alttext=\"32\" overflow=\"scroll\"><mstyle><mrow><mn>32</mn></mrow></mstyle></math> runners was selected from those in the urban running club. At an indoor track, each of the <math alttext=\"32\" overflow=\"scroll\"><mstyle><mrow><mn>32</mn></mrow></mstyle></math> runners completed the one-mile run twice, once while training for the run using Program C and once while training for the run using Program D. The president used random assignment to determine which program each runner used to train for the first run, with <math alttext=\"16\" overflow=\"scroll\"><mstyle><mrow><mn>16</mn></mrow></mstyle></math> runners using Program C first and <math alttext=\"16\" overflow=\"scroll\"><mstyle><mrow><mn>16</mn></mrow></mstyle></math> runners using Program D first. All other factors were held constant between the two runs. The difference in the running times, measured by the difference in time to complete the one-mile run after training with Program C and the time to complete the one-mile run after training with Program D, was recorded for each runner. The histogram shows the distribution of the differences in running times, in seconds, (C minus D) for the <math alttext=\"32\" overflow=\"scroll\"><mstyle><mrow><mn>32</mn></mrow></mstyle></math> runners. (a) Describe the distributions of the differences in running times for the <math alttext=\"32\" overflow=\"scroll\"><mstyle><mrow><mn>32</mn></mrow></mstyle></math> runners.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Statistics/VR252106.g01.png"
+      },
+      {
+        "text": "The president will use a hypothesis test, at <math alttext=\"alpha equals 0.04\" overflow=\"scroll\"><mstyle><mrow><mi>α</mi><mo>=</mo><mn>0.04</mn></mrow></mstyle></math>, to determine whether the sample data provide convincing statistical evidence that the mean difference in running times between Program C and Program D is different from zero. Let <math alttext=\"mu sub difference\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>μ</mi></mrow><mrow><mi>d</mi><mi>i</mi><mi>f</mi><mi>f</mi></mrow></msub></mrow></mstyle></math> represent the mean difference in running times (C minus D) for all runners in the running club that could train using the two programs. The hypotheses are: <math alttext=\"H sub 0, colon, mu sub difference equals 0. H sub a, colon, mu sub difference is not equal to 0.\" overflow=\"scroll\"><mstyle><mrow><mstyle mathvariant=\"normal\"><mrow><msub><mrow><mi>H</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mstyle><mo>:</mo><msub><mrow><mi>μ</mi></mrow><mrow><mi>d</mi><mi>i</mi><mi>f</mi><mi>f</mi></mrow></msub><mo>=</mo><mn>0</mn><mspace linebreak=\"newline\"></mspace><mrow><mstyle mathvariant=\"normal\"><mrow><msub><mrow><mi>H</mi></mrow><mrow><mi>a</mi></mrow></msub></mrow></mstyle><mo>:</mo><msub><mrow><mi>μ</mi></mrow><mrow><mi>d</mi><mi>i</mi><mi>f</mi><mi>f</mi></mrow></msub><mo>≠</mo><mn>0</mn></mrow></mrow></mstyle></math> (b) Identify a feature of the distribution of sample differences in running times that might raise concerns about whether the sampling distribution of <math alttext=\"x bar sub difference\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mover><mrow><mi>x</mi></mrow><mrow><mo>¯</mo></mrow></mover></mrow><mrow><mi>d</mi><mi>i</mi><mi>f</mi><mi>f</mi></mrow></msub></mrow></mstyle></math> is approximately normal, and explain why it is reasonable to conclude that the sampling distribution of <math alttext=\"x bar sub difference\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mover><mrow><mi>x</mi></mrow><mrow><mo>¯</mo></mrow></mover></mrow><mrow><mi>d</mi><mi>i</mi><mi>f</mi><mi>f</mi></mrow></msub></mrow></mstyle></math> is approximately normal in this case.",
+        "image": null
+      },
+      {
+        "text": "Assuming all conditions for inference were met, the hypothesis test was conducted and resulted in a test statistic of <math alttext=\"t is approximately equal to 0.328\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>≈</mo><mn>0.328</mn></mrow></mstyle></math>.(c) Based on the result of the hypothesis test, what conclusion can be made about the two training programs? Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "A trainer at the running club believes that time to complete a one-mile run is related to running experience, in years. The scatterplots show, by training program, the relationship between running experience and running time for the <math alttext=\"32\" overflow=\"scroll\"><mstyle><mrow><mn>32</mn></mrow></mstyle></math> runners. (d) Describe and compare the association between running experience and running time for the two training programs.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Statistics/VR252106.g02.png"
+      },
+      {
+        "text": "(e) Suppose a runner is randomly selected from those in the study. For which program (C or D) is there a greater probability of selecting a runner that has more than <math alttext=\"10\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>10</mn></mrow></mstyle></math> years of running experience given the running time for the one-mile run was at least <math alttext=\"500\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>500</mn></mrow></mstyle></math> seconds? Interpret what this means in the context of the study.",
+        "image": null
+      },
+      {
+        "text": "(f) Provide a recommendation to the president of the running club that describes how runners should be assigned to train with Program C or Program D based on running experience if the goal is to have a lower running time. Justify your answer based on the two scatterplots.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.6",
+    "text": "1.6: Describing the Distribution of a Quantitative Variable"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Describe data presented numerically or graphically."
+  }
+}

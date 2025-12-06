@@ -1,0 +1,41 @@
+{
+  "id": "IZL000003",
+  "type": "mcq",
+  "title": "Scanning positives - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following can be used to replace /* missing code */ so that the code segment prints the sum of the positive numbers in the file?",
+    "image": null,
+    "choices": [
+      {
+        "label": "if (fileInput > 0) { sum = sum + fileInput; }",
+        "image": null
+      },
+      {
+        "label": "if (fileInput.nextDouble() > 0) { sum = sum + fileInput.nextDouble(); }",
+        "image": null
+      },
+      {
+        "label": "double temp = fileInput.nextDouble(); if (temp > 0) { sum = sum + temp; }",
+        "image": null
+      },
+      {
+        "label": "double temp = fileInput.nextDouble(); if (temp > 0) { sum = sum + fileInput.nextDouble(); }",
+        "image": null
+      }
+    ],
+    "answer": "double temp = fileInput.nextDouble(); if (temp > 0) { sum = sum + temp; }"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.6",
+    "text": "4.6: Using Text Files"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

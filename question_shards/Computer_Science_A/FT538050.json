@@ -1,0 +1,41 @@
+{
+  "id": "FT538050",
+  "type": "mcq",
+  "title": "mystery with int array instance variable",
+  "content": {
+    "description": "Consider the following instance variable and method.",
+    "question": "What is returned by the call mystery (0, arr.length − 1, num) ?",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/236416b57438be85878605b2646eb72b.jpg",
+    "choices": [
+      {
+        "label": "The number of elements in arr that are less than num",
+        "image": null
+      },
+      {
+        "label": "The number of elements in arr that are less than or equal to num",
+        "image": null
+      },
+      {
+        "label": "The number of elements in arr that are equal to num",
+        "image": null
+      },
+      {
+        "label": "The index of the middle element in arr",
+        "image": null
+      }
+    ],
+    "answer": "The number of elements in arr that are less than num"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.17",
+    "text": "4.17: Recursive Searching and Sorting"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

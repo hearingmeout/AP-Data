@@ -1,0 +1,37 @@
+{
+  "id": "VR169574",
+  "type": "mcq",
+  "title": "Set maxPS based on time",
+  "content": {
+    "description": "In a certain video game, the variable maxPS represents the maximum possible score a player can earn. The maximum possible score depends on the time it takes the player to complete the game. The value of maxPS should be 30 if time is greater than 120 and 50 otherwise.",
+    "question": "Which of the following code segments correctly sets the value of maxPS based on the value of time ?Select two answers.",
+    "image": null,
+    "choices": [
+      {
+        "label": "The figure presents two blocks of code that consist of 3 total lines. Line 1: [begin block] maxPS ← 50 [end block] [Begin block] Line 2: IF [begin block] time is greater than 120 [end block] [begin block] Line 3: [begin block] maxPS ← 30 [end block] [end block] [End block]",
+        "image": "https://ap.oly.st/images/f468889eb204f0bda7bbb0407f966b3d.png"
+      },
+      {
+        "label": "The figure presents two blocks of code that consist of 3 total lines. [Begin Block] Line 1: IF [begin block] time is greater than 120 [end block] [begin block] Line 2: [begin block] maxPS ← 30 [end block] [end block] [End Block] Line 3: [begin block] maxPS ← 50 [end block]",
+        "image": "https://ap.oly.st/images/83a5e12b8bfa8f7fe241b8ef8bacdbd4.png"
+      },
+      {
+        "label": "The figure presents one block of code that consists of 4 total lines. [Begin Block] Line 1: IF [begin block] time is greater than 120 [end block] [begin block] Line 2: [begin block] maxPS ← 50 [end block] [end block] Line 3: ELSE [begin block] Line 4: [begin block] maxPS ← 30 [end block] [end block] [End block]",
+        "image": "https://ap.oly.st/images/17250f646a15adab39a5db6831e214f0.png"
+      },
+      {
+        "label": "The figure presents one block of code that consists of 4 total lines. [Begin Block] Line 1: IF [begin block] time is greater than 120 [end block] [begin block] Line 2: [begin block] maxPS ← 30 [end block] [end block] Line 3: ELSE [begin block] Line 4: [begin block] maxPS ← 50 [end block] [end block] [End block]",
+        "image": "https://ap.oly.st/images/4c1c63a2ced917af098507b0ed5e076d.png"
+      }
+    ],
+    "answer": "The figure presents two blocks of code that consist of 3 total lines. Line 1: [begin block] maxPS ← 50 [end block] [Begin block] Line 2: IF [begin block] time is greater than 120 [end block] [begin block] Line 3: [begin block] maxPS ← 30 [end block] [end block] [End block]"
+  },
+  "topic": {
+    "code": "3.6",
+    "text": "3.6: Conditionals"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

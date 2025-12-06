@@ -1,0 +1,41 @@
+{
+  "id": "CNZ000001",
+  "type": "mcq",
+  "title": "Change arr with for loop - describe result",
+  "content": {
+    "description": "",
+    "question": "Which of the following represents the contents of arr after the code segment has been executed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "{10, 20, 50, 90, 50}",
+        "image": null
+      },
+      {
+        "label": "{10, 20, 50, 90, 140}",
+        "image": null
+      },
+      {
+        "label": "{10, 30, 60, 100, 50}",
+        "image": null
+      },
+      {
+        "label": "{10, 30, 60, 100, 150}",
+        "image": null
+      }
+    ],
+    "answer": "{10, 20, 50, 90, 140}"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.4",
+    "text": "4.4: Array Traversals"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

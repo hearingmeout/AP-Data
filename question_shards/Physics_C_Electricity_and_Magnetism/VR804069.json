@@ -1,0 +1,41 @@
+{
+  "id": "VR804069",
+  "type": "mcq",
+  "title": "LR circuit - equivalent resistance at steady state",
+  "content": {
+    "description": "",
+    "question": "A battery, a switch, two identical resistors, and an inductor are connected as shown in the figure. After the switch is closed, the system is allowed to reach steady state. What is the equivalent resistance of the circuit when it has reached steady state?",
+    "image": "https://ap.oly.st/images/5e27768dc214b43f28ff9c57d3d873e9.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"R over 2\" display=\"inline\" overflow=\"scroll\"><mfrac><mi>R</mi><mn>2</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2 R\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mi>R</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"0\" display=\"inline\" overflow=\"scroll\"><mn>0</mn></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"R over 2\" display=\"inline\" overflow=\"scroll\"><mfrac><mi>R</mi><mn>2</mn></mfrac></math>"
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.5",
+    "text": "13.5: Circuits with Resistors and Inductors (LR Circuits)"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

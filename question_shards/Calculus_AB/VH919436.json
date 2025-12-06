@@ -1,0 +1,41 @@
+{
+  "id": "VH919436",
+  "type": "mcq",
+  "title": "Representations - Functions-Increasing-Decreasing",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be the function with derivative given by <math alttext=\"f prime of x, equals, x squared, minus, open parenthesis, a, plus b, close parenthesis, times x, plus, a, b, which equals, open parenthesis, x minus a, close parenthesis, times, open parenthesis, x minus b, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><mrow><mo>(</mo><mi>a</mi><mo>+</mo><mi>b</mi><mo>)</mo></mrow><mi>x</mi><mo>+</mo><mi>a</mi><mi>b</mi><mo>=</mo><mrow><mo>(</mo><mi>x</mi><mo>−</mo><mi>a</mi><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>−</mo><mi>b</mi><mo>)</mo></mrow></mrow></mstyle></math>, where <math alttext=\"a\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>a</mi></mrow></mstyle></math> and <math alttext=\"b\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>b</mi></mrow></mstyle></math> are constants such that <math alttext=\"a, is less than b\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>a</mi><mo>&lt;</mo><mi>b</mi></mrow></mstyle></math>. Which of the following statements is true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is decreasing for <math alttext=\"a, less than x is less than b\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>a</mi><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mi>b</mi></mrow></mstyle></math> because <math alttext=\"f prime of x, is less than 0\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>&lt;</mo><mn>0</mn></mrow></math> for <math alttext=\"a, less than x is less than b\" display=\"inline\" overflow=\"scroll\"><mrow><mi>a</mi><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mi>b</mi></mrow></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is decreasing for <math alttext=\"x less than a,\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>&lt;</mo><mi>a</mi></mrow></mstyle></math> and <math alttext=\"x greater than b\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>&gt;</mo><mi>b</mi></mrow></mstyle></math> because <math alttext=\"f prime of x, is less than 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>&lt;</mo><mn>0</mn></mrow></mstyle></math> for <math alttext=\"x less than a,\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>&lt;</mo><mi>a</mi></mrow></mstyle></math> and <math alttext=\"x greater than b\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>&gt;</mo><mi>b</mi></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is decreasing for <math alttext=\"x less than, the fraction with numerator a, plus b, and denominator 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>&lt;</mo><mfrac><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math> because <math alttext=\"f prime of x, is less than 0\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>&lt;</mo><mn>0</mn></mrow></math> for <math alttext=\"x less than, the fraction with numerator a, plus b, and denominator 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>&lt;</mo><mfrac><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is decreasing for <math alttext=\"x less than, the fraction with numerator a, plus b, and denominator 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>&lt;</mo><mfrac><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math> because <math alttext=\"f double prime of x, is less than 0\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>″</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>&lt;</mo><mn>0</mn></mrow></math> for <math alttext=\"x less than, the fraction with numerator a, plus b, and denominator 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>&lt;</mo><mfrac><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math>.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is decreasing for <math alttext=\"a, less than x is less than b\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>a</mi><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mi>b</mi></mrow></mstyle></math> because <math alttext=\"f prime of x, is less than 0\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>&lt;</mo><mn>0</mn></mrow></math> for <math alttext=\"a, less than x is less than b\" display=\"inline\" overflow=\"scroll\"><mrow><mi>a</mi><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mi>b</mi></mrow></math>."
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.3",
+    "text": "5.3: Determining Intervals on Which a Function Is Increasing or Decreasing"
+  },
+  "skill": {
+    "code": "Skill 2.E",
+    "text": "Skill 2.E: Describe the relationships among different representations of functions and their derivatives."
+  }
+}

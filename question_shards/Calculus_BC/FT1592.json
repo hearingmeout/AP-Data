@@ -1,0 +1,45 @@
+{
+  "id": "FT1592",
+  "type": "mcq",
+  "title": "Integral of a rational function using subsitution",
+  "content": {
+    "description": "",
+    "question": "<math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>1</mn> <mn>2</mn> </msubsup> <mrow> <mfrac> <mrow> <mi>d</mi> <mi>x</mi> </mrow> <mrow> <mn>2</mn> <mi>x</mi> <mo>+</mo> <mn>1</mn> </mrow> </mfrac> </mrow> </mrow> </mstyle> <mo>=</mo> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaapedapaqaa8qadaWcaaWdaeaapeGaamizaiaadIhaa8aabaWdbiaaikdacaWG4bGaey4kaSIaaGymaaaaaSWdaeaapeGaaGymaaWdaeaapeGaaGOmaaqdcqGHRiI8aOGaeyypa0daaa@43B2@</annotation> </semantics> </math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <semantics> <mrow> <mn>2</mn> <mi>ln</mi> <mn>2</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbiaaikdaciGGSbGaaiOBaiaaikdaaaa@3C77@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mtext> </mtext> <mi>ln</mi> <mn>2</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaalaaapaqaa8qacaaIXaaapaqaa8qacaaIYaaaa8aacaaMe8+dbiGacYgacaGGUbGaaGOmaaaa@3F2C@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mn>2</mn> <mrow> <mo>(</mo> <mrow> <mi>ln</mi> <mn>5</mn> <mo>−</mo> <mi>ln</mi> <mn>3</mn> </mrow> <mo>)</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbiaaikdadaqadaWdaeaapeGaciiBaiaac6gacaaI1aGaeyOeI0IaciiBaiaac6gacaaIZaaacaGLOaGaayzkaaaaaa@41B0@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mi>ln</mi> <mn>5</mn> <mo>−</mo> <mi>ln</mi> <mn>3</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbiGacYgacaGGUbGaaGynaiabgkHiTiGacYgacaGGUbGaaG4maaaa@3F4C@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mrow> <mo>(</mo> <mrow> <mi>ln</mi> <mn>5</mn> <mo>−</mo> <mi>ln</mi> <mn>3</mn> </mrow> <mo>)</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaalaaapaqaa8qacaaIXaaapaqaa8qacaaIYaaaamaabmaapaqaa8qaciGGSbGaaiOBaiaaiwdacqGHsislciGGSbGaaiOBaiaaiodaaiaawIcacaGLPaaaaaa@42B9@</annotation> </semantics> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <semantics> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mrow> <mo>(</mo> <mrow> <mi>ln</mi> <mn>5</mn> <mo>−</mo> <mi>ln</mi> <mn>3</mn> </mrow> <mo>)</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaalaaapaqaa8qacaaIXaaapaqaa8qacaaIYaaaamaabmaapaqaa8qaciGGSbGaaiOBaiaaiwdacqGHsislciGGSbGaaiOBaiaaiodaaiaawIcacaGLPaaaaaa@42B9@</annotation> </semantics> </math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.7",
+    "text": "6.7: The Fundamental Theorem of Calculus and Definite Integrals"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "VR158399",
+  "type": "mcq",
+  "title": "Expression to count restaurants",
+  "content": {
+    "description": "A student wants to count the number of restaurants in the spreadsheet whose price range is $30 or less and whose average customer rating is at least 4.0. For a given row in the spreadsheet, suppose prcRange contains the price range as a string and avgRating contains the average customer rating as a decimal number.",
+    "question": "Which of the following expressions will evaluate to true if the restaurant should be counted and evaluates to false otherwise?",
+    "image": null,
+    "choices": [
+      {
+        "label": "(avgRating ≥ 4.0) AND ((prcRange = \"lo\") AND (prcRange = \"med\"))",
+        "image": null
+      },
+      {
+        "label": "(avgRating ≥ 4.0) AND ((prcRange = \"lo\") OR (prcRange = \"med\"))",
+        "image": null
+      },
+      {
+        "label": "(avgRating ≥ 4.0) OR ((prcRange = \"lo\") AND (prcRange = \"med\"))",
+        "image": null
+      },
+      {
+        "label": "(avgRating ≥ 4.0) OR ((prcRange = \"lo\") OR (prcRange = \"med\"))",
+        "image": null
+      }
+    ],
+    "answer": "(avgRating ≥ 4.0) AND ((prcRange = \"lo\") OR (prcRange = \"med\"))"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Using Programs with Data"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

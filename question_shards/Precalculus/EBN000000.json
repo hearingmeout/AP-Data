@@ -1,0 +1,41 @@
+{
+  "id": "EBN000000",
+  "type": "mcq",
+  "title": "Logarithmic Modeling - recognizing patterns",
+  "content": {
+    "description": "​",
+    "question": "<math alttext=\"x\"><semantics><mi>x</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"6\"><semantics><mn>6</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"12\"><semantics><mn>12</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"24\"><semantics><mn>24</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"48\"><semantics><mn>48</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"y\"><semantics><mi>y</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"5\"><semantics><mn>5</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"10\"><semantics><mn>10</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"15\"><semantics><mn>15</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"20\"><semantics><mn>20</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>​​The table gives corresponding values of <math alttext=\"x\"><semantics><mi>x</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> and <math alttext=\"y\"><semantics><mi>y</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. The data are modeled by the function <math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, where <math alttext=\"y equals f open parentheses x close parentheses\"><semantics><mrow><mi>y</mi><mo>=</mo><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. Which of the following could define <math alttext=\"f open parentheses x close parentheses\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"5 over 6 x\"><semantics><mrow><mfrac><mn>5</mn><mn>6</mn></mfrac><mi>x</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"3 times 2 to the power of open parentheses x divided by 5 close parentheses end exponent\"><semantics><mrow><mn>3</mn><mo>·</mo><msup><mn>2</mn><mfenced><mrow><mi>x</mi><mo>/</mo><mn>5</mn></mrow></mfenced></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"5 log subscript 6 x\"><semantics><mrow><mn>5</mn><msub><mi>log</mi><mn>6</mn></msub><mi>x</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"5 log subscript 2 open parentheses x over 3 close parentheses\"><semantics><mrow><mn>5</mn><msub><mi>log</mi><mn>2</mn></msub><mfenced><mfrac><mi>x</mi><mn>3</mn></mfrac></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"5 log subscript 2 open parentheses x over 3 close parentheses\"><semantics><mrow><mn>5</mn><msub><mi>log</mi><mn>2</mn></msub><mfenced><mfrac><mi>x</mi><mn>3</mn></mfrac></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.14",
+    "text": "2.14: Logarithmic Function Context and Data Modeling"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

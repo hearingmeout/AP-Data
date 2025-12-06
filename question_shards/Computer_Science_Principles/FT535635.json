@@ -1,0 +1,37 @@
+{
+  "id": "FT535635",
+  "type": "mcq",
+  "title": "Algorithm to simulate flipping a coin",
+  "content": {
+    "description": "The algorithm below is used to simulate the results of flipping a coin 4 times. Consider the goal of determining whether the simulation resulted in an equal number of heads and tails.",
+    "question": "Step 1: Initialize the variables heads_counter and ﬂip_counter to 0. Step 2: A variable coin_ﬂip is randomly assigned a value of either 0 or 1. If coin_ﬂip has the value 0, the coin flip result is heads, so heads_counter is incremented by 1. Step 3: Increment the value of ﬂip_counter by 1. Step 4: Repeat steps 2 and 3 until ﬂip_counter equals 4. Following execution of the algorithm, which of the following expressions indicates that the simulation resulted in an equal number of heads and tails?",
+    "image": null,
+    "choices": [
+      {
+        "label": "coin_flip = 1",
+        "image": null
+      },
+      {
+        "label": "flip_counter = 1",
+        "image": null
+      },
+      {
+        "label": "flip_counter = 2",
+        "image": null
+      },
+      {
+        "label": "heads_counter = 2",
+        "image": null
+      }
+    ],
+    "answer": "heads_counter = 2"
+  },
+  "topic": {
+    "code": "3.8",
+    "text": "3.8: Iteration"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Represent algorithmic processes without using a programming language."
+  }
+}

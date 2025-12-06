@@ -1,0 +1,41 @@
+{
+  "id": "VR846604",
+  "type": "mcq",
+  "title": "Time const - 2-capacitor 3-resistor combination",
+  "content": {
+    "description": "",
+    "question": "Two circuits are constructed from capacitors, resistors, and switches, as shown in the figure. The capacitors all have the same capacitance <math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mi>C</mi></math>, and the resistors all have the same resistance <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math>. Initially, the capacitors are charged and the switches are open. The switches are then closed, and the capacitors discharge over time. If the time constant for circuit <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> is <math alttext=\"tau sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>τ</mi><mn>1</mn></msub></math>, what is the time constant for circuit <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> ?",
+    "image": "https://ap.oly.st/images/8bbe758553d082f9abb87ff8d9a14b33.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"one third tau sub 1\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>1</mn><mn>3</mn></mfrac><msub><mi>τ</mi><mn>1</mn></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"four thirds tau sub 1\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>4</mn><mn>3</mn></mfrac><msub><mi>τ</mi><mn>1</mn></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"3 tau sub 1\" display=\"inline\" overflow=\"scroll\"><mn>3</mn><msub><mi>τ</mi><mn>1</mn></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"6 tau sub 1\" display=\"inline\" overflow=\"scroll\"><mn>6</mn><msub><mi>τ</mi><mn>1</mn></msub></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"four thirds tau sub 1\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>4</mn><mn>3</mn></mfrac><msub><mi>τ</mi><mn>1</mn></msub></math>"
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.8",
+    "text": "11.8: Resistor-Capacitor (RC) Circuits"
+  },
+  "skill": {
+    "code": "2.D",
+    "text": "2.D: Predict new values or factors of change of physical quantities using functional dependence between variables."
+  }
+}

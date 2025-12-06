@@ -1,0 +1,45 @@
+{
+  "id": "VR021443",
+  "type": "mcq",
+  "title": "Training Program",
+  "content": {
+    "description": "An athletic trainer wanted to investigate the relationship between an athlete’s resting heart rate and the heart rate after exercise. From a sample of <math alttext=\"12\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>12</mn></mrow></mstyle></math> athletes, the athletic trainer recorded each athlete’s resting heart rate, in beats per minute, and heart rate, in beats per minute, after <math alttext=\"5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>5</mn></mrow></mstyle></math> minutes of moderate exercise. The results of a regression analysis of the data are shown in the following computer output.",
+    "question": "Predictor <math alttext=\"Coefficient\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>Coef</mtext></mrow></mstyle></math> <math alttext=\"Standard Error of Coefficient\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>SE Coef</mtext></mrow></mstyle></math> <math alttext=\"T\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>T</mtext></mrow></mstyle></math> <math alttext=\"P\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>P</mtext></mrow></mstyle></math> Constant <math alttext=\"17.5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>17.5</mn></mrow></mstyle></math> <math alttext=\"29.2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>29.2</mn></mrow></mstyle></math> <math alttext=\"0.60\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.60</mn></mrow></mstyle></math> <math alttext=\"0.563\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.563</mn></mrow></mstyle></math> Resting Heart Rate <math alttext=\"1.786\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>1.786</mn></mrow></mstyle></math> <math alttext=\"0.453\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.453</mn></mrow></mstyle></math> <math alttext=\"3.94\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>3.94</mn></mrow></mstyle></math> <math alttext=\"0.003\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.003</mn></mrow></mstyle></math> <math alttext=\"S equals 9.9702\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>S</mtext><mo>=</mo><mn>9.9702</mn></mrow></mstyle></math> <math alttext=\"R squared, equals 60.88%\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>R-Sq</mtext><mo>=</mo><mn>60.88</mn><mo>%</mo></mrow></mstyle></math> Assume the conditions for inference are met. Which of the following represents a <math alttext=\"95\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>95</mn></mrow></mstyle></math> percent confidence for the slope of the population regression line?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"17.5 plus or minus, 1.96 times 29.2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>17.5</mn><mo>±</mo><mn>1.96</mn><mrow><mo>(</mo><mn>29.2</mn><mo>)</mo></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"1.786 plus or minus, 1.96 times 0.453\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>1.786</mn><mo>±</mo><mn>1.96</mn><mrow><mo>(</mo><mn>0.453</mn><mo>)</mo></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"1.786 plus or minus, 1.96 times, open parenthesis, the fraction 0.453 over the square root of 12, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>1.786</mn><mo>±</mo><mn>1.96</mn><mrow><mo>(</mo><mfrac><mrow><mn>0.453</mn></mrow><mrow><msqrt><mrow><mn>12</mn></mrow></msqrt></mrow></mfrac><mo>)</mo></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"1.786 plus or minus, 2.228 times, open parenthesis, the fraction 0.453 over the square root of 12, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mn>1.786</mn><mo>±</mo><mn>2.228</mn><mrow><mo>(</mo><mfrac><mrow><mn>0.453</mn></mrow><mrow><msqrt><mrow><mn>12</mn></mrow></msqrt></mrow></mfrac><mo>)</mo></mrow></mrow></mstyle></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"1.786 plus or minus, 2.228 times 0.453\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mn>1.786</mn><mo>±</mo><mn>2.228</mn><mrow><mo>(</mo><mn>0.453</mn><mo>)</mo></mrow></mrow></mstyle></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"1.786 plus or minus, 2.228 times 0.453\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mn>1.786</mn><mo>±</mo><mn>2.228</mn><mrow><mo>(</mo><mn>0.453</mn><mo>)</mo></mrow></mrow></mstyle></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Inference for Quantitative Data-Slopes"
+  },
+  "topic": {
+    "code": "9.2",
+    "text": "9.2: Confidence Intervals for the Slope of a Regression Model"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Construct a confidence interval, provided conditions for inference are met."
+  }
+}

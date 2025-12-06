@@ -1,0 +1,45 @@
+{
+  "id": "VR184656",
+  "type": "mcq",
+  "title": "Energy dissipated by R during variable current",
+  "content": {
+    "description": "",
+    "question": "A steadily increasing current in a resistor of resistance <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>R</mi></mrow></mstyle></math> is given as function of time <math alttext=\"lowercase t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math> by <math alttext=\"I of lowercase t, equals b times lowercase t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>I</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mi>b</mi><mi>t</mi></mrow></mstyle></math>, where <math alttext=\"b\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>b</mi></mrow></mstyle></math> is a constant. What is the total energy dissipated in the resistor during the time interval <math alttext=\"0 less than or equal to lowercase t, less than or equal to uppercase T\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mi>T</mi></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"2 b squared, times uppercase T, times R\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>T</mi><mi>R</mi></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one half, times b squared, times uppercase T squared, times R\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>R</mi></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"b squared, times uppercase T squared, times R\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>T</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>R</mi></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one third, times b squared, times uppercase T cubed, times R\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>T</mi></mrow><mrow><mn>3</mn></mrow></msup><mi>R</mi></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"b squared, times uppercase T cubed, times R\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>T</mi></mrow><mrow><mn>3</mn></mrow></msup><mi>R</mi></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"one third, times b squared, times uppercase T cubed, times R\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>T</mi></mrow><mrow><mn>3</mn></mrow></msup><mi>R</mi></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.4",
+    "text": "11.4: Electric Power"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

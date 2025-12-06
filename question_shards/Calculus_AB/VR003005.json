@@ -1,0 +1,41 @@
+{
+  "id": "VR003005",
+  "type": "mcq",
+  "title": "Justification - Diff Eq - Logistic Model",
+  "content": {
+    "description": "",
+    "question": "If the carrying capacity of the population is <math alttext=\"2400\" overflow=\"scroll\"> <mstyle> <mrow> <mn>2400</mn> </mrow> </mstyle> </math> rabbits, which of the following differential equations best models the growth rate of the rabbit population with respect to time <math alttext=\"t\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>, where <math alttext=\"k\" overflow=\"scroll\"><mstyle><mrow><mi>k</mi></mrow></mstyle></math> is a constant?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the derivative of P, with respect to t, equals, 2400 minus k P\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>d</mi><mi>P</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mn>2400</mn><mo>−</mo><mi>k</mi><mi>P</mi></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the derivative of P, with respect to t, equals, k times, open parenthesis, 2400 minus P, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>d</mi><mi>P</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mi>k</mi><mrow><mo>(</mo><mn>2400</mn><mo>−</mo><mi>P</mi><mo>)</mo></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the derivative of P, with respect to t, equals, k times the fraction 1 over P, end fraction, times, open parenthesis, 2400 minus P, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>d</mi><mi>P</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mi>k</mi><mfrac><mrow><mn>1</mn></mrow><mrow><mi>P</mi></mrow></mfrac><mrow><mo>(</mo><mn>2400</mn><mo>−</mo><mi>P</mi><mo>)</mo></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the derivative of P, with respect to t, equals, k P, times, open parenthesis, 2400 minus P, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>d</mi><mi>P</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mi>k</mi><mi>P</mi><mrow><mo>(</mo><mn>2400</mn><mo>−</mo><mi>P</mi><mo>)</mo></mrow></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the derivative of P, with respect to t, equals, k P, times, open parenthesis, 2400 minus P, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>d</mi><mi>P</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mi>k</mi><mi>P</mi><mrow><mo>(</mo><mn>2400</mn><mo>−</mo><mi>P</mi><mo>)</mo></mrow></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.9",
+    "text": "7.9: (BC ONLY) Logistic Models with Differential Equations"
+  },
+  "skill": {
+    "code": "Skill 3.F",
+    "text": "Skill 3.F: Explain the meaning of mathematical solutions in context."
+  }
+}

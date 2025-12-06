@@ -1,0 +1,41 @@
+{
+  "id": "XPX000004",
+  "type": "mcq",
+  "title": "Item class - explain error",
+  "content": {
+    "description": "",
+    "question": "Which of the following best explains why the code segment does not work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The code segment does not compile because the call to the Item constructor uses incorrect syntax.",
+        "image": null
+      },
+      {
+        "label": "The Item class does not compile because the getPrice method does not have access to a variable named price.",
+        "image": null
+      },
+      {
+        "label": "The instance variable price is not assigned a value in the Item constructor because the constructor does not return a value.",
+        "image": null
+      },
+      {
+        "label": "The instance variable price is not assigned a value in the Item constructor because the constructor assigns a value to the parameter instead of the instance variable.",
+        "image": null
+      }
+    ],
+    "answer": "The instance variable price is not assigned a value in the Item constructor because the constructor assigns a value to the parameter instead of the instance variable."
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.8",
+    "text": "3.8: Scope and Access"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

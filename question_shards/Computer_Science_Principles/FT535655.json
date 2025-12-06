@@ -1,0 +1,37 @@
+{
+  "id": "FT535655",
+  "type": "mcq",
+  "title": "Cable television movie purchases",
+  "content": {
+    "description": "A cable television company stores information about movie purchases made by subscribers. Each day, the following information is summarized and stored in a publicly available database.",
+    "question": "The day and date each movie was purchased The title of each movie purchased The cities where subscribers purchased each movie The number of times each movie was purchased by subscribers in a given city A sample portion of the database is shown below. The database is sorted by date and movie title. Which of the following CANNOT be determined using only the information in the database?",
+    "image": "https://ap.oly.st/images/8887a4845862a0a125ff69ce74f577f5.png",
+    "choices": [
+      {
+        "label": "The date when a certain movie was purchased the greatest number of times",
+        "image": null
+      },
+      {
+        "label": "The number of movies purchased by an individual subscriber for a particular month",
+        "image": null
+      },
+      {
+        "label": "The total number of cities in which a certain movie was purchased",
+        "image": null
+      },
+      {
+        "label": "The total number of movies purchased in a certain city during a particular month",
+        "image": null
+      }
+    ],
+    "answer": "The number of movies purchased by an individual subscriber for a particular month"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: Extracting Information from Data"
+  },
+  "skill": {
+    "code": "Skill 5.B",
+    "text": "Skill 5.B: Explain how knowledge can be generated from data."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VH910629",
+  "type": "mcq",
+  "title": "Processes - Fundamental Theorem of Calculus",
+  "content": {
+    "description": "<math alttext=\"The figure presents a 4 row table with 2 columns of data. The heading for row 1 is “x.” The heading for row 2 is “f of x.” The heading for row 3 is “g of x.” The heading for row 4 is “g prime of x.” The data in the table are as follows. Column 1. x is 1. f of x is 2. g of x is negative 4. g prime of x is negative 3. Column 2. x is 2. f of x is 3. g of x is negative 2. g prime of x is 4.\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtable columnlines=\"solid\" columnspacing=\"0.0em\" columnwidth=\"3em 0.05em 3em 3em \" frame=\"solid\" framespacing=\"0.0em 0ex\" rowlines=\"solid\" rowspacing=\"0.05ex\" width=\"auto\"><mtr><mtd><mi>x</mi></mtd><mtd><mspace depth=\"1.0ex\" height=\"2.5ex\" width=\"0.0em\"></mspace></mtd><mtd><mn>1</mn></mtd><mtd><mn>2</mn></mtd></mtr><mtr><mtd></mtd><mtd></mtd><mtd></mtd><mtd></mtd></mtr><mtr><mtd><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mtd><mtd><mspace depth=\"1.0ex\" height=\"2.5ex\" width=\"0.0em\"></mspace></mtd><mtd><mn>2</mn></mtd><mtd><mn>3</mn></mtd></mtr><mtr><mtd><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mtd><mtd><mspace depth=\"1.0ex\" height=\"2.5ex\" width=\"0.0em\"></mspace></mtd><mtd><mrow><mo>−</mo><mn>4</mn></mrow></mtd><mtd><mrow><mo>−</mo><mn>2</mn></mrow></mtd></mtr><mtr><mtd><msup><mrow><mi>g</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mtd><mtd><mspace depth=\"1.0ex\" height=\"2.5ex\" width=\"0.0em\"></mspace></mtd><mtd><mrow><mo>−</mo><mtable><mtr><mtd><mn>3</mn></mtd></mtr></mtable></mrow></mtd><mtd><mn>4</mn></mtd></mtr></mtable></mrow></mstyle></math>",
+    "question": "Let <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be the function given by <math alttext=\"f of x, equals, the integral from, negative 2 to x, of, g of t, d t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mrow><mo>−</mo><mn>2</mn></mrow></mrow><mrow><mi>x</mi></mrow></msubsup><mrow><mi>g</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow></mstyle></mrow></mstyle></math>, where <math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> is a differentiable function. The table above gives selected values for <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math>, <math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math>, and <math alttext=\"g prime\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mstyle><mrow><mi>g</mi></mrow></mstyle></mrow><mrow><mo>′</mo></mrow></msup></mrow></math>. If <math alttext=\"h\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>h</mi></mrow></mstyle></math> is the function given by <math alttext=\"h of x, equals, 2 x, plus, sine x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mi>sin</mi><mo>⁡</mo><mi>x</mi></mrow></mstyle></math>, for what value of <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> is <math alttext=\"h of x, equals, f prime of 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"negative 0.684\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>0.684</mn></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "0.335",
+        "image": null
+      },
+      {
+        "label": "1.063",
+        "image": null
+      },
+      {
+        "label": "1.501",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"negative 0.684\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>0.684</mn></mrow></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.4",
+    "text": "6.4: The Fundamental Theorem of Calculus and Accumulation Functions"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "VR596740",
+  "type": "mcq",
+  "title": "Daily Absenteeism",
+  "content": {
+    "description": "A large company has operated assuming that the rate of absenteeism is the same for each day of the week. The new human resources director at the company claims that the assumption is false and that the rate of absenteeism is different for some days of the week as compared with others. To test the claim, a random sample of <math alttext=\"150\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>150</mn></mrow></mstyle></math> absences was selected, and the day of the week on which the absence occurred was recorded. The counts are shown in the following table.",
+    "question": "Monday Tuesday Wednesday Thursday Friday Number of Absences <math alttext=\"40\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>40</mn></mrow></mstyle></math> <math alttext=\"27\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>27</mn></mrow></mstyle></math> <math alttext=\"21\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>21</mn></mrow></mstyle></math> <math alttext=\"34\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>34</mn></mrow></mstyle></math> <math alttext=\"28\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>28</mn></mrow></mstyle></math> The appropriate chi-square test will be performed to test the claim. What is the contribution of the Monday absences to the calculation of the chi-square test statistic?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"0.333\" display=\"inline\" overflow=\"scroll\"><mstyle><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.4em\"></mspace><mrow><mn>0.333</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2.500\" display=\"inline\" overflow=\"scroll\"><mstyle><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.4em\"></mspace><mrow><mn>2.500</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"3.000\" display=\"inline\" overflow=\"scroll\"><mstyle><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.4em\"></mspace><mrow><mn>3.000</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"3.333\" display=\"inline\" overflow=\"scroll\"><mstyle><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.4em\"></mspace><mrow><mn>3.333</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"10.000\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>10.000</mn></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"3.333\" display=\"inline\" overflow=\"scroll\"><mstyle><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.4em\"></mspace><mrow><mn>3.333</mn></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Inference for Categorical Data-Chi-Square"
+  },
+  "topic": {
+    "code": "8.3",
+    "text": "8.3: Carrying out a Chi-Square Goodness of Fit Test"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Calculate a test statistic and find a p-value, provided conditions for inference are met."
+  }
+}

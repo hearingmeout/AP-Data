@@ -1,0 +1,41 @@
+{
+  "id": "ZWH000001",
+  "type": "mcq",
+  "title": "Car class public private access - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following replacements for /* missing code */ is the most appropriate partial implementation of the class?",
+    "image": null,
+    "choices": [
+      {
+        "label": "public String make; public String model; public Car(String myMake, String myModel) { /* implementation not shown */ }",
+        "image": null
+      },
+      {
+        "label": "public String make; public String model; private Car(String myMake, String myModel) { /* implementation not shown */ }",
+        "image": null
+      },
+      {
+        "label": "private String make; private String model; public Car(String myMake, String myModel) { /* implementation not shown */ }",
+        "image": null
+      },
+      {
+        "label": "private String make; private String model; private Car(String myMake, String myModel) { /* implementation not shown */ }",
+        "image": null
+      }
+    ],
+    "answer": "private String make; private String model; public Car(String myMake, String myModel) { /* implementation not shown */ }"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Anatomy of a Class"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

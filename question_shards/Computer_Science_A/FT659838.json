@@ -1,0 +1,41 @@
+{
+  "id": "FT659838",
+  "type": "mcq",
+  "title": "selectSort with int array parameter",
+  "content": {
+    "description": "Consider the static method selectSort shown below. Method selectSort is intended to sort an array into increasing order; however, it does not always work as intended.",
+    "question": "// precondition: numbers.length > 0 // postcondition: numbers is sorted in increasing order public static void selectSort(int[] numbers) { int temp; Line 1: for (int j = 0; j < numbers.length - 1; j++) { Line 2: int pos = 0; Line 3: for (int k = j + 1; k < numbers.length; k++) { Line 4: if (numbers[k] < numbers[pos]) { Line 5: pos = k; } } temp = numbers[j]; numbers[j] = numbers[pos]; numbers[pos] = temp; } } Which of the following changes should be made so that selectSort will work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Line 1 should be changed to for (int j = 0; j < numbers.length - 2; j++)",
+        "image": null
+      },
+      {
+        "label": "Line 2 should be changed to int pos = j;",
+        "image": null
+      },
+      {
+        "label": "Line 3 should be changed to for (int k = 0; k < numbers.length; k++)",
+        "image": null
+      },
+      {
+        "label": "Line 4 should be changed to if (numbers[k] > numbers[pos])",
+        "image": null
+      }
+    ],
+    "answer": "Line 2 should be changed to int pos = j;"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.4",
+    "text": "4.4: Array Traversals"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

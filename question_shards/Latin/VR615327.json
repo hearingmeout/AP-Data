@@ -1,0 +1,41 @@
+{
+  "id": "VR615327",
+  "type": "mcq",
+  "title": "Center of mass - two boards and a cube",
+  "content": {
+    "description": "",
+    "question": "Three objects are arranged as shown: a solid board of length <math alttext=\"L sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>L</mi><mn>0</mn></msub></math> and uniform density, a board that, except for a small hole in its upper half, is identical to the solid board, and a small cube whose center is at a height of <math alttext=\"the fraction L sub 0, end sub, over 2\" display=\"inline\" overflow=\"scroll\"><mfrac><msub><mi>L</mi><mn>0</mn></msub><mn>2</mn></mfrac></math>. Which of the following correctly ranks the <math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mi>y</mi></math>-coordinates of the center of mass <math alttext=\"y sub S B\" display=\"inline\" overflow=\"scroll\"><msub><mi>y</mi><mtext>SB</mtext></msub></math>, <math alttext=\"y sub B H\" display=\"inline\" overflow=\"scroll\"><msub><mi>y</mi><mtext>BH</mtext></msub></math>, and <math alttext=\"y sub C\" display=\"inline\" overflow=\"scroll\"><msub><mi>y</mi><mtext>C</mtext></msub></math> of the solid board, the board with the hole, and the small cube, respectively?",
+    "image": "https://ap.oly.st/images/34a2e4aecfe3e4dacd2919ffb6cf612f.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"y sub S B is greater than y sub B H, which is greater than y sub C\" display=\"inline\" overflow=\"scroll\"><msub><mi>y</mi><mtext>SB</mtext></msub><mo>&gt;</mo><msub><mi>y</mi><mtext>BH</mtext></msub><mo>&gt;</mo><msub><mi>y</mi><mtext>C</mtext></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"y sub B H is greater than y sub S B, which is greater than y sub C\" display=\"inline\" overflow=\"scroll\"><msub><mi>y</mi><mtext>BH</mtext></msub><mo>&gt;</mo><msub><mi>y</mi><mtext>SB</mtext></msub><mo>&gt;</mo><msub><mi>y</mi><mtext>C</mtext></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"y sub S B equals y sub C, which is greater than y sub B H\" display=\"inline\" overflow=\"scroll\"><msub><mi>y</mi><mtext>SB</mtext></msub><mo>=</mo><msub><mi>y</mi><mtext>C</mtext></msub><mo>&gt;</mo><msub><mi>y</mi><mtext>BH</mtext></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"y sub B H is greater than y sub S B, which equals y sub C\" display=\"inline\" overflow=\"scroll\"><msub><mi>y</mi><mtext>BH</mtext></msub><mo>&gt;</mo><msub><mi>y</mi><mtext>SB</mtext></msub><mo>=</mo><msub><mi>y</mi><mtext>C</mtext></msub></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"y sub S B equals y sub C, which is greater than y sub B H\" display=\"inline\" overflow=\"scroll\"><msub><mi>y</mi><mtext>SB</mtext></msub><mo>=</mo><msub><mi>y</mi><mtext>C</mtext></msub><mo>&gt;</mo><msub><mi>y</mi><mtext>BH</mtext></msub></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Force and Translational Dynamics"
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Systems and Center of Mass"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

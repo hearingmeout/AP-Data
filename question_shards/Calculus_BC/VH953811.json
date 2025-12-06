@@ -1,0 +1,41 @@
+{
+  "id": "VH953811",
+  "type": "mcq",
+  "title": "Justification - Integral Properties",
+  "content": {
+    "description": "<math alttext=\"f of x, equals negative 1, for 0 less than or equal to x, less than 3; f of x, equals 1, for 3 less than x, less than 5; f of x, equals 3, for 5 less than or equal to x, less than or equal to 7.\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mo>{</mo><mtable columnalign=\"left\"><mtr><mtd><mrow><mo lspace=\"0em\" rspace=\"0em\">–</mo><mn>1</mn></mrow></mtd><mtd><mrow><mtext>for</mtext><mspace></mspace><mspace width=\"0.45em\"></mspace><mn>0</mn><mo>≤</mo><mi>x</mi><mo>&lt;</mo><mn>3</mn></mrow></mtd></mtr><mtr><mtd><mrow><mn>1</mn></mrow></mtd><mtd><mrow><mtext>for</mtext><mspace></mspace><mspace width=\"0.45em\"></mspace><mn>3</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>5</mn></mrow></mtd></mtr><mtr><mtd><mrow><mn>3</mn></mrow></mtd><mtd><mrow><mtext>for</mtext><mspace></mspace><mspace width=\"0.45em\"></mspace><mn>5</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>7</mn></mrow></mtd></mtr></mtable></mrow></mstyle></math>",
+    "question": "Let <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be the piecewise function given above. The value of <math alttext=\"the integral from, 0 to 7, of, f of x, d x \" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>7</mn></mrow></msubsup><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mi>x</mi></mrow></mstyle></mrow></mstyle></mrow></math> is",
+    "image": null,
+    "choices": [
+      {
+        "label": "5",
+        "image": null
+      },
+      {
+        "label": "11",
+        "image": null
+      },
+      {
+        "label": "35",
+        "image": null
+      },
+      {
+        "label": "nonexistent",
+        "image": null
+      }
+    ],
+    "answer": "5"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.6",
+    "text": "6.6: Applying Properties of Definite Integrals"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

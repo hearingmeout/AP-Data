@@ -1,0 +1,41 @@
+{
+  "id": "BRU000003",
+  "type": "mcq",
+  "title": "getAge method on Person object - determine result",
+  "content": {
+    "description": "",
+    "question": "What, if anything, is printed as a result of executing each of the code segments?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Both code segments print 16.",
+        "image": null
+      },
+      {
+        "label": "Code segment 1 prints 16, but code segment 2 prints nothing because it will not compile.",
+        "image": null
+      },
+      {
+        "label": "Code segment 2 prints 16, but code segment 1 prints nothing because it will not compile.",
+        "image": null
+      },
+      {
+        "label": "Neither code segment will print anything because they will not compile.",
+        "image": null
+      }
+    ],
+    "answer": "Code segment 1 prints 16, but code segment 2 prints nothing because it will not compile."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.14",
+    "text": "1.14: Calling Instance Methods"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VH955898",
+  "type": "mcq",
+  "title": "initialize 2D array myArray",
+  "content": {
+    "description": "A two-dimensional array myArray is to be created with the following contents.",
+    "question": "{{0, 0, 3}, {0, 0, 0}, {7, 0, 0}} Which of the following code segments can be used to correctly create and initialize myArray ? int[][] myArray = new int[3][3]; myArray[0][2] = 3; myArray[2][0] = 7; int[][] myArray = new int[3][3]; myArray[0][2] = 7; myArray[2][0] = 3; int[][] myArray = {{0, 0, 3}, {0, 0, 0}, {7, 0, 0}};",
+    "image": null,
+    "choices": [
+      {
+        "label": "I only",
+        "image": null
+      },
+      {
+        "label": "III only",
+        "image": null
+      },
+      {
+        "label": "I and III",
+        "image": null
+      },
+      {
+        "label": "II and III",
+        "image": null
+      }
+    ],
+    "answer": "I and III"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.11",
+    "text": "4.11: 2D Array Creation and Access"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VH904715",
+  "type": "mcq",
+  "title": "MagicNumber class",
+  "content": {
+    "description": "Consider the following description of the MagicNumber class which includes one constructor and two methods.",
+    "question": "public MagicNumber()– Constructs a MagicNumber object that represents a number public void displayNumber()– Displays the number to the screen public void add_2()– Increases the number by 2 When located in a method in a class other than MagicNumber, which of the following code segments will compile without error? MagicNumber.add_2();MagicNumber.displayNumber(); MagicNumber n1 = new MagicNumber();n1.add_2();n1.displayNumber(); n2.add_2();n2.displayNumber();",
+    "image": null,
+    "choices": [
+      {
+        "label": "I only",
+        "image": null
+      },
+      {
+        "label": "II only",
+        "image": null
+      },
+      {
+        "label": "II and III only",
+        "image": null
+      },
+      {
+        "label": "None of the code segments will compile.",
+        "image": null
+      }
+    ],
+    "answer": "II only"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Method Signatures"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "FT1629",
+  "type": "mcq",
+  "title": "Differentiablity of a piecewise function",
+  "content": {
+    "description": "<math> <semantics> <mrow> <mi>f</mi> <mtext> </mtext> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mrow> <mo>{</mo> <mtable columnalign=\"left\"> <mtr> <mtd> <mi>c</mi> <mi>x</mi> <mo>+</mo> <mi>d</mi> <mtext> </mtext> <mtext> </mtext> <mtext> </mtext> <mtext> </mtext> <mtext> </mtext> <mtext>&nbsp;for&nbsp;</mtext> <mtext> </mtext> <mtext> </mtext> <mi>x</mi> <mo>≤</mo> <mn>2</mn> </mtd> </mtr> <mtr> <mtd> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>−</mo> <mi>c</mi> <mi>x</mi> <mtext> </mtext> <mtext> </mtext> <mtext> </mtext> <mtext> </mtext> <mtext>&nbsp;for&nbsp;</mtext> <mtext> </mtext> <mtext> </mtext> <mi>x</mi> <mo>&gt;</mo> <mn>2</mn> </mtd> </mtr> </mtable> </mrow> </mrow> <annotation>MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk 0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr 0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaacaWGMbGaaGjcVp aabmaabaGaamiEaaGaayjkaiaawMcaaiabg2da9maaceaaeiqabeaa ruqaaiaadogacaWG4bGaey4kaSIaamizaiaaysW7caaMe8UaaGjbVl aaysW7caaMe8UaiGjGbAgacGaMag4BaiacycyGYbGaaGjbVlaaysW7 cGaMaoiEaiadycOHKjYOcGaMaIOmaaqaaiaadIhadaahaaWcbeqaai aaikdaaaGccqGHsislcaWGJbGaamiEaiaaysW7caaMe8UaaGjbVlaa ysW7caqGMbGaae4BaiaabkhacaaMe8UaaGjbVlaadIhacqGH+aGpca aIYaaaaiaawUhaaaaa@6F69@</annotation> </semantics> </math>",
+    "question": "Let f be the function defined above, where c and d are constants. If f is differentiable at x = 2 what is the value of c + d?",
+    "image": null,
+    "choices": [
+      {
+        "label": "−4",
+        "image": null
+      },
+      {
+        "label": "−2",
+        "image": null
+      },
+      {
+        "label": "0",
+        "image": null
+      },
+      {
+        "label": "2",
+        "image": null
+      },
+      {
+        "label": "4",
+        "image": null
+      }
+    ],
+    "answer": "−2"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Connecting Differentiability and Continuity - Determining When Derivatives Do and Do Not Exist"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Provide reasons or rationales for solutions and conclusions."
+  }
+}

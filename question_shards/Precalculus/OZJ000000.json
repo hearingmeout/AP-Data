@@ -1,0 +1,41 @@
+{
+  "id": "OZJ000000",
+  "type": "mcq",
+  "title": "Logarithmic Modeling - from ordered pairs",
+  "content": {
+    "description": "",
+    "question": "​The function <math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is logarithmic, and the points <math alttext=\"open parentheses 2 , 1 close parentheses\"><semantics><mfenced><mn>2,1</mn></mfenced><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> and <math alttext=\"open parentheses 4 , 2 close parentheses\"><semantics><mfenced><mn>4,2</mn></mfenced><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> are on the graph of <math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> in the <math alttext=\"x y\"><semantics><mrow><mi>x</mi><mi>y</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>-plane. Which of the following could define <math alttext=\"f open parentheses x close parentheses\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"log subscript 4 x\"><semantics><mrow><msub><mi>log</mi><mn>4</mn></msub><mi>x</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"2 log subscript 2 x\"><semantics><mrow><mn>2</mn><msub><mi>log</mi><mn>2</mn></msub><mi>x</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"2 log subscript 4 x\"><semantics><mrow><mn>2</mn><msub><mi>log</mi><mn>4</mn></msub><mi>x</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"log subscript 4 open parentheses x plus 2 close parentheses\"><semantics><mrow><msub><mi>log</mi><mn>4</mn></msub><mfenced><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"2 log subscript 4 x\"><semantics><mrow><mn>2</mn><msub><mi>log</mi><mn>4</mn></msub><mi>x</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.14",
+    "text": "2.14: Logarithmic Function Context and Data Modeling"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "CZH000001",
+  "type": "mcq",
+  "title": "Instantiate Date object ",
+  "content": {
+    "description": "",
+    "question": "Which of the following code segments, appearing in a class other than Date, will correctly create an instance of a Date object?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Date birthday = new Date(\"September\", \"5th\");",
+        "image": null
+      },
+      {
+        "label": "Date birthday = new Date(\"September\", 5);",
+        "image": null
+      },
+      {
+        "label": "Date birthday = new Date(\"September 5\");",
+        "image": null
+      },
+      {
+        "label": "Date birthday = new Date(); birthday.month = \"September\"; birthday.day = 5;",
+        "image": null
+      }
+    ],
+    "answer": "Date birthday = new Date(\"September\", 5);"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Method Signatures"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

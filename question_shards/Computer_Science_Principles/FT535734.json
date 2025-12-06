@@ -1,0 +1,37 @@
+{
+  "id": "FT535734",
+  "type": "mcq",
+  "title": "Reducing number of operations in list average",
+  "content": {
+    "description": "A programmer wrote the code segment below to display the average of all the elements in a list called numbers. There is always at least one number in the list.",
+    "question": "The programmer wants to reduce the number of operations that are performed when the program is run. Which change will result in a correct program with a reduced number of operations performed?",
+    "image": "https://ap.oly.st/images/15649cd08210dd7ba4683d87d61bfbc3.png",
+    "choices": [
+      {
+        "label": "Interchanging line 1 and line 2",
+        "image": null
+      },
+      {
+        "label": "Interchanging line 5 and line 6",
+        "image": null
+      },
+      {
+        "label": "Interchanging line 6 and line 7",
+        "image": null
+      },
+      {
+        "label": "Interchanging line 7 and line 8",
+        "image": null
+      }
+    ],
+    "answer": "Interchanging line 7 and line 8"
+  },
+  "topic": {
+    "code": "3.17",
+    "text": "3.17: Algorithmic Efficiency"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

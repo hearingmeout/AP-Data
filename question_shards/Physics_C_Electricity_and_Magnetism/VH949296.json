@@ -1,0 +1,45 @@
+{
+  "id": "VH949296",
+  "type": "mcq",
+  "title": "Railroad crossing",
+  "content": {
+    "description": "Maria has two routes, E and W, she can take when commuting to work. Both routes go through a railroad crossing, and sometimes she needs to stop at the crossing to allow trains to pass. She claims that the proportion of times she needs to stop when taking route E is different from the proportion of times she needs to stop when taking route W. She conducted the following hypothesis test at the significance level of <math alttext=\"alpha equals 0.10\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>α</mi><mo>=</mo><mn>0.10</mn></mrow></mstyle></math>.",
+    "question": "<math alttext=\"H sub 0: p sub E equals p sub W. H sub a: p sub E is not equal to p sub W\" display=\"block\" overflow=\"scroll\"><mstyle><mrow><mtable><mtr><mtd><msub><mrow><mtext>H</mtext></mrow><mrow><mn>0</mn></mrow></msub><mo>:</mo><msub><mrow><mi>p</mi></mrow><mrow><mtext>E</mtext></mrow></msub><mo>=</mo><msub><mrow><mi>p</mi></mrow><mrow><mtext>W</mtext></mrow></msub></mtd></mtr><mtr><mtd><msub><mrow><mtext>H</mtext></mrow><mrow><mtext>a</mtext></mrow></msub><mo>:</mo><msub><mrow><mi>p</mi></mrow><mrow><mtext>E</mtext></mrow></msub><mo>≠</mo><msub><mrow><mi>p</mi></mrow><mrow><mtext>W</mtext></mrow></msub></mtd></mtr></mtable></mrow></mstyle></math>In the hypotheses, <math alttext=\"p sub E\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>p</mi></mrow><mrow><mtext>E</mtext></mrow></msub></mrow></mstyle></math> represents the proportion of times she needs to stop at the crossing when using route E, and <math alttext=\"p sub W\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>p</mi></mrow><mrow><mtext>W</mtext></mrow></msub></mrow></mstyle></math> represents the proportion of times she needs to stop at the crossing when using route W. All conditions for inference were met, and the resulting <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value was 0.37. Which of the following is the correct decision for the test?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value is less than <math alttext=\"alpha\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>α</mi></mrow></mstyle></math>, and the null hypothesis is rejected. There is convincing evidence to support the claim that the proportion of times she needs to stop at the crossing is different for the different routes.",
+        "image": null
+      },
+      {
+        "label": "The <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value is greater than <math alttext=\"alpha\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>α</mi></mrow></mstyle></math>, and the null hypothesis is not rejected. There is convincing evidence to support the claim that the proportion of times she needs to stop at the crossing is the same for the different routes.",
+        "image": null
+      },
+      {
+        "label": "The <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value is greater than <math alttext=\"alpha\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>α</mi></mrow></mstyle></math>, and the null hypothesis is rejected. There is not convincing evidence to support the claim that the proportion of times she needs to stop at the crossing is different for the different routes.",
+        "image": null
+      },
+      {
+        "label": "The <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value is greater than <math alttext=\"alpha\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>α</mi></mrow></mstyle></math>, and the null hypothesis is not rejected. There is not convincing evidence to support the claim that the proportion of times she needs to stop at the crossing is different for the different routes.",
+        "image": null
+      },
+      {
+        "label": "The <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value is greater than <math alttext=\"alpha\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>α</mi></mrow></mstyle></math>, and the null hypothesis is rejected. There is convincing evidence to support the claim that the proportion of times she needs to stop at the crossing is different for the different routes.",
+        "image": null
+      }
+    ],
+    "answer": "The <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value is greater than <math alttext=\"alpha\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>α</mi></mrow></mstyle></math>, and the null hypothesis is not rejected. There is not convincing evidence to support the claim that the proportion of times she needs to stop at the crossing is different for the different routes."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.11",
+    "text": "6.11: Carrying Out a Test for the Difference of Two Population Proportions"
+  },
+  "skill": {
+    "code": "Skill 4.E",
+    "text": "Skill 4.E: Justify a claim using a decision based on significance tests."
+  }
+}

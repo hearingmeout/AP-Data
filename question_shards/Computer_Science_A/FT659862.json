@@ -1,0 +1,41 @@
+{
+  "id": "FT659862",
+  "type": "mcq",
+  "title": "maxHelper with int array instance variable fix",
+  "content": {
+    "description": "The following question refer to the following information.",
+    "question": "Consider the following data field and method. Method maxHelper is intended to return the largest value among the first numVals values in an array; however, maxHelper does not work as intended. private int[] nums; // precondition: 0 < numVals <= nums.length private int maxHelper(int numVals) { Line 1: int max = maxHelper(numVals - 1); Line 2: if (max > nums[numVals - 1]) return max; else return nums[numVals - 1]; } Which of the following corrects the method maxHelper so that it works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Insert the following statement before Line 1. if (numVals == 0) return numVals;",
+        "image": null
+      },
+      {
+        "label": "Insert the following statement before Line 1. if (numVals == 1 return nums[0];",
+        "image": null
+      },
+      {
+        "label": "Insert the following statement between Line 1 and Line 2. if (numVals == 0) return numVals;",
+        "image": null
+      },
+      {
+        "label": "Insert the following statement between Line 1 and Line 2. if (numVals == 1) return nums[0];",
+        "image": null
+      }
+    ],
+    "answer": "Insert the following statement before Line 1. if (numVals == 1 return nums[0];"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Array Creation and Access"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

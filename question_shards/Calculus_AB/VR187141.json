@@ -1,0 +1,41 @@
+{
+  "id": "VR187141",
+  "type": "mcq",
+  "title": "Processes - Eulers Method",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"y equals, f of x\" display=\"inline\" overflow=\"scroll\"><mrow><mi>y</mi><mo>=</mo><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></math> be the solution to the differential equation <math alttext=\"the derivative of y, with respect to x, equals x times, open parenthesis, y plus 1, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>=</mo><mi>x</mi><mrow><mo>(</mo><mi>y</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow></mrow></math> with initial condition <math alttext=\"f of 2 equals 1\" display=\"inline\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow><mo>=</mo><mn>1</mn></mrow></math>. What is the approximation for <math alttext=\"f of 3\" display=\"inline\" overflow=\"scroll\"><mrow><mi>f</mi><mo>(</mo><mn>3</mn><mo>)</mo></mrow></math> obtained by using Euler's method, starting at <math alttext=\"x equals 2\" display=\"inline\" overflow=\"scroll\"><mrow><mi>x</mi><mo>=</mo><mn>2</mn></mrow></math> with a step size of <math alttext=\"0.5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.5</mn></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"negative 1\" display=\"inline\" overflow=\"scroll\"><mrow><mo>−</mo><mn>1</mn></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>5</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"8\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>8</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"20\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>20</mn></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"8\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>8</mn></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.5",
+    "text": "7.5: (BC ONLY) Approximating Solutions Using Euler's Method"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

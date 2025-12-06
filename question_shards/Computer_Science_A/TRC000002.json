@@ -1,0 +1,41 @@
+{
+  "id": "TRC000002",
+  "type": "mcq",
+  "title": "ArrayList Removal - Fix error",
+  "content": {
+    "description": "",
+    "question": "Which of the following changes can be made so that the code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "In line 1, changing i < numbers.size() to i < numbers.size() - 1",
+        "image": null
+      },
+      {
+        "label": "In line 7, changing i--; to i++;",
+        "image": null
+      },
+      {
+        "label": "Removing line 7",
+        "image": null
+      },
+      {
+        "label": "Switching lines 6 and 7",
+        "image": null
+      }
+    ],
+    "answer": "Switching lines 6 and 7"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

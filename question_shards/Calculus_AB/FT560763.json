@@ -1,0 +1,45 @@
+{
+  "id": "FT560763",
+  "type": "mcq",
+  "title": "Limits at infinity",
+  "content": {
+    "description": "",
+    "question": "For which of the following pairs of functions f and g is <math> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>x</mi> <mo>→</mo> <mi>∞</mi> </mrow> </munder> <mfrac> <mrow> <mi>f</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mrow> <mi>g</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> </mfrac> </mrow> </math> infinite?",
+    "image": null,
+    "choices": [
+      {
+        "label": "f(x) = x2 + 2x and g(x) = x2 + ln x",
+        "image": null
+      },
+      {
+        "label": "f(x) = 3x3 and g(x) = x4",
+        "image": null
+      },
+      {
+        "label": "f(x) = 3x and g(x) = x3",
+        "image": null
+      },
+      {
+        "label": "f(x) = 3ex + x3 and g(x) =2ex + x2",
+        "image": null
+      },
+      {
+        "label": "f(x) = ln(3x) and g(x) = ln(2x)",
+        "image": null
+      }
+    ],
+    "answer": "f(x) = 3x and g(x) = x3"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: Connecting Limits at Infinity and Horizontal Asymptotes"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Identify how mathematical characteristics or properties of functions are related in different representations."
+  }
+}

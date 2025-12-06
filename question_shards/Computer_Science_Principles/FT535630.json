@@ -1,0 +1,37 @@
+{
+  "id": "FT535630",
+  "type": "mcq",
+  "title": "Assignment statements with r s and t",
+  "content": {
+    "description": "Consider the following code segment, which uses the variables r, s, and t.",
+    "question": "r ← 1s ← 2t ← 3r ← ss ← tDISPLAY (r)DISPLAY (s)What is displayed as a result of running the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "1 1",
+        "image": null
+      },
+      {
+        "label": "1 2",
+        "image": null
+      },
+      {
+        "label": "2 3",
+        "image": null
+      },
+      {
+        "label": "3 2",
+        "image": null
+      }
+    ],
+    "answer": "2 3"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: Variables and Assignments"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

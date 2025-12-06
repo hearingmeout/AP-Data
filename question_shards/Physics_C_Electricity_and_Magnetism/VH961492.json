@@ -1,0 +1,41 @@
+{
+  "id": "VH961492",
+  "type": "mcq",
+  "title": "Calico Chi-Square",
+  "content": {
+    "description": "A gene that influences coat color in domestic cats is located on the <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>X</mtext></mrow></mstyle></math> chromosome. A female cat that is heterozygous for the gene (<math alttext=\"X superscript B, X superscript O\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mtext>X</mtext></mrow><mrow><mi>B</mi></mrow></msup><msup><mrow><mtext>X</mtext></mrow><mrow><mi>O</mi></mrow></msup></mrow></math>) has a calico-colored coat. In a genetics experiment, researchers mate a calico-colored female cat (<math alttext=\"X superscript B, X superscript O\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mtext>X</mtext></mrow><mrow><mi>B</mi></mrow></msup><msup><mrow><mtext>X</mtext></mrow><mrow><mi>O</mi></mrow></msup></mrow></mstyle></math>) with an orange-colored male cat (<math alttext=\"X superscript O, Y\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mtext>X</mtext></mrow><mrow><mi>O</mi></mrow></msup><mtext>Y</mtext></mrow></math>) to produce an <math alttext=\"F 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>F</mtext></mrow><mrow><mtext>1</mtext></mrow></msub></mrow></mstyle></math> generation. The researchers record observations for the cats in the <math alttext=\"F 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>F</mtext></mrow><mrow><mtext>1</mtext></mrow></msub></mrow></mstyle></math> generation and plan to use the data to perform a chi-square goodness-of-fit test for a model of <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>X</mtext></mrow></mstyle></math>-linked inheritance. The data for the chi-square goodness-of-fit test are presented in Table 1.",
+    "question": "Table 1. Data for the chi-square goodness-of-fit test Phenotype Genotype Observed Expected Calico-colored female <math alttext=\"X superscript B, X superscript O\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mtext>X</mtext></mrow><mrow><mi>B</mi></mrow></msup><msup><mrow><mtext>X</mtext></mrow><mrow><mi>O</mi></mrow></msup></mrow></mstyle></math> 15 10 Orange-colored female <math alttext=\"X superscript O, X superscript O\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mtext>X</mtext></mrow><mrow><mi>O</mi></mrow></msup><msup><mrow><mtext>X</mtext></mrow><mrow><mi>O</mi></mrow></msup></mrow></mstyle></math> 6 10 Black-colored male <math alttext=\"X superscript B, Y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mtext>X</mtext></mrow><mrow><mi>B</mi></mrow></msup><mtext>Y</mtext></mrow></mstyle></math> 11 10 Orange-colored male <math alttext=\"X superscript O, Y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mtext>X</mtext></mrow><mrow><mi>O</mi></mrow></msup><mtext>Y</mtext></mrow></mstyle></math> 8 10 The researchers calculate a chi-square value of 4.6 and choose a significance level of <math alttext=\"p equals 0.05\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi><mo>=</mo><mn>0.05</mn></mrow></mstyle></math>. Which of the following statements best completes the chi-square goodness-of-fit test?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The null hypothesis can be rejected because the chi-square value is greater than the critical value.",
+        "image": null
+      },
+      {
+        "label": "The null hypothesis can be rejected because the chi-square value is less than the critical value.",
+        "image": null
+      },
+      {
+        "label": "The null hypothesis cannot be rejected because the chi-square value is greater than the critical value.",
+        "image": null
+      },
+      {
+        "label": "The null hypothesis cannot be rejected because the chi-square value is less than the critical value.",
+        "image": null
+      }
+    ],
+    "answer": "The null hypothesis cannot be rejected because the chi-square value is less than the critical value."
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Heredity"
+  },
+  "topic": {
+    "code": "5.4",
+    "text": "5.4: Non-Mendelian Genetics"
+  },
+  "skill": {
+    "code": "5.C",
+    "text": "5.C: Perform chi-square hypothesis testing."
+  }
+}

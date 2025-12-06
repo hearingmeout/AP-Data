@@ -1,0 +1,45 @@
+{
+  "id": "FT545428",
+  "type": "mcq",
+  "title": "Apply Gauss's law inside nonconducting sphere",
+  "content": {
+    "description": "",
+    "question": "A solid nonconducting sphere of radius R has a charge Q uniformly distributed throughout its volume. A Gaussian surface of radius r with r < R is used to calculate the magnitude of the electric field E at a distance r from the center of the sphere. Which of the following equations results from a correct application of Gauss's law for this situation?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <mrow> <mi>E</mi> <mrow> <mo>(</mo> <mrow> <mn>4</mn> <mi>π</mi> <msup> <mi>R</mi> <mn>2</mn> </msup> </mrow> <mo>)</mo> </mrow> <mo>=</mo> <mfrac> <mi>Q</mi> <mrow> <msub> <mi>ϵ</mi> <mn>0</mn> </msub> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mi>E</mi> <mrow> <mo>(</mo> <mrow> <mn>4</mn> <mi>π</mi> <msup> <mi>r</mi> <mn>2</mn> </msup> </mrow> <mo>)</mo> </mrow> <mo>=</mo> <mfrac> <mi>Q</mi> <mrow> <msub> <mi>ϵ</mi> <mn>0</mn> </msub> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mi>E</mi><mrow><mo>(</mo> <mrow> <mn>4</mn><mi>π</mi><msup> <mi>r</mi> <mn>2</mn> </msup> </mrow> <mo>)</mo></mrow><mo>=</mo><mfrac> <mi>Q</mi> <mrow> <msub> <mi>ϵ</mi> <mn>0</mn> </msub> </mrow> </mfrac> <mfrac> <mrow> <mn>3</mn><msup> <mi>r</mi> <mn>3</mn> </msup> </mrow> <mrow> <mn>4</mn><mi>π</mi><mi>R</mi></mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mi>E</mi><mrow><mo>(</mo> <mrow> <mn>4</mn><mi>π</mi><msup> <mi>r</mi> <mn>2</mn> </msup> </mrow> <mo>)</mo></mrow><mo>=</mo><mfrac> <mi>Q</mi> <mrow> <msub> <mi>ϵ</mi> <mn>0</mn> </msub> </mrow> </mfrac> <mfrac> <mrow> <msup> <mi>r</mi> <mn>3</mn> </msup> </mrow> <mrow> <msup> <mi>R</mi> <mn>3</mn> </msup> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mi>E</mi> <mrow> <mo>(</mo> <mrow> <mn>4</mn> <mi>π</mi> <msup> <mi>r</mi> <mn>2</mn> </msup> </mrow> <mo>)</mo> </mrow> <mo>=</mo> <mn>0</mn> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <mrow> <mi>E</mi><mrow><mo>(</mo> <mrow> <mn>4</mn><mi>π</mi><msup> <mi>r</mi> <mn>2</mn> </msup> </mrow> <mo>)</mo></mrow><mo>=</mo><mfrac> <mi>Q</mi> <mrow> <msub> <mi>ϵ</mi> <mn>0</mn> </msub> </mrow> </mfrac> <mfrac> <mrow> <msup> <mi>r</mi> <mn>3</mn> </msup> </mrow> <mrow> <msup> <mi>R</mi> <mn>3</mn> </msup> </mrow> </mfrac> </mrow> </math>"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Electric Charges, Fields, and Gauss's Law"
+  },
+  "topic": {
+    "code": "8.6",
+    "text": "8.6: Gauss's Law"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VH941524",
+  "type": "mcq",
+  "title": "initial value of shortest",
+  "content": {
+    "description": "The code segment below is intended to print the length of the shortest string in the array wordArray. Assume that wordArray contains at least one element.",
+    "question": "int shortest = /* missing value */;for (String word : wordArray){if (word.length() < shortest){shortest = word.length();}}System.out.println(shortest);Which of the following should be used as the initial value assigned to shortest so that the code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Integer.MAX_VALUE",
+        "image": null
+      },
+      {
+        "label": "Integer.MIN_VALUE",
+        "image": null
+      },
+      {
+        "label": "0",
+        "image": null
+      },
+      {
+        "label": "wordArray.length",
+        "image": null
+      }
+    ],
+    "answer": "Integer.MAX_VALUE"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implementing Array Algorithms"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

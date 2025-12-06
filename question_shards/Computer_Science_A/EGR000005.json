@@ -1,0 +1,41 @@
+{
+  "id": "EGR000005",
+  "type": "mcq",
+  "title": "Logic error - determine design",
+  "content": {
+    "description": "",
+    "question": "Which of the following strategies is most likely to help identify the logic error?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Changing random parts of the code and rerunning the program until the error is resolved",
+        "image": null
+      },
+      {
+        "label": "Inserting print statements throughout the code to check the calculations at various points in the execution",
+        "image": null
+      },
+      {
+        "label": "Relying on the compiler’s error messages to detect the logic error",
+        "image": null
+      },
+      {
+        "label": "Running the program multiple times without making changes to see if the error corrects itself",
+        "image": null
+      }
+    ],
+    "answer": "Inserting print statements throughout the code to check the calculations at various points in the execution"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.1",
+    "text": "1.1: Introduction to Algorithms, Programming, and Compilers"
+  },
+  "skill": {
+    "code": "1.A",
+    "text": "1.A: Determine an appropriate program design to solve a problem or accomplish a task."
+  }
+}

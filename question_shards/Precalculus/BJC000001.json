@@ -1,0 +1,41 @@
+{
+  "id": "BJC000001",
+  "type": "mcq",
+  "title": "Parametric Circles and Lines - average temperature",
+  "content": {
+    "description": "",
+    "question": "For a certain city, the average daily temperature, in degrees Fahrenheit, for each day for one month—day <math alttext=\"1\"><mn>1</mn></math> through day <math alttext=\"31\"><mn>31</mn></math>—is modeled by the parametric function <math alttext=\"f\"><mi>f</mi></math> defined by <math alttext=\"f open parentheses t close parentheses equals open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses\"><mi>f</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced></math>. For the interval <math alttext=\"0 less or equal than t less or equal than 1\"><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>1</mn></math>, <math alttext=\"open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses equals open parentheses 1 plus 30 t comma 40 plus 15 t close parentheses\"><mfenced><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced><mo>=</mo><mfenced><mrow><mn>1</mn><mo>+</mo><mn>30</mn><mi>t</mi><mo>,</mo><mn>40</mn><mo>+</mo><mn>15</mn><mi>t</mi></mrow></mfenced></math>. Another parametric function <math alttext=\"k\"><mi>k</mi></math> is equivalent to <math alttext=\"f\"><mi>f</mi></math> and uses a different parameter <math alttext=\"d\"><mi>d</mi></math>, where <math alttext=\"1 less or equal than d less or equal than 31\"><mn>1</mn><mo>≤</mo><mi>d</mi><mo>≤</mo><mn>31</mn></math>. Which of the following could define <math alttext=\"k open parentheses d close parentheses equals open parentheses x open parentheses d close parentheses comma y open parentheses d close parentheses close parentheses\"><mi>k</mi><mfenced><mi>d</mi></mfenced><mo>=</mo><mfenced><mrow><mi>x</mi><mfenced><mi>d</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>d</mi></mfenced></mrow></mfenced></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"open parentheses d comma 40 plus 15 over 30 open parentheses d minus 1 close parentheses close parentheses\"><mfenced><mrow><mi>d</mi><mo>,</mo><mn>40</mn><mo>+</mo><mfrac><mn>15</mn><mn>30</mn></mfrac><mfenced><mrow><mi>d</mi><mo>-</mo><mn>1</mn></mrow></mfenced></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open parentheses d comma 40 plus 15 over 31 open parentheses d minus 1 close parentheses close parentheses\"><mfenced><mrow><mi>d</mi><mo>,</mo><mn>40</mn><mo>+</mo><mfrac><mn>15</mn><mn>31</mn></mfrac><mfenced><mrow><mi>d</mi><mo>-</mo><mn>1</mn></mrow></mfenced></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open parentheses 1 plus 30 over 31 d comma 40 plus 15 over 31 d close parentheses\"><mfenced><mrow><mn>1</mn><mo>+</mo><mfrac><mn>30</mn><mn>31</mn></mfrac><mi>d</mi><mo>,</mo><mn>40</mn><mo>+</mo><mfrac><mn>15</mn><mn>31</mn></mfrac><mi>d</mi></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open parentheses 1 plus fraction numerator open parentheses d minus 1 close parentheses over denominator 31 end fraction comma 40 plus 15 over 30 open parentheses d minus 1 close parentheses close parentheses\"><mfenced><mrow><mn>1</mn><mo>+</mo><mfrac><mfenced><mrow><mi>d</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mn>31</mn></mfrac><mo>,</mo><mn>40</mn><mo>+</mo><mfrac><mn>15</mn><mn>30</mn></mfrac><mfenced><mrow><mi>d</mi><mo>-</mo><mn>1</mn></mrow></mfenced></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"open parentheses d comma 40 plus 15 over 30 open parentheses d minus 1 close parentheses close parentheses\"><mfenced><mrow><mi>d</mi><mo>,</mo><mn>40</mn><mo>+</mo><mfrac><mn>15</mn><mn>30</mn></mfrac><mfenced><mrow><mi>d</mi><mo>-</mo><mn>1</mn></mrow></mfenced></mrow></mfenced></math>"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.4",
+    "text": "4.4: Parametrically Defined Circles and Lines"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Express functions, equations, or expressions in analytically equivalent forms that are useful in a given mathematical or applied context."
+  }
+}

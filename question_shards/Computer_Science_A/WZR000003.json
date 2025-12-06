@@ -1,0 +1,41 @@
+{
+  "id": "WZR000003",
+  "type": "mcq",
+  "title": "comp substrings - determine result",
+  "content": {
+    "description": "",
+    "question": "What is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "c o m p",
+        "image": null
+      },
+      {
+        "label": "comp com co c",
+        "image": null
+      },
+      {
+        "label": "comp omp mp p",
+        "image": null
+      },
+      {
+        "label": "comp comp comp comp",
+        "image": null
+      }
+    ],
+    "answer": "comp omp mp p"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "UDW000003",
+  "type": "mcq",
+  "title": "MenuItem and Combo using this - determine result",
+  "content": {
+    "description": "",
+    "question": "What, if anything, is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "5.0",
+        "image": null
+      },
+      {
+        "label": "6.5",
+        "image": null
+      },
+      {
+        "label": "8.0",
+        "image": null
+      },
+      {
+        "label": "Nothing is printed because the code does not compile.",
+        "image": null
+      }
+    ],
+    "answer": "6.5"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.9",
+    "text": "3.9: `this` Keyword"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

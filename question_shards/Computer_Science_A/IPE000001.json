@@ -1,0 +1,41 @@
+{
+  "id": "IPE000001",
+  "type": "mcq",
+  "title": "Scan usernames from text file",
+  "content": {
+    "description": "",
+    "question": "Which of the following can replace /* missing code */ so that this code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "while (scan.hasNext()) { String temp = scan.next().substring(0, 1); usernames.add(temp + scan.next()); }",
+        "image": null
+      },
+      {
+        "label": "while (scan.hasNext()) { String one = scan.next(); String two = scan.next(); usernames.add(two.substring(0, 1) + one); }",
+        "image": null
+      },
+      {
+        "label": "while (scan.hasNext()) { String[] temp = scan.next().split(\"-\"); usernames.add(temp[1].substring(0, 1) + temp[0]); }",
+        "image": null
+      },
+      {
+        "label": "while (scan.hasNext()) { String[] temp = scan.next().split(\"-\"); usernames.add(temp[0].substring(0, 1) + temp[1]); }",
+        "image": null
+      }
+    ],
+    "answer": "while (scan.hasNext()) { String[] temp = scan.next().split(\"-\"); usernames.add(temp[1].substring(0, 1) + temp[0]); }"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

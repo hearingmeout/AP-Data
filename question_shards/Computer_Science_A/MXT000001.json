@@ -1,0 +1,41 @@
+{
+  "id": "MXT000001",
+  "type": "mcq",
+  "title": "Contents of arr after traversal - determine result",
+  "content": {
+    "description": "",
+    "question": "What are the contents of arr after executing this code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "{10, 20, 31, 40, 51, 60}",
+        "image": null
+      },
+      {
+        "label": "{10, 21, 30, 41, 50, 61}",
+        "image": null
+      },
+      {
+        "label": "{11, 20, 31, 40, 51, 60}",
+        "image": null
+      },
+      {
+        "label": "{11, 21, 31, 41, 51, 61}",
+        "image": null
+      }
+    ],
+    "answer": "{10, 21, 30, 41, 50, 61}"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.4",
+    "text": "4.4: Array Traversals"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

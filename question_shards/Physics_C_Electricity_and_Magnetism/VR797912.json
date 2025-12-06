@@ -1,0 +1,41 @@
+{
+  "id": "VR797912",
+  "type": "mcq",
+  "title": "E field of distribution - switching signs of rings",
+  "content": {
+    "description": "",
+    "question": "Two charged rings are concentric and have radii <math alttext=\"uppercase R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math> and <math alttext=\"2 uppercase R\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mi>R</mi></math>, as shown in the figure. Point <math alttext=\"P\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">P</mi></math> is located on a line that passes through the common center of the rings and is perpendicular to the plane of the rings. Each ring is uniformly charged, initially with charges <math alttext=\"positive uppercase Q\" display=\"inline\" overflow=\"scroll\"><mpadded><mo>+</mo><mi>Q</mi></mpadded></math> and <math alttext=\"negative uppercase Q\" display=\"inline\" overflow=\"scroll\"><mpadded><mo>-</mo><mi>Q</mi></mpadded></math> on the ring of radius <math alttext=\"2 uppercase R\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mi>R</mi></math> and the ring of radius <math alttext=\"uppercase R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math>, respectively. If each ring is given the opposite charge from what it had initially, what happens to the electric field magnitude <math alttext=\"E\" display=\"inline\" overflow=\"scroll\"><mi>E</mi></math> at Point <math alttext=\"P\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">P</mi></math>? What evidence or reasoning supports the claim?",
+    "image": "https://ap.oly.st/images/c4f0ad428254f8d97f41abe0ead89667.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"E\" display=\"inline\" overflow=\"scroll\"><mi>E</mi></math> stays the same. The integrals that express the electric field contributions of the rings change in sign but not magnitude.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"E\" display=\"inline\" overflow=\"scroll\"><mi>E</mi></math> stays the same. The net charge of the two-ring system does not change.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"E\" display=\"inline\" overflow=\"scroll\"><mi>E</mi></math> changes. The contribution to the electric field at Point <math alttext=\"P\" display=\"inline\" overflow=\"scroll\"><mtext>P</mtext></math> from the larger ring is greater in magnitude than the contribution from the smaller ring.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"E\" display=\"inline\" overflow=\"scroll\"><mi>E</mi></math> changes. The contribution to the electric field at Point <math alttext=\"P\" display=\"inline\" overflow=\"scroll\"><mtext>P</mtext></math> from the smaller ring is greater in magnitude than the contribution from the larger ring.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"E\" display=\"inline\" overflow=\"scroll\"><mi>E</mi></math> stays the same. The integrals that express the electric field contributions of the rings change in sign but not magnitude."
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Electric Charges, Fields, and Gauss's Law"
+  },
+  "topic": {
+    "code": "8.4",
+    "text": "8.4: Electric Fields of Charge Distributions"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

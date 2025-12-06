@@ -1,0 +1,41 @@
+{
+  "id": "FT659870",
+  "type": "mcq",
+  "title": "add and remove letters from ArrayList",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "ArrayList<String> items = new ArrayList<String>(); items.add(\"A\"); items.add(\"B\"); items.add(\"C\"); items.add(0, \"D\"); items.remove(3); items.add(0, \"E\"); System.out.println(items); What is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "[A, B, C, E]",
+        "image": null
+      },
+      {
+        "label": "[A, B, D, E]",
+        "image": null
+      },
+      {
+        "label": "[E, D, A, B]",
+        "image": null
+      },
+      {
+        "label": "[E, D, A, C]",
+        "image": null
+      }
+    ],
+    "answer": "[E, D, A, B]"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

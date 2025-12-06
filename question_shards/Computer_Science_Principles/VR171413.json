@@ -1,0 +1,37 @@
+{
+  "id": "VR171413",
+  "type": "mcq",
+  "title": "Data files to contact customers who use batteries",
+  "content": {
+    "description": "A company uses the following data files.",
+    "question": "File Name Description Contents Customers A list of customers Customer IDCustomer addressCustomer e-mail addressCustomer phone number Products A list of products available for purchase from the company Product IDProduct nameType of battery used by the product, if any Purchases A list of customer purchases Product IDProduct serial numberCustomer ID A new rechargeable battery pack is available for products that use AA batteries. Which of the following best explains how the data files in the table can be used to send a targeted e-mail to only those customers who have purchased products that use AA batteries to let them know about the new accessory?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Use the customer IDs in the purchases file to search the customers file to generate a list of e-mail addresses",
+        "image": null
+      },
+      {
+        "label": "Use the product IDs in the purchases file to search the products file to generate a list of product names that use AA batteries",
+        "image": null
+      },
+      {
+        "label": "Use the customers file to generate a list of customer IDs, then use the list of customer IDs to search the products file to generate a list of product names that use AA batteries",
+        "image": null
+      },
+      {
+        "label": "Use the products file to generate a list of product IDs that use AA batteries, then use the list of product IDs to search the purchases file to generate a list of customer IDs, then use the list of customer IDs to search the customers file to generate a list of e-mail addresses",
+        "image": null
+      }
+    ],
+    "answer": "Use the products file to generate a list of product IDs that use AA batteries, then use the list of product IDs to search the purchases file to generate a list of customer IDs, then use the list of customer IDs to search the customers file to generate a list of e-mail addresses"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Using Programs with Data"
+  },
+  "skill": {
+    "code": "Skill 5.B",
+    "text": "Skill 5.B: Explain how knowledge can be generated from data."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "VR094683",
+  "type": "mcq",
+  "title": "Number of bits needed for item inventory",
+  "content": {
+    "description": "",
+    "question": "A store uses binary numbers to assign a unique binary sequence to each item in its inventory. What is the minimum number of bits required for each binary sequence if the store has between 75 and 100 items in its inventory?",
+    "image": null,
+    "choices": [
+      {
+        "label": "5",
+        "image": null
+      },
+      {
+        "label": "6",
+        "image": null
+      },
+      {
+        "label": "7",
+        "image": null
+      },
+      {
+        "label": "8",
+        "image": null
+      }
+    ],
+    "answer": "7"
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Binary Numbers"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

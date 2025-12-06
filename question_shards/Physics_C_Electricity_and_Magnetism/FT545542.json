@@ -1,0 +1,45 @@
+{
+  "id": "FT545542",
+  "type": "mcq",
+  "title": "Inference procedure for battery life test",
+  "content": {
+    "description": "A manufacturer claims its Brand A battery lasts longer than its competitor’s Brand B battery. Nine batteries of each brand are tested independently, and the hours of battery life are shown in the table below.",
+    "question": "Provided that the assumptions for inference are met, which of the following tests should be conducted to determine if Brand A batteries do, in fact, last longer than Brand B batteries?",
+    "image": "https://ap.oly.st/images/ef5ac1cbf5a2f22731118087b29b2c06.png",
+    "choices": [
+      {
+        "label": "A one-sided, paired t-test",
+        "image": null
+      },
+      {
+        "label": "A one-sided, two-sample t-test",
+        "image": null
+      },
+      {
+        "label": "A two-sided, two-sample t-test",
+        "image": null
+      },
+      {
+        "label": "A one-sided, two-sample z-test",
+        "image": null
+      },
+      {
+        "label": "A two-sided, two-sample z-test",
+        "image": null
+      }
+    ],
+    "answer": "A one-sided, two-sample t-test"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.8",
+    "text": "7.8: Setting Up a Test for the Difference of Two Population Means"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Identify an appropriate inference method for significance tests."
+  }
+}

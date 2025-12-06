@@ -1,0 +1,41 @@
+{
+  "id": "DBZ000003",
+  "type": "mcq",
+  "title": "round val - determine result",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the behavior of the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The code segment works as intended.",
+        "image": null
+      },
+      {
+        "label": "The code segment does not work as intended because the expression (val + 0.5) should be cast to a double instead of an int.",
+        "image": null
+      },
+      {
+        "label": "The code segment does not work as intended because val should be cast to an int before 0.5 is added to it.",
+        "image": null
+      },
+      {
+        "label": "The code segment does not work as intended because the expression (int) (val + 0.5) rounds to the nearest integer only when val is positive.",
+        "image": null
+      }
+    ],
+    "answer": "The code segment does not work as intended because the expression (int) (val + 0.5) rounds to the nearest integer only when val is positive."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.5",
+    "text": "1.5: Casting and Range of Variables"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

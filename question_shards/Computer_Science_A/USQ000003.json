@@ -1,0 +1,41 @@
+{
+  "id": "USQ000003",
+  "type": "mcq",
+  "title": "Instantiate a Player object - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following statements correctly creates a Player object?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Player p = new Player(true, 5);",
+        "image": null
+      },
+      {
+        "label": "Player p = new Player(5, true);",
+        "image": null
+      },
+      {
+        "label": "Player p = Player(true, 5);",
+        "image": null
+      },
+      {
+        "label": "Player p = Player(5, true);",
+        "image": null
+      }
+    ],
+    "answer": "Player p = new Player(true, 5);"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.13",
+    "text": "1.13: Object Creation and Storage (Instantiation)"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

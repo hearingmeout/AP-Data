@@ -1,0 +1,37 @@
+{
+  "id": "VR171087",
+  "type": "mcq",
+  "title": "Radio show spreadsheet",
+  "content": {
+    "description": "A large spreadsheet contains information about the schedule for a college radio station. A sample portion of the spreadsheet is shown below.",
+    "question": "A Show NameBGenreCDayDStart TimeEEnd Time1Dot Dot DashrockSunday11:00 A.M.1:00 P.M.2New Afternoon ShowtalkSunday1:00 P.M.3:00 P.M.3Thursday Beatship-hopThursday 7:00 P.M.9:00 P.M.4Gossip TimetalkFriday 4:00 P.M.6:00 P.M.5Campus ChattalkSaturday 6:00 P.M.8:00 P.M.6Jazz BrunchjazzSaturday12:00 P.M.3:00 P.M.A student wants to count the number of shows that meet both of the following criteria.Is a talk showIs on Saturday or SundayFor a given row in the spreadsheet, suppose genre contains the genre as a string and day contains the day as a string. Which of the following expressions will evaluate to true if the show should be counted and evaluates to false otherwise?",
+    "image": null,
+    "choices": [
+      {
+        "label": "(genre = \"talk\") AND ((day = \"Saturday\") AND (day = \"Sunday\"))",
+        "image": null
+      },
+      {
+        "label": "(genre = \"talk\") AND ((day = \"Saturday\") OR (day = \"Sunday\"))",
+        "image": null
+      },
+      {
+        "label": "(genre = \"talk\") OR ((day = \"Saturday\") AND (day = \"Sunday\"))",
+        "image": null
+      },
+      {
+        "label": "(genre = \"talk\") OR ((day = \"Saturday\") OR (day = \"Sunday\"))",
+        "image": null
+      }
+    ],
+    "answer": "(genre = \"talk\") AND ((day = \"Saturday\") OR (day = \"Sunday\"))"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Using Programs with Data"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

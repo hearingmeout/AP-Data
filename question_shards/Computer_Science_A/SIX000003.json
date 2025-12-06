@@ -1,0 +1,41 @@
+{
+  "id": "SIX000003",
+  "type": "mcq",
+  "title": "doSomething nested loop - determine result",
+  "content": {
+    "description": "",
+    "question": "How many times will doSomething() be called as a result of executing this code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "5",
+        "image": null
+      },
+      {
+        "label": "8",
+        "image": null
+      },
+      {
+        "label": "10",
+        "image": null
+      },
+      {
+        "label": "15",
+        "image": null
+      }
+    ],
+    "answer": "10"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.11",
+    "text": "2.11: Nested Iteration"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

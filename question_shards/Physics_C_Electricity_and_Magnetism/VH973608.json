@@ -1,0 +1,45 @@
+{
+  "id": "VH973608",
+  "type": "mcq",
+  "title": "Buying textbooks",
+  "content": {
+    "description": "The campus bookstore at a local university is interested in finding out whether the textbook preference and the class level (freshman, sophomore, junior, senior) of the student are associated. A random sample of 100 students is obtained, and each student in the sample is asked which textbook he or she prefers: new books, used books, or digital books. The students are also asked whether their class level is freshman, sophomore, junior, or senior.",
+    "question": "Which of the following is the appropriate test for the investigation?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A one-sample <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-test for a population mean",
+        "image": null
+      },
+      {
+        "label": "A two-sample <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-test for a difference between means",
+        "image": null
+      },
+      {
+        "label": "A chi-square goodness-of-fit test",
+        "image": null
+      },
+      {
+        "label": "A chi-square test of homogeneity",
+        "image": null
+      },
+      {
+        "label": "A chi-square test of independence",
+        "image": null
+      }
+    ],
+    "answer": "A chi-square test of independence"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Inference for Categorical Data-Chi-Square"
+  },
+  "topic": {
+    "code": "8.5",
+    "text": "8.5: Setting Up a Chi-Square Test for Homogeneity or Independence"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Identify an appropriate inference method for significance tests."
+  }
+}

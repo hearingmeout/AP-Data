@@ -1,0 +1,41 @@
+{
+  "id": "SHB000001",
+  "type": "mcq",
+  "title": "Linear Transformations - determining matrix",
+  "content": {
+    "description": "",
+    "question": "The function <math alttext=\"L\"><mi>L</mi></math> is a linear transformation of vectors defined by <math alttext=\"L open parentheses vector v close parentheses equals A vector v\"><mi>L</mi><mfenced><mover><mi>v</mi><mo>→</mo></mover></mfenced><mo>=</mo><mi>A</mi><mover><mi>v</mi><mo>→</mo></mover></math>, where <math alttext=\"A\"><mi>A</mi></math> is a transformation matrix. Which of the following matrices could be matrix <math alttext=\"A\"><mi>A</mi></math> which maps vector <math alttext=\"A 2 by 1 vector matrix. Row 1 is a. Row 2 is b plus 1.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mi>a</mi></mtd></mtr><mtr><mtd><mi>b</mi><mo>+</mo><mn>1</mn></mtd></mtr></mtable></mfenced></math> to vector <math alttext=\"A 2 by 1 vector matrix. Row 1 is a minus b minus 1. Row 2 is a.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mi>a</mi><mo>-</mo><mi>b</mi><mo>-</mo><mn>1</mn></mtd></mtr><mtr><mtd><mi>a</mi></mtd></mtr></mtable></mfenced></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"A 2 by 2 matrix. Row 1 column 1 is 1. Row 1 column 2 is negative 1. Row 2 column 1 is 0. Row 2 column 2 is 1.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mo>-</mo><mn>1</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd><mtd><mn>0</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"A 2 by 2 matrix. Row 1 column 1 is 1. Row 1 column 2 is 1. Row 2 column 1 is 1. Row 2 column 2 is 0.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd><mtd><mn>0</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"A 2 by 2 matrix. Row 1 column 1 is 1. Row 1 column 2 is negative 1. Row 2 column 1 is 0. Row 2 column 2 is 0.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mo>-</mo><mn>1</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>0</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"A 2 by 2 matrix. Row 1 column 1 is 1. Row 1 column 2 is 1. Row 2 column 1 is negative 1. Row 2 column 2 is 0.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mo>-</mo><mn>1</mn></mtd><mtd><mn>0</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"A 2 by 2 matrix. Row 1 column 1 is 1. Row 1 column 2 is negative 1. Row 2 column 1 is 0. Row 2 column 2 is 1.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mo>-</mo><mn>1</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd><mtd><mn>0</mn></mtd></mtr></mtable></mfenced></math>"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.12",
+    "text": "4.12: Linear Transformations and Matrices"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Solve equations and inequalities represented analytically, with and without technology."
+  }
+}

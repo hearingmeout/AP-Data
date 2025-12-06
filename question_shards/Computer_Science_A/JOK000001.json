@@ -1,0 +1,41 @@
+{
+  "id": "JOK000001",
+  "type": "mcq",
+  "title": "call calculate method - determine result",
+  "content": {
+    "description": "",
+    "question": "What, if anything, is printed when the code segment is executed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "8.5",
+        "image": null
+      },
+      {
+        "label": "9",
+        "image": null
+      },
+      {
+        "label": "9.0",
+        "image": null
+      },
+      {
+        "label": "Nothing is printed because the code does not compile. The actual parameter d1 passed to calculate is a Double, but the formal parameter x is a double.",
+        "image": null
+      }
+    ],
+    "answer": "9.0"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.7",
+    "text": "4.7: Wrapper Classes"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

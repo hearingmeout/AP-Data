@@ -1,0 +1,41 @@
+{
+  "id": "ORI000002",
+  "type": "mcq",
+  "title": "AnimalPrinter class - write code",
+  "content": {
+    "description": "",
+    "question": "Assume that an AnimalPrinter object myPrinter has been properly declared and initialized inside myMethod. Which of the following code segments, if located in myMethod, will produce the intended output?",
+    "image": null,
+    "choices": [
+      {
+        "label": "printDog(); printCat();",
+        "image": null
+      },
+      {
+        "label": "printDog(AnimalPrinter); printCat(AnimalPrinter);",
+        "image": null
+      },
+      {
+        "label": "AnimalPrinter.printDog(); AnimalPrinter.printCat();",
+        "image": null
+      },
+      {
+        "label": "myPrinter.printDog(); myPrinter.printCat();",
+        "image": null
+      }
+    ],
+    "answer": "myPrinter.printDog(); myPrinter.printCat();"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.10",
+    "text": "1.10: Calling Class Methods"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

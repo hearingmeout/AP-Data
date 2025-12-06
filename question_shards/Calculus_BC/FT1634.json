@@ -1,0 +1,45 @@
+{
+  "id": "FT1634",
+  "type": "mcq",
+  "title": "Additivity of definite integrals",
+  "content": {
+    "description": "",
+    "question": "Let f and g be continuous functions for <math> <mrow> <mi>a</mi><mo>≤</mo><mi>x</mi><mo>≤</mo><mi>b</mi></mrow> </math>. If <math> <mrow> <mi>a</mi> <mo>&lt;</mo> <mi>c</mi> <mo>&lt;</mo> <mi>b</mi> </mrow> </math>, <math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mi>a</mi> <mi>b</mi> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>d</mi><mi>x</mi><mo>=</mo><mi>P</mi></mrow> </math>, <math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mi>c</mi> <mi>b</mi> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>d</mi><mi>x</mi><mo>=</mo><mi>Q</mi></mrow> </math>, <math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mi>a</mi> <mi>b</mi> </msubsup> <mi>g</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>d</mi><mi>x</mi><mo>=</mo><mi>R</mi></mrow> </math>, and <math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mi>c</mi> <mi>b</mi> </msubsup> <mi>g</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>d</mi><mi>x</mi><mo>=</mo><mi>S</mi></mrow> </math>, then <math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mi>a</mi> <mi>c</mi> </msubsup> <mrow> <mrow><mo>(</mo> <mrow> <mi>f</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mo>−</mo><mi>g</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow></mrow> <mo>)</mo></mrow></mrow> </mrow> </mstyle></mrow> </math> dx =",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <mrow> <mi>P</mi><mo>-</mo><mi>Q</mi><mo>+</mo><mi>R</mi><mo>-</mo><mi>S</mi></mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mi>P</mi><mo>-</mo><mi>Q</mi><mo>-</mo><mi>R</mi><mo>+</mo><mi>S</mi></mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mi>P</mi> <mo>-</mo> <mi>Q</mi> <mo>-</mo> <mi>R</mi> <mo>-</mo> <mi>S</mi> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mi>P</mi><mo>+</mo><mi>Q</mi><mo>-</mo><mi>R</mi><mo>-</mo><mi>S</mi></mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mi>P</mi><mo>+</mo><mi>Q</mi><mo>-</mo><mi>R</mi><mo>+</mo><mi>S</mi></mrow> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <mrow> <mi>P</mi><mo>-</mo><mi>Q</mi><mo>-</mo><mi>R</mi><mo>+</mo><mi>S</mi></mrow> </math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.6",
+    "text": "6.6: Applying Properties of Definite Integrals"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

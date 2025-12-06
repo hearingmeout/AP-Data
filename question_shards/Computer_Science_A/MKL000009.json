@@ -1,0 +1,41 @@
+{
+  "id": "MKL000009",
+  "type": "mcq",
+  "title": "doubles and Doubles - determine result",
+  "content": {
+    "description": "",
+    "question": "What, if anything, is printed when the code segment is executed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "60.0",
+        "image": null
+      },
+      {
+        "label": "10.050.0",
+        "image": null
+      },
+      {
+        "label": "10.020.030.0",
+        "image": null
+      },
+      {
+        "label": "Nothing is printed due to a syntax error.",
+        "image": null
+      }
+    ],
+    "answer": "60.0"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.7",
+    "text": "4.7: Wrapper Classes"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

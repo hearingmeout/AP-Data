@@ -1,0 +1,45 @@
+{
+  "id": "FT1778",
+  "type": "mcq",
+  "title": "Convergence tests for series",
+  "content": {
+    "description": "Which of the following series diverge?",
+    "question": "I. <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>n</mi><mo>=</mo><mn>0</mn></mrow> <mi>∞</mi> </munderover> <mrow> <msup> <mrow> <mrow><mo>(</mo> <mrow> <mfrac> <mrow> <mi>sin</mi><mn>2</mn></mrow> <mi>π</mi> </mfrac> </mrow> <mo>)</mo></mrow></mrow> <mi>n</mi> </msup> </mrow> </mstyle></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk 0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr 0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbm aaqahapaqaa8qadaqadaWdaeaapeWaaSaaa8aabaWdbiGacohacaGG PbGaaiOBaiaaikdaa8aabaWdbiabec8aWbaaaiaawIcacaGLPaaapa WaaWbaaSqabeaapeGaamOBaaaaa8aabaWdbiaad6gacqGH9aqpcaaI Waaapaqaa8qacqGHEisPa0GaeyyeIuoaaaa@485B@ </annotation> </semantics> </math> II. <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>n</mi><mo>=</mo><mn>1</mn></mrow> <mi>∞</mi> </munderover> <mrow> <mfrac> <mn>1</mn> <mrow> <mroot> <mi>n</mi> <mn>3</mn> </mroot> </mrow> </mfrac> </mrow> </mstyle></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk 0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr 0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbm aaqahapaqaa8qadaWcaaWdaeaapeGaaGymaaWdaeaapeWaaOqaa8aa baWdbiaad6gaaSWdaeaapeGaaG4maaaaaaaapaqaa8qacaWGUbGaey ypa0JaaGymaaWdaeaapeGaeyOhIukaniabggHiLdaaaa@42E8@ </annotation> </semantics> </math> III. <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>n</mi><mo>=</mo><mn>1</mn></mrow> <mi>∞</mi> </munderover> <mrow> <mrow><mo>(</mo> <mrow> <mfrac> <mrow> <msup> <mi>e</mi> <mi>n</mi> </msup> </mrow> <mrow> <msup> <mi>e</mi> <mi>n</mi> </msup> <mo>+</mo><mn>1</mn></mrow> </mfrac> </mrow> <mo>)</mo></mrow></mrow> </mstyle></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk 0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr 0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbm aaqahapaqaa8qadaqadaWdaeaapeWaaSaaa8aabaWdbiaadwgapaWa aWbaaSqabeaapeGaamOBaaaaaOWdaeaapeGaamyza8aadaahaaWcbe qaa8qacaWGUbaaaOGaey4kaSIaaGymaaaaaiaawIcacaGLPaaaaSWd aeaapeGaamOBaiabg2da9iaaigdaa8aabaWdbiabg6HiLcqdcqGHri s5aaaa@47DA@ </annotation> </semantics> </math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "III only",
+        "image": null
+      },
+      {
+        "label": "I and II only",
+        "image": null
+      },
+      {
+        "label": "I and III only",
+        "image": null
+      },
+      {
+        "label": "II and III only",
+        "image": null
+      },
+      {
+        "label": "I, II, and III",
+        "image": null
+      }
+    ],
+    "answer": "II and III only"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.1",
+    "text": "10.1: (BC ONLY) Defining Convergent and Divergent Infinite Series"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

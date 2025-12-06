@@ -1,0 +1,41 @@
+{
+  "id": "VH904703",
+  "type": "mcq",
+  "title": "Olympics concat",
+  "content": {
+    "description": "Consider the code segment below.",
+    "question": "int a = 1988;int b = 1990; String claim = \" that the world’s athletes \" +\"competed in Olympic Games in \"; String s = \"It is \" + true + claim + a +\" but \" + false + claim + b + \".\"; System.out.println(s);What, if anything, is printed when the code segment is executed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "It is trueclaim1998 but falseclaim1990.",
+        "image": null
+      },
+      {
+        "label": "It is true that the world’s athletes competed in Olympic Games in a but false that the world’s athletes competed in Olympic Games in b.",
+        "image": null
+      },
+      {
+        "label": "It is true that the world’s athletes competed in Olympic Games in 1988 but false that the world’s athletes competed in Olympic Games in 1990.",
+        "image": null
+      },
+      {
+        "label": "Nothing is printed because the code segment does not compile.",
+        "image": null
+      }
+    ],
+    "answer": "It is true that the world’s athletes competed in Olympic Games in 1988 but false that the world’s athletes competed in Olympic Games in 1990."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "VR167887",
+  "type": "mcq",
+  "title": "Use concat and prefix to form initials",
+  "content": {
+    "description": "Consider the following procedures for string manipulation.",
+    "question": "Procedure Call Explanation concat(str1, str2) Returns a single string consisting of str1 followed by str2. For example, concat(\"key\", \"board\") returns \"keyboard\". prefix(str, length) Returns the first length characters of str or str if length is greater than the number of characters in str. For example, prefix(\"delivery\", 3) returns \"del\" and prefix(\"delivery\", 100) returns \"delivery\". The variable initials is to be assigned a string consisting of the first letter of the string firstName followed by the first letter of the string lastName. Which of the following assigns the correct string to initials ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "initials <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> concat(prefix(firstName, 1), prefix(lastName, 1))",
+        "image": null
+      },
+      {
+        "label": "initials <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> concat(prefix(firstName, 2), prefix(lastName, 2))",
+        "image": null
+      },
+      {
+        "label": "initials <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> prefix(concat(firstName, lastName), 1)",
+        "image": null
+      },
+      {
+        "label": "initials <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> prefix(concat(firstName, lastName), 2)",
+        "image": null
+      }
+    ],
+    "answer": "initials <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> concat(prefix(firstName, 1), prefix(lastName, 1))"
+  },
+  "topic": {
+    "code": "3.4",
+    "text": "3.4: Strings"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

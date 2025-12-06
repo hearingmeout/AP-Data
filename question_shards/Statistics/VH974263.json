@@ -1,0 +1,45 @@
+{
+  "id": "VH974263",
+  "type": "mcq",
+  "title": "Battery life",
+  "content": {
+    "description": "Researchers for a company that manufactures batteries want to test the hypothesis that the mean battery life of their new battery is greater than the known mean battery life of their older version. The researchers selected random samples of 32 of the new batteries, subjected the batteries to continuous use, and determined the mean and standard deviation of the battery lives in the sample.",
+    "question": "Which of the following is an appropriate test for the researchers’ hypothesis?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A one-sample <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math>-test for a population mean",
+        "image": null
+      },
+      {
+        "label": "A one-sample <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-test for a population mean",
+        "image": null
+      },
+      {
+        "label": "A one-sample <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math>-test for a population proportion",
+        "image": null
+      },
+      {
+        "label": "A matched-pairs <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-test for a mean difference",
+        "image": null
+      },
+      {
+        "label": "A two-sample <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-test for a difference between means",
+        "image": null
+      }
+    ],
+    "answer": "A one-sample <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-test for a population mean"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.4",
+    "text": "7.4: Setting Up a Test for a Population Mean"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Identify an appropriate inference method for significance tests."
+  }
+}

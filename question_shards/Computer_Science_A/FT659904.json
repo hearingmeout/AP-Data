@@ -1,0 +1,41 @@
+{
+  "id": "FT659904",
+  "type": "mcq",
+  "title": "Printing Mathematical error",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "double a = 1.1; double b = 1.2; if ((a + b) * (a - b) != (a * a) - (b * b)) { System.out.println(\"Mathematical error!\"); } Which of the following best describes why the phrase \"Mathematical error!\" would be printed? (Remember that mathematically (a + b) * (a - b) = a2 - b2 .)",
+    "image": null,
+    "choices": [
+      {
+        "label": "Precedence rules make the if condition true.",
+        "image": null
+      },
+      {
+        "label": "Associativity rules make the if condition true.",
+        "image": null
+      },
+      {
+        "label": "Roundoff error makes the if condition true.",
+        "image": null
+      },
+      {
+        "label": "A compiler bug or hardware error has occurred.",
+        "image": null
+      }
+    ],
+    "answer": "Roundoff error makes the if condition true."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

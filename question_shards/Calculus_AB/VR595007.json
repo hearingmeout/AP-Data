@@ -1,0 +1,37 @@
+{
+  "id": "VR595007",
+  "type": "mcq",
+  "title": "Processes - Higher Order Derivatives",
+  "content": {
+    "description": "",
+    "question": "If <math alttext=\"f of x equals e raised to the 7 x power\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mi>e</mi></mrow><mrow><mn>7</mn><mi>x</mi></mrow></msup></mrow></mstyle></math>, then <math alttext=\"the seventh derivative of f, of x, equals\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>f</mi></mrow><mrow><mrow><mo>(</mo><mn>7</mn><mo>)</mo></mrow></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo></mrow></mstyle></math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"7 times 6, times 5, times 4, times 3, times 2\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mn>7</mn><mo largeop=\"true\">⋅</mo><mn>6</mn><mo largeop=\"true\">⋅</mo><mn>5</mn><mo largeop=\"true\">⋅</mo><mn>4</mn><mo largeop=\"true\">⋅</mo><mn>3</mn><mo largeop=\"true\">⋅</mo><mn>2</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.15em\"></mspace></mrow></mstyle></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction 1 over 7 to the seventh power, end fraction, times e raised to the 7 x power\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mn>7</mn></mrow><mrow><mn>7</mn></mrow></msup></mrow></mfrac><msup><mrow><mi>e</mi></mrow><mrow><mn>7</mn><mi>x</mi></mrow></msup></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"e raised to the 7 x power\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>e</mi></mrow><mrow><mn>7</mn><mi>x</mi></mrow></msup></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"7 raised to the seventh power times e raised to the 7 x power\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mn>7</mn></mrow><mrow><mn>7</mn></mrow></msup><msup><mrow><mi>e</mi></mrow><mrow><mn>7</mn><mi>x</mi></mrow></msup></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"7 raised to the seventh power times e raised to the 7 x power\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mn>7</mn></mrow><mrow><mn>7</mn></mrow></msup><msup><mrow><mi>e</mi></mrow><mrow><mn>7</mn><mi>x</mi></mrow></msup></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.6",
+    "text": "3.6: Calculating Higher-Order Derivatives"
+  }
+}

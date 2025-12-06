@@ -1,0 +1,41 @@
+{
+  "id": "VR718130",
+  "type": "mcq",
+  "title": "Rotational inertia rank - 3 two-sphere systems",
+  "content": {
+    "description": "",
+    "question": "The figures show three different systems, each consisting of two massive spheres connected by rods of negligible mass and a rotation axis that is perpendicular to the plane of the figure. In System <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>, each sphere has mass <math alttext=\"2 M sub 0\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><msub><mi>M</mi><mn>0</mn></msub></math> and is a distance <math alttext=\"D sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>D</mi><mn>0</mn></msub></math> from the axis of rotation at Point <math alttext=\"P sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mtext>P</mtext><mtext>1</mtext></msub></math>. In Systems <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> and <math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mn>3</mn></math>, each sphere has mass <math alttext=\"M sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>M</mi><mn>0</mn></msub></math> and is a distance <math alttext=\"2 D sub 0\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><msub><mi>D</mi><mn>0</mn></msub></math> from the axis of rotation at Point <math alttext=\"P sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mtext>P</mtext><mtext>2</mtext></msub></math> and Point <math alttext=\"P sub 3\" display=\"inline\" overflow=\"scroll\"><msub><mtext>P</mtext><mtext>3</mtext></msub></math>, respectively. The sizes of all spheres are small compared to <math alttext=\"D sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>D</mi><mn>0</mn></msub></math>. How do the rotational inertias <math alttext=\"uppercase I sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>1</mn></msub></math>, <math alttext=\"uppercase I sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>2</mn></msub></math>, and <math alttext=\"uppercase I sub 3\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>3</mn></msub></math> of the three systems compare?",
+    "image": "https://ap.oly.st/images/0eb33c74f9b4518feb7b0f1fdf72da72.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"uppercase I sub 1 equals uppercase I sub 2, which equals uppercase I sub 3\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>1</mn></msub><mo>=</mo><msub><mi>I</mi><mn>2</mn></msub><mo>=</mo><msub><mi>I</mi><mn>3</mn></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"uppercase I sub 1 is greater than uppercase I sub 2, which equals uppercase I sub 3\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>1</mn></msub><mo>&gt;</mo><msub><mi>I</mi><mn>2</mn></msub><mo>=</mo><msub><mi>I</mi><mn>3</mn></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"uppercase I sub 2 equals uppercase I sub 3, which is greater than uppercase I sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>2</mn></msub><mo>=</mo><msub><mi>I</mi><mn>3</mn></msub><mo>&gt;</mo><msub><mi>I</mi><mn>1</mn></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"uppercase I sub 2 is greater than uppercase I sub 3, which is greater than uppercase I sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>2</mn></msub><mo>&gt;</mo><msub><mi>I</mi><mn>3</mn></msub><mo>&gt;</mo><msub><mi>I</mi><mn>1</mn></msub></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"uppercase I sub 2 equals uppercase I sub 3, which is greater than uppercase I sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>2</mn></msub><mo>=</mo><msub><mi>I</mi><mn>3</mn></msub><mo>&gt;</mo><msub><mi>I</mi><mn>1</mn></msub></math>"
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.4",
+    "text": "5.4: Rotational Inertia"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

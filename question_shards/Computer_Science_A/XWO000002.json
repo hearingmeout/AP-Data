@@ -1,0 +1,41 @@
+{
+  "id": "XWO000002",
+  "type": "mcq",
+  "title": "Sum of odd integers from 1 to 101 - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following can be used to replace /* missing code */ so that the code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "if (r % 2 != 1) { sum += r; }",
+        "image": null
+      },
+      {
+        "label": "if (r % 2 != 1) { sum++; }",
+        "image": null
+      },
+      {
+        "label": "if (r % 2 == 1) { sum += r; }",
+        "image": null
+      },
+      {
+        "label": "if (r % 2 == 1) { sum++; }",
+        "image": null
+      }
+    ],
+    "answer": "if (r % 2 == 1) { sum += r; }"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.7",
+    "text": "2.7: `while` Loops"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

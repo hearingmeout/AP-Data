@@ -1,0 +1,45 @@
+{
+  "id": "VH947327",
+  "type": "mcq",
+  "title": "New design",
+  "content": {
+    "description": "",
+    "question": "A marketing representative wants to estimate the proportion of people in a state who like the new design on the packaging of a certain cleaning product. The representative interviewed 100 people at a certain supermarket, and 82 people indicated that they liked the new design. Have the conditions for creating a confidence interval for the population proportion been met?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Yes, because the sample was selected at random.",
+        "image": null
+      },
+      {
+        "label": "Yes, because sampling distributions of population proportions are modeled with a normal model.",
+        "image": null
+      },
+      {
+        "label": "Yes, because the sample is large enough to satisfy the normality conditions.",
+        "image": null
+      },
+      {
+        "label": "No, because the sample is not large enough to satisfy the normality conditions.",
+        "image": null
+      },
+      {
+        "label": "No, because the sample may not be representative of all people in the state.",
+        "image": null
+      }
+    ],
+    "answer": "No, because the sample may not be representative of all people in the state."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.2",
+    "text": "6.2: Constructing a Confidence Interval for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Verify that inference procedures apply in a given situation."
+  }
+}

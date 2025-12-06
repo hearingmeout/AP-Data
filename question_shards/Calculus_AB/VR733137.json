@@ -1,0 +1,41 @@
+{
+  "id": "VR733137",
+  "type": "mcq",
+  "title": "Justification - FTC and Definite Integrals",
+  "content": {
+    "description": "<math alttext=\"The figure shows a 5 row table with 2 columns of data. The heading for row 1 is “x.” The heading for row 2 is “f of x.” The heading for row 3 is “f prime of x.” The heading for row 4 is “f double prime of x.” The heading for row 5 is “f triple prime of x.” The data in the table are as follows. Column 1: x is negative 1; f of x is 10; f prime of x is negative 1; f double prime of x is 23; f triple prime of x is negative 42. Column 2: x is 1; f of x is 0; f prime of x is negative 9; f double prime of x is negative 13; f triple prime of x is 6.\" display=\"inline\" overflow=\"scroll\"><mtable columnlines=\"solid\" equalrows=\"true\" frame=\"solid\" rowlines=\"solid\"><mtr><mtd><mi>x</mi></mtd><mtd><mo>−</mo><mn>1</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mtd><mtd><mn>10</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><msup><mi>f</mi><mo>′</mo></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mtd><mtd><mo>−</mo><mn>1</mn></mtd><mtd><mo>−</mo><mn>9</mn></mtd></mtr><mtr><mtd><msup><mi>f</mi><mrow><mo>′</mo><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mtd><mtd><mn>23</mn></mtd><mtd><mo>−</mo><mn>13</mn></mtd></mtr><mtr><mtd><msup><mi>f</mi><mrow><mo>′</mo><mo>′</mo><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mtd><mtd><mo>−</mo><mn>42</mn></mtd><mtd><mn>6</mn></mtd></mtr></mtable></math>",
+    "question": "The function <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mi>f</mi></math> has derivatives of all orders for all real numbers. The table shown gives values of <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mi>f</mi></math> and its first three derivatives at selected values of <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mi>x</mi></math>. What is the value of <math alttext=\"the integral from negative 1 to 1, of, f double prime of x, d x\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mo>−</mo><mn>1</mn></mrow><mrow><mn>1</mn></mrow></msubsup><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></mstyle></mrow></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"negative 36\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>36</mn></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"negative 10\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>10</mn></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"negative 8\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>8</mn></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"48\" display=\"inline\" overflow=\"scroll\"><mn>48</mn></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"negative 8\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>8</mn></mrow></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.7",
+    "text": "6.7: The Fundamental Theorem of Calculus and Definite Integrals"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

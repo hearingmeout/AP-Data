@@ -1,0 +1,41 @@
+{
+  "id": "FT659899",
+  "type": "mcq",
+  "title": "sol Method with int parameter",
+  "content": {
+    "description": "Consider the following method.",
+    "question": "public int sol(int lim) { int s = 0; for (int outer = 1; outer <= lim; outer++) { for (int inner = outer; inner <= lim; inner++) { s++; } } return s; } What value is returned as a result of the call sol(10)?",
+    "image": null,
+    "choices": [
+      {
+        "label": "20",
+        "image": null
+      },
+      {
+        "label": "45",
+        "image": null
+      },
+      {
+        "label": "55",
+        "image": null
+      },
+      {
+        "label": "100",
+        "image": null
+      }
+    ],
+    "answer": "55"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.11",
+    "text": "2.11: Nested Iteration"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VR609001",
+  "type": "mcq",
+  "title": "Scalars and vectors-claim based on cart velocity",
+  "content": {
+    "description": "",
+    "question": "Time <math alttext=\"(in seconds)\" display=\"inline\" overflow=\"scroll\"><mpadded><mo>(</mo><mpadded><mi mathvariant=\"normal\">s</mi></mpadded><mo>)</mo></mpadded></math> Position <math alttext=\"(in meters)\" display=\"inline\" overflow=\"scroll\"><mpadded><mo>(</mo><mpadded><mi mathvariant=\"normal\">m</mi></mpadded><mo>)</mo></mpadded></math> Velocity <math alttext=\"(in meters per second)\" display=\"inline\" overflow=\"scroll\"><mo stretchy=\"false\">(</mo><mtext>m</mtext><mo>/</mo><mtext>s</mtext><mo stretchy=\"false\">)</mo></math> <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> <math alttext=\"1.00\" display=\"inline\" overflow=\"scroll\"><mn>1.00</mn></math> <math alttext=\"negative 0.2\" display=\"inline\" overflow=\"scroll\"><mpadded><mo>-</mo><mn>0.2</mn></mpadded></math> <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> <math alttext=\"0.80\" display=\"inline\" overflow=\"scroll\"><mn>0.80</mn></math> <math alttext=\"negative 0.2\" display=\"inline\" overflow=\"scroll\"><mpadded><mo>-</mo><mn>0.2</mn></mpadded></math> <math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mn>3</mn></math> <math alttext=\"0.75\" display=\"inline\" overflow=\"scroll\"><mn>0.75</mn></math> <math alttext=\"0.1\" display=\"inline\" overflow=\"scroll\"><mo> </mo><mn>0.1</mn></math> <math alttext=\"4\" display=\"inline\" overflow=\"scroll\"><mn>4</mn></math> <math alttext=\"1.00\" display=\"inline\" overflow=\"scroll\"><mn>1.00</mn></math> <math alttext=\"0.4\" display=\"inline\" overflow=\"scroll\"><mo> </mo><mn>0.4</mn></math> <math alttext=\"5\" display=\"inline\" overflow=\"scroll\"><mn>5</mn></math> <math alttext=\"1.40\" display=\"inline\" overflow=\"scroll\"><mn>1.40</mn></math> <math alttext=\"0.4\" display=\"inline\" overflow=\"scroll\"><mo> </mo><mn>0.4</mn></math> The table shows the position and velocity of a cart on a straight track at several moments in time. Which of the following claims about the motion of the cart is supported by the data in the table?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The cart only moved in the positive direction because the position of the cart was always positive.",
+        "image": null
+      },
+      {
+        "label": "The cart only moved in the positive direction because the velocity was never zero, so the cart did not stop and change direction.",
+        "image": null
+      },
+      {
+        "label": "The cart moved first in the positive direction and then in the negative direction because it was moving faster at the end of the recorded motion.",
+        "image": null
+      },
+      {
+        "label": "The cart moved first in the negative direction and then in the positive direction because the velocity of the cart was negative and then changed to positive.",
+        "image": null
+      }
+    ],
+    "answer": "The cart moved first in the negative direction and then in the positive direction because the velocity of the cart was negative and then changed to positive."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.1",
+    "text": "1.1: Scalars and Vectors in One Dimension"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

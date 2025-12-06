@@ -1,0 +1,40 @@
+{
+  "id": "FT659433",
+  "type": "frq",
+  "title": "Bananas in a grocery display",
+  "content": {
+    "description": "",
+    "question": "When a certain grocery store opens, it has 50 pounds of bananas on a display table. Customers remove bananas from the display table at a rate modeled by <math> <semantics> <mrow> <mi>f</mi> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> <mo>=</mo> <mn>10</mn> <mo>+</mo> <mrow> <mo>(</mo> <mrow> <mn>0.8</mn> <mi>t</mi> </mrow> <mo>)</mo> </mrow> <mi>sin</mi> <mrow> <mo>(</mo> <mrow> <mfrac> <mrow> <msup> <mi>t</mi> <mn>3</mn> </msup> </mrow> <mrow> <mn>100</mn> </mrow> </mfrac> </mrow> <mo>)</mo> </mrow> <mtext>&nbsp;for&nbsp;</mtext> <mn>0</mn> <mo>&lt;</mo> <mi>t</mi> <mo>≤</mo> <mn>12</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbiqaaW9=qaaaaaaaaaWdbiaadAgadaqadaWdaeaapeGaamiDaaGaayjkaiaawMcaaiabg2da9iaaigdacaaIWaGaey4kaSYaaeWaa8aabaWdbiaaicdacaGGUaGaaGioaiaadshaaiaawIcacaGLPaaaciGGZbGaaiyAaiaac6gadaqadaWdaeaapeWaaSaaa8aabaWdbiaadshapaWaaWbaaSqabeaapeGaaG4maaaaaOWdaeaapeGaaGymaiaaicdacaaIWaaaaaGaayjkaiaawMcaaiaabccacaqGMbGaae4BaiaabkhacaqGGaGaaGimaiabgYda8iaadshacqGHKjYOcaaIXaGaaGOmaaaa@56AD@</annotation> </semantics> </math>, where f(t) is measured in pounds per hour and t is the number of hours after the store opened. After the store has been open for three hours, store employees add bananas to the display table at a rate modeled by <math> <semantics> <mrow> <mi>g</mi> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> <mo>=</mo> <mn>3</mn> <mo>+</mo> <mn>2.4</mn> <mi>ln</mi> <mrow> <mo>(</mo> <mrow> <msup> <mi>t</mi> <mn>2</mn> </msup> <mo>+</mo> <mn>2</mn> <mi>t</mi> </mrow> <mo>)</mo> </mrow> <mtext>&nbsp;for&nbsp;</mtext> <mn>3</mn> <mo>&lt;</mo> <mi>t</mi> <mo>≤</mo> <mn>12</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWGNbWaaeWaa8aabaWdbiaadshaaiaawIcacaGLPaaacqGH9aqpcaaIZaGaey4kaSIaaGOmaiaac6cacaaI0aGaciiBaiaac6gadaqadaWdaeaapeGaamiDa8aadaahaaWcbeqaa8qacaaIYaaaaOGaey4kaSIaaGOmaiaadshaaiaawIcacaGLPaaacaqGGaGaaeOzaiaab+gacaqGYbGaaeiiaiaaiodacqGH8aapcaWG0bGaeyizImQaaGymaiaaikdaaaa@509D@</annotation> </semantics> </math>, where g(t) is measured in pounds per hour and t is the number of hours after the store opened. (a) How many pounds of bananas are removed from the display table during the first 2 hours the store is open?",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "When a certain grocery store opens, it has 50 pounds of bananas on a display table. Customers remove bananas from the display table at a rate modeled by <math> <semantics> <mrow> <mi>f</mi> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> <mo>=</mo> <mn>10</mn> <mo>+</mo> <mrow> <mo>(</mo> <mrow> <mn>0.8</mn> <mi>t</mi> </mrow> <mo>)</mo> </mrow> <mi>sin</mi> <mrow> <mo>(</mo> <mrow> <mfrac> <mrow> <msup> <mi>t</mi> <mn>3</mn> </msup> </mrow> <mrow> <mn>100</mn> </mrow> </mfrac> </mrow> <mo>)</mo> </mrow> <mtext>&nbsp;for&nbsp;</mtext> <mn>0</mn> <mo>&lt;</mo> <mi>t</mi> <mo>≤</mo> <mn>12</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbiqaaW9=qaaaaaaaaaWdbiaadAgadaqadaWdaeaapeGaamiDaaGaayjkaiaawMcaaiabg2da9iaaigdacaaIWaGaey4kaSYaaeWaa8aabaWdbiaaicdacaGGUaGaaGioaiaadshaaiaawIcacaGLPaaaciGGZbGaaiyAaiaac6gadaqadaWdaeaapeWaaSaaa8aabaWdbiaadshapaWaaWbaaSqabeaapeGaaG4maaaaaOWdaeaapeGaaGymaiaaicdacaaIWaaaaaGaayjkaiaawMcaaiaabccacaqGMbGaae4BaiaabkhacaqGGaGaaGimaiabgYda8iaadshacqGHKjYOcaaIXaGaaGOmaaaa@56AD@</annotation> </semantics> </math>, where f(t) is measured in pounds per hour and t is the number of hours after the store opened. After the store has been open for three hours, store employees add bananas to the display table at a rate modeled by <math> <semantics> <mrow> <mi>g</mi> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> <mo>=</mo> <mn>3</mn> <mo>+</mo> <mn>2.4</mn> <mi>ln</mi> <mrow> <mo>(</mo> <mrow> <msup> <mi>t</mi> <mn>2</mn> </msup> <mo>+</mo> <mn>2</mn> <mi>t</mi> </mrow> <mo>)</mo> </mrow> <mtext>&nbsp;for&nbsp;</mtext> <mn>3</mn> <mo>&lt;</mo> <mi>t</mi> <mo>≤</mo> <mn>12</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWGNbWaaeWaa8aabaWdbiaadshaaiaawIcacaGLPaaacqGH9aqpcaaIZaGaey4kaSIaaGOmaiaac6cacaaI0aGaciiBaiaac6gadaqadaWdaeaapeGaamiDa8aadaahaaWcbeqaa8qacaaIYaaaaOGaey4kaSIaaGOmaiaadshaaiaawIcacaGLPaaacaqGGaGaaeOzaiaab+gacaqGYbGaaeiiaiaaiodacqGH8aapcaWG0bGaeyizImQaaGymaiaaikdaaaa@509D@</annotation> </semantics> </math>, where g(t) is measured in pounds per hour and t is the number of hours after the store opened. (a) How many pounds of bananas are removed from the display table during the first 2 hours the store is open?",
+        "image": null
+      },
+      {
+        "text": "(b) Find f'(7). Using correct units, explain the meaning of f'(7) in the context of the problem.",
+        "image": null
+      },
+      {
+        "text": "(c) Is the number of pounds of bananas on the display table increasing or decreasing at time t = 5? Give a reason for your answer.",
+        "image": null
+      },
+      {
+        "text": "(d) How many pounds of bananas are on the display table at time t = 8?",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Contextual Applications of Differentiation"
+  },
+  "topic": {
+    "code": "4.1",
+    "text": "4.1: Interpreting the Meaning of the Derivative in Context"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

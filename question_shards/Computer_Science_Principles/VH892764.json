@@ -1,0 +1,37 @@
+{
+  "id": "VH892764",
+  "type": "mcq",
+  "title": "Requirements for binary search",
+  "content": {
+    "description": "",
+    "question": "Which of the following conditions must be met in order for the procedure to work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The length of numList must be even.",
+        "image": null
+      },
+      {
+        "label": "The list numList must not contain any duplicate values.",
+        "image": null
+      },
+      {
+        "label": "The values in numList must be in sorted order.",
+        "image": null
+      },
+      {
+        "label": "The value of target must not be equal to -1.",
+        "image": null
+      }
+    ],
+    "answer": "The values in numList must be in sorted order."
+  },
+  "topic": {
+    "code": "3.11",
+    "text": "3.11: Binary Search"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Investigate the situation, context, or task."
+  }
+}

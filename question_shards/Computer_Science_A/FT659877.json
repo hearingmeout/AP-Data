@@ -1,0 +1,41 @@
+{
+  "id": "FT659877",
+  "type": "mcq",
+  "title": "Replacing items in nameList ArrayList",
+  "content": {
+    "description": "Consider the following method that is intended to modify its parameter nameList by replacing all occurrences of name with newValue.",
+    "question": "public void replace(ArrayList<String> nameList, String name, String newValue) { for (int j = 0; j < nameList.size(); j++) { if ( /* expression */ ) { nameList.set(j, newValue); } } } Which of the following can be used to replace /* expression */ so that replace will work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "nameList.get(j).equals(name)",
+        "image": null
+      },
+      {
+        "label": "nameList.get(j) == name",
+        "image": null
+      },
+      {
+        "label": "nameList[j] == name",
+        "image": null
+      },
+      {
+        "label": "nameList[j].equals(name)",
+        "image": null
+      }
+    ],
+    "answer": "nameList.get(j).equals(name)"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Comparing Boolean Expressions"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

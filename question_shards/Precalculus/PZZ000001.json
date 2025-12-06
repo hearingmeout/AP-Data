@@ -1,0 +1,41 @@
+{
+  "id": "PZZ000001",
+  "type": "mcq",
+  "title": "Implicitly Defined - rate of change",
+  "content": {
+    "description": "<math alttext=\"x\"><mi>x</mi></math>",
+    "question": "<math alttext=\"y\"><mi>y</mi></math><math alttext=\"fraction numerator square root of 2 over denominator 2 end fraction\"><mfrac><msqrt><mn>2</mn></msqrt><mn>2</mn></mfrac></math><math alttext=\"negative fraction numerator square root of 2 over denominator 2 end fraction\"><mo>-</mo><mfrac><msqrt><mn>2</mn></msqrt><mn>2</mn></mfrac></math><math alttext=\"fraction numerator square root of 3 over denominator 2 end fraction\"><mfrac><msqrt><mn>3</mn></msqrt><mn>2</mn></mfrac></math><math alttext=\"negative 1 half\"><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math> The table gives ordered pairs <math alttext=\"open parentheses x comma y close parentheses\"><mfenced><mrow><mi>x</mi><mo>,</mo><mi>y</mi></mrow></mfenced></math> that are close together and satisfy the equation in two variables <math alttext=\"x squared plus y squared equals 1\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>1</mn></math>. Which of the following statements is true for an interval of the graph of <math alttext=\"x squared plus y squared equals 1\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>1</mn></math> in the <math alttext=\"x y\"><mi>x</mi><mi>y</mi></math>-plane containing these two points?",
+    "image": null,
+    "choices": [
+      {
+        "label": "As <math alttext=\"x\"><mi>x</mi></math>-values increase, <math alttext=\"y\"><mi>y</mi></math>-values increase.",
+        "image": null
+      },
+      {
+        "label": "As <math alttext=\"x\"><mi>x</mi></math>-values increase, <math alttext=\"y\"><mi>y</mi></math>-values decrease.",
+        "image": null
+      },
+      {
+        "label": "The rate of change of <math alttext=\"y\"><mi>y</mi></math> with respect to <math alttext=\"x\"><mi>x</mi></math> is <math alttext=\"0\"><mn>0</mn></math>.",
+        "image": null
+      },
+      {
+        "label": "The rate of change of <math alttext=\"y\"><mi>y</mi></math> with respect to <math alttext=\"x\"><mi>x</mi></math> is undefined.",
+        "image": null
+      }
+    ],
+    "answer": "As <math alttext=\"x\"><mi>x</mi></math>-values increase, <math alttext=\"y\"><mi>y</mi></math>-values increase."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implicitly Defined Functions"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Describe the characteristics of a function with varying levels of precision, depending on the function representation and available mathematical tools."
+  }
+}

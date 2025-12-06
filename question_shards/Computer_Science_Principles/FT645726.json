@@ -1,0 +1,37 @@
+{
+  "id": "FT645726",
+  "type": "mcq",
+  "title": "Frequent customers of a snack bar",
+  "content": {
+    "description": "",
+    "question": "Which of the following code segments will set to for every 10th purchase a customer makes after enrolling in the frequent customer program?",
+    "image": "https://ap.oly.st/images/21bf9bcb8f06169674b989e96a1d3d80.JPG",
+    "choices": [
+      {
+        "label": "The program consists of 5 lines. Begin program Line 1: count, left arrow, one word Get Count, open parenthesis, one word customer I D, close parenthesis Line 2: IF, open parenthesis, count divided by 10 equals 0, close parenthesis Line 3: open brace Line 4: cost, left arrow, 0 Line 5: close brace End program.",
+        "image": "https://ap.oly.st/images/e17b35d11c0d2aea678efadf7dd43db5.JPG"
+      },
+      {
+        "label": "The program consists of 5 lines. Begin program Line 1: count, left arrow, one word Get Count, open parenthesis, one word customer  I D, close parenthesis Line 2: IF, open parenthesis, NOT, open parenthesis, count divided by 10 equals 0, close parenthesis, close parenthesis Line 3: open brace Line 4: cost, left arrow, 0 Line 5: close brace End program.",
+        "image": "https://ap.oly.st/images/8ae11e456c9a0801e7a1f50b9c805cce.JPG"
+      },
+      {
+        "label": "The program consists of 5 lines. Begin program Line 1: count, left arrow, one word Get Count, open parenthesis, one word customer I D, close parenthesis Line 2: IF, open parenthesis, count, MOD, 10 equals 0, close parenthesis Line 3: open brace Line 4: cost, left arrow, 0 Line 5: close brace End program.",
+        "image": "https://ap.oly.st/images/b6b6e68f8c50218164227f3bc526f9d3.JPG"
+      },
+      {
+        "label": "The program consists of 5 lines. Begin program Line 1: count, left arrow, one word Get Count, open parenthesis, one word customer I D, close parenthesis Line 2: IF, open parenthesis, NOT, open parenthesis, count, MOD, 10 equals 0, close parenthesis, close parenthesis Line 3: open brace Line 4: cost, left arrow, 0 Line 5: close brace End program.",
+        "image": "https://ap.oly.st/images/c402a5d3e0e55a8b979f5aceff5f006a.JPG"
+      }
+    ],
+    "answer": "The program consists of 5 lines. Begin program Line 1: count, left arrow, one word Get Count, open parenthesis, one word customer I D, close parenthesis Line 2: IF, open parenthesis, count, MOD, 10 equals 0, close parenthesis Line 3: open brace Line 4: cost, left arrow, 0 Line 5: close brace End program."
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Mathematical Expressions"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

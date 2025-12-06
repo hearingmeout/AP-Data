@@ -1,0 +1,41 @@
+{
+  "id": "UGJ000001",
+  "type": "mcq",
+  "title": "Build newList from oldList - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following can replace /* missing code */ to produce this result?",
+    "image": null,
+    "choices": [
+      {
+        "label": "for (String s : oldList) { newList.add(s); newList.add(s); }",
+        "image": null
+      },
+      {
+        "label": "for (String s : oldList) { newList.add(s); newList.add(0, s); }",
+        "image": null
+      },
+      {
+        "label": "for (int j = 0; j < oldList.size(); j++) { newList.add(oldList.get(0)); newList.add(oldList.get(j)); }",
+        "image": null
+      },
+      {
+        "label": "for (int j = 0; j < oldList.size(); j++) { newList.add(j, oldList.get(j)); newList.add(0, oldList.get(j)); }",
+        "image": null
+      }
+    ],
+    "answer": "for (String s : oldList) { newList.add(s); newList.add(0, s); }"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

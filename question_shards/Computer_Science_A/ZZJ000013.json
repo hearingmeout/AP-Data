@@ -1,0 +1,41 @@
+{
+  "id": "ZZJ000013",
+  "type": "mcq",
+  "title": "Player information - determine design",
+  "content": {
+    "description": "",
+    "question": "A student is developing a program that will store information about players of a video game, including each player’s score and amount of time remaining, in seconds. Which of the following is the most appropriate design?",
+    "image": null,
+    "choices": [
+      {
+        "label": "An Information class with Player instance variables for the score and the amount of time remaining",
+        "image": null
+      },
+      {
+        "label": "A Player class with int instance variables for the score and the amount of time remaining",
+        "image": null
+      },
+      {
+        "label": "A Player class, a Score class, and a RemainingTime class, each with an int instance variable",
+        "image": null
+      },
+      {
+        "label": "A Score class and a RemainingTime class, each with a Player instance variable",
+        "image": null
+      }
+    ],
+    "answer": "A Player class with int instance variables for the score and the amount of time remaining"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: Abstraction and Program Design"
+  },
+  "skill": {
+    "code": "1.A",
+    "text": "1.A: Determine an appropriate program design to solve a problem or accomplish a task."
+  }
+}

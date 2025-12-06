@@ -1,0 +1,37 @@
+{
+  "id": "VR167705",
+  "type": "mcq",
+  "title": "Difference between run in parallel or in sequence",
+  "content": {
+    "description": "A certain computer has two identical processors that are able to run in parallel. The table below indicates the amount of time it takes each processor to execute each of two processes. Assume that neither process is dependent on the other.",
+    "question": "Process Execution Time on Either Processor P 30 seconds Q 45 seconds Which of the following best approximates the difference in execution time between running the two processes in parallel instead of running them one after the other on a single processor?",
+    "image": null,
+    "choices": [
+      {
+        "label": "15 seconds",
+        "image": null
+      },
+      {
+        "label": "30 seconds",
+        "image": null
+      },
+      {
+        "label": "45 seconds",
+        "image": null
+      },
+      {
+        "label": "75 seconds",
+        "image": null
+      }
+    ],
+    "answer": "30 seconds"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Parallel and Distributed Computing"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

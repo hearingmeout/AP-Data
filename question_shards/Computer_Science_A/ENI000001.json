@@ -1,0 +1,41 @@
+{
+  "id": "ENI000001",
+  "type": "mcq",
+  "title": "Method that traverses numbers - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the behavior of the method?",
+    "image": null,
+    "choices": [
+      {
+        "label": "It returns false if numbers is sorted from least to greatest and returns true otherwise.",
+        "image": null
+      },
+      {
+        "label": "It returns false if numbers is sorted from greatest to least and returns true otherwise.",
+        "image": null
+      },
+      {
+        "label": "It returns true if numbers is sorted from least to greatest and returns false otherwise.",
+        "image": null
+      },
+      {
+        "label": "It returns true if numbers is sorted from greatest to least and returns false otherwise.",
+        "image": null
+      }
+    ],
+    "answer": "It returns true if numbers is sorted from greatest to least and returns false otherwise."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.9",
+    "text": "4.9: `ArrayList` Traversals"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

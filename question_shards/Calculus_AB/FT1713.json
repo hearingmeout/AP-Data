@@ -1,0 +1,45 @@
+{
+  "id": "FT1713",
+  "type": "mcq",
+  "title": "Estimate of definite integral with Riemann sum",
+  "content": {
+    "description": "",
+    "question": "Let f be the function given by <math> <semantics> <mrow> <mi>f</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mo>=</mo><msup> <mn>9</mn> <mi>x</mi> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaWGMbWaaeWaa8aabaWdbiaadIhaaiaawIcacaGLPaaacqGH9aqp caaI5aWaaWbaaSqabeaacaWG4baaaaaa@3C99@ </annotation> </semantics> </math>. If four subintervals of equal length are used, what is the value of the right Riemann sum approximation for <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>2</mn> </msubsup> <mi>f</mi> </mrow> </mstyle> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mi>d</mi> <mi>x</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWdXaWdaeaapeGaamOzaaWcpaqaa8qacaaIWaaapaqaa8qacaaI YaaaniabgUIiYdGcdaqadaWdaeaapeGaamiEaaGaayjkaiaawMcaai aadsgacaWG4baaaa@3F92@ </annotation> </semantics> </math>?",
+    "image": null,
+    "choices": [
+      {
+        "label": "20",
+        "image": null
+      },
+      {
+        "label": "40",
+        "image": null
+      },
+      {
+        "label": "60",
+        "image": null
+      },
+      {
+        "label": "80",
+        "image": null
+      },
+      {
+        "label": "120",
+        "image": null
+      }
+    ],
+    "answer": "60"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.2",
+    "text": "6.2: Approximating Areas with Riemann Sums"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Explain how an approximated value relates to the actual value."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "FT546522",
+  "type": "mcq",
+  "title": "Expression for arc length of curve",
+  "content": {
+    "description": "",
+    "question": "The length of the curve y=ln sec x from x=0 to x=b, where <math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"0 less than b less than pi divided by 2\"> <semantics> <mrow> <mn>0</mn><mo>&lt;</mo><mi>b</mi><mo>&lt;</mo><mfrac> <mi>π</mi> <mn>2</mn> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaaIWaGaeyipaWJaamOyaiabgYda8maalaaapaqaa8qacqaHapaC a8aabaWdbiaaikdaaaaaaa@3C86@ </annotation> </semantics> </math> , may be expressed by which of the following integrals?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the integral from 0 to b of secant x with respect to x\"> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow><munderover> <mo>∫</mo> <mn>0</mn> <mi>b</mi> </munderover> <mrow> <mi>sec</mi></mrow> </mrow> </mstyle><mi>x</mi><mi>d</mi><mi>x</mi></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWdXbWdaeaapeGaci4CaiaacwgacaGGJbaal8aabaWdbiaaicda a8aabaWdbiaadkgaa0Gaey4kIipakiaadIhacaWGKbGaamiEaaaa@4033@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the integral from 0 to b of secant squared x with respect to x\"> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow><munderover> <mo>∫</mo> <mn>0</mn> <mi>b</mi> </munderover> <mrow> <msup> <mrow> <mi>sec</mi></mrow> <mn>2</mn> </msup> </mrow> </mrow> </mstyle><mi>x</mi><mi>d</mi><mi>x</mi></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWdXbWdaeaapeGaci4CaiaacwgacaGGJbWdamaaCaaaleqabaWd biaaikdaaaaapaqaa8qacaaIWaaapaqaa8qacaWGIbaaniabgUIiYd GccaWG4bGaamizaiaadIhaaaa@4130@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the integral from 0 to b of secant x times tangent x with respect to x\"> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow><munderover> <mo>∫</mo> <mn>0</mn> <mi>b</mi> </munderover> <mrow> <mo stretchy=\"false\">(</mo><mi>sec</mi><mi>x</mi><mi>tan</mi><mi>x</mi><mo stretchy=\"false\">)</mo></mrow> </mrow> </mstyle><mi>d</mi><mi>x</mi></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWdXbWdaeaapeGaaiikaiGacohacaGGLbGaai4yaiaadIhaciGG 0bGaaiyyaiaac6gacaWG4bGaaiykaaWcpaqaa8qacaaIWaaapaqaa8 qacaWGIbaaniabgUIiYdGccaWGKbGaamiEaaaa@455A@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the integral of the square root of open parentheses 1 plus open parentheses the natural log of secant x close parentheses squared close parentheses with respect to x\"> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow><munderover> <mo>∫</mo> <mn>0</mn> <mi>b</mi> </munderover> <mrow> <msqrt> <mrow> <mn>1</mn><mo>+</mo><msup> <mrow> <mo stretchy=\"false\">(</mo><mi>ln</mi><mi>sec</mi><mi>x</mi><mo stretchy=\"false\">)</mo></mrow> <mn>2</mn> </msup> </mrow> </msqrt> </mrow> </mrow> </mstyle><mi>d</mi><mi>x</mi></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWdXbWdaeaapeWaaOaaa8aabaWdbiaaigdacqGHRaWkcaGGOaGa ciiBaiaac6gaciGGZbGaaiyzaiaacogacaWG4bGaaiyka8aadaahaa Wcbeqaa8qacaaIYaaaaaqabaaapaqaa8qacaaIWaaapaqaa8qacaWG IbaaniabgUIiYdGccaWGKbGaamiEaaaa@4639@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the integral from 0 to b of the square root of open parentheses 1 plus open parentheses secant squared x times tangent squared x close parentheses close parentheses with respect to x\"> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow><munderover> <mo>∫</mo> <mn>0</mn> <mi>b</mi> </munderover> <mrow> <msqrt> <mrow> <mn>1</mn><mo>+</mo><mo stretchy=\"false\">(</mo><msup> <mrow> <mi>sec</mi></mrow> <mn>2</mn> </msup> <mi>x</mi><msup> <mrow> <mi>tan</mi></mrow> <mn>2</mn> </msup> <mi>x</mi><mo stretchy=\"false\">)</mo></mrow> </msqrt> </mrow> </mrow> </mstyle><mi>d</mi><mi>x</mi></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWdXbWdaeaapeWaaOaaa8aabaWdbiaaigdacqGHRaWkcaGGOaGa ci4CaiaacwgacaGGJbWdamaaCaaaleqabaWdbiaaikdaaaGccaWG4b GaciiDaiaacggacaGGUbWdamaaCaaaleqabaWdbiaaikdaaaGccaWG 4bGaaiykaaWcbeaaa8aabaWdbiaaicdaa8aabaWdbiaadkgaa0Gaey 4kIipakiaadsgacaWG4baaaa@494A@ </annotation> </semantics> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the integral from 0 to b of secant x with respect to x\"> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow><munderover> <mo>∫</mo> <mn>0</mn> <mi>b</mi> </munderover> <mrow> <mi>sec</mi></mrow> </mrow> </mstyle><mi>x</mi><mi>d</mi><mi>x</mi></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWdXbWdaeaapeGaci4CaiaacwgacaGGJbaal8aabaWdbiaaicda a8aabaWdbiaadkgaa0Gaey4kIipakiaadIhacaWGKbGaamiEaaaa@4033@ </annotation> </semantics> </math>"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Applications of Integration"
+  },
+  "topic": {
+    "code": "8.13",
+    "text": "8.13: (BC ONLY) The Arc Length of a Smooth, Planar Curve and Distance Traveled"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "UKG000006",
+  "type": "mcq",
+  "title": "pow sqrt abs Math methods - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following can replace /* missing code */ so that the statement works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Math.sqrt((x + y) ^ 2 / Math.abs(a, b))",
+        "image": null
+      },
+      {
+        "label": "Math.sqrt((x + y) ^ 2 / Math.abs(a - b))",
+        "image": null
+      },
+      {
+        "label": "Math.sqrt(Math.pow(x + y, 2) / Math.abs(a, b))",
+        "image": null
+      },
+      {
+        "label": "Math.sqrt(Math.pow(x + y, 2) / Math.abs(a - b))",
+        "image": null
+      }
+    ],
+    "answer": "Math.sqrt(Math.pow(x + y, 2) / Math.abs(a - b))"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: `Math` Class"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

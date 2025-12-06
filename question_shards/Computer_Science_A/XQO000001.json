@@ -1,0 +1,28 @@
+{
+  "id": "XQO000001",
+  "type": "frq",
+  "title": "EVDataSet - Data Analysis with ArrayList",
+  "content": {
+    "description": "",
+    "question": "Complete method getHighRangeVehicles. /** * Returns a list of the model names of electric vehicles whose range, * in miles, is greater than target, without any duplicate model names * Preconditions: vehicleList is not null. * No elements of vehicleList are null. * Postcondition: vehicleList is unchanged. */ public ArrayList<String> getHighRangeVehicles(int target)",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Complete method getHighRangeVehicles. /** * Returns a list of the model names of electric vehicles whose range, * in miles, is greater than target, without any duplicate model names * Preconditions: vehicleList is not null. * No elements of vehicleList are null. * Postcondition: vehicleList is unchanged. */ public ArrayList<String> getHighRangeVehicles(int target)",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.14",
+    "text": "1.14: Calling Instance Methods"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "FT2124",
+  "type": "mcq",
+  "title": "Tangent line of a function defined as an integral",
+  "content": {
+    "description": "",
+    "question": "The graph of the function f in the figure above consists of four line segments. Let g be the function defined by <math> <semantics> <mrow> <mi>g</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mo>=</mo><mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mi>x</mi> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>t</mi> <mo>)</mo></mrow><mi>d</mi><mi>t</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWGNbWaaeWaa8aabaWdbiaadIhaaiaawIcacaGLPaaacqGH9aqpdaWdXaWdaeaapeGaamOzaaWcpaqaa8qacaaIWaaapaqaa8qacaWG4baaniabgUIiYdGcdaqadaWdaeaapeGaamiDaaGaayjkaiaawMcaaiaadsgacaWG0baaaa@4460@</annotation> </semantics> </math>. Which of the following is an equation of the line tangent to the graph of g at <math> <semantics> <mrow> <mi>x</mi><mo>=</mo><mn>5</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaamiEaiabg2da9iaaiwdaaaa@38B6@</annotation> </semantics> </math>?",
+    "image": "https://ap.oly.st/images/b818f580dc48e656770e0b5423bb4433.png",
+    "choices": [
+      {
+        "label": "<math> <semantics> <mrow> <mi>y</mi><mo>+</mo><mn>1</mn><mo>=</mo><mi>x</mi><mo>−</mo><mn>5</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaamyEaiabgUcaRiaaigdacqGH9aqpcaWG4bGaeyOeI0IaaGynaaaa@3C3E@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mi>y</mi> <mo>−</mo> <mn>2</mn> <mo>=</mo> <mi>x</mi> <mo>−</mo> <mn>5</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaamyEaiabgkHiTiaaikdacqGH9aqpcaWG4bGaeyOeI0IaaGynaaaa@3C4A@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mi>y</mi><mo>−</mo><mn>2</mn><mo>=</mo><mo>−</mo><mn>1</mn><mo stretchy=\"false\">(</mo><mi>x</mi><mo>−</mo><mn>5</mn><mo stretchy=\"false\">)</mo> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaamyEaiabgkHiTiaaikdacqGH9aqpcqGHsislcaaIXaGaaiikaiaadIhacqGHsislcaaI1aGaaiykaaaa@3F4B@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mi>y</mi><mo>+</mo><mn>2</mn><mo>=</mo><mi>x</mi><mo>−</mo><mn>5</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaamyEaiabgUcaRiaaikdacqGH9aqpcaWG4bGaeyOeI0IaaGynaaaa@3C3F@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mi>y</mi><mo>+</mo><mn>2</mn><mo>=</mo><mo>−</mo><mn>1</mn><mo stretchy=\"false\">(</mo><mi>x</mi><mo>−</mo><mn>5</mn><mo stretchy=\"false\">)</mo> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaamyEaiabgUcaRiaaikdacqGH9aqpcqGHsislcaaIXaGaaiikaiaadIhacqGHsislcaaI1aGaaiykaaaa@3F40@</annotation> </semantics> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <semantics> <mrow> <mi>y</mi><mo>+</mo><mn>2</mn><mo>=</mo><mo>−</mo><mn>1</mn><mo stretchy=\"false\">(</mo><mi>x</mi><mo>−</mo><mn>5</mn><mo stretchy=\"false\">)</mo> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaamyEaiabgUcaRiaaikdacqGH9aqpcqGHsislcaaIXaGaaiikaiaadIhacqGHsislcaaI1aGaaiykaaaa@3F40@</annotation> </semantics> </math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.5",
+    "text": "6.5: Interpreting the Behavior of Accumulation Functions Involving Area"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Identify how mathematical characteristics or properties of functions are related in different representations."
+  }
+}

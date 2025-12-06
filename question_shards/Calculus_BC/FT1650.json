@@ -1,0 +1,45 @@
+{
+  "id": "FT1650",
+  "type": "mcq",
+  "title": "Estimate value of a function from first derivative",
+  "content": {
+    "description": "A differentiable function <math> <mi>f</mi> </math> has the property that <math> <mrow> <msup> <mi>f</mi> <mo>′</mo> </msup> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>≤</mo> <mn>3</mn> </mrow> </math> for <math> <mrow> <mn>1</mn> <mo>≤</mo> <mi>x</mi> <mo>≤</mo> <mn>8</mn> </mrow> </math> and <math> <mrow> <mi>f</mi> <mrow> <mo>(</mo> <mn>5</mn> <mo>)</mo> </mrow> <mo>=</mo> <mn>6</mn> </mrow> </math>. Which of the following could be true?",
+    "question": "I. <math> <mrow> <mi>f</mi> <mrow> <mo>(</mo> <mn>2</mn> <mo>)</mo> </mrow> <mo>=</mo> <mn>0</mn> </mrow> </math> II. <math> <mrow> <mi>f</mi> <mrow> <mo>(</mo> <mn>6</mn> <mo>)</mo> </mrow> <mo>=</mo> <mo>−</mo> <mn>2</mn> </mrow> </math> III. <math> <mrow> <mi>f</mi><mrow><mo>(</mo> <mn>7</mn> <mo>)</mo></mrow><mo>=</mo><mn>13</mn></mrow> </math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "I only",
+        "image": null
+      },
+      {
+        "label": "II only",
+        "image": null
+      },
+      {
+        "label": "I and II only",
+        "image": null
+      },
+      {
+        "label": "I and III only",
+        "image": null
+      },
+      {
+        "label": "II and III only",
+        "image": null
+      }
+    ],
+    "answer": "I and II only"
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.1",
+    "text": "5.1: Using the Mean Value Theorem"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Provide reasons or rationales for solutions and conclusions."
+  }
+}

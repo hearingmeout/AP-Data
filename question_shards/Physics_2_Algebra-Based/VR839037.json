@@ -1,0 +1,41 @@
+{
+  "id": "VR839037",
+  "type": "mcq",
+  "title": "Kirchhoff loop - identical resistors A B C and D",
+  "content": {
+    "description": "",
+    "question": "The figure shows a circuit consisting of a battery and four identical resistors, labeled <math alttext=\"A\" display=\"inline\" overflow=\"scroll\"><mtext>A</mtext></math>, <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mtext>B</mtext></math>, <math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mtext>C</mtext></math>, and <math alttext=\"D\" display=\"inline\" overflow=\"scroll\"><mtext>D</mtext></math>, each with the same resistance <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math>. Do resistors <math alttext=\"A\" display=\"inline\" overflow=\"scroll\"><mtext>A</mtext></math> and <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mtext>B</mtext></math> have equal currents? What evidence or reasoning supports the claim?",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_2_Algebra-Based/93c795d108c52b09759019b9331e6131.svg",
+    "choices": [
+      {
+        "label": "Yes, resistors <math alttext=\"A\" display=\"inline\" overflow=\"scroll\"><mtext>A</mtext></math> and <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mtext>B</mtext></math> have equal currents. They both have resistance <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math> and are in parallel with each other.",
+        "image": null
+      },
+      {
+        "label": "Yes, resistors <math alttext=\"A\" display=\"inline\" overflow=\"scroll\"><mtext>A</mtext></math> and <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mtext>B</mtext></math> have equal currents. They both have a terminal at the same potential as the positive terminal of the battery.",
+        "image": null
+      },
+      {
+        "label": "No, resistors <math alttext=\"A\" display=\"inline\" overflow=\"scroll\"><mtext>A</mtext></math> and <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mtext>B</mtext></math> do not have equal currents. The current in Resistor <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mtext>B</mtext></math> is equal to the sum of the currents in resistors <math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mtext>C</mtext></math> and <math alttext=\"D\" display=\"inline\" overflow=\"scroll\"><mtext>D</mtext></math>.",
+        "image": null
+      },
+      {
+        "label": "No, resistors <math alttext=\"A\" display=\"inline\" overflow=\"scroll\"><mtext>A</mtext></math> and <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mtext>B</mtext></math> do not have equal currents. The equivalent resistance of the circuit branch containing Resistor <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mtext>B</mtext></math> is different than <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math>.",
+        "image": null
+      }
+    ],
+    "answer": "No, resistors <math alttext=\"A\" display=\"inline\" overflow=\"scroll\"><mtext>A</mtext></math> and <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mtext>B</mtext></math> do not have equal currents. The equivalent resistance of the circuit branch containing Resistor <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mtext>B</mtext></math> is different than <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math>."
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.6",
+    "text": "11.6: Kirchhoff's Loop Rule"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

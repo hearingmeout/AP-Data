@@ -1,0 +1,41 @@
+{
+  "id": "VLC000001",
+  "type": "mcq",
+  "title": "Equivalent Boolean expression",
+  "content": {
+    "description": "Assume that x, y, and z are boolean variables that have been properly declared and initialized.",
+    "question": "Which of the following expressions is equivalent to !x || !y || z?",
+    "image": null,
+    "choices": [
+      {
+        "label": "!(x && y) && z",
+        "image": null
+      },
+      {
+        "label": "!(x && y) || z",
+        "image": null
+      },
+      {
+        "label": "!(x || y) && z",
+        "image": null
+      },
+      {
+        "label": "!(x || y) || z",
+        "image": null
+      }
+    ],
+    "answer": "!(x && y) || z"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.5",
+    "text": "2.5: Compound Boolean Expressions"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VH904438",
+  "type": "mcq",
+  "title": "School too hot",
+  "content": {
+    "description": "A school that does not have air conditioning has published a policy to close school when the outside temperature reaches or exceeds 95°F. The following code segment is intended to print a message indicating whether or not the school is open, based on the temperature. Assume that the variable degrees has been properly declared and initialized with the outside temperature.",
+    "question": "if (degrees > 95){System.out.println(\"School will be closed due to extreme heat\");}else{System.out.println(\"School is open\");}Which of the following initializations for degrees, if any, will demonstrate that the code segment may not work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "degrees = 94;",
+        "image": null
+      },
+      {
+        "label": "degrees = 95;",
+        "image": null
+      },
+      {
+        "label": "degrees = 96;",
+        "image": null
+      },
+      {
+        "label": "The code will work as intended for all values of degrees.",
+        "image": null
+      }
+    ],
+    "answer": "degrees = 95;"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: `if` Statements"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

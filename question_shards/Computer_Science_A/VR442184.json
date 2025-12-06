@@ -1,0 +1,41 @@
+{
+  "id": "VR442184",
+  "type": "mcq",
+  "title": "alphabetically last word",
+  "content": {
+    "description": "Consider the following instance variable and incomplete method. The method is intended to return a string from the array words that would be last alphabetically.",
+    "question": "private String[] words; public String findLastWord() { /* missing implementation */ } Assume that words has been initialized with one or more strings containing only lowercase letters. Which of the following code segments can be used to replace /* missing implementation */ so that findLastWord will work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "int maxIndex = 0;for (int k = 0; k < words.length; k++){if (words[k].compareTo(maxIndex) > 0){maxIndex = k;}}return words[maxIndex];",
+        "image": null
+      },
+      {
+        "label": "int maxIndex = 0;for (int k = 1; k <= words.length; k++){if (words[k].compareTo(words[maxIndex]) > 0){maxIndex = k;}}return words[maxIndex];",
+        "image": null
+      },
+      {
+        "label": "int maxIndex = 0;for (int k = 1; k < words.length; k++){if (words[k].compareTo(words[maxIndex]) > 0){maxIndex = k;}}return maxIndex;",
+        "image": null
+      },
+      {
+        "label": "String maxWord = words[0];for (int k = 1; k < words.length; k++){if (words[k].compareTo(maxWord) > 0){maxWord = words[k];}}return maxWord;",
+        "image": null
+      }
+    ],
+    "answer": "String maxWord = words[0];for (int k = 1; k < words.length; k++){if (words[k].compareTo(maxWord) > 0){maxWord = words[k];}}return maxWord;"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implementing Array Algorithms"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "SWZ000004",
+  "type": "mcq",
+  "title": "Instantiate Person object - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following statements does not correctly create an object of type Person?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Person p1 = new Person(1138, true);",
+        "image": null
+      },
+      {
+        "label": "Person p2 = new Person(3136, 17, false);",
+        "image": null
+      },
+      {
+        "label": "Person p3 = new Person(3544, false, 18);",
+        "image": null
+      },
+      {
+        "label": "Person p4 = new Person(0, false);",
+        "image": null
+      }
+    ],
+    "answer": "Person p3 = new Person(3544, false, 18);"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.13",
+    "text": "1.13: Object Creation and Storage (Instantiation)"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

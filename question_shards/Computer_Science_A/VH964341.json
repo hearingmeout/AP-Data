@@ -1,0 +1,41 @@
+{
+  "id": "VH964341",
+  "type": "mcq",
+  "title": "missing statement in maximum method",
+  "content": {
+    "description": "Consider the following method, which is intended to return the largest value in the portion of the int array data that begins at the index start and goes to the end of the array.",
+    "question": "/** Precondition: 0 <= start < data.length */public int maximum(int[] data, int start){if (start == data.length – 1){return data[start];}/* missing statement */if (val > data[start]){return val;}else{return data[start];}}Which of the following can be used as a replacement for /* missing statement */ so that the maximum method works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "int val = maximum(data, start - 1);",
+        "image": null
+      },
+      {
+        "label": "int val = maximum(data, start + 1);",
+        "image": null
+      },
+      {
+        "label": "int val = maximum(data[start - 1], start);",
+        "image": null
+      },
+      {
+        "label": "int val = maximum(data[start + 1], start);",
+        "image": null
+      }
+    ],
+    "answer": "int val = maximum(data, start + 1);"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.16",
+    "text": "4.16: Recursion"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

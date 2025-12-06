@@ -1,0 +1,41 @@
+{
+  "id": "SVZ000009",
+  "type": "mcq",
+  "title": "Compare x and y to not x and not y - desc behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the relationship between values produced by Expression A and Expression B?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Expression A and Expression B evaluate to different values for all values of x and y.",
+        "image": null
+      },
+      {
+        "label": "Expression A and Expression B evaluate to the same value for all values of x and y.",
+        "image": null
+      },
+      {
+        "label": "Expression A and Expression B evaluate to the same value only when x and y have the same value.",
+        "image": null
+      },
+      {
+        "label": "Expression A and Expression B evaluate to the same value only when x and y have different values.",
+        "image": null
+      }
+    ],
+    "answer": "Expression A and Expression B evaluate to the same value only when x and y have different values."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Comparing Boolean Expressions"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

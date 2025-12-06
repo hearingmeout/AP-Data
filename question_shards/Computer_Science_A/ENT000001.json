@@ -1,0 +1,41 @@
+{
+  "id": "ENT000001",
+  "type": "mcq",
+  "title": "Boolean expression - result of relational operator",
+  "content": {
+    "description": "Consider the following expression.",
+    "question": "(3 + 4 == 5) != (3 + 4 >= 5) What value, if any, does the expression evaluate to?",
+    "image": null,
+    "choices": [
+      {
+        "label": "true",
+        "image": null
+      },
+      {
+        "label": "false",
+        "image": null
+      },
+      {
+        "label": "5",
+        "image": null
+      },
+      {
+        "label": "No value; relational operators cannot be used on arithmetic expressions.",
+        "image": null
+      }
+    ],
+    "answer": "true"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

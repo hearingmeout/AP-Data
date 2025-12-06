@@ -1,0 +1,41 @@
+{
+  "id": "VR652222",
+  "type": "mcq",
+  "title": "Rotational kinematics - unicycle wheel revolutions",
+  "content": {
+    "description": "",
+    "question": "A wheel initially has angular speed <math alttext=\"omega sub i\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>ω</mi><mi>i</mi></msub></mstyle></math> when it begins to accelerate at a constant rate <math alttext=\"alpha\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>α</mi></mstyle></math>, after which the wheel has angular speed <math alttext=\"omega sub f\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>ω</mi><mi>f</mi></msub></mstyle></math>. Which of the following expressions is equal to the number of revolutions the wheel goes through while accelerating? Assume that the angular speeds are in <math alttext=\"radians per second\" display=\"inline\" overflow=\"scroll\"><mtext>rad</mtext><mo>/</mo><mtext>s</mtext></math> and that the angular acceleration is in <math alttext=\"radians per second squared\" display=\"inline\" overflow=\"scroll\"><mtext>rad</mtext><mo>/</mo><msup><mtext>s</mtext><mn>2</mn></msup></math>.",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the fraction with numerator omega sub f minus omega sub i, and denominator 2 pi alpha\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><msub><mi>ω</mi><mi>f</mi></msub><mo>−</mo><msub><mi>ω</mi><mi>i</mi></msub></mrow><mrow><mn>2</mn><mi>π</mi><mi>α</mi></mrow></mfrac></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator omega sub f minus omega sub i, and denominator alpha\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><msub><mi>ω</mi><mi>f</mi></msub><mo>−</mo><msub><mi>ω</mi><mi>i</mi></msub></mrow><mi>α</mi></mfrac></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator omega sub f end sub, squared minus omega sub i end sub, squared, and denominator 4 pi alpha\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><msubsup><mi>ω</mi><mi>f</mi><mn>2</mn></msubsup><mo>−</mo><msubsup><mi>ω</mi><mi>i</mi><mn>2</mn></msubsup></mrow><mrow><mn>4</mn><mi>π</mi><mi>α</mi></mrow></mfrac></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator omega sub f end sub, squared minus omega sub i end sub, squared, and denominator 2 alpha\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><msubsup><mi>ω</mi><mi>f</mi><mn>2</mn></msubsup><mo>−</mo><msubsup><mi>ω</mi><mi>i</mi><mn>2</mn></msubsup></mrow><mrow><mn>2</mn><mi>α</mi></mrow></mfrac></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the fraction with numerator omega sub f end sub, squared minus omega sub i end sub, squared, and denominator 4 pi alpha\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><msubsup><mi>ω</mi><mi>f</mi><mn>2</mn></msubsup><mo>−</mo><msubsup><mi>ω</mi><mi>i</mi><mn>2</mn></msubsup></mrow><mrow><mn>4</mn><mi>π</mi><mi>α</mi></mrow></mfrac></mstyle></math>"
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.1",
+    "text": "5.1: Rotational Kinematics"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

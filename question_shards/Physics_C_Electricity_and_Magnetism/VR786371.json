@@ -1,0 +1,41 @@
+{
+  "id": "VR786371",
+  "type": "mcq",
+  "title": "Distributed charge - flux ratio at R to R-over-2",
+  "content": {
+    "description": "",
+    "question": "A solid, charged insulating sphere of radius <math alttext=\"uppercase R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math> has a spherically symmetric charge distribution <math alttext=\"rho\" display=\"inline\" overflow=\"scroll\"><mi>ρ</mi></math> that varies as a function of the distance <math alttext=\"lowercase r\" display=\"inline\" overflow=\"scroll\"><mi>r</mi></math> from the sphere’s center, where <math alttext=\"rho\" display=\"inline\" overflow=\"scroll\"><mi>ρ</mi></math> and <math alttext=\"lowercase r\" display=\"inline\" overflow=\"scroll\"><mi>r</mi></math> are related by the equation <math alttext=\"rho of lowercase r, equals beta times lowercase r\" display=\"inline\" overflow=\"scroll\"><mi>ρ</mi><mo stretchy=\"false\">(</mo><mi>r</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mi>β</mi><mi>r</mi></math> for <math alttext=\"0 less than or equal to lowercase r, less than or equal to uppercase R\" display=\"inline\" overflow=\"scroll\"><mn>0</mn><mo>≤</mo><mi>r</mi><mo>≤</mo><mi>R</mi></math>. The electric flux through a spherical Gaussian surface of radius <math alttext=\"uppercase R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math> concentric with the sphere is <math alttext=\"phi sub uppercase R\" display=\"inline\" overflow=\"scroll\"><msub><mi mathvariant=\"normal\">Φ</mi><mi>R</mi></msub></math>, and the electric flux through a spherical Gaussian surface of radius <math alttext=\"uppercase R over 2\" display=\"inline\" overflow=\"scroll\"><mfrac><mi>R</mi><mn>2</mn></mfrac></math> concentric with the sphere is <math alttext=\"phi sub uppercase R over 2, end sub\" display=\"inline\" overflow=\"scroll\"><msub><mi mathvariant=\"normal\">Φ</mi><mrow><mi>R</mi><mo>/</mo><mn>2</mn></mrow></msub></math>. What is the ratio <math alttext=\"phi sub uppercase R, end sub, over Phi sub uppercase R over 2, end sub\" display=\"inline\" overflow=\"scroll\"><mfrac><msub><mi mathvariant=\"normal\">Φ</mi><mi>R</mi></msub><msub><mi mathvariant=\"normal\">Φ</mi><mrow><mi>R</mi><mo>/</mo><mn>2</mn></mrow></msub></mfrac></math>?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"4\" display=\"inline\" overflow=\"scroll\"><mn>4</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"8\" display=\"inline\" overflow=\"scroll\"><mn>8</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"16\" display=\"inline\" overflow=\"scroll\"><mn>16</mn></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"16\" display=\"inline\" overflow=\"scroll\"><mn>16</mn></math>"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Electric Charges, Fields, and Gauss's Law"
+  },
+  "topic": {
+    "code": "8.6",
+    "text": "8.6: Gauss's Law"
+  },
+  "skill": {
+    "code": "2.D",
+    "text": "2.D: Predict new values or factors of change of physical quantities using functional dependence between variables."
+  }
+}

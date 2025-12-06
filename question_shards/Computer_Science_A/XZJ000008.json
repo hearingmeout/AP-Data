@@ -1,0 +1,41 @@
+{
+  "id": "XZJ000008",
+  "type": "mcq",
+  "title": "Selection Sort - determine the result",
+  "content": {
+    "description": "",
+    "question": "Which of the following could be the contents of arr after two passes of the outer loop (i.e., when j == 1 at the point indicated by /* end of outer loop */)?",
+    "image": null,
+    "choices": [
+      {
+        "label": "{10, 20, 50, 40, 30}",
+        "image": null
+      },
+      {
+        "label": "{10, 30, 50, 40, 20}",
+        "image": null
+      },
+      {
+        "label": "{20, 10, 50, 40, 30}",
+        "image": null
+      },
+      {
+        "label": "{20, 30, 50, 40, 10}",
+        "image": null
+      }
+    ],
+    "answer": "{10, 20, 50, 40, 30}"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.15",
+    "text": "4.15: Sorting Algorithms"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

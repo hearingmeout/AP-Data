@@ -1,0 +1,41 @@
+{
+  "id": "FT659883",
+  "type": "mcq",
+  "title": "Sorting an int array",
+  "content": {
+    "description": "The following incomplete method is intended to sort its array parameter arr in increasing order.",
+    "question": "// postcondition: arr is sorted in increasing order public static void sortArray(int[] arr) { int j, k; for (j = arr.length - 1; j > 0; j--) { int pos = j; for ( /* missing code */ ) { if (arr[k] > arr[pos]) { pos = k; } } swap(arr, j, pos); } } Assume that swap(arr, j, pos) exchanges the values of arr[j] and arr[pos]. Which of the following could be used to replace /* missing code */ so that executing the code segment sorts the values in array arr?",
+    "image": null,
+    "choices": [
+      {
+        "label": "k = j - 1; k > 0; k--",
+        "image": null
+      },
+      {
+        "label": "k = j - 1; k >= 0; k--",
+        "image": null
+      },
+      {
+        "label": "k = 1; k < arr.length; k++",
+        "image": null
+      },
+      {
+        "label": "k = 0; k <= arr.length; k++",
+        "image": null
+      }
+    ],
+    "answer": "k = j - 1; k >= 0; k--"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.4",
+    "text": "4.4: Array Traversals"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

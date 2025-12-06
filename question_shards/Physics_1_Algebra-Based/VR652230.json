@@ -1,0 +1,41 @@
+{
+  "id": "VR652230",
+  "type": "mcq",
+  "title": "Rotational kinematics -ang acceleration table",
+  "content": {
+    "description": "",
+    "question": "Time Angular speed Direction of rotation <math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn></math> <math alttext=\"3 radians per second \" display=\"inline\" overflow=\"scroll\"><mn>3</mn><mspace width=\"0.2em\"></mspace><mtext>rad/s</mtext></math> Unknown <math alttext=\"t equals 10 seconds\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>10</mn><mspace width=\"0.2em\"></mspace><mi mathvariant=\"normal\">s</mi></math> <math alttext=\"2 radians per second\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mspace width=\"0.2em\"></mspace><mtext>rad/s</mtext></math> Counterclockwise A student is provided with the data shown in the table for the angular speed of a wheel. Does the student have enough information to calculate the average angular acceleration of the wheel? Why or why not?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Yes, because the average angular acceleration only depends on the change in angular speed and the time.",
+        "image": null
+      },
+      {
+        "label": "Yes, because the angular acceleration only depends on the final values of the angular speed and the time.",
+        "image": null
+      },
+      {
+        "label": "No, because the angular displacement needs to be known along with change in angular speed and time.",
+        "image": null
+      },
+      {
+        "label": "No, because the initial direction of rotation must be known to calculate the change in the angular velocity.",
+        "image": null
+      }
+    ],
+    "answer": "No, because the initial direction of rotation must be known to calculate the change in the angular velocity."
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.1",
+    "text": "5.1: Rotational Kinematics"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

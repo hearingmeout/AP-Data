@@ -1,0 +1,40 @@
+{
+  "id": "FT659418",
+  "type": "frq",
+  "title": "Trains with table",
+  "content": {
+    "description": "",
+    "question": "Train A runs back and forth on an east-west section of railroad track. Train A's velocity, measured in meters per minute, is given by a differentiable function vA(t), where time t is measured in minutes. Selected values for vA(t) are given in the table above. (a) Find the average acceleration of train A over the interval 2 ≤ t ≤ 8.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Train A runs back and forth on an east-west section of railroad track. Train A's velocity, measured in meters per minute, is given by a differentiable function vA(t), where time t is measured in minutes. Selected values for vA(t) are given in the table above. (a) Find the average acceleration of train A over the interval 2 ≤ t ≤ 8.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Calculus_AB/original.png"
+      },
+      {
+        "text": "(b) Do the data in the table support the conclusion that train A's velocity is -100 meters per minute at some time t with 5 < t < 8? Give a reason for your answer.",
+        "image": null
+      },
+      {
+        "text": "(c) At time t = 2, train A's position is 300 meters east of the Origin Station, and the train is moving to the east. Write an expression involving an integral that gives the position of train A, in meters from the Origin Station, at time t = 12. Use a trapezoidal sum with three subintervals indicated by the table to approximate the position of the train at time t = 12.",
+        "image": null
+      },
+      {
+        "text": "(d) A second train, train B, travels north from the Origin Station. At time t the velocity of train B is given by vB(t) = -5t2 + 60t + 25, and at time t = 2 the train is 400 meters north of the station. Find the rate, in meters per minute, at which the distance between train A and train B is changing at time t = 2.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.16",
+    "text": "1.16: Working with the Intermediate Value Theorem (IVT)"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

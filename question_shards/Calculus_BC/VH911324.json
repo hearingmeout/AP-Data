@@ -1,0 +1,41 @@
+{
+  "id": "VH911324",
+  "type": "mcq",
+  "title": "Processes - Antidifferentiation Techniques",
+  "content": {
+    "description": "",
+    "question": "Which of the following is equivalent to <math alttext=\"the indefinite integral of, the cosine of, open parenthesis, 4 x, close parenthesis, times the fifth power of the sine of, open parenthesis, 4 x, close parenthesis, d x\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mo>∫</mo><mrow><mi>cos</mi><mo>⁡</mo><mrow><mo>(</mo><mn>4</mn><mi>x</mi><mo>)</mo></mrow><mrow><msup><mrow><mi>sin</mi></mrow><mrow><mn>5</mn></mrow></msup><mrow><mo>(</mo><mn>4</mn><mi>x</mi><mo>)</mo></mrow></mrow></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"one fourth times, the indefinite integral of, cosine u, d u, times, one fourth times, the indefinite integral of, the fifth power of sine, u, d u\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac><mrow><mo>∫</mo><mrow><mi>cos</mi><mo>⁡</mo><mi>u</mi></mrow><mo>ⅆ</mo><mrow><mi>u</mi></mrow></mrow><mo>⋅</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac><mrow><mo>∫</mo><mrow><msup><mrow><mi>sin</mi></mrow><mrow><mn>5</mn></mrow></msup><mi>u</mi></mrow><mo>ⅆ</mo><mrow><mi>u</mi></mrow></mrow></mrow></mstyle></mrow></math>, where <math alttext=\"u equals, 4 x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>u</mi><mo>=</mo><mn>4</mn><mi>x</mi></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the indefinite integral of, the cosine of, open parenthesis, 4 x, close parenthesis, d x, times, the indefinite integral of, the fifth power of the sine of, open parenthesis, 4 x, close parenthesis, d x\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mrow><mo>∫</mo><mrow><mi>cos</mi><mo>⁡</mo><mrow><mo>(</mo><mn>4</mn><mi>x</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow><mo>⋅</mo><mrow><mo>∫</mo><mrow><msup><mrow><mi>sin</mi></mrow><mrow><mn>5</mn></mrow></msup><mo>⁡</mo><mrow><mo>(</mo><mn>4</mn><mi>x</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one fourth times, the indefinite integral of, u to the fifth power, d u\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac><mrow><mo>∫</mo><mrow><msup><mrow><mi>u</mi></mrow><mrow><mn>5</mn></mrow></msup></mrow><mo>ⅆ</mo><mrow><mi>u</mi></mrow></mrow></mrow></mstyle></math>, where <math alttext=\"u equals, the sine of, open parenthesis, 4 x, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>u</mi><mo>=</mo><mi>sin</mi><mo>⁡</mo><mrow><mo>(</mo><mn>4</mn><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the indefinite integral of, u to the fifth power, d u\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mrow><mo>∫</mo><mrow><msup><mrow><mi>u</mi></mrow><mrow><mn>5</mn></mrow></msup></mrow><mo>ⅆ</mo><mrow><mi>u</mi></mrow></mrow></mrow></mstyle></math>, where <math alttext=\"u equals, the sine of, open parenthesis, 4 x, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>u</mi><mo>=</mo><mi>sin</mi><mo>⁡</mo><mrow><mo>(</mo><mn>4</mn><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"one fourth times, the indefinite integral of, u to the fifth power, d u\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac><mrow><mo>∫</mo><mrow><msup><mrow><mi>u</mi></mrow><mrow><mn>5</mn></mrow></msup></mrow><mo>ⅆ</mo><mrow><mi>u</mi></mrow></mrow></mrow></mstyle></math>, where <math alttext=\"u equals, the sine of, open parenthesis, 4 x, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>u</mi><mo>=</mo><mi>sin</mi><mo>⁡</mo><mrow><mo>(</mo><mn>4</mn><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.14",
+    "text": "6.14: Selecting Techniques for Antidifferentiation"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Identify an appropriate mathematical rule or procedure based on the classification of a given expression (e.g., Use the chain rule to find the derivative of a composite function)."
+  }
+}

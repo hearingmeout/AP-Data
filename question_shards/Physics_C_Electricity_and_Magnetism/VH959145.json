@@ -1,0 +1,45 @@
+{
+  "id": "VH959145",
+  "type": "mcq",
+  "title": "Online news",
+  "content": {
+    "description": "",
+    "question": "A recent study reported that <math alttext=\"45\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>45</mn></mrow></mstyle></math> percent of adults in the United States now get all their news online. A random sample of <math alttext=\"8\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>8</mn></mrow></mstyle></math> adults in the United States will be selected. What is the probability that <math alttext=\"6\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>6</mn></mrow></mstyle></math> of the selected adults get all their news online?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"6 choose 2, times 0.45 to the eighth power times 0.55 squared\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mrow><mtable><mtr><mtd><mrow><mn>6</mn></mrow></mtd></mtr><mtr><mtd><mn>2</mn></mtd></mtr></mtable></mrow><mo>)</mo></mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>0.45</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mn>8</mn></mrow></msup><msup><mrow><mo stretchy=\"false\">(</mo><mn>0.55</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"6 choose 2, times 0.45 to the sixth power times 0.55 squared\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mrow><mtable><mtr><mtd><mrow><mn>6</mn></mrow></mtd></mtr><mtr><mtd><mn>2</mn></mtd></mtr></mtable></mrow><mo>)</mo></mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>0.45</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mn>6</mn></mrow></msup><msup><mrow><mo stretchy=\"false\">(</mo><mn>0.55</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"8 choose 6, times 0.45 squared times 0.55 to the eighth power\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mrow><mtable><mtr><mtd><mrow><mn>8</mn></mrow></mtd></mtr><mtr><mtd><mn>6</mn></mtd></mtr></mtable></mrow><mo>)</mo></mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>0.45</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mo stretchy=\"false\">(</mo><mn>0.55</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mn>8</mn></mrow></msup></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"8 choose 6, times 0.45 to the sixth power times 0.55 squared\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mrow><mtable><mtr><mtd><mrow><mn>8</mn></mrow></mtd></mtr><mtr><mtd><mn>6</mn></mtd></mtr></mtable></mrow><mo>)</mo></mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>0.45</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mn>6</mn></mrow></msup><msup><mrow><mo stretchy=\"false\">(</mo><mn>0.55</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"8 choose 6, times 0.45 to the eighth power times 0.55 to the sixth power\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mrow><mtable><mtr><mtd><mrow><mn>8</mn></mrow></mtd></mtr><mtr><mtd><mn>6</mn></mtd></mtr></mtable></mrow><mo>)</mo></mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>0.45</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mn>8</mn></mrow></msup><msup><mrow><mo stretchy=\"false\">(</mo><mn>0.55</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mn>6</mn></mrow></msup></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"8 choose 6, times 0.45 to the sixth power times 0.55 squared\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mrow><mtable><mtr><mtd><mrow><mn>8</mn></mrow></mtd></mtr><mtr><mtd><mn>6</mn></mtd></mtr></mtable></mrow><mo>)</mo></mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>0.45</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mn>6</mn></mrow></msup><msup><mrow><mo stretchy=\"false\">(</mo><mn>0.55</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.10",
+    "text": "4.10: Introduction to the Binomial Distribution"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+  }
+}

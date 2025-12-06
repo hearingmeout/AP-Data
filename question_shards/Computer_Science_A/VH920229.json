@@ -1,0 +1,41 @@
+{
+  "id": "VH920229",
+  "type": "mcq",
+  "title": "array of Toy objects",
+  "content": {
+    "description": "Consider the following class definition.",
+    "question": "public class Toy{private int yearFirstSold;public int getYearFirstSold(){return yearFirstSold;}/* There may be instance variables, constructors, and other methods not shown. */}The following code segment, which appears in a class other than Toy, prints the year each Toy object in toyArray was first sold by its manufacturer. Assume that toyArray is a properly declared and initialized array of Toy objects.for (Toy k : toyArray){System.out.println(k.getYearFirstSold());}Which of the following could be used in place of the given code segment to produce the same output?I.for (int k = 0; k < toyArray.length; k++){System.out.println(getYearFirstSold(k));}II.for (int k = 0; k < toyArray.length; k++){System.out.println(k.getYearFirstSold());}III.for (int k = 0; k < toyArray.length; k++){System.out.println(toyArray[k].getYearFirstSold());}",
+    "image": null,
+    "choices": [
+      {
+        "label": "II only",
+        "image": null
+      },
+      {
+        "label": "III only",
+        "image": null
+      },
+      {
+        "label": "I and II",
+        "image": null
+      },
+      {
+        "label": "II and III",
+        "image": null
+      }
+    ],
+    "answer": "III only"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.4",
+    "text": "4.4: Array Traversals"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

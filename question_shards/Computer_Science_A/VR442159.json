@@ -1,0 +1,41 @@
+{
+  "id": "VR442159",
+  "type": "mcq",
+  "title": "mystery method on array",
+  "content": {
+    "description": "Consider the following method.",
+    "question": "public static int mystery(int[] arr) { int count = 0; int curr = arr[arr.length - 1]; for (int value : arr) { if (value > curr) { count = count + 1; } else { count = count – 1; } curr = value; } return count; } The following code segment appears in another method of the same class. int[] arr = {4, 14, 15, 3, 14, 18, 19}; System.out.println(mystery(arr)); What is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "-7",
+        "image": null
+      },
+      {
+        "label": "-6",
+        "image": null
+      },
+      {
+        "label": "3",
+        "image": null
+      },
+      {
+        "label": "5",
+        "image": null
+      }
+    ],
+    "answer": "3"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: `if` Statements"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

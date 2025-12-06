@@ -1,0 +1,44 @@
+{
+  "id": "VR252101",
+  "type": "frq",
+  "title": "Multi-focus - sleep habits bias simulation",
+  "content": {
+    "description": "",
+    "question": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations.A sociologist is interested in examining the sleep habits of United States teenagers. The sociologist posted an online poll on social media that asked teenagers to respond to the question, “Do you usually sleep at least seven hours per day?”(a) Explain how the sociologist’s sampling method might have introduced bias and describe how the bias might affect the point estimate of <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>, the proportion of all United States teenagers who would respond “yes” to the question.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations.A sociologist is interested in examining the sleep habits of United States teenagers. The sociologist posted an online poll on social media that asked teenagers to respond to the question, “Do you usually sleep at least seven hours per day?”(a) Explain how the sociologist’s sampling method might have introduced bias and describe how the bias might affect the point estimate of <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>, the proportion of all United States teenagers who would respond “yes” to the question.",
+        "image": null
+      },
+      {
+        "text": "Suppose that <math alttext=\"67%\" overflow=\"scroll\"><mstyle><mrow><mn>67</mn><mo>%</mo></mrow></mstyle></math> of United States teenagers sleep at least seven hours per day. Let <math alttext=\"K\" overflow=\"scroll\"><mstyle><mrow><mi>K</mi></mrow></mstyle></math> represent the number of teenagers in a random sample of eight teenagers from the United States who sleep at least seven hours per day. The graph shows the probability distribution of <math alttext=\"K\" overflow=\"scroll\"><mstyle><mrow><mi>K</mi></mrow></mstyle></math>. (b) Calculate and interpret the expected value of <math alttext=\"K\" overflow=\"scroll\"><mstyle><mrow><mi>K</mi></mrow></mstyle></math>.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_C_Electricity_and_Magnetism/VR252101.g01.png"
+      },
+      {
+        "text": "(c) Describe a simulation process that could be conducted to estimate the value of <math alttext=\"the probability of, open parenthesis, 4 is less than or equal to K, is less than or equal to 7, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>P</mi><mrow><mo>(</mo><mn>4</mn><mo>≤</mo><mi>K</mi><mo>≤</mo><mn>7</mn><mo>)</mo></mrow></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "text": "A student at a high school in the United States is interested in examining whether the <math alttext=\"2,400\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn><mtext>,400</mtext></mrow></mstyle></math> teenagers at the school have different sleep habits from the population of United States teenagers. A random sample of <math alttext=\"40\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>40</mn></mrow></mstyle></math> teenagers will be selected from the school and each teenager will be asked to report whether they usually sleep at least seven hours per day.(d) If the student uses a stratified random sampling procedure to select the sample, identify an effective variable on which to stratify. Explain your reasoning.",
+        "image": null
+      },
+      {
+        "text": "Assume the conditions for inference are met. A <math alttext=\"95\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>95</mn></mrow></mstyle></math> percent confidence interval for the proportion of all teenagers at this school who would report that they usually sleep at least seven hours per day was computed to be <math alttext=\"0.725 plus or minus 0.138\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.725</mn><mo>±</mo><mn>0.138</mn></mrow></mstyle></math>.(e) Does the confidence interval provide convincing statistical evidence that students at this high school have different sleep habits from the population of United States teenagers? Justify your answer.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Collecting Data"
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Random Sampling and Data Collection"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Describe an appropriate method for gathering and representing data."
+  }
+}

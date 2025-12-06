@@ -1,0 +1,41 @@
+{
+  "id": "VR813101",
+  "type": "mcq",
+  "title": "LR circuit - time constant with two resistors",
+  "content": {
+    "description": "",
+    "question": "The circuit shown in the figure consists of a battery of <math alttext=\"e m f\" display=\"inline\" overflow=\"scroll\"><mi>emf</mi></math> <math alttext=\"open E\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi></math>, an inductor of inductance <math alttext=\"L\" display=\"inline\" overflow=\"scroll\"><mi>L</mi></math>, an open switch, and <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> resistors of resistance <math alttext=\"R sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>1</mn></msub></math> and <math alttext=\"R sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>2</mn></msub></math>. When the switch is closed, which of the following is a correct equation for the time constant of the circuit?",
+    "image": "https://ap.oly.st/images/791338ecbe5052c118fc6f28c39026a7.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"the fraction with numerator L, and denominator R sub 1\" display=\"inline\" overflow=\"scroll\"><mfrac><mi>L</mi><msub><mi>R</mi><mn>1</mn></msub></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator L, and denominator R sub 2\" display=\"inline\" overflow=\"scroll\"><mfrac><mi>L</mi><msub><mi>R</mi><mn>2</mn></msub></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator L, and denominator R sub 1 plus R sub 2, end fraction\" display=\"inline\" overflow=\"scroll\"><mfrac><mi>L</mi><mrow><msub><mi>R</mi><mn>1</mn></msub><mo>+</mo><msub><mi>R</mi><mn>2</mn></msub></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator L times open parenthesis, R sub 1 plus R sub 2, close parenthesis, and denominator R sub 1, end sub, times R sub 2, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><mi>L</mi><mrow><mo>(</mo><msub><mi>R</mi><mn>1</mn></msub><mo>+</mo><msub><mi>R</mi><mn>2</mn></msub><mo>)</mo></mrow></mrow><mrow><msub><mi>R</mi><mn>1</mn></msub><msub><mi>R</mi><mn>2</mn></msub></mrow></mfrac></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the fraction with numerator L times open parenthesis, R sub 1 plus R sub 2, close parenthesis, and denominator R sub 1, end sub, times R sub 2, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><mi>L</mi><mrow><mo>(</mo><msub><mi>R</mi><mn>1</mn></msub><mo>+</mo><msub><mi>R</mi><mn>2</mn></msub><mo>)</mo></mrow></mrow><mrow><msub><mi>R</mi><mn>1</mn></msub><msub><mi>R</mi><mn>2</mn></msub></mrow></mfrac></mstyle></math>"
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.5",
+    "text": "13.5: Circuits with Resistors and Inductors (LR Circuits)"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

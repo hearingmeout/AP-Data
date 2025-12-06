@@ -1,0 +1,37 @@
+{
+  "id": "VH206735",
+  "type": "mcq",
+  "title": "Error in calculating sum",
+  "content": {
+    "description": "",
+    "question": "Which change, if any, is needed for the program to work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Lines 1 and 2 should be interchanged.",
+        "image": null
+      },
+      {
+        "label": "Line 3 should be changed to REPEAT UNTIL (i ≥ 10).",
+        "image": null
+      },
+      {
+        "label": "Lines 5 and 6 should be interchanged.",
+        "image": null
+      },
+      {
+        "label": "No change is needed; the program works correctly.",
+        "image": null
+      }
+    ],
+    "answer": "Lines 5 and 6 should be interchanged."
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Identifying and Correcting Errors"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Identify and correct errors in algorithms and programs, including error discovery through testing."
+  }
+}

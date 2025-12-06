@@ -1,0 +1,41 @@
+{
+  "id": "EZU000003",
+  "type": "mcq",
+  "title": "Method traversing an ArrayList - determine result",
+  "content": {
+    "description": "",
+    "question": "What are the contents of numbers after executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "[15, 4, 4, 19, 19, 7, 7]",
+        "image": null
+      },
+      {
+        "label": "[15, 4, 19, 7, 7, 19, 4, 15]",
+        "image": null
+      },
+      {
+        "label": "[15, 4, 19, 7, 15, 4, 19, 7]",
+        "image": null
+      },
+      {
+        "label": "[15, 15, 4, 4, 19, 19, 7, 7]",
+        "image": null
+      }
+    ],
+    "answer": "[15, 15, 4, 4, 19, 19, 7, 7]"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "IRG000004",
+  "type": "mcq",
+  "title": "declaration of 2D array - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following could replace /* missing code */ so that things is properly declared?",
+    "image": null,
+    "choices": [
+      {
+        "label": "new String[][] things",
+        "image": null
+      },
+      {
+        "label": "new(String[][]) things",
+        "image": null
+      },
+      {
+        "label": "String[] String[] things",
+        "image": null
+      },
+      {
+        "label": "String[][] things",
+        "image": null
+      }
+    ],
+    "answer": "String[][] things"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.11",
+    "text": "4.11: 2D Array Creation and Access"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

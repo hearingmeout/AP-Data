@@ -1,0 +1,41 @@
+{
+  "id": "HXO000003",
+  "type": "mcq",
+  "title": "Recursion - Describe initial conditions",
+  "content": {
+    "description": "",
+    "question": "Which of the following method calls can be used to demonstrate that the method does not work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "isDivisible(120, 12)",
+        "image": null
+      },
+      {
+        "label": "isDivisible(135, 5)",
+        "image": null
+      },
+      {
+        "label": "isDivisible(225, 105)",
+        "image": null
+      },
+      {
+        "label": "isDivisible(296, 341)",
+        "image": null
+      }
+    ],
+    "answer": "isDivisible(225, 105)"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.16",
+    "text": "4.16: Recursion"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

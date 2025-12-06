@@ -1,0 +1,41 @@
+{
+  "id": "VR442163",
+  "type": "mcq",
+  "title": "count 2D array columns",
+  "content": {
+    "description": "Consider the following method, which is intended to return the number of columns in the two-dimensional array arr for which the sum of the elements in the column is greater than the parameter val.",
+    "question": "public int countCols(int[][] arr, int val) { int count = 0; for (int col = 0; col < arr[0].length; col++) // Line 5 { int sum = 0; for (int[] row : col) // Line 8 { sum += row[col]; // Line 10 } if (sum > val) { count++; } } return count; } The countCols method does not work as intended. Which of the following changes should be made so the method works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Line <math alttext=\"5\" overflow=\"scroll\"><mn>5</mn></math> should be changed to for (int col = 0; col < arr.length; col++)",
+        "image": null
+      },
+      {
+        "label": "Line <math alttext=\"8\" overflow=\"scroll\"><mn>8</mn></math> should be changed to for (int row : col)",
+        "image": null
+      },
+      {
+        "label": "Line <math alttext=\"8\" overflow=\"scroll\"><mn>8</mn></math> should be changed to for (int[] row : arr)",
+        "image": null
+      },
+      {
+        "label": "Line <math alttext=\"10\" overflow=\"scroll\"><mn>10</mn></math> should be changed to sum += arr[row][col];",
+        "image": null
+      }
+    ],
+    "answer": "Line <math alttext=\"8\" overflow=\"scroll\"><mn>8</mn></math> should be changed to for (int[] row : arr)"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.12",
+    "text": "4.12: 2D Array Traversals"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

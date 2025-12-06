@@ -1,0 +1,41 @@
+{
+  "id": "VH919574",
+  "type": "mcq",
+  "title": "digitSum equivalent for loop",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "String word = \"computer\"; int num = 3; String result = \"\"; for (int k = num; k >= 0; k--) { result += word.substring(0, k); } System.out.print(result); What is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "comcoc",
+        "image": null
+      },
+      {
+        "label": "ccocomcomp",
+        "image": null
+      },
+      {
+        "label": "compcomcoc",
+        "image": null
+      },
+      {
+        "label": "comcomcomcom",
+        "image": null
+      }
+    ],
+    "answer": "comcoc"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: `for` Loops"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

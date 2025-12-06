@@ -1,0 +1,41 @@
+{
+  "id": "VR642044",
+  "type": "mcq",
+  "title": "Impulse - collision with force sensor",
+  "content": {
+    "description": "",
+    "question": "A block of mass <math alttext=\"m\" display=\"inline\" overflow=\"scroll\"><mi>m</mi></math> slides along a horizontal surface and collides with a force sensor that reports the average force <math alttext=\"F\" display=\"inline\" overflow=\"scroll\"><mi>F</mi></math> exerted by the block on the sensor and the total time <math alttext=\"delta t\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Δ</mi><mi>t</mi></math> of the collision. Friction between the block and the surface is negligible. Which of the following expressions is equal to the magnitude of the change in the velocity of the block during the collision?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"F delta t\" display=\"inline\" overflow=\"scroll\"><mi>F</mi><mtext>Δ</mtext><mi>t</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction F delta t over m\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mi>F</mi><mtext>Δ</mtext><mi>t</mi></mrow><mi>m</mi></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction F over m\" display=\"inline\" overflow=\"scroll\"><mfrac><mi>F</mi><mi>m</mi></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"F m delta t\" display=\"inline\" overflow=\"scroll\"><mi>F</mi><mi>m</mi><mi mathvariant=\"normal\">Δ</mi><mi>t</mi></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the fraction F delta t over m\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mi>F</mi><mtext>Δ</mtext><mi>t</mi></mrow><mi>m</mi></mfrac></math>"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Linear Momentum"
+  },
+  "topic": {
+    "code": "4.2",
+    "text": "4.2: Change in Momentum and Impulse"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

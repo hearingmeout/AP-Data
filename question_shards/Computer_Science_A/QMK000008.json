@@ -1,0 +1,41 @@
+{
+  "id": "QMK000008",
+  "type": "mcq",
+  "title": "Nested loop - determine result",
+  "content": {
+    "description": "",
+    "question": "How many times will Math.random() be called as a result of executing this code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "5",
+        "image": null
+      },
+      {
+        "label": "9",
+        "image": null
+      },
+      {
+        "label": "16",
+        "image": null
+      },
+      {
+        "label": "20",
+        "image": null
+      }
+    ],
+    "answer": "20"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.11",
+    "text": "2.11: Nested Iteration"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

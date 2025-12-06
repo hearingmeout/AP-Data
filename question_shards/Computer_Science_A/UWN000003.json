@@ -1,0 +1,41 @@
+{
+  "id": "UWN000003",
+  "type": "mcq",
+  "title": "Calling static calculateBill method - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following code segments, when appearing in a method in a class other than Store, will compile without error?",
+    "image": null,
+    "choices": [
+      {
+        "label": "double tot = calculateBill(5);",
+        "image": null
+      },
+      {
+        "label": "double tot = Store.calculateBill(5);",
+        "image": null
+      },
+      {
+        "label": "double tot; tot.calculateBill(5);",
+        "image": null
+      },
+      {
+        "label": "double tot = 5.0; tot.calculateBill();",
+        "image": null
+      }
+    ],
+    "answer": "double tot = Store.calculateBill(5);"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.10",
+    "text": "1.10: Calling Class Methods"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

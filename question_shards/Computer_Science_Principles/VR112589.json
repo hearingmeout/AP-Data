@@ -1,0 +1,37 @@
+{
+  "id": "VR112589",
+  "type": "mcq",
+  "title": "selection equivalent to Boolean expression",
+  "content": {
+    "description": "In the following statement, val1, val2, and result are Boolean variables.",
+    "question": "Which of the following code segments produce the same result as the statement above for all possible values of val1 and val2 ? Select two answers.",
+    "image": "https://ap.oly.st/images/0a2671ef4929628de023e370cbd9f72b.png",
+    "choices": [
+      {
+        "label": "The figure presents two blocks of code that consist of 4 lines. The second block of code contains nested blocks of code. Line 1: [begin block] result ← false [end block] Line 2: [Begin block] IF [begin block] val1 [end block] [Begin block] Line 4: [Begin block] IF [begin block] NOT val2 [end block] [Begin block] Line 5: [begin block] result ← true [end block] [End block] [End block] [End block] [End block]",
+        "image": "https://ap.oly.st/images/bd1631324cd74ef83885ada345699988.png"
+      },
+      {
+        "label": "The figure presents three blocks of code that consist of 5 lines. The second and third blocks of code contain nested blocks of code. Line 1: [begin block] result ← false [end block] Line 2: [Begin block] IF [begin block] val1 [end block] [Begin block] Line 3: [begin block] result ← true [end block] [End block] [End block] Line 3: [Begin block] IF [begin block] NOT val2 [end block] [Begin block] Line 4: [begin block] result ← true [end block] [End block] [End block]",
+        "image": "https://ap.oly.st/images/8238f488d13bef0c8f2cea6c80508fb5.png"
+      },
+      {
+        "label": "The figure presents one block of code that consist of 7 lines. The block of code contains nested blocks of code. Line 1: [Begin block] IF [begin block] val1 [end block] [Begin block] Line 2: [begin block] result ← true [end block] [End Block] Line 3: ELSE [Begin block] Line 4: [Begin block] IF [begin block] val2 [end block] [Begin block] Line 5: [begin block] result ← false [end block] [End block] Line 6: ELSE [Begin block] Line 7: [begin block] result ← true [end block] [End block] [End block] [End block] [End block]",
+        "image": "https://ap.oly.st/images/aebe8582ec099a4d97cd1b37bfee36a5.png"
+      },
+      {
+        "label": "The figure presents one block of code that consists of 7 lines. The block of code contains nested blocks of code. Line 1: [Begin block] IF [begin block] val1 [end block] [Begin block] Line 2: [Begin block] IF [begin block] val2 [end block] [Begin block] Line 3: [begin block] result ← false [end block] [End block] Line 4: ELSE [Begin block] Line 5: [begin block] result ← true [end block] [End block] [End block] [End block] Line 6: ELSE [Begin block] Line 7: [begin block] result ← false [end block] [End block] [End block]",
+        "image": "https://ap.oly.st/images/5ef1272e3d86bb1ef024fa962fa78174.png"
+      }
+    ],
+    "answer": "The figure presents two blocks of code that consist of 4 lines. The second block of code contains nested blocks of code. Line 1: [begin block] result ← false [end block] Line 2: [Begin block] IF [begin block] val1 [end block] [Begin block] Line 4: [Begin block] IF [begin block] NOT val2 [end block] [Begin block] Line 5: [begin block] result ← true [end block] [End block] [End block] [End block] [End block]"
+  },
+  "topic": {
+    "code": "3.6",
+    "text": "3.6: Conditionals"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

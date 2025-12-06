@@ -1,0 +1,45 @@
+{
+  "id": "FT1972",
+  "type": "mcq",
+  "title": "Related rates with volume of tank",
+  "content": {
+    "description": "",
+    "question": "The rate of change of the volume, V, of water in a tank with respect to time, t, is directly proportional to the square root of the volume. Which of the following is a differential equation that describes this relationship?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <semantics> <mrow> <mi>V</mi><mrow><mo>(</mo> <mi>t</mi> <mo>)</mo></mrow><mo>=</mo><mi>k</mi><msqrt> <mi>t</mi> </msqrt> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWGwbWaaeWaa8aabaWdbiaadshaaiaawIcacaGLPaaacqGH9aqpcaWGRbWaaOaaa8aabaWdbiaadshaaSqabaaaaa@3CB9@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mi>V</mi><mrow><mo>(</mo> <mi>t</mi> <mo>)</mo></mrow><mo>=</mo><mi>k</mi><msqrt> <mi>V</mi> </msqrt> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWGwbWaaeWaa8aabaWdbiaadshaaiaawIcacaGLPaaacqGH9aqpcaWGRbWaaOaaa8aabaWdbiaadAfaaSqabaaaaa@3C9B@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mrow> <mi>d</mi><mi>V</mi> </mrow> <mrow> <mi>d</mi><mi>t</mi> </mrow> </mfrac> <mo>=</mo><mi>k</mi><msqrt> <mi>t</mi> </msqrt> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWcaaWdaeaapeGaamizaiaadAfaa8aabaWdbiaadsgacaWG0baaaiabg2da9iaadUgadaGcaaWdaeaapeGaamiDaaWcbeaaaaa@3D31@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mrow> <mi>d</mi><mi>V</mi> </mrow> <mrow> <mi>d</mi><mi>t</mi> </mrow> </mfrac> <mo>=</mo><mfrac> <mi>k</mi> <mrow> <msqrt> <mi>V</mi> </msqrt> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWcaaWdaeaapeGaamizaiaadAfaa8aabaWdbiaadsgacaWG0baaaiabg2da9maalaaapaqaa8qacaWGRbaapaqaa8qadaGcaaWdaeaapeGaamOvaaWcbeaaaaaaaa@3D61@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mrow> <mi>d</mi><mi>V</mi> </mrow> <mrow> <mi>d</mi><mi>t</mi> </mrow> </mfrac> <mo>=</mo><mi>k</mi><msqrt> <mi>V</mi> </msqrt> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWcaaWdaeaapeGaamizaiaadAfaa8aabaWdbiaadsgacaWG0baaaiabg2da9iaadUgadaGcaaWdaeaapeGaamOvaaWcbeaaaaa@3D13@</annotation> </semantics> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <semantics> <mrow> <mfrac> <mrow> <mi>d</mi><mi>V</mi> </mrow> <mrow> <mi>d</mi><mi>t</mi> </mrow> </mfrac> <mo>=</mo><mi>k</mi><msqrt> <mi>V</mi> </msqrt> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWcaaWdaeaapeGaamizaiaadAfaa8aabaWdbiaadsgacaWG0baaaiabg2da9iaadUgadaGcaaWdaeaapeGaamOvaaWcbeaaaaa@3D13@</annotation> </semantics> </math>"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.1",
+    "text": "7.1: Modeling Situations with Differential Equations"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

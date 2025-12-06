@@ -1,0 +1,37 @@
+{
+  "id": "VR167920",
+  "type": "mcq",
+  "title": "Values of counts after traversing theList",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "theList <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> [-2, -1, 0, 1, 2]count1 <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0count2 <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0FOR EACH value IN theList{IF(value > 0){count1 <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> count1 + 1}ELSE{count2 <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> count2 + 1}}What are the values of count1 and count2 as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "count1 = 2, count2 = 2",
+        "image": null
+      },
+      {
+        "label": "count1 = 2, count2 = 3",
+        "image": null
+      },
+      {
+        "label": "count1 = 3, count2 = 2",
+        "image": null
+      },
+      {
+        "label": "count1 = 5, count2 = 0",
+        "image": null
+      }
+    ],
+    "answer": "count1 = 2, count2 = 3"
+  },
+  "topic": {
+    "code": "3.10",
+    "text": "3.10: Lists"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

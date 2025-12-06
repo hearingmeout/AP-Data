@@ -1,0 +1,45 @@
+{
+  "id": "VH947709",
+  "type": "mcq",
+  "title": "Arts council",
+  "content": {
+    "description": "",
+    "question": "A local arts council has 200 members. The council president wanted to estimate the percent of its members who have had experience in writing grants. The president randomly selected 30 members and surveyed the selected members on their grant-writing experience. Of the 30 selected members, 12 indicated that they did have the experience. Have the conditions for inference with a one-sample <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math>-interval been met?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Yes, all conditions for inference have been met.",
+        "image": null
+      },
+      {
+        "label": "No, because the sample size is not large enough to satisfy the conditions for normality.",
+        "image": null
+      },
+      {
+        "label": "No, because the sample was not selected at random.",
+        "image": null
+      },
+      {
+        "label": "No, because the sample size is not less than 10 percent of the population size.",
+        "image": null
+      },
+      {
+        "label": "No, because the sample is not representative of the population.",
+        "image": null
+      }
+    ],
+    "answer": "No, because the sample size is not less than 10 percent of the population size."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.2",
+    "text": "6.2: Constructing a Confidence Interval for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Verify that inference procedures apply in a given situation."
+  }
+}

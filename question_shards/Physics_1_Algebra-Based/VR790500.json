@@ -1,0 +1,48 @@
+{
+  "id": "VR790500",
+  "type": "frq",
+  "title": "Fluid Dynamics - fluid in a container with side op",
+  "content": {
+    "description": "",
+    "question": "Show all your work for each part of the question. The parts within the question may not have equal weight. A group of students are given a cylindrical container half filled with a liquid of unknown density <math alttext=\"rho\" overflow=\"scroll\"><mi>ρ</mi></math>. The students have access to an additional container with more of the same liquid, meter sticks, and a pressure sensor. They do not have access to a scale. (a) The students are asked to take measurements to create a graph that could be used to determine the density of the liquid. Describe an experimental procedure the students could use to collect the data needed to determine the density of the liquid. Include any steps necessary to reduce experimental uncertainty. If needed, you may include a simple diagram of the setup with your procedure.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Show all your work for each part of the question. The parts within the question may not have equal weight. A group of students are given a cylindrical container half filled with a liquid of unknown density <math alttext=\"rho\" overflow=\"scroll\"><mi>ρ</mi></math>. The students have access to an additional container with more of the same liquid, meter sticks, and a pressure sensor. They do not have access to a scale. (a) The students are asked to take measurements to create a graph that could be used to determine the density of the liquid. Describe an experimental procedure the students could use to collect the data needed to determine the density of the liquid. Include any steps necessary to reduce experimental uncertainty. If needed, you may include a simple diagram of the setup with your procedure.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_1_Algebra-Based/VR790500.g04.svg"
+      },
+      {
+        "text": "(b) Describe how the data collected in part (a) could be plotted to create a linear graph and how that graph would be analyzed to determine the density <math alttext=\"rho\" display=\"inline\" overflow=\"scroll\"><mi>ρ</mi></math> of the liquid.",
+        "image": null
+      },
+      {
+        "text": "The students perform another experiment with another cylinder which is filled with water, as shown in Figure <math alttext=\"2\" overflow=\"scroll\"><mn>2</mn></math>. The students make a small hole in the side of the cylinder and measure the speed <math alttext=\"v\" overflow=\"scroll\"><mi>v</mi></math> at which water exits the hole. The students plug the first hole, make another one at a different height, and repeat this procedure. The following table shows height <math alttext=\"h\" overflow=\"scroll\"><mi>h</mi></math> of each hole relative to the top of the water, the students made and the corresponding water speed <math alttext=\"v\" overflow=\"scroll\"><mi>v</mi></math>. Height <math alttext=\"h\" overflow=\"scroll\"><mi>h</mi></math> <math alttext=\"(in meters)\" overflow=\"scroll\"><mpadded><mo>(</mo><mpadded><mi mathvariant=\"normal\">m</mi></mpadded><mo>)</mo></mpadded></math> Speed <math alttext=\"v\" overflow=\"scroll\"><mi>v</mi></math> <math alttext=\"(in meters per second)\" overflow=\"scroll\"><mpadded><mo>(</mo><mpadded><mtext>m/s</mtext></mpadded><mo>)</mo></mpadded></math> <math alttext=\"0.25\" overflow=\"scroll\"><mn>0.25</mn></math> <math alttext=\"2.20\" overflow=\"scroll\"><mn>2.20</mn></math> <math alttext=\"0.20\" overflow=\"scroll\"><mn>0.20</mn></math> <math alttext=\"2.00\" overflow=\"scroll\"><mn>2.00</mn></math> <math alttext=\"0.15\" overflow=\"scroll\"><mn>0.15</mn></math> <math alttext=\"1.8\" overflow=\"scroll\"><mn>1.8</mn></math> <math alttext=\"0.10\" overflow=\"scroll\"><mn>0.10</mn></math> <math alttext=\"1.4\" overflow=\"scroll\"><mn>1.4</mn></math> <math alttext=\"0.05\" overflow=\"scroll\"><mn>0.05</mn></math> <math alttext=\"1.1\" overflow=\"scroll\"><mn>1.1</mn></math> (c) The students correctly determine that the relationship between <math alttext=\"h\" overflow=\"scroll\"><mi>h</mi></math> and <math alttext=\"v\" overflow=\"scroll\"><mi>v</mi></math> is given by <math alttext=\"v = the square root of 2 g h\" overflow=\"scroll\"><mi>v</mi><mo>=</mo><msqrt><mn>2</mn><mi>g</mi><mi>h</mi></msqrt></math>. The students create a graph with <math alttext=\"v squared\" overflow=\"scroll\"><msup><mi>v</mi><mn>2</mn></msup></math> plotted on the vertical axis. i. Indicate which measured or calculated quantity could be plotted on the horizontal axis to yield a linear graph whose slope can be used to calculate an experimental value for the acceleration due to gravity. Use the blank columns in the table to list any calculated quantities you will graph other than the data provided. ____<math alttext=\"v squared\" overflow=\"scroll\"><munder><msup><mi>v</mi><mn>2</mn></msup><mo>̲</mo></munder></math>____Vertical Axis __________Horizontal Axis",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_1_Algebra-Based/VR790500.g09.svg"
+      },
+      {
+        "text": "ii. On the grid below, plot the appropriate quantities to determine the acceleration due to gravity. Clearly scale and label all axes, including units, as appropriate.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_1_Algebra-Based/VR790500.g10.svg"
+      },
+      {
+        "text": "iii. Draw a best fit line to the data graphed in part (c) ii.",
+        "image": null
+      },
+      {
+        "text": "(d) Calculate an experimental value for the acceleration due to gravity using the best-fit line that you drew in Figure <math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mn>3</mn></math> in part (c)iii.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.5",
+    "text": "1.5: Vectors and Motion in Two Dimensions"
+  },
+  "skill": {
+    "code": "1.B",
+    "text": "1.B: Create quantitative graphs with appropriate scales and units, including plotting data."
+  }
+}

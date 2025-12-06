@@ -1,0 +1,41 @@
+{
+  "id": "EEE000003",
+  "type": "mcq",
+  "title": "Movie class diagram",
+  "content": {
+    "description": "",
+    "question": "Which of the following diagrams represents the most appropriate design for the Movie class?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The class diagram has 3 sections with values as follows:Section 1:MovieSection 2:+ title : String+ rating : doubleSection 3:- getTitle() : String- getRating() : double",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/862554f8101f6dba4ff62791ef638237.svg"
+      },
+      {
+        "label": "The class diagram has 3 sections with values as follows:Section 1:MovieSection 2:+ title : String+ rating : intSection 3: - getTitle() : String- getRating() : int",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/a2be654ca4d1612af744a06ca64967db.svg"
+      },
+      {
+        "label": "The class diagram has 3 sections with values as follows:Section 1:MovieSection 2:- title : String- rating : doubleSection 3:+ getTitle() : String+ getRating() : double",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/0653b241ea4263d468625572ec70c6e1.svg"
+      },
+      {
+        "label": "The class diagram has 3 sections with values as follows:Section 1:MovieSection 2:- title : String- rating : intSection 3:+ getTitle() : String+ getRating() : int",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/b4fcfe01d9a563f68878901cc64b8d62.svg"
+      }
+    ],
+    "answer": "The class diagram has 3 sections with values as follows:Section 1:MovieSection 2:- title : String- rating : doubleSection 3:+ getTitle() : String+ getRating() : double"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: Abstraction and Program Design"
+  },
+  "skill": {
+    "code": "1.A",
+    "text": "1.A: Determine an appropriate program design to solve a problem or accomplish a task."
+  }
+}

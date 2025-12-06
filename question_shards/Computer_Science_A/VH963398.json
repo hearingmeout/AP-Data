@@ -1,0 +1,41 @@
+{
+  "id": "VH963398",
+  "type": "mcq",
+  "title": "Boolean logic with two dimensional array elements",
+  "content": {
+    "description": "A two-dimensional array arr is to be created with the following contents.",
+    "question": "boolean[][] arr = {{false, true, false},{false, false, true}};Which of the following code segments can be used to correctly create and initialize arr ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "boolean arr[][] = new boolean[2][3];arr[0][1] = true;arr[1][2] = true;",
+        "image": null
+      },
+      {
+        "label": "boolean arr[][] = new boolean[2][3];arr[1][2] = true;arr[2][3] = true;",
+        "image": null
+      },
+      {
+        "label": "boolean arr[][] = new boolean[3][2];arr[0][1] = true;arr[1][2] = true;",
+        "image": null
+      },
+      {
+        "label": "boolean arr[][] = new boolean[3][2];arr[1][0] = true;arr[2][1] = true;",
+        "image": null
+      }
+    ],
+    "answer": "boolean arr[][] = new boolean[2][3];arr[0][1] = true;arr[1][2] = true;"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.11",
+    "text": "4.11: 2D Array Creation and Access"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

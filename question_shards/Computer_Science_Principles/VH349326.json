@@ -1,0 +1,37 @@
+{
+  "id": "VH349326",
+  "type": "mcq",
+  "title": "Print digits algorithm",
+  "content": {
+    "description": "",
+    "question": "Which of the following can be used as step 3 so that the algorithm works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Step 3: Display the remainder of number divided by 10 and store the remainder in number.",
+        "image": null
+      },
+      {
+        "label": "Step 3: Display the remainder of number divided by 10 and store the integer quotient in number.",
+        "image": null
+      },
+      {
+        "label": "Step 3: Display the integer quotient of number divided by 10 and store the remainder in number.",
+        "image": null
+      },
+      {
+        "label": "Step 3: Display the integer quotient of number divided by 10 and store the integer quotient in number.",
+        "image": null
+      }
+    ],
+    "answer": "Step 3: Display the remainder of number divided by 10 and store the integer quotient in number."
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Mathematical Expressions"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "FT645735",
+  "type": "mcq",
+  "title": "Encrypting and decrypting using public key cryptography",
+  "content": {
+    "description": "",
+    "question": "In public key cryptography, the sender uses the recipient’s public key to encrypt a message. Which of the following is needed to decrypt the message?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The sender’s public key",
+        "image": null
+      },
+      {
+        "label": "The sender’s private key",
+        "image": null
+      },
+      {
+        "label": "The recipient’s public key",
+        "image": null
+      },
+      {
+        "label": "The recipient’s private key",
+        "image": null
+      }
+    ],
+    "answer": "The recipient’s private key"
+  },
+  "topic": {
+    "code": "5.6",
+    "text": "5.6: Safe Computing"
+  },
+  "skill": {
+    "code": "Skill 5.E",
+    "text": "Skill 5.E: Evaluate the use of computing based on legal and ethical factors."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "VH941485",
+  "type": "mcq",
+  "title": "Calculus - position as a function of time",
+  "content": {
+    "description": "",
+    "question": "An object is moving along the <math alttext=\"x \" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math>-axis, with position <math alttext=\"x\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> given as a function of time <math alttext=\"t\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math> defined by the equation <math alttext=\"x of t equals 2 t cubed, minus 3 t squared, minus 8 t, minus 3\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>x</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow><mo>=</mo><mn>2</mn><msup><mrow><mi>t</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>−</mo><mn>3</mn><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><mn>8</mn><mi>t</mi><mo>−</mo><mn>3</mn></mrow></mstyle></math> . Which of the following equations indicates how to determine the object's velocity <math alttext=\"v\" overflow=\"scroll\"><mstyle><mrow><mi>v</mi></mrow></mstyle></math> as a function of <math alttext=\"t\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"v of t equals the derivative with respect to t of, open parenthesis 2 t cubed, minus 3 t squared, minus 8 t, minus 3, close parenthesis, equals 0\" overflow=\"scroll\"><mstyle><mrow><mi>v</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo><mo>=</mo><mfrac><mrow><mi>d</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mrow><mo>(</mo><mn>2</mn><msup><mrow><mi>t</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>−</mo><mn>3</mn><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><mn>8</mn><mi>t</mi><mo>−</mo><mn>3</mn><mo>)</mo><mo>=</mo><mn>0</mn></mrow></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"v of t equals the derivative with respect to t of, open parenthesis 2 t cubed, minus 3 t squared, minus 8 t, minus 3, close parenthesis, equals 0\"><mstyle><mrow><mi>v</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo><mo>=</mo><mfrac><mrow><mi>d</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mrow><mo>(</mo><mn>2</mn><msup><mrow><mi>t</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>−</mo><mn>3</mn><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><mn>8</mn><mi>t</mi><mo>−</mo><mn>3</mn><mo>)</mo></mrow></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"v of t equals the integral with respect to x of, open parenthesis, 2 t cubed, minus 3 t squared, minus 8 t, minus 3, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mi>v</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo><mo>=</mo><mrow><mo>∫</mo><mrow><mrow><mo>(</mo><mn>2</mn><msup><mrow><mi>t</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>−</mo><mn>3</mn><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><mn>8</mn><mi>t</mi><mo>−</mo><mn>3</mn><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"v of t equals the integral with respect to t of, open parenthesis, 2 t cubed, minus 3 t squared, minus 8 t, minus 3, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mi>v</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo><mo>=</mo><mrow><mo>∫</mo><mrow><mrow><mo>(</mo><mn>2</mn><msup><mrow><mi>t</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>−</mo><mn>3</mn><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><mn>8</mn><mi>t</mi><mo>−</mo><mn>3</mn><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"v of t equals the fraction, open parenthesis, 2 t cubed, minus 3 t squared, minus 8 t, minus 3, close parenthesis, over t\" overflow=\"scroll\"><mstyle><mrow><mi>v</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mo>(</mo><mn>2</mn><msup><mrow><mi>t</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>−</mo><mn>3</mn><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><mn>8</mn><mi>t</mi><mo>−</mo><mn>3</mn><mo>)</mo></mrow><mrow><mi>t</mi></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"v of t equals the derivative with respect to t of, open parenthesis 2 t cubed, minus 3 t squared, minus 8 t, minus 3, close parenthesis, equals 0\"><mstyle><mrow><mi>v</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo><mo>=</mo><mfrac><mrow><mi>d</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mrow><mo>(</mo><mn>2</mn><msup><mrow><mi>t</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>−</mo><mn>3</mn><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><mn>8</mn><mi>t</mi><mo>−</mo><mn>3</mn><mo>)</mo></mrow></mrow></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.2",
+    "text": "1.2: Displacement, Velocity, and Acceleration"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

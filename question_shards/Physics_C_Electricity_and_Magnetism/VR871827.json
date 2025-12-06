@@ -1,0 +1,40 @@
+{
+  "id": "VR871827",
+  "type": "frq",
+  "title": "LC-LR circuits - I-vs-t eqn - Q-vs-t graph - Vmax",
+  "content": {
+    "description": "",
+    "question": "Show all your work for each part of the question. The parts within the question may not have equal weight. A battery, a resistor, a capacitor, an inductor, and two switches are connected in a circuit, as shown in Figure <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>. Initially, both switches are open and the capacitor is uncharged. At time <math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn></math>, Switch <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">X</mi></math> is closed. (a)i. Starting with an appropriate application of Kirchhoff’s loop rule, derive, but do NOT solve, a differential equation that could be used to find the current <math alttext=\"I\" display=\"inline\" overflow=\"scroll\"><mi>I</mi></math> in the circuit as a function of time <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mi>t</mi></math> after Switch <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">X</mi></math> is closed. Take the positive direction of current to be clockwise around the circuit. Express the differential equation in terms of <math alttext=\"I\" display=\"inline\" overflow=\"scroll\"><mi>I</mi></math>, <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mi>t</mi></math>, <math alttext=\"script uppercase E\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi></math>, <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math>, <math alttext=\"L\" display=\"inline\" overflow=\"scroll\"><mi>L</mi></math>, and physical constants, as appropriate.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Show all your work for each part of the question. The parts within the question may not have equal weight. A battery, a resistor, a capacitor, an inductor, and two switches are connected in a circuit, as shown in Figure <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>. Initially, both switches are open and the capacitor is uncharged. At time <math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn></math>, Switch <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">X</mi></math> is closed. (a)i. Starting with an appropriate application of Kirchhoff’s loop rule, derive, but do NOT solve, a differential equation that could be used to find the current <math alttext=\"I\" display=\"inline\" overflow=\"scroll\"><mi>I</mi></math> in the circuit as a function of time <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mi>t</mi></math> after Switch <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">X</mi></math> is closed. Take the positive direction of current to be clockwise around the circuit. Express the differential equation in terms of <math alttext=\"I\" display=\"inline\" overflow=\"scroll\"><mi>I</mi></math>, <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mi>t</mi></math>, <math alttext=\"script uppercase E\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi></math>, <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math>, <math alttext=\"L\" display=\"inline\" overflow=\"scroll\"><mi>L</mi></math>, and physical constants, as appropriate.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_C_Electricity_and_Magnetism/VR871827.g02.svg"
+      },
+      {
+        "text": "ii. Using the differential equation from part (a)(i), derive an expression for <math alttext=\"I\" display=\"inline\" overflow=\"scroll\"><mi>I</mi></math> as a function of <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mi>t</mi></math> for <math alttext=\"t greater than 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>&gt;</mo><mn>0</mn></math>. Express your answer in terms of <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mi>t</mi></math>, <math alttext=\"script uppercase E\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi></math>, <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math>, <math alttext=\"L\" display=\"inline\" overflow=\"scroll\"><mi>L</mi></math>, and physical constants, as appropriate. Begin your derivation by writing a fundamental physics principle or an equation from the reference information.",
+        "image": null
+      },
+      {
+        "text": "A long time after Switch <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">X</mi></math> is closed, the current in the circuit can be considered to be at its steady-state value. Switch <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Y</mi></math> is then closed, immediately after which Switch <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">X</mi></math> is opened. This occurs at time <math alttext=\"t equals t sub Y\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><msub><mi>t</mi><mtext>Y</mtext></msub></math>.iii. On the axes in Figure <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>, sketch a graph of the charge <math alttext=\"Q sub top plate\" display=\"inline\" overflow=\"scroll\"><msub><mi>Q</mi><mrow><mtext>top</mtext><mspace width=\"0.2em\"></mspace><mtext>plate</mtext></mrow></msub></math> on the top plate of the capacitor as a function of time <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mi>t</mi></math> for times after Switch <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Y</mi></math> is closed. On the horizontal axis, indicate a relevant, characteristic time for the graph in terms of <math alttext=\"script uppercase E\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi></math>, <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math>, <math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mi>C</mi></math>, <math alttext=\"L\" display=\"inline\" overflow=\"scroll\"><mi>L</mi></math>, and physical constants, as appropriate.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_C_Electricity_and_Magnetism/VR871827.g04.svg"
+      },
+      {
+        "text": "(b) Derive an expression for <math alttext=\"delta V sub max\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mi>max</mi></msub></math>, the maximum potential difference attained by the capacitor after time <math alttext=\"t equals t sub Y\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><msub><mi>t</mi><mi mathvariant=\"normal\">Y</mi></msub></math>. Express your answer in terms of <math alttext=\"script uppercase E\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi></math>, <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math>, <math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mi>C</mi></math>, <math alttext=\"L\" display=\"inline\" overflow=\"scroll\"><mi>L</mi></math>, and physical constants, as appropriate. Begin your derivation by writing a fundamental physics principle or an equation from the reference information.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Conductors and Capacitors"
+  },
+  "topic": {
+    "code": "10.3",
+    "text": "10.3: Capacitors"
+  },
+  "skill": {
+    "code": "1.C",
+    "text": "1.C: Create qualitative sketches of graphs that represent features of a model or the behavior of a physical system."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "VH948906",
+  "type": "mcq",
+  "title": "Gym memberships",
+  "content": {
+    "description": "A large company offered gym memberships to its employees as part of a program to keep employees healthy. A random sample of employees with a gym membership and a random sample of employees without a gym membership were taken, and the proportion of employees who had taken at least one sick day in the past month was recorded for each sample. A 90 percent confidence interval for the difference in population proportions (membership minus no membership) was found to be <math alttext=\"negative 0.13 comma 0.05\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mrow><mo>−</mo><mn>0.13</mn><mo>,</mo><mn>0.05</mn></mrow><mo>)</mo></mrow></mrow></mstyle></math>.",
+    "question": "Employees believe that there is no difference in absenteeism between those with a gym membership and those without a gym membership. Does the confidence interval provide evidence that this belief is plausible?",
+    "image": null,
+    "choices": [
+      {
+        "label": "No. It is likely that employees with a gym membership are absent less often than employees without a gym membership, because <math alttext=\"negative 0.13 is less than 0.05\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>0.13</mn></mrow><mo>&lt;</mo><mn>0.05</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "No. It is likely that employees with a gym membership are absent more often than employees without a gym membership, because the absolute value of <math alttext=\"negative 0.13\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>0.13</mn></mrow></mrow></mstyle></math> is greater then 0.05.",
+        "image": null
+      },
+      {
+        "label": "No. The range of negative values is greater than the range of positive values in the interval, which indicates that employees with a gym membership tend to be absent less often than employees without a gym membership.",
+        "image": null
+      },
+      {
+        "label": "Yes. The length of the interval is 0.18, which indicates a low probability of a difference.",
+        "image": null
+      },
+      {
+        "label": "Yes. The value of 0 is contained in the interval, which indicates that no difference is plausible.",
+        "image": null
+      }
+    ],
+    "answer": "Yes. The value of 0 is contained in the interval, which indicates that no difference is plausible."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.9",
+    "text": "6.9: Justifying a Claim Based on a Confidence Interval for a Difference Between Population Proportions"
+  },
+  "skill": {
+    "code": "Skill 4.D",
+    "text": "Skill 4.D: Justify a claim based on a confidence interval."
+  }
+}

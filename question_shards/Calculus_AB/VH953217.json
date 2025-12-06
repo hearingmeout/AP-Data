@@ -1,0 +1,41 @@
+{
+  "id": "VH953217",
+  "type": "mcq",
+  "title": "Processes - Eulers Method",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"y equals, f of x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math> be the solution to the differential equation <math alttext=\"the derivative of y, with respect to x, equals, y minus, 10, x squared\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>=</mo><mi>y</mi><mo>−</mo><mn>10</mn><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle></math> with the initial condition <math alttext=\"f of 0, equals 3\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>=</mo><mn>3</mn></mrow></mstyle></math>. What is the approximation for <math alttext=\"f of 0.4 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mn>0.4</mn><mo>)</mo></mrow></mrow></mstyle></math> if Euler’s method is used, starting at <math alttext=\"x equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>0</mn></mrow></mstyle></math> with steps of size 0.2 ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "4.120",
+        "image": null
+      },
+      {
+        "label": "4.200",
+        "image": null
+      },
+      {
+        "label": "4.240",
+        "image": null
+      },
+      {
+        "label": "4.768",
+        "image": null
+      }
+    ],
+    "answer": "4.240"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.5",
+    "text": "7.5: (BC ONLY) Approximating Solutions Using Euler's Method"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

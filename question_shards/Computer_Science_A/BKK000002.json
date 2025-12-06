@@ -1,0 +1,41 @@
+{
+  "id": "BKK000002",
+  "type": "mcq",
+  "title": "ArrayList method calls - determine result of code",
+  "content": {
+    "description": "",
+    "question": "What are the contents of ages after executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "[15, 18, 20]",
+        "image": null
+      },
+      {
+        "label": "[18, 15, 20]",
+        "image": null
+      },
+      {
+        "label": "[18, 20, 15]",
+        "image": null
+      },
+      {
+        "label": "[20, 15, 18]",
+        "image": null
+      }
+    ],
+    "answer": "[18, 15, 20]"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

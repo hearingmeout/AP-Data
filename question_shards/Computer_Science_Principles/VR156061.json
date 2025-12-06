@@ -1,0 +1,37 @@
+{
+  "id": "VR156061",
+  "type": "mcq",
+  "title": "Benefit of redundancy",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes a direct benefit in using redundant routing on the Internet?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Redundancy enables messages to be transmitted with as few packets as possible.",
+        "image": null
+      },
+      {
+        "label": "Redundancy enables network devices to communicate with as few network connections as possible.",
+        "image": null
+      },
+      {
+        "label": "Redundancy often allows messages to be sent on the network even if some network devices or connections have failed.",
+        "image": null
+      },
+      {
+        "label": "Redundancy prevents network communications from being intercepted by unauthorized individuals.",
+        "image": null
+      }
+    ],
+    "answer": "Redundancy often allows messages to be sent on the network even if some network devices or connections have failed."
+  },
+  "topic": {
+    "code": "4.2",
+    "text": "4.2: Fault Tolerance"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

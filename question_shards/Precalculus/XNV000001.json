@@ -1,0 +1,41 @@
+{
+  "id": "XNV000001",
+  "type": "mcq",
+  "title": "Matrix Modeling - using state transition diagram",
+  "content": {
+    "description": "",
+    "question": "The diagram shows two states, labeled 1 and 2. A loop from state 1 pointing back to state 1 is labeled 0.2. An arrow from state 1 to state 2 is labeled 0.8. A loop from state 2 pointing back to state 2 is labeled 0.9. An arrow from state 2 to state 1 is labeled 0.1. Objects in a system can be in two possible states: state <math alttext=\"1\"><mn>1</mn></math> and state <math alttext=\"2\"><mn>2</mn></math>. The state transition diagram for this situation is shown. The diagram indicates that <math alttext=\"20 percent sign\"><mn>20</mn><mo>%</mo></math> of objects in state <math alttext=\"1\"><mn>1</mn></math> remain in state <math alttext=\"1\"><mn>1</mn></math> between stages and that <math alttext=\"90 percent sign\"><mn>90</mn><mo>%</mo></math> of objects in state <math alttext=\"2\"><mn>2</mn></math> remain in state <math alttext=\"2\"><mn>2</mn></math> between stages. The constant <math alttext=\"a subscript i\"><msub><mi>a</mi><mi>i</mi></msub></math> gives the percent of objects in state <math alttext=\"1\"><mn>1</mn></math> at stage <math alttext=\"i\"><mi>i</mi></math>. The constant <math alttext=\"b subscript i\"><msub><mi>b</mi><mi>i</mi></msub></math> gives the percent of objects in state <math alttext=\"2\"><mn>2</mn></math> at stage <math alttext=\"i\"><mi>i</mi></math>. Matrix <math alttext=\"M\"><mi>M</mi></math> is a <math alttext=\"2 by 2\"><mn>2</mn><mo>×</mo><mn>2</mn></math> transition matrix that is used to model objects transitioning between states such that <math alttext=\"M times a 2 by 1 matrix with row 1 column 1 value a subscript n, row 2 column 1 value b subscript n end matrix equals a 2 by 1 matrix with row 1 column 1 value a subscript n plus 1 end subscript, row 2 column 1 value b subscript n plus 1 end subscript end matrix\"><mi>M</mi><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><msub><mi>a</mi><mi>n</mi></msub></mtd></mtr><mtr><mtd><msub><mi>b</mi><mi>n</mi></msub></mtd></mtr></mtable></mfenced><mo>=</mo><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><msub><mi>a</mi><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msub></mtd></mtr><mtr><mtd><msub><mi>b</mi><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msub></mtd></mtr></mtable></mfenced></math>. Which of the following defines <math alttext=\"M\"><mi>M</mi></math> ?",
+    "image": "https://ap.oly.st/images/66fc3d89eef5daa669af2089bd55319b.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"a 2 by 2 matrix with row 1 column 1 value 0.2, row 1 column 2 value 0.1, row 2 column 1 value 0.8, row 2 column 2 value 0.9\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>0.2</mn></mtd><mtd><mn>0.1</mn></mtd></mtr><mtr><mtd><mn>0.8</mn></mtd><mtd><mn>0.9</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"a 2 by 2 matrix with row 1 column 1 value 0.2, row 1 column 2 value 0.8, row 2 column 1 value 0.1, row 2 column 2 value 0.9\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>0.2</mn></mtd><mtd><mn>0.8</mn></mtd></mtr><mtr><mtd><mn>0.1</mn></mtd><mtd><mn>0.9</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"a 2 by 2 matrix with row 1 column 1 value 0.2, row 1 column 2 value 0.8, row 2 column 1 value 0.9, row 2 column 2 value 0.1\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>0.2</mn></mtd><mtd><mn>0.8</mn></mtd></mtr><mtr><mtd><mn>0.9</mn></mtd><mtd><mn>0.1</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"a 2 by 2 matrix with row 1 column 1 value 0.2, row 1 column 2 value 0.9, row 2 column 1 value 0.8, row 2 column 2 value 0.1\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>0.2</mn></mtd><mtd><mn>0.9</mn></mtd></mtr><mtr><mtd><mn>0.8</mn></mtd><mtd><mn>0.1</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"a 2 by 2 matrix with row 1 column 1 value 0.2, row 1 column 2 value 0.1, row 2 column 1 value 0.8, row 2 column 2 value 0.9\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>0.2</mn></mtd><mtd><mn>0.1</mn></mtd></mtr><mtr><mtd><mn>0.8</mn></mtd><mtd><mn>0.9</mn></mtd></mtr></mtable></mfenced></math>"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.14",
+    "text": "4.14: Matrices Modeling Contexts"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

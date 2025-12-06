@@ -1,0 +1,41 @@
+{
+  "id": "FT560493",
+  "type": "mcq",
+  "title": "Value of an improper integral",
+  "content": {
+    "description": "",
+    "question": "If g is a twice-differentiable function, where g(1) = 0.5 and <math> <semantics> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>x</mi> <mo>→</mo> <mi>∞</mi> </mrow> </munder> <mi>g</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mn>4</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaadaWfqaqaaabaaaaaaaaapeGaciiBaiaacMgacaGGTbaal8aabaWdbiaadIhacqGHsgIRcqGHEisPa8aabeaak8qacaWGNbWaaeWaa8aabaWdbiaadIhaaiaawIcacaGLPaaacqGH9aqpcaaI0aaaaa@461D@</annotation> </semantics> </math>, then <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>1</mn> <mi>∞</mi> </msubsup> <msup> <mi>g</mi> <mo>′</mo> </msup> </mrow> </mstyle> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mi>d</mi> <mi>x</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaapedapaqaa8qaceWGNbGbauaaaSWdaeaapeGaaGymaaWdaeaapeGaeyOhIukaniabgUIiYdGcdaqadaWdaeaapeGaamiEaaGaayjkaiaawMcaaiaadsgacaWG4baaaa@435B@</annotation> </semantics> </math> is",
+    "image": null,
+    "choices": [
+      {
+        "label": "-3.5",
+        "image": null
+      },
+      {
+        "label": "3.5",
+        "image": null
+      },
+      {
+        "label": "4.5",
+        "image": null
+      },
+      {
+        "label": "nonexistent",
+        "image": null
+      }
+    ],
+    "answer": "3.5"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.13",
+    "text": "6.13: (BC ONLY) Evaluating Improper Integrals"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "VR166161",
+  "type": "mcq",
+  "title": "How nested loops with lists function",
+  "content": {
+    "description": "A student wrote the following code segment, which displays true if the list myList contains any duplicate values and displays false otherwise.",
+    "question": "The code segment compares pairs of list elements, setting containsDuplicates to true if any two elements are found to be equal in value. Which of the following best describes the behavior of how pairs of elements are compared?",
+    "image": "https://ap.oly.st/images/7b267dbb819f4fef655d4a22d816e895.png",
+    "choices": [
+      {
+        "label": "The code segment iterates through myList, comparing each element to all other elements in the list.",
+        "image": null
+      },
+      {
+        "label": "The code segment iterates through myList, comparing each element to all subsequent elements in the list.",
+        "image": null
+      },
+      {
+        "label": "The code segment iterates through myList, comparing each element to the element that immediately follows it in the list.",
+        "image": null
+      },
+      {
+        "label": "The code segment iterates through myList, comparing each element to the element that immediately precedes it in the list.",
+        "image": null
+      }
+    ],
+    "answer": "The code segment iterates through myList, comparing each element to all subsequent elements in the list."
+  },
+  "topic": {
+    "code": "1.2",
+    "text": "1.2: Program Function and Purpose"
+  },
+  "skill": {
+    "code": "Skill 4.A",
+    "text": "Skill 4.A: Explain how a code segment or program functions."
+  }
+}

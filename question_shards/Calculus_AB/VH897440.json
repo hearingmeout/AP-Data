@@ -1,0 +1,41 @@
+{
+  "id": "VH897440",
+  "type": "mcq",
+  "title": "Representations - Interval of Convergence",
+  "content": {
+    "description": "<math alttext=\"The figure presents a two row table, with six columns of data. The heading for row 1 is “x.” The heading for row 2 is the series “the sum, from n equals 0, to infinity, of, a sub n, end subscript, times open parenthesis, x minus b, close parenthesis, to the n power.” The data in the table are as follows. Column 1. x is negative 2; the series diverges. Column 2. x is negative 1; the series converges conditionally. Column 3. x is 0; the series converges absolutely. Column 4. x is 1; the series converges absolutely. Column 5. x is 2; the series converges absolutely. Column 6. x is 3; the series diverges. \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mtable columnlines=\"solid\" columnspacing=\"0.0em\" columnwidth=\"7em 0.05em 6em 6em 6em 6em 6em 6em\" equalrows=\"true\" frame=\"solid\" framespacing=\"0.0em 0.5ex\" rowlines=\"solid\" rowspacing=\"1ex\" width=\"auto\"><mtr><mtd><mi>x</mi></mtd><mtd><mspace depth=\"1.0ex\" height=\"2.25ex\" width=\"0.0em\"></mspace></mtd><mtd><mo>−</mo><mn>2</mn></mtd><mtd><mo>−</mo><mn>1</mn></mtd><mtd><mn>0</mn></mtd><mtd><mn>1</mn></mtd><mtd><mn>2</mn></mtd><mtd><mn>3</mn></mtd></mtr><mtr><mtd><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>n</mi><mo>=</mo><mn>0</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><msub><mrow><mi>a</mi></mrow><mrow><mi>n</mi></mrow></msub></mrow></mrow><mrow><msup><mrow><mo>(</mo><mi>x</mi><mo>−</mo><mi>b</mi><mo>)</mo></mrow><mrow><mi>n</mi></mrow></msup></mrow></mrow></mstyle></mrow></mstyle></mtd><mtd><mspace depth=\"1.0ex\" height=\"2.25ex\" width=\"0.0em\"></mspace></mtd><mtd><mtext>diverges</mtext></mtd><mtd><mtable><mtr><mtd><mtable><mtr><mtd><mtext>converges</mtext></mtd></mtr></mtable></mtd></mtr><mtr><mtd><mtext>conditionally</mtext></mtd></mtr></mtable></mtd><mtd><mtable><mtr><mtd><mtable><mtr><mtd><mtext>converges</mtext></mtd></mtr></mtable></mtd></mtr><mtr><mtd><mtext>absolutely</mtext></mtd></mtr></mtable></mtd><mtd><mtable><mtr><mtd><mtable><mtr><mtd><mtext>converges</mtext></mtd></mtr></mtable></mtd></mtr><mtr><mtd><mtext>absolutely</mtext></mtd></mtr></mtable></mtd><mtd><mtable><mtr><mtd><mtable><mtr><mtd><mtext>converges</mtext></mtd></mtr></mtable></mtd></mtr><mtr><mtd><mtext>absolutely</mtext></mtd></mtr></mtable></mtd><mtd><mtext>diverges</mtext></mtd></mtr></mtable></mrow></mstyle></mrow></mstyle></math>",
+    "question": "Consider the power series <math alttext=\"the sum, from n equals 0, to infinity of, a, sub n, end subscript, times, open parenthesis, x minus b, close parenthesis, to the n power\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>n</mi><mo>=</mo><mn>0</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><msub><mrow><mi>a</mi></mrow><mrow><mi>n</mi></mrow></msub></mrow></mrow><mrow><msup><mrow><mo>(</mo><mi>x</mi><mo>−</mo><mi>b</mi><mo>)</mo></mrow><mrow><mi>n</mi></mrow></msup></mrow></mrow></mstyle></mrow></mstyle></mrow></math>, where <math alttext=\"b\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>b</mi></mrow></mstyle></math> is an integer. The convergence or divergence of the series at various values of <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> is shown in the table above. What is the interval of convergence for the power series?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"open parenthesis, negative 2 comma 2, close bracket\" display=\"inline\" overflow=\"scroll\"><mrow><mo>(</mo><mrow><mo>−</mo><mn>2</mn></mrow><mo>,</mo><mrow><mn>2</mn></mrow><mrow><mo>]</mo></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open parenthesis, negative 2 comma 3, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mrow><mrow><mo>−</mo><mn>2</mn></mrow></mrow><mo>,</mo><mrow><mn>3</mn></mrow><mo>)</mo></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open bracket, negative 1 comma 2, close bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>[</mo><mrow><mrow><mrow><mo>−</mo><mn>1</mn></mrow></mrow><mo>,</mo><mrow><mn>2</mn></mrow></mrow><mo>]</mo></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open bracket, negative 1 comma 3, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>[</mo><mrow><mrow><mo>−</mo><mn>1</mn></mrow><mo>,</mo><mrow><mn>3</mn></mrow></mrow><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"open bracket, negative 1 comma 3, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>[</mo><mrow><mrow><mo>−</mo><mn>1</mn></mrow><mo>,</mo><mrow><mn>3</mn></mrow></mrow><mo>)</mo></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.13",
+    "text": "10.13: (BC ONLY) Radius and Interval of Convergence of Power Series"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

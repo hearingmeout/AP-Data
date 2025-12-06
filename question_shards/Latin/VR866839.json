@@ -1,0 +1,40 @@
+{
+  "id": "VR866839",
+  "type": "frq",
+  "title": "Newton 2L rotation - pulley and block on incline",
+  "content": {
+    "description": "",
+    "question": "Show all your work for each part of the question. The parts within the question may not have equal weight. A pulley that can rotate around a fixed axle with negligible friction is mounted near the top of an incline, as shown in Figure <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>. A string wrapped around the pulley runs parallel to the incline, with its free end attached to a block on the incline as shown. The pulley has a radius <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math> and mass <math alttext=\"M\" display=\"inline\" overflow=\"scroll\"><mi>M</mi></math>, and its mass has a nonuniform distribution that results in a rotational inertia of <math alttext=\"I equals, one third M times R squared\" display=\"inline\" overflow=\"scroll\"><mi>I</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>M</mi><msup><mi>R</mi><mn>2</mn></msup></math> about an axle at the pulley’s center. The block has the same mass <math alttext=\"M\" display=\"inline\" overflow=\"scroll\"><mi>M</mi></math> and can slide with negligible friction along the incline, which is at an angle <math alttext=\"phi\" display=\"inline\" overflow=\"scroll\"><mi>ϕ</mi></math> from the horizontal. At time <math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn></math>, the pulley is released and the block starts sliding down the incline. Figure <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> shows an enlarged view of the pulley. The three dashed lines all indicate the angle of the string and the incline.(a) In Figure <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>, draw and label the forces (not components) that act on the pulley as it rotates after being released. To clearly indicate at which point on the pulley each force is exerted, draw each force as a distinct arrow starting on, and pointing away from, the point at which the force is exerted.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Show all your work for each part of the question. The parts within the question may not have equal weight. A pulley that can rotate around a fixed axle with negligible friction is mounted near the top of an incline, as shown in Figure <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>. A string wrapped around the pulley runs parallel to the incline, with its free end attached to a block on the incline as shown. The pulley has a radius <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math> and mass <math alttext=\"M\" display=\"inline\" overflow=\"scroll\"><mi>M</mi></math>, and its mass has a nonuniform distribution that results in a rotational inertia of <math alttext=\"I equals, one third M times R squared\" display=\"inline\" overflow=\"scroll\"><mi>I</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>M</mi><msup><mi>R</mi><mn>2</mn></msup></math> about an axle at the pulley’s center. The block has the same mass <math alttext=\"M\" display=\"inline\" overflow=\"scroll\"><mi>M</mi></math> and can slide with negligible friction along the incline, which is at an angle <math alttext=\"phi\" display=\"inline\" overflow=\"scroll\"><mi>ϕ</mi></math> from the horizontal. At time <math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn></math>, the pulley is released and the block starts sliding down the incline. Figure <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> shows an enlarged view of the pulley. The three dashed lines all indicate the angle of the string and the incline.(a) In Figure <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>, draw and label the forces (not components) that act on the pulley as it rotates after being released. To clearly indicate at which point on the pulley each force is exerted, draw each force as a distinct arrow starting on, and pointing away from, the point at which the force is exerted.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Latin/VR866839.g03.svg"
+      },
+      {
+        "text": "(b) Derive an expression for the linear acceleration <math alttext=\"a\" display=\"inline\" overflow=\"scroll\"><mi>a</mi></math> of the block when it is sliding down the incline. Express your answer in terms of <math alttext=\"M\" display=\"inline\" overflow=\"scroll\"><mi>M</mi></math>, <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math>, <math alttext=\"phi\" display=\"inline\" overflow=\"scroll\"><mi>ϕ</mi></math>, and physical constants, as appropriate.",
+        "image": null
+      },
+      {
+        "text": "(c) On the axes in Figure <math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mn>3</mn></math>, sketch graphs of the following quantities as functions of time <math alttext=\"lowercase t\" display=\"inline\" overflow=\"scroll\"><mi>t</mi></math>. Take the positive direction to be for counterclockwise rotation.The pulley’s angular displacement <math alttext=\"delta theta\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Δ</mi><mi>θ</mi></math> relative to its starting positionThe pulley’s angular velocity <math alttext=\"omega\" display=\"inline\" overflow=\"scroll\"><mi>ω</mi></math>The pulley’s angular acceleration <math alttext=\"alpha\" display=\"inline\" overflow=\"scroll\"><mi>α</mi></math>Note: There is a scale indicated for the graph of angular acceleration <math alttext=\"alpha\" display=\"inline\" overflow=\"scroll\"><mi>α</mi></math>.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Latin/VR866839.g05.svg"
+      },
+      {
+        "text": "The block, pulley, and string are moved to another incline with the same dimensions as the original incline. However, there is now friction between the block and the new incline. The block again slides down the incline after the pulley is released.(d) Indicate how the tension <math alttext=\"uppercase T sub new\" display=\"inline\" overflow=\"scroll\"><msub><mi>T</mi><mi>new</mi></msub></math> in the string with the new incline compares to the string tension <math alttext=\"uppercase T sub O\" display=\"inline\" overflow=\"scroll\"><msub><mi>T</mi><mtext>O</mtext></msub></math> when the block slid down the original incline. Justify your answer.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Force and Translational Dynamics"
+  },
+  "topic": {
+    "code": "2.5",
+    "text": "2.5: Newton's Second Law"
+  },
+  "skill": {
+    "code": "1.A",
+    "text": "1.A: Create diagrams, tables, charts, or schematics to represent physical situations."
+  }
+}

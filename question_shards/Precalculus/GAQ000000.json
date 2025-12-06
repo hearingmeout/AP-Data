@@ -1,0 +1,41 @@
+{
+  "id": "GAQ000000",
+  "type": "mcq",
+  "title": "Function Models - Sales of Product",
+  "content": {
+    "description": "",
+    "question": "If <math alttext=\"k open parentheses t close parentheses equals 14 minus 2.885 ln t\"> <semantics> <mrow> <mi>k</mi> <mfenced> <mi>t</mi> </mfenced> <mo>=</mo> <mn>14</mn> <mo>-</mo> <mn>2.885</mn> <mi>ln</mi> <mpadded lspace=\"+1px\"> <mi>t</mi> </mpadded> </mrow> <annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation> </semantics> </math> and <math alttext=\"m open parentheses t close parentheses equals negative t plus 14\"> <semantics> <mrow> <mi>m</mi> <mfenced> <mi>t</mi> </mfenced> <mo>=</mo> <mo>-</mo> <mi>t</mi> <mo>+</mo> <mn>14</mn> </mrow> <annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation> </semantics> </math>, what is the first time <math alttext=\"t\"><semantics><mi>t</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> that sales predicted by the logarithmic model will be <math alttext=\"0.1\"><semantics><mn>0.1</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> thousand units more than sales predicted by the linear model?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"t equals 6.318\"><semantics><mrow><mi>t</mi><mo>=</mo><mn>6.318</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"t equals 4.324\"><semantics><mrow><mi>t</mi><mo>=</mo><mn>4.324</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"t equals 3.577\"><semantics><mrow><mi>t</mi><mo>=</mo><mn>3.577</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"t equals 2.289\"><semantics><mrow><mi>t</mi><mo>=</mo><mn>2.289</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"t equals 4.324\"><semantics><mrow><mi>t</mi><mo>=</mo><mn>4.324</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.14",
+    "text": "2.14: Logarithmic Function Context and Data Modeling"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Apply numerical results in a given mathematical or applied context."
+  }
+}

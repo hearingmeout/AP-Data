@@ -1,0 +1,41 @@
+{
+  "id": "VMD000000",
+  "type": "mcq",
+  "title": "Function Composition - Analytical",
+  "content": {
+    "description": "",
+    "question": "The function <math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is given by <math alttext=\"f open parentheses x close parentheses equals x squared plus 1\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, and the function <math alttext=\"g\"><semantics><mi>g</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is given by <math alttext=\"g open parentheses x close parentheses equals fraction numerator open parentheses x minus 3 close parentheses over denominator x end fraction\"><semantics><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfrac><mfenced><mrow><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfenced><mi>x</mi></mfrac></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. Which of the following is an expression for <math alttext=\"f open parentheses g open parentheses x close parentheses close parentheses\"><semantics><mrow><mi>f</mi><mfenced><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"fraction numerator x cubed minus 3 x squared plus x minus 3 over denominator x end fraction\"><semantics><mfrac><mrow><msup><mi>x</mi><mn>3</mn></msup><mo>-</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi><mo>-</mo><mn>3</mn></mrow><mi>x</mi></mfrac><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"fraction numerator x squared minus 2 over denominator x squared plus 1 end fraction\"><semantics><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>2</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn></mrow></mfrac><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"fraction numerator x squared minus 6 x plus 9 over denominator x squared end fraction plus 1\"><semantics><mrow><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>6</mn><mi>x</mi><mo>+</mo><mn>9</mn></mrow><msup><mi>x</mi><mn>2</mn></msup></mfrac><mo>+</mo><mn>1</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"fraction numerator x squared minus 8 over denominator x squared end fraction\"><semantics><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>8</mn></mrow><msup><mi>x</mi><mn>2</mn></msup></mfrac><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"fraction numerator x squared minus 6 x plus 9 over denominator x squared end fraction plus 1\"><semantics><mrow><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>6</mn><mi>x</mi><mo>+</mo><mn>9</mn></mrow><msup><mi>x</mi><mn>2</mn></msup></mfrac><mo>+</mo><mn>1</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.7",
+    "text": "2.7: Composition of Functions"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Express functions, equations, or expressions in analytically equivalent forms that are useful in a given mathematical or applied context."
+  }
+}

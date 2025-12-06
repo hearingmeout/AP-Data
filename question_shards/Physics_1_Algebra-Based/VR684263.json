@@ -1,0 +1,41 @@
+{
+  "id": "VR684263",
+  "type": "mcq",
+  "title": "Torque and work - block slowing wheel",
+  "content": {
+    "description": "",
+    "question": "A wheel with rotational inertia <math alttext=\"I\" display=\"inline\" overflow=\"scroll\"><mi>I</mi></math> and radius <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math> initially spins with angular speed <math alttext=\"omega sub 0\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>ω</mi><mn>0</mn></msub></mstyle></math>. A wooden block is pressed against the rim of the wheel, as shown. The block exerts a normal force of magnitude <math alttext=\"F sub N\" display=\"inline\" overflow=\"scroll\"><msub><mi>F</mi><mi>N</mi></msub></math> on the rim of the wheel, causing the wheel to slow down to rest. The coefficient of kinetic friction between the wheel and the block is <math alttext=\"mu sub k\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>μ</mi><mi>k</mi></msub></mstyle></math>. Which of the following is equal to the angular displacement of the wheel as it slows down to rest?",
+    "image": "https://ap.oly.st/images/c54297156e2b153cd3637fddfd0f48f6.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"the fraction with numerator I omega sub 0, and denominator mu sub k, end sub, times F sub N, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><mi>I</mi><msub><mi>ω</mi><mn>0</mn></msub></mrow><mrow><msub><mi>μ</mi><mi>k</mi></msub><msub><mi>F</mi><mi>N</mi></msub></mrow></mfrac></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator I omega sub 0, end sub, squared, and denominator 2 mu sub k, end sub, times F sub N, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><mi>I</mi><msubsup><mi>ω</mi><mn>0</mn><mn>2</mn></msubsup></mrow><mrow><mn>2</mn><msub><mi>μ</mi><mi>k</mi></msub><msub><mi>F</mi><mi>N</mi></msub></mrow></mfrac></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator I omega sub 0, and denominator R mu sub k, end sub, times F sub N, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><mi>I</mi><msub><mi>ω</mi><mn>0</mn></msub></mrow><mrow><mi>R</mi><msub><mi>μ</mi><mi>k</mi></msub><msub><mi>F</mi><mi>N</mi></msub></mrow></mfrac></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator I omega sub 0, end sub, squared, and denominator 2 R mu sub k, end sub, times F sub N, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><mi>I</mi><msubsup><mi>ω</mi><mn>0</mn><mn>2</mn></msubsup></mrow><mrow><mn>2</mn><mi>R</mi><msub><mi>μ</mi><mi>k</mi></msub><msub><mi>F</mi><mi>N</mi></msub></mrow></mfrac></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the fraction with numerator I omega sub 0, end sub, squared, and denominator 2 R mu sub k, end sub, times F sub N, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><mi>I</mi><msubsup><mi>ω</mi><mn>0</mn><mn>2</mn></msubsup></mrow><mrow><mn>2</mn><mi>R</mi><msub><mi>μ</mi><mi>k</mi></msub><msub><mi>F</mi><mi>N</mi></msub></mrow></mfrac></mstyle></math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Energy and Momentum of Rotating Systems"
+  },
+  "topic": {
+    "code": "6.2",
+    "text": "6.2: Torque and Work"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

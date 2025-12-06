@@ -1,0 +1,41 @@
+{
+  "id": "VH954115",
+  "type": "mcq",
+  "title": "remove even ArrayList elements",
+  "content": {
+    "description": "Consider the following method, which is intended to return a list containing the elements of the parameter myList with all even elements removed.",
+    "question": "public static ArrayList<Integer> removeEvens(ArrayList<Integer> myList){for (int i = 0; i < myList.size(); i++){if (myList.get(i) % 2 == 0){myList.remove(i);}}return myList;}Which of the following best explains why the code segment does not work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The code segment causes an IndexOutOfBoundsException for lists with at least one even element because the indexes of all subsequent elements change by one when a list element is removed.",
+        "image": null
+      },
+      {
+        "label": "The code segment returns a list with fewer elements than intended because it fails to consider the last element of myList.",
+        "image": null
+      },
+      {
+        "label": "The code segment removes the wrong elements of myList because the condition in the if statement to test whether an element is even is incorrect.",
+        "image": null
+      },
+      {
+        "label": "The code segment skips some elements of myList because the indexes of all subsequent elements change by one when a list element is removed.",
+        "image": null
+      }
+    ],
+    "answer": "The code segment skips some elements of myList because the indexes of all subsequent elements change by one when a list element is removed."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.9",
+    "text": "4.9: `ArrayList` Traversals"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

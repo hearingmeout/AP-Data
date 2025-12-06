@@ -1,0 +1,45 @@
+{
+  "id": "VH992151",
+  "type": "mcq",
+  "title": "Conditions and Residual plot",
+  "content": {
+    "description": "Russell plans on constructing a confidence interval for the slope of a regression line. He creates the residual plot shown to check the conditions for creating the interval. Which of the following conditions appear to be met based on the residual plot?",
+    "question": "The true relationship between <math alttext=\"x\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> and <math alttext=\"y\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi></mrow></mstyle></math> is not linear. Observations are independent. The standard deviation of <math alttext=\"y\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi></mrow></mstyle></math> does not vary with <math alttext=\"x\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math>.",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Statistics/a5e6cbe83a37aee41bf74ac5b8e52ab7.png",
+    "choices": [
+      {
+        "label": "<math alttext=\"1\" overflow=\"scroll\"><mstyle><mrow><mtext>I</mtext></mrow></mstyle></math> only",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2\" overflow=\"scroll\"><mstyle><mrow><mtext>II</mtext></mrow></mstyle></math> only",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"3\" overflow=\"scroll\"><mstyle><mrow><mtext>III</mtext></mrow></mstyle></math> only",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"1\" overflow=\"scroll\"><mstyle><mrow><mtext>I</mtext></mrow></mstyle></math> and <math alttext=\"2\" overflow=\"scroll\"><mstyle><mrow><mtext>II</mtext></mrow></mstyle></math> only",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2\" overflow=\"scroll\"><mstyle><mrow><mtext>II</mtext></mrow></mstyle></math> and <math alttext=\"3\" overflow=\"scroll\"><mstyle><mrow><mtext>III</mtext></mrow></mstyle></math> only",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"1\" overflow=\"scroll\"><mstyle><mrow><mtext>I</mtext></mrow></mstyle></math> only"
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Inference for Quantitative Data-Slopes"
+  },
+  "topic": {
+    "code": "9.2",
+    "text": "9.2: Confidence Intervals for the Slope of a Regression Model"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Verify that inference procedures apply in a given situation."
+  }
+}

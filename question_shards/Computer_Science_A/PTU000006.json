@@ -1,0 +1,41 @@
+{
+  "id": "PTU000006",
+  "type": "mcq",
+  "title": "nested if-else start end - determine result",
+  "content": {
+    "description": "",
+    "question": "What is the value of end after the code segment is executed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "5",
+        "image": null
+      },
+      {
+        "label": "6",
+        "image": null
+      },
+      {
+        "label": "9",
+        "image": null
+      },
+      {
+        "label": "10",
+        "image": null
+      }
+    ],
+    "answer": "6"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Nested `if` Statements"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VH969189",
+  "type": "mcq",
+  "title": "Processes - Fundamental Theorem of Calculus",
+  "content": {
+    "description": "",
+    "question": "The figure above shows the graph of the differentiable function <math alttext=\"g\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> and the line tangent to the graph of <math alttext=\"g\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> at the point <math alttext=\"with coordinates 5 comma 2\" overflow=\"scroll\"><mstyle><mrow><mo>(</mo><mn>5</mn><mo>,</mo><mn>2</mn><mo>)</mo></mrow></mstyle></math>. Let <math alttext=\"f\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be the function given by <math alttext=\"f of x, equals, the integral from, 0 to x, of, g of t, d t\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mstyle displaystyle=\"true\"><mrow><msubsup><mo>∫</mo><mrow><mn>0</mn></mrow><mrow><mi>x</mi></mrow></msubsup><mrow><mi>g</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow></mstyle></mrow></mstyle></math>. Let <math alttext=\"h\" overflow=\"scroll\"><mstyle><mrow><mi>h</mi></mrow></mstyle></math> be the function with first derivative given by <math alttext=\"h prime of x, equals, x squared, times the sine of, open parenthesis, x over 3, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>h</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>sin</mi><mo>⁡</mo><mo>(</mo><mfrac><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></mfrac><mo>)</mo></mrow></mstyle></math> for <math alttext=\"0 less than x, less than 7\" overflow=\"scroll\"><mstyle><mrow><mn>0</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>7</mn></mrow></mstyle></math>. If the line tangent to the graph of <math alttext=\"h\" overflow=\"scroll\"><mstyle><mrow><mi>h</mi></mrow></mstyle></math> at <math alttext=\"x equals a\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mi>a</mi></mrow></mstyle></math> is parallel to the line tangent to the graph of <math alttext=\"f\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> at <math alttext=\"x equals 5\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>5</mn></mrow></mstyle></math>, what is the value of <math alttext=\"a\" overflow=\"scroll\"><mstyle><mrow><mi>a</mi></mrow></mstyle></math> ?",
+    "image": "https://ap.oly.st/images/9e11d043eb46df3b3ca450aa4214eca5.png",
+    "choices": [
+      {
+        "label": "1.273",
+        "image": null
+      },
+      {
+        "label": "1.857",
+        "image": null
+      },
+      {
+        "label": "2.572",
+        "image": null
+      },
+      {
+        "label": "24.885",
+        "image": null
+      }
+    ],
+    "answer": "1.857"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.4",
+    "text": "6.4: The Fundamental Theorem of Calculus and Accumulation Functions"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

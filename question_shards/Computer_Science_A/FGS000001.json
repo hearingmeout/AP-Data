@@ -1,0 +1,41 @@
+{
+  "id": "FGS000001",
+  "type": "mcq",
+  "title": "Print HIDE using substrings - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following expressions can be used to replace /* missing code */ so that this code segment prints the string \"HIDE\"?",
+    "image": null,
+    "choices": [
+      {
+        "label": "original.substring(4) + original.substring(0, 1)",
+        "image": null
+      },
+      {
+        "label": "original.substring(4) + original.substring(0, 2)",
+        "image": null
+      },
+      {
+        "label": "original.substring(5) + original.substring(1, 2)",
+        "image": null
+      },
+      {
+        "label": "original.substring(5) + original.substring(1, 3)",
+        "image": null
+      }
+    ],
+    "answer": "original.substring(4) + original.substring(0, 2)"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

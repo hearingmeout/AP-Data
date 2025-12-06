@@ -1,0 +1,41 @@
+{
+  "id": "RBJ000002",
+  "type": "mcq",
+  "title": "Nested if statements - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the behavior of the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "When num is a negative odd integer, \"X\" is printed; otherwise, \"Y\" is printed.",
+        "image": null
+      },
+      {
+        "label": "When num is a positive even integer, \"X\" is printed; otherwise, \"Y\" is printed.",
+        "image": null
+      },
+      {
+        "label": "When num is a positive even integer, \"X\" is printed; when num is a positive odd integer, \"Y\" is printed; otherwise, nothing is printed.",
+        "image": null
+      },
+      {
+        "label": "When num is a positive odd integer, \"X\" is printed; when num is a positive even integer, \"Y\" is printed; otherwise, nothing is printed.",
+        "image": null
+      }
+    ],
+    "answer": "When num is a positive even integer, \"X\" is printed; when num is a positive odd integer, \"Y\" is printed; otherwise, nothing is printed."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Nested `if` Statements"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

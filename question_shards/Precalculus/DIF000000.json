@@ -1,0 +1,41 @@
+{
+  "id": "DIF000000",
+  "type": "mcq",
+  "title": "Polynomial - end behavior",
+  "content": {
+    "description": "",
+    "question": "​Which of the following functions has the end behaviors <math alttext=\"limit as x rightwards arrow negative infinity of p open parentheses x close parentheses equals infinity\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>→</mo><mo>-</mo><mo>∞</mo></mrow></munder><mi>p</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mo>∞</mo></math> and <math alttext=\"limit as x rightwards arrow infinity of p open parentheses x close parentheses equals infinity\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>→</mo><mo>∞</mo></mrow></munder><mi>p</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mo>∞</mo></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"p open parentheses x close parentheses equals open parentheses x minus 10 close parentheses open parentheses x plus 2 close parentheses open parentheses x plus 3 close parentheses\"><mi>p</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfenced><mrow><mi>x</mi><mo>-</mo><mn>10</mn></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"p open parentheses x close parentheses equals open parentheses x minus 10 close parentheses open parentheses x plus 2 close parentheses open parentheses x plus 3 close parentheses open parentheses x plus 4 close parentheses\"><mi>p</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfenced><mrow><mi>x</mi><mo>-</mo><mn>10</mn></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"p open parentheses x close parentheses equals open parentheses 10 minus x close parentheses open parentheses x plus 2 close parentheses open parentheses x plus 3 close parentheses\"><mi>p</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfenced><mrow><mn>10</mn><mo>-</mo><mi>x</mi></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"p open parentheses x close parentheses equals open parentheses 10 minus x close parentheses open parentheses x plus 2 close parentheses open parentheses x plus 3 close parentheses open parentheses x plus 4 close parentheses\"><mi>p</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfenced><mrow><mn>10</mn><mo>-</mo><mi>x</mi></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"p open parentheses x close parentheses equals open parentheses x minus 10 close parentheses open parentheses x plus 2 close parentheses open parentheses x plus 3 close parentheses open parentheses x plus 4 close parentheses\"><mi>p</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfenced><mrow><mi>x</mi><mo>-</mo><mn>10</mn></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow></mfenced></math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Polynomial and Rational Functions"
+  },
+  "topic": {
+    "code": "1.6",
+    "text": "1.6: Polynomial Functions and End Behavior"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Express functions, equations, or expressions in analytically equivalent forms that are useful in a given mathematical or applied context."
+  }
+}

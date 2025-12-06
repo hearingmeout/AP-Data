@@ -1,0 +1,41 @@
+{
+  "id": "VH958028",
+  "type": "mcq",
+  "title": "Justification - Arc Length",
+  "content": {
+    "description": "",
+    "question": "Which of the following expressions gives the length of the curve <math alttext=\"y equals, e raised to the 3 x power \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><msup><mrow><mi>e</mi></mrow><mrow><mn>3</mn><mi>x</mi></mrow></msup></mrow></mstyle></math> from <math alttext=\"x equals negative 1 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mrow><mo>−</mo><mn>1</mn></mrow></mrow></mstyle></math> to <math alttext=\"x equals 2 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>2</mn></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the integral from, negative 1 to 2, of, the square root of 1 plus, e raised to the 3 x power, end root, d x\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mrow><msubsup><mo>∫</mo><mrow><mo>−</mo><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mrow><msqrt><mrow><mn>1</mn><mo>+</mo><msup><mrow><mi>e</mi></mrow><mrow><mn>3</mn><mi>x</mi></mrow></msup></mrow></msqrt></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the integral from, negative 1 to 2, of, the square root of 1 plus, 3 times e raised to the 3 x power, end root, d x\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mrow><msubsup><mo>∫</mo><mrow><mo>−</mo><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mrow><msqrt><mrow><mn>1</mn><mo>+</mo><mn>3</mn><msup><mrow><mi>e</mi></mrow><mrow><mn>3</mn><mi>x</mi></mrow></msup></mrow></msqrt></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the integral from, negative 1 to 2, of, the square root of 1 plus, e raised to the 6 x power, end root, d x\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mrow><msubsup><mo>∫</mo><mrow><mo>−</mo><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mrow><msqrt><mrow><mn>1</mn><mo>+</mo><msup><mrow><mi>e</mi></mrow><mrow><mn>6</mn><mi>x</mi></mrow></msup></mrow></msqrt></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the integral from, negative 1 to 2, of, the square root of 1 plus, 9 times e raised to the 6 x power, end root, d x\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mrow><msubsup><mo>∫</mo><mrow><mo>−</mo><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mrow><msqrt><mrow><mn>1</mn><mo>+</mo><mn>9</mn><msup><mrow><mi>e</mi></mrow><mrow><mn>6</mn><mi>x</mi></mrow></msup></mrow></msqrt></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the integral from, negative 1 to 2, of, the square root of 1 plus, 9 times e raised to the 6 x power, end root, d x\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mrow><msubsup><mo>∫</mo><mrow><mo>−</mo><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mrow><msqrt><mrow><mn>1</mn><mo>+</mo><mn>9</mn><msup><mrow><mi>e</mi></mrow><mrow><mn>6</mn><mi>x</mi></mrow></msup></mrow></msqrt></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Applications of Integration"
+  },
+  "topic": {
+    "code": "8.13",
+    "text": "8.13: (BC ONLY) The Arc Length of a Smooth, Planar Curve and Distance Traveled"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

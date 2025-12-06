@@ -1,0 +1,41 @@
+{
+  "id": "VH977541",
+  "type": "mcq",
+  "title": "Justification - Taylor Polynomials",
+  "content": {
+    "description": "<math alttext=\"The figure presents a 6 column table with 1 row of data. The data in the table are as follows. x is negative 3. g of x is 1. g prime of x is negative 2. g double prime of x is negative 4. g triple prime of x is 2. The fourth derivative of g of x is 16.\"><mstyle><mrow><mstyle><mrow><mtable columnlines=\"solid\" columnspacing=\"0.0em\" columnwidth=\"3em 0.05em 3em 3em 3em 3em 4em\" frame=\"solid\" framespacing=\"0.0em 0ex\" rowlines=\"solid\" rowspacing=\"0.05ex\" width=\"auto\"><mtr><mtd><mi>x</mi></mtd><mtd><mspace depth=\"1.0ex\" height=\"2.5ex\" width=\"0.0em\"></mspace></mtd><mtd><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mtd><mtd><msup><mrow><mi>g</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mtd><mtd><msup><mrow><mi>g</mi></mrow><mrow><mo>′</mo><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mtd><mtd><msup><mrow><mi>g</mi></mrow><mrow><mo>′</mo><mo>′</mo><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mtd><mtd><msup><mrow><mi>g</mi></mrow><mrow><mrow><mo>(</mo><mn>4</mn><mo>)</mo></mrow></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mtd></mtr><mtr><mtd><mo>−</mo><mn>3</mn></mtd><mtd><mspace depth=\"1.0ex\" height=\"2.5ex\" width=\"0.0em\"></mspace></mtd><mtd><mn>1</mn></mtd><mtd><mo>−</mo><mn>2</mn></mtd><mtd><mo>−</mo><mn>4</mn></mtd><mtd><mn>2</mn></mtd><mtd><mn>16</mn></mtd></mtr></mtable></mrow></mstyle></mrow></mstyle></math>",
+    "question": "Selected values of a function <math alttext=\"g\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> and its first four derivatives are shown in the table above. What is the approximation for the value of <math alttext=\"g of negative 2 \"><mstyle><mrow><mi>g</mi><mrow><mo>(</mo><mrow><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></mstyle></math> obtained by using the third-degree Taylor polynomial for <math alttext=\"g\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> about <math alttext=\"x equals, negative 3 \"><mstyle><mrow><mi>x</mi><mo>=</mo><mrow><mo>−</mo><mn>3</mn></mrow></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"negative eight thirds\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mfrac><mrow><mn>8</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"negative seven thirds\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mfrac><mrow><mn>7</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"negative 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>2</mn></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"negative 3\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>3</mn></mrow></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"negative eight thirds\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mfrac><mrow><mn>8</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.11",
+    "text": "10.11: (BC ONLY) Finding Taylor Polynomial Approximations of Functions"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

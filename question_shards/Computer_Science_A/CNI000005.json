@@ -1,0 +1,41 @@
+{
+  "id": "CNI000005",
+  "type": "mcq",
+  "title": "Calculating sales tax - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following expressions can be used to replace /* missing code */ so that this method works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Item.price",
+        "image": null
+      },
+      {
+        "label": "myItem.price",
+        "image": null
+      },
+      {
+        "label": "Item.getPrice()",
+        "image": null
+      },
+      {
+        "label": "myItem.getPrice()",
+        "image": null
+      }
+    ],
+    "answer": "myItem.getPrice()"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.6",
+    "text": "3.6: Methods: Passing and Returning References of an Object"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

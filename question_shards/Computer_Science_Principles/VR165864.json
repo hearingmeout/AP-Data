@@ -1,0 +1,37 @@
+{
+  "id": "VR165864",
+  "type": "mcq",
+  "title": "Algorithm to keep track of high and low scores",
+  "content": {
+    "description": "",
+    "question": "A certain game keeps track of the maximum and minimum scores obtained so far. If num represents the most recent score obtained, which of the following algorithms correctly updates the values of the maximum and the minimum?",
+    "image": null,
+    "choices": [
+      {
+        "label": "If num is greater than the minimum, set the minimum equal to num. Otherwise, if num is greater than the maximum, set the maximum equal to num.",
+        "image": null
+      },
+      {
+        "label": "If num is less than the minimum, set the minimum equal to num. Otherwise, if num is greater than the maximum, set the maximum equal to num.",
+        "image": null
+      },
+      {
+        "label": "If num is less than the minimum, set the minimum equal to num. Otherwise, if num is less than the maximum, set the maximum equal to num.",
+        "image": null
+      },
+      {
+        "label": "If num is greater than the minimum, set the minimum equal to num. Otherwise, if num is less than the maximum, set the maximum equal to num.",
+        "image": null
+      }
+    ],
+    "answer": "If num is less than the minimum, set the minimum equal to num. Otherwise, if num is greater than the maximum, set the maximum equal to num."
+  },
+  "topic": {
+    "code": "3.6",
+    "text": "3.6: Conditionals"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Represent algorithmic processes without using a programming language."
+  }
+}

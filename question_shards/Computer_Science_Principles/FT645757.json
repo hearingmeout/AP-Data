@@ -1,0 +1,37 @@
+{
+  "id": "FT645757",
+  "type": "mcq",
+  "title": "Test cases for procedure Smallest",
+  "content": {
+    "description": "For which of the following values of will NOT return the intended value?",
+    "question": "Select two answers.",
+    "image": "https://ap.oly.st/images/3a1c5a19ccf767adb5cf1a0cdb94114a.JPG",
+    "choices": [
+      {
+        "label": "One word, the List, left arrow, open bracket, 10, 20, 30, 40, close bracket",
+        "image": "https://ap.oly.st/images/79af5246fe6aa99e9a4565a199d1ab2e.JPG"
+      },
+      {
+        "label": "One word, the List, left arrow, open bracket, 20, 10, 30, 40, close bracket",
+        "image": "https://ap.oly.st/images/7fae172d2a98c06d36337d0f153cd486.JPG"
+      },
+      {
+        "label": "One word, the List, left arrow, open bracket, 30, 40, 20, 10, close bracket",
+        "image": "https://ap.oly.st/images/5f72a77239504be56cdb3eb0b565a290.JPG"
+      },
+      {
+        "label": "One word, the List, left arrow, open bracket, 40, 30, 20, 10, close bracket",
+        "image": "https://ap.oly.st/images/587921d1352ebe16040c9cda0416c6f5.JPG"
+      }
+    ],
+    "answer": "One word, the List, left arrow, open bracket, 30, 40, 20, 10, close bracket"
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Identifying and Correcting Errors"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Identify and correct errors in algorithms and programs, including error discovery through testing."
+  }
+}

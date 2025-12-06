@@ -1,0 +1,41 @@
+{
+  "id": "XVJ000001",
+  "type": "mcq",
+  "title": "Create Painting object - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following code segments, appearing in a class other than Painting, will correctly create an instance of a Painting object?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Painting p = new Painting(\"Frida Kahlo\", \"Self Portrait\", 1939);",
+        "image": null
+      },
+      {
+        "label": "Painting p = new Painting(1939, \"Frida Kahlo\", \"Self Portrait\");",
+        "image": null
+      },
+      {
+        "label": "Painting p = new Painting(\"Frida Kahlo\", 1939);",
+        "image": null
+      },
+      {
+        "label": "Painting p = new Painting(1939, \"Frida Kahlo\");",
+        "image": null
+      }
+    ],
+    "answer": "Painting p = new Painting(1939, \"Frida Kahlo\");"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Method Signatures"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

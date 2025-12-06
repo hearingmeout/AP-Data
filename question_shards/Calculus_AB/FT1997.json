@@ -1,0 +1,45 @@
+{
+  "id": "FT1997",
+  "type": "mcq",
+  "title": "Limits and continuity from graph",
+  "content": {
+    "description": "",
+    "question": "The graph of the function f is shown above. Which of the following statements must be false?",
+    "image": "https://ap.oly.st/images/41b740f1134a407ce17bfb4e123031f7.png",
+    "choices": [
+      {
+        "label": "f(a) exists.",
+        "image": null
+      },
+      {
+        "label": "f(x) is defined for 0 < x < a.",
+        "image": null
+      },
+      {
+        "label": "f is not continuous at x = a.",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <munder> <mrow> <mi>lim</mi></mrow> <mrow> <mi>x</mi><mo>→</mo><mi>a</mi></mrow> </munder> <mi>f</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaCbeaeaaqa aaaaaaaaWdbiGacYgacaGGPbGaaiyBaaWcpaqaa8qacaWG4bGaeyOK H4QaamyyaaWdaeqaaOWdbiaadAgadaqadaWdaeaapeGaamiEaaGaay jkaiaawMcaaaaa@40C7@ </annotation> </semantics> </math> exists.",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>x</mi> <mo>→</mo> <mi>a</mi> </mrow> </munder> <msup> <mi>f</mi> <mo>′</mo> </msup> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaCbeaeaaqa aaaaaaaaWdbiGacYgacaGGPbGaaiyBaaWcpaqaa8qacaWG4bGaeyOK H4QaamyyaaWdaeqaaOWdbiqadAgagaqbamaabmaapaqaa8qacaWG4b aacaGLOaGaayzkaaaaaa@40D3@ </annotation> </semantics> </math> exists.",
+        "image": null
+      }
+    ],
+    "answer": "<math> <semantics> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>x</mi> <mo>→</mo> <mi>a</mi> </mrow> </munder> <msup> <mi>f</mi> <mo>′</mo> </msup> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaCbeaeaaqa aaaaaaaaWdbiGacYgacaGGPbGaaiyBaaWcpaqaa8qacaWG4bGaeyOK H4QaamyyaaWdaeqaaOWdbiqadAgagaqbamaabmaapaqaa8qacaWG4b aacaGLOaGaayzkaaaaaa@40D3@ </annotation> </semantics> </math> exists."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Estimating Limit Values from Graphs"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Identify mathematical information from graphical, numerical, analytical, and/or verbal representations."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "VR167814",
+  "type": "mcq",
+  "title": "Algorithm to select two students from thirty",
+  "content": {
+    "description": "",
+    "question": "A teacher has a goal of displaying the names of 2 students selected at random from a group of 30 students in a classroom. Any possible pair of students should be equally likely to be selected. Which of the following algorithms can be used to accomplish the teacher’s goal?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Step 1: Assign each student a unique integer from 1 to 30. Step 2: Generate a random integer n from 1 to 15. Step 3: Select the student who is currently assigned integer n and display the student’s name. Step 4: Generate a new random integer n from 16 to 30. Step 5: Select the student who is currently assigned integer n and display the student’s name.",
+        "image": null
+      },
+      {
+        "label": "Step 1: Assign each student a unique integer from 1 to 30. Step 2: Generate a random integer n from 1 to 30. Step 3: Select the student who is currently assigned integer n and display the student’s name. Step 4: Generate a new random integer n from 1 to 30. Step 5: Select the student who is currently assigned integer n and display the student’s name.",
+        "image": null
+      },
+      {
+        "label": "Step 1: Assign each student a unique integer from 1 to 30. Step 2: Generate a random odd integer n from 1 to 29. Step 3: Select the student who is currently assigned integer n and display the student’s name. Step 4: Generate a new random even integer n from 2 to 30. Step 5: Select the student who is currently assigned integer n and display the student’s name.",
+        "image": null
+      },
+      {
+        "label": "Step 1: Assign each student a unique integer from 1 to 30. Step 2: Generate a random integer n from 1 to 30. Step 3: Select the student who is currently assigned integer n and display the student’s name. Step 4: The student who was selected in the previous step is assigned 0. All other students are reassigned a unique integer from 1 to 29. Step 5: Generate a new random integer n from 1 to 29. Step 6: Select the student who is currently assigned integer n and display the student’s name.",
+        "image": null
+      }
+    ],
+    "answer": "Step 1: Assign each student a unique integer from 1 to 30. Step 2: Generate a random integer n from 1 to 30. Step 3: Select the student who is currently assigned integer n and display the student’s name. Step 4: The student who was selected in the previous step is assigned 0. All other students are reassigned a unique integer from 1 to 29. Step 5: Generate a new random integer n from 1 to 29. Step 6: Select the student who is currently assigned integer n and display the student’s name."
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Mathematical Expressions"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Represent algorithmic processes without using a programming language."
+  }
+}

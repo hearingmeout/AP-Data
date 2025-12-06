@@ -1,0 +1,41 @@
+{
+  "id": "BOG000003",
+  "type": "mcq",
+  "title": "swap in selection sort - determine behavior",
+  "content": {
+    "description": "",
+    "question": "How many times is the statement elements[minIndex] = temp; in line 17 of the method executed as a result of the call to selectionSort?",
+    "image": null,
+    "choices": [
+      {
+        "label": "2",
+        "image": null
+      },
+      {
+        "label": "3",
+        "image": null
+      },
+      {
+        "label": "4",
+        "image": null
+      },
+      {
+        "label": "5",
+        "image": null
+      }
+    ],
+    "answer": "3"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.15",
+    "text": "4.15: Sorting Algorithms"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

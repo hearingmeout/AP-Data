@@ -1,0 +1,41 @@
+{
+  "id": "TDP000002",
+  "type": "mcq",
+  "title": "reverseArray method - correct error",
+  "content": {
+    "description": "",
+    "question": "Which of the following changes can be made so the method returns the intended value?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Changing line 3 to String[] revLetters = new String[letters.length - 1];",
+        "image": null
+      },
+      {
+        "label": "Changing line 4 to for (int x = 0; x < letters.length - 1; x++)",
+        "image": null
+      },
+      {
+        "label": "Changing line 6 to revLetters[x] = letters[letters.length - x - 1];",
+        "image": null
+      },
+      {
+        "label": "Changing line 6 to letters[x] = revLetters[letters.length - x];",
+        "image": null
+      }
+    ],
+    "answer": "Changing line 6 to revLetters[x] = letters[letters.length - x - 1];"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implementing Array Algorithms"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

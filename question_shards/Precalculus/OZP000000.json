@@ -1,0 +1,41 @@
+{
+  "id": "OZP000000",
+  "type": "mcq",
+  "title": "Logarithmic Manipulation - combining properties",
+  "content": {
+    "description": "",
+    "question": "​The function <math alttext=\"h\"><semantics><mi>h</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is given by <math alttext=\"h open parentheses x close parentheses equals log subscript 3 x\"><semantics><mrow><mi>h</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msub><mi>log</mi><mn>3</mn></msub><mi>x</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. Which of the following is equivalent to the expression <math alttext=\"2 times h open parentheses w close parentheses plus h open parentheses p close parentheses\"><semantics><mrow><mn>2</mn><mo>·</mo><mi>h</mi><mfenced><mi>w</mi></mfenced><mo>+</mo><mi>h</mi><mfenced><mi>p</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, where <math alttext=\"w\"><semantics><mi>w</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> and <math alttext=\"p\"><semantics><mi>p</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> are values in the domain of <math alttext=\"h\"><semantics><mi>h</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"log subscript 3 open parentheses open parentheses w p close parentheses squared close parentheses\"><semantics><mrow><msub><mi>log</mi><mn>3</mn></msub><mfenced><msup><mfenced><mrow><mi>w</mi><mi>p</mi></mrow></mfenced><mn>2</mn></msup></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"open parentheses log subscript 3 w close parentheses squared times open parentheses log subscript 3 p close parentheses\"><semantics><mrow><msup><mfenced><mrow><msub><mi>log</mi><mn>3</mn></msub><mi>w</mi></mrow></mfenced><mn>2</mn></msup><mo>·</mo><mfenced><mrow><msub><mi>log</mi><mn>3</mn></msub><mi>p</mi></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"log subscript 3 open parentheses w squared p close parentheses\"><semantics><mrow><msub><mi>log</mi><mn>3</mn></msub><mfenced><mrow><msup><mi>w</mi><mn>2</mn></msup><mi>p</mi></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"log subscript 3 open parentheses 2 w p close parentheses\"><semantics><mrow><msub><mi>log</mi><mn>3</mn></msub><mfenced><mrow><mn>2</mn><mi>w</mi><mi>p</mi></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"log subscript 3 open parentheses w squared p close parentheses\"><semantics><mrow><msub><mi>log</mi><mn>3</mn></msub><mfenced><mrow><msup><mi>w</mi><mn>2</mn></msup><mi>p</mi></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.12",
+    "text": "2.12: Logarithmic Function Manipulation"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Express functions, equations, or expressions in analytically equivalent forms that are useful in a given mathematical or applied context."
+  }
+}

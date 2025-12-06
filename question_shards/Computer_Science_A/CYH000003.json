@@ -1,0 +1,41 @@
+{
+  "id": "CYH000003",
+  "type": "mcq",
+  "title": "Infinite loop - describecondition",
+  "content": {
+    "description": "",
+    "question": "Which of the following replacements for /* missing condition */ will cause an infinite loop?",
+    "image": null,
+    "choices": [
+      {
+        "label": "j == 100",
+        "image": null
+      },
+      {
+        "label": "j != 100",
+        "image": null
+      },
+      {
+        "label": "j <= 100",
+        "image": null
+      },
+      {
+        "label": "j >= 100",
+        "image": null
+      }
+    ],
+    "answer": "j != 100"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: `for` Loops"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

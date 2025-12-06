@@ -1,0 +1,41 @@
+{
+  "id": "NAI000001",
+  "type": "mcq",
+  "title": "allPositiveInRow for 2D array - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following replacements for /* initial value */ and /* updated value */ can be used so that the method works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Replace /* initial value */ with true and replace /* updated value */ with true.",
+        "image": null
+      },
+      {
+        "label": "Replace /* initial value */ with true and replace /* updated value */ with false.",
+        "image": null
+      },
+      {
+        "label": "Replace /* initial value */ with false and replace /* updated value */ with true.",
+        "image": null
+      },
+      {
+        "label": "Replace /* initial value */ with false and replace /* updated value */ with false.",
+        "image": null
+      }
+    ],
+    "answer": "Replace /* initial value */ with true and replace /* updated value */ with false."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.11",
+    "text": "4.11: 2D Array Creation and Access"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

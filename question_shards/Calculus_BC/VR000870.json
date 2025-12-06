@@ -1,0 +1,41 @@
+{
+  "id": "VR000870",
+  "type": "mcq",
+  "title": "Representations - Radius of Convergence",
+  "content": {
+    "description": "",
+    "question": "The radius of convergence of the power series <math alttext=\"the sum, from n equals 0, to infinity of, the fraction with numerator n factorial, times, open parenthesis, n plus 1, close parenthesis, factorial, and denominator, open parenthesis, 2 n, close parenthesis, factorial, end fraction, times x to the n power \" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mrow><munderover><mo>∑</mo><mrow><mi>n</mi><mo>=</mo><mn>0</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><mfrac><mrow><mi>n</mi><mo>!</mo><mrow><mo>(</mo><mi>n</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mo>!</mo></mrow><mrow><mrow><mo>(</mo><mn>2</mn><mi>n</mi><mo>)</mo></mrow><mo>!</mo></mrow></mfrac><msup><mrow><mi>x</mi></mrow><mrow><mi>n</mi></mrow></msup></mrow></mrow></mrow></mstyle></math> is",
+    "image": null,
+    "choices": [
+      {
+        "label": "0",
+        "image": null
+      },
+      {
+        "label": "1",
+        "image": null
+      },
+      {
+        "label": "2",
+        "image": null
+      },
+      {
+        "label": "4",
+        "image": null
+      }
+    ],
+    "answer": "4"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.13",
+    "text": "10.13: (BC ONLY) Radius and Interval of Convergence of Power Series"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

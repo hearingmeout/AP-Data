@@ -1,0 +1,37 @@
+{
+  "id": "VH905123",
+  "type": "mcq",
+  "title": "Park foot traffic simulation",
+  "content": {
+    "description": "",
+    "question": "Of the following, which is the most likely effect the updated model will have on the simulation?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The updated model is likely to decrease the runtime of the simulation because the time required for simulations generally depends on the complexity of the model used.",
+        "image": null
+      },
+      {
+        "label": "The updated model is likely to decrease the runtime of the simulation because simulations that use older models tend to require more time to run than simulations that use newer models.",
+        "image": null
+      },
+      {
+        "label": "The updated model is unlikely to decrease the runtime of the simulation because the simulation is computationally complex, regardless of the model used.",
+        "image": null
+      },
+      {
+        "label": "The updated model is unlikely to provide any benefit because removing details from a model will compromise the accuracy of the simulation.",
+        "image": null
+      }
+    ],
+    "answer": "The updated model is likely to decrease the runtime of the simulation because the time required for simulations generally depends on the complexity of the model used."
+  },
+  "topic": {
+    "code": "3.16",
+    "text": "3.16: Simulations"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

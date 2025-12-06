@@ -1,0 +1,41 @@
+{
+  "id": "VR846576",
+  "type": "mcq",
+  "title": "Equivalent resistance - R1 in parallel with R2-R3",
+  "content": {
+    "description": "",
+    "question": "The figure shows a portion of a circuit comprised of three resistors, with resistances as indicated. What is the equivalent resistance of the set of resistors in the figure?",
+    "image": "https://ap.oly.st/images/609bc757440cc86a707584f4fa00155d.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"R sub 1, end sub, plus R sub 2, end sub, plus R sub 3\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>1</mn></msub><mo>+</mo><msub><mi>R</mi><mn>2</mn></msub><mo>+</mo><msub><mi>R</mi><mn>3</mn></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"R sub 1, end sub, plus open parenthesis, the fraction 1 over R sub 2, end fraction, plus the fraction 1 over R sub 3, close parenthesis, raised to the negative 1 power\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>1</mn></msub><mo>+</mo><msup><mrow><mo>(</mo><mfrac><mn>1</mn><msub><mi>R</mi><mn>2</mn></msub></mfrac><mo>+</mo><mfrac><mn>1</mn><msub><mi>R</mi><mn>3</mn></msub></mfrac><mo>)</mo></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open parenthesis, the fraction 1 over R sub 1, end fraction, plus the fraction 1 over R sub 2, end fraction, plus the fraction 1 over R sub 3, close parenthesis, raised to the negative 1 power\" display=\"inline\" overflow=\"scroll\"><msup><mrow><mo>(</mo><mfrac><mn>1</mn><msub><mi>R</mi><mn>1</mn></msub></mfrac><mo>+</mo><mfrac><mn>1</mn><msub><mi>R</mi><mn>2</mn></msub></mfrac><mo>+</mo><mfrac><mn>1</mn><msub><mi>R</mi><mn>3</mn></msub></mfrac><mo>)</mo></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open parenthesis, the fraction 1 over R sub 1, end fraction, plus the fraction with numerator 1, and denominator R sub 2, end sub, plus R sub 3, end fraction, close parenthesis, raised to the negative 1 power\" display=\"inline\" overflow=\"scroll\"><msup><mrow><mo>(</mo><mfrac><mn>1</mn><msub><mi>R</mi><mn>1</mn></msub></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><msub><mi>R</mi><mn>2</mn></msub><mo>+</mo><msub><mi>R</mi><mn>3</mn></msub></mrow></mfrac><mo>)</mo></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"open parenthesis, the fraction 1 over R sub 1, end fraction, plus the fraction with numerator 1, and denominator R sub 2, end sub, plus R sub 3, end fraction, close parenthesis, raised to the negative 1 power\" display=\"inline\" overflow=\"scroll\"><msup><mrow><mo>(</mo><mfrac><mn>1</mn><msub><mi>R</mi><mn>1</mn></msub></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><msub><mi>R</mi><mn>2</mn></msub><mo>+</mo><msub><mi>R</mi><mn>3</mn></msub></mrow></mfrac><mo>)</mo></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup></math>"
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.5",
+    "text": "11.5: Compound Direct Current (DC) Circuits"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

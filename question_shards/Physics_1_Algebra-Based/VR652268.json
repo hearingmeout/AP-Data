@@ -1,0 +1,41 @@
+{
+  "id": "VR652268",
+  "type": "mcq",
+  "title": "Rotational dynamics - tension in pulley string",
+  "content": {
+    "description": "",
+    "question": "A disk with mass <math alttext=\"uppercase M \" display=\"inline\" overflow=\"scroll\"><mi>M</mi></math>, radius <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math>, and rotational inertia <math alttext=\"l equals one half uppercase M R squared\" display=\"inline\" overflow=\"scroll\"><mi>I</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>M</mi><msup><mi>R</mi><mn>2</mn></msup></math> around its center is free to rotate with negligible friction forces about a horizontal axle at its center, as shown. A string with negligible mass is wrapped around the disk multiple times and a small block with mass <math alttext=\"lowercase m\" display=\"inline\" overflow=\"scroll\"><mi>m</mi></math> is attached to its free end. The block is released and the disk begins to rotate. Which of the following expressions is equal to the tension in the string after the block is released?",
+    "image": "https://ap.oly.st/images/b08623216bc7faa332e2bb3970c03576.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"lowercase m g\" display=\"inline\" overflow=\"scroll\"><mi>m</mi><mi>g</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open parenthesis, lowercase m plus the fraction uppercase M over 2, close parenthesis, g\" display=\"inline\" overflow=\"scroll\"><mrow><mo>(</mo><mi>m</mi><mo>+</mo><mfrac><mi>M</mi><mn>2</mn></mfrac><mo>)</mo></mrow><mi>g</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"uppercase M, open parenthesis, the fraction with numerator lowercase m g, and denominator, uppercase M plus lowercase m, end fraction, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mi>M</mi><mrow><mo>(</mo><mfrac><mrow><mi>m</mi><mi>g</mi></mrow><mrow><mi>M</mi><mo>+</mo><mi>m</mi></mrow></mfrac><mo>)</mo></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction uppercase M over 2, open parenthesis, the fraction with numerator lowercase m g, and denominator the fraction uppercase M over 2, end fraction, plus lowercase m, end denominator, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mfrac><mi>M</mi><mn>2</mn></mfrac><mrow><mo>(</mo><mfrac><mrow><mi>m</mi><mi>g</mi></mrow><mrow><mfrac><mi>M</mi><mn>2</mn></mfrac><mo>+</mo><mi>m</mi></mrow></mfrac><mo>)</mo></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the fraction uppercase M over 2, open parenthesis, the fraction with numerator lowercase m g, and denominator the fraction uppercase M over 2, end fraction, plus lowercase m, end denominator, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mfrac><mi>M</mi><mn>2</mn></mfrac><mrow><mo>(</mo><mfrac><mrow><mi>m</mi><mi>g</mi></mrow><mrow><mfrac><mi>M</mi><mn>2</mn></mfrac><mo>+</mo><mi>m</mi></mrow></mfrac><mo>)</mo></mrow></math>"
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.6",
+    "text": "5.6: Newton's Second Law in Rotational Form"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

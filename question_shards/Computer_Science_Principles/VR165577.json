@@ -1,0 +1,37 @@
+{
+  "id": "VR165577",
+  "type": "mcq",
+  "title": "Using binary search on list of genetic codes",
+  "content": {
+    "description": "",
+    "question": "A large number of genetic codes are stored as binary values in a list. Which one of the following conditions must be true in order for a researcher to obtain the correct result when using a binary search algorithm to determine if a given genetic code is in the list?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The genetic codes must be converted from binary to decimal numbers.",
+        "image": null
+      },
+      {
+        "label": "The list must be sorted based on the genetic code values.",
+        "image": null
+      },
+      {
+        "label": "The number of genetic code values in the list must be a power of 2.",
+        "image": null
+      },
+      {
+        "label": "The number of genetic code values in the list must be even.",
+        "image": null
+      }
+    ],
+    "answer": "The list must be sorted based on the genetic code values."
+  },
+  "topic": {
+    "code": "3.11",
+    "text": "3.11: Binary Search"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Investigate the situation, context, or task."
+  }
+}

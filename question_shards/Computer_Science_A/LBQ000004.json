@@ -1,0 +1,41 @@
+{
+  "id": "LBQ000004",
+  "type": "mcq",
+  "title": "XYPoint Class - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following statements can be used to replace /* missing code */ so that this code segment produces the intended output?",
+    "image": null,
+    "choices": [
+      {
+        "label": "System.out.println(\"(x, y)\");",
+        "image": null
+      },
+      {
+        "label": "System.out.println(\"(\" + x + \", \" + y + \")\");",
+        "image": null
+      },
+      {
+        "label": "return \"(x, y)\";",
+        "image": null
+      },
+      {
+        "label": "return \"(\" + x + \", \" + y + \")\";",
+        "image": null
+      }
+    ],
+    "answer": "return \"(\" + x + \", \" + y + \")\";"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.5",
+    "text": "3.5: Methods: How to Write Them"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

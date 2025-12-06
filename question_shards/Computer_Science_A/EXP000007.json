@@ -1,0 +1,41 @@
+{
+  "id": "EXP000007",
+  "type": "mcq",
+  "title": "recursive mystery method - describe result",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the value returned by the method?",
+    "image": null,
+    "choices": [
+      {
+        "label": "It returns 2 more than the number of digits in num.",
+        "image": null
+      },
+      {
+        "label": "It returns 2 more than the sum of the digits in num.",
+        "image": null
+      },
+      {
+        "label": "It returns 2 times the number of digits in num.",
+        "image": null
+      },
+      {
+        "label": "It returns 2 times the sum of the digits in num.",
+        "image": null
+      }
+    ],
+    "answer": "It returns 2 times the number of digits in num."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.16",
+    "text": "4.16: Recursion"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

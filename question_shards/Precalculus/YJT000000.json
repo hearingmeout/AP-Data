@@ -1,0 +1,41 @@
+{
+  "id": "YJT000000",
+  "type": "mcq",
+  "title": "Polynomial End Behavior - limit notation",
+  "content": {
+    "description": "",
+    "question": "​The function <math alttext=\"f\"><mi>f</mi></math> is given by <math alttext=\"f open parentheses x close parentheses equals negative 2 x to the power of 7 plus 5 x to the power of 4 plus 6 x squared minus 3\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mo>-</mo><mn>2</mn><msup><mi>x</mi><mn>7</mn></msup><mo>+</mo><mn>5</mn><msup><mi>x</mi><mn>4</mn></msup><mo>+</mo><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>3</mn></math>. Which of the following correctly describes the end behavior of <math alttext=\"f\"><mi>f</mi></math> as the input values increase without bound?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"limit as x rightwards arrow infinity of f open parentheses x close parentheses equals infinity\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>→</mo><mo>∞</mo></mrow></munder><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mo>∞</mo></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"limit as x rightwards arrow infinity of f open parentheses x close parentheses equals negative infinity\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>→</mo><mo>∞</mo></mrow></munder><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mo>-</mo><mo>∞</mo></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"limit as x rightwards arrow negative infinity of f open parentheses x close parentheses equals infinity\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>→</mo><mo>-</mo><mo>∞</mo></mrow></munder><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mo>∞</mo></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"limit as x rightwards arrow negative infinity of f open parentheses x close parentheses equals negative infinity\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>→</mo><mo>-</mo><mo>∞</mo></mrow></munder><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mo>-</mo><mo>∞</mo></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"limit as x rightwards arrow infinity of f open parentheses x close parentheses equals negative infinity\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>→</mo><mo>∞</mo></mrow></munder><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mo>-</mo><mo>∞</mo></math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Polynomial and Rational Functions"
+  },
+  "topic": {
+    "code": "1.6",
+    "text": "1.6: Polynomial Functions and End Behavior"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Describe the characteristics of a function with varying levels of precision, depending on the function representation and available mathematical tools."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "VH904653",
+  "type": "mcq",
+  "title": "RC Circuit Voltage graph",
+  "content": {
+    "description": "",
+    "question": "Two capacitors, <math alttext=\"C sub 1\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mstyle></math> and <math alttext=\"C sub 2\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mstyle></math>, are initially uncharged and are connected with a resistor, switch, and battery as shown in the circuit above. Voltmeters are used to collect data for the potential difference <math alttext=\"V sub 1\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mstyle></math> across capacitor <math alttext=\"C sub 1\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mstyle></math> and potential difference <math alttext=\"V sub 2\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>V</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mstyle></math> across capacitor <math alttext=\"C sub 2\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mstyle></math> at regular intervals of time after the switch is closed. The data are plotted in the graph shown. Which of the following claims supports the results of the experiment?",
+    "image": "https://ap.oly.st/images/5e17a76cfe9495ca9c97d2f94d2d75c5.png",
+    "choices": [
+      {
+        "label": "The capacitors are in series, so the amount of charge stored on each capacitor is always the same, and therefore the magnitude of the slope shows that capacitor <math alttext=\"C sub 2\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mstyle></math> has twice the capacitance as capacitor <math alttext=\"C sub 1\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "The capacitors are in series, so the amount of charge stored on each capacitor is always the same, and therefore the magnitude of the slope shows that capacitor <math alttext=\"C sub 2\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mstyle></math> has half the capacitance as capacitor <math alttext=\"C sub 1\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "The capacitors are in series, so the current for each capacitor is always the same, and therefore the magnitude of the slope shows that capacitor <math alttext=\"C sub 2\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mstyle></math> has twice the resistance as capacitor <math alttext=\"C sub 1\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "The capacitors are in parallel, so the current for capacitor <math alttext=\"C sub 1\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mstyle></math> is inversely proportional to the current for capacitor <math alttext=\"C sub 2\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mstyle></math>, and therefore the magnitude of the slope shows that capacitor <math alttext=\"C sub 2\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mstyle></math> has half the resistance as capacitor <math alttext=\"C sub 1\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "The linear graph indicates that one or both capacitors are not working correctly. The potential difference across the capacitors should produce an exponential curve, not a straight-line graph.",
+        "image": null
+      }
+    ],
+    "answer": "The capacitors are in series, so the amount of charge stored on each capacitor is always the same, and therefore the magnitude of the slope shows that capacitor <math alttext=\"C sub 2\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mstyle></math> has half the capacitance as capacitor <math alttext=\"C sub 1\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>C</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mstyle></math>."
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.8",
+    "text": "11.8: Resistor-Capacitor (RC) Circuits"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

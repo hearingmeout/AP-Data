@@ -1,0 +1,45 @@
+{
+  "id": "FT561083",
+  "type": "mcq",
+  "title": "Improper integrals",
+  "content": {
+    "description": "",
+    "question": "<math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>1</mn> <mi>∞</mi> </msubsup> <mrow> <mfrac> <mn>1</mn> <mrow> <msup> <mi>x</mi> <mi>P</mi> </msup> </mrow> </mfrac> </mrow> </mrow> </mstyle><mi>d</mi><mi>x</mi></mrow> </math> and <math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>1</mn> </msubsup> <mrow> <mfrac> <mn>1</mn> <mrow> <msup> <mi>x</mi> <mi>P</mi> </msup> </mrow> </mfrac> </mrow> </mrow> </mstyle><mi>d</mi><mi>x</mi></mrow> </math> both diverge when p =",
+    "image": null,
+    "choices": [
+      {
+        "label": "2",
+        "image": null
+      },
+      {
+        "label": "1",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "0",
+        "image": null
+      },
+      {
+        "label": "-1",
+        "image": null
+      }
+    ],
+    "answer": "1"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.13",
+    "text": "6.13: (BC ONLY) Evaluating Improper Integrals"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

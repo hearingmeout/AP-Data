@@ -1,0 +1,41 @@
+{
+  "id": "ARG000003",
+  "type": "mcq",
+  "title": "Print Asimov quote - fix error",
+  "content": {
+    "description": "",
+    "question": "Which change, if any, can be made so that the code segment produces the intended output?",
+    "image": null,
+    "choices": [
+      {
+        "label": "In line 1, print should be changed to println.",
+        "image": null
+      },
+      {
+        "label": "The statement System.out.println() should be inserted between lines 2 and 3.",
+        "image": null
+      },
+      {
+        "label": "In lines 1, 2, and 3, the text that appears in parentheses should be enclosed in quotation marks.",
+        "image": null
+      },
+      {
+        "label": "No change is needed; the code segment works correctly as is.",
+        "image": null
+      }
+    ],
+    "answer": "In lines 1, 2, and 3, the text that appears in parentheses should be enclosed in quotation marks."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

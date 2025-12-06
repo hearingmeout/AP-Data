@@ -1,0 +1,41 @@
+{
+  "id": "EPF000003",
+  "type": "mcq",
+  "title": "for loop array - determine behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the behavior of the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The loop adds 10 to each element in arr1.",
+        "image": null
+      },
+      {
+        "label": "The loop adds 10 to num once for each element in arr1.",
+        "image": null
+      },
+      {
+        "label": "The loop adds the value of each element in arr1 to num.",
+        "image": null
+      },
+      {
+        "label": "The loop does not change the value of num because it uses an enhanced for loop.",
+        "image": null
+      }
+    ],
+    "answer": "The loop adds 10 to num once for each element in arr1."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.4",
+    "text": "4.4: Array Traversals"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "FT2136",
+  "type": "mcq",
+  "title": "Convergence of several series",
+  "content": {
+    "description": "Which of the following series converge?",
+    "question": "I. <math> <mrow> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>n</mi><mo>=</mo><mn>1</mn></mrow> <mi>∞</mi> </munderover> <mrow> <mfrac> <mrow> <mrow><mo>|</mo> <mrow> <mi>sin</mi><mi>n</mi></mrow> <mo>|</mo></mrow></mrow> <mrow> <msup> <mi>n</mi> <mn>2</mn> </msup> </mrow> </mfrac> </mrow> </mstyle></mrow> </math> II. <math> <mrow> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>n</mi><mo>=</mo><mn>1</mn></mrow> <mi>∞</mi> </munderover> <mrow> <msup> <mi>e</mi> <mrow> <mo>−</mo><mi>n</mi></mrow> </msup> </mrow> </mstyle></mrow> </math> III. <math> <mrow> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>n</mi> <mo>=</mo> <mn>1</mn> </mrow> <mi>∞</mi> </munderover> <mrow> <mfrac> <mrow> <mi>n</mi> <mo>+</mo> <mn>2</mn> </mrow> <mrow> <msup> <mi>n</mi> <mn>2</mn> </msup> <mo>+</mo> <mi>n</mi> </mrow> </mfrac> </mrow> </mstyle> </mrow> </math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "I only",
+        "image": null
+      },
+      {
+        "label": "II only",
+        "image": null
+      },
+      {
+        "label": "III only",
+        "image": null
+      },
+      {
+        "label": "I and II only",
+        "image": null
+      },
+      {
+        "label": "I and III only",
+        "image": null
+      }
+    ],
+    "answer": "I and II only"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.5",
+    "text": "10.5: (BC ONLY) Harmonic Series and p-Series"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

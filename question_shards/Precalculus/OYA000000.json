@@ -1,0 +1,41 @@
+{
+  "id": "OYA000000",
+  "type": "mcq",
+  "title": "Exponential Manipulation - negative exponent",
+  "content": {
+    "description": "",
+    "question": "The function <math alttext=\"h\"><semantics><mi>h</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is given by <math alttext=\"h open parentheses x close parentheses equals 5 times 3 to the power of open parentheses negative x divided by 2 close parentheses end exponent\"><semantics><mrow><mi>h</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>5</mn><mo>·</mo><msup><mn>3</mn><mfenced><mrow><mo>-</mo><mi>x</mi><mo>/</mo><mn>2</mn></mrow></mfenced></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. What is the value of <math alttext=\"h open parentheses 1 close parentheses\"><semantics><mrow><mi>h</mi><mfenced><mn>1</mn></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"negative 5 square root of 3\"><semantics><mrow><mo>-</mo><mn>5</mn><msqrt><mn>3</mn></msqrt></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"fraction numerator 1 over denominator square root of 15 end fraction\"><semantics><mfrac><mn>1</mn><msqrt><mn>15</mn></msqrt></mfrac><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"5 over 9\"><semantics><mfrac><mn>5</mn><mn>9</mn></mfrac><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"fraction numerator 5 over denominator square root of 3 end fraction\"><semantics><mfrac><mn>5</mn><msqrt><mn>3</mn></msqrt></mfrac><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"fraction numerator 5 over denominator square root of 3 end fraction\"><semantics><mfrac><mn>5</mn><msqrt><mn>3</mn></msqrt></mfrac><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Exponential Function Manipulation"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Express functions, equations, or expressions in analytically equivalent forms that are useful in a given mathematical or applied context."
+  }
+}

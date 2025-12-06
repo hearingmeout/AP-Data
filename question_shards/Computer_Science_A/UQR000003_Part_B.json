@@ -1,0 +1,28 @@
+{
+  "id": "UQR000003_Part_B",
+  "type": "frq",
+  "title": "MessageBuilder_Part_B",
+  "content": {
+    "description": "",
+    "question": "Write the getAbbreviation method, which returns an abbreviation consisting of the first letter of each word in message. Assume that message consists of two or more words, each separated by a single space.For example, if the value of message is \"as soon as possible\", then getAbbreviation() should return \"asap\". Complete the getAbbreviation method. /** * Returns an abbreviation for the instance variable message, * as described in part (b) * Preconditions: Each word in message is separated by a single space. * message contains two or more words. * Postcondition: message is unchanged. */ public String getAbbreviation()",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Write the getAbbreviation method, which returns an abbreviation consisting of the first letter of each word in message. Assume that message consists of two or more words, each separated by a single space.For example, if the value of message is \"as soon as possible\", then getAbbreviation() should return \"asap\". Complete the getAbbreviation method. /** * Returns an abbreviation for the instance variable message, * as described in part (b) * Preconditions: Each word in message is separated by a single space. * message contains two or more words. * Postcondition: message is unchanged. */ public String getAbbreviation()",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

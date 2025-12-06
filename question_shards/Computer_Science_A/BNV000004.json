@@ -1,0 +1,41 @@
+{
+  "id": "BNV000004",
+  "type": "mcq",
+  "title": "Keyword this in classes - determine result",
+  "content": {
+    "description": "",
+    "question": "What, if anything, is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "2",
+        "image": null
+      },
+      {
+        "label": "1",
+        "image": null
+      },
+      {
+        "label": "-2",
+        "image": null
+      },
+      {
+        "label": "Nothing is printed because the code segment does not compile.",
+        "image": null
+      }
+    ],
+    "answer": "-2"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.9",
+    "text": "3.9: `this` Keyword"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

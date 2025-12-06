@@ -1,0 +1,37 @@
+{
+  "id": "VR167110",
+  "type": "mcq",
+  "title": "Largest possible sum of values from theList",
+  "content": {
+    "description": "Consider the following code segment. Assume that index1 is a number between 1 and LENGTH(theList), inclusive, and index2 is a number between 2 and LENGTH(theList) - 1, inclusive.",
+    "question": "theList <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> [9, -1, 5, 2, 4, 8]x <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> theList[index1] + theList[index2]What is the largest possible value that the variable x can have after the code segment executes?",
+    "image": null,
+    "choices": [
+      {
+        "label": "17",
+        "image": null
+      },
+      {
+        "label": "14",
+        "image": null
+      },
+      {
+        "label": "11",
+        "image": null
+      },
+      {
+        "label": "4",
+        "image": null
+      }
+    ],
+    "answer": "14"
+  },
+  "topic": {
+    "code": "3.10",
+    "text": "3.10: Lists"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

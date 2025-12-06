@@ -1,0 +1,41 @@
+{
+  "id": "VR839030",
+  "type": "mcq",
+  "title": "Kirchhoff junction - compare I-bat I-R and I-2R",
+  "content": {
+    "description": "",
+    "question": "The figure shows a circuit consisting of a battery and four resistors with the resistances indicated. The current supplied by the battery is <math alttext=\"I sub Battery\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mtext>Bat</mtext></msub></math>, and the currents in the lower-left and lower-right resistors are <math alttext=\"I sub R\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mi>R</mi></msub></math> and <math alttext=\"I sub 2 R, end sub\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mrow><mn>2</mn><mi>R</mi></mrow></msub></math>, respectively. How do the currents <math alttext=\"I sub R\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mi>R</mi></msub></math> and <math alttext=\"I sub 2 R, end sub\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mrow><mn>2</mn><mi>R</mi></mrow></msub></math> compare, and how does <math alttext=\"I sub Battery\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mtext>Bat</mtext></msub></math> compare to the sum <math alttext=\"I sub R, end sub, plus I sub 2 R, end sub\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mi>R</mi></msub><mo>+</mo><msub><mi>I</mi><mrow><mn>2</mn><mi>R</mi></mrow></msub></math>?",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_2_Algebra-Based/35022c0a04d121fde172a19b14cceca9.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"I sub R, equals I sub 2 R, end sub\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mi>R</mi></msub><mo>=</mo><msub><mi>I</mi><mrow><mn>2</mn><mi>R</mi></mrow></msub></math> and <math alttext=\"I sub Battery, equals I sub R, end sub, plus I sub 2 R, end sub\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mtext>Bat</mtext></msub><mo>=</mo><msub><mi>I</mi><mi>R</mi></msub><mo>+</mo><msub><mi>I</mi><mrow><mn>2</mn><mi>R</mi></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"I sub R, equals I sub 2 R, end sub\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mi>R</mi></msub><mo>=</mo><msub><mi>I</mi><mrow><mn>2</mn><mi>R</mi></mrow></msub></math> and <math alttext=\"I sub Battery, is greater than I sub R, end sub, plus I sub 2 R, end sub\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mtext>Bat</mtext></msub><mo>&gt;</mo><msub><mi>I</mi><mi>R</mi></msub><mo>+</mo><msub><mi>I</mi><mrow><mn>2</mn><mi>R</mi></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"I sub R, is greater than I sub 2 R, end sub\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mi>R</mi></msub><mo>&gt;</mo><msub><mi>I</mi><mrow><mn>2</mn><mi>R</mi></mrow></msub></math> and <math alttext=\"I sub Battery, equals I sub R, end sub, plus I sub 2 R, end sub\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mtext>Bat</mtext></msub><mo>=</mo><msub><mi>I</mi><mi>R</mi></msub><mo>+</mo><msub><mi>I</mi><mrow><mn>2</mn><mi>R</mi></mrow></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"I sub R, is greater than I sub 2 R, end sub\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mi>R</mi></msub><mo>&gt;</mo><msub><mi>I</mi><mrow><mn>2</mn><mi>R</mi></mrow></msub></math> and <math alttext=\"I sub Battery, is greater than I sub R, end sub, plus I sub 2 R, end sub\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mtext>Bat</mtext></msub><mo>&gt;</mo><msub><mi>I</mi><mi>R</mi></msub><mo>+</mo><msub><mi>I</mi><mrow><mn>2</mn><mi>R</mi></mrow></msub></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"I sub R, is greater than I sub 2 R, end sub\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mi>R</mi></msub><mo>&gt;</mo><msub><mi>I</mi><mrow><mn>2</mn><mi>R</mi></mrow></msub></math> and <math alttext=\"I sub Battery, equals I sub R, end sub, plus I sub 2 R, end sub\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mtext>Bat</mtext></msub><mo>=</mo><msub><mi>I</mi><mi>R</mi></msub><mo>+</mo><msub><mi>I</mi><mrow><mn>2</mn><mi>R</mi></mrow></msub></math>"
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.7",
+    "text": "11.7: Kirchhoff's Junction Rule"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

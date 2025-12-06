@@ -1,0 +1,41 @@
+{
+  "id": "IBW000000",
+  "type": "mcq",
+  "title": "Polar Graphs - defining a function",
+  "content": {
+    "description": "",
+    "question": "The curve consists of three congruent loops that meet at the origin. The first loop is symmetric over the positive x axis. It runs from the origin, up to the right, then down to the right to (r comma theta) equals (3 comma 0). The loop continues down to the left, then up to the left back to the origin. The second loop is identical to the first loop but is a rotation of the first loop about the origin by 2 pi over 3 radians. The second loop is symmetric over theta equals 2 pi over 3 and includes the origin and (r comma theta) equals (3 comma 2 pi over 3). The third loop is identical to the first and second loops but is a rotation of the first loop about the origin by 4 pi over 3 radians. The third loop is symmetric over theta equals 4 pi over 3 and includes the origin and (r comma theta) equals (3 comma 4 pi over 3). ​The graph of the polar function <math alttext=\"r equals f open parentheses theta close parentheses\"><semantics><mrow><mi>r</mi><mo>=</mo><mi>f</mi><mfenced><mi>θ</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is given in the polar coordinate system. Which of the following defines <math alttext=\"f open parentheses theta close parentheses\"><semantics><mrow><mi>f</mi><mfenced><mi>θ</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> for <math alttext=\"0 less or equal than theta less or equal than 2 pi\"><semantics><mrow><mn>0</mn><mo>≤</mo><mi>θ</mi><mo>≤</mo><mn>2</mn><mi>π</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": "https://ap.oly.st/images/0860a87e0ef8e512116a37ddffb62c56.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"3 plus cos open parentheses 3 theta close parentheses\"><semantics><mrow><mn>3</mn><mo>+</mo><mi>cos</mi><mfenced><mrow><mn>3</mn><mi>θ</mi></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>​",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"3 cos open parentheses 3 theta close parentheses\"><semantics><mrow><mn>3</mn><mi>cos</mi><mfenced><mrow><mn>3</mn><mi>θ</mi></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"3 plus sin open parentheses 3 theta close parentheses\"><semantics><mrow><mn>3</mn><mo>+</mo><mi>sin</mi><mfenced><mrow><mn>3</mn><mi>θ</mi></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"3 sin open parentheses 3 theta close parentheses\"><semantics><mrow><mn>3</mn><mi>sin</mi><mfenced><mrow><mn>3</mn><mi>θ</mi></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"3 cos open parentheses 3 theta close parentheses\"><semantics><mrow><mn>3</mn><mi>cos</mi><mfenced><mrow><mn>3</mn><mi>θ</mi></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Trigonometric and Polar Functions"
+  },
+  "topic": {
+    "code": "3.14",
+    "text": "3.14: Polar Function Graphs"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Construct equivalent graphical, numerical, analytical, and verbal representations of functions that are useful in a given mathematical or applied context, with and without technology."
+  }
+}

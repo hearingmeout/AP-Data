@@ -1,0 +1,37 @@
+{
+  "id": "VR166073",
+  "type": "mcq",
+  "title": "Output of printArgs procedure",
+  "content": {
+    "description": "In the following procedure, the parameter str is a string and the parameter num is a number.",
+    "question": "PROCEDURE printArgs(str, num){DISPLAY(num)DISPLAY(str)DISPLAY(num)}Consider the following code segment.printArgs(\"**\", 1)printArgs(\"*\", 2)What is displayed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "1 * 1 2 ** 2",
+        "image": null
+      },
+      {
+        "label": "1 ** 1 2 * 2",
+        "image": null
+      },
+      {
+        "label": "* 1 * ** 2 **",
+        "image": null
+      },
+      {
+        "label": "** 1 ** * 2 *",
+        "image": null
+      }
+    ],
+    "answer": "1 ** 1 2 * 2"
+  },
+  "topic": {
+    "code": "3.12",
+    "text": "3.12: Calling Procedures"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

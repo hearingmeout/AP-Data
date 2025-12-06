@@ -1,0 +1,45 @@
+{
+  "id": "FT2461",
+  "type": "mcq",
+  "title": "Chain rule with trig function",
+  "content": {
+    "description": "",
+    "question": "If <math> <semantics> <mrow> <mi>f</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <msup> <mrow> <mi>cos</mi> </mrow> <mn>3</mn> </msup> <mo stretchy=\"false\">(</mo> <mn>4</mn> <mi>x</mi> <mo stretchy=\"false\">)</mo> </mrow> <annotation>MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaamOzaiaacI cacaWG4bGaaiykaiabg2da9iGacogacaGGVbGaai4CamaaCaaaleqa baGaaG4maaaakiaacIcacaaI0aGaamiEaiaacMcaaaa@4118@</annotation> </semantics> </math> , then <math> <semantics> <mrow> <mi>f</mi> <mo>'</mo> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> </mrow> <annotation>MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaamOzaiaacE cacaGGOaGaamiEaiaacMcacqGH9aqpaaa@3AE8@</annotation> </semantics> </math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <semantics> <mrow> <mn>3</mn> <msup> <mrow> <mi>cos</mi> </mrow> <mn>2</mn> </msup> <mo stretchy=\"false\">(</mo> <mn>4</mn> <mi>x</mi> <mo stretchy=\"false\">)</mo> </mrow> <annotation>MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaG4maiGaco gacaGGVbGaai4CamaaCaaaleqabaGaaGOmaaaakiaacIcacaaI0aGa amiEaiaacMcaaaa@3D8D@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mo>−</mo> <mn>12</mn> <msup> <mrow> <mi>cos</mi> </mrow> <mn>2</mn> </msup> <mo stretchy=\"false\">(</mo> <mn>4</mn> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mi>sin</mi> <mo stretchy=\"false\">(</mo> <mn>4</mn> <mi>x</mi> <mo stretchy=\"false\">)</mo> </mrow> <annotation>MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaeyOeI0IaaG ymaiaaikdaciGGJbGaai4BaiaacohadaahaaWcbeqaaiaaikdaaaGc caGGOaGaaGinaiaadIhacaGGPaGaci4CaiaacMgacaGGUbGaaiikai aaisdacaWG4bGaaiykaaaa@4520@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mo>−</mo> <mn>3</mn> <msup> <mrow> <mi>cos</mi> </mrow> <mn>2</mn> </msup> <mo stretchy=\"false\">(</mo> <mn>4</mn> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mi>sin</mi> <mo stretchy=\"false\">(</mo> <mn>4</mn> <mi>x</mi> <mo stretchy=\"false\">)</mo> </mrow> <annotation>MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaeyOeI0IaaG 4maiGacogacaGGVbGaai4CamaaCaaaleqabaGaaGOmaaaakiaacIca caaI0aGaamiEaiaacMcaciGGZbGaaiyAaiaac6gacaGGOaGaaGinai aadIhacaGGPaaaaa@4466@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mn>12</mn> <msup> <mrow> <mi>cos</mi> </mrow> <mn>2</mn> </msup> <mo stretchy=\"false\">(</mo> <mn>4</mn> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mi>sin</mi> <mo stretchy=\"false\">(</mo> <mn>4</mn> <mi>x</mi> <mo stretchy=\"false\">)</mo> </mrow> <annotation>MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaGymaiaaik daciGGJbGaai4BaiaacohadaahaaWcbeqaaiaaikdaaaGccaGGOaGa aGinaiaadIhacaGGPaGaci4CaiaacMgacaGGUbGaaiikaiaaisdaca WG4bGaaiykaaaa@4433@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mo>−</mo> <mn>4</mn> <msup> <mrow> <mi>sin</mi> </mrow> <mn>3</mn> </msup> <mo stretchy=\"false\">(</mo> <mn>4</mn> <mi>x</mi> <mo stretchy=\"false\">)</mo> </mrow> <annotation>MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaeyOeI0IaaG inaiGacohacaGGPbGaaiOBamaaCaaaleqabaGaaG4maaaakiaacIca caaI0aGaamiEaiaacMcaaaa@3E81@</annotation> </semantics> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <semantics> <mrow> <mo>−</mo> <mn>12</mn> <msup> <mrow> <mi>cos</mi> </mrow> <mn>2</mn> </msup> <mo stretchy=\"false\">(</mo> <mn>4</mn> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mi>sin</mi> <mo stretchy=\"false\">(</mo> <mn>4</mn> <mi>x</mi> <mo stretchy=\"false\">)</mo> </mrow> <annotation>MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaeyOeI0IaaG ymaiaaikdaciGGJbGaai4BaiaacohadaahaaWcbeqaaiaaikdaaaGc caGGOaGaaGinaiaadIhacaGGPaGaci4CaiaacMgacaGGUbGaaiikai aaisdacaWG4bGaaiykaaaa@4520@</annotation> </semantics> </math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.7",
+    "text": "2.7: Derivatives of cos x, sin x, ex, and ln x"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Identify an appropriate mathematical rule or procedure based on the classification of a given expression (e.g., Use the chain rule to find the derivative of a composite function)."
+  }
+}

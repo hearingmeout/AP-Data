@@ -1,0 +1,45 @@
+{
+  "id": "FT3776",
+  "type": "mcq",
+  "title": "Wavelength of light using Young slit experiment",
+  "content": {
+    "description": "",
+    "question": "Young’s double-slit experiment is performed with a pair of slits separated by a distance d. A screen is a distance L away from the slits, and the distance from the central maximum to the nth bright fringe is x. What is the wavelength of this light?",
+    "image": null,
+    "choices": [
+      {
+        "label": "nxdL",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mfrac> <mrow> <mi>x</mi><mi>d</mi></mrow> <mrow> <mi>n</mi><mi>L</mi></mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mfrac> <mrow> <mi>n</mi> <mi>L</mi> </mrow> <mrow> <mi>x</mi> <mi>d</mi> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mfrac> <mi>L</mi> <mrow> <mi>n</mi> <mi>x</mi> <mi>d</mi> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mfrac> <mrow> <mi>n</mi> <mi>x</mi> <mi>d</mi> </mrow> <mi>L</mi> </mfrac> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <mrow> <mfrac> <mrow> <mi>x</mi><mi>d</mi></mrow> <mrow> <mi>n</mi><mi>L</mi></mrow> </mfrac> </mrow> </math>"
+  },
+  "unit": {
+    "code": "14",
+    "text": "14: Waves, Sound, and Physical Optics"
+  },
+  "topic": {
+    "code": "14.8",
+    "text": "14.8: Double-Slit Interference and Diffraction Gratings"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

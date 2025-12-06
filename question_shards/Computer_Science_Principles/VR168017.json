@@ -1,0 +1,37 @@
+{
+  "id": "VR168017",
+  "type": "mcq",
+  "title": "Code that produces the same sum as given code",
+  "content": {
+    "description": "In the following code segment, assume that x and y have been assigned integer values.",
+    "question": "sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0REPEAT x TIMES{REPEAT y TIMES{sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> sum + 1}}At the end of which of the following code segments is the value of sum the same as the value of sum at the end of the preceding code segment?Select two answers.",
+    "image": null,
+    "choices": [
+      {
+        "label": "sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0z <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> x + yREPEAT z TIMES{sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> sum + 1}",
+        "image": null
+      },
+      {
+        "label": "sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0z <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> x * yREPEAT z TIMES{sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> sum + 1}",
+        "image": null
+      },
+      {
+        "label": "sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0REPEAT x TIMES{sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> sum + 1}REPEAT y TIMES{sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> sum + 1}",
+        "image": null
+      },
+      {
+        "label": "sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0REPEAT y TIMES{REPEAT x TIMES{sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> sum + 1}}",
+        "image": null
+      }
+    ],
+    "answer": "sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0z <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> x * yREPEAT z TIMES{sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> sum + 1}"
+  },
+  "topic": {
+    "code": "3.9",
+    "text": "3.9: Developing Algorithms"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

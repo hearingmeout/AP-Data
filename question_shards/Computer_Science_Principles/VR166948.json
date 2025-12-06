@@ -1,0 +1,37 @@
+{
+  "id": "VR166948",
+  "type": "mcq",
+  "title": "Music instrument lists after assignments",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "firstList <math alttext=\"← \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> [\"guitar\", \"drums\", \"bass\"]secondList <math alttext=\"← \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> [\"flute\", \"violin\"]thirdList <math alttext=\"← \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> []thirdList <math alttext=\"← \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> firstListfirstList <math alttext=\"← \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> secondListsecondList <math alttext=\"← \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> thirdListWhat are the contents of secondList after the code segment is executed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "[]",
+        "image": null
+      },
+      {
+        "label": "[\"guitar\", \"drums\", \"bass\"]",
+        "image": null
+      },
+      {
+        "label": "[\"flute\", \"violin\"]",
+        "image": null
+      },
+      {
+        "label": "[\"flute\", \"violin\", \"guitar\", \"drums\", \"bass\"]",
+        "image": null
+      }
+    ],
+    "answer": "[\"guitar\", \"drums\", \"bass\"]"
+  },
+  "topic": {
+    "code": "3.2",
+    "text": "3.2: Data Abstraction"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Use abstraction to manage complexity in a program."
+  }
+}

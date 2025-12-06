@@ -1,0 +1,41 @@
+{
+  "id": "VH903738",
+  "type": "mcq",
+  "title": "Representations - Limits - Multi Representations",
+  "content": {
+    "description": "Let <math alttext=\"g\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> be a function that is increasing for <math alttext=\"x less than 1\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>&lt;</mo><mn>1</mn></mrow></mstyle></math> and increasing for <math alttext=\"x greater than 1\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>&gt;</mo><mn>1</mn></mrow></mstyle></math>. If <math alttext=\"the limit as x approaches 1, of, g of x, equals 5\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi><mo>⁢</mo><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace></mrow><mrow><mi>x</mi><mo>→</mo><mn>1</mn></mrow></munder><mi>g</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>5</mn></mrow></mstyle></math>, which of the following could represent the function <math alttext=\"g\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> ?",
+    "question": "<math alttext=\"g of x, equals, the fraction with numerator x squared, plus 3 x, minus 4, and denominator x minus 1, end fraction, for x not equal to 1; g of x, equals 3, for x equals 1.\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mo>{</mo><mtable columnalign=\"center\" width=\"auto\"><mtr><mtd><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></mfrac></mtd><mtd><mrow><mtext>for</mtext><mspace></mspace><mspace width=\"0.45em\"></mspace><mi>x</mi><mo>≠</mo><mn>1</mn></mrow></mtd></mtr><mtr><mtd><mn>3</mn></mtd><mtd><mrow><mtext>for</mtext><mspace></mspace><mspace width=\"0.45em\"></mspace><mi>x</mi><mo>=</mo><mn>1</mn></mrow></mtd></mtr></mtable></mrow></mstyle></math> <math alttext=\"The figure presents a 2 row table, with 9 columns of data. The heading for row 1 is “x,” and the heading for row 2 is “g of x.” The data in the table are as follows. Column 1. x is 0.8. g of x is 25. Column 2. x is 0.9. g of x is 50. Column 3. x is 0.95. g of x is 100. Column 4. x is 0.999. g of x is 5000. Column 5. x is 1. g of x is 5. Column 6. x is 1.001. g of x is negative 5000. Column 7. x is 1.05. g of x is negative 100. Column 8. x is 1.1. g of x is negative 50. Column 9. x is 1.2. g of x is negative 25.\" overflow=\"scroll\"><mstyle><mrow><mtable columnlines=\"solid\" columnspacing=\"0.0em\" columnwidth=\"3em 0.05em 3em 3em 4em 4em 3em 4em 4em 3em 3em\" equalrows=\"true\" frame=\"solid\" framespacing=\"0.0em 0.5ex\" rowlines=\"solid\" rowspacing=\"1ex\" width=\"auto\"><mtr><mtd><mi>x</mi></mtd><mtd><mspace depth=\"1.0ex\" height=\"2.25ex\" width=\"0.0em\"></mspace></mtd><mtd><mn>0.8</mn></mtd><mtd><mn>0.9</mn></mtd><mtd><mn>0.95</mn></mtd><mtd><mn>0.999</mn></mtd><mtd><mn>1</mn></mtd><mtd><mn>1.001</mn></mtd><mtd><mn>1.05</mn></mtd><mtd><mn>1.1</mn></mtd><mtd><mn>1.2</mn></mtd></mtr><mtr><mtd><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mtd><mtd><mspace depth=\"1.0ex\" height=\"2.25ex\" width=\"0.0em\"></mspace></mtd><mtd><mn>25</mn></mtd><mtd><mn>50</mn></mtd><mtd><mn>100</mn></mtd><mtd><mn>5000</mn></mtd><mtd><mn>5</mn></mtd><mtd><mo>−</mo><mn>5000</mn></mtd><mtd><mo>−</mo><mn>100</mn></mtd><mtd><mo>−</mo><mn>50</mn></mtd><mtd><mo>−</mo><mn>25</mn></mtd></mtr></mtable></mrow></mstyle></math>",
+    "image": "https://ap.oly.st/images/2444c41f61c7154a9bec011243917724.png",
+    "choices": [
+      {
+        "label": "I only",
+        "image": null
+      },
+      {
+        "label": "II only",
+        "image": null
+      },
+      {
+        "label": "III only",
+        "image": null
+      },
+      {
+        "label": "I and III only",
+        "image": null
+      }
+    ],
+    "answer": "I and III only"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Connecting Multiple Representations of Limits"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "PWH000002",
+  "type": "mcq",
+  "title": "Modify string argument - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the behavior of this code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "str1 is modified by the call to mystery; str1 and str2 are equal in value after executing the code segment.",
+        "image": null
+      },
+      {
+        "label": "str1 is modified by the call to mystery; str1 and str2 have differing values after executing the code segment.",
+        "image": null
+      },
+      {
+        "label": "str1 is not modified by the call to mystery; str1 and str2 are equal in value after executing the code segment.",
+        "image": null
+      },
+      {
+        "label": "str1 is not modified by the call to mystery; str1 and str2 have differing values after executing the code segment.",
+        "image": null
+      }
+    ],
+    "answer": "str1 is not modified by the call to mystery; str1 and str2 have differing values after executing the code segment."
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.6",
+    "text": "3.6: Methods: Passing and Returning References of an Object"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

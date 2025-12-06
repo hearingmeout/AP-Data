@@ -1,0 +1,44 @@
+{
+  "id": "VR864812",
+  "type": "frq",
+  "title": "Power dissipated - pd-vs-position - RC discharge",
+  "content": {
+    "description": "",
+    "question": "Show all your work for each part of the question. The parts within the question may not have equal weight. A circuit consists of a battery of <math alttext=\"e m f\" display=\"inline\" overflow=\"scroll\"><mi>emf</mi></math> <math alttext=\"script uppercase E\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi></math>, a closed switch, and four resistors connected as shown in Figure <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>. The resistors, labeled <math alttext=\"R sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi mathvariant=\"normal\">R</mi><mn>1</mn></msub></math> through <math alttext=\"R sub 4\" display=\"inline\" overflow=\"scroll\"><msub><mi mathvariant=\"normal\">R</mi><mn>4</mn></msub></math> in the figure, are all identical and have the same resistance <math alttext=\"R sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>0</mn></msub></math>. Six locations in the circuit are indicated by the labels <math alttext=\"a\" display=\"inline\" overflow=\"scroll\"><mtext>a</mtext></math> through <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">f</mi></math>. (a) In Figure <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>, draw dots to represent the electric potential at each labeled location except location <math alttext=\"e\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">e</mi></math>. The potential is already indicated at location <math alttext=\"e\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">e</mi></math> by a dot drawn at a potential of zero.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Show all your work for each part of the question. The parts within the question may not have equal weight. A circuit consists of a battery of <math alttext=\"e m f\" display=\"inline\" overflow=\"scroll\"><mi>emf</mi></math> <math alttext=\"script uppercase E\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi></math>, a closed switch, and four resistors connected as shown in Figure <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>. The resistors, labeled <math alttext=\"R sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi mathvariant=\"normal\">R</mi><mn>1</mn></msub></math> through <math alttext=\"R sub 4\" display=\"inline\" overflow=\"scroll\"><msub><mi mathvariant=\"normal\">R</mi><mn>4</mn></msub></math> in the figure, are all identical and have the same resistance <math alttext=\"R sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>0</mn></msub></math>. Six locations in the circuit are indicated by the labels <math alttext=\"a\" display=\"inline\" overflow=\"scroll\"><mtext>a</mtext></math> through <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">f</mi></math>. (a) In Figure <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>, draw dots to represent the electric potential at each labeled location except location <math alttext=\"e\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">e</mi></math>. The potential is already indicated at location <math alttext=\"e\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">e</mi></math> by a dot drawn at a potential of zero.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_C_Electricity_and_Magnetism/VR864812.g08.svg"
+      },
+      {
+        "text": "(b) Derive an expression for the total rate at which energy is dissipated by the resistors in the circuit. Express your answer in terms of <math alttext=\"script uppercase E\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi></math>, <math alttext=\"R sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>0</mn></msub></math>, and physical constants, as appropriate.",
+        "image": null
+      },
+      {
+        "text": "Resistor <math alttext=\"R sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi mathvariant=\"normal\">R</mi><mn>2</mn></msub></math> is replaced with a capacitor, as shown in Figure <math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mn>3</mn></math>. With the switch closed, the circuit is allowed to reach steady state. The switch is then opened at time <math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn></math>.(c) On the axes in Figure <math alttext=\"4\" display=\"inline\" overflow=\"scroll\"><mn>4</mn></math>, sketch a graph as follows. Note that the horizontal axis range includes an interval of time before <math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn></math>.i. Draw a line or curve to represent the potential difference <math alttext=\"delta V sub uppercase C\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mi>C</mi></msub></math> across the capacitor as a function of <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mi>t</mi></math>.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_C_Electricity_and_Magnetism/VR864812.g10.svg"
+      },
+      {
+        "text": "ii. On the vertical axis, write an expression for the potential difference across the capacitor immediately before <math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn></math>. Express the potential difference value in terms of <math alttext=\"script uppercase E\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi></math> and physical constants, as appropriate.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_C_Electricity_and_Magnetism/VR864812.g11.svg"
+      },
+      {
+        "text": "In the circuit with the capacitor from part (c), Resistor <math alttext=\"R sub 3\" display=\"inline\" overflow=\"scroll\"><msub><mi mathvariant=\"normal\">R</mi><mn>3</mn></msub></math> is replaced with a different resistor that has a greater resistance <math alttext=\"R sub new is greater than R sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mtext>new</mtext></msub><mo>&gt;</mo><msub><mi>R</mi><mn>0</mn></msub></math>. As in part (c), the circuit is allowed to reach steady state with the switch closed. The switch is then opened at time <math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn></math>.(d) For a graph of the capacitor’s potential difference as a function of time, describe how some feature of the graph would be different than the graph you drew in part (c). Justify your answer.Note: You only need to describe and justify one feature that would change.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.3",
+    "text": "11.3: Resistance, Resistivity, and Ohm's Law"
+  },
+  "skill": {
+    "code": "1.A",
+    "text": "1.A: Create diagrams, tables, charts, or schematics to represent physical situations."
+  }
+}

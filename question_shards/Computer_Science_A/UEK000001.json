@@ -1,0 +1,41 @@
+{
+  "id": "UEK000001",
+  "type": "mcq",
+  "title": "Division with int casting - determine result",
+  "content": {
+    "description": "",
+    "question": "What is printed as a result of executing this code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "0.0, 0.0",
+        "image": null
+      },
+      {
+        "label": "0.0, 0.4",
+        "image": null
+      },
+      {
+        "label": "0.4, 0.0",
+        "image": null
+      },
+      {
+        "label": "0.4, 0.4",
+        "image": null
+      }
+    ],
+    "answer": "0.4, 0.0"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.5",
+    "text": "1.5: Casting and Range of Variables"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

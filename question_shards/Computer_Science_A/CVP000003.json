@@ -1,0 +1,41 @@
+{
+  "id": "CVP000003",
+  "type": "mcq",
+  "title": "changeStr method - determine result",
+  "content": {
+    "description": "",
+    "question": "What value is returned as a result of the method call changeStr(\"12345\")?",
+    "image": null,
+    "choices": [
+      {
+        "label": "\"4\"",
+        "image": null
+      },
+      {
+        "label": "\"53\"",
+        "image": null
+      },
+      {
+        "label": "\"531\"",
+        "image": null
+      },
+      {
+        "label": "\"543\"",
+        "image": null
+      }
+    ],
+    "answer": "\"53\""
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.10",
+    "text": "2.10: Implementing String Algorithms"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

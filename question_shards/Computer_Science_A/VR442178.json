@@ -1,0 +1,41 @@
+{
+  "id": "VR442178",
+  "type": "mcq",
+  "title": "combine method",
+  "content": {
+    "description": "Consider the following method.",
+    "question": "/** Precondition: Strings one and two have the same length. */ public static String combine(String one, String two) { String res = \"\"; for (int k = 0; k < one.length(); k++) { if (one.substring(k, k + 1).equals(two.substring(k, k + 1))) { res += one.substring(k, k + 1); } else { res += \"0\"; } } return res; } What is returned as a result of the call combine(\"10110\", \"01100\") ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "\"00000\"",
+        "image": null
+      },
+      {
+        "label": "\"00100\"",
+        "image": null
+      },
+      {
+        "label": "\"00101\"",
+        "image": null
+      },
+      {
+        "label": "\"10110\"",
+        "image": null
+      }
+    ],
+    "answer": "\"00100\""
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

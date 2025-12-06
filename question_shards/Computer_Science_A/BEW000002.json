@@ -1,0 +1,41 @@
+{
+  "id": "BEW000002",
+  "type": "mcq",
+  "title": "Two if statements - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the behavior of the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "It prints true for all possible values of n.",
+        "image": null
+      },
+      {
+        "label": "It prints false for all possible values of n.",
+        "image": null
+      },
+      {
+        "label": "It prints true if n is between 10 and 50, inclusive, and prints false otherwise.",
+        "image": null
+      },
+      {
+        "label": "It prints false if n is between 10 and 50, inclusive, and prints true otherwise.",
+        "image": null
+      }
+    ],
+    "answer": "It prints true for all possible values of n."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: `if` Statements"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

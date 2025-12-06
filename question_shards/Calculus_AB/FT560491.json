@@ -1,0 +1,41 @@
+{
+  "id": "FT560491",
+  "type": "mcq",
+  "title": "Minimum value of a function given its derivative",
+  "content": {
+    "description": "",
+    "question": "The derivative of the function f is given by <math> <semantics> <mrow> <msup> <mi>f</mi> <mo>′</mo> </msup> <mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mo>=</mo><msup> <mi>e</mi> <mrow> <mo>−</mo><mi>x</mi> </mrow> </msup> <mi>cos</mi><mrow><mo>(</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>)</mo></mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qaceWGMbGbauaadaqadaWdaeaapeGaamiEaaGaayjkaiaawMcaaiabg2da9iaadwgapaWaaWbaaSqabeaapeGaeyOeI0IaamiEaaaakiGacogacaGGVbGaai4Camaabmaapaqaa8qacaWG4bWdamaaCaaaleqabaWdbiaaikdaaaaakiaawIcacaGLPaaaaaa@446A@</annotation> </semantics> </math>, for all real numbers x. What is the minimum value of f(x) for <math> <semantics> <mrow> <mo>−</mo><mn>1</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>1</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacqGHsislcaaIXaGaeyizImQaamiEaiabgsMiJkaaigdaaaa@3CDE@</annotation> </semantics> </math>?",
+    "image": null,
+    "choices": [
+      {
+        "label": "f(-1)",
+        "image": null
+      },
+      {
+        "label": "f(-0.762)",
+        "image": null
+      },
+      {
+        "label": "f(1)",
+        "image": null
+      },
+      {
+        "label": "There is no minimum value of f(x) for <math> <semantics> <mrow> <mo>−</mo><mn>1</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>1</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacqGHsislcaaIXaGaeyizImQaamiEaiabgsMiJkaaigdaaaa@3CDE@</annotation> </semantics> </math>.",
+        "image": null
+      }
+    ],
+    "answer": "f(-1)"
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.5",
+    "text": "5.5: Using the Candidates Test to Determine Absolute (Global) Extrema"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "VR594999",
+  "type": "mcq",
+  "title": "Processes - Integration by Substitution",
+  "content": {
+    "description": "",
+    "question": "Using the substitution <math alttext=\"u equals, x minus 1\" display=\"inline\" overflow=\"scroll\"><mrow><mi>u</mi><mo>=</mo><mi>x</mi><mo>−</mo><mn>1</mn></mrow></math>, <math alttext=\"the integral from 2 to 10, of, 3 x times the square root of x minus 1, end root, d x\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>2</mn></mrow><mrow><mn>10</mn></mrow></msubsup><mrow><mn>3</mn><mi>x</mi><msqrt><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></msqrt></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></math> is equivalent to",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the integral from 1 to 9 of, 3 times, open parenthesis, u plus 1, close parenthesis, times the square root of u, end root, d u\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>1</mn></mrow><mrow><mn>9</mn></mrow></msubsup><mrow><mn>3</mn><mrow><mo>(</mo><mi>u</mi><mo>+</mo><mn>1</mn><mo>)</mo><msqrt><mrow><mi>u</mi></mrow></msqrt></mrow></mrow><mo>ⅆ</mo><mrow><mi>u</mi></mrow></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the integral from 1 to 9, of, 3 u times open parenthesis, u plus 1, close parenthesis, d u\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>1</mn></mrow><mrow><mn>9</mn></mrow></msubsup><mrow><mn>3</mn><mi>u</mi><mrow><mo>(</mo><mi>u</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>u</mi></mrow></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the integral from 2 to 10, of, open parenthesis, 3 u plus 1, close parenthesis, times the square root of u, end root, d u\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>2</mn></mrow><mrow><mn>10</mn></mrow></msubsup><mrow><mo>(</mo><mn>3</mn><mi>u</mi><mo>+</mo><mn>1</mn><mo>)</mo><msqrt><mrow><mi>u</mi></mrow></msqrt></mrow><mo>ⅆ</mo><mrow><mi>u</mi></mrow></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the integral from 2 to 10 of, 3 u times, the square root of u plus 1, end root, d u\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>2</mn></mrow><mrow><mn>10</mn></mrow></msubsup><mrow><mn>3</mn><mi>u</mi><msqrt><mrow><mi>u</mi><mo>+</mo><mn>1</mn></mrow></msqrt></mrow><mo>ⅆ</mo><mrow><mi>u</mi></mrow></mrow></mstyle></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the integral from 1 to 9 of, 3 times, open parenthesis, u plus 1, close parenthesis, times the square root of u, end root, d u\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>1</mn></mrow><mrow><mn>9</mn></mrow></msubsup><mrow><mn>3</mn><mrow><mo>(</mo><mi>u</mi><mo>+</mo><mn>1</mn><mo>)</mo><msqrt><mrow><mi>u</mi></mrow></msqrt></mrow></mrow><mo>ⅆ</mo><mrow><mi>u</mi></mrow></mrow></mstyle></mrow></math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.9",
+    "text": "6.9: Integrating Using Substitution"
+  }
+}

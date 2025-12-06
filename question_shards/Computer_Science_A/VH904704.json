@@ -1,0 +1,41 @@
+{
+  "id": "VH904704",
+  "type": "mcq",
+  "title": "chance of three possible events",
+  "content": {
+    "description": "Consider the following code segment, which is intended to simulate a random process. The code is intended to set the value of the variable event to exactly one of the values 1, 2, or 3, depending on the probability of an event occurring. The value of event should be set to 1 if the probability is 70 percent or less. The value of event should be set to 2 if the probability is greater than 70 percent but no more than 80 percent. The value of event should be set to 3 if the probability is greater than 80 percent. The variable randomNumber is used to simulate the probability of the event occurring.",
+    "question": "int event = 0;if (randomNumber <= 0.70){event = 1;}if (randomNumber <= 0.80){event = 2;}else{event = 3;}The code does not work as intended. Assume that the variable randomNumber has been properly declared and initialized. Which of the following initializations for randomNumber will demonstrate that the code segment will not work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "randomNumber = 0.70;",
+        "image": null
+      },
+      {
+        "label": "randomNumber = 0.80;",
+        "image": null
+      },
+      {
+        "label": "randomNumber = 0.85;",
+        "image": null
+      },
+      {
+        "label": "randomNumber = 1.00;",
+        "image": null
+      }
+    ],
+    "answer": "randomNumber = 0.70;"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: `if` Statements"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

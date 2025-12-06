@@ -1,0 +1,41 @@
+{
+  "id": "VR733125",
+  "type": "mcq",
+  "title": "Processes - Exploring Implicit Relations",
+  "content": {
+    "description": "",
+    "question": "If <math alttext=\"y squared, minus x squared, equals 1\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>1</mn></mrow></math>, then <math alttext=\"the second derivative of y with respect to x equals\" display=\"inline\" overflow=\"scroll\"><mrow><mrow><mfrac><mrow><msup><mrow><mo>ⅆ</mo></mrow><mrow><mn>2</mn></mrow></msup><mi>y</mi></mrow><mrow><mo>ⅆ</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow><mo>=</mo></mrow></math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>1</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator y minus x, and denominator x squared, end fraction\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle><mrow><mfrac><mrow><mi>y</mi><mo>−</mo><mi>x</mi></mrow><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator x squared, minus y squared, and denominator x squared, times y, end fraction\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>y</mi></mrow></mfrac></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator y squared, minus x squared, and denominator y cubed, end fraction\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle><mrow><mfrac><mrow><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>y</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac></mrow></mstyle></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the fraction with numerator y squared, minus x squared, and denominator y cubed, end fraction\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle><mrow><mfrac><mrow><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>y</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac></mrow></mstyle></mrow></math>"
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.12",
+    "text": "5.12: Exploring Behaviors of Implicit Relations"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

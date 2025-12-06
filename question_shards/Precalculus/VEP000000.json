@@ -1,0 +1,41 @@
+{
+  "id": "VEP000000",
+  "type": "mcq",
+  "title": "Logarithmic Modeling - species population",
+  "content": {
+    "description": "",
+    "question": "​The initial population size of an animal species is measured to be <math alttext=\"2000\"><semantics><mn>2000</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. The population doubles every <math alttext=\"8\"><semantics><mn>8</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> years. Which of the following functions gives the time, in years, as an output value, and a certain number <math alttext=\"x\"><semantics><mi>x</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> for the population size as an input value?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"f open parentheses x close parentheses equals 1 over 8 log subscript 2 open parentheses x over 2000 close parentheses\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfrac><mn>1</mn><mn>8</mn></mfrac><msub><mi>log</mi><mn>2</mn></msub><mfenced><mfrac><mi>x</mi><mn>2000</mn></mfrac></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"g open parentheses x close parentheses equals log subscript 2 open parentheses fraction numerator 8 x over denominator 2000 end fraction close parentheses\"><semantics><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msub><mi>log</mi><mn>2</mn></msub><mfenced><mfrac><mrow><mn>8</mn><mi>x</mi></mrow><mn>2000</mn></mfrac></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"h open parentheses x close parentheses equals 8 log subscript 2 open parentheses x over 2000 close parentheses\"><semantics><mrow><mi>h</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>8</mn><msub><mi>log</mi><mn>2</mn></msub><mfenced><mfrac><mi>x</mi><mn>2000</mn></mfrac></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"k open parentheses x close parentheses equals 2000 log subscript 8 x\"><semantics><mrow><mi>k</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>2000</mn><msub><mi>log</mi><mn>8</mn></msub><mi>x</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"h open parentheses x close parentheses equals 8 log subscript 2 open parentheses x over 2000 close parentheses\"><semantics><mrow><mi>h</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>8</mn><msub><mi>log</mi><mn>2</mn></msub><mfenced><mfrac><mi>x</mi><mn>2000</mn></mfrac></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.14",
+    "text": "2.14: Logarithmic Function Context and Data Modeling"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

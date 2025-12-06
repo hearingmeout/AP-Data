@@ -1,0 +1,45 @@
+{
+  "id": "FT560982",
+  "type": "mcq",
+  "title": "Rate of change of area with parameter",
+  "content": {
+    "description": "",
+    "question": "The figure above shows the region A, which is bounded by the x- and y-axes, the graph of <math> <mrow> <mi>f</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mfrac> <mrow> <mi>sin</mi> <mi>x</mi> </mrow> <mi>x</mi> </mfrac> </mrow> </math> for x > 0, and the vertical line x = k. If k increases at a rate of <math> <mrow> <mi>π</mi><mo>/</mo><mn>4</mn></mrow> </math> units per second, how fast is the area of region A increasing when <math> <mrow> <mi>k</mi><mo>=</mo><mi>π</mi><mo>/</mo><mn>6</mn></mrow> </math>?",
+    "image": "https://ap.oly.st/images/400ecc711d4911cbf1443cfb790d5b6f.png",
+    "choices": [
+      {
+        "label": "0",
+        "image": null
+      },
+      {
+        "label": "3/4",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mn>3</mn> <mo>/</mo> <mi>π</mi> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mfrac> <mrow> <msqrt> <mn>3</mn> </msqrt> </mrow> <mn>2</mn> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mn>2</mn><msqrt> <mn>3</mn> </msqrt> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "answer": "3/4"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.4",
+    "text": "6.4: The Fundamental Theorem of Calculus and Accumulation Functions"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

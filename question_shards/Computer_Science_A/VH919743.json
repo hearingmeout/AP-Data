@@ -1,0 +1,41 @@
+{
+  "id": "VH919743",
+  "type": "mcq",
+  "title": "Traverse fruits array",
+  "content": {
+    "description": "The array fruits is declared below.",
+    "question": "String [] fruits = {\"apples\", \"bananas\", \"cherries\", \"dates\"};Which of the following code segments will cause an ArrayIndexOutOfBoundsException ?I.for (int i = 0; i <= fruits.length; i++){System.out.println(fruits[i]);}II.for (int i = 0; i <= fruits.length - 1; i++){System.out.println(fruits[i]);}III.for (int i = 1; i <= fruits.length; i++){System.out.println(fruits[i - 1]);}",
+    "image": null,
+    "choices": [
+      {
+        "label": "I only",
+        "image": null
+      },
+      {
+        "label": "II only",
+        "image": null
+      },
+      {
+        "label": "I and III only",
+        "image": null
+      },
+      {
+        "label": "II and III only",
+        "image": null
+      }
+    ],
+    "answer": "I only"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.4",
+    "text": "4.4: Array Traversals"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

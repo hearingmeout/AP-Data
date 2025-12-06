@@ -1,0 +1,41 @@
+{
+  "id": "FT659905",
+  "type": "mcq",
+  "title": "recur method with int parameter",
+  "content": {
+    "description": "Consider the following recursive method.",
+    "question": "public static String recur(int val) { String dig = \"\" + (val % 3); if (val / 3 > 0) return dig + recur(val / 3); return dig; } What is printed as a result of executing the following statement? System.out.println(recur(32));",
+    "image": null,
+    "choices": [
+      {
+        "label": "102",
+        "image": null
+      },
+      {
+        "label": "210",
+        "image": null
+      },
+      {
+        "label": "1020",
+        "image": null
+      },
+      {
+        "label": "2101",
+        "image": null
+      }
+    ],
+    "answer": "2101"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.16",
+    "text": "4.16: Recursion"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

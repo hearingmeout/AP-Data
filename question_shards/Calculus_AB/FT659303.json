@@ -1,0 +1,40 @@
+{
+  "id": "FT659303",
+  "type": "frq",
+  "title": "Hot air balloon",
+  "content": {
+    "description": "",
+    "question": "The volume of a spherical hot air balloon expands as the air inside the balloon is heated. The radius of the balloon, in feet, is modeled by a twice-differentiable function r of time t, where t is measured in minutes. For 0 < t < 12, the graph of r is concave down. The table above gives selected values of the rate of change, r'(t), of the radius of the balloon over the time interval <math> <semantics> <mrow> <mn>0</mn> <mo>≤</mo> <mi>t</mi> <mo>≤</mo> <mn>12</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaaIWaGaeyizImQaamiDaiabgsMiJkaaigdacaaIYaaaaa@3CA8@</annotation> </semantics> </math>. The radius of the balloon is 30 feet when t = 5. (Note: The volume of a sphere of radius r is given by <math> <semantics> <mrow> <mi>V</mi> <mo>=</mo> <mfrac> <mn>4</mn> <mn>3</mn> </mfrac> <mi>π</mi> <msup> <mi>r</mi> <mn>3</mn> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWGwbGaeyypa0ZaaSaaa8aabaWdbiaaisdaa8aabaWdbiaaiodaaaGaeqiWdaNaamOCa8aadaahaaWcbeqaa8qacaaIZaaaaaaa@3D7B@</annotation> </semantics> </math>.) (a) Estimate the radius of the balloon when t = 5.4 using the tangent line approximation at t = 5. Is your estimate greater than or less than the true value? Give a reason for your answer.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "The volume of a spherical hot air balloon expands as the air inside the balloon is heated. The radius of the balloon, in feet, is modeled by a twice-differentiable function r of time t, where t is measured in minutes. For 0 < t < 12, the graph of r is concave down. The table above gives selected values of the rate of change, r'(t), of the radius of the balloon over the time interval <math> <semantics> <mrow> <mn>0</mn> <mo>≤</mo> <mi>t</mi> <mo>≤</mo> <mn>12</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaaIWaGaeyizImQaamiDaiabgsMiJkaaigdacaaIYaaaaa@3CA8@</annotation> </semantics> </math>. The radius of the balloon is 30 feet when t = 5. (Note: The volume of a sphere of radius r is given by <math> <semantics> <mrow> <mi>V</mi> <mo>=</mo> <mfrac> <mn>4</mn> <mn>3</mn> </mfrac> <mi>π</mi> <msup> <mi>r</mi> <mn>3</mn> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWGwbGaeyypa0ZaaSaaa8aabaWdbiaaisdaa8aabaWdbiaaiodaaaGaeqiWdaNaamOCa8aadaahaaWcbeqaa8qacaaIZaaaaaaa@3D7B@</annotation> </semantics> </math>.) (a) Estimate the radius of the balloon when t = 5.4 using the tangent line approximation at t = 5. Is your estimate greater than or less than the true value? Give a reason for your answer.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Calculus_AB/original.png"
+      },
+      {
+        "text": "(b) Find the rate of change of the volume of the balloon with respect to time when t = 5. Indicate units of measure.",
+        "image": null
+      },
+      {
+        "text": "(c) Use a right Riemann sum with the five subintervals indicated by the data in the table to approximate <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mrow> <mn>12</mn> </mrow> </msubsup> <msup> <mi>r</mi> <mo>′</mo> </msup> </mrow> </mstyle> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> <mi>d</mi> <mi>t</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWdXaWdaeaapeGabmOCayaafaaal8aabaWdbiaaicdaa8aabaWdbiaaigdacaaIYaaaniabgUIiYdGcdaqadaWdaeaapeGaamiDaaGaayjkaiaawMcaaiaadsgacaWG0baaaa@405B@</annotation> </semantics> </math>. Using correct units, explain the meaning of <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mrow> <mn>12</mn> </mrow> </msubsup> <msup> <mi>r</mi> <mo>′</mo> </msup> </mrow> </mstyle> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> <mi>d</mi> <mi>t</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWdXaWdaeaapeGabmOCayaafaaal8aabaWdbiaaicdaa8aabaWdbiaaigdacaaIYaaaniabgUIiYdGcdaqadaWdaeaapeGaamiDaaGaayjkaiaawMcaaiaadsgacaWG0baaaa@405B@</annotation> </semantics> </math> in terms of the radius of the balloon.",
+        "image": null
+      },
+      {
+        "text": "(d) Is your approximation in part (c) greater than or less than <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mrow> <mn>12</mn> </mrow> </msubsup> <msup> <mi>r</mi> <mo>′</mo> </msup> </mrow> </mstyle> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> <mi>d</mi> <mi>t</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWdXaWdaeaapeGabmOCayaafaaal8aabaWdbiaaicdaa8aabaWdbiaaigdacaaIYaaaniabgUIiYdGcdaqadaWdaeaapeGaamiDaaGaayjkaiaawMcaaiaadsgacaWG0baaaa@405B@</annotation> </semantics> </math>? Give a reason for your answer.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Contextual Applications of Differentiation"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Solving Related Rates Problems"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Explain how an approximated value relates to the actual value."
+  }
+}

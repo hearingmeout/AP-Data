@@ -1,0 +1,41 @@
+{
+  "id": "VH919248",
+  "type": "mcq",
+  "title": "create array to pass to changeIt method",
+  "content": {
+    "description": "Consider the following method.",
+    "question": "public void changeIt(int[] arr, int index, int newValue){arr[index] += newValue;}Which of the following code segments, if located in a method in the same class as changeIt, will cause the array myArray to contain {0, 5, 0, 0} ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "int[] myArray = new int[4];changeIt(myArray, 1, 5);",
+        "image": null
+      },
+      {
+        "label": "int[] myArray = new int[4];changeIt(myArray, 2, 5);",
+        "image": null
+      },
+      {
+        "label": "int[] myArray = new int[5];changeIt(myArray, 1, 4);",
+        "image": null
+      },
+      {
+        "label": "int[] myArray = new int[5];changeIt(myArray, 1, 5);",
+        "image": null
+      }
+    ],
+    "answer": "int[] myArray = new int[4];changeIt(myArray, 1, 5);"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.6",
+    "text": "3.6: Methods: Passing and Returning References of an Object"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

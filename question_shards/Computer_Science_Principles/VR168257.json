@@ -1,0 +1,37 @@
+{
+  "id": "VR168257",
+  "type": "mcq",
+  "title": "Implementation of updateScore procedure",
+  "content": {
+    "description": "A game program contains the following code to update three score variables, health, food, and knowledge. The maximum values for the three variables are 100, 80, and 25, respectively.",
+    "question": "health <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> health + 10IF(health > 100){health <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 100}food <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> food + 1IF(food > 80){food <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 80}knowledge <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> knowledge + 5IF(knowledge > 25){knowledge <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 25}The game program’s author would like to write a procedure that could be used to update any variable in the game (myScore) that has a maximum value (myLimit) by a given amount (myAmount). A correct call of the procedure is shown below.myScore <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> updateScore(myScore, myAmount, myLimit)Which of the following is a correct implementation of updateScore ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "PROCEDURE updateScore(score, amount, limit){score <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> score + amountIF (score > limit){score <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> limit}}",
+        "image": null
+      },
+      {
+        "label": "PROCEDURE updateScore(score, amount, limit){score <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> score + amountIF(score > amount){score <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> limit}RETURN(limit)}",
+        "image": null
+      },
+      {
+        "label": "PROCEDURE updateScore(score, amount, limit){score <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> score + amountIF(score > limit){score <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> limit}RETURN(score)}",
+        "image": null
+      },
+      {
+        "label": "PROCEDURE updateScore(score, amount, limit){IF(score = health){score <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> score + 10}IF(score = food){score <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> score + 1}IF(score = knowledge){score <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> score + 5}IF(score > limit){score <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> limit}}",
+        "image": null
+      }
+    ],
+    "answer": "PROCEDURE updateScore(score, amount, limit){score <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> score + amountIF(score > limit){score <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> limit}RETURN(score)}"
+  },
+  "topic": {
+    "code": "3.13",
+    "text": "3.13: Developing Procedures"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Use abstraction to manage complexity in a program."
+  }
+}

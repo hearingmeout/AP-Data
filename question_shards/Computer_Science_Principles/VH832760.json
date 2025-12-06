@@ -1,0 +1,37 @@
+{
+  "id": "VH832760",
+  "type": "mcq",
+  "title": "data privacy concern of upgraded system",
+  "content": {
+    "description": "",
+    "question": "Which of the following is the most likely data privacy concern of the upgraded system?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Customers’ personal information could be compromised if an unauthorized individual gains access to the call session database.",
+        "image": null
+      },
+      {
+        "label": "Storing information in the call session database makes it easy for individuals to trick the system using malicious links.",
+        "image": null
+      },
+      {
+        "label": "The system design increases the chance that customers will unknowingly install malware on their devices that will share their data with unauthorized individuals.",
+        "image": null
+      },
+      {
+        "label": "The system design makes it easy for unauthorized individuals to acquire customers’ private encryption keys.",
+        "image": null
+      }
+    ],
+    "answer": "Customers’ personal information could be compromised if an unauthorized individual gains access to the call session database."
+  },
+  "topic": {
+    "code": "5.6",
+    "text": "5.6: Safe Computing"
+  },
+  "skill": {
+    "code": "Skill 5.D",
+    "text": "Skill 5.D: Describe the impact of gathering data."
+  }
+}

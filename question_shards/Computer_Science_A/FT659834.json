@@ -1,0 +1,41 @@
+{
+  "id": "FT659834",
+  "type": "mcq",
+  "title": "comparing two ints, valueOne and valueTwo",
+  "content": {
+    "description": "Consider the following declarations.",
+    "question": "int valueOne, valueTwo; Assume that valueOne and valueTwo have been initialized. Which of the following evaluates to true if valueOne and valueTwo contain the same value?",
+    "image": null,
+    "choices": [
+      {
+        "label": "valueOne.equals((Object) valueTwo)",
+        "image": null
+      },
+      {
+        "label": "valueOne == valueTwo",
+        "image": null
+      },
+      {
+        "label": "valueOne.compareTo(valueTwo) == 0",
+        "image": null
+      },
+      {
+        "label": "valueOne.equals(valueTwo)",
+        "image": null
+      }
+    ],
+    "answer": "valueOne == valueTwo"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Boolean Expressions"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

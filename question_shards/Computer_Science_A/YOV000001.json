@@ -1,0 +1,41 @@
+{
+  "id": "YOV000001",
+  "type": "mcq",
+  "title": "scores array - determine behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the behavior of lines 2 and 3 in the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Line 2 doubles the first element in the array and line 3 adds 10 to the second element.",
+        "image": null
+      },
+      {
+        "label": "Line 2 doubles the second element in the array and line 3 adds 10 to the third element.",
+        "image": null
+      },
+      {
+        "label": "Line 2 doubles the third element in the array and line 3 adds 10 to the fourth element.",
+        "image": null
+      },
+      {
+        "label": "Lines 2 and 3 do not change the contents of the array.",
+        "image": null
+      }
+    ],
+    "answer": "Line 2 doubles the second element in the array and line 3 adds 10 to the third element."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Array Creation and Access"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

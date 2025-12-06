@@ -1,0 +1,41 @@
+{
+  "id": "PXP000002",
+  "type": "mcq",
+  "title": "Remainder Recursion-Describe behavior",
+  "content": {
+    "description": "",
+    "question": "Assume that the int variable num is properly declared and initialized to a value greater than 0. Which of the following best describes the value returned by the call mystery(num)?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The value of num",
+        "image": null
+      },
+      {
+        "label": "The rightmost digit of num",
+        "image": null
+      },
+      {
+        "label": "The sum of the digits of num",
+        "image": null
+      },
+      {
+        "label": "Two times the rightmost digit of num",
+        "image": null
+      }
+    ],
+    "answer": "The sum of the digits of num"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.16",
+    "text": "4.16: Recursion"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

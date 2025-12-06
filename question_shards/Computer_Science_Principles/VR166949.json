@@ -1,0 +1,37 @@
+{
+  "id": "VR166949",
+  "type": "mcq",
+  "title": "Museum photograph spreadsheet",
+  "content": {
+    "description": "A large spreadsheet contains information about the photographs in a museum’s collection. A sample portion of the spreadsheet is shown below.",
+    "question": "A Photographer B Subject C Year D Publicly Available 1 Steven Greene Geyser Eruption 2004 true 2 Linda James Giant Sloth Fossil -1 true 3 Yajaira Lopez Diplodocus Skull 1997 false 4 Masahiro Higashi Sea Turtle 1989 true 5 (unknown) Solar Eclipse 2011 false 6 (unknown) Giant Sequoia -1 true In column A, each unknown photographer is set to \"(unknown)\". In column C, each unknown year is set to -1. A student is developing an algorithm to determine the name of the photographer who took the oldest photograph in the collection. Photographs whose photographer or year are unknown are to be ignored. Once the algorithm is complete, the desired entry will appear in the first row of the spreadsheet. If there are multiple entries that meet the desired criteria, then any of them can appear in the first row. The student has the following actions available. Action Explanation Filter by photographer Removes entries whose photographer is \"(unknown)\" Filter by year Removes entries whose year is -1 Sort by subject Sorts the rows in the spreadsheet on column B alphabetically from A to Z Sort by year Sorts the rows in the spreadsheet on column C from least to greatest Assume that applying either of the filters will not change the relative order of the rows remaining in the spreadsheet. Which of the following sequences of steps can be used to identify the desired entry? Select two answers.",
+    "image": null,
+    "choices": [
+      {
+        "label": "Filter by photographer, then filter by year, then sort by subject",
+        "image": null
+      },
+      {
+        "label": "Filter by photographer, then filter by year, then sort by year",
+        "image": null
+      },
+      {
+        "label": "Sort by subject, then sort by year, then filter by photographer",
+        "image": null
+      },
+      {
+        "label": "Sort by year, then filter by year, then filter by photographer",
+        "image": null
+      }
+    ],
+    "answer": "Filter by photographer, then filter by year, then sort by year"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Using Programs with Data"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VR442151",
+  "type": "mcq",
+  "title": "ArrayList of colors",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "ArrayList<String> colors = new ArrayList<String>(); colors.add(\"Red\"); colors.add(\"Orange\"); colors.set(1, \"Yellow\"); colors.add(1, \"Green\"); colors.set(colors.size() - 1, \"Blue\"); colors.remove(0); System.out.println(colors); What is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "[Red, Green]",
+        "image": null
+      },
+      {
+        "label": "[Yellow, Blue]",
+        "image": null
+      },
+      {
+        "label": "[Green, Blue]",
+        "image": null
+      },
+      {
+        "label": "[Blue, Yellow]",
+        "image": null
+      }
+    ],
+    "answer": "[Green, Blue]"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

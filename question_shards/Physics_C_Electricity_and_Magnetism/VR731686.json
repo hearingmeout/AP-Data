@@ -1,0 +1,45 @@
+{
+  "id": "VR731686",
+  "type": "mcq",
+  "title": "Chi-square and Errors",
+  "content": {
+    "description": "For a chi-square test for independence with <math alttext=\"6\" overflow=\"scroll\"><mn>6</mn></math> degrees of freedom and a significance level of <math alttext=\"0.05\" overflow=\"scroll\"><mstyle><mrow><mn>0.05</mn></mrow></mstyle></math>, the value of the test statistic was <math alttext=\"chi squared is approximately equal to 10.497\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>χ</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>≈</mo><mn>10.497</mn></mrow></mstyle></math>. The associated <math alttext=\"p\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value was <math alttext=\"0.1052\" overflow=\"scroll\"><mstyle><mrow><mn>0.1052</mn></mrow></mstyle></math>.",
+    "question": "Assuming all necessary conditions for the chi-square test were met, what type of error is possible?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A Type <math alttext=\"1\" overflow=\"scroll\"><mtext>I</mtext></math> error is possible, because the null hypothesis was rejected.",
+        "image": null
+      },
+      {
+        "label": "A Type <math alttext=\"1\" overflow=\"scroll\"><mtext>I</mtext></math> error is possible, because the null hypothesis was not rejected.",
+        "image": null
+      },
+      {
+        "label": "No error is possible, because the correct decision was made.",
+        "image": null
+      },
+      {
+        "label": "A Type <math alttext=\"2\" overflow=\"scroll\"><mtext>II</mtext></math> error is possible, because the null hypothesis was rejected.",
+        "image": null
+      },
+      {
+        "label": "A Type <math alttext=\"2\" overflow=\"scroll\"><mtext>II</mtext></math> error is possible, because the null hypothesis was not rejected.",
+        "image": null
+      }
+    ],
+    "answer": "A Type <math alttext=\"2\" overflow=\"scroll\"><mtext>II</mtext></math> error is possible, because the null hypothesis was not rejected."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.7",
+    "text": "6.7: Potential Errors When Performing Tests"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Identify key and relevant information to answer a question or solve a problem."
+  }
+}

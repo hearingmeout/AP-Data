@@ -1,0 +1,45 @@
+{
+  "id": "VH975795",
+  "type": "mcq",
+  "title": "Ballot Initiative",
+  "content": {
+    "description": "A polling organization uses random digit dialing of registered voters in a county to gauge the voters’ opinions about a ballot initiative to increase taxes that would pay for a new county park. The polling organization will investigate whether there are differences in how voters respond based on the highest level of education completed. The phone survey asked the voters contacted whether they approve or disapprove of the tax increase. The voters were also asked to indicate their highest level of education completed: high school, bachelor’s degree, or master’s degree.",
+    "question": "Which of the following is the appropriate test to investigate whether there is an association between opinion about the ballot initiative and highest level of education completed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A two-sample <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-test for a difference between means",
+        "image": null
+      },
+      {
+        "label": "A two-sample <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math>-test for a difference between proportions",
+        "image": null
+      },
+      {
+        "label": "A chi-square test of homogeneity",
+        "image": null
+      },
+      {
+        "label": "A chi-square test of independence",
+        "image": null
+      },
+      {
+        "label": "A chi-square goodness-of-fit test",
+        "image": null
+      }
+    ],
+    "answer": "A chi-square test of independence"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Inference for Categorical Data-Chi-Square"
+  },
+  "topic": {
+    "code": "8.5",
+    "text": "8.5: Setting Up a Chi-Square Test for Homogeneity or Independence"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Identify an appropriate inference method for significance tests."
+  }
+}

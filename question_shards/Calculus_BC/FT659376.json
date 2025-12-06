@@ -1,0 +1,40 @@
+{
+  "id": "FT659376",
+  "type": "frq",
+  "title": "Particle motion from dx/dt and dy/dt",
+  "content": {
+    "description": "",
+    "question": "For t ≥ 0, a particle is moving along a curve so that its position at time t is (x(t), y(t)). At time t = 2, the particle is at position (1, 5). It is known that <math> <mfrac> <mrow> <mi>d</mi> <mi>x</mi> </mrow> <mrow> <mi>d</mi> <mi>t</mi> </mrow> </mfrac> <mo>=</mo> <mfrac> <mrow> <msqrt> <mrow> <mi>t</mi> <mo>+</mo> <mn>2</mn> </mrow> </msqrt> </mrow> <mrow> <msup> <mi>e</mi> <mi>t</mi> </msup> </mrow> </mfrac> </math> and <math> <semantics> <mrow> <mfrac> <mrow> <mi>d</mi> <mi>y</mi> </mrow> <mrow> <mi>d</mi> <mi>t</mi> </mrow> </mfrac> <mo>=</mo> <msup> <mrow> <mtext>sin</mtext> </mrow> <mn>2</mn> </msup> <mi>t</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaSaaaeaacaWGKbGaamyEaaqaaiaadsgacaWG0baaaiabg2da9iaabohacaqGPbGaaeOBamaaCaaaleqabaGaaGOmaaaakiaadshaaaa@3F93@</annotation> </semantics> </math>. (a) Is the horizontal movement of the particle to the left or to the right at time t = 2 ? Explain your answer. Find the slope of the path of the particle at time t = 2.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "For t ≥ 0, a particle is moving along a curve so that its position at time t is (x(t), y(t)). At time t = 2, the particle is at position (1, 5). It is known that <math> <mfrac> <mrow> <mi>d</mi> <mi>x</mi> </mrow> <mrow> <mi>d</mi> <mi>t</mi> </mrow> </mfrac> <mo>=</mo> <mfrac> <mrow> <msqrt> <mrow> <mi>t</mi> <mo>+</mo> <mn>2</mn> </mrow> </msqrt> </mrow> <mrow> <msup> <mi>e</mi> <mi>t</mi> </msup> </mrow> </mfrac> </math> and <math> <semantics> <mrow> <mfrac> <mrow> <mi>d</mi> <mi>y</mi> </mrow> <mrow> <mi>d</mi> <mi>t</mi> </mrow> </mfrac> <mo>=</mo> <msup> <mrow> <mtext>sin</mtext> </mrow> <mn>2</mn> </msup> <mi>t</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaSaaaeaacaWGKbGaamyEaaqaaiaadsgacaWG0baaaiabg2da9iaabohacaqGPbGaaeOBamaaCaaaleqabaGaaGOmaaaakiaadshaaaa@3F93@</annotation> </semantics> </math>. (a) Is the horizontal movement of the particle to the left or to the right at time t = 2 ? Explain your answer. Find the slope of the path of the particle at time t = 2.",
+        "image": null
+      },
+      {
+        "text": "(b) Find the x-coordinate of the particle’s position at time t = 4.",
+        "image": null
+      },
+      {
+        "text": "(c) Find the speed of the particle at time t = 4. Find the acceleration vector of the particle at time t = 4.",
+        "image": null
+      },
+      {
+        "text": "(d) Find the distance traveled by the particle from time t = 2 to t = 4.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Parametric Equations, Polar Coordinates, and Vector-Valued Functions"
+  },
+  "topic": {
+    "code": "9.1",
+    "text": "9.1: (BC ONLY) Defining and Differentiating Parametric Equations"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

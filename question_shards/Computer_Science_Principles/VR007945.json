@@ -1,0 +1,37 @@
+{
+  "id": "VR007945",
+  "type": "mcq",
+  "title": "How data is transmitted on the Internet",
+  "content": {
+    "description": "",
+    "question": "Which of the following best explains how data is transmitted on the Internet?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Data is broken into packets, which are all sent to the recipient in a specified order along the same path.",
+        "image": null
+      },
+      {
+        "label": "Data is broken into packets, which can be sent along different paths.",
+        "image": null
+      },
+      {
+        "label": "All data is transmitted in a single packet through a direct connection between the sender and the recipient.",
+        "image": null
+      },
+      {
+        "label": "Multiple data files are bundled together in a packet and transmitted together.",
+        "image": null
+      }
+    ],
+    "answer": "Data is broken into packets, which can be sent along different paths."
+  },
+  "topic": {
+    "code": "4.1",
+    "text": "4.1: The Internet"
+  },
+  "skill": {
+    "code": "Skill 5.A",
+    "text": "Skill 5.A: Explain how computing systems work."
+  }
+}

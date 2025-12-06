@@ -1,0 +1,41 @@
+{
+  "id": "VH911147",
+  "type": "mcq",
+  "title": "Processes - Fundamental Theorem of Calculus",
+  "content": {
+    "description": "",
+    "question": "<math alttext=\"the derivative, with respect to x, of, open parenthesis, the integral from, 2 to x, of, the sine of, open parenthesis, t to the fourth power, close parenthesis, d t, close parenthesis, equals\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mrow><mfrac><mrow><mo>ⅆ</mo></mrow><mrow><mo>ⅆ</mo><mi>x</mi></mrow></mfrac></mrow><mrow><mo>(</mo><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>2</mn></mrow><mrow><mi>x</mi></mrow></msubsup><mrow><mi>sin</mi><mrow><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.15em\"></mspace><mo>(</mo><msup><mrow><mi>t</mi></mrow><mrow><mn>4</mn></mrow></msup><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow><mo>)</mo></mrow><mo>=</mo></mrow></mstyle></mrow></mstyle></mrow></math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the sine of, open parenthesis, x to the fourth power, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>sin</mi><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.15em\"></mspace><mrow><mo>(</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>4</mn></mrow></msup><mo>)</mo></mrow></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"4 times x cubed, times the cosine of, open parenthesis, x to the fourth power, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>4</mn><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mrow><mi>cos</mi><mrow><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.15em\"></mspace><mo>(</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>4</mn></mrow></msup><mo>)</mo></mrow></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the sine of, open parenthesis, x to the fourth power, close parenthesis, minus, the sine of 16\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>sin</mi><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.15em\"></mspace><mrow><mo>(</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>4</mn></mrow></msup><mo>)</mo></mrow><mo>−</mo><mrow><mi>sin</mi><mrow><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.15em\"></mspace><mo>(</mo><mn>16</mn><mo>)</mo></mrow></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"4 times x cubed, times the cosine of, open parenthesis, x to the fourth power, close parenthesis, minus, 32 times the cosine of 16\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>4</mn><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mrow><mi>cos</mi><mrow><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.15em\"></mspace><mo>(</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>4</mn></mrow></msup><mo>)</mo></mrow></mrow><mo>−</mo><mn>32</mn><mrow><mi>cos</mi><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.15em\"></mspace><mrow><mo>(</mo><mn>16</mn><mo>)</mo></mrow></mrow></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the sine of, open parenthesis, x to the fourth power, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>sin</mi><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.15em\"></mspace><mrow><mo>(</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>4</mn></mrow></msup><mo>)</mo></mrow></mrow></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.4",
+    "text": "6.4: The Fundamental Theorem of Calculus and Accumulation Functions"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

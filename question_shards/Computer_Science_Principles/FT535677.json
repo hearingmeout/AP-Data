@@ -1,0 +1,37 @@
+{
+  "id": "FT535677",
+  "type": "mcq",
+  "title": "Bit sequences to identify items in a online store",
+  "content": {
+    "description": "",
+    "question": "An online store uses 6-bit binary sequences to identify each unique item for sale. The store plans to increase the number of items it sells and is considering using 7-bit binary sequences. Which of the following best describes the result of using 7-bit sequences instead of 6-bit sequences?",
+    "image": null,
+    "choices": [
+      {
+        "label": "2 more items can be uniquely identified.",
+        "image": null
+      },
+      {
+        "label": "10 more items can be uniquely identified.",
+        "image": null
+      },
+      {
+        "label": "2 times as many items can be uniquely identified.",
+        "image": null
+      },
+      {
+        "label": "10 times as many items can be uniquely identified.",
+        "image": null
+      }
+    ],
+    "answer": "2 times as many items can be uniquely identified."
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Binary Numbers"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

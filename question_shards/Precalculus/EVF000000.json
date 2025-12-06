@@ -1,0 +1,41 @@
+{
+  "id": "EVF000000",
+  "type": "mcq",
+  "title": "Inverse Functions - involving a fraction",
+  "content": {
+    "description": "",
+    "question": "​The function <math alttext=\"g\"><semantics><mi>g</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is given by <math alttext=\"g open parentheses x close parentheses equals fraction numerator 4 x plus 6 over denominator 5 end fraction\"><semantics><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfrac><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>6</mn></mrow><mn>5</mn></mfrac></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. Which of the following defines <math alttext=\"g to the power of negative 1 end exponent open parentheses x close parentheses\"><semantics><mrow><msup><mi>g</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfenced><mi>x</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"fraction numerator 5 over denominator 4 x plus 6 end fraction\"><semantics><mfrac><mn>5</mn><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>6</mn></mrow></mfrac><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"fraction numerator 5 x plus 6 over denominator 4 end fraction\"><semantics><mfrac><mrow><mn>5</mn><mi>x</mi><mo>+</mo><mn>6</mn></mrow><mn>4</mn></mfrac><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"fraction numerator 5 x over denominator 4 end fraction minus 6\"><semantics><mrow><mfrac><mrow><mn>5</mn><mi>x</mi></mrow><mn>4</mn></mfrac><mo>-</mo><mn>6</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"fraction numerator 5 x minus 6 over denominator 4 end fraction\"><semantics><mfrac><mrow><mn>5</mn><mi>x</mi><mo>-</mo><mn>6</mn></mrow><mn>4</mn></mfrac><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"fraction numerator 5 x minus 6 over denominator 4 end fraction\"><semantics><mfrac><mrow><mn>5</mn><mi>x</mi><mo>-</mo><mn>6</mn></mrow><mn>4</mn></mfrac><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: Inverse Functions"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Solve equations and inequalities represented analytically, with and without technology."
+  }
+}

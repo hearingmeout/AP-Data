@@ -1,0 +1,37 @@
+{
+  "id": "VR168163",
+  "type": "mcq",
+  "title": "Use of procedures to draw parallel line segments",
+  "content": {
+    "description": "Consider the following procedures, which are used to control a device that draws lines on paper.",
+    "question": "Procedure Call Explanation penDown() Places the device’s pen on the paper so that a line is drawn when the device moves penUp() Lifts the device’s pen off of the paper so that no line is drawn when the device moves goForward(x) Moves the device forward x units turnRight(x) Rotates the device in place x degrees clockwise (i.e., makes an in-place right turn) Consider the goal of using the device to produce the following drawing, where each line shown has a length of 10 units and the horizontal lines are 10 units apart. The device is positioned at the upper-left corner of a sheet of paper and is facing right. Which of the following code segments will produce the drawing shown?",
+    "image": "https://ap.oly.st/images/421060f37380fd4543ea627b0335ea00.png",
+    "choices": [
+      {
+        "label": "penDown()goForward(10)turnRight(90)goForward(10)turnRight(90)goForward(10)",
+        "image": null
+      },
+      {
+        "label": "penDown()goForward(10)penUp()turnRight(90)turnRight(90)penDown()goForward(10)",
+        "image": null
+      },
+      {
+        "label": "penDown()goForward(10)turnRight(90)penUp()goForward(10)turnRight(90)penDown()",
+        "image": null
+      },
+      {
+        "label": "penDown()goForward(10)penUp()turnRight(90)goForward(10)turnRight(90)penDown()goForward(10)",
+        "image": null
+      }
+    ],
+    "answer": "penDown()goForward(10)penUp()turnRight(90)goForward(10)turnRight(90)penDown()goForward(10)"
+  },
+  "topic": {
+    "code": "3.12",
+    "text": "3.12: Calling Procedures"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Use abstraction to manage complexity in a program."
+  }
+}

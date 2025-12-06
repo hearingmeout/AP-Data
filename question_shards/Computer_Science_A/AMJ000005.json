@@ -1,0 +1,41 @@
+{
+  "id": "AMJ000005",
+  "type": "mcq",
+  "title": "random from 1 to 25 - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following statements assigns a random integer between 1 and 25 inclusive, to rand?",
+    "image": null,
+    "choices": [
+      {
+        "label": "int rand = (int) (Math.random()) * 25 + 1;",
+        "image": null
+      },
+      {
+        "label": "int rand = (int) (Math.random() * 25);",
+        "image": null
+      },
+      {
+        "label": "int rand = (int) (Math.random() * 25) + 1;",
+        "image": null
+      },
+      {
+        "label": "int rand = (int) (Math.random() + 1) * 25;",
+        "image": null
+      }
+    ],
+    "answer": "int rand = (int) (Math.random() * 25) + 1;"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: `Math` Class"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

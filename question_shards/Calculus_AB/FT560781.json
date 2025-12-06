@@ -1,0 +1,45 @@
+{
+  "id": "FT560781",
+  "type": "mcq",
+  "title": "Integration with particle motion",
+  "content": {
+    "description": "",
+    "question": "A particle moves along the x-axis so that at time <math> <semantics> <mrow> <mi>t</mi> <mo>≥</mo> <mn>0</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWG0bGaeyyzImRaaGimaaaa@398D@</annotation> </semantics> </math>, the acceleration of the particle is <math> <semantics> <mrow> <mi>a</mi><mo stretchy=\"false\">(</mo><mi>t</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>15</mn><msqrt> <mi>t</mi> </msqrt> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWGHbGaaiikaiaadshacaGGPaGaeyypa0JaaGymaiaaiwdadaGcaaWdaeaapeGaamiDaaWcbeaaaaa@3CFF@</annotation> </semantics> </math>. The position of the particle is 10 when t = 0, and the position of the particle is 20 when t = 1. What is the velocity of the particle at time t = 0?",
+    "image": null,
+    "choices": [
+      {
+        "label": "-14",
+        "image": null
+      },
+      {
+        "label": "0",
+        "image": null
+      },
+      {
+        "label": "5",
+        "image": null
+      },
+      {
+        "label": "6",
+        "image": null
+      },
+      {
+        "label": "10",
+        "image": null
+      }
+    ],
+    "answer": "6"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Applications of Integration"
+  },
+  "topic": {
+    "code": "8.2",
+    "text": "8.2: Connecting Position, Velocity, and Acceleration Functions Using Integrals"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

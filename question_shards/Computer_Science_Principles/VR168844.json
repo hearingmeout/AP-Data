@@ -1,0 +1,37 @@
+{
+  "id": "VR168844",
+  "type": "mcq",
+  "title": "Challenge in analyzing data from many counties",
+  "content": {
+    "description": "",
+    "question": "A team of researchers wants to create a program to analyze the amount of pollution reported in roughly 3,000 counties across the United States. The program is intended to combine county data sets and then process the data. Which of the following is most likely to be a challenge in creating the program?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A computer program cannot combine data from different files.",
+        "image": null
+      },
+      {
+        "label": "Different counties may organize data in different ways.",
+        "image": null
+      },
+      {
+        "label": "The number of counties is too large for the program to process.",
+        "image": null
+      },
+      {
+        "label": "The total number of rows of data is too large for the program to process.",
+        "image": null
+      }
+    ],
+    "answer": "Different counties may organize data in different ways."
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: Extracting Information from Data"
+  },
+  "skill": {
+    "code": "Skill 5.D",
+    "text": "Skill 5.D: Describe the impact of gathering data."
+  }
+}

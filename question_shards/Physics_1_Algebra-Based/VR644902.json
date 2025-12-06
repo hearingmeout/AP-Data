@@ -1,0 +1,41 @@
+{
+  "id": "VR644902",
+  "type": "mcq",
+  "title": "Torque - angle of force on wrench",
+  "content": {
+    "description": "",
+    "question": "An engineer tightens a bolt with a wrench. The engineer exerts a force of magnitude <math alttext=\"F\" display=\"inline\" overflow=\"scroll\"><mi>F</mi></math> near the middle of the wrench at an angle <math alttext=\"phi\" display=\"inline\" overflow=\"scroll\"><mi>ϕ</mi></math> to the normal, as shown. A student claims that to increase the torque exerted on the bolt by the wrench, the engineer could decrease the angle <math alttext=\"phi\" display=\"inline\" overflow=\"scroll\"><mi>ϕ</mi></math> between the force and the normal. Is the student’s claim correct? Why or why not?",
+    "image": "https://ap.oly.st/images/95c17a724d222061dd9d89783844aa35.svg",
+    "choices": [
+      {
+        "label": "Yes, because decreasing the angle will increase the distance between the axis of rotation and the application of the force.",
+        "image": null
+      },
+      {
+        "label": "Yes, because decreasing the angle with the normal will increase the angle between the force and the position vector.",
+        "image": null
+      },
+      {
+        "label": "No, because the torque is proportional to the sine of the angle, which will decrease with decreasing angle.",
+        "image": null
+      },
+      {
+        "label": "No, because the magnitude of the force and the distance between the application of the force and the axis of rotation will not change.",
+        "image": null
+      }
+    ],
+    "answer": "Yes, because decreasing the angle with the normal will increase the angle between the force and the position vector."
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.3",
+    "text": "5.3: Torque"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

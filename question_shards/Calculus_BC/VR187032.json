@@ -1,0 +1,41 @@
+{
+  "id": "VR187032",
+  "type": "mcq",
+  "title": "Processes - Average Rate of Change",
+  "content": {
+    "description": "<math alttext=\"g of x equals, x squared plus 1, for x less than 3; and g of x equals, 13 minus x, for x greater than or equal to 3.\" overflow=\"scroll\"> <mstyle> <mrow> <mi>g</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mo>{</mo> <mtable columnalign=\"left\" rowspacing=\"1.5ex\" width=\"auto\"> <mtr> <mtd> <mrow> <msup> <mrow> <mi>x</mi> </mrow> <mrow> <mn>2</mn> </mrow> </msup> <mo>+</mo> <mn>1</mn> </mrow> </mtd> <mtd> <mrow> <mtext>for</mtext> <mspace> </mspace> <mspace width=\"0.45em\"> </mspace> <mi>x</mi> <mo>&lt;</mo> <mn>3</mn> </mrow> </mtd> </mtr> <mtr> <mtd> <mrow> <mn>13</mn> <mo>−</mo> <mi>x</mi> </mrow> </mtd> <mtd> <mrow> <mtext>for</mtext> <mspace> </mspace> <mspace width=\"0.45em\"> </mspace> <mi>x</mi> <mo>≥</mo> <mn>3</mn> </mrow> </mtd> </mtr> </mtable> </mrow> </mstyle> </math>",
+    "question": "Let <math alttext=\"g\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> be the function given above. What is the average rate of change of <math alttext=\"g\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> on the closed interval <math alttext=\"open bracket, 1 comma 5, close bracket\" overflow=\"scroll\"><mstyle><mrow><mrow><mrow><mrow><mo>[</mo></mrow></mrow></mrow><mrow><mn>1</mn></mrow><mo>,</mo><mrow><mn>5</mn></mrow><mrow><mrow><mo>]</mo></mrow></mrow></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"one half\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"three halves\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>3</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"5\" overflow=\"scroll\"><mstyle><mrow><mn>5</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "Undefined",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"three halves\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>3</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Defining Average and Instantaneous Rates of Change at a Point"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

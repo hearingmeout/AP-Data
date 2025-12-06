@@ -1,0 +1,41 @@
+{
+  "id": "VR813108",
+  "type": "mcq",
+  "title": "LR circuit - currents after a long time",
+  "content": {
+    "description": "",
+    "question": "A circuit containing an inductor of inductance <math alttext=\"L\" display=\"inline\" overflow=\"scroll\"><mi>L</mi></math>, resistors <math alttext=\"R sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mtext>R</mtext><mtext>1</mtext></msub></math> and <math alttext=\"R sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mtext>R</mtext><mtext>2</mtext></msub></math> of resistance <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math> and <math alttext=\"2 R\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mi>R</mi></math>, respectively, a battery of <math alttext=\"e m f\" display=\"inline\" overflow=\"scroll\"><mi>emf</mi></math> <math alttext=\"open E\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi></math>, two ammeters, and a switch is constructed as shown in the diagram. After the switch is closed and the circuit reaches steady state, how does the current <math alttext=\"I sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>1</mn></msub></math> measured by Ammeter <math alttext=\"A sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mtext>A</mtext><mtext>1</mtext></msub></math> compare to the current <math alttext=\"I sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>2</mn></msub></math> measured by Ammeter <math alttext=\"A sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mtext>A</mtext><mn>2</mn></msub></math>, and why?",
+    "image": "https://ap.oly.st/images/1bb8f7e5d5f34d0de0076a105a7b74fa.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"I sub 1 equals I sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>1</mn></msub><mo>=</mo><msub><mi>I</mi><mn>2</mn></msub></math>, because the two branches in parallel have the same potential difference.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"I sub 1 equals I sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>1</mn></msub><mo>=</mo><msub><mi>I</mi><mn>2</mn></msub></math>, because the inductor and Resistor <math alttext=\"R sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mtext>R</mtext><mtext>2</mtext></msub></math> have the same resistance.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"I sub 1 is less than I sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>1</mn></msub><mo>&lt;</mo><msub><mi>I</mi><mn>2</mn></msub></math>, because the inductor will behave as a conducting wire with zero resistance.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"I sub 1 is less than I sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>1</mn></msub><mo>&lt;</mo><msub><mi>I</mi><mn>2</mn></msub></math>, because there is a greater potential difference across the inductor than Resistor <math alttext=\"R sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mtext>R</mtext><mtext>2</mtext></msub></math>.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"I sub 1 is less than I sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>1</mn></msub><mo>&lt;</mo><msub><mi>I</mi><mn>2</mn></msub></math>, because the inductor will behave as a conducting wire with zero resistance."
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.5",
+    "text": "13.5: Circuits with Resistors and Inductors (LR Circuits)"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

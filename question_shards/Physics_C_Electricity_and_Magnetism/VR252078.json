@@ -1,0 +1,48 @@
+{
+  "id": "VR252078",
+  "type": "frq",
+  "title": "Multi-focus - avocado moth damage 2 boxplots",
+  "content": {
+    "description": "",
+    "question": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations.A particular moth can infest avocado trees and potentially damage the avocado fruit. A farmer plans to investigate the number of damaged avocado fruit on moth-infested avocado trees of a certain variety. A recent article states that the population distribution of the number of damaged avocado fruit on moth-infested avocado trees of this variety is symmetric but not mound-shaped with mean <math alttext=\"mu equals 59\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>μ</mi><mo>=</mo><mn>59</mn></mrow></mstyle></math> and standard deviation <math alttext=\"sigma equals 24\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>σ</mi><mo>=</mo><mn>24</mn></mrow></mstyle></math>.(a) Compare the shapes of the sampling distributions of the sample mean number of damaged avocado fruit for random samples of <math alttext=\"6\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>6</mn></mrow></mstyle></math> moth-infested trees and for random samples of <math alttext=\"90\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>90</mn></mrow></mstyle></math> moth-infested trees from the population.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations.A particular moth can infest avocado trees and potentially damage the avocado fruit. A farmer plans to investigate the number of damaged avocado fruit on moth-infested avocado trees of a certain variety. A recent article states that the population distribution of the number of damaged avocado fruit on moth-infested avocado trees of this variety is symmetric but not mound-shaped with mean <math alttext=\"mu equals 59\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>μ</mi><mo>=</mo><mn>59</mn></mrow></mstyle></math> and standard deviation <math alttext=\"sigma equals 24\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>σ</mi><mo>=</mo><mn>24</mn></mrow></mstyle></math>.(a) Compare the shapes of the sampling distributions of the sample mean number of damaged avocado fruit for random samples of <math alttext=\"6\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>6</mn></mrow></mstyle></math> moth-infested trees and for random samples of <math alttext=\"90\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>90</mn></mrow></mstyle></math> moth-infested trees from the population.",
+        "image": null
+      },
+      {
+        "text": "(b) Which of the following would be less likely to obtain from the population?• A random sample of <math alttext=\"36\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>36</mn></mrow></mstyle></math> moth-infested avocado trees having a mean number of damaged avocado fruit that is less than <math alttext=\"60\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>60</mn></mrow></mstyle></math>or• A random sample of <math alttext=\"81\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>81</mn></mrow></mstyle></math> moth-infested avocado trees having a mean number of damaged avocado fruit that is less than <math alttext=\"60\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>60</mn></mrow></mstyle></math>Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "The farmer conducted a study to investigate whether the number of damaged avocado fruit is different for an organic insecticide applied to moth-infested avocado trees of this variety than for a conventional insecticide. The farmer randomly assigned <math alttext=\"70\" overflow=\"scroll\"><mstyle><mrow><mn>70</mn></mrow></mstyle></math> avocado trees of this variety from his farm to be treated with one of the two insecticides at first sign of infestation, with <math alttext=\"35\" overflow=\"scroll\"><mstyle><mrow><mn>35</mn></mrow></mstyle></math> receiving the organic insecticide and <math alttext=\"35\" overflow=\"scroll\"><mstyle><mrow><mn>35</mn></mrow></mstyle></math> receiving the conventional insecticide. At the end of the growing season, a worker on the farm, who was not aware of each tree’s assigned insecticide, counted the number of damaged avocado fruit on each tree. The two boxplots given below display the results of the study. (c) Based on the boxplots, write a few sentences comparing the distributions of the number of damaged avocado fruit for the moth-infested avocado trees that received the organic insecticide and the moth-infested avocado trees that received the conventional insecticide.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_C_Electricity_and_Magnetism/VR252078.g01.png"
+      },
+      {
+        "text": "The farmer will conduct a hypothesis test to investigate whether the sample data provide convincing statistical evidence that the mean number of damaged avocado fruit per tree is different for moth-infested avocado trees receiving the organic insecticide rather than the conventional insecticide.(d) Name the appropriate hypothesis test and state, in words, the hypotheses.",
+        "image": null
+      },
+      {
+        "text": "Assume the conditions for inference have been met. A <math alttext=\"90\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>90</mn></mrow></mstyle></math> percent confidence interval for the difference in the mean numbers of damaged avocado fruit per tree (organic insecticide minus conventional insecticide) was calculated to be <math alttext=\"negative 2.257 plus or minus 3.323\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>2.257</mn><mo>±</mo><mn>3.323</mn></mrow></mrow></mstyle></math>(e) Based only on this confidence interval, is the difference in the mean number of damaged avocado fruit per tree statistically significant? Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "(f) Can the findings of this study be generalized to all moth-infested avocado trees of this variety? Explain why or why not.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Comparing Distributions of a Quantitative Variable"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Identify null and alternative hypotheses."
+  }
+}

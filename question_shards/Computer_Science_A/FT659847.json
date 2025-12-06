@@ -1,0 +1,41 @@
+{
+  "id": "FT659847",
+  "type": "mcq",
+  "title": "Point and Circle class constructors",
+  "content": {
+    "description": "The question refer to the following declarations.",
+    "question": "public class Point { private double myX; private double myyY; // postcondition: this Point has coordinates (0,0) public Point () { /* implementation not shown */ } // postcondition: this Point has coordinates (x,y) public Point(double x, double y) { /* implementation not shown */ } // other methods not shown } public class Circle { private Point myCenter; private double myRadius; // postcondition: this Circle has center at (0, 0) and radius 0.0 public Circle() { /* implementation not shown */ } // postcondition: this Circle has the given center and radius public Circle(Point center, double radius) { /* implementation not shown */ } // other methods not shown } In a client program which of the following correctly declares and initializes Circle circ with center at (29.5, 33.0) and radius 10.0 ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Circle circ = new Circle((29.5, 33.0), 10.0);",
+        "image": null
+      },
+      {
+        "label": "Circle circ = new Circle(new Point (29.5, 33.0), 10.0);",
+        "image": null
+      },
+      {
+        "label": "Circle circ = new Circle(); circ.myCenter = new Point(29.5, 33.0); circ.myRadius = 10.0;",
+        "image": null
+      },
+      {
+        "label": "Circle circ = new Circle(); circ.myCenter = new Point(); circ.myCenter.myX = 29.5; circ.myCenter.myY = 33.0; cire.myRadius = 10.0;",
+        "image": null
+      }
+    ],
+    "answer": "Circle circ = new Circle(new Point (29.5, 33.0), 10.0);"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.4",
+    "text": "3.4: Constructors"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

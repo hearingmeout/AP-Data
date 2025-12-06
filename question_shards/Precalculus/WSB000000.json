@@ -1,0 +1,41 @@
+{
+  "id": "WSB000000",
+  "type": "mcq",
+  "title": "Logarithmic Manipulation - applying properties",
+  "content": {
+    "description": "",
+    "question": "The function <math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is given by <math alttext=\"f open parentheses x close parentheses equals log subscript 4 open parentheses 16 over x close parentheses\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msub><mi>log</mi><mn>4</mn></msub><mfenced><mfrac><mn>16</mn><mi>x</mi></mfrac></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. Of the following, solving which equation gives the solution to <math alttext=\"f open parentheses x close parentheses equals 5\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>5</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​​<math alttext=\"log subscript 4 16 minus ln open parentheses x over 4 close parentheses equals 5\"><semantics><mrow><msub><mi>log</mi><mn>4</mn></msub><mn>16</mn><mo>-</mo><mi>ln</mi><mfenced><mfrac><mi>x</mi><mn>4</mn></mfrac></mfenced><mo>=</mo><mn>5</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"log subscript 4 16 minus fraction numerator ln space x over denominator ln space 4 end fraction equals 5\"><semantics><mrow><msub><mi>log</mi><mn>4</mn></msub><mn>16</mn><mo>-</mo><mfrac><mrow><mi>ln</mi><mo>&nbsp;</mo><mi>x</mi></mrow><mrow><mi>ln</mi><mo>&nbsp;</mo><mn>4</mn></mrow></mfrac><mo>=</mo><mn>5</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"ln open parentheses x over 4 close parentheses minus log subscript 4 16 equals 5\"><semantics><mrow><mi>ln</mi><mfenced><mfrac><mi>x</mi><mn>4</mn></mfrac></mfenced><mo>-</mo><msub><mi>log</mi><mn>4</mn></msub><mn>16</mn><mo>=</mo><mn>5</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"fraction numerator ln space x over denominator ln space 4 end fraction minus log subscript 4 16 equals 5\"><semantics><mrow><mfrac><mrow><mi>ln</mi><mo>&nbsp;</mo><mi>x</mi></mrow><mrow><mi>ln</mi><mo>&nbsp;</mo><mn>4</mn></mrow></mfrac><mo>-</mo><msub><mi>log</mi><mn>4</mn></msub><mn>16</mn><mo>=</mo><mn>5</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"log subscript 4 16 minus fraction numerator ln space x over denominator ln space 4 end fraction equals 5\"><semantics><mrow><msub><mi>log</mi><mn>4</mn></msub><mn>16</mn><mo>-</mo><mfrac><mrow><mi>ln</mi><mo>&nbsp;</mo><mi>x</mi></mrow><mrow><mi>ln</mi><mo>&nbsp;</mo><mn>4</mn></mrow></mfrac><mo>=</mo><mn>5</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.12",
+    "text": "2.12: Logarithmic Function Manipulation"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Solve equations and inequalities represented analytically, with and without technology."
+  }
+}

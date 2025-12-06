@@ -1,0 +1,45 @@
+{
+  "id": "VH928085",
+  "type": "mcq",
+  "title": "French fries for lunch",
+  "content": {
+    "description": "For the lunch special at a high school cafeteria, students can get either salad or french fries as a side order. The following table shows the number of each side order for the lunch specials purchased on one day, classified by the grade of the student.",
+    "question": "Grade 9 Grade 10 Grade 11 Grade 12 Total Salad 37 34 21 28 120 French fries 83 71 57 37 248 Total 120 105 78 65 368 From those who purchased the lunch special that day, one student will be selected at random. What is the probability that the student selected will be in grade 10 given that the student ordered french fries as the side order?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"71 over 368\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>71</mn></mrow><mrow><mn>368</mn></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"105 over 368\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>105</mn></mrow><mrow><mn>368</mn></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"71 over 248\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>71</mn></mrow><mrow><mn>248</mn></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"248 over 368\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>248</mn></mrow><mrow><mn>368</mn></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"71 over 105\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>71</mn></mrow><mrow><mn>105</mn></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"71 over 248\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>71</mn></mrow><mrow><mn>248</mn></mrow></mfrac></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Conditional Probability"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+  }
+}

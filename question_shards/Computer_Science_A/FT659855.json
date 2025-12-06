@@ -1,0 +1,41 @@
+{
+  "id": "FT659855",
+  "type": "mcq",
+  "title": "Comparing obj1 and obj2 object references",
+  "content": {
+    "description": "",
+    "question": "Assume obj1 and obj2 are object references. Which of the following best describes when the expression obj1 == obj2 is true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "When obj1 and obj2 are defined within the same method",
+        "image": null
+      },
+      {
+        "label": "When obj1 and obj2 are instances of the same class",
+        "image": null
+      },
+      {
+        "label": "When obj1 and obj2 refer to objects that contain the same data",
+        "image": null
+      },
+      {
+        "label": "When obj1 and obj2 refer to the same object",
+        "image": null
+      }
+    ],
+    "answer": "When obj1 and obj2 refer to the same object"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Comparing Boolean Expressions"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

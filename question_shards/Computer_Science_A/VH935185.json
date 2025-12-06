@@ -1,0 +1,41 @@
+{
+  "id": "VH935185",
+  "type": "mcq",
+  "title": "change to printAllCharacters method",
+  "content": {
+    "description": "Consider the following method definition. The method printAllCharacters is intended to print out every character in str, starting with the character at index 0.",
+    "question": "public static void printAllCharacters(String str){for (int x = 0; x < str.length(); x++) // Line 3{System.out.print(str.substring(x, x + 1));}}The following statement is found in the same class as the printAllCharacters method.printAllCharacters(\"ABCDEFG\");Which choice best describes the difference, if any, in the behavior of this statement that will result from changing x < str.length() to x <= str.length() in line 3 of the method?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The method call will print fewer characters than it did before the change because the loop will iterate fewer times.",
+        "image": null
+      },
+      {
+        "label": "The method call will print more characters than it did before the change because the loop will iterate more times.",
+        "image": null
+      },
+      {
+        "label": "The method call, which worked correctly before the change, will now cause a run-time error because it attempts to access a character at index 7 in a string whose last element is at index 6.",
+        "image": null
+      },
+      {
+        "label": "The method call, which worked correctly before the change, will now cause a run-time error because it attempts to access a character at index 8 in a string whose last element is at index 7.",
+        "image": null
+      }
+    ],
+    "answer": "The method call, which worked correctly before the change, will now cause a run-time error because it attempts to access a character at index 7 in a string whose last element is at index 6."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: `for` Loops"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

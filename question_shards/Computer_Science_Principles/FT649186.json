@@ -1,0 +1,37 @@
+{
+  "id": "FT649186",
+  "type": "mcq",
+  "title": "Robot in bottom right corner of grid",
+  "content": {
+    "description": "Directions: For the question or incomplete statement below, two of the suggested answers are correct. For this question, you must select both correct choices to earn credit. No partial credit will be earned if only one correct choice is selected. Select the two that are best in each case.",
+    "question": "The question below uses a robot in a grid of squares. The robot is represented as a triangle, which is initially in the bottom-right square of the grid and facing toward the top of the grid. Which of the following code segments can be used to move the robot to the gray square? Select two answers.",
+    "image": "https://ap.oly.st/images/cbda6e7c4242249c2351e4e6eaa4556f.jpg",
+    "choices": [
+      {
+        "label": "A coding program reads as follows. Line 1: Repeat 4 times. Line 2: Left curly bracket. Line 3: Move underscore forward left parenthesis right parenthesis. Line 4: Rotate underscore left  parenthesis right parenthesis. Line 5: Move underscore forward left parenthesis right parenthesis. Line 6: Rotate underscore right left parenthesis right parenthesis. Line 7: Right curly bracket.",
+        "image": "https://ap.oly.st/images/e3f0221cb69ed98353327bd7b53c511c.jpg"
+      },
+      {
+        "label": "A coding program reads as follows. Line 1: Repeat 4 times. Line 2: Left curly bracket. Line 3: Rotate underscore right left parenthesis right parenthesis. Line 4: Move underscore forward left parenthesis right parenthesis. Line 5: Move underscore forward left parenthesis right parenthesis. Line 6: Rotate underscore right left parenthesis right parenthesis. Line 7: Right curly bracket.",
+        "image": "https://ap.oly.st/images/80d5a1fc6ccf9f1a456273a251399fef.jpg"
+      },
+      {
+        "label": "A coding program reads as follows. Line 1: Repeat 2 times. Line 2: Left curly bracket. Line 3: Repeat 4 times. Line 4: Left curly bracket. Line 5: Move underscore forward left parenthesis right parenthesis. Line 6: Right curly bracket. Line 7: Rotate underscore right left parenthesis right parenthesis. Line 8: Right curly bracket.",
+        "image": "https://ap.oly.st/images/a39ae1aebbb4360368a9ab74e888fcdd.jpg"
+      },
+      {
+        "label": "A coding program reads as follows. Line 1: Repeat 2 times. Line 2: Left curly bracket. Line 3: Repeat 2 times. Line 4: Move underscore forward left parenthesis right parenthesis. Line 5: Move underscore forward left parenthesis right parenthesis. Line 6: Rotate underscore right left parenthesis right parenthesis. Line 7: Right curly bracket. Line 8: Right curtly bracket.",
+        "image": "https://ap.oly.st/images/b957b5e6377369230f78d4c47f9c01ea.jpg"
+      }
+    ],
+    "answer": "A coding program reads as follows. Line 1: Repeat 4 times. Line 2: Left curly bracket. Line 3: Move underscore forward left parenthesis right parenthesis. Line 4: Rotate underscore left  parenthesis right parenthesis. Line 5: Move underscore forward left parenthesis right parenthesis. Line 6: Rotate underscore right left parenthesis right parenthesis. Line 7: Right curly bracket."
+  },
+  "topic": {
+    "code": "3.8",
+    "text": "3.8: Iteration"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

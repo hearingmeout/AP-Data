@@ -1,0 +1,41 @@
+{
+  "id": "ZBE000001",
+  "type": "mcq",
+  "title": "Traversing nums array - determine result",
+  "content": {
+    "description": "",
+    "question": "What are the contents of nums after executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "{5, 5, 15, 15, 25, 25}",
+        "image": null
+      },
+      {
+        "label": "{10, 10, 20, 20, 25, 30}",
+        "image": null
+      },
+      {
+        "label": "{10, 10, 20, 20, 30, 30}",
+        "image": null
+      },
+      {
+        "label": "{10, 15, 20, 25, 30, 30}",
+        "image": null
+      }
+    ],
+    "answer": "{10, 10, 20, 20, 30, 30}"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.4",
+    "text": "4.4: Array Traversals"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

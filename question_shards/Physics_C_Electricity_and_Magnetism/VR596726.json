@@ -1,0 +1,45 @@
+{
+  "id": "VR596726",
+  "type": "mcq",
+  "title": "On-base Plus Slugging",
+  "content": {
+    "description": "On-base percentage plus slugging <math alttext=\"(O P S)\" display=\"inline\" overflow=\"scroll\"><mrow><mrow><mo>(</mo><mstyle><mrow><mtext>OPS</mtext></mrow></mstyle><mo>)</mo></mrow></mrow></math> is a statistic used in baseball to measure a team’s batting success. The number of runs scored and <math alttext=\"O P S\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>OPS</mtext></mrow></mstyle></math> for <math alttext=\"30\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>30</mn></mrow></mstyle></math> baseball teams was used to conduct a linear regression analysis. The scatterplot and computer output for the regression analysis is shown.",
+    "question": "Term <math alttext=\"Coefficient\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>Coef</mtext></mrow></mstyle></math> <math alttext=\"S E Coefficient\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>SE Coef</mtext></mrow></mstyle></math> <math alttext=\"T value\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>T-Value</mtext></mrow></mstyle></math> <math alttext=\"P value\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>P-Value</mtext></mrow></mstyle></math> Constant <math alttext=\"negative 838.40\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo lspace=\"0em\" rspace=\"0em\">–</mo><mn>838.40</mn></mrow></mstyle></math> <math alttext=\"77.99\" display=\"inline\" overflow=\"scroll\"><mn>77.99</mn></math> <math alttext=\"negative 10.75\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo lspace=\"0em\" rspace=\"0em\">–</mo><mn>10.75</mn></mrow></mstyle></math> <math alttext=\"less than 0.0001\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>&lt;</mo><mn>0.0001</mn></mrow></mstyle></math> <math alttext=\"O P S\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>OPS</mtext></mrow></mstyle></math> <math alttext=\"2144.3\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>2144.3</mn></mrow></mstyle></math> <math alttext=\"107.1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>107.1</mn></mrow></mstyle></math> <math alttext=\"20.01\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>20.01</mn></mrow></mstyle></math> <math alttext=\"less than 0.0001\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>&lt;</mo><mn>0.0001</mn></mrow></mstyle></math> <math alttext=\"S equals 19.516\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">S</mi><mo>=</mo><mn>19.516</mn></math> <math alttext=\"R squared, equals 93.47%\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>R-Sq</mtext><mo>=</mo><mn>93.47</mn><mo>%</mo></mrow></mstyle></math> <math alttext=\"R squared, adjusted, equals 93.23%\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>R-Sq(adj)</mtext><mo>=</mo><mn>93.23</mn><mo>%</mo></mrow></mstyle></math> Which of the following is the most appropriate interpretation of the statistic <math alttext=\"93.47%\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>93.47</mn><mo>%</mo></mrow></mstyle></math> in the regression output?",
+    "image": "https://ap.oly.st/images/a968b7703698a963c980baa7d9e91a79.svg",
+    "choices": [
+      {
+        "label": "There is a strong, positive, linear relationship between number of runs scored and <math alttext=\"O P S\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>OPS</mtext></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "The typical deviation between observed and predicted number of runs scored is <math alttext=\"0.9347\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.9347</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "For each one-unit increase in <math alttext=\"O P S\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>OPS</mtext></mrow></mstyle></math>, the regression model predicts an increase of <math alttext=\"93.47\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>93.47</mn></mrow></mstyle></math> runs scored.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"93.47%\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>93.47</mn><mo>%</mo><mo>⁢</mo></mrow></mstyle></math> of the observed number of runs scored are close to the regression line.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"93.47%\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>93.47</mn><mo>%</mo></mrow></mstyle></math> of the variation in number of runs scored can be explained by the linear regression with <math alttext=\"O P S\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>OPS</mtext></mrow></mstyle></math>.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"93.47%\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>93.47</mn><mo>%</mo></mrow></mstyle></math> of the variation in number of runs scored can be explained by the linear regression with <math alttext=\"O P S\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>OPS</mtext></mrow></mstyle></math>."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: Least Squares Regression"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}

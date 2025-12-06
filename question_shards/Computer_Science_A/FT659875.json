@@ -1,0 +1,41 @@
+{
+  "id": "FT659875",
+  "type": "mcq",
+  "title": "loop on string abcdef",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "String str = \"abcdef\"; for (int rep = 0; rep < str.length() - 1; rep++) { System.out.print(str.substring(rep, rep + 2)); } What is printed as a result of executing this code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "aabbccddeeff",
+        "image": null
+      },
+      {
+        "label": "abbccddeef",
+        "image": null
+      },
+      {
+        "label": "abcbcdcdedef",
+        "image": null
+      },
+      {
+        "label": "Nothing is printed because an IndexOutOfBoundsException is thrown.",
+        "image": null
+      }
+    ],
+    "answer": "abbccddeef"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

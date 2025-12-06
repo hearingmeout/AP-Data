@@ -1,0 +1,41 @@
+{
+  "id": "FT659850",
+  "type": "mcq",
+  "title": "findMax with int array parameter",
+  "content": {
+    "description": "The following incomplete method is intended to return the largest integer in the array numbers.",
+    "question": "// precondition: numbers.length > 0 public static int findMax(int[]numbers) { int posOfMax = O; for (int index = 1; index < numbers.length; index++) { if ( /*condition*/ ) { /* statement */ } } return numbers[posOfMax]; } Which of the following can be used to replace /* condition */ and /* statement */ so that findMax will work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "/* condition */ /* statement */ numbers[index] > numbers[posOfMax] posOfMax = numbers[index];",
+        "image": null
+      },
+      {
+        "label": "/* condition */ /* statement */ numbers[index] > numbers[posOfMax] posOfMax = index;",
+        "image": null
+      },
+      {
+        "label": "/* condition */ /* statement */ numbers[index] > posOfMax posOfMax = numbers[index];",
+        "image": null
+      },
+      {
+        "label": "/* condition */ /* statement */ numbers[index] < posOfMax posOfMax = numbers[index];",
+        "image": null
+      }
+    ],
+    "answer": "/* condition */ /* statement */ numbers[index] > numbers[posOfMax] posOfMax = index;"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implementing Array Algorithms"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

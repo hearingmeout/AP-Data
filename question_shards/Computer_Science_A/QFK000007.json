@@ -1,0 +1,41 @@
+{
+  "id": "QFK000007",
+  "type": "mcq",
+  "title": "While loop overflow - describe conditions",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the condition in which this code segment always results in integer overflow?",
+    "image": null,
+    "choices": [
+      {
+        "label": "When input == 0",
+        "image": null
+      },
+      {
+        "label": "When input == 1",
+        "image": null
+      },
+      {
+        "label": "When input > 0",
+        "image": null
+      },
+      {
+        "label": "When input < 0",
+        "image": null
+      }
+    ],
+    "answer": "When input < 0"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.5",
+    "text": "1.5: Casting and Range of Variables"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

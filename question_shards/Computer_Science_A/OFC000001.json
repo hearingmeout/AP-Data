@@ -1,0 +1,41 @@
+{
+  "id": "OFC000001",
+  "type": "mcq",
+  "title": "Build ArrayLists using scanner - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following can replace /* missing code */ so that this code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "while (sc.hasNext()) { firstList.add(sc.next()); secondList.add(sc.next()); }",
+        "image": null
+      },
+      {
+        "label": "while (sc.hasNext()) { firstList.add(sc.next()); } while (sc.hasNext()) { secondList.add(sc.next()); }",
+        "image": null
+      },
+      {
+        "label": "while (sc.hasNext()) { String[] temp = sc.next().split(\"_\"); firstList.add(temp[0]); secondList.add(temp[1]); }",
+        "image": null
+      },
+      {
+        "label": "while (sc.hasNext()) { String[] temp = sc.next().split(\"_\"); firstList.add(temp[0]); firstList.add(temp[1]); } while (sc.hasNext()) { String[] temp = sc.next().split(\"_\"); secondList.add(temp[0]); secondList.add(temp[1]); }",
+        "image": null
+      }
+    ],
+    "answer": "while (sc.hasNext()) { String[] temp = sc.next().split(\"_\"); firstList.add(temp[0]); secondList.add(temp[1]); }"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.6",
+    "text": "4.6: Using Text Files"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VR799448",
+  "type": "mcq",
+  "title": "Electric potential - V at origin from line charge",
+  "content": {
+    "description": "",
+    "question": "What is the electric potential at the origin?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"k times the fraction uppercase Q over 2, end fraction, times open parenthesis, the fraction 1 over x sub 0, end fraction, plus the fraction 1 over x sub 0, end sub, plus L, end fraction, close parenthesis\" overflow=\"scroll\"><mi>k</mi><mfrac><mi>Q</mi><mn>2</mn></mfrac><mrow><mo>(</mo><mfrac><mn>1</mn><msub><mi>x</mi><mn>0</mn></msub></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><msub><mi>x</mi><mn>0</mn></msub><mo>+</mo><mi>L</mi></mrow></mfrac><mo>)</mo></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"k times the fraction uppercase Q over L, end fraction, times the natural log of open parenthesis, the fraction with numerator x sub 0, end sub, plus L, and denominator x sub 0, close parenthesis\" overflow=\"scroll\"><mi>k</mi><mfrac><mi>Q</mi><mi>L</mi></mfrac><mi>ln</mi><mrow><mo>(</mo><mfrac><mrow><msub><mi>x</mi><mn>0</mn></msub><mo>+</mo><mi>L</mi></mrow><msub><mi>x</mi><mn>0</mn></msub></mfrac><mo>)</mo></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"k times the fraction uppercase Q over L, end fraction, times the natural log of open parenthesis, the fraction L over x sub 0, close parenthesis\" overflow=\"scroll\"><mi>k</mi><mfrac><mi>Q</mi><mi>L</mi></mfrac><mi>ln</mi><mrow><mo>(</mo><mfrac><mi>L</mi><msub><mi>x</mi><mn>0</mn></msub></mfrac><mo>)</mo></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"k times the fraction uppercase Q over x sub 0\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>k</mi><mfrac><mi>Q</mi><msub><mi>x</mi><mn>0</mn></msub></mfrac></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"k times the fraction uppercase Q over L, end fraction, times the natural log of open parenthesis, the fraction with numerator x sub 0, end sub, plus L, and denominator x sub 0, close parenthesis\" overflow=\"scroll\"><mi>k</mi><mfrac><mi>Q</mi><mi>L</mi></mfrac><mi>ln</mi><mrow><mo>(</mo><mfrac><mrow><msub><mi>x</mi><mn>0</mn></msub><mo>+</mo><mi>L</mi></mrow><msub><mi>x</mi><mn>0</mn></msub></mfrac><mo>)</mo></mrow></math>"
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Electric Potential"
+  },
+  "topic": {
+    "code": "9.2",
+    "text": "9.2: Electric Potential"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

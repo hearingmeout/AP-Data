@@ -1,0 +1,41 @@
+{
+  "id": "VH901012",
+  "type": "mcq",
+  "title": "print weather based on temperature",
+  "content": {
+    "description": "In the code segment below, the int variable temp represents a temperature in degrees Fahrenheit. The code segment is intended to print a string based on the value of temp. The following table shows the string that should be printed for different temperature ranges.",
+    "question": "Temperature RangeString to Print31 and below\"cold\"32–50\"cool\"51–70\"moderate\"​71 and above\"warm\"String weather;if (temp <= 31){weather = \"cold\";}else{weather = \"cool\";}if (temp >= 51){weather = \"moderate\";}else{weather = \"warm\";}System.out.print(weather);Which of the following test cases can be used to show that the code does NOT work as intended?temp <math alttext=\"equals\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>=</mo></mrow></mstyle></math> 30temp <math alttext=\"equals\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>=</mo></mrow></mstyle></math> 51temp <math alttext=\"equals\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>=</mo></mrow></mstyle></math> 60",
+    "image": null,
+    "choices": [
+      {
+        "label": "I only",
+        "image": null
+      },
+      {
+        "label": "I and II only",
+        "image": null
+      },
+      {
+        "label": "II and III only",
+        "image": null
+      },
+      {
+        "label": "I, II, and III",
+        "image": null
+      }
+    ],
+    "answer": "I only"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: `if` Statements"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

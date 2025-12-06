@@ -1,0 +1,37 @@
+{
+  "id": "VR165845",
+  "type": "mcq",
+  "title": "Displaying random values in a loop",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "Which of the following CANNOT be displayed as a result of executing the code segment?",
+    "image": "https://ap.oly.st/images/ba56bbe33bb2b239f744ad20dab50d7f.png",
+    "choices": [
+      {
+        "label": "1 1 1 1",
+        "image": null
+      },
+      {
+        "label": "1 2 3 2",
+        "image": null
+      },
+      {
+        "label": "1 2 3 4",
+        "image": null
+      },
+      {
+        "label": "1 3 2 4",
+        "image": null
+      }
+    ],
+    "answer": "1 3 2 4"
+  },
+  "topic": {
+    "code": "3.15",
+    "text": "3.15: Random Values"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

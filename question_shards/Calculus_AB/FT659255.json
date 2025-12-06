@@ -1,0 +1,40 @@
+{
+  "id": "FT659255",
+  "type": "frq",
+  "title": "Particle Motion from velocity function",
+  "content": {
+    "description": "",
+    "question": "A particle moves along the x-axis so that its velocity at time t is given by <math> <semantics> <mrow> <mi>v</mi> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mo>−</mo> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo>+</mo> <mn>1</mn> <mo stretchy=\"false\">)</mo> <mi>sin</mi> <mrow> <mo>(</mo> <mrow> <mfrac> <mrow> <msup> <mi>t</mi> <mn>2</mn> </msup> </mrow> <mn>2</mn> </mfrac> </mrow> <mo>)</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaWG2bGaaiikaiaadshacaGGPaGaeyypa0JaeyOeI0Iaaiikaiaa dshacqGHRaWkcaaIXaGaaiykaiGacohacaGGPbGaaiOBamaabmaaba WaaSaaa8aabaWdbiaadshapaWaaWbaaSqabeaapeGaaGOmaaaaaOWd aeaapeGaaGOmaaaaaiaawIcacaGLPaaaaaa@46BC@ </annotation> </semantics> </math>. At time t = 0, the particle is at position x = 1. (a) Find the acceleration of the particle at time t = 2. Is the speed of the particle increasing at t = 2? Why or why not?",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "A particle moves along the x-axis so that its velocity at time t is given by <math> <semantics> <mrow> <mi>v</mi> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mo>−</mo> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo>+</mo> <mn>1</mn> <mo stretchy=\"false\">)</mo> <mi>sin</mi> <mrow> <mo>(</mo> <mrow> <mfrac> <mrow> <msup> <mi>t</mi> <mn>2</mn> </msup> </mrow> <mn>2</mn> </mfrac> </mrow> <mo>)</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaWG2bGaaiikaiaadshacaGGPaGaeyypa0JaeyOeI0Iaaiikaiaa dshacqGHRaWkcaaIXaGaaiykaiGacohacaGGPbGaaiOBamaabmaaba WaaSaaa8aabaWdbiaadshapaWaaWbaaSqabeaapeGaaGOmaaaaaOWd aeaapeGaaGOmaaaaaiaawIcacaGLPaaaaaa@46BC@ </annotation> </semantics> </math>. At time t = 0, the particle is at position x = 1. (a) Find the acceleration of the particle at time t = 2. Is the speed of the particle increasing at t = 2? Why or why not?",
+        "image": null
+      },
+      {
+        "text": "(b) Find all times t in the open interval 0 < t < 3 when the particle changes direction. Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "(c) Find the total distance traveled by the particle from time t = 0 until time t = 3.",
+        "image": null
+      },
+      {
+        "text": "(d) During the time interval 0 ≤ t ≤ 3, what is the greatest distance between the particle and the origin? Show the work that leads to your answer.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Contextual Applications of Differentiation"
+  },
+  "topic": {
+    "code": "4.2",
+    "text": "4.2: Straight-Line Motion - Connecting Position, Velocity, and Acceleration"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

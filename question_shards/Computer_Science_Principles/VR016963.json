@@ -1,0 +1,37 @@
+{
+  "id": "VR016963",
+  "type": "mcq",
+  "title": "Coin flip simulation",
+  "content": {
+    "description": "",
+    "question": "Which of the following code segments best simulates the behavior of the game?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The figure presents two blocks of code that consist of 5 lines. Throughout the code are nested blocks of code. Line 1: [begin block] flip ← RANDOM [begin block] 0, 3 [end block] [end block] [Begin Block] Line 2: IF [begin block] flip = 3 [end block] [Begin Block] Line 3: [begin block] DISPLAY [begin block] “You lose.” [end block] [end block] [End Block] Line 4: ELSE [Begin Block] Line 5: [begin block] DISPLAY [begin block] “You win!” [end block] [end block] [End Block] [End Block]",
+        "image": "https://ap.oly.st/images/f6c55586992923450a7a91904a14d2e5.png"
+      },
+      {
+        "label": "The figure presents two blocks of code that consist of 5 lines. Throughout the code are nested blocks of code. Line 1: [begin block] flip ← RANDOM [begin block] 0, 3 [end block] [end block] [Begin Block] Line 2: IF [Begin Block] [begin block] flip = 3 [end block] OR [begin block] flip = 0 [end block] [End Block] [Begin Block] Line 3: [begin block] DISPLAY [begin block] “You win!” [end block] [end block] [End Block] Line 3: ELSE [Begin Block] Line 4: [begin block] DISPLAY [begin block] “You lose.” [end block] [end block] [End Block] [End Block]",
+        "image": "https://ap.oly.st/images/b800cacd8d9baf991953b7f8285082ec.png"
+      },
+      {
+        "label": "The figure presents three blocks of code that consist of 7 lines. Throughout the second and third blocks of code are nested blocks of code. Line 1: [begin block] sum ← 0 [end block] [Begin Block] Line 2: REPEAT 3 TIMES [Begin Block] Line 3: [begin block] sum ← sum + RANDOM [begin block] 0, 1 [end block] [End Block] [End Block] [End block] [Begin Block] Line 4: IF [begin block] sum = 3 [end block] [Begin Block] Line 5: [begin block] DISPLAY [begin block] “You win!” [end block] [end block] [End Block] Line 6: ELSE [Begin Block] Line 7: [begin block] DISPLAY [begin block] “You lose.” [end block] [end block] [End Block] [End Block]",
+        "image": "https://ap.oly.st/images/93945a66d569fbfe3af4b514f047f57f.png"
+      },
+      {
+        "label": "The figure presents three blocks of code that consist of 7 lines. Throughout the second and third blocks of code are nested blocks of code. Line 1: [begin block] sum ← 0 [end block] [Begin Block] Line 2: REPEAT 3 TIMES [Begin Block] Line 3: [begin block] sum ← sum + RANDOM [begin block] 0, 1 [end block] [End Block] [End Block] [End block] [Begin Block] Line 4: IF [begin block] [begin block] sum = 3 [end block] OR [begin block] sum = 0 [end block] [End Block] [Begin Block] Line 5: [begin block] DISPLAY [begin block] “You win!” [end block] [end block] [End Block] Line 6: ELSE [Begin Block] Line 7: [begin block] DISPLAY [begin block] “You lose” [end block] [end block] [End Block] [End Block]",
+        "image": "https://ap.oly.st/images/b746f675b6410dfc74b16ee8bcbf33f1.png"
+      }
+    ],
+    "answer": "The figure presents three blocks of code that consist of 7 lines. Throughout the second and third blocks of code are nested blocks of code. Line 1: [begin block] sum ← 0 [end block] [Begin Block] Line 2: REPEAT 3 TIMES [Begin Block] Line 3: [begin block] sum ← sum + RANDOM [begin block] 0, 1 [end block] [End Block] [End Block] [End block] [Begin Block] Line 4: IF [begin block] [begin block] sum = 3 [end block] OR [begin block] sum = 0 [end block] [End Block] [Begin Block] Line 5: [begin block] DISPLAY [begin block] “You win!” [end block] [end block] [End Block] Line 6: ELSE [Begin Block] Line 7: [begin block] DISPLAY [begin block] “You lose” [end block] [end block] [End Block] [End Block]"
+  },
+  "topic": {
+    "code": "3.15",
+    "text": "3.15: Random Values"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

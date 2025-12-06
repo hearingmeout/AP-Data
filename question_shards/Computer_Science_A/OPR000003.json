@@ -1,0 +1,41 @@
+{
+  "id": "OPR000003",
+  "type": "mcq",
+  "title": "BankAccount class - explain why will not work",
+  "content": {
+    "description": "",
+    "question": "Which of the following best explains why the deposit method does not work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The deposit method must have a return statement.",
+        "image": null
+      },
+      {
+        "label": "In the deposit method, the variable balance should be replaced by the variable initialBalance.",
+        "image": null
+      },
+      {
+        "label": "In the deposit method, the variable balance is declared as a local variable and is different from the instance variable balance.",
+        "image": null
+      },
+      {
+        "label": "The variable balance must be passed to the deposit method.",
+        "image": null
+      }
+    ],
+    "answer": "In the deposit method, the variable balance is declared as a local variable and is different from the instance variable balance."
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.8",
+    "text": "3.8: Scope and Access"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

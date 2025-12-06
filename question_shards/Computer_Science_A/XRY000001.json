@@ -1,0 +1,41 @@
+{
+  "id": "XRY000001",
+  "type": "mcq",
+  "title": "findMaximum does not work - describe conditions",
+  "content": {
+    "description": "",
+    "question": "The method works as intended for some, but not all, int arrays. Which of the following best describes the conditions in which the method does not return the intended result?",
+    "image": null,
+    "choices": [
+      {
+        "label": "When the maximum value in numbers is the first element in the array",
+        "image": null
+      },
+      {
+        "label": "When the maximum value in numbers appears multiple times in the array",
+        "image": null
+      },
+      {
+        "label": "When the maximum value in numbers is negative",
+        "image": null
+      },
+      {
+        "label": "When the maximum value in numbers is Integer.MAX_VALUE",
+        "image": null
+      }
+    ],
+    "answer": "When the maximum value in numbers is negative"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implementing Array Algorithms"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

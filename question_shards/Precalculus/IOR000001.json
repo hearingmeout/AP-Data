@@ -1,0 +1,41 @@
+{
+  "id": "IOR000001",
+  "type": "mcq",
+  "title": "Exponential Function - Equivalent Form",
+  "content": {
+    "description": "",
+    "question": "In the <math alttext=\"x y\"><mi>x</mi><mi>y</mi></math>-plane, the function <math alttext=\"h\"><mi>h</mi></math>, given by <math alttext=\"h open parentheses x close parentheses equals 3 to the power of open parentheses x plus 2 close parentheses end exponent\"><mi>h</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mn>3</mn><mfenced><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfenced></msup></math>, is a horizontal translation of the exponential function <math alttext=\"f\"><mi>f</mi></math>, given by <math alttext=\"f open parentheses x close parentheses equals 3 to the power of x\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mn>3</mn><mi>x</mi></msup></math>. Which of the following is an equivalent form for <math alttext=\"h open parentheses x close parentheses\"><mi>h</mi><mfenced><mi>x</mi></mfenced></math> that expresses <math alttext=\"h\"><mi>h</mi></math> as a vertical dilation of <math alttext=\"f\"><mi>f</mi></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"h open parentheses x close parentheses equals 3 to the power of open parentheses x divided by 2 close parentheses end exponent\"><mi>h</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mn>3</mn><mfenced><mrow><mi>x</mi><mo>/</mo><mn>2</mn></mrow></mfenced></msup></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"h open parentheses x close parentheses equals 9 times 3 to the power of x\"><mi>h</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>9</mn><mo>·</mo><msup><mn>3</mn><mi>x</mi></msup></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"h open parentheses x close parentheses equals 9 times open parentheses 1 third close parentheses to the power of x\"><mi>h</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>9</mn><mo>·</mo><msup><mfenced><mfrac><mn>1</mn><mn>3</mn></mfrac></mfenced><mi>x</mi></msup></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"h open parentheses x close parentheses equals 9 plus 3 to the power of x\"><mi>h</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>9</mn><mo>+</mo><msup><mn>3</mn><mi>x</mi></msup></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"h open parentheses x close parentheses equals 9 times 3 to the power of x\"><mi>h</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>9</mn><mo>·</mo><msup><mn>3</mn><mi>x</mi></msup></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Exponential Function Manipulation"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Express functions, equations, or expressions in analytically equivalent forms that are useful in a given mathematical or applied context."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "TKY000006",
+  "type": "mcq",
+  "title": "values printed nested for loops- describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the behavior of the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "It prints \"*\" a total of outerMax + innerMax times.",
+        "image": null
+      },
+      {
+        "label": "It prints \"*\" a total of outerMax * innerMax times.",
+        "image": null
+      },
+      {
+        "label": "It prints \"*\" a total of (outerMax + 1) + (innerMax + 1) times.",
+        "image": null
+      },
+      {
+        "label": "It prints \"*\" a total of (outerMax + 1) * (innerMax + 1) times.",
+        "image": null
+      }
+    ],
+    "answer": "It prints \"*\" a total of outerMax * innerMax times."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.11",
+    "text": "2.11: Nested Iteration"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

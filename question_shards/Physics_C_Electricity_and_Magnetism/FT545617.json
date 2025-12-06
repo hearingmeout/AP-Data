@@ -1,0 +1,45 @@
+{
+  "id": "FT545617",
+  "type": "mcq",
+  "title": "Application of Ampere's law to current in wire",
+  "content": {
+    "description": "",
+    "question": "A wire of radius R has a current I uniformly distributed across its cross-sectional area. Ampere's law is used with a concentric circular path of radius r, with r < R, to calculate the magnitude of the magnetic field B at a distance r from the center of the wire. Which of the following equations results from a correct application of Ampere's law to this situation?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <mrow> <mi>B</mi><mrow><mo>(</mo> <mrow> <mn>2</mn><mi>π</mi><mi>r</mi></mrow> <mo>)</mo></mrow><mo>=</mo><msub> <mi>μ</mi> <mn>0</mn> </msub> <mi>I</mi></mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mi>B</mi><mrow><mo>(</mo> <mrow> <mn>2</mn><mi>π</mi><mi>r</mi></mrow> <mo>)</mo></mrow><mo>=</mo><msub> <mi>μ</mi> <mn>0</mn> </msub> <mi>I</mi><mrow><mo>(</mo> <mrow> <mfrac> <mrow> <msup> <mi>r</mi> <mn>2</mn> </msup> </mrow> <mrow> <msup> <mi>R</mi> <mn>2</mn> </msup> </mrow> </mfrac> </mrow> <mo>)</mo></mrow></mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mi>B</mi><mrow><mo>(</mo> <mrow> <mn>2</mn><mi>π</mi><mi>r</mi></mrow> <mo>)</mo></mrow><mo>=</mo><mn>0</mn></mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mi>B</mi> <mrow> <mo>(</mo> <mrow> <mn>2</mn> <mi>π</mi> <mi>R</mi> </mrow> <mo>)</mo> </mrow> <mo>=</mo> <msub> <mi>μ</mi> <mn>0</mn> </msub> <mi>I</mi> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mi>B</mi> <mrow> <mo>(</mo> <mrow> <mn>2</mn> <mi>π</mi> <mi>R</mi> </mrow> <mo>)</mo> </mrow> <mo>=</mo> <msub> <mi>μ</mi> <mn>0</mn> </msub> <mi>I</mi> <mrow> <mo>(</mo> <mrow> <mfrac> <mrow> <msup> <mi>r</mi> <mn>2</mn> </msup> </mrow> <mrow> <msup> <mi>R</mi> <mn>2</mn> </msup> </mrow> </mfrac> </mrow> <mo>)</mo> </mrow> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <mrow> <mi>B</mi><mrow><mo>(</mo> <mrow> <mn>2</mn><mi>π</mi><mi>r</mi></mrow> <mo>)</mo></mrow><mo>=</mo><msub> <mi>μ</mi> <mn>0</mn> </msub> <mi>I</mi><mrow><mo>(</mo> <mrow> <mfrac> <mrow> <msup> <mi>r</mi> <mn>2</mn> </msup> </mrow> <mrow> <msup> <mi>R</mi> <mn>2</mn> </msup> </mrow> </mfrac> </mrow> <mo>)</mo></mrow></mrow> </math>"
+  },
+  "unit": {
+    "code": "12",
+    "text": "12: Magnetic Fields and Electromagnetism"
+  },
+  "topic": {
+    "code": "12.4",
+    "text": "12.4: Ampère's Law"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

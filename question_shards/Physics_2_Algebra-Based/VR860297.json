@@ -1,0 +1,41 @@
+{
+  "id": "VR860297",
+  "type": "mcq",
+  "title": "Circuits - current with nonideal voltmeter",
+  "content": {
+    "description": "",
+    "question": "Is the student’s claim correct? Why or why not?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Yes, because the potential difference across the resistor is equal to <math alttext=\"open E\" overflow=\"scroll\"><mi>Ɛ</mi></math> even if the voltmeter is nonideal",
+        "image": null
+      },
+      {
+        "label": "Yes, because the ammeter will measure the current in the battery",
+        "image": null
+      },
+      {
+        "label": "No, because the nonideal voltmeter will cause the potential difference across the resistor to change",
+        "image": null
+      },
+      {
+        "label": "No, because the finite resistance of the nonideal voltmeter will change the equivalent resistance of the circuit",
+        "image": null
+      }
+    ],
+    "answer": "No, because the finite resistance of the nonideal voltmeter will change the equivalent resistance of the circuit"
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.5",
+    "text": "11.5: Compound Direct Current (DC) Circuits"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

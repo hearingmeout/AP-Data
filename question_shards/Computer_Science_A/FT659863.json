@@ -1,0 +1,41 @@
+{
+  "id": "FT659863",
+  "type": "mcq",
+  "title": "mystery with 2D int array instance variable",
+  "content": {
+    "description": "Consider the following data field and method.",
+    "question": "private int[][] mat; public void mystery () { for (int row = 1; row < mat.length; row++) { for (int col = 0; col < mat[0].length; col++) { if (row != col) mat[row][col] = mat[row - 1][col]; } } } Assume that mat contains the following values. Note that mat[0][4] is 2. 4 1 3 4 2 1 8 7 5 3 7 4 6 9 2 3 8 1 2 4 5 6 7 0 3 What values does mat contain after a call to mystery?",
+    "image": null,
+    "choices": [
+      {
+        "label": "4 1 3 4 2 4 8 3 4 2 4 8 6 4 2 4 8 6 2 2 4 8 6 2 3",
+        "image": null
+      },
+      {
+        "label": "4 1 3 4 2 4 1 3 4 2 4 1 3 4 2 4 1 3 4 2 4 1 3 4 2",
+        "image": null
+      },
+      {
+        "label": "4 1 3 4 2 4 1 3 4 2 1 8 7 5 3 7 4 6 9 2 3 8 1 2 4",
+        "image": null
+      },
+      {
+        "label": "4 4 4 4 4 1 1 1 1 1 7 7 7 7 7 3 3 3 3 3 5 5 5 5 5",
+        "image": null
+      }
+    ],
+    "answer": "4 1 3 4 2 4 8 3 4 2 4 8 6 4 2 4 8 6 2 2 4 8 6 2 3"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.13",
+    "text": "4.13: Implementing 2D Array Algorithms"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

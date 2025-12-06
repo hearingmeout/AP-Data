@@ -1,0 +1,41 @@
+{
+  "id": "VH959564",
+  "type": "mcq",
+  "title": "Time equals method",
+  "content": {
+    "description": "Consider the following class definition.",
+    "question": "public class Time { private int hours; private int minutes; public Time(int h, int m) { hours = h; minutes = m; } /** Returns true if hours * 60 + minutes of this * object is equal to hours * 60 + minutes of object * other; otherwise returns false */ public boolean equals(Object other) { //implementation not shown } } The following code segment appears in a class other than Time. Time t1 = new Time(1, 10); Time t2 = new Time(0, 70); Which of the following statements will print true ? System.out.println(t1 == t2); System.out.println(t1.equals(t2)); System.out.println(equals(t1, t2);",
+    "image": null,
+    "choices": [
+      {
+        "label": "I only",
+        "image": null
+      },
+      {
+        "label": "II only",
+        "image": null
+      },
+      {
+        "label": "III only",
+        "image": null
+      },
+      {
+        "label": "I and II",
+        "image": null
+      }
+    ],
+    "answer": "II only"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Comparing Boolean Expressions"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

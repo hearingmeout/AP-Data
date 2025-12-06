@@ -1,0 +1,41 @@
+{
+  "id": "VJS000001",
+  "type": "mcq",
+  "title": "Parametrically Defined Line - video game",
+  "content": {
+    "description": "",
+    "question": "An “eight-ball pool” video game is being designed with a rectangular region (known as a pool table) of width <math alttext=\"1000\"><mn>1000</mn></math> pixels and height <math alttext=\"800\"><mn>800</mn></math> pixels. The designer wants to create a linear path for a ball with an initial position of <math alttext=\"open parentheses 250 comma 400 close parentheses\"><mfenced><mrow><mn>250</mn><mo>,</mo><mn>400</mn></mrow></mfenced></math> and a straight path that ends in the upper right corner of the region at <math alttext=\"open parentheses 1000 comma 800 close parentheses\"><mfenced><mrow><mn>1000</mn><mo>,</mo><mn>800</mn></mrow></mfenced></math>. Which of the following parametric functions models the ball traveling along this line segment over a <math alttext=\"2\"><mn>2</mn></math>-second interval of time?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"f open parentheses t close parentheses equals open parentheses 250 plus 200 t comma 400 plus 375 t close parentheses\"><mi>f</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced><mrow><mn>250</mn><mo>+</mo><mn>200</mn><mi>t</mi><mo>,</mo><mn>400</mn><mo>+</mo><mn>375</mn><mi>t</mi></mrow></mfenced></math> for <math alttext=\"0 less or equal than t less or equal than 2\"><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"g open parentheses t close parentheses equals open parentheses 250 plus 375 t comma 400 plus 200 t close parentheses\"><mi>g</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced><mrow><mn>250</mn><mo>+</mo><mn>375</mn><mi>t</mi><mo>,</mo><mn>400</mn><mo>+</mo><mn>200</mn><mi>t</mi></mrow></mfenced></math> for <math alttext=\"0 less or equal than t less or equal than 2\"><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"h open parentheses t close parentheses equals open parentheses 250 plus 750 t comma 400 plus 400 t close parentheses\"><mi>h</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced><mrow><mn>250</mn><mo>+</mo><mn>750</mn><mi>t</mi><mo>,</mo><mn>400</mn><mo>+</mo><mn>400</mn><mi>t</mi></mrow></mfenced></math> for <math alttext=\"0 less or equal than t less or equal than 1\"><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"k open parentheses t close parentheses equals open parentheses 250 plus 750 t comma 400 plus 400 t close parentheses\"><mi>k</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced><mrow><mn>250</mn><mo>+</mo><mn>750</mn><mi>t</mi><mo>,</mo><mn>400</mn><mo>+</mo><mn>400</mn><mi>t</mi></mrow></mfenced></math> for <math alttext=\"0 less or equal than t less or equal than 2\"><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>2</mn></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"g open parentheses t close parentheses equals open parentheses 250 plus 375 t comma 400 plus 200 t close parentheses\"><mi>g</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced><mrow><mn>250</mn><mo>+</mo><mn>375</mn><mi>t</mi><mo>,</mo><mn>400</mn><mo>+</mo><mn>200</mn><mi>t</mi></mrow></mfenced></math> for <math alttext=\"0 less or equal than t less or equal than 2\"><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>2</mn></math>"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.4",
+    "text": "4.4: Parametrically Defined Circles and Lines"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

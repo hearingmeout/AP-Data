@@ -1,0 +1,41 @@
+{
+  "id": "DSO000000",
+  "type": "mcq",
+  "title": "Trigonometric Function - Modeling Height",
+  "content": {
+    "description": "",
+    "question": "If a patient pedals <math alttext=\"1\"><semantics><mn>1</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> revolution per second, which of the following could be an expression for <math alttext=\"h open parentheses t close parentheses\"><semantics><mrow><mi>h</mi><mfenced><mi>t</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, the height, in inches, of the bicycle pedal above level ground at time <math alttext=\"t\"><semantics><mi>t</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> seconds?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"8 minus 12 sin t\"><semantics><mrow><mn>8</mn><mo>-</mo><mn>12</mn><mi>sin</mi><mpadded lspace=\"+1px\"><mi>t</mi></mpadded></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"12 minus 8 sin t\"><semantics><mrow><mn>12</mn><mo>-</mo><mn>8</mn><mi>sin</mi><mpadded lspace=\"+1px\"><mi>t</mi></mpadded></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"8 minus 12 sin open parentheses 2 pi t close parentheses\"><semantics><mrow><mn>8</mn><mo>-</mo><mn>12</mn><mi>sin</mi><mfenced><mrow><mn>2</mn><mi>π</mi><mi>t</mi></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"12 minus 8 sin open parentheses 2 pi t close parentheses\"><semantics><mrow><mn>12</mn><mo>-</mo><mn>8</mn><mi>sin</mi><mfenced><mrow><mn>2</mn><mi>π</mi><mi>t</mi></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"12 minus 8 sin open parentheses 2 pi t close parentheses\"><semantics><mrow><mn>12</mn><mo>-</mo><mn>8</mn><mi>sin</mi><mfenced><mrow><mn>2</mn><mi>π</mi><mi>t</mi></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Trigonometric and Polar Functions"
+  },
+  "topic": {
+    "code": "3.7",
+    "text": "3.7: Sinusoidal Function Context and Data Modeling"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "VH570953",
+  "type": "mcq",
+  "title": "Error in science simulation",
+  "content": {
+    "description": "",
+    "question": "Which of the following changes to the code segment will ensure a correct simulation of the experiment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Replacing line 9 with IF(RANDOM(1, 4) ≥ 2)",
+        "image": null
+      },
+      {
+        "label": "Replacing line 9 with ELSE",
+        "image": null
+      },
+      {
+        "label": "Interchanging lines 5 and 9",
+        "image": null
+      },
+      {
+        "label": "Interchanging lines 7 and 11",
+        "image": null
+      }
+    ],
+    "answer": "Replacing line 9 with ELSE"
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Identifying and Correcting Errors"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Identify and correct errors in algorithms and programs, including error discovery through testing."
+  }
+}

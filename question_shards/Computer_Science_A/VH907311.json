@@ -1,0 +1,41 @@
+{
+  "id": "VH907311",
+  "type": "mcq",
+  "title": "ABCDEF substring",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "String oldStr = \"ABCDEF\";String newStr = oldStr.substring(1, 3) + oldStr.substring(4);System.out.println(newStr);What is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "ABCD",
+        "image": null
+      },
+      {
+        "label": "BCDE",
+        "image": null
+      },
+      {
+        "label": "BCEF",
+        "image": null
+      },
+      {
+        "label": "BCDEF",
+        "image": null
+      }
+    ],
+    "answer": "BCEF"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

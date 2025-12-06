@@ -1,0 +1,41 @@
+{
+  "id": "VH899478",
+  "type": "mcq",
+  "title": "Justification - Polar - Area-Two Curves",
+  "content": {
+    "description": "",
+    "question": "The figure above shows the graphs of the polar curves <math alttext=\"r equals, 2 times the sine squared of theta\" overflow=\"scroll\"><mstyle><mrow><mi>r</mi><mo>=</mo><mn>2</mn><mrow><msup><mrow><mi>sin</mi></mrow><mrow><mn>2</mn></mrow></msup><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.15em\"></mspace><mrow><mi>θ</mi></mrow></mrow></mrow></mstyle></math> and <math alttext=\"r equals, 4 times the sine squared of theta\" overflow=\"scroll\"><mstyle><mrow><mi>r</mi><mo>=</mo><mn>4</mn><mrow><msup><mrow><mi>sin</mi></mrow><mrow><mn>2</mn></mrow></msup><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.15em\"></mspace><mrow><mi>θ</mi></mrow></mrow></mrow></mstyle></math> for <math alttext=\"0 less than or equal to theta, less than or equal to pi\" overflow=\"scroll\"><mstyle><mrow><mn>0</mn><mo>≤</mo><mi>θ</mi><mo>≤</mo><mi>π</mi></mrow></mstyle></math>. Which of the following integrals gives the area of the region bounded between the two polar curves?",
+    "image": "https://ap.oly.st/images/2988529122cf2983ab99d7f07c8c00d2.png",
+    "choices": [
+      {
+        "label": "<math alttext=\"the integral from, 0 to pi, of, the sine squared of theta, d theta\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mo>∫</mo><mrow><mn>0</mn></mrow><mrow><mi>π</mi></mrow></msubsup><mrow><msup><mrow><mi>sin</mi><mo>⁡</mo></mrow><mrow><mn>2</mn></mrow></msup><mi>θ</mi></mrow><mo>ⅆ</mo><mi>θ</mi></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the integral from, 0 to pi, of, 2 times the sine squared of theta, d theta\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mi>π</mi></mrow></msubsup><mn>2</mn><mrow><msup><mrow><mi>sin</mi><mo>⁡</mo></mrow><mrow><mn>2</mn></mrow></msup><mi>θ</mi></mrow><mo>ⅆ</mo><mi>θ</mi></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the integral from, 0 to pi, of, 2 times the sine to the fourth power, of theta, d theta\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mi>π</mi></mrow></msubsup><mn>2</mn><mrow><msup><mrow><mi>sin</mi><mo>⁡</mo></mrow><mrow><mn>4</mn></mrow></msup><mi>θ</mi></mrow><mo>ⅆ</mo><mi>θ</mi></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the integral from, 0 to pi, of, 6 times the sine to the fourth power, of theta, d theta\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mi>π</mi></mrow></msubsup><mn>6</mn><mrow><msup><mrow><mi>sin</mi><mo>⁡</mo></mrow><mrow><mn>4</mn></mrow></msup><mi>θ</mi></mrow><mo>ⅆ</mo><mi>θ</mi></mrow></mstyle></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the integral from, 0 to pi, of, 6 times the sine to the fourth power, of theta, d theta\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mi>π</mi></mrow></msubsup><mn>6</mn><mrow><msup><mrow><mi>sin</mi><mo>⁡</mo></mrow><mrow><mn>4</mn></mrow></msup><mi>θ</mi></mrow><mo>ⅆ</mo><mi>θ</mi></mrow></mstyle></mrow></math>"
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Parametric Equations, Polar Coordinates, and Vector-Valued Functions"
+  },
+  "topic": {
+    "code": "9.9",
+    "text": "9.9: (BC ONLY) Finding the Area of the Region Bounded by Two Polar Curves"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

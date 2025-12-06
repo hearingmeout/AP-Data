@@ -1,0 +1,41 @@
+{
+  "id": "DKJ000004",
+  "type": "mcq",
+  "title": "Book class - write code",
+  "content": {
+    "description": "",
+    "question": "Assume that Book object book1 and int variable c have been properly declared and initialized in a class other than Book. Which of the following statements will compile without error?",
+    "image": null,
+    "choices": [
+      {
+        "label": "int pages = getNumPages(Book book1, int c);",
+        "image": null
+      },
+      {
+        "label": "int pages = getNumPages(book1, c);",
+        "image": null
+      },
+      {
+        "label": "int pages = book1.getNumPages(int c);",
+        "image": null
+      },
+      {
+        "label": "int pages = book1.getNumPages(c);",
+        "image": null
+      }
+    ],
+    "answer": "int pages = book1.getNumPages(c);"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.14",
+    "text": "1.14: Calling Instance Methods"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

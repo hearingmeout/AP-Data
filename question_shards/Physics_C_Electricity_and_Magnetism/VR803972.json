@@ -1,0 +1,41 @@
+{
+  "id": "VR803972",
+  "type": "mcq",
+  "title": "Magnetic flux - loop near current-carrying wire",
+  "content": {
+    "description": "",
+    "question": "A long straight wire carries a current <math alttext=\"I\" display=\"inline\" overflow=\"scroll\"><mi>I</mi></math>. The upper wire of a rectangular loop of length <math alttext=\"L\" display=\"inline\" overflow=\"scroll\"><mi>L</mi></math> and width <math alttext=\"w\" display=\"inline\" overflow=\"scroll\"><mi>w</mi></math> is placed a distance <math alttext=\"h\" display=\"inline\" overflow=\"scroll\"><mi>h</mi></math> below the wire, as shown. What is the magnetic flux through the loop due to the current in the wire?",
+    "image": "https://ap.oly.st/images/f73bb8a3f07137b2f6cad20f2089fdfa.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"phi sub B equals, the fraction with numerator mu sub 0, end sub, I L, and denominator 2 pi\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi mathvariant=\"normal\">Φ</mi><mi>B</mi></msub><mo>=</mo><mfrac><mrow><msub><mi>μ</mi><mn>0</mn></msub><mi>I</mi><mi>L</mi></mrow><mrow><mn>2</mn><mi>π</mi></mrow></mfrac></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"phi sub B equals, the fraction with numerator mu sub 0, end sub, I L w, and denominator 2 pi times, open parenthesis, h plus w, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi mathvariant=\"normal\">Φ</mi><mi>B</mi></msub><mo>=</mo><mfrac><mrow><msub><mi>μ</mi><mn>0</mn></msub><mi>I</mi><mi>L</mi><mi>w</mi></mrow><mrow><mn>2</mn><mi>π</mi><mrow><mo>(</mo><mi>h</mi><mo>+</mo><mi>w</mi><mo>)</mo></mrow></mrow></mfrac></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"phi sub B equals, the fraction with numerator mu sub 0, end sub, I L, and denominator 2 pi times, times the natural log of, open parenthesis, the fraction w over h, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi mathvariant=\"normal\">Φ</mi><mi>B</mi></msub><mo>=</mo><mfrac><mrow><msub><mi>μ</mi><mn>0</mn></msub><mi>I</mi><mi>L</mi></mrow><mrow><mn>2</mn><mi>π</mi></mrow></mfrac><mi>ln</mi><mrow><mo>(</mo><mfrac><mi>w</mi><mi>h</mi></mfrac><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"phi sub B equals, the fraction with numerator mu sub 0, end sub, I L, and denominator 2 pi, end fraction, times the natural log of, open parenthesis, the fraction with numerator h plus w, and denominator h, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi mathvariant=\"normal\">Φ</mi><mi>B</mi></msub><mo>=</mo><mfrac><mrow><msub><mi>μ</mi><mn>0</mn></msub><mi>I</mi><mi>L</mi></mrow><mrow><mn>2</mn><mi>π</mi></mrow></mfrac><mi>ln</mi><mrow><mo>(</mo><mfrac><mrow><mi>h</mi><mo>+</mo><mi>w</mi></mrow><mi>h</mi></mfrac><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"phi sub B equals, the fraction with numerator mu sub 0, end sub, I L, and denominator 2 pi, end fraction, times the natural log of, open parenthesis, the fraction with numerator h plus w, and denominator h, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi mathvariant=\"normal\">Φ</mi><mi>B</mi></msub><mo>=</mo><mfrac><mrow><msub><mi>μ</mi><mn>0</mn></msub><mi>I</mi><mi>L</mi></mrow><mrow><mn>2</mn><mi>π</mi></mrow></mfrac><mi>ln</mi><mrow><mo>(</mo><mfrac><mrow><mi>h</mi><mo>+</mo><mi>w</mi></mrow><mi>h</mi></mfrac><mo>)</mo></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.1",
+    "text": "13.1: Magnetic Flux"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

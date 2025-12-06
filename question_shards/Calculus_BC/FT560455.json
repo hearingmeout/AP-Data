@@ -1,0 +1,41 @@
+{
+  "id": "FT560455",
+  "type": "mcq",
+  "title": "Derivative of composite function with Chain rule",
+  "content": {
+    "description": "",
+    "question": "If <math> <mrow> <mi>f</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mo>=</mo><msup> <mrow> <mi>cos</mi></mrow> <mn>2</mn> </msup> <mrow><mo>(</mo> <mrow> <mn>3</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow> <mo>)</mo></mrow></mrow> </math>, then <math> <mrow> <msup> <mi>f</mi> <mo>′</mo> </msup> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> </mrow> </math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <mrow> <mn>6</mn> <mi>cos</mi> <mrow> <mo>(</mo> <mrow> <mn>3</mn> <mi>x</mi> <mo>−</mo> <mn>5</mn> </mrow> <mo>)</mo> </mrow> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mo>−</mo><mn>3</mn><msup> <mrow> <mi>sin</mi></mrow> <mn>2</mn> </msup> <mrow><mo>(</mo> <mrow> <mn>3</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow> <mo>)</mo></mrow></mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mo>−</mo><mn>2</mn><mi>sin</mi><mrow><mo>(</mo> <mrow> <mn>3</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow> <mo>)</mo></mrow><mi>cos</mi><mrow><mo>(</mo> <mrow> <mn>3</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow> <mo>)</mo></mrow></mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mo>−</mo><mn>6</mn><mi>sin</mi><mrow><mo>(</mo> <mrow> <mn>3</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow> <mo>)</mo></mrow><mi>cos</mi><mrow><mo>(</mo> <mrow> <mn>3</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow> <mo>)</mo></mrow></mrow> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <mrow> <mo>−</mo><mn>6</mn><mi>sin</mi><mrow><mo>(</mo> <mrow> <mn>3</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow> <mo>)</mo></mrow><mi>cos</mi><mrow><mo>(</mo> <mrow> <mn>3</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow> <mo>)</mo></mrow></mrow> </math>"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: The Chain Rule"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Identify an appropriate mathematical rule or procedure based on the classification of a given expression (e.g., Use the chain rule to find the derivative of a composite function)."
+  }
+}

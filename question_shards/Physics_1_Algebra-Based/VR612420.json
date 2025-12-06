@@ -1,0 +1,41 @@
+{
+  "id": "VR612420",
+  "type": "mcq",
+  "title": "2D motion - expression for velocity of a river",
+  "content": {
+    "description": "",
+    "question": "The water in a river moves uniformly to the east with speed <math alttext=\"v sub r\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>v</mi><mtext>r</mtext></msub></mstyle></math>, as shown. A boat on the river starts from the south edge of the river and the boat’s motor gives the boat a constant speed of <math alttext=\"v sub b\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>v</mi><mtext>b</mtext></msub></mstyle></math> to the north relative to the water. The width of the river is <math alttext=\"w\" display=\"inline\" overflow=\"scroll\"><mi>w</mi></math>. When the boat reaches the north edge of the river, it has an eastward displacement of <math alttext=\"delta x\" display=\"inline\" overflow=\"scroll\"><mtext>Δ</mtext><mi>x</mi></math> relative to its starting position. Which of the following expressions is equal to <math alttext=\"v sub r\" display=\"inline\" overflow=\"scroll\"><msub><mi>v</mi><mtext>r</mtext></msub></math>?",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_1_Algebra-Based/30885478c5d991fa785026fffea88718.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"the square root of v sub b, end sub, squared, plus 2 a delta x, end root\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msqrt><msubsup><mi>v</mi><mtext>b</mtext><mn>2</mn></msubsup><mo>+</mo><mn>2</mn><mi>a</mi><mtext>Δ</mtext><mi>x</mi></msqrt></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the square root of w squared, plus, open parenthesis, delta x, close parenthesis, squared, end root\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msqrt><mrow><msup><mi>w</mi><mn>2</mn></msup><mo>+</mo><msup><mrow><mo stretchy=\"false\">(</mo><mtext>Δ</mtext><mi>x</mi><mo stretchy=\"false\">)</mo></mrow><mn>2</mn></msup></mrow></msqrt></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator delta x times v sub b, and denominator w\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><mtext>Δ</mtext><mi>x</mi><msub><mi>v</mi><mtext>b</mtext></msub></mrow><mi>w</mi></mfrac></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the inverse tangent of, the fraction with numerator w, and denominator delta x\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msup><mi>tan</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup><mrow><mo>(</mo><mfrac><mi>w</mi><mrow><mtext>Δ</mtext><mi>x</mi></mrow></mfrac><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the fraction with numerator delta x times v sub b, and denominator w\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><mtext>Δ</mtext><mi>x</mi><msub><mi>v</mi><mtext>b</mtext></msub></mrow><mi>w</mi></mfrac></mstyle></math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.5",
+    "text": "1.5: Vectors and Motion in Two Dimensions"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

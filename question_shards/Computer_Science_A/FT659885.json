@@ -1,0 +1,41 @@
+{
+  "id": "FT659885",
+  "type": "mcq",
+  "title": "Random value in range",
+  "content": {
+    "description": "Assume that the following variable declarations have been made.",
+    "question": "double d = Math.random(); double r; Which of the following assigns a value to r from the uniform distribution over the range 0.5 ≤ r < 5.5 ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "r = d + 0.5;",
+        "image": null
+      },
+      {
+        "label": "r = d + 0.5 * 5.0;",
+        "image": null
+      },
+      {
+        "label": "r = d * 5.0;",
+        "image": null
+      },
+      {
+        "label": "r = d * 5.0 + 0.5;",
+        "image": null
+      }
+    ],
+    "answer": "r = d * 5.0 + 0.5;"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: `Math` Class"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

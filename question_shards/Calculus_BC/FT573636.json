@@ -1,0 +1,41 @@
+{
+  "id": "FT573636",
+  "type": "mcq",
+  "title": "Riemann sum for definite integral",
+  "content": {
+    "description": "",
+    "question": "Which of the following limits is equal to <math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>2</mn> <mn>5</mn> </msubsup> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> </mstyle> <mtext> </mtext> <mi>d</mi> <mi>x</mi> </mrow> </math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>n</mi> <mo>→</mo> <mi>∞</mi> </mrow> </munder> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>k</mi> <mo>=</mo> <mn>1</mn> </mrow> <mi>n</mi> </munderover> <mrow> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <mn>2</mn> <mo>+</mo> <mfrac> <mi>k</mi> <mi>n</mi> </mfrac> </mrow> <mo>)</mo> </mrow> </mrow> <mn>2</mn> </msup> <mtext> </mtext> <mfrac> <mn>1</mn> <mi>n</mi> </mfrac> </mrow> </mstyle> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>n</mi> <mo>→</mo> <mi>∞</mi> </mrow> </munder> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>k</mi> <mo>=</mo> <mn>1</mn> </mrow> <mi>n</mi> </munderover> <mrow> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <mn>2</mn> <mo>+</mo> <mfrac> <mi>k</mi> <mi>n</mi> </mfrac> </mrow> <mo>)</mo> </mrow> </mrow> <mn>2</mn> </msup> <mtext> </mtext> <mfrac> <mn>3</mn> <mi>n</mi> </mfrac> </mrow> </mstyle> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>n</mi> <mo>→</mo> <mi>∞</mi> </mrow> </munder> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>k</mi> <mo>=</mo> <mn>1</mn> </mrow> <mi>n</mi> </munderover> <mrow> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <mn>2</mn> <mo>+</mo> <mfrac> <mrow> <mn>3</mn> <mi>k</mi> </mrow> <mi>n</mi> </mfrac> </mrow> <mo>)</mo> </mrow> </mrow> <mn>2</mn> </msup> <mtext> </mtext> <mfrac> <mn>1</mn> <mi>n</mi> </mfrac> </mrow> </mstyle> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>n</mi> <mo>→</mo> <mi>∞</mi> </mrow> </munder> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>k</mi> <mo>=</mo> <mn>1</mn> </mrow> <mi>n</mi> </munderover> <mrow> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <mn>2</mn> <mo>+</mo> <mfrac> <mrow> <mn>3</mn> <mi>k</mi> </mrow> <mi>n</mi> </mfrac> </mrow> <mo>)</mo> </mrow> </mrow> <mn>2</mn> </msup> <mtext> </mtext> <mfrac> <mn>3</mn> <mi>n</mi> </mfrac> </mrow> </mstyle> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>n</mi> <mo>→</mo> <mi>∞</mi> </mrow> </munder> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>k</mi> <mo>=</mo> <mn>1</mn> </mrow> <mi>n</mi> </munderover> <mrow> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <mn>2</mn> <mo>+</mo> <mfrac> <mrow> <mn>3</mn> <mi>k</mi> </mrow> <mi>n</mi> </mfrac> </mrow> <mo>)</mo> </mrow> </mrow> <mn>2</mn> </msup> <mtext> </mtext> <mfrac> <mn>3</mn> <mi>n</mi> </mfrac> </mrow> </mstyle> </mrow> </math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.3",
+    "text": "6.3: Riemann Sums, Summation Notation, and Definite Integral Notation"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

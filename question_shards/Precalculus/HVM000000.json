@@ -1,0 +1,41 @@
+{
+  "id": "HVM000000",
+  "type": "mcq",
+  "title": "Exponential Manipulation - product property",
+  "content": {
+    "description": "",
+    "question": "​The function <math alttext=\"g\"><semantics><mi>g</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is given by <math alttext=\"g open parentheses x close parentheses equals 4 times 2 to the power of open parentheses 3 plus x close parentheses end exponent\"><semantics><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>4</mn><mo>·</mo><msup><mn>2</mn><mfenced><mrow><mn>3</mn><mo>+</mo><mi>x</mi></mrow></mfenced></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. The function <math alttext=\"g\"><semantics><mi>g</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> can also be expressed as which of the following?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"32 plus 2 to the power of x\"><semantics><mrow><mn>32</mn><mo>+</mo><msup><mn>2</mn><mi>x</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"32 times 2 to the power of x\"><semantics><mrow><mn>32</mn><mo>·</mo><msup><mn>2</mn><mi>x</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"32 plus 8 to the power of x\"><semantics><mrow><mn>32</mn><mo>+</mo><msup><mn>8</mn><mi>x</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"512 times 8 to the power of x\"><semantics><mrow><mn>512</mn><mo>·</mo><msup><mn>8</mn><mi>x</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"32 times 2 to the power of x\"><semantics><mrow><mn>32</mn><mo>·</mo><msup><mn>2</mn><mi>x</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Exponential Function Manipulation"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Express functions, equations, or expressions in analytically equivalent forms that are useful in a given mathematical or applied context."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "LEX000000",
+  "type": "mcq",
+  "title": "Function Model Construction - rational-polynomial",
+  "content": {
+    "description": "",
+    "question": "<math alttext=\"100\"><mn>100</mn></math> liters of water and <math alttext=\"5\"><mn>5</mn></math> kilograms of sugar were added to an empty mixing tank to make sugar water. Starting at time <math alttext=\"t equals 0\"><mi>t</mi><mo>=</mo><mn>0</mn></math> minutes, additional water is added to the tank at a rate of <math alttext=\"10\"><mn>10</mn></math> liters per minute, and additional sugar is added to the tank at a rate of <math alttext=\"2\"><mn>2</mn></math> kilograms per minute. Which of the following gives an expression for <math alttext=\"C open parentheses t close parentheses\"><mi>C</mi><mfenced><mi>t</mi></mfenced></math>, the concentration of sugar water, in kilograms per liter, in the tank at time <math alttext=\"t greater or equal than 0\"><mi>t</mi><mo>≥</mo><mn>0</mn></math> minutes?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"1 over 20 plus 1 fifth t\"><mfrac><mn>1</mn><mn>20</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mi>t</mi></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"7 over 110 t\"><mfrac><mn>7</mn><mn>110</mn></mfrac><mi>t</mi></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"fraction numerator 5 plus 2 t over denominator 100 end fraction\"><mfrac><mrow><mn>5</mn><mo>+</mo><mn>2</mn><mi>t</mi></mrow><mn>100</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"fraction numerator 5 plus 2 t over denominator 100 plus 10 t end fraction\"><mfrac><mrow><mn>5</mn><mo>+</mo><mn>2</mn><mi>t</mi></mrow><mrow><mn>100</mn><mo>+</mo><mn>10</mn><mi>t</mi></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"fraction numerator 5 plus 2 t over denominator 100 plus 10 t end fraction\"><mfrac><mrow><mn>5</mn><mo>+</mo><mn>2</mn><mi>t</mi></mrow><mrow><mn>100</mn><mo>+</mo><mn>10</mn><mi>t</mi></mrow></mfrac></math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Polynomial and Rational Functions"
+  },
+  "topic": {
+    "code": "1.14",
+    "text": "1.14: Function Model Construction and Application"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

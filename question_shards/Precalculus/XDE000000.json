@@ -1,0 +1,41 @@
+{
+  "id": "XDE000000",
+  "type": "mcq",
+  "title": "Logarithmic Modeling - population-time model",
+  "content": {
+    "description": "",
+    "question": "In a certain town, the population in the year 2000 was about <math alttext=\"30 , 000\"><semantics><mn>30,000</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. The population grows at a rate of <math alttext=\"2.3 percent sign\"><semantics><mrow><mn>2.3</mn><mo>%</mo></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> per year, and time is measured in years since 2000. Which of the following functions gives output values, in years since 2000, for input values of the town’s population <math alttext=\"p\"><semantics><mi>p</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"f open parentheses p close parentheses equals 30 , 000 times open parentheses 1.023 close parentheses to the power of p\"><semantics><mrow><mi>f</mi><mfenced><mi>p</mi></mfenced><mo>=</mo><mn>30,000</mn><mo>·</mo><msup><mfenced><mn>1.023</mn></mfenced><mi>p</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"g open parentheses p close parentheses equals log subscript 1.023 end subscript open parentheses fraction numerator p over denominator 30 , 000 end fraction close parentheses\"><semantics><mrow><mi>g</mi><mfenced><mi>p</mi></mfenced><mo>=</mo><msub><mi>log</mi><mn>1.023</mn></msub><mfenced><mfrac><mi>p</mi><mn>30,000</mn></mfrac></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"h open parentheses p close parentheses equals fraction numerator p minus 30 , 000 over denominator 2.3 end fraction\"><semantics><mrow><mi>h</mi><mfenced><mi>p</mi></mfenced><mo>=</mo><mfrac><mrow><mi>p</mi><mo>-</mo><mn>30,000</mn></mrow><mn>2.3</mn></mfrac></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"k open parentheses p close parentheses equals 30 , 000 times log subscript 1.023 end subscript p\"><semantics><mrow><mi>k</mi><mfenced><mi>p</mi></mfenced><mo>=</mo><mn>30,000</mn><mo>·</mo><msub><mi>log</mi><mn>1.023</mn></msub><mi>p</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"g open parentheses p close parentheses equals log subscript 1.023 end subscript open parentheses fraction numerator p over denominator 30 , 000 end fraction close parentheses\"><semantics><mrow><mi>g</mi><mfenced><mi>p</mi></mfenced><mo>=</mo><msub><mi>log</mi><mn>1.023</mn></msub><mfenced><mfrac><mi>p</mi><mn>30,000</mn></mfrac></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.14",
+    "text": "2.14: Logarithmic Function Context and Data Modeling"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

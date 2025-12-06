@@ -1,0 +1,41 @@
+{
+  "id": "MOD000003",
+  "type": "mcq",
+  "title": "Categorize app users - determine design",
+  "content": {
+    "description": "",
+    "question": "Suppose n is the average number of hours a user spends using the application each day. Which of the following algorithms can be used to assign the correct categorization to a user?",
+    "image": null,
+    "choices": [
+      {
+        "label": "If n is greater than 5, categorize the user as a top user. Otherwise, if n is less than or equal to 5, categorize the user as a regular user. Otherwise, categorize the user as an inactive user.",
+        "image": null
+      },
+      {
+        "label": "If n is greater than 5, categorize the user as a top user. Otherwise, if n is greater than or equal to 1, categorize the user as a regular user. Otherwise, categorize the user as an inactive user.",
+        "image": null
+      },
+      {
+        "label": "If n is less than 1, categorize the user as an inactive user. Otherwise, if n is greater than or equal to 1, categorize the user as a regular user. Otherwise, categorize the user as a top user.",
+        "image": null
+      },
+      {
+        "label": "If n is greater than or equal to 1, categorize the user as a regular user. Otherwise, if n is less than 1, categorize the user as an inactive user. Otherwise, categorize the user as a top user.",
+        "image": null
+      }
+    ],
+    "answer": "If n is greater than 5, categorize the user as a top user. Otherwise, if n is greater than or equal to 1, categorize the user as a regular user. Otherwise, categorize the user as an inactive user."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Algorithms with Selection and Repetition"
+  },
+  "skill": {
+    "code": "1.A",
+    "text": "1.A: Determine an appropriate program design to solve a problem or accomplish a task."
+  }
+}

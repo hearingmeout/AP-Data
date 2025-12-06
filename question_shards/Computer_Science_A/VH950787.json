@@ -1,0 +1,41 @@
+{
+  "id": "VH950787",
+  "type": "mcq",
+  "title": "recursive mystery method",
+  "content": {
+    "description": "Consider the following two methods, which are intended to return the same values when they are called with the same positive integer parameter n.",
+    "question": "public static int mystery1(int n){if (n > 1){return 5 + mystery1(n - 1);}else{return 1;}}public static int mystery2(int n){int total = 0;int x = 1;while (x < n){total += 5;x++;}return total;}Which, if any, of the following changes to mystery2 is required so that the two methods work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The variable total should be initialized to 1.",
+        "image": null
+      },
+      {
+        "label": "The variable x should be initialized to 0.",
+        "image": null
+      },
+      {
+        "label": "The condition in the while loop header should be x < n - 1.",
+        "image": null
+      },
+      {
+        "label": "The condition in the while loop header should be x <= n.",
+        "image": null
+      }
+    ],
+    "answer": "The variable total should be initialized to 1."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.16",
+    "text": "4.16: Recursion"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

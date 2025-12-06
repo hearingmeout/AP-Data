@@ -1,0 +1,41 @@
+{
+  "id": "YLH000002",
+  "type": "mcq",
+  "title": "While loop that prints nothing - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following replacements for /* missing code */ will cause the code segment to print nothing?",
+    "image": null,
+    "choices": [
+      {
+        "label": "x++;",
+        "image": null
+      },
+      {
+        "label": "x += 2;",
+        "image": null
+      },
+      {
+        "label": "x += 3;",
+        "image": null
+      },
+      {
+        "label": "x *= 2;",
+        "image": null
+      }
+    ],
+    "answer": "x += 2;"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.9",
+    "text": "2.9: Implementing Selection and Iteration Algorithms"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

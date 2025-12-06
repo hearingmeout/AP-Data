@@ -1,0 +1,41 @@
+{
+  "id": "VH919215",
+  "type": "mcq",
+  "title": "print As in while loop",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "int num = 1; while (num < 5) { System.out.print(\"A\"); num += 2; } What is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A",
+        "image": null
+      },
+      {
+        "label": "AA",
+        "image": null
+      },
+      {
+        "label": "AAA",
+        "image": null
+      },
+      {
+        "label": "AAAA",
+        "image": null
+      }
+    ],
+    "answer": "AA"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.7",
+    "text": "2.7: `while` Loops"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

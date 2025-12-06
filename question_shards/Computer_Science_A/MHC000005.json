@@ -1,0 +1,41 @@
+{
+  "id": "MHC000005",
+  "type": "mcq",
+  "title": "Recursive what method - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Assume that the int variable val has been declared and initialized with a value that satisfies the precondition of the method. Which of the following best describes the value, if any, returned by the call what(val)?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The number of digits in val",
+        "image": null
+      },
+      {
+        "label": "The sum of the digits in val",
+        "image": null
+      },
+      {
+        "label": "The value 1",
+        "image": null
+      },
+      {
+        "label": "Nothing is returned. A run-time error occurs because of infinite recursion.",
+        "image": null
+      }
+    ],
+    "answer": "The number of digits in val"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.16",
+    "text": "4.16: Recursion"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

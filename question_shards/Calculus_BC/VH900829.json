@@ -1,0 +1,41 @@
+{
+  "id": "VH900829",
+  "type": "mcq",
+  "title": "Representations - Understanding Limits",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be the function given by <math alttext=\"f of x, equals, the fraction with numerator e raised to the 2 x power, minus 1, and denominator x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><msup><mrow><mi>e</mi></mrow><mrow><mn>2</mn><mi>x</mi></mrow></msup><mo>−</mo><mn>1</mn></mrow><mrow><mi>x</mi></mrow></mfrac></mrow></mstyle></math>. Which of the following equations expresses the property that <math alttext=\"f of x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math> can be made arbitrarily close to 2 by taking <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> sufficiently close to 0, but not equal to 0 ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"f of 0, equals 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>=</mo><mn>2</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f of open parenthesis, the limit as x approaches 0, of, x, close parenthesis, equals 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mn>0</mn></mrow></munder><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the limit as x approaches 0, of, f of x, equals 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mn>0</mn></mrow></munder><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the limit as x approaches 2, of, f of x, equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mn>2</mn></mrow></munder><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>0</mn></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the limit as x approaches 0, of, f of x, equals 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mn>0</mn></mrow></munder><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.2",
+    "text": "1.2: Defining Limits and Using Limit Notation"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Identify mathematical information from graphical, numerical, analytical, and/or verbal representations."
+  }
+}

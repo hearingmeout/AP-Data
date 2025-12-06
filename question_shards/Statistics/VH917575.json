@@ -1,0 +1,45 @@
+{
+  "id": "VH917575",
+  "type": "mcq",
+  "title": "Commute by subway",
+  "content": {
+    "description": "",
+    "question": "A city planner wants to estimate the proportion of city residents who commute to work by subway each day. A random sample of 30 city residents was selected, and 28 of those selected indicated that they rode the subway to work. Is it appropriate to assume that the sampling distribution of the sample proportion is approximately normal?",
+    "image": null,
+    "choices": [
+      {
+        "label": "No, because the size of the population is not known.",
+        "image": null
+      },
+      {
+        "label": "No, because the sample is not large enough to satisfy the normality conditions.",
+        "image": null
+      },
+      {
+        "label": "Yes, because the sample is large enough to satisfy the normality conditions.",
+        "image": null
+      },
+      {
+        "label": "Yes, because the sample was selected at random.",
+        "image": null
+      },
+      {
+        "label": "Yes, because sampling distributions of proportions are modeled with a normal model.",
+        "image": null
+      }
+    ],
+    "answer": "No, because the sample is not large enough to satisfy the normality conditions."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.2",
+    "text": "6.2: Constructing a Confidence Interval for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Verify that inference procedures apply in a given situation."
+  }
+}

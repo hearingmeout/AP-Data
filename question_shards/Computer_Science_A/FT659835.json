@@ -1,0 +1,41 @@
+{
+  "id": "FT659835",
+  "type": "mcq",
+  "title": "someCode methd with parameters a, b, and c",
+  "content": {
+    "description": "Consider the following method.",
+    "question": "public int someCode(int a, int b, int c) { if ((a < b) && (b < c)) return a; if ((a >= b) && (b >= c)) return b; if ((a == b) || (a == c) || (b == c)) return c; } Which of the following best describes why this method does not compile?",
+    "image": null,
+    "choices": [
+      {
+        "label": "It is possible to reach the end of the method without returning a value.",
+        "image": null
+      },
+      {
+        "label": "The if statements must have else parts when they contain return statements.",
+        "image": null
+      },
+      {
+        "label": "Methods cannot have multiple return statements.",
+        "image": null
+      },
+      {
+        "label": "The third if statement is not reachable.",
+        "image": null
+      }
+    ],
+    "answer": "It is possible to reach the end of the method without returning a value."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Boolean Expressions"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

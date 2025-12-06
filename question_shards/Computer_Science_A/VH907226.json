@@ -1,0 +1,41 @@
+{
+  "id": "VH907226",
+  "type": "mcq",
+  "title": "Good morning sunshine",
+  "content": {
+    "description": "Which of the following code segments can be used to set the value of the string str to \"Good morning, sunshine!\" ?",
+    "question": "String str = \"Good \" + \"morning,\" + \" sunshine!\";String str = \"Good\";str += \" morning, sunshine!\";String str = \" morning, \";str = \"Good\" + str + \"sunshine!\";",
+    "image": null,
+    "choices": [
+      {
+        "label": "I only",
+        "image": null
+      },
+      {
+        "label": "II only",
+        "image": null
+      },
+      {
+        "label": "II and III only",
+        "image": null
+      },
+      {
+        "label": "I, II, and III",
+        "image": null
+      }
+    ],
+    "answer": "I, II, and III"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

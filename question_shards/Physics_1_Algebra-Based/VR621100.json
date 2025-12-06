@@ -1,0 +1,41 @@
+{
+  "id": "VR621100",
+  "type": "mcq",
+  "title": "Conservation of energy - spring and projectile",
+  "content": {
+    "description": "",
+    "question": "A ball of mass <math alttext=\"m\" display=\"inline\" overflow=\"scroll\"><mi>m</mi></math> is loaded into a launcher with a spring of spring constant <math alttext=\"k\" display=\"inline\" overflow=\"scroll\"><mi>k</mi></math>. The ball is pushed down until it is at a vertical position <math alttext=\"y equals 0\" display=\"inline\" overflow=\"scroll\"><mi>y</mi><mo>=</mo><mn>0</mn></math>, and the spring is compressed a distance <math alttext=\"delta L\" display=\"inline\" overflow=\"scroll\"><mtext>Δ</mtext><mi>L</mi></math>, as shown. The ball is then released from rest. Immediately after leaving the launcher, the <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mi>x</mi></math>- and <math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mi>y</mi></math>-components of the ball’s velocity are <math alttext=\"v sub x\" display=\"inline\" overflow=\"scroll\"><msub><mi>v</mi><mi>x</mi></msub></math> and <math alttext=\"v sub y\" display=\"inline\" overflow=\"scroll\"><msub><mi>v</mi><mi>y</mi></msub></math>, respectively. The ball reaches a maximum height of <math alttext=\"y sub max\" display=\"inline\" overflow=\"scroll\"><msub><mi>y</mi><mi>max</mi></msub></math> and lands a horizontal distance <math alttext=\"delta x\" display=\"inline\" overflow=\"scroll\"><mtext>Δ</mtext><mi>x</mi></math> away from its initial position. Energy losses due to friction are negligible. Which of the following is a correct conservation of energy equation that compares the total mechanical energy of the ball-spring-Earth system immediately before the ball is launched to the total mechanical energy of the ball-spring-Earth system the moment the ball reaches its maximum height?",
+    "image": "https://ap.oly.st/images/2bcb830c83e7b12187450de9ea65cb1d.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"one half k delta L squared, plus one half m times, open parenthesis, v sub x, end sub, squared, plus v sub y, end sub, squared, close parenthesis, equals m g y sub max\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>k</mi><mtext>Δ</mtext><msup><mi>L</mi><mn>2</mn></msup><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>m</mi><mrow><mo>(</mo><msubsup><mi>v</mi><mi>x</mi><mn>2</mn></msubsup><mo>+</mo><msubsup><mi>v</mi><mi>y</mi><mn>2</mn></msubsup><mo>)</mo></mrow><mo>=</mo><mi>m</mi><mi>g</mi><msub><mi>y</mi><mi>max</mi></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one half k delta L squared, plus m g delta x, equals one half m times v sub x, end sub, squared, plus m g y sub max\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>k</mi><mtext>Δ</mtext><msup><mi>L</mi><mn>2</mn></msup><mo>+</mo><mi>m</mi><mi>g</mi><mtext>Δ</mtext><mi>x</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>m</mi><msubsup><mi>v</mi><mi>x</mi><mn>2</mn></msubsup><mo>+</mo><mi>m</mi><mi>g</mi><msub><mi>y</mi><mi>max</mi></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one half k delta L squared, equals one half m times v sub x, end sub, squared, plus m g y sub max\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>k</mi><mtext>Δ</mtext><msup><mi>L</mi><mn>2</mn></msup><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>m</mi><msubsup><mi>v</mi><mi>x</mi><mn>2</mn></msubsup><mo>+</mo><mi>m</mi><mi>g</mi><msub><mi>y</mi><mi>max</mi></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one half k delta L squared, equals m g y sub max\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>k</mi><mtext>Δ</mtext><msup><mi>L</mi><mn>2</mn></msup><mo>=</mo><mi>m</mi><mi>g</mi><msub><mi>y</mi><mi>max</mi></msub></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"one half k delta L squared, equals one half m times v sub x, end sub, squared, plus m g y sub max\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>k</mi><mtext>Δ</mtext><msup><mi>L</mi><mn>2</mn></msup><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>m</mi><msubsup><mi>v</mi><mi>x</mi><mn>2</mn></msubsup><mo>+</mo><mi>m</mi><mi>g</mi><msub><mi>y</mi><mi>max</mi></msub></math>"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Work, Energy, and Power"
+  },
+  "topic": {
+    "code": "3.4",
+    "text": "3.4: Conservation of Energy"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

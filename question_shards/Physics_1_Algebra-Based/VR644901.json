@@ -1,0 +1,41 @@
+{
+  "id": "VR644901",
+  "type": "mcq",
+  "title": "Rotational dynamics - torque from tension force",
+  "content": {
+    "description": "",
+    "question": "A block of mass <math alttext=\"m sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>m</mi><mn>0</mn></msub></math> hangs from a string that passes over a pulley and is wrapped around a horizontal disk of radius <math alttext=\"R sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>0</mn></msub></math>, as shown in the diagram. The masses of the string and the pulley are negligible. The block is released from rest and begins moving downward. Does the string exert a torque on the disk, about the center of the disk, equal to <math alttext=\"m sub 0 g R sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>m</mi><mn>0</mn></msub><mi>g</mi><msub><mi>R</mi><mn>0</mn></msub></math> ? Why or why not?",
+    "image": "https://ap.oly.st/images/b1d4190c8850796f149d054f7e53dc26.svg",
+    "choices": [
+      {
+        "label": "Yes, because the only unbalanced external force exerted on the block-disk system is the gravitational force on the hanging block.",
+        "image": null
+      },
+      {
+        "label": "Yes, because the force of tension equals the force of gravity acting on the block.",
+        "image": null
+      },
+      {
+        "label": "No, because the tension is independent of the mass of the block.",
+        "image": null
+      },
+      {
+        "label": "No, because the tension in the string is less than the weight of the hanging block.",
+        "image": null
+      }
+    ],
+    "answer": "No, because the tension in the string is less than the weight of the hanging block."
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.6",
+    "text": "5.6: Newton's Second Law in Rotational Form"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

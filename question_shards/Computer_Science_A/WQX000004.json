@@ -1,0 +1,41 @@
+{
+  "id": "WQX000004",
+  "type": "mcq",
+  "title": "Counting values in an array - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the value printed by the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The number of negative elements in data",
+        "image": null
+      },
+      {
+        "label": "The number of positive elements in data",
+        "image": null
+      },
+      {
+        "label": "The number of elements in data that are greater than the first element in data",
+        "image": null
+      },
+      {
+        "label": "The number of elements in data that are less than than the first element in data",
+        "image": null
+      }
+    ],
+    "answer": "The number of elements in data that are greater than the first element in data"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implementing Array Algorithms"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

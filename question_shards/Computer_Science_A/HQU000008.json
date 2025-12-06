@@ -1,0 +1,41 @@
+{
+  "id": "HQU000008",
+  "type": "mcq",
+  "title": "ArrayList nameList traversals - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following can replace /* missing code */ so that the code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "nameList.remove(i);",
+        "image": null
+      },
+      {
+        "label": "nameList.remove(i); i++;",
+        "image": null
+      },
+      {
+        "label": "nameList.set(i, \"Bob\"); nameList.set(i, \"Pete\");",
+        "image": null
+      },
+      {
+        "label": "nameList.set(i, \"Bob\"); nameList.set(i + 1, \"Pete\");",
+        "image": null
+      }
+    ],
+    "answer": "nameList.remove(i);"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

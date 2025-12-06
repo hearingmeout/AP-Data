@@ -1,0 +1,41 @@
+{
+  "id": "VVA000000",
+  "type": "mcq",
+  "title": "Geometric Sequence - General Term",
+  "content": {
+    "description": "",
+    "question": "The sequence has 7 points labeled. The points have the following coordinates: (1 comma 8) (2 comma 4) (3 comma 2) (4 comma 1) (5 comma one half) (6 comma one fourth) (7 comma one eighth) Values of the terms of a geometric sequence <math alttext=\"g subscript n\"><semantics><msub><mi>g</mi><mi>n</mi></msub><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> are graphed in the figure. Which of the following is an expression for the <math alttext=\"n text th end text\"><semantics><mrow><mi>n</mi><mtext>th</mtext></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> term of the geometric sequence?",
+    "image": "https://ap.oly.st/images/1df3fc23c4f50d6535a288fabe619499.svg",
+    "choices": [
+      {
+        "label": "​<math alttext=\"g subscript n equals 4 open parentheses 1 half close parentheses to the power of open parentheses n minus 2 close parentheses end exponent\"><semantics><mrow><msub><mi>g</mi><mi>n</mi></msub><mo>=</mo><mn>4</mn><msup><mfenced><mfrac><mn>1</mn><mn>2</mn></mfrac></mfenced><mfenced><mrow><mi>n</mi><mo>-</mo><mn>2</mn></mrow></mfenced></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"g subscript n equals 8 open parentheses 2 close parentheses to the power of open parentheses n minus 1 close parentheses end exponent\"><semantics><mrow><msub><mi>g</mi><mi>n</mi></msub><mo>=</mo><mn>8</mn><msup><mfenced><mn>2</mn></mfenced><mfenced><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"g subscript n equals 8 open parentheses 1 half close parentheses to the power of n\"><semantics><mrow><msub><mi>g</mi><mi>n</mi></msub><mo>=</mo><mn>8</mn><msup><mfenced><mfrac><mn>1</mn><mn>2</mn></mfrac></mfenced><mi>n</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"g subscript n equals 16 open parentheses 1 half close parentheses to the power of open parentheses n minus 1 close parentheses end exponent\"><semantics><mrow><msub><mi>g</mi><mi>n</mi></msub><mo>=</mo><mn>16</mn><msup><mfenced><mfrac><mn>1</mn><mn>2</mn></mfrac></mfenced><mfenced><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"g subscript n equals 4 open parentheses 1 half close parentheses to the power of open parentheses n minus 2 close parentheses end exponent\"><semantics><mrow><msub><mi>g</mi><mi>n</mi></msub><mo>=</mo><mn>4</mn><msup><mfenced><mfrac><mn>1</mn><mn>2</mn></mfrac></mfenced><mfenced><mrow><mi>n</mi><mo>-</mo><mn>2</mn></mrow></mfenced></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Change in Arithmetic and Geometric Sequences"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Construct equivalent graphical, numerical, analytical, and verbal representations of functions that are useful in a given mathematical or applied context, with and without technology."
+  }
+}

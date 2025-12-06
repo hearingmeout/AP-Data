@@ -1,0 +1,45 @@
+{
+  "id": "VH911938",
+  "type": "mcq",
+  "title": "Population of a new town",
+  "content": {
+    "description": "A new town was incorporated in 1960. The size of the town’s population was recorded every 5 years after 1960. Using the variables <math alttext=\"x\" overflow=\"scroll\"><mrow><mi>x</mi></mrow></math>, for number of years since 1960, and <math alttext=\"y\" overflow=\"scroll\"><mrow><mi>y</mi></mrow></math>, for the size of the population, three models were created to predict the population from the number of years since 1960.",
+    "question": "Model I predicts <math alttext=\"y\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi></mrow></mstyle></math> from <math alttext=\"x\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math>. Model II predicts <math alttext=\"the natural log of y\" overflow=\"scroll\"><mstyle><mrow><mi>ln</mi><mo>⁡</mo><mo>(</mo><mi>y</mi><mo>)</mo></mrow></mstyle></math>, the natural logarithm of <math alttext=\"y\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi></mrow></mstyle></math>, from <math alttext=\"x\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math>. Model III predicts <math alttext=\"the natural log of y\" overflow=\"scroll\"><mstyle><mrow><mi>ln</mi><mo>⁡</mo><mo>(</mo><mi>y</mi><mo>)</mo></mrow></mstyle></math> from <math alttext=\"the natural log of x\" overflow=\"scroll\"><mstyle><mrow><mi>ln</mi><mo>⁡</mo><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mstyle></math>. The following graphs show the residual plot for each model. Residual Plot for Model I Residual Plot for Model II Residual Plot for Model III Which of the following statements is the best interpretation of the residual plots?",
+    "image": "https://ap.oly.st/images/1e425afb0c750f56f5fc98918ffd0ec1.png",
+    "choices": [
+      {
+        "label": "The residual plot for model I indicates that a quadratic model is the most appropriate among the three models.",
+        "image": null
+      },
+      {
+        "label": "The residual plots for models I and III indicate that either model is appropriate and better than model II.",
+        "image": null
+      },
+      {
+        "label": "The residual plot for model II indicates that it is the most appropriate among the three models.",
+        "image": null
+      },
+      {
+        "label": "All the residual plots indicate that any of the three models are appropriate for the prediction.",
+        "image": null
+      },
+      {
+        "label": "All the residual plots indicate that none of the three models is appropriate for the prediction.",
+        "image": null
+      }
+    ],
+    "answer": "The residual plot for model II indicates that it is the most appropriate among the three models."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.9",
+    "text": "2.9: Analyzing Departures from Linearity"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}

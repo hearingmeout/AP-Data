@@ -1,0 +1,41 @@
+{
+  "id": "VH908313",
+  "type": "mcq",
+  "title": "Current same left and right",
+  "content": {
+    "description": "",
+    "question": "In which switch position, open or closed, can the current be the same in the left and right branches, and why?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Neither position, because the resistors in these branches have different resistances.",
+        "image": null
+      },
+      {
+        "label": "Both positions, because the current in the middle branch will be zero at some time for both positions.",
+        "image": null
+      },
+      {
+        "label": "Only when the switch is open, because then the resistors are in series.",
+        "image": null
+      },
+      {
+        "label": "Only immediately after the switch is closed, because then the equivalent resistance of the middle and right branches equals that of the left branch.",
+        "image": null
+      }
+    ],
+    "answer": "Both positions, because the current in the middle branch will be zero at some time for both positions."
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.2",
+    "text": "11.2: Simple Circuits"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

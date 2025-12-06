@@ -1,0 +1,41 @@
+{
+  "id": "VR021907",
+  "type": "mcq",
+  "title": "Student Measurements",
+  "content": {
+    "description": "",
+    "question": "In an experiment, a disk of known rotational inertia <math alttext=\"I\" overflow=\"scroll\"><mstyle><mrow><mi>I</mi></mrow></mstyle></math>rotates as a result of a known force that is applied to the disk’s edge. The angular velocity of the disk is measured as a function of time, as shown in the graph. Students must determine the relationship between the magnitude of the change in angular momentum of the disk from <math alttext=\"t equals 0 second\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>0</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mtext>s</mtext></mrow></mstyle></math> to <math alttext=\"t equals 10 seconds\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>10</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mtext>s</mtext></mrow></mstyle></math> and the torque applied to the disk. What quantity could the students measure in order to make the determination? Justify your selection.",
+    "image": "https://ap.oly.st/images/e3bcdad21d97deb6f1e236a6cf6671cf.png",
+    "choices": [
+      {
+        "label": "the radius <math alttext=\"r\" overflow=\"scroll\"><mstyle><mrow><mi>r</mi></mrow></mstyle></math> of the disk, because <math alttext=\"tau equals F r sine theta\" overflow=\"scroll\"><mrow><mi>τ</mi><mo>=</mo><mi>F</mi><mi>r</mi><mtext> </mtext><mi>sin</mi><mo>⁡</mo><mtext> </mtext><mi>θ</mi></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "The acceleration of a point on the disk, because <math alttext=\"F equals m a\" overflow=\"scroll\"><mstyle><mrow><mi>F</mi><mo>=</mo><mi>m</mi><mi>a</mi></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "The mass <math alttext=\"m\" overflow=\"scroll\"><mstyle><mrow><mi>m</mi></mrow></mstyle></math> of the disk, because <math alttext=\"I equals one half m r squared\" overflow=\"scroll\"><mstyle><mrow><mi>I</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>m</mi><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "The direction of the rotation, because a change in angular momentum is a vector quantity",
+        "image": null
+      }
+    ],
+    "answer": "the radius <math alttext=\"r\" overflow=\"scroll\"><mstyle><mrow><mi>r</mi></mrow></mstyle></math> of the disk, because <math alttext=\"tau equals F r sine theta\" overflow=\"scroll\"><mrow><mi>τ</mi><mo>=</mo><mi>F</mi><mi>r</mi><mtext> </mtext><mi>sin</mi><mo>⁡</mo><mtext> </mtext><mi>θ</mi></mrow></math>"
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.3",
+    "text": "5.3: Torque"
+  },
+  "skill": {
+    "code": "2.D",
+    "text": "2.D: Predict new values or factors of change of physical quantities using functional dependence between variables."
+  }
+}

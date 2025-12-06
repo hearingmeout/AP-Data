@@ -1,0 +1,41 @@
+{
+  "id": "GCH000001",
+  "type": "mcq",
+  "title": "Binomial Theorem - Coefficients of Polynomial",
+  "content": {
+    "description": "",
+    "question": "The binomial theorem can be used to expand the polynomial function <math alttext=\"p\"><mi>p</mi></math>, given by <math alttext=\"p open parentheses x close parentheses equals open parentheses x minus 3 close parentheses to the power of 5\"><mi>p</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mfenced><mrow><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfenced><mn>5</mn></msup></math>. What is the coefficient of the <math alttext=\"x cubed\"><msup><mi>x</mi><mn>3</mn></msup></math> term in the expanded polynomial?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"open parentheses negative 3 close parentheses cubed times 10\"><msup><mfenced><mrow><mo>-</mo><mn>3</mn></mrow></mfenced><mn>3</mn></msup><mo>·</mo><mn>10</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open parentheses negative 3 close parentheses squared times 10\"><msup><mfenced><mrow><mo>-</mo><mn>3</mn></mrow></mfenced><mn>2</mn></msup><mo>·</mo><mn>10</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open parentheses negative 3 close parentheses cubed times 5\"><msup><mfenced><mrow><mo>-</mo><mn>3</mn></mrow></mfenced><mn>3</mn></msup><mo>·</mo><mn>5</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open parentheses negative 3 close parentheses squared times 5\"><msup><mfenced><mrow><mo>-</mo><mn>3</mn></mrow></mfenced><mn>2</mn></msup><mo>·</mo><mn>5</mn></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"open parentheses negative 3 close parentheses squared times 10\"><msup><mfenced><mrow><mo>-</mo><mn>3</mn></mrow></mfenced><mn>2</mn></msup><mo>·</mo><mn>10</mn></math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Polynomial and Rational Functions"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: Equivalent Representations of Polynomial and Rational Expressions"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Express functions, equations, or expressions in analytically equivalent forms that are useful in a given mathematical or applied context."
+  }
+}

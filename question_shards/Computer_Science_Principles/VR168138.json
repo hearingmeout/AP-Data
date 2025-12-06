@@ -1,0 +1,37 @@
+{
+  "id": "VR168138",
+  "type": "mcq",
+  "title": "Information determined using dashboard metadata",
+  "content": {
+    "description": "",
+    "question": "A camera mounted on the dashboard of a car captures an image of the view from the driver’s seat every second. Each image is stored as data. Along with each image, the camera also captures and stores the car’s speed, the date and time, and the car’s GPS location as metadata. Which of the following can best be determined using only the data and none of the metadata?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The average number of hours per day that the car is in use",
+        "image": null
+      },
+      {
+        "label": "The car’s average speed on a particular day",
+        "image": null
+      },
+      {
+        "label": "The distance the car traveled on a particular day",
+        "image": null
+      },
+      {
+        "label": "The number of bicycles the car passed on a particular day",
+        "image": null
+      }
+    ],
+    "answer": "The number of bicycles the car passed on a particular day"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: Extracting Information from Data"
+  },
+  "skill": {
+    "code": "Skill 5.B",
+    "text": "Skill 5.B: Explain how knowledge can be generated from data."
+  }
+}

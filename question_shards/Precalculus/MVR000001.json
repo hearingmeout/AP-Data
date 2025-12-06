@@ -1,0 +1,41 @@
+{
+  "id": "MVR000001",
+  "type": "mcq",
+  "title": "Matrices - defined and undefined multiplication",
+  "content": {
+    "description": "",
+    "question": "Matrix <math alttext=\"A\"><mi>A</mi></math> is a <math alttext=\"3 by 4\"><mn>3</mn><mo>×</mo><mn>4</mn></math> matrix, and matrix <math alttext=\"B\"><mi>B</mi></math> is a <math alttext=\"4 by 2\"><mn>4</mn><mo>×</mo><mn>2</mn></math> matrix. Which of the following is defined?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"A squared\"><msup><mi>A</mi><mn>2</mn></msup></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"A B\"><mi>A</mi><mi>B</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"B A\"><mi>B</mi><mi>A</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"B squared\"><msup><mi>B</mi><mn>2</mn></msup></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"A B\"><mi>A</mi><mi>B</mi></math>"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.10",
+    "text": "4.10: Matrices"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Apply numerical results in a given mathematical or applied context."
+  }
+}

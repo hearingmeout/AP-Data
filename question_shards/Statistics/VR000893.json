@@ -1,0 +1,45 @@
+{
+  "id": "VR000893",
+  "type": "mcq",
+  "title": "Dining Party",
+  "content": {
+    "description": "A reporter was interested in the relationship between the size of a dining party and the amount of time it takes for the dining party to be seated at a restaurant. The reporter selected a random sample of dining parties from a certain region. The resulting data were used to complete a linear regression analysis of the time, in minutes, it takes for a dining party to be seated versus the number of people in the dining party. The linear regression analysis produced the residual plot shown.",
+    "question": "Based on the residual plot, which condition for inference for the slope of the regression line does not appear to be satisfied?",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Statistics/8fc79724a111be6696ff1280a1094c66.png",
+    "choices": [
+      {
+        "label": "The sum of the residuals is equal to zero.",
+        "image": null
+      },
+      {
+        "label": "The standard deviation of the distribution of time to be seated is the same for each size of the dining party.",
+        "image": null
+      },
+      {
+        "label": "The data were collected using a random sample or randomized experiment.",
+        "image": null
+      },
+      {
+        "label": "The sample size is less than or equal to 10 percent of the population size.",
+        "image": null
+      },
+      {
+        "label": "The residuals are approximately normally distributed.",
+        "image": null
+      }
+    ],
+    "answer": "The standard deviation of the distribution of time to be seated is the same for each size of the dining party."
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Inference for Quantitative Data-Slopes"
+  },
+  "topic": {
+    "code": "9.4",
+    "text": "9.4: Setting Up a Test for the Slope of a Regression Model"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Verify that inference procedures apply in a given situation."
+  }
+}

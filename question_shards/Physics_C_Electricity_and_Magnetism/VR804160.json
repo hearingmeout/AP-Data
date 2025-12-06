@@ -1,0 +1,41 @@
+{
+  "id": "VR804160",
+  "type": "mcq",
+  "title": "Nonideal battery - compare current to ideal case",
+  "content": {
+    "description": "",
+    "question": "Two batteries have the same <math alttext=\"e m f\" display=\"inline\" overflow=\"scroll\"><mi>emf</mi></math>, but one battery is ideal while the other battery is nonideal. The batteries are connected to identical resistors. Does the resistor connected to the nonideal battery have the same or less current compared to the resistor connected to the ideal battery? What evidence or reasoning helps support the claim?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The same current. A nonideal battery only has a reduced potential difference at its terminals.",
+        "image": null
+      },
+      {
+        "label": "The same current. Although the current in the battery goes through the internal resistance, the same potential difference is applied across the external resistor.",
+        "image": null
+      },
+      {
+        "label": "Less current. Some of the current in the nonideal battery goes through the internal resistance and not through the circuit.",
+        "image": null
+      },
+      {
+        "label": "Less current. The nonideal battery’s internal resistance adds to the external resistance to make a higher equivalent resistance for the circuit.",
+        "image": null
+      }
+    ],
+    "answer": "Less current. The nonideal battery’s internal resistance adds to the external resistance to make a higher equivalent resistance for the circuit."
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.5",
+    "text": "11.5: Compound Direct Current Circuits"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

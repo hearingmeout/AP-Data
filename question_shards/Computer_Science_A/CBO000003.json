@@ -1,0 +1,41 @@
+{
+  "id": "CBO000003",
+  "type": "mcq",
+  "title": "Generate passcode - describe conditions",
+  "content": {
+    "description": "",
+    "question": "Which of the following must be true for the code segment to compile without error?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The generatePasscode method should be designated as void.",
+        "image": null
+      },
+      {
+        "label": "The generatePasscode method should be designated as static.",
+        "image": null
+      },
+      {
+        "label": "The AccountManager class should contain another method with the name generatePasscode that has at least one parameter.",
+        "image": null
+      },
+      {
+        "label": "The AccountManager class should contain another method with the name generatePasscode that has return type double.",
+        "image": null
+      }
+    ],
+    "answer": "The generatePasscode method should be designated as static."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.10",
+    "text": "1.10: Calling Class Methods"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

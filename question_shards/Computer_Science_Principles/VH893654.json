@@ -1,0 +1,37 @@
+{
+  "id": "VH893654",
+  "type": "mcq",
+  "title": "Remove nth character from oldStr",
+  "content": {
+    "description": "Which of the following code segments can be used to create the desired new string and store it in newStr ?",
+    "question": "Select two answers.",
+    "image": null,
+    "choices": [
+      {
+        "label": "left <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> substring(oldStr, 1, n - 1)right <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> substring(oldStr, n + 1, len(oldStr))newStr <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> concat(left, right)",
+        "image": null
+      },
+      {
+        "label": "left <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> substring(oldStr, 1, n + 1)right <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> substring(oldStr, n - 1, len(oldStr))newStr <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> concat(left, right)",
+        "image": null
+      },
+      {
+        "label": "newStr <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> substring(oldStr, 1, n - 1)newStr <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> concat(newStr, substring(oldStr, n + 1, len(oldStr)))",
+        "image": null
+      },
+      {
+        "label": "newStr <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> substring(oldStr, n + 1, len(oldStr))newStr <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> concat(newStr, substring(oldStr, 1, n - 1))",
+        "image": null
+      }
+    ],
+    "answer": "left <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> substring(oldStr, 1, n - 1)right <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> substring(oldStr, n + 1, len(oldStr))newStr <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> concat(left, right)"
+  },
+  "topic": {
+    "code": "3.4",
+    "text": "3.4: Strings"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Use abstraction to manage complexity in a program."
+  }
+}

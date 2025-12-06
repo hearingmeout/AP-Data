@@ -1,0 +1,41 @@
+{
+  "id": "VUU000002",
+  "type": "mcq",
+  "title": "ArrayList Traversal - write the code",
+  "content": {
+    "description": "",
+    "question": "Which of the following can replace /* missing code */ to produce this result?",
+    "image": null,
+    "choices": [
+      {
+        "label": "int initialSize = myList.size(); for (int i = 0; i < initialSize; i++) { myList.add(2, myList.remove(0)); yourList.add(myList.get(0)); }",
+        "image": null
+      },
+      {
+        "label": "int initialSize = myList.size(); for (int i = 1; i <= initialSize; i++) { yourList.add(myList.get(i)); }",
+        "image": null
+      },
+      {
+        "label": "for (Integer temp : myList) { yourList.add(0, temp); }",
+        "image": null
+      },
+      {
+        "label": "for (Integer temp : myList) { myList.add(2, myList.remove(0)); yourList.add(temp); }",
+        "image": null
+      }
+    ],
+    "answer": "int initialSize = myList.size(); for (int i = 0; i < initialSize; i++) { myList.add(2, myList.remove(0)); yourList.add(myList.get(0)); }"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.9",
+    "text": "4.9: `ArrayList` Traversals"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

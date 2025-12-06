@@ -1,0 +1,41 @@
+{
+  "id": "PIM000003",
+  "type": "mcq",
+  "title": "addNum method - initial conditions",
+  "content": {
+    "description": "",
+    "question": "Which of the following can replace /* missing initialization */ so that the code segment works as expected?",
+    "image": null,
+    "choices": [
+      {
+        "label": "{8, 4}",
+        "image": null
+      },
+      {
+        "label": "{18, 14}",
+        "image": null
+      },
+      {
+        "label": "{5, 8, 4, 5}",
+        "image": null
+      },
+      {
+        "label": "{5, 18, 14, 5}",
+        "image": null
+      }
+    ],
+    "answer": "{5, 8, 4, 5}"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Array Creation and Access"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

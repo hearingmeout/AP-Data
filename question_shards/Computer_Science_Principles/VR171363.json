@@ -1,0 +1,37 @@
+{
+  "id": "VR171363",
+  "type": "mcq",
+  "title": "Consequence of an undecidable problem",
+  "content": {
+    "description": "",
+    "question": "A team of programmers is designing software. One portion of the project presents a problem for which there is not an obvious solution. After some research, the team determines that the problem is undecidable. Which of the following best explains the consequence of the problem being undecidable?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The problem can be solved algorithmically, but it will require an unreasonably long amount of time.",
+        "image": null
+      },
+      {
+        "label": "The problem can be solved algorithmically, but it will require an unreasonably large amount of data storage.",
+        "image": null
+      },
+      {
+        "label": "There is no possible algorithm that can be used to solve all instances of the problem.",
+        "image": null
+      },
+      {
+        "label": "There are several different possible algorithms that can solve the problem, but there is controversy about which is the most efficient.",
+        "image": null
+      }
+    ],
+    "answer": "There is no possible algorithm that can be used to solve all instances of the problem."
+  },
+  "topic": {
+    "code": "3.18",
+    "text": "3.18: Undecidable Problems"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Investigate the situation, context, or task."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VR804166",
+  "type": "mcq",
+  "title": "Kirchhoff loop - pd between a and b in 3 circuits",
+  "content": {
+    "description": "",
+    "question": "Three identical batteries are connected to resistors in three different circuits, as shown in the figure. Let <math alttext=\"delta V sub 1\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mn>1</mn></msub></math>, <math alttext=\"delta V sub 2\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mn>2</mn></msub></math>, and <math alttext=\"delta V sub 3\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mn>3</mn></msub></math> be the potential difference between points <math alttext=\"a\" display=\"inline\" overflow=\"scroll\"><mi>a</mi></math> and <math alttext=\"b\" display=\"inline\" overflow=\"scroll\"><mi>b</mi></math> in circuits <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>, <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>, and <math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mn>3</mn></math>, respectively. Which of the following correctly ranks the three potential difference values?",
+    "image": "https://ap.oly.st/images/11b5027d9b297ec0b8c380019ab1784a.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"delta V sub 1 equals delta V sub 2, which equals delta V sub 3\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mn>1</mn></msub><mo>=</mo><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mn>2</mn></msub><mo>=</mo><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mn>3</mn></msub></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"delta V sub 1 equals delta V sub 2, which is greater than delta V sub 3\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mn>1</mn></msub><mo>=</mo><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mn>2</mn></msub><mo>&gt;</mo><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mn>3</mn></msub></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"delta V sub 1 is greater than delta V sub 2, which equals delta V sub 3\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mn>1</mn></msub><mo>&gt;</mo><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mn>2</mn></msub><mo>=</mo><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mn>3</mn></msub></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"delta V sub 1 is greater than delta V sub 2, which is greater than delta V sub 3\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mn>1</mn></msub><mo>&gt;</mo><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mn>2</mn></msub><mo>&gt;</mo><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mn>3</mn></msub></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"delta V sub 1 equals delta V sub 2, which is greater than delta V sub 3\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mn>1</mn></msub><mo>=</mo><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mn>2</mn></msub><mo>&gt;</mo><mi mathvariant=\"normal\">Δ</mi><msub><mi>V</mi><mn>3</mn></msub></mstyle></math>"
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.6",
+    "text": "11.6: Kirchhoff's Loop Rule"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

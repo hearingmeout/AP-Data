@@ -1,0 +1,41 @@
+{
+  "id": "VH907691",
+  "type": "mcq",
+  "title": "dot equals vs equals equals one two three",
+  "content": {
+    "description": "Assume that object references one, two, and three have been declared and instantiated to be of the same type. Assume also that one == two evaluates to true and that two.equals(three) evaluates to false.",
+    "question": "Consider the following code segment.if (one.equals(two)){System.out.println(\"one dot equals two\");}if (one.equals(three)){System.out.println(\"one dot equals three\");}if (two == three){System.out.println(\"two equals equals three\");}What, if anything, is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "one dot equals two",
+        "image": null
+      },
+      {
+        "label": "one dot equals twoone dot equals three",
+        "image": null
+      },
+      {
+        "label": "one dot equals threetwo equals equals three",
+        "image": null
+      },
+      {
+        "label": "Nothing is printed.",
+        "image": null
+      }
+    ],
+    "answer": "one dot equals two"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Comparing Boolean Expressions"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

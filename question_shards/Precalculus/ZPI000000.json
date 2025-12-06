@@ -1,0 +1,41 @@
+{
+  "id": "ZPI000000",
+  "type": "mcq",
+  "title": "Logarithmic Manipulation - product property",
+  "content": {
+    "description": "",
+    "question": "​A decibel is a unit used to measure loudness of sound. The function <math alttext=\"d\"><semantics><mi>d</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> defined by <math alttext=\"d open parentheses Y close parentheses equals 10 log subscript 10 open parentheses Y times 10 to the power of 12 close parentheses\"><semantics><mrow><mi>d</mi><mfenced><mi>Y</mi></mfenced><mo>=</mo><mn>10</mn><msub><mi>log</mi><mn>10</mn></msub><mfenced><mrow><mi>Y</mi><mo>·</mo><msup><mn>10</mn><mn>12</mn></msup></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> gives the measure, in decibels, as a function of intensity <math alttext=\"Y\"><semantics><mi>Y</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, in watts per square meter (<math alttext=\"text m end text squared\"><semantics><msup><mtext>m</mtext><mn>2</mn></msup><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>). The function <math alttext=\"g\"><semantics><mi>g</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> defined by <math alttext=\"g open parentheses Y close parentheses equals 10 log subscript 10 open parentheses Y close parentheses\"><semantics><mrow><mi>g</mi><mfenced><mi>Y</mi></mfenced><mo>=</mo><mn>10</mn><msub><mi>log</mi><mn>10</mn></msub><mfenced><mi>Y</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is a different scale related to intensity, and the graph of <math alttext=\"d\"><semantics><mi>d</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is a translation of the graph of <math alttext=\"g\"><semantics><mi>g</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. Which of the following gives the graphs of <math alttext=\"g\"><semantics><mi>g</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> and <math alttext=\"d\"><semantics><mi>d</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​ The x axis is labeled Intensity (watts per meter squared) and ranges from 0 to 35 in increments of 5. The y axis is labeled Decibels and ranges from negative 20 to 140 in increments of 20. Two curves are shown. All coordinates are approximate. One curve is solid and labeled d. Moving from left to right: The curve begins at (0.1 comma negative 20). The curve increases sharply to reach (1 comma 120). The curve continues to increase gradually, passing through (10 comma 130), (20 comma 135), and (30 comma 137). The curve exits the window at (37 comma 138). The second curve is dashed and labeled g. Moving from left to right: The curve begins at (0.1 comma negative 20). The curve increases to reach (1 comma 0). The curve continues to increase gradually, passing through (10 comma 10), (20 comma 15), and (30 comma 17). The curve exits the window at (37 comma 18).",
+        "image": "https://ap.oly.st/images/7082eeb6a67eacf96add703e0b6933d3.svg"
+      },
+      {
+        "label": "​ The x axis is labeled Intensity (watts per meter squared) and ranges from 0 to 35 in increments of 5. The y axis is labeled Decibels and ranges from negative 20 to 140 in increments of 20. Two curves are shown. All coordinates are approximate. One curve is solid and labeled d. Moving from left to right: The curve begins at (0.1 comma negative 20). The curve increases to reach (1 comma 0). The curve continues to increase gradually, passing through (10 comma 10), (20 comma 15), and (30 comma 17). The curve exits the window at (37 comma 18). The second curve is dashed and labeled g. Moving from left to right: The curve begins at (0.1 comma negative 20). The curve increases sharply to reach (1 comma 120). The curve continues to increase gradually, passing through (10 comma 130), (20 comma 135), and (30 comma 137). The curve exits the window at (37 comma 138).",
+        "image": "https://ap.oly.st/images/66015fc8fd844a10af249ce8b3c83469.svg"
+      },
+      {
+        "label": "​ The x axis is labeled Intensity (watts per meter squared) and ranges from 0 to 35 in increments of 5. The y axis is labeled Decibels and ranges from negative 20 to 40 in increments of 20. Two curves are shown. All coordinates are approximate. One curve is solid and labeled d. Moving from left to right: The curve begins at (0.1 comma negative 20). The curve increases to reach (1 comma 10). The curve continues to increase gradually, passing through (10 comma 20), (20 comma 23), and (30 comma 25). The curve exits the window at (37 comma 26). The second curve is dashed and labeled g. Moving from left to right: The curve begins at (0.1 comma negative 20). The curve increases to reach (1 comma 0). The curve continues to increase gradually, passing through (10 comma 10), (20 comma 12), and (30 comma 15). The curve exits the window at (37 comma 17).",
+        "image": "https://ap.oly.st/images/e078c3a831dbfc4e6001d3823d650166.svg"
+      },
+      {
+        "label": "​ The x axis is labeled Intensity (watts per meter squared) and ranges from 0 to 35 in increments of 5. The y axis is labeled Decibels and ranges from negative 20 to 40 in increments of 20. Two curves are shown. All coordinates are approximate. One curve is solid and labeled d. Moving from left to right: The curve begins at (0.1 comma negative 20). The curve increases to reach (1 comma 0). The curve continues to increase gradually, passing through (10 comma 10), (20 comma 12), and (30 comma 15). The curve exits the window at (37 comma 17). The second curve is dashed and labeled g. Moving from left to right: The curve begins at (0.1 comma negative 20). The curve increases to reach (1 comma 10). The curve continues to increase gradually, passing through (10 comma 20), (20 comma 23), and (30 comma 25). The curve exits the window at (37 comma 26).",
+        "image": "https://ap.oly.st/images/de6f97a257d994ef76c1f11015f5b7a0.svg"
+      }
+    ],
+    "answer": "​ The x axis is labeled Intensity (watts per meter squared) and ranges from 0 to 35 in increments of 5. The y axis is labeled Decibels and ranges from negative 20 to 140 in increments of 20. Two curves are shown. All coordinates are approximate. One curve is solid and labeled d. Moving from left to right: The curve begins at (0.1 comma negative 20). The curve increases sharply to reach (1 comma 120). The curve continues to increase gradually, passing through (10 comma 130), (20 comma 135), and (30 comma 137). The curve exits the window at (37 comma 138). The second curve is dashed and labeled g. Moving from left to right: The curve begins at (0.1 comma negative 20). The curve increases to reach (1 comma 0). The curve continues to increase gradually, passing through (10 comma 10), (20 comma 15), and (30 comma 17). The curve exits the window at (37 comma 18)."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.12",
+    "text": "2.12: Logarithmic Function Manipulation"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Construct equivalent graphical, numerical, analytical, and verbal representations of functions that are useful in a given mathematical or applied context, with and without technology."
+  }
+}

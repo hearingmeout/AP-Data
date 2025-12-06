@@ -1,0 +1,45 @@
+{
+  "id": "FT560824",
+  "type": "mcq",
+  "title": "Derivative of composite function",
+  "content": {
+    "description": "",
+    "question": "If f(x) = x2 - 4 and g is a differentiable function of x, what is the derivative of f(g(x))?",
+    "image": null,
+    "choices": [
+      {
+        "label": "2g(x)",
+        "image": null
+      },
+      {
+        "label": "2g'(x)",
+        "image": null
+      },
+      {
+        "label": "2xg'(x)",
+        "image": null
+      },
+      {
+        "label": "2g(x)g'(x)",
+        "image": null
+      },
+      {
+        "label": "2g(x) - 4",
+        "image": null
+      }
+    ],
+    "answer": "2g(x)g'(x)"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: The Chain Rule"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Identify an appropriate mathematical rule or procedure based on the classification of a given expression (e.g., Use the chain rule to find the derivative of a composite function)."
+  }
+}

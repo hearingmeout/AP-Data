@@ -1,0 +1,45 @@
+{
+  "id": "FT560869",
+  "type": "mcq",
+  "title": "Behavior of function from graph",
+  "content": {
+    "description": "",
+    "question": "The graph of the function h is shown in the figure above. Of the following, which has the greatest value?",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Calculus_BC/e21a760695bc513f70fcc0249d5d50e2.png",
+    "choices": [
+      {
+        "label": "Average value of h over",
+        "image": null
+      },
+      {
+        "label": "Average rate of change of h over [-3, 2]",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mrow> <mo>−</mo><mn>3</mn></mrow> <mn>2</mn> </msubsup> <mrow> <mi>h</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mtext> </mtext><mi>d</mi><mi>x</mi></mrow> </mrow> </mstyle></mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mrow> <mo>−</mo><mn>3</mn></mrow> <mn>0</mn> </msubsup> <mrow> <mi>h</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mtext> </mtext><mi>d</mi><mi>x</mi></mrow> </mrow> </mstyle><mtext> </mtext></mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "h'(0)",
+        "image": null
+      }
+    ],
+    "answer": "Average rate of change of h over [-3, 2]"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Applications of Integration"
+  },
+  "topic": {
+    "code": "8.1",
+    "text": "8.1: Finding the Average Value of a Function on an Interval"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ZTR000005",
+  "type": "mcq",
+  "title": "Robot API Specification - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Based on the class specification, which of the following descriptions is accurate?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Robot objects are attributes of the methods move and rotate.",
+        "image": null
+      },
+      {
+        "label": "Robot objects are behaviors of the methods move and rotate.",
+        "image": null
+      },
+      {
+        "label": "The methods move and rotate represent attributes of Robot objects.",
+        "image": null
+      },
+      {
+        "label": "The methods move and rotate represent behaviors of Robot objects.",
+        "image": null
+      }
+    ],
+    "answer": "The methods move and rotate represent behaviors of Robot objects."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.7",
+    "text": "1.7: Application Program Interface (API) and Libraries"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

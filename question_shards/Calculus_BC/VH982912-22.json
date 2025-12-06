@@ -1,0 +1,40 @@
+{
+  "id": "VH982912-22",
+  "type": "frq",
+  "title": "Implicit Differentiation with Tangent Line-Inverse",
+  "content": {
+    "description": "",
+    "question": "NO CALCULATOR IS ALLOWED FOR THIS QUESTION. Show all of your work, even though the question may not explicitly remind you to do so. Clearly label any functions, graphs, tables, or other objects that you use. Justifications require that you give mathematical reasons, and that you verify the needed conditions under which relevant theorems, properties, definitions, or tests are applied. Your work will be scored on the correctness and completeness of your methods as well as your answers. Answers without supporting work will usually not receive credit. Unless otherwise specified, answers (numeric or algebraic) need not be simplified. If your answer is given as a decimal approximation, it should be correct to three places after the decimal point. Unless otherwise specified, the domain of a function <math alttext=\"f\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is assumed to be the set of all real numbers <math alttext=\"x\"><mstyle><mrow><mstyle><mrow><mi>x</mi></mrow></mstyle></mrow></mstyle></math> for which <math alttext=\"f of x\"><mstyle><mrow><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></mrow></mstyle></math> is a real number. Consider the curve given by the equation <math alttext=\"2 x times y, plus y squared, equals 8\"><mrow><mn>2</mn><mi>x</mi><mi>y</mi><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>8</mn></mrow></math> for <math alttext=\"y is greater than 0\"><mstyle><mrow><mi>y</mi><mo>&gt;</mo><mn>0</mn></mrow></mstyle></math>. (a) Show that <math alttext=\"the derivative of y, with respect to x, equals, the fraction with numerator negative y, and denominator x plus y, end fraction\"><mstyle><mrow><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mrow><mo>−</mo></mrow><mi>y</mi></mrow><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow></mfrac></mrow></mstyle></math>.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "NO CALCULATOR IS ALLOWED FOR THIS QUESTION. Show all of your work, even though the question may not explicitly remind you to do so. Clearly label any functions, graphs, tables, or other objects that you use. Justifications require that you give mathematical reasons, and that you verify the needed conditions under which relevant theorems, properties, definitions, or tests are applied. Your work will be scored on the correctness and completeness of your methods as well as your answers. Answers without supporting work will usually not receive credit. Unless otherwise specified, answers (numeric or algebraic) need not be simplified. If your answer is given as a decimal approximation, it should be correct to three places after the decimal point. Unless otherwise specified, the domain of a function <math alttext=\"f\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is assumed to be the set of all real numbers <math alttext=\"x\"><mstyle><mrow><mstyle><mrow><mi>x</mi></mrow></mstyle></mrow></mstyle></math> for which <math alttext=\"f of x\"><mstyle><mrow><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></mrow></mstyle></math> is a real number. Consider the curve given by the equation <math alttext=\"2 x times y, plus y squared, equals 8\"><mrow><mn>2</mn><mi>x</mi><mi>y</mi><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>8</mn></mrow></math> for <math alttext=\"y is greater than 0\"><mstyle><mrow><mi>y</mi><mo>&gt;</mo><mn>0</mn></mrow></mstyle></math>. (a) Show that <math alttext=\"the derivative of y, with respect to x, equals, the fraction with numerator negative y, and denominator x plus y, end fraction\"><mstyle><mrow><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mrow><mo>−</mo></mrow><mi>y</mi></mrow><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow></mfrac></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "text": "(b) Write an equation for the line tangent to the curve at the point <math alttext=\"with coordinates 1 comma 2\"><mstyle><mrow><mo>(</mo><mrow><mn>1</mn></mrow><mo>,</mo><mrow><mn>2</mn></mrow><mo>)</mo></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "text": "(c) Evaluate <math alttext=\"the second derivative of y, with respect to x \"><mstyle><mrow><mfrac><mrow><msup><mrow><mi>d</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>y</mi></mrow><mrow><mi>d</mi><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mstyle></math> at the point <math alttext=\"with coordinates 1 comma 2\"><mstyle><mrow><mo>(</mo><mrow><mn>1</mn></mrow><mo>,</mo><mn>2</mn><mo>)</mo></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "text": "(d) The points <math alttext=\"with coordinates 1 comma 2\"><mstyle><mrow><mrow><mo>(</mo><mrow><mn>1</mn></mrow><mo>,</mo><mrow><mn>2</mn></mrow><mo>)</mo></mrow></mrow></mstyle></math> and <math alttext=\"with coordinates seven halves comma 1 \"><mstyle><mrow><mo>(</mo><mfrac><mrow><mn>7</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mo>,</mo><mn>1</mn><mo>)</mo></mrow></mstyle></math> are on the curve. Find the value of <math alttext=\"open parenthesis, the inverse of y, close parenthesis, prime, of 1\"><mrow><msup><mrow><mo>(</mo><mstyle><mrow><msup><mrow><mi>y</mi></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup></mrow></mstyle><mo>)</mo></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow></mrow></math>.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Defining the Derivative of a Function and Using Derivative Notation"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

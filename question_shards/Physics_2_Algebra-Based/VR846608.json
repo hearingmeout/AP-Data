@@ -1,0 +1,41 @@
+{
+  "id": "VR846608",
+  "type": "mcq",
+  "title": "RC circuits - bulb behavior as capacitr discharges",
+  "content": {
+    "description": "",
+    "question": "A circuit consists of a lightbulb, a capacitor, a resistor, a battery, and two switches <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">X</mi></math> and <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Y</mi></math>, as shown in the figure. Both switches are initially open. Switch <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Y</mi></math> is then closed and a long time passes while the capacitor becomes fully charged. Switch <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Y</mi></math> is then opened and Switch <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">X</mi></math> is closed. Which of the following correctly describes and provides a valid justification for the bulb’s behavior over time after Switch <math alttext=\"X \" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">X</mi></math> is closed?",
+    "image": "https://ap.oly.st/images/637945f900e37c8729c91ab744241ebf.svg",
+    "choices": [
+      {
+        "label": "The bulb gets brighter over time. The capacitor will gradually discharge, resulting in an increase in the number of charge carriers responsible for the current in the circuit.",
+        "image": null
+      },
+      {
+        "label": "The bulb gets brighter over time. The flow of charge carriers is initially blocked by the capacitor, then the eventual movement of charge carriers as the capacitor is charged results in an increase in current in the circuit.",
+        "image": null
+      },
+      {
+        "label": "The bulb gets dimmer over time. The capacitor plates provide charge carriers that flow as the capacitor discharges, resulting in a decrease in the current in the circuit.",
+        "image": null
+      },
+      {
+        "label": "The bulb gets dimmer over time. Charge carriers initially flow while building up on the capacitor plates, resulting in a gradual decrease in current in the circuit.",
+        "image": null
+      }
+    ],
+    "answer": "The bulb gets dimmer over time. The capacitor plates provide charge carriers that flow as the capacitor discharges, resulting in a decrease in the current in the circuit."
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.8",
+    "text": "11.8: Resistor-Capacitor (RC) Circuits"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "FT2121",
+  "type": "mcq",
+  "title": "Derivative of arcsine using a difference quotient",
+  "content": {
+    "description": "",
+    "question": "If <math> <semantics> <mrow> <munder> <mrow> <mi>lim</mi></mrow> <mrow> <mi>h</mi><mo>→</mo><mn>0</mn></mrow> </munder> <mfrac> <mrow> <mi>arcsin</mi><mrow><mo>(</mo> <mrow> <mi>a</mi><mo>+</mo><mi>h</mi></mrow> <mo>)</mo></mrow><mo>−</mo><mi>arcsin</mi><mrow><mo>(</mo> <mi>a</mi> <mo>)</mo></mrow></mrow> <mi>h</mi> </mfrac> <mo>=</mo><mn>2</mn></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaCbeaeaaqa aaaaaaaaWdbiGacYgacaGGPbGaaiyBaaWcpaqaa8qacaWGObGaeyOK H4QaaGimaaWdaeqaaOWdbmaalaaapaqaa8qaciGGHbGaaiOCaiaaco gacaGGZbGaaiyAaiaac6gadaqadaWdaeaapeGaamyyaiabgUcaRiaa dIgaaiaawIcacaGLPaaacqGHsislciGGHbGaaiOCaiaacogacaGGZb GaaiyAaiaac6gadaqadaWdaeaapeGaamyyaaGaayjkaiaawMcaaaWd aeaapeGaamiAaaaacqGH9aqpcaaIYaaaaa@5304@ </annotation> </semantics> </math>, which of the following could be the value of a?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mrow> <msqrt> <mn>2</mn> </msqrt> </mrow> <mn>2</mn> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeWaaOaaa8aabaWdbiaaikdaaSqabaaak8aabaWd biaaikdaaaaaaa@3820@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mrow> <msqrt> <mn>3</mn> </msqrt> </mrow> <mn>2</mn> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeWaaOaaa8aabaWdbiaaiodaaSqabaaak8aabaWd biaaikdaaaaaaa@3821@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <msqrt> <mn>3</mn> </msqrt> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaGcaaWdaeaapeGaaG4maaWcbeaaaaa@370D@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaaGymaaWdaeaapeGaaGOmaaaaaaa@37DB@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "2",
+        "image": null
+      }
+    ],
+    "answer": "<math> <semantics> <mrow> <mfrac> <mrow> <msqrt> <mn>3</mn> </msqrt> </mrow> <mn>2</mn> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeWaaOaaa8aabaWdbiaaiodaaSqabaaak8aabaWd biaaikdaaaaaaa@3821@ </annotation> </semantics> </math>"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.4",
+    "text": "3.4: Differentiating Inverse Trigonometric Functions"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

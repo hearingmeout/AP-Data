@@ -1,0 +1,60 @@
+{
+  "id": "VR184701",
+  "type": "frq",
+  "title": "Cylinder with two resistive materials",
+  "content": {
+    "description": "",
+    "question": "Read each question carefully. Show all your work for each part of the question. The parts within the question may not have equal weight. A cylinder of length <math alttext=\"L equals 0.25 meter\" overflow=\"scroll\"><mstyle><mrow><mi>L</mi><mo>=</mo><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mn>0.25</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mtext>m</mtext></mrow></mstyle></math> and radius <math alttext=\"r equals 0.020 meter\" overflow=\"scroll\"><mstyle><mrow><mi>r</mi><mo>=</mo><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mn>0.020</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mtext>m</mtext></mrow></mstyle></math> is made of two different materials, as shown. The top half has a resistivity of <math alttext=\"rho sub 1, equals 0.46 ohm meter\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>ρ</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mn>0.46</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mi mathvariant=\"normal\">Ω</mi><mo>⋅</mo><mtext>m</mtext></mrow></mstyle></math>, and the bottom half has a resistivity of <math alttext=\"rho sub 2, equals, 0.92 ohm meter\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><msub><mrow><mi>ρ</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mn>0.92</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mi mathvariant=\"normal\">Ω</mi><mo>⋅</mo><mtext>m</mtext></mrow></mstyle></mrow></mstyle></math> . The cylinder has connection wires at the center of each end, as shown. (a) Calculate the resistance of this cylinder. (b) The cylinder from part (a) is placed into the circuit shown above in which the dashed rectangular area represents the cylinder. The rest of the circuit consists of a variable voltage source with potential difference <math alttext=\"e m f\" overflow=\"scroll\"><mstyle><mrow><mi>ε</mi></mrow></mstyle></math>, ideal meters <math alttext=\"M sub 1\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>M</mtext></mrow><mrow><mn>1</mn></mrow></msub></mrow></mstyle></math> and <math alttext=\"M sub 2\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>M</mtext></mrow><mrow><mn>2</mn></mrow></msub><mtext></mtext></mrow></mstyle></math>, switch <math alttext=\"S\" overflow=\"scroll\"><mstyle><mrow><mtext>S</mtext></mrow></mstyle></math>, and a resistor of known resistance <math alttext=\"R sub 0\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mstyle></math>. The switch is closed, and a current <math alttext=\"I\" overflow=\"scroll\"><mstyle><mrow><mi>I</mi></mrow></mstyle></math> is measured for the circuit.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Read each question carefully. Show all your work for each part of the question. The parts within the question may not have equal weight. A cylinder of length <math alttext=\"L equals 0.25 meter\" overflow=\"scroll\"><mstyle><mrow><mi>L</mi><mo>=</mo><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mn>0.25</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mtext>m</mtext></mrow></mstyle></math> and radius <math alttext=\"r equals 0.020 meter\" overflow=\"scroll\"><mstyle><mrow><mi>r</mi><mo>=</mo><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mn>0.020</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mtext>m</mtext></mrow></mstyle></math> is made of two different materials, as shown. The top half has a resistivity of <math alttext=\"rho sub 1, equals 0.46 ohm meter\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>ρ</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mn>0.46</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mi mathvariant=\"normal\">Ω</mi><mo>⋅</mo><mtext>m</mtext></mrow></mstyle></math>, and the bottom half has a resistivity of <math alttext=\"rho sub 2, equals, 0.92 ohm meter\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><msub><mrow><mi>ρ</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mn>0.92</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mi mathvariant=\"normal\">Ω</mi><mo>⋅</mo><mtext>m</mtext></mrow></mstyle></mrow></mstyle></math> . The cylinder has connection wires at the center of each end, as shown. (a) Calculate the resistance of this cylinder. (b) The cylinder from part (a) is placed into the circuit shown above in which the dashed rectangular area represents the cylinder. The rest of the circuit consists of a variable voltage source with potential difference <math alttext=\"e m f\" overflow=\"scroll\"><mstyle><mrow><mi>ε</mi></mrow></mstyle></math>, ideal meters <math alttext=\"M sub 1\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>M</mtext></mrow><mrow><mn>1</mn></mrow></msub></mrow></mstyle></math> and <math alttext=\"M sub 2\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>M</mtext></mrow><mrow><mn>2</mn></mrow></msub><mtext></mtext></mrow></mstyle></math>, switch <math alttext=\"S\" overflow=\"scroll\"><mstyle><mrow><mtext>S</mtext></mrow></mstyle></math>, and a resistor of known resistance <math alttext=\"R sub 0\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mstyle></math>. The switch is closed, and a current <math alttext=\"I\" overflow=\"scroll\"><mstyle><mrow><mi>I</mi></mrow></mstyle></math> is measured for the circuit.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_C_Electricity_and_Magnetism/VR184701.g05.png"
+      },
+      {
+        "text": "i. Which of the following indicates the measurement made by meter <math alttext=\"M sub 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>M</mtext></mrow><mrow><mn>1</mn></mrow></msub></mrow></mstyle></math>? Check all that apply._____ Potential difference across the cylinder _____ Current through the cylinder_____ Potential difference across resistor <math alttext=\"R sub 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mstyle></math> _____ Current through resistor <math alttext=\"R sub 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mstyle></math>_____ Potential difference of the voltage source _____ Current through the voltage source",
+        "image": null
+      },
+      {
+        "text": "ii. Which of the following indicates the measurement made by meter <math alttext=\"M sub 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>M</mtext></mrow><mrow><mn>2</mn></mrow></msub></mrow></mstyle></math>? Check all that apply._____ Potential difference across the cylinder _____ Current through the cylinder_____ Potential difference across resistor _____ Current through resistor_____ Potential difference of the voltage source _____ Current through the voltage source",
+        "image": null
+      },
+      {
+        "text": "(c) Derive an expression for the potential difference <math alttext=\"delta V\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi mathvariant=\"normal\">Δ</mi><mi>V</mi></mrow></mstyle></math> across the cylinder once the switch is closed. Express your answer in terms of <math alttext=\"e m f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>ε</mi></mrow></mstyle></math>, <math alttext=\"R sub 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mstyle></math>, the cylinder’s resistance <math alttext=\"R sub C\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>R</mi></mrow><mrow><mi>C</mi></mrow></msub></mrow></mstyle></math>, and physical constants, as appropriate.",
+        "image": null
+      },
+      {
+        "text": "(d) Students run an experiment with the circuit in which they measure the potential difference <math alttext=\"delta V\" overflow=\"scroll\"><mstyle><mrow><mi mathvariant=\"normal\">Δ</mi><mi>V</mi></mrow></mstyle></math> across the cylinder for several different potential differences of the variable voltage source. The data are plotted on the graph below. i. Draw a best-fit line to represent the data.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_C_Electricity_and_Magnetism/VR184701.g07.png"
+      },
+      {
+        "text": "ii. Use your best-fit line to calculate the resistance <math alttext=\"R sub 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "text": "(e)i. Identify one possible source of error in the experiment and explain how it would affect the measurement of the potential difference <math alttext=\"delta V\" overflow=\"scroll\"><mstyle><mrow><mi mathvariant=\"normal\">Δ</mi><mi>V</mi></mrow></mstyle></math> across the cylinder.",
+        "image": null
+      },
+      {
+        "text": "ii. While conducting the experiment, students notice that the measurement reading on meter <math alttext=\"M sub 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>M</mtext></mrow><mrow><mn>2</mn></mrow></msub></mrow></mstyle></math> depends on whether meter <math alttext=\"M sub 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>M</mtext></mrow><mrow><mn>1</mn></mrow></msub></mrow></mstyle></math> is in the circuit. Which of the following relationships is correct about the measurement reading on <math alttext=\"M sub 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>M</mtext></mrow><mrow><mn>2</mn></mrow></msub></mrow></mstyle></math>?_____ It is greater with meter <math alttext=\"M sub 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>M</mtext></mrow><mrow><mn>1</mn></mrow></msub></mrow></mstyle></math> in the circuit. _____ It is less with meter <math alttext=\"M sub 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>M</mtext></mrow><mrow><mn>1</mn></mrow></msub></mrow></mstyle></math> in the circuit.Explain why the reading on meter <math alttext=\"M sub 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>M</mtext></mrow><mrow><mn>2</mn></mrow></msub></mrow></mstyle></math> changes when meter <math alttext=\"M sub 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>M</mtext></mrow><mrow><mn>1</mn></mrow></msub></mrow></mstyle></math> is connected to the circuit.",
+        "image": null
+      },
+      {
+        "text": "iii. Explain how you would change the procedure to determine an experimental value for the resistance of meter <math alttext=\"M sub 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>M</mtext></mrow><mrow><mn>2</mn></mrow></msub></mrow></mstyle></math>.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.3",
+    "text": "11.3: Resistance, Resistivity, and Ohm's Law"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

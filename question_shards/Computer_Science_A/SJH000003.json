@@ -1,0 +1,41 @@
+{
+  "id": "SJH000003",
+  "type": "mcq",
+  "title": "almostEqual method - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following can be used to replace /* missing code */ so that the method will work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "return (d1 - d2) <= tolerance",
+        "image": null
+      },
+      {
+        "label": "return ((d1 + d2) / 2) <= tolerance",
+        "image": null
+      },
+      {
+        "label": "return Math.abs(d1 - d2) <= tolerance",
+        "image": null
+      },
+      {
+        "label": "return Math.abs((d1 + d2) / 2) <= tolerance",
+        "image": null
+      }
+    ],
+    "answer": "return Math.abs(d1 - d2) <= tolerance"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: `Math` Class"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

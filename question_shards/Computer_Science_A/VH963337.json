@@ -1,0 +1,41 @@
+{
+  "id": "VH963337",
+  "type": "mcq",
+  "title": "print DIG",
+  "content": {
+    "description": "Consider the following code segment, where letters is a two-dimensional (2D) array that contains possible letters. The code segment is intended to print \"DIG\".",
+    "question": "String[][] letters = {{\"A\", \"B\", \"C\"},{\"D\", \"E\", \"F\"},{\"G\", \"H\", \"I\"}};System.out.println( /* missing code */ );Which of the following could replace /* missing code */ so that the code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "letters[2][1] + letters[3][3] + letters[3][1]",
+        "image": null
+      },
+      {
+        "label": "letters[2][0] + letters[2][2] + letters[1][0]",
+        "image": null
+      },
+      {
+        "label": "letters[1][0] + letters[2][2] + letters[2][0]",
+        "image": null
+      },
+      {
+        "label": "letters[0][1] + letters[2][2] + letters[0][2]",
+        "image": null
+      }
+    ],
+    "answer": "letters[1][0] + letters[2][2] + letters[2][0]"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.11",
+    "text": "4.11: 2D Array Creation and Access"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

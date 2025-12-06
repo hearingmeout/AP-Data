@@ -1,0 +1,41 @@
+{
+  "id": "HIG000006",
+  "type": "mcq",
+  "title": "Student Class - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the state of the object myStudent as a result of executing this code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "myStudent has been initialized such that name contains the string \"Bobby\" and age is 0.",
+        "image": null
+      },
+      {
+        "label": "myStudent has been initialized such that name contains the string \"Bobby\" and age is 25.",
+        "image": null
+      },
+      {
+        "label": "myStudent has been initialized such that name is null and age is 0.",
+        "image": null
+      },
+      {
+        "label": "myStudent has been initialized such that name is null and age is 25.",
+        "image": null
+      }
+    ],
+    "answer": "myStudent has been initialized such that name contains the string \"Bobby\" and age is 0."
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.4",
+    "text": "3.4: Constructors"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

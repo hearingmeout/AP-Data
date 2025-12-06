@@ -1,0 +1,37 @@
+{
+  "id": "VR168858",
+  "type": "mcq",
+  "title": "Avoid bias in music recommendation application",
+  "content": {
+    "description": "",
+    "question": "The developers of a music-streaming application are updating the algorithm they use to recommend music to listeners. Which of the following strategies is LEAST likely to introduce bias into the application?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Making recommendations based on listening data gathered from a random sample of users of the application",
+        "image": null
+      },
+      {
+        "label": "Making recommendations based on the most frequently played songs on a local radio station",
+        "image": null
+      },
+      {
+        "label": "Making recommendations based on the music tastes of the developers of the application",
+        "image": null
+      },
+      {
+        "label": "Making recommendations based on a survey that is sent out to the 1,000 most active users of the application",
+        "image": null
+      }
+    ],
+    "answer": "Making recommendations based on listening data gathered from a random sample of users of the application"
+  },
+  "topic": {
+    "code": "5.3",
+    "text": "5.3: Computing Bias"
+  },
+  "skill": {
+    "code": "Skill 5.E",
+    "text": "Skill 5.E: Evaluate the use of computing based on legal and ethical factors."
+  }
+}

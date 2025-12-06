@@ -1,0 +1,41 @@
+{
+  "id": "VH905883",
+  "type": "mcq",
+  "title": "declare avgScore and count",
+  "content": {
+    "description": "A code segment (not shown) is intended to determine the number of players whose average score in a game exceeds 0.5. A player’s average score is stored in avgScore, and the number of players who meet the criterion is stored in the variable count.",
+    "question": "Which of the following pairs of declarations is most appropriate for the code segment described?",
+    "image": null,
+    "choices": [
+      {
+        "label": "double avgScore;boolean count;",
+        "image": null
+      },
+      {
+        "label": "double avgScore;int count;",
+        "image": null
+      },
+      {
+        "label": "int avgScore;boolean count;",
+        "image": null
+      },
+      {
+        "label": "int avgScore;int count;",
+        "image": null
+      }
+    ],
+    "answer": "double avgScore;int count;"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.2",
+    "text": "1.2: Variables and Data Types"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

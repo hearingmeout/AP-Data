@@ -1,0 +1,41 @@
+{
+  "id": "VH907198",
+  "type": "mcq",
+  "title": "min of three values",
+  "content": {
+    "description": "Consider the following description of method min.",
+    "question": "public int min(int first, int second) – Returns the lesser of its two parameters. Assume that each of the following expressions appears in a method in the same class as the method min. Assume also that the int variables p, q, and r have been properly declared and initialized. Which of the following expressions evaluates to the minimum value among p, q, and r? min(min(p, q), r) min(p, min(q, r)) min(min(p, q), p)",
+    "image": null,
+    "choices": [
+      {
+        "label": "I only",
+        "image": null
+      },
+      {
+        "label": "II only",
+        "image": null
+      },
+      {
+        "label": "I and II only",
+        "image": null
+      },
+      {
+        "label": "I, II, and III",
+        "image": null
+      }
+    ],
+    "answer": "I and II only"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Method Signatures"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

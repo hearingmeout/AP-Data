@@ -1,0 +1,41 @@
+{
+  "id": "VR813107",
+  "type": "mcq",
+  "title": "LR circuit - behavior of currents",
+  "content": {
+    "description": "",
+    "question": "A circuit consisting of two resistors <math alttext=\"R sub 1\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mtext>R</mtext><mn>1</mn></msub></mstyle></math> and <math alttext=\"R sub 2\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mtext>R</mtext><mn>2</mn></msub></mstyle></math>, an inductor, a switch, and a battery is connected as shown. Which of the following statements about the currents in the circuit is true immediately after the switch is closed?",
+    "image": "https://ap.oly.st/images/53206354d74d07903729845d5687e8ac.svg",
+    "choices": [
+      {
+        "label": "The current in <math alttext=\"R sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mtext>R</mtext><mn>1</mn></msub></math> is equal to the current in <math alttext=\"R sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mtext>R</mtext><mn>2</mn></msub></math>, because the inductor behaves as a conducting wire with zero resistance.",
+        "image": null
+      },
+      {
+        "label": "The current in <math alttext=\"R sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mtext>R</mtext><mn>1</mn></msub></math> is equal to the current in <math alttext=\"R sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mtext>R</mtext><mn>2</mn></msub></math>, because the current in the branch with the inductor is zero.",
+        "image": null
+      },
+      {
+        "label": "The current in <math alttext=\"R sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mtext>R</mtext><mn>1</mn></msub></math> is greater than the current in <math alttext=\"R sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mtext>R</mtext><mn>2</mn></msub></math>, because the inductor behaves as a conducting wire with zero resistance.",
+        "image": null
+      },
+      {
+        "label": "The current in <math alttext=\"R sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mtext>R</mtext><mn>1</mn></msub></math> is greater than the current in <math alttext=\"R sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mtext>R</mtext><mn>2</mn></msub></math>, because the current in the branch with the inductor is zero.",
+        "image": null
+      }
+    ],
+    "answer": "The current in <math alttext=\"R sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mtext>R</mtext><mn>1</mn></msub></math> is equal to the current in <math alttext=\"R sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mtext>R</mtext><mn>2</mn></msub></math>, because the current in the branch with the inductor is zero."
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.5",
+    "text": "13.5: Circuits with Resistors and Inductors (LR Circuits)"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

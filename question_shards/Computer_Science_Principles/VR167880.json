@@ -1,0 +1,37 @@
+{
+  "id": "VR167880",
+  "type": "mcq",
+  "title": "Procedure most useful in calculating an average",
+  "content": {
+    "description": "",
+    "question": "A student has a data file containing 10,000 numerical values. The student is writing a program to compute the average of the numbers contained in the file. Which of the following procedures is most likely to be useful in the student’s program?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A procedure that returns the quotient when dividing one value by another",
+        "image": null
+      },
+      {
+        "label": "A procedure that returns the sum when adding one value to another",
+        "image": null
+      },
+      {
+        "label": "A procedure that returns the sum of the values in the file",
+        "image": null
+      },
+      {
+        "label": "A procedure that returns true if the file contains any duplicate values and returns false otherwise",
+        "image": null
+      }
+    ],
+    "answer": "A procedure that returns the sum of the values in the file"
+  },
+  "topic": {
+    "code": "3.14",
+    "text": "3.14: Libraries"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

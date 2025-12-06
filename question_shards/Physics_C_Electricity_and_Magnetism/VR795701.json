@@ -1,0 +1,41 @@
+{
+  "id": "VR795701",
+  "type": "mcq",
+  "title": "Nonideal circuit set - V value if nonideal battery",
+  "content": {
+    "description": "",
+    "question": "Two more circuits are constructed according to the circuit diagram, both with ideal voltmeters, ideal ammeters, and identical resistors. One circuit has an ideal battery and the second circuit has a nonideal battery with the same <math alttext=\"e m f\" display=\"inline\" overflow=\"scroll\"><mi>emf</mi></math> as the ideal battery. How does the nonideal battery affect the voltmeter reading, and what reasoning supports the claim?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The voltmeter reading is higher with a nonideal battery. The finite internal resistance in the battery results in more current in the resistor.",
+        "image": null
+      },
+      {
+        "label": "The voltmeter reading is higher with a nonideal battery. The finite internal resistance in the battery results in more current in the voltmeter.",
+        "image": null
+      },
+      {
+        "label": "The voltmeter reading is lower with a nonideal battery. The current leaked by the battery results in less current in the resistor.",
+        "image": null
+      },
+      {
+        "label": "The voltmeter reading is lower with a nonideal battery. The nonzero internal resistance in the battery results in less current in the resistor.",
+        "image": null
+      }
+    ],
+    "answer": "The voltmeter reading is lower with a nonideal battery. The nonzero internal resistance in the battery results in less current in the resistor."
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.5",
+    "text": "11.5: Compound Direct Current Circuits"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

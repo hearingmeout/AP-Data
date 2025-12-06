@@ -1,0 +1,41 @@
+{
+  "id": "VR442180",
+  "type": "mcq",
+  "title": "Alpha and Beta classes",
+  "content": {
+    "description": "Consider the following class declarations.",
+    "question": "public class Alpha { private int answer() { return 10; } } public class Beta { public double sample() { Alpha item = new Alpha(); double temp = item.answer(); return temp * 2.0; } } Which of the following best describes why an error occurs when the classes are compiled?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The class Alpha does not have a defined constructor.",
+        "image": null
+      },
+      {
+        "label": "The class Beta must be declared as a subclass of Alpha.",
+        "image": null
+      },
+      {
+        "label": "The answer method cannot be accessed from a class other than Alpha.",
+        "image": null
+      },
+      {
+        "label": "The result of the method call item.answer() cannot be assigned to a variable of type double.",
+        "image": null
+      }
+    ],
+    "answer": "The answer method cannot be accessed from a class other than Alpha."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.5",
+    "text": "1.5: Casting and Range of Variables"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

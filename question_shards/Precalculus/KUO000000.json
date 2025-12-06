@@ -1,0 +1,41 @@
+{
+  "id": "KUO000000",
+  "type": "mcq",
+  "title": "Exponential Modeling - population regression",
+  "content": {
+    "description": "​",
+    "question": "Year20042008201220162020Population ​(millions)<math alttext=\"22.4\"><semantics><mn>22.4</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"24.3\"><semantics><mn>24.3</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"26.0\"><semantics><mn>26.0</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"27.9\"><semantics><mn>27.9</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"29.2\"><semantics><mn>29.2</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>​The table gives the population, in millions, of a certain region for selected years. An exponential regression of the form <math alttext=\"f open parentheses x close parentheses equals a times b to the power of x\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mi>a</mi><mo>·</mo><msup><mi>b</mi><mi>x</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is calculated for the five data points, where <math alttext=\"x equals 4\"><semantics><mrow><mi>x</mi><mo>=</mo><mn>4</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> represents 2004 and <math alttext=\"x equals 8\"><semantics><mrow><mi>x</mi><mo>=</mo><mn>8</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> represents 2008. Based on using the model <math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> to predict the future population, in what year will the population first reach <math alttext=\"35\"><semantics><mn>35</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> million?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​2025",
+        "image": null
+      },
+      {
+        "label": "​2030",
+        "image": null
+      },
+      {
+        "label": "​2033",
+        "image": null
+      },
+      {
+        "label": "​2037",
+        "image": null
+      }
+    ],
+    "answer": "​2030"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.5",
+    "text": "2.5: Exponential Function Context and Data Modeling"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Apply numerical results in a given mathematical or applied context."
+  }
+}

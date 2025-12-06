@@ -1,0 +1,37 @@
+{
+  "id": "VR167706",
+  "type": "mcq",
+  "title": "Assign parallel processes to optimize speed",
+  "content": {
+    "description": "A computer has two processors that are able to run in parallel. The table below indicates the amount of time it takes either processor to execute four different processes. Assume that none of the processes is dependent on any of the other processes.",
+    "question": "Process Execution Time W 20 seconds X 30 seconds Y 45 seconds Z 50 seconds A program is used to assign processes to each of the processors. Which of the following describes how the program should assign the four processes to optimize execution time?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Processes W and X should be assigned to one processor, and processes Y and Z should be assigned to the other processor.",
+        "image": null
+      },
+      {
+        "label": "Processes W and Y should be assigned to one processor, and processes X and Z should be assigned to the other processor.",
+        "image": null
+      },
+      {
+        "label": "Processes W and Z should be assigned to one processor, and processes X and Y should be assigned to the other processor.",
+        "image": null
+      },
+      {
+        "label": "Process Z should be assigned to one processor, and processes W, X, and Y should be assigned to the other processor.",
+        "image": null
+      }
+    ],
+    "answer": "Processes W and Z should be assigned to one processor, and processes X and Y should be assigned to the other processor."
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Parallel and Distributed Computing"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

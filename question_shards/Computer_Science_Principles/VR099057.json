@@ -1,0 +1,37 @@
+{
+  "id": "VR099057",
+  "type": "mcq",
+  "title": "contents of an Internet packet",
+  "content": {
+    "description": "",
+    "question": "Which of the following best explains how data is typically assembled in packets for transmission over the Internet?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Each packet contains data to be transmitted, along with metadata containing information used for routing the data.",
+        "image": null
+      },
+      {
+        "label": "Each packet contains an encrypted version of the data to be transmitted, along with metadata containing the key needed to decrypt the data.",
+        "image": null
+      },
+      {
+        "label": "Each packet contains only the metadata used to establish a direct connection so that the data can be transmitted.",
+        "image": null
+      },
+      {
+        "label": "Each packet contains multiple data files bundled together, along with metadata describing how to categorize each data file.",
+        "image": null
+      }
+    ],
+    "answer": "Each packet contains data to be transmitted, along with metadata containing information used for routing the data."
+  },
+  "topic": {
+    "code": "4.1",
+    "text": "4.1: The Internet"
+  },
+  "skill": {
+    "code": "Skill 5.A",
+    "text": "Skill 5.A: Explain how computing systems work."
+  }
+}

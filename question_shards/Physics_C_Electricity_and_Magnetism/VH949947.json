@@ -1,0 +1,45 @@
+{
+  "id": "VH949947",
+  "type": "mcq",
+  "title": "Factory specs Type I",
+  "content": {
+    "description": "Machines at a factory produce circular washers with a specified diameter. The quality control manager at the factory periodically tests a random sample of washers to be sure that greater than 90 percent of the washers are produced with the specified diameter. The null hypothesis of the test is that the proportion of all washers produced with the specified diameter is equal to 90 percent. The alternative hypothesis is that the proportion of all washers produced with the specified diameter is greater than 90 percent.",
+    "question": "Which of the following describes a Type <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>I</mtext></mrow></mstyle></math> error that could result from the test?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The test does not provide convincing evidence that the proportion is greater than 90%, but the actual proportion is greater than 90%.",
+        "image": null
+      },
+      {
+        "label": "The test does not provide convincing evidence that the proportion is greater than 90%, but the actual proportion is equal to 90%.",
+        "image": null
+      },
+      {
+        "label": "The test provides convincing evidence that the proportion is greater than 90%, but the actual proportion is equal to 90%.",
+        "image": null
+      },
+      {
+        "label": "The test provides convincing evidence that the proportion is greater than 90%, but the actual proportion is greater than 90%.",
+        "image": null
+      },
+      {
+        "label": "A Type <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>I</mtext></mrow></mstyle></math> error is not possible for this hypothesis test.",
+        "image": null
+      }
+    ],
+    "answer": "The test provides convincing evidence that the proportion is greater than 90%, but the actual proportion is equal to 90%."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.7",
+    "text": "6.7: Potential Errors When Performing Tests"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Identify key and relevant information to answer a question or solve a problem."
+  }
+}

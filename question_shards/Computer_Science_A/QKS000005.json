@@ -1,0 +1,41 @@
+{
+  "id": "QKS000005",
+  "type": "mcq",
+  "title": "double count while less than 100 -determine result",
+  "content": {
+    "description": "",
+    "question": "What is the value of count after executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "100",
+        "image": null
+      },
+      {
+        "label": "101",
+        "image": null
+      },
+      {
+        "label": "160",
+        "image": null
+      },
+      {
+        "label": "161",
+        "image": null
+      }
+    ],
+    "answer": "161"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.7",
+    "text": "2.7: `while` Loops"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

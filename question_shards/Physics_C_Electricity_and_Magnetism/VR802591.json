@@ -1,0 +1,41 @@
+{
+  "id": "VR802591",
+  "type": "mcq",
+  "title": "Magnetic field - circular arcs with switch",
+  "content": {
+    "description": "",
+    "question": "The diagram shows a small portion of a circuit. The rest of the circuit, which includes a power source, is not shown. The switch controls the current <math alttext=\"I\" display=\"inline\" overflow=\"scroll\"><mi>I</mi></math> in a circular arc section of wire with length <math alttext=\"L\" display=\"inline\" overflow=\"scroll\"><mi>L</mi></math> for Position <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> and length <math alttext=\"2 L\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mi>L</mi></math> for Position <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>. The magnetic field strength <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mi>B</mi></math> is measured at the point shown, which is at the center of the circular arcs. <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mi>B</mi></math> is twice as great with the switch in Position <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> as it is with the switch in Position <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>. What does this indicate about the currents <math alttext=\"I sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>1</mn></msub></math> and <math alttext=\"I sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>2</mn></msub></math> with the switch in positions <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> and <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>, respectively? Assume that the size of the switch is small compared to <math alttext=\"L\" display=\"inline\" overflow=\"scroll\"><mi>L</mi></math>.",
+    "image": "https://ap.oly.st/images/d6f75553f7b9b1ce33bdfb55d2f118db.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"I sub 2 equals I sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>2</mn></msub><mo>=</mo><msub><mi>I</mi><mn>1</mn></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"I sub 2 equals 2 I sub 1\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>I</mi><mn>2</mn></msub><mo>=</mo><mn>2</mn><msub><mi>I</mi><mn>1</mn></msub></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"I sub 2 equals 4 I sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>2</mn></msub><mo>=</mo><mn>4</mn><msub><mi>I</mi><mn>1</mn></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"I sub 2 equals 8 I sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>2</mn></msub><mo>=</mo><mn>8</mn><msub><mi>I</mi><mn>1</mn></msub></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"I sub 2 equals 4 I sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>2</mn></msub><mo>=</mo><mn>4</mn><msub><mi>I</mi><mn>1</mn></msub></math>"
+  },
+  "unit": {
+    "code": "12",
+    "text": "12: Magnetic Fields and Electromagnetism"
+  },
+  "topic": {
+    "code": "12.3",
+    "text": "12.3: Magnetic Fields of Current-Carrying Wires and the Biot-Savart Law"
+  },
+  "skill": {
+    "code": "2.D",
+    "text": "2.D: Predict new values or factors of change of physical quantities using functional dependence between variables."
+  }
+}

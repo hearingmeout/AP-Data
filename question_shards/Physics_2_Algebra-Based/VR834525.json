@@ -1,0 +1,41 @@
+{
+  "id": "VR834525",
+  "type": "mcq",
+  "title": "Energy conservation - particle moves from V1 to V2",
+  "content": {
+    "description": "",
+    "question": "A particle of mass <math alttext=\"m\" display=\"inline\" overflow=\"scroll\"><mi>m</mi></math> has an unknown charge. The particle is in a region of uniform electric field, represented by the equipotential lines shown in the figure. The particle is released from rest at a location with electric potential <math alttext=\"uppercase V sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>V</mi><mn>1</mn></msub></math>. It then travels toward the right, and has a speed <math alttext=\"lowercase v\" display=\"inline\" overflow=\"scroll\"><mi>v</mi></math> at the instant it is passing through a location with electric potential <math alttext=\"uppercase V sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>V</mi><mn>2</mn></msub></math>. What is the charge of the particle?",
+    "image": "https://ap.oly.st/images/a400f8d981473bcaf6ef0f0b94fd3013.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"the fraction with numerator m lowercase v squared, and denominator 2 uppercase V sub 2, end fraction\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mi>m</mi><msup><mi>v</mi><mn>2</mn></msup></mrow><mrow><mn>2</mn><msub><mi>V</mi><mn>2</mn></msub></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the negative fraction with numerator m lowercase v squared, and denominator 2 uppercase V sub 2, end fraction\" display=\"inline\" overflow=\"scroll\"><mpadded><mo>−</mo><mfrac><mrow><mi>m</mi><msup><mi>v</mi><mn>2</mn></msup></mrow><mrow><mn>2</mn><msub><mi>V</mi><mn>2</mn></msub></mrow></mfrac></mpadded></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numreator m lowercase v squared, and denominator 2 times open parenthesis, uppercase V sub 1, end sub, minus uppercase V sub 2, close parenthesis, end fraction\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mi>m</mi><msup><mi>v</mi><mn>2</mn></msup></mrow><mrow><mn>2</mn><mo stretchy=\"false\">(</mo><msub><mi>V</mi><mn>1</mn></msub><mo>−</mo><msub><mi>V</mi><mn>2</mn></msub><mo stretchy=\"false\">)</mo></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numreator m lowercase v squared, and denominator 2 times open parenthesis, uppercase V sub 2, end sub, minus uppercase V sub 1, close parenthesis, end fraction\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mi>m</mi><msup><mi>v</mi><mn>2</mn></msup></mrow><mrow><mn>2</mn><mo stretchy=\"false\">(</mo><msub><mi>V</mi><mn>2</mn></msub><mo>−</mo><msub><mi>V</mi><mn>1</mn></msub><mo stretchy=\"false\">)</mo></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the fraction with numreator m lowercase v squared, and denominator 2 times open parenthesis, uppercase V sub 1, end sub, minus uppercase V sub 2, close parenthesis, end fraction\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mi>m</mi><msup><mi>v</mi><mn>2</mn></msup></mrow><mrow><mn>2</mn><mo stretchy=\"false\">(</mo><msub><mi>V</mi><mn>1</mn></msub><mo>−</mo><msub><mi>V</mi><mn>2</mn></msub><mo stretchy=\"false\">)</mo></mrow></mfrac></math>"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Electric Force, Field, and Potential"
+  },
+  "topic": {
+    "code": "10.7",
+    "text": "10.7: Conservation of Electric Energy"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

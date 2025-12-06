@@ -1,0 +1,41 @@
+{
+  "id": "CIT000005",
+  "type": "mcq",
+  "title": "Cast double x to nearest integer - write code",
+  "content": {
+    "description": "",
+    "question": "Assume that x is a double variable with a positive value. Which of the following code segments can be used to round x to the nearest integer and store the rounded value in the variable result?",
+    "image": null,
+    "choices": [
+      {
+        "label": "int result = (int) x;",
+        "image": null
+      },
+      {
+        "label": "int result = (int) x + 0.5;",
+        "image": null
+      },
+      {
+        "label": "int result = (int)(x + 0.5);",
+        "image": null
+      },
+      {
+        "label": "int result = (int) x + (int) 0.5;",
+        "image": null
+      }
+    ],
+    "answer": "int result = (int)(x + 0.5);"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.5",
+    "text": "1.5: Casting and Range of Variables"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

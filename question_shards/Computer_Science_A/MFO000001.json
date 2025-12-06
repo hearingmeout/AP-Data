@@ -1,0 +1,41 @@
+{
+  "id": "MFO000001",
+  "type": "mcq",
+  "title": "static variable in Shoe class - determine result",
+  "content": {
+    "description": "",
+    "question": "What is printed as a result of executing this code segment if it is executed before any other instances of Shoe are constructed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "0",
+        "image": null
+      },
+      {
+        "label": "1",
+        "image": null
+      },
+      {
+        "label": "2",
+        "image": null
+      },
+      {
+        "label": "3",
+        "image": null
+      }
+    ],
+    "answer": "2"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.13",
+    "text": "1.13: Object Creation and Storage (Instantiation)"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

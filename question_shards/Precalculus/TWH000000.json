@@ -1,0 +1,41 @@
+{
+  "id": "TWH000000",
+  "type": "mcq",
+  "title": "Model Construction - linear regression",
+  "content": {
+    "description": "Year",
+    "question": "US Federal Education Spending(billions of dollars)2011<math alttext=\"dollar sign 112.8\"><semantics><mrow><mo>$</mo><mn>112.8</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>2012<math alttext=\"dollar sign 109.3\"><semantics><mrow><mo>$</mo><mn>109.3</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>2013<math alttext=\"dollar sign 105.1\"><semantics><mrow><mo>$</mo><mn>105.1</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>2014<math alttext=\"dollar sign 104.5\"><semantics><mrow><mo>$</mo><mn>104.5</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>2015<math alttext=\"dollar sign 99.0\"><semantics><mrow><mo>$</mo><mn>99.0</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>2016<math alttext=\"dollar sign 99.3\"><semantics><mrow><mo>$</mo><mn>99.3</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>2017<math alttext=\"dollar sign 97.7\"><semantics><mrow><mo>$</mo><mn>97.7</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ​The table gives amounts of United States federal education spending, in billions of dollars, for selected years. A linear regression is used to construct a function model <math alttext=\"S\"><mi>S</mi></math> that models the spending, in billions of dollars, over the given years. If <math alttext=\"t equals 1\"><mi>t</mi><mo>=</mo><mn>1</mn></math> corresponds to 2011, <math alttext=\"t equals 2\"><mi>t</mi><mo>=</mo><mn>2</mn></math> corresponds to 2012, and this pattern continues, which of the following defines function <math alttext=\"S\"><mi>S</mi></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"S open parentheses t close parentheses equals negative 2.55 t plus 114.157\"><mi>S</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mo>-</mo><mn>2.55</mn><mi>t</mi><mo>+</mo><mn>114.157</mn></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"S open parentheses t close parentheses equals negative 2.55 t plus 5239.657\"><mi>S</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mo>-</mo><mn>2.55</mn><mi>t</mi><mo>+</mo><mn>5239.657</mn></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"S open parentheses t close parentheses equals negative 8.099 t plus 113.820\"><mi>S</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mo>-</mo><mn>8.099</mn><mi>t</mi><mo>+</mo><mn>113.820</mn></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"S open parentheses t close parentheses equals negative 0.369 t plus 42.308\"><mi>S</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mo>-</mo><mn>0.369</mn><mi>t</mi><mo>+</mo><mn>42.308</mn></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"S open parentheses t close parentheses equals negative 2.55 t plus 114.157\"><mi>S</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mo>-</mo><mn>2.55</mn><mi>t</mi><mo>+</mo><mn>114.157</mn></math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Polynomial and Rational Functions"
+  },
+  "topic": {
+    "code": "1.14",
+    "text": "1.14: Function Model Construction and Application"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

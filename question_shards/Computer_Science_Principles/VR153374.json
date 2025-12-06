@@ -1,0 +1,37 @@
+{
+  "id": "VR153374",
+  "type": "mcq",
+  "title": "Boolean expression equivalent to table",
+  "content": {
+    "description": "Which of the following expressions are equivalent to the value of expression as shown in the table?",
+    "question": "Select two answers.",
+    "image": null,
+    "choices": [
+      {
+        "label": "(NOT input1) OR (NOT input2)",
+        "image": null
+      },
+      {
+        "label": "(NOT input1) AND (NOT input2)",
+        "image": null
+      },
+      {
+        "label": "NOT (input1 OR input2)",
+        "image": null
+      },
+      {
+        "label": "NOT (input1 AND input2)",
+        "image": null
+      }
+    ],
+    "answer": "(NOT input1) OR (NOT input2)"
+  },
+  "topic": {
+    "code": "3.5",
+    "text": "3.5: Boolean Expressions"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

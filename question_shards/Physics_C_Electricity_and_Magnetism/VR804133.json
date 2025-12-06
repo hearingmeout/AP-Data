@@ -1,0 +1,41 @@
+{
+  "id": "VR804133",
+  "type": "mcq",
+  "title": "Simple circuits - does S1 or S2 light the bulb",
+  "content": {
+    "description": "",
+    "question": "The circuit shown contains a battery <math alttext=\"B\" overflow=\"scroll\"><mi mathvariant=\"normal\">B</mi></math>, a lightbulb <math alttext=\"L\" overflow=\"scroll\"><mi mathvariant=\"normal\">L</mi></math>, a resistor <math alttext=\"R\" overflow=\"scroll\"><mi mathvariant=\"normal\">R</mi></math>, and two switches <math alttext=\"S sub 1\" overflow=\"scroll\"><msub><mtext>S</mtext><mtext>1</mtext></msub></math> and <math alttext=\"S sub 2\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mtext>S</mtext><mtext>2</mtext></msub></mstyle></math>. Both switches are initially open. Which switch must be closed in order for the lightbulb to light, and what evidence or reasoning supports the claim?",
+    "image": "https://ap.oly.st/images/dae963d5fdf8b1f4daeb64b08981b0db.svg",
+    "choices": [
+      {
+        "label": "Switch <math alttext=\"1\" overflow=\"scroll\"><mn>1</mn></math> must be closed. The resistor is not part of a closed electrical loop if Switch <math alttext=\"1\" overflow=\"scroll\"><mn>1</mn></math> is open.",
+        "image": null
+      },
+      {
+        "label": "Switch <math alttext=\"1\" overflow=\"scroll\"><mn>1</mn></math> must be closed. The battery is not part of a closed electrical loop if Switch <math alttext=\"1\" overflow=\"scroll\"><mn>1</mn></math> is open.",
+        "image": null
+      },
+      {
+        "label": "Switch <math alttext=\"2\" overflow=\"scroll\"><mn>2</mn></math> must be closed. The bulb is not in a loop by itself if Switch <math alttext=\"2\" overflow=\"scroll\"><mn>2</mn></math> is open.",
+        "image": null
+      },
+      {
+        "label": "Switch <math alttext=\"2\" overflow=\"scroll\"><mn>2</mn></math> must be closed. The bulb does not have two paths to the battery if Switch <math alttext=\"2\" overflow=\"scroll\"><mn>2</mn></math> is open.",
+        "image": null
+      }
+    ],
+    "answer": "Switch <math alttext=\"1\" overflow=\"scroll\"><mn>1</mn></math> must be closed. The battery is not part of a closed electrical loop if Switch <math alttext=\"1\" overflow=\"scroll\"><mn>1</mn></math> is open."
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.2",
+    "text": "11.2: Simple Circuits"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

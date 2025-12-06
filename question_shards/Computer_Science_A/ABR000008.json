@@ -1,0 +1,41 @@
+{
+  "id": "ABR000008",
+  "type": "mcq",
+  "title": "Parcel API Specification - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Based on the class specification, which of the following is a true statement about Parcel objects?",
+    "image": null,
+    "choices": [
+      {
+        "label": "status and location are attributes; updateStatus and updateLocation are behaviors.",
+        "image": null
+      },
+      {
+        "label": "status and location are behaviors; updateStatus and updateLocation are attributes.",
+        "image": null
+      },
+      {
+        "label": "status and updateStatus are attributes; location and updateLocation are behaviors.",
+        "image": null
+      },
+      {
+        "label": "status and updateStatus are behaviors; location and updateLocation are attributes.",
+        "image": null
+      }
+    ],
+    "answer": "status and location are attributes; updateStatus and updateLocation are behaviors."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.7",
+    "text": "1.7: Application Program Interface (API) and Libraries"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

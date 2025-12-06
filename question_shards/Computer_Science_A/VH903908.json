@@ -1,0 +1,41 @@
+{
+  "id": "VH903908",
+  "type": "mcq",
+  "title": "Print One Two Three Four",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "System.out.print(\"One\"); // Line 1System.out.print(\"Two\"); // Line 2System.out.print(\"Three\"); // Line 3System.out.print(\"Four\"); // Line 4The code segment is intended to produce the following output, but does not work as intended.OneTwoThreeFourWhich of the following changes can be made so that the code segment produces the intended output?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Changing print to println in line 1 only",
+        "image": null
+      },
+      {
+        "label": "Changing print to println in line 2 only",
+        "image": null
+      },
+      {
+        "label": "Changing print to println in line 3 only",
+        "image": null
+      },
+      {
+        "label": "Changing print to println in lines 1, 2, 3, and 4",
+        "image": null
+      }
+    ],
+    "answer": "Changing print to println in line 2 only"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

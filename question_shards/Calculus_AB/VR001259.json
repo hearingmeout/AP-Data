@@ -1,0 +1,41 @@
+{
+  "id": "VR001259",
+  "type": "mcq",
+  "title": "Representations - Maclaurin Series",
+  "content": {
+    "description": "",
+    "question": "<math alttext=\"the sum, from n equals 0, to infinity of, open parenthesis, negative 1, close parenthesis, to the n power, times the fraction with numerator pi raised to the 2 n plus 1 power, and denominator, open parenthesis, 2 n, close parenthesis, factorial, end fraction, equals pi minus the fraction with numerator pi cubed, and denominator 2 factorial, end fraction, plus the fraction with numerator pi to the fifth power, and denominator 4 factorial, end fraction, minus the fraction with numerator pi to the seventh power, and denominator 6 factorial, end fraction, plus, dot dot dot \" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mrow><munderover><mo>∑</mo><mrow><mi>n</mi><mo>=</mo><mn>0</mn></mrow><mrow><mi>∞</mi></mrow></munderover><msup><mrow><mo>(</mo><mrow><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mrow><mi>n</mi></mrow></msup><mrow><mfrac><mrow><msup><mrow><mi>π</mi></mrow><mrow><mn>2</mn><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msup></mrow><mrow><mrow><mo>(</mo><mn>2</mn><mi>n</mi><mo>)</mo></mrow><mo>!</mo></mrow></mfrac></mrow></mrow><mo>=</mo><mi>π</mi><mo>−</mo><mfrac><mrow><msup><mrow><mi>π</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow><mrow><mn>2</mn><mo>!</mo></mrow></mfrac><mo>+</mo><mfrac><mrow><msup><mrow><mi>π</mi></mrow><mrow><mn>5</mn></mrow></msup></mrow><mrow><mn>4</mn><mo>!</mo></mrow></mfrac><mo>−</mo><mfrac><mrow><msup><mrow><mi>π</mi></mrow><mrow><mn>7</mn></mrow></msup></mrow><mrow><mn>6</mn><mo>!</mo></mrow></mfrac><mo>+</mo><mo>⋯</mo></mrow></mstyle></math> is",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"negative pi\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>−</mo><mi>π</mi></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"negative 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>−</mo><mn>1</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "0",
+        "image": null
+      },
+      {
+        "label": "divergent",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"negative pi\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>−</mo><mi>π</mi></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.14",
+    "text": "10.14: (BC ONLY) Finding Taylor or Maclaurin Series for a Function"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

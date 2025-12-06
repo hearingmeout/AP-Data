@@ -1,0 +1,45 @@
+{
+  "id": "VH991214",
+  "type": "mcq",
+  "title": "Flow and runoff",
+  "content": {
+    "description": "A scientist claims that there is a linear relationship between a lake’s flow rate and its runoff factor. The scientist collected data and used the data to test the claim that there is a linear relationship at a significance level of <math alttext=\"alpha equals 0.05\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>α</mi><mo>=</mo><mn>0.05</mn></mrow></mstyle></math>. The scientist tested the following hypotheses.",
+    "question": "<math alttext=\"H sub 0: beta sub 1 equals 0. H sub a: beta sub 1 is not equal to 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtable><mtr><mtd><msub><mrow><mtext>H</mtext></mrow><mrow><mn>0</mn></mrow></msub><mo>:</mo><msub><mrow><mi>β</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mn>0</mn></mtd></mtr><mtr><mtd><msub><mrow><mtext>H</mtext></mrow><mrow><mtext>a</mtext></mrow></msub><mo>:</mo><msub><mrow><mi>β</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>≠</mo><mn>0</mn></mtd></mtr></mtable></mrow></mstyle></math> The scientist found a <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value of 0.02 for the test. Which of the following is a correct conclusion about the scientist’s claim?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The null hypothesis is rejected since <math alttext=\"0.02 is less than 0.05\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.02</mn><mo>&lt;</mo><mn>0.05</mn></mrow></mstyle></math>. There is sufficient statistical evidence to suggest that there is a linear relationship between a lake’s flow rate and runoff factor.",
+        "image": null
+      },
+      {
+        "label": "The null hypothesis is not rejected since <math alttext=\"0.02 is less than 0.05\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.02</mn><mo>&lt;</mo><mn>0.05</mn></mrow></mstyle></math>. There is sufficient evidence to suggest that there is a linear relationship between a lake’s flow rate and runoff factor.",
+        "image": null
+      },
+      {
+        "label": "The null hypothesis is rejected since <math alttext=\"0.02 is less than 0.05\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.02</mn><mo>&lt;</mo><mn>0.05</mn></mrow></mstyle></math>. There is not sufficient evidence to suggest that there is a linear relationship between a lake’s flow rate and runoff factor.",
+        "image": null
+      },
+      {
+        "label": "The null hypothesis is not rejected since <math alttext=\"0.02 is less than 0.05\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.02</mn><mo>&lt;</mo><mn>0.05</mn></mrow></mstyle></math>. There is not sufficient evidence to suggest that there is a linear relationship between a lake’s flow rate and runoff factor.",
+        "image": null
+      },
+      {
+        "label": "The null hypothesis is accepted since <math alttext=\"0.02 is less than 0.05\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.02</mn><mo>&lt;</mo><mn>0.05</mn></mrow></mstyle></math>. There is sufficient evidence to suggest that there is not a linear relationship between a lake’s flow rate and runoff factor.",
+        "image": null
+      }
+    ],
+    "answer": "The null hypothesis is rejected since <math alttext=\"0.02 is less than 0.05\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.02</mn><mo>&lt;</mo><mn>0.05</mn></mrow></mstyle></math>. There is sufficient statistical evidence to suggest that there is a linear relationship between a lake’s flow rate and runoff factor."
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Inference for Quantitative Data-Slopes"
+  },
+  "topic": {
+    "code": "9.5",
+    "text": "9.5: Carrying Out a Test for the Slope of a Regression Model"
+  },
+  "skill": {
+    "code": "Skill 4.E",
+    "text": "Skill 4.E: Justify a claim using a decision based on significance tests."
+  }
+}

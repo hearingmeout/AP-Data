@@ -1,0 +1,41 @@
+{
+  "id": "VH906285",
+  "type": "mcq",
+  "title": "cast to int before and after subtraction",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "double x = (int) (5.5 - 2.5);double y = (int) 5.5 - 2.5;System.out.println(x - y);What is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "-0.5",
+        "image": null
+      },
+      {
+        "label": "0.0",
+        "image": null
+      },
+      {
+        "label": "0.5",
+        "image": null
+      },
+      {
+        "label": "1.0",
+        "image": null
+      }
+    ],
+    "answer": "0.5"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.5",
+    "text": "1.5: Casting and Range of Variables"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

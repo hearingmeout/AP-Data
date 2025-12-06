@@ -1,0 +1,41 @@
+{
+  "id": "GML000003",
+  "type": "mcq",
+  "title": "Circumference of a circle - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following variable declarations are most appropriate to replace /* missing declarations */ in the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "int pi = 3.14159; int diam = 1.5; final int circ;",
+        "image": null
+      },
+      {
+        "label": "final int pi = 3.14159; int diam = 1.5; int circ;",
+        "image": null
+      },
+      {
+        "label": "final double pi = 3.14159; double diam = 1.5; double circ;",
+        "image": null
+      },
+      {
+        "label": "final double pi = 3.14159; final double diam = 1.5; final double circ = 0.0;",
+        "image": null
+      }
+    ],
+    "answer": "final double pi = 3.14159; double diam = 1.5; double circ;"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.2",
+    "text": "1.2: Variables and Data Types"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

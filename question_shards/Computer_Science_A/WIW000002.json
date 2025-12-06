@@ -1,0 +1,28 @@
+{
+  "id": "WIW000002",
+  "type": "frq",
+  "title": "Flight Seating Chart - FRQ",
+  "content": {
+    "description": "",
+    "question": "Complete method upgrade. /** * Moves the passenger with the highest loyalty rating seated in * a row greater than upgradeRow to chart[upgradeRow][upgradeCol]. * Preconditions: upgradeRow and upgradeCol are valid row and * column indices, respectively, in chart. * chart[upgradeRow][upgradeCol] is null. * There is at least one passenger in a row * greater than upgradeRow. */ public void upgrade(int upgradeRow, int upgradeCol)",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Complete method upgrade. /** * Moves the passenger with the highest loyalty rating seated in * a row greater than upgradeRow to chart[upgradeRow][upgradeCol]. * Preconditions: upgradeRow and upgradeCol are valid row and * column indices, respectively, in chart. * chart[upgradeRow][upgradeCol] is null. * There is at least one passenger in a row * greater than upgradeRow. */ public void upgrade(int upgradeRow, int upgradeCol)",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.14",
+    "text": "1.14: Calling Instance Methods"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

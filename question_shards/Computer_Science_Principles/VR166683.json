@@ -1,0 +1,37 @@
+{
+  "id": "VR166683",
+  "type": "mcq",
+  "title": "Character in a list of strings",
+  "content": {
+    "description": "Assume that both lists and strings are indexed starting with index 1.",
+    "question": "The list wordList has the following contents.[\"abc\", \"def\", \"ghi\", \"jkl\"]Let myWord be the element at index 3 of wordList. Let myChar be the character at index 2 of myWord. What is the value of myChar ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "\"e\"",
+        "image": null
+      },
+      {
+        "label": "\"f\"",
+        "image": null
+      },
+      {
+        "label": "\"h\"",
+        "image": null
+      },
+      {
+        "label": "\"i\"",
+        "image": null
+      }
+    ],
+    "answer": "\"h\""
+  },
+  "topic": {
+    "code": "3.2",
+    "text": "3.2: Data Abstraction"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Generalize data sources through variables."
+  }
+}

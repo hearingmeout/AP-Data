@@ -1,0 +1,41 @@
+{
+  "id": "KRY000003",
+  "type": "mcq",
+  "title": "onesDigit tensDigit - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following can be used to replace /* missing code */ so that the code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "int onesDigit = num % 10; int tensDigit = num / 10;",
+        "image": null
+      },
+      {
+        "label": "int onesDigit = num / 10; int tensDigit = num % 10;",
+        "image": null
+      },
+      {
+        "label": "int onesDigit = 10 / num; int tensDigit = 10 % num;",
+        "image": null
+      },
+      {
+        "label": "int onesDigit = num % 100; int tensDigit = num / 100;",
+        "image": null
+      }
+    ],
+    "answer": "int onesDigit = num % 10; int tensDigit = num / 10;"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

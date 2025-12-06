@@ -1,0 +1,41 @@
+{
+  "id": "VR442166",
+  "type": "mcq",
+  "title": "mystery call to get 11",
+  "content": {
+    "description": "Consider the following method.",
+    "question": "public static int mystery(boolean a, boolean b, boolean c) { int answer = 7; if (!a) { answer += 1; } if (b) { answer += 2; } if (c) { answer += 4; } return answer; } Which of the following method calls will return the value 11 ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "mystery(true, true, true)",
+        "image": null
+      },
+      {
+        "label": "mystery(true, false, true)",
+        "image": null
+      },
+      {
+        "label": "mystery(false, true, false)",
+        "image": null
+      },
+      {
+        "label": "mystery(false, false, true)",
+        "image": null
+      }
+    ],
+    "answer": "mystery(true, false, true)"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.6",
+    "text": "1.6: Compound Assignment Operators"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

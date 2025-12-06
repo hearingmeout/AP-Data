@@ -1,0 +1,41 @@
+{
+  "id": "KZO000007",
+  "type": "mcq",
+  "title": "Loop to processes digits of num- describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the value printed by this code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A count of the number of digits in num",
+        "image": null
+      },
+      {
+        "label": "The average of the digits in num",
+        "image": null
+      },
+      {
+        "label": "The sum of the digits in num",
+        "image": null
+      },
+      {
+        "label": "Whether num is evenly divisible by 10",
+        "image": null
+      }
+    ],
+    "answer": "The sum of the digits in num"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.9",
+    "text": "2.9: Implementing Selection and Iteration Algorithms"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

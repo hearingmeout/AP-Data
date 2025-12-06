@@ -1,0 +1,45 @@
+{
+  "id": "FT546013",
+  "type": "mcq",
+  "title": "Confidence interval for proportion of male births",
+  "content": {
+    "description": "Jessica wanted to determine if the proportion of males for a certain species of laboratory animal is less than 0.5. She was given access to appropriate records that contained information on 12,000 live births for the species. To construct a 95 percent confidence interval, she selected a simple random sample of 100 births from the records and found that 31 births were male.",
+    "question": "Based on the study, which of the following expressions is an approximate 95 percent confidence interval estimate for p, the proportion of males in the 12,000 live births?",
+    "image": null,
+    "choices": [
+      {
+        "label": "0.31 plus or minus 1.96 times the square root of the fraction with numerator 0.31 times 0.69 and denominator 12,000",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_C_Electricity_and_Magnetism/05d6e9bcc059f1f53a5f0b4ef9aa9f94.png"
+      },
+      {
+        "label": "0.31 plus or minus 1.645 times the square root of the fraction with numerator 0.31 times 0.69 and denominator 12,000",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_C_Electricity_and_Magnetism/0022e2eb6b7d5e8312ec984e4cfd8886.png"
+      },
+      {
+        "label": "0.31 plus or minus 1.96 times the square root of the fraction with numerator 0.5 times 0.5 and denominator 12,000",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_C_Electricity_and_Magnetism/fbb838955972f8c8016f48979b0fcabf.png"
+      },
+      {
+        "label": "0.31 plus or minus 1.645 times the square root of the fraction with numerator 0.5 times 0.5 and denominator 100",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_C_Electricity_and_Magnetism/c3afcc416a79d8afcacf873bb9f8fb1f.png"
+      },
+      {
+        "label": "0.31 plus or minus 1.96 times the square root of the fraction with numerator 0.31 times 0.69 and denominator 100",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_C_Electricity_and_Magnetism/88c391bf92eb02a39595a75d39b61461.png"
+      }
+    ],
+    "answer": "0.31 plus or minus 1.96 times the square root of the fraction with numerator 0.31 times 0.69 and denominator 100"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.2",
+    "text": "6.2: Constructing a Confidence Interval for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Construct a confidence interval, provided conditions for inference are met."
+  }
+}

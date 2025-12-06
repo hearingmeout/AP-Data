@@ -1,0 +1,41 @@
+{
+  "id": "YKV000001",
+  "type": "mcq",
+  "title": "Methods returning same value - describe conditions",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the conditions under which methodX and methodY return the same value?",
+    "image": null,
+    "choices": [
+      {
+        "label": "When a and b are both even",
+        "image": null
+      },
+      {
+        "label": "When a and b are both odd",
+        "image": null
+      },
+      {
+        "label": "When a % b is equal to zero",
+        "image": null
+      },
+      {
+        "label": "When a % b is equal to one",
+        "image": null
+      }
+    ],
+    "answer": "When a % b is equal to zero"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

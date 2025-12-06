@@ -1,0 +1,45 @@
+{
+  "id": "FT562336",
+  "type": "mcq",
+  "title": "Explain residual plot of pain relief hours",
+  "content": {
+    "description": "",
+    "question": "Which of the following would be revealed by a plot of the residuals of the regression versus the dose?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The sum of the residuals is less than 0.",
+        "image": null
+      },
+      {
+        "label": "The sum of the residuals is greater than 0.",
+        "image": null
+      },
+      {
+        "label": "There are outliers associated with the lower doses.",
+        "image": null
+      },
+      {
+        "label": "The variation in the hours of pain relief is not the same across the doses.",
+        "image": null
+      },
+      {
+        "label": "There is a positive linear relationship between the residuals and the dose.",
+        "image": null
+      }
+    ],
+    "answer": "The variation in the hours of pain relief is not the same across the doses."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.7",
+    "text": "2.7: Residuals"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Construct numerical or graphical representations of distributions."
+  }
+}

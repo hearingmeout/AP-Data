@@ -1,0 +1,41 @@
+{
+  "id": "FT659826",
+  "type": "mcq",
+  "title": "mystery with int array instance variable s1",
+  "content": {
+    "description": "The question refer to the following data field and method.",
+    "question": "private int[] arr; // precondition: arr.length > 0 public void mystery() { int sl = 0; int s2 = 0; for (int k = 0; k < arr.length; k++) { int num = arr[k]; if ((num > 0) && (num % 2 == 0)) sl += num; else if (num < 0) s2 += num; } System.out.println(s1); System.out.println(s2); } Which of the following best describes the value of s1 output by the method mystery ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The sum of all positive values in arr",
+        "image": null
+      },
+      {
+        "label": "The sum of all positive even values in arr",
+        "image": null
+      },
+      {
+        "label": "The sum of all positive odd values in arr",
+        "image": null
+      },
+      {
+        "label": "The sum of all values greater than 2 in arr",
+        "image": null
+      }
+    ],
+    "answer": "The sum of all positive even values in arr"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implementing Array Algorithms"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

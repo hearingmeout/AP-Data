@@ -1,0 +1,37 @@
+{
+  "id": "FT535634",
+  "type": "mcq",
+  "title": "Infinite repeat until loop",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "Which of the following replacements for <MISSING CONDITION> will result in an infinite loop?",
+    "image": "https://ap.oly.st/images/cb9a4f38643ca8e400b7da1d1fa7db0a.png",
+    "choices": [
+      {
+        "label": "j = 6",
+        "image": null
+      },
+      {
+        "label": "j ≥ 6",
+        "image": null
+      },
+      {
+        "label": "j = 7",
+        "image": null
+      },
+      {
+        "label": "j > 7",
+        "image": null
+      }
+    ],
+    "answer": "j = 6"
+  },
+  "topic": {
+    "code": "3.8",
+    "text": "3.8: Iteration"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

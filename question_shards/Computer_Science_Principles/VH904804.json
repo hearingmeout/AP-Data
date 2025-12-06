@@ -1,0 +1,37 @@
+{
+  "id": "VH904804",
+  "type": "mcq",
+  "title": "Error in AnyPairs procedure",
+  "content": {
+    "description": "",
+    "question": "For which of the following procedure calls does the procedure NOT return the intended value?",
+    "image": null,
+    "choices": [
+      {
+        "label": "AnyPairs (\"bat\", \"cat\", \"rat\")",
+        "image": null
+      },
+      {
+        "label": "AnyPairs (\"bat\", \"bat\", \"rat\")",
+        "image": null
+      },
+      {
+        "label": "AnyPairs (\"bat\", \"cat\", \"bat\")",
+        "image": null
+      },
+      {
+        "label": "AnyPairs (\"bat\", \"cat\", \"cat\")",
+        "image": null
+      }
+    ],
+    "answer": "AnyPairs (\"bat\", \"cat\", \"bat\")"
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Identifying and Correcting Errors"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Identify and correct errors in algorithms and programs, including error discovery through testing."
+  }
+}

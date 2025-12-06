@@ -1,0 +1,44 @@
+{
+  "id": "VR252103",
+  "type": "frq",
+  "title": "Multi-focus - worker exercise bias simulation",
+  "content": {
+    "description": "",
+    "question": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations.A physiologist is interested in studying the exercise habits of workers from a certain large city. The physiologist visited a gym in the city and asked members of the gym to respond to the question, “Do you usually exercise before you go to work?”(a) Explain how the physiologist’s sampling method might have introduced bias and describe how the bias might affect the point estimate of <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>, the proportion of all workers from the city who would respond “yes” to the question.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations.A physiologist is interested in studying the exercise habits of workers from a certain large city. The physiologist visited a gym in the city and asked members of the gym to respond to the question, “Do you usually exercise before you go to work?”(a) Explain how the physiologist’s sampling method might have introduced bias and describe how the bias might affect the point estimate of <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>, the proportion of all workers from the city who would respond “yes” to the question.",
+        "image": null
+      },
+      {
+        "text": "Suppose that <math alttext=\"22%\" overflow=\"scroll\"><mstyle><mrow><mn>22</mn><mo>%</mo></mrow></mstyle></math> of workers from the city exercise before going to work. Let <math alttext=\"E\" overflow=\"scroll\"><mstyle><mrow><mi>E</mi></mrow></mstyle></math> represent the number of workers in a random sample of ten workers from the city who exercise before going to work. The graph shows the probability distribution of <math alttext=\"E\" overflow=\"scroll\"><mstyle><mrow><mi>E</mi></mrow></mstyle></math>. (b) Calculate and interpret the expected value of <math alttext=\"E\" overflow=\"scroll\"><mstyle><mrow><mi>E</mi></mrow></mstyle></math>.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Statistics/VR252103.g02.png"
+      },
+      {
+        "text": "(c) Describe a simulation process that could be conducted to estimate the value of <math alttext=\"the probability of, open parenthesis, E is greater than or equal to 4, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>P</mi><mrow><mo>(</mo><mi>E</mi><mo>≥</mo><mn>4</mn><mo>)</mo></mrow></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "text": "A manager at a company in the city is interested in examining whether the <math alttext=\"2,700\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn><mtext>,700</mtext></mrow></mstyle></math> employees of the company have different exercise habits from the overall population of workers from the city. A random sample of <math alttext=\"50\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>50</mn></mrow></mstyle></math> employees will be selected from the company and each employee will be asked to report whether they usually exercise before going to work.(d) If the researcher uses a stratified random sampling procedure to select the sample, identify an effective variable on which to stratify. Explain your reasoning.",
+        "image": null
+      },
+      {
+        "text": "Assume the conditions for inference are met. A <math alttext=\"90\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>90</mn></mrow></mstyle></math> percent confidence interval for the proportion of all employees at this company who would report that they usually exercise before going to work was computed to be <math alttext=\"0.260 plus or minus 0.102\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.260</mn><mo>±</mo><mn>0.102</mn></mrow></mstyle></math>.(e) Does the confidence interval provide convincing statistical evidence that employees at this company have different exercise habits from the overall population of workers from the city? Justify your answer.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Collecting Data"
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Random Sampling and Data Collection"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Describe an appropriate method for gathering and representing data."
+  }
+}

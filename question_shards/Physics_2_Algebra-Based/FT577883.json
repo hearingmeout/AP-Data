@@ -1,0 +1,41 @@
+{
+  "id": "FT577883",
+  "type": "mcq",
+  "title": "Determine if lightbulb is ohmic with data",
+  "content": {
+    "description": "",
+    "question": "Current Through Bulb (A) Intensity of Light from the Bulb (<math> <semantics> <mrow> <mtext>W</mtext><mo>/</mo><msup> <mtext>m</mtext> <mtext>2</mtext> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaae4vaiaac+cacaqGTbWaaWbaaSqabeaacaqGYaaaaaaa@3953@</annotation> </semantics> </math>) 5 74 10 298 15 675 20 1200 40 4800 A student wishes to determine if a particular lightbulb is an ohmic resistor. The student assumes that the intensity of light from the bulb is directly proportional to the power it dissipates. The student measures the light intensity at one location near the bulb and the current through the bulb as the voltage across the bulb is varied. The data are shown above. Based on the data, is the bulb ohmic, and why?",
+    "image": null,
+    "choices": [
+      {
+        "label": "No, because the power is a linear function of the current.",
+        "image": null
+      },
+      {
+        "label": "No, because the power is a quadratic function of the current.",
+        "image": null
+      },
+      {
+        "label": "Yes, because the power is a linear function of the current.",
+        "image": null
+      },
+      {
+        "label": "Yes, because the power is a quadratic function of the current.",
+        "image": null
+      }
+    ],
+    "answer": "Yes, because the power is a quadratic function of the current."
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.3",
+    "text": "11.3: Resistance, Resistivity, and Ohm's Law"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

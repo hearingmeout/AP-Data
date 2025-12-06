@@ -1,0 +1,45 @@
+{
+  "id": "VH925382",
+  "type": "mcq",
+  "title": "Empirically speaking",
+  "content": {
+    "description": "The mean and standard deviation of the sample data collected on continuous variable <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> are <math alttext=\"negative 0.25\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>0.25</mn></mrow></mrow></mstyle></math> and 0.03, respectively. The following table shows the relative frequencies of the data in the given intervals.",
+    "question": "Interval Relative Frequency <math alttext=\"negative 0.34 is less than or equal to x which is less than negative 0.31\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>−</mo><mn>0.34</mn><mo>≤</mo><mi>x</mi><mo>&lt;</mo><mrow><mo>−</mo><mn>0.31</mn></mrow></mrow></mstyle></math> 0.02 <math alttext=\"negative 0.31 is less than or equal to x which is less than negative 0.28\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>0.31</mn><mo>≤</mo><mi>x</mi><mo>&lt;</mo><mrow><mo>−</mo><mn>0.28</mn></mrow></mrow></mrow></mstyle></math> 0.15 <math alttext=\" negative 0.28 is less than or equal to x which is less than negative 0.25\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>0.28</mn><mo>≤</mo><mi>x</mi><mo>&lt;</mo><mrow><mo>−</mo><mn>0.25</mn></mrow></mrow></mrow></mstyle></math> 0.33 <math alttext=\" negative 0.25 is less than or equal to x which is less than negative 0.22\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>0.25</mn><mo>≤</mo><mi>x</mi><mo>&lt;</mo><mrow><mo>−</mo><mn>0.22</mn></mrow></mrow></mrow></mstyle></math> 0.36 <math alttext=\"negative 0.22 is less than or equal to x which is less than negative 0.19\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>0.22</mn><mo>≤</mo><mi>x</mi><mo>&lt;</mo><mrow><mo>−</mo><mn>0.19</mn></mrow></mrow></mrow></mstyle></math> 0.11 <math alttext=\"negative 0.19 is less than or equal to x which is less than negative 0.16\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>0.19</mn><mo>≤</mo><mi>x</mi><mo>&lt;</mo><mrow><mo>−</mo><mn>0.16</mn></mrow></mrow></mrow></mstyle></math> 0.03 Based on the table, do the data support the use of a normal model to approximate population characteristics?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Yes, because the sum of the relative frequencies is 1.00.",
+        "image": null
+      },
+      {
+        "label": "Yes, because the distribution of relative frequencies is very close to the empirical rule for normal models.",
+        "image": null
+      },
+      {
+        "label": "No, because the values are negative and normal models are used for positive values.",
+        "image": null
+      },
+      {
+        "label": "No, because the distribution of relative frequencies is very far from the empirical rule for normal models.",
+        "image": null
+      },
+      {
+        "label": "No, because the sample size and the population parameters are not known.",
+        "image": null
+      }
+    ],
+    "answer": "Yes, because the distribution of relative frequencies is very close to the empirical rule for normal models."
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Sampling Distributions"
+  },
+  "topic": {
+    "code": "5.2",
+    "text": "5.2: The Normal Distribution, Revisited"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Describe probability distributions."
+  }
+}

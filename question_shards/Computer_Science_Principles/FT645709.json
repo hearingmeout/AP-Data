@@ -1,0 +1,37 @@
+{
+  "id": "FT645709",
+  "type": "mcq",
+  "title": "Shortening strings by replacing TH and IS",
+  "content": {
+    "description": "",
+    "question": "For which of the following strings is it NOT possible to use byte pair encoding to shorten the string’s length?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Open quotation, BANANA, close quotation",
+        "image": "https://ap.oly.st/images/f74e3e545759875c0dd68acad32dda73.JPG"
+      },
+      {
+        "label": "Open quotation, LEVEL, underscore, UP, close quotation",
+        "image": "https://ap.oly.st/images/b2b9cca3871a8f2f51694e61f3d665de.JPG"
+      },
+      {
+        "label": "Open quotation, MEET, underscore, ME, underscore, LATER, close quotation",
+        "image": "https://ap.oly.st/images/560971c23a9dda8bda4c7f86eb5d8a61.JPG"
+      },
+      {
+        "label": "Open quotation, NEITHER, underscore, HERE, underscore, NOR, underscore, THERE, close quotation",
+        "image": "https://ap.oly.st/images/e3010fa4b696aa808e6f997116ed0658.JPG"
+      }
+    ],
+    "answer": "Open quotation, LEVEL, underscore, UP, close quotation"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Data Compression"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

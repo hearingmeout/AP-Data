@@ -1,0 +1,41 @@
+{
+  "id": "AUQ000000",
+  "type": "mcq",
+  "title": "Exponential Functions - equivalent sequence",
+  "content": {
+    "description": "",
+    "question": "​The first term in a geometric sequence is <math alttext=\"g subscript 1 equals 5\"><semantics><mrow><msub><mi>g</mi><mn>1</mn></msub><mo>=</mo><mn>5</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. For <math alttext=\"n greater or equal than 2\"><semantics><mrow><mi>n</mi><mo>≥</mo><mn>2</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, the terms of the geometric sequence are given by <math alttext=\"g subscript n equals 3 times g subscript open parentheses n minus 1 close parentheses end subscript\"><semantics><mrow><msub><mi>g</mi><mi>n</mi></msub><mo>=</mo><mn>3</mn><mo>·</mo><msub><mi>g</mi><mfenced><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced></msub></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. For which of the following functions is <math alttext=\"g subscript n equals f open parentheses n close parentheses\"><semantics><mrow><msub><mi>g</mi><mi>n</mi></msub><mo>=</mo><mi>f</mi><mfenced><mi>n</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> for positive integer values of <math alttext=\"n\"><semantics><mi>n</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"f open parentheses x close parentheses equals 3 times 5 to the power of n\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>3</mn><mo>·</mo><msup><mn>5</mn><mi>n</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"f open parentheses x close parentheses equals 3 times 5 to the power of open parentheses n minus 1 close parentheses end exponent\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>3</mn><mo>·</mo><msup><mn>5</mn><mfenced><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"f open parentheses x close parentheses equals 5 times 3 to the power of n\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>5</mn><mo>·</mo><msup><mn>3</mn><mi>n</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"f open parentheses x close parentheses equals 5 times 3 to the power of open parentheses n minus 1 close parentheses end exponent\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>5</mn><mo>·</mo><msup><mn>3</mn><mfenced><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"f open parentheses x close parentheses equals 5 times 3 to the power of open parentheses n minus 1 close parentheses end exponent\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>5</mn><mo>·</mo><msup><mn>3</mn><mfenced><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: Exponential Functions"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Express functions, equations, or expressions in analytically equivalent forms that are useful in a given mathematical or applied context."
+  }
+}

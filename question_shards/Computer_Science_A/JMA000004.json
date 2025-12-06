@@ -1,0 +1,41 @@
+{
+  "id": "JMA000004",
+  "type": "mcq",
+  "title": "Fruit class - design",
+  "content": {
+    "description": "",
+    "question": "Which of the following are the most appropriate replacements for (missing instance variable) and (missing method)?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Replacing (missing instance variable) with - quantity : String and replacing (missing method) with + getQuantity() : String",
+        "image": null
+      },
+      {
+        "label": "Replacing (missing instance variable) with - quantity : int and replacing (missing method) with + getQuantity() : int",
+        "image": null
+      },
+      {
+        "label": "Replacing (missing instance variable) with - quantity : int and replacing (missing method) with + getQuantity() : String",
+        "image": null
+      },
+      {
+        "label": "Replacing (missing instance variable) with - quantity : String and replacing (missing method) with + getQuantity() : int",
+        "image": null
+      }
+    ],
+    "answer": "Replacing (missing instance variable) with - quantity : int and replacing (missing method) with + getQuantity() : int"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: Abstraction and Program Design"
+  },
+  "skill": {
+    "code": "1.A",
+    "text": "1.A: Determine an appropriate program design to solve a problem or accomplish a task."
+  }
+}

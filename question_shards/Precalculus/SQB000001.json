@@ -1,0 +1,41 @@
+{
+  "id": "SQB000001",
+  "type": "mcq",
+  "title": "Logarithm Properties - Equivalent Form",
+  "content": {
+    "description": "",
+    "question": "Which of the following expressions is equivalent to <math alttext=\"log subscript 3 open parentheses x to the power of 5 close parentheses\"><msub><mi>log</mi><mn>3</mn></msub><mfenced><msup><mi>x</mi><mn>5</mn></msup></mfenced></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"log subscript 3 5 plus log subscript 3 x\"><msub><mi>log</mi><mn>3</mn></msub><mn>5</mn><mo>+</mo><msub><mi>log</mi><mn>3</mn></msub><mi>x</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"log subscript 3 5 times log subscript 3 x\"><msub><mi>log</mi><mn>3</mn></msub><mn>5</mn><mo>·</mo><msub><mi>log</mi><mn>3</mn></msub><mi>x</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"5 log subscript 3 x\"><mn>5</mn><msub><mi>log</mi><mn>3</mn></msub><mi>x</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"fraction numerator log subscript 3 x over denominator log subscript 3 5 end fraction\"><mfrac><mrow><msub><mi>log</mi><mn>3</mn></msub><mi>x</mi></mrow><mrow><msub><mi>log</mi><mn>3</mn></msub><mn>5</mn></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"5 log subscript 3 x\"><mn>5</mn><msub><mi>log</mi><mn>3</mn></msub><mi>x</mi></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.12",
+    "text": "2.12: Logarithmic Function Manipulation"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Express functions, equations, or expressions in analytically equivalent forms that are useful in a given mathematical or applied context."
+  }
+}

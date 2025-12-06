@@ -1,0 +1,37 @@
+{
+  "id": "VR165580",
+  "type": "mcq",
+  "title": "Nested conditionals to set grade",
+  "content": {
+    "description": "A numeric test score is to be converted to a letter grade of A, B, or C according to the following rules: A score greater than 90 is considered an A; a score between 80 and 90, inclusive, is considered a B; and any other score is considered a C.",
+    "question": "Which of the following code segments will assign the correct letter grade to grade based on the value of the variable score ?",
+    "image": "https://ap.oly.st/images/1b62b9d33e83039f4aa021260655faba.png",
+    "choices": [
+      {
+        "label": "II only",
+        "image": null
+      },
+      {
+        "label": "I and II only",
+        "image": null
+      },
+      {
+        "label": "I and III only",
+        "image": null
+      },
+      {
+        "label": "II and III only",
+        "image": null
+      }
+    ],
+    "answer": "II and III only"
+  },
+  "topic": {
+    "code": "3.7",
+    "text": "3.7: Nested Conditionals"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

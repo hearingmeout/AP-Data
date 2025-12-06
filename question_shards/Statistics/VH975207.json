@@ -1,0 +1,45 @@
+{
+  "id": "VH975207",
+  "type": "mcq",
+  "title": "Egg sales",
+  "content": {
+    "description": "A study was conducted to investigate whether the mean price of a dozen eggs was different for two different grocery stores, Store A and Store B, in a large city. A carton of one dozen eggs from each store was randomly selected for each of 35 weeks, for a total sample size of 35 cartons from each store. The mean price of the 35 cartons was recorded for each store. The difference in the mean carton price for the stores will be calculated.",
+    "question": "Which of the following is the appropriate test for the study?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A one-sample <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math>-test for a population proportion",
+        "image": null
+      },
+      {
+        "label": "A one-sample <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-test for a sample mean",
+        "image": null
+      },
+      {
+        "label": "A matched-pairs <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-test for a mean difference",
+        "image": null
+      },
+      {
+        "label": "A two-sample <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-test for a difference between population means",
+        "image": null
+      },
+      {
+        "label": "A two-sample <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math>-test for a difference between population proportions",
+        "image": null
+      }
+    ],
+    "answer": "A two-sample <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-test for a difference between population means"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.8",
+    "text": "7.8: Setting Up a Test for the Difference of Two Population Means"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Identify an appropriate inference method for significance tests."
+  }
+}

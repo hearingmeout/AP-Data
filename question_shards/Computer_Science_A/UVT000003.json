@@ -1,0 +1,41 @@
+{
+  "id": "UVT000003",
+  "type": "mcq",
+  "title": "Values printed by recursive mystery method",
+  "content": {
+    "description": "",
+    "question": "What is printed as a result of the call mystery(10, 0)?",
+    "image": null,
+    "choices": [
+      {
+        "label": "10 8 6 4",
+        "image": null
+      },
+      {
+        "label": "10 8 6",
+        "image": null
+      },
+      {
+        "label": "6 8 10",
+        "image": null
+      },
+      {
+        "label": "4 6 8 10",
+        "image": null
+      }
+    ],
+    "answer": "4 6 8 10"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.16",
+    "text": "4.16: Recursion"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VR846572",
+  "type": "mcq",
+  "title": "Power - new power when emf is doubled",
+  "content": {
+    "description": "",
+    "question": "A resistor is connected to a battery of <math alttext=\"e m f\" display=\"inline\" overflow=\"scroll\"><mi>emf</mi></math> <math alttext=\"uppercase script E\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi></math> in a closed circuit, and the total power dissipated in the resistor is <math alttext=\"P\" display=\"inline\" overflow=\"scroll\"><mi>P</mi></math>. The battery is then replaced by a second battery having <math alttext=\"e m f\" display=\"inline\" overflow=\"scroll\"><mi>emf</mi></math> <math alttext=\"2 uppercase script E\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mi>Ɛ</mi></math>. When the resistor is connected to the second battery, is the power dissipated equal to <math alttext=\"2 P\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mi>P</mi></math> or greater than <math alttext=\"2 P\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mi>P</mi></math>? What reasoning supports the claim?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Equal to <math alttext=\"2 P\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mi>P</mi></math>. The power dissipated is proportional to the potential difference, which doubles.",
+        "image": null
+      },
+      {
+        "label": "Equal to <math alttext=\"2 P\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mi>P</mi></math>. The power dissipated is proportional to current, which doubles.",
+        "image": null
+      },
+      {
+        "label": "Greater than <math alttext=\"2 P\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mi>P</mi></math>. The power dissipated increases exponentially with current and potential difference, both of which double.",
+        "image": null
+      },
+      {
+        "label": "Greater than <math alttext=\"2 P\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mi>P</mi></math>. The power dissipated is proportional to current times potential difference, both of which double.",
+        "image": null
+      }
+    ],
+    "answer": "Greater than <math alttext=\"2 P\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mi>P</mi></math>. The power dissipated is proportional to current times potential difference, both of which double."
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.4",
+    "text": "11.4: Electric Power"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "FT551175",
+  "type": "frq",
+  "title": "Inference - restaurant discount program mistake",
+  "content": {
+    "description": "",
+    "question": "Directions: Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations.To increase business, the owner of a restaurant is running a promotion in which a customer’s bill can be randomly selected to receive a discount. When a customer’s bill is printed, a program in the cash register randomly determines whether the customer will receive a discount on the bill. The program was written to generate a discount with a probability of 0.2, that is, giving 20 percent of the bills a discount in the long run. However, the owner is concerned that the program has a mistake that results in the program not generating the intended long-run proportion of 0.2.The owner selected a random sample of bills and found that only 15 percent of them received discounts. A confidence interval for p, the proportion of bills that will receive a discount in the long run, is 0.15 ± 0.06. All conditions for inference were met.Consider the confidence interval 0.15 ± 0.06.Does the confidence interval provide convincing statistical evidence that the program is not working as intended? Justify your answer.Does the confidence interval provide convincing statistical evidence that the program generates the discount with a probability of 0.2 ? Justify your answer.A second random sample of bills was taken that was four times the size of the original sample. In the second sample 15 percent of the bills received the discount.Determine the value of the margin of error based on the second sample of bills that would be used to compute an interval for p with the same confidence level as that of the original interval.Based on the margin of error in part (b) that was obtained from the second sample, what do you conclude about whether the program is working as intended? Justify your answer.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Directions: Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations.To increase business, the owner of a restaurant is running a promotion in which a customer’s bill can be randomly selected to receive a discount. When a customer’s bill is printed, a program in the cash register randomly determines whether the customer will receive a discount on the bill. The program was written to generate a discount with a probability of 0.2, that is, giving 20 percent of the bills a discount in the long run. However, the owner is concerned that the program has a mistake that results in the program not generating the intended long-run proportion of 0.2.The owner selected a random sample of bills and found that only 15 percent of them received discounts. A confidence interval for p, the proportion of bills that will receive a discount in the long run, is 0.15 ± 0.06. All conditions for inference were met.Consider the confidence interval 0.15 ± 0.06.Does the confidence interval provide convincing statistical evidence that the program is not working as intended? Justify your answer.Does the confidence interval provide convincing statistical evidence that the program generates the discount with a probability of 0.2 ? Justify your answer.A second random sample of bills was taken that was four times the size of the original sample. In the second sample 15 percent of the bills received the discount.Determine the value of the margin of error based on the second sample of bills that would be used to compute an interval for p with the same confidence level as that of the original interval.Based on the margin of error in part (b) that was obtained from the second sample, what do you conclude about whether the program is working as intended? Justify your answer.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.2",
+    "text": "6.2: Constructing a Confidence Interval for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Construct a confidence interval, provided conditions for inference are met."
+  }
+}

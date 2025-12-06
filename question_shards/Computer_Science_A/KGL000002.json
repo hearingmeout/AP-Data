@@ -1,0 +1,41 @@
+{
+  "id": "KGL000002",
+  "type": "mcq",
+  "title": "Remove negative numbers from ArrayList - condition",
+  "content": {
+    "description": "",
+    "question": "The code segment is intended to remove all negative values from numbers. Which of the following best describes the conditions in which the code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The code segment works as intended for all possible contents of numbers.",
+        "image": null
+      },
+      {
+        "label": "The code segment works as intended only when negative numbers are not in adjacent positions in numbers.",
+        "image": null
+      },
+      {
+        "label": "The code segment works as intended only when numbers is sorted.",
+        "image": null
+      },
+      {
+        "label": "The code segment works as intended only when there are no duplicate values in numbers.",
+        "image": null
+      }
+    ],
+    "answer": "The code segment works as intended only when negative numbers are not in adjacent positions in numbers."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VR000183",
+  "type": "mcq",
+  "title": "Electrolysis representation volume error",
+  "content": {
+    "description": "<math alttext=\"2 H 2 O liquid reacts to produce 2 H 2 gas plus O 2 gas\" overflow=\"scroll\"><mrow><mn>2</mn><msub><mrow><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mstyle><mrow><mtext>H</mtext></mrow></mstyle></mrow><mrow><mn>2</mn></mrow></msub><mtext>O(</mtext><mi>l</mi><mtext>)</mtext><mo>→</mo><mn>2</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><msub><mrow><mtext>H</mtext></mrow><mrow><mn>2</mn></mrow></msub><mtext>(</mtext><mi>g</mi><mtext>)</mtext><mo>+</mo><msub><mrow><mtext>O</mtext></mrow><mrow><mn>2</mn></mrow></msub><mtext>(</mtext><mi>g</mi><mtext>)</mtext></mrow></math>",
+    "question": "The reaction in which <math alttext=\"H 2 O liquid\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>H</mtext></mrow><mrow><mn>2</mn></mrow></msub><mtext>O</mtext><mo>(</mo><mi>l</mi><mo>)</mo></mrow></mstyle></math> is decomposed into <math alttext=\"H 2 gas\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>H</mtext></mrow><mrow><mn>2</mn></mrow></msub><mo>(</mo><mi>g</mi><mo>)</mo></mrow></mstyle></math> and <math alttext=\"O 2 gas\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>O</mtext></mrow><mrow><mn>2</mn></mrow></msub><mo>(</mo><mi>g</mi><mo>)</mo></mrow></mstyle></math> is thermodynamically unfavorable (<math alttext=\"delta G naught is greater than 0\" overflow=\"scroll\"><mstyle><mrow><mi mathvariant=\"normal\">Δ</mi><mi>G</mi><mi>°</mi><mo>&gt;</mo><mn>0</mn></mrow></mstyle></math>). However, an electrolytic cell, such as the one represented above, can be used to make the reaction occur. Which of the following identifies a flaw in the representation?",
+    "image": "https://ap.oly.st/images/cff13ac223df18d4a6f2165f77160dc3.png",
+    "choices": [
+      {
+        "label": "Oxidation is occurring at the anode.",
+        "image": null
+      },
+      {
+        "label": "The equation is not correctly balanced.",
+        "image": null
+      },
+      {
+        "label": "Electrical energy is needed for the reaction to proceed.",
+        "image": null
+      },
+      {
+        "label": "The volumes of collected gas in each tube should not be the same.",
+        "image": null
+      }
+    ],
+    "answer": "The volumes of collected gas in each tube should not be the same."
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Thermodynamics and Electrochemistry"
+  },
+  "topic": {
+    "code": "9.7",
+    "text": "9.7: Coupled Reactions"
+  },
+  "skill": {
+    "code": "4.D",
+    "text": "4.D: Explain the degree to which a model or representation describes the connection between particulate-level properties and macroscopic properties."
+  }
+}

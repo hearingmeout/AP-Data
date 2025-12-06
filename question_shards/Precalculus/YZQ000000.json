@@ -1,0 +1,41 @@
+{
+  "id": "YZQ000000",
+  "type": "mcq",
+  "title": "Polynomials - Binomial Theorem",
+  "content": {
+    "description": "",
+    "question": "​A balanced coin with one side heads (<math alttext=\"H\"><mi>H</mi></math>) and the other side tails (<math alttext=\"T\"><mi>T</mi></math>) is repeatedly flipped, and the results are recorded. The coefficients in the expansion of <math alttext=\"open parentheses H plus T close parentheses to the power of n\"><msup><mfenced><mrow><mi>H</mi><mo>+</mo><mi>T</mi></mrow></mfenced><mi>n</mi></msup></math> give the number of ways to get a particular combination of heads and tails for <math alttext=\"n\"><mi>n</mi></math> flips of the coin. For example, in the expansion of <math alttext=\"open parentheses H plus T close parentheses to the power of 7\"><msup><mfenced><mrow><mi>H</mi><mo>+</mo><mi>T</mi></mrow></mfenced><mn>7</mn></msup></math>, the term <math alttext=\"21 H squared T to the power of 5\"><mn>21</mn><msup><mi>H</mi><mn>2</mn></msup><msup><mi>T</mi><mn>5</mn></msup></math> means there are <math alttext=\"21\"><mn>21</mn></math> ways to get exactly <math alttext=\"2\"><mn>2</mn></math> heads and <math alttext=\"5\"><mn>5</mn></math> tails when flipping a coin <math alttext=\"7\"><mn>7</mn></math> times. How many ways are there to get exactly <math alttext=\"2\"><mn>2</mn></math> heads and <math alttext=\"4\"><mn>4</mn></math> tails when flipping a balanced coin <math alttext=\"6\"><mn>6</mn></math> times?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"6\"><mn>6</mn></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"15\"><mn>15</mn></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"20\"><mn>20</mn></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"48\"><mn>48</mn></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"15\"><mn>15</mn></math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Polynomial and Rational Functions"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: Equivalent Representations of Polynomial and Rational Expressions"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Apply numerical results in a given mathematical or applied context."
+  }
+}

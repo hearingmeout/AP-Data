@@ -1,0 +1,41 @@
+{
+  "id": "GNL000006",
+  "type": "mcq",
+  "title": "checkIndices returns true - inital conditions",
+  "content": {
+    "description": "",
+    "question": "Which of the following method calls will return the value true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "checkIndices(table, 4, 5)",
+        "image": null
+      },
+      {
+        "label": "checkIndices(table, 4, 6)",
+        "image": null
+      },
+      {
+        "label": "checkIndices(table, 5, 4)",
+        "image": null
+      },
+      {
+        "label": "checkIndices(table, 5, 6)",
+        "image": null
+      }
+    ],
+    "answer": "checkIndices(table, 4, 5)"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.11",
+    "text": "4.11: 2D Array Creation and Access"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

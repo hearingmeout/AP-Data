@@ -1,0 +1,41 @@
+{
+  "id": "VR914681",
+  "type": "mcq",
+  "title": "Doppler - moving speaker and 3 observers at X Y",
+  "content": {
+    "description": "A loudspeaker moving to the right with a speed <math alttext=\"v\" display=\"inline\" overflow=\"scroll\"><mi>v</mi></math> is emitting sound in both the forward and backward directions, as shown in the figure. Point <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">X</mi></math> is located to the left of the speaker, point <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Y</mi></math> is located to the right of the speaker, and the sound emitted by the speaker has a rest frequency of <math alttext=\"f sub R\" display=\"inline\" overflow=\"scroll\"><msub><mi>f</mi><mi>R</mi></msub></math>. Three observers, not shown in the figure, have the following positions and velocities.",
+    "question": "Observer <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> is at Point <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">X</mi></math> and running to the right at speed <math alttext=\"v\" display=\"inline\" overflow=\"scroll\"><mi>v</mi></math>.Observer <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> is at Point <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">X</mi></math> and running to the right at speed <math alttext=\"2 v\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mi>v</mi></math>.Observer <math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mn>3</mn></math> is at Point <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Y</mi></math> and running to the left at speed <math alttext=\"v\" display=\"inline\" overflow=\"scroll\"><mi>v</mi></math>.Which of the following correctly compares <math alttext=\"f sub R\" display=\"inline\" overflow=\"scroll\"><msub><mi>f</mi><mi>R</mi></msub></math> and the frequencies <math alttext=\"f sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>f</mi><mn>1</mn></msub></math>, <math alttext=\"f sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>f</mi><mn>2</mn></msub></math>, and <math alttext=\"f sub 3\" display=\"inline\" overflow=\"scroll\"><msub><mi>f</mi><mn>3</mn></msub></math> heard by observers <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>, <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>, and <math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mn>3</mn></math>, respectively?",
+    "image": "https://ap.oly.st/images/e6922797df5cb9de45d94c4af22de22f.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"f sub 2, end sub, is greater than, open parenthesis, f sub 1, end sub, equals, f sub 3, end sub, close parenthesis, which is greater than, f sub R, end sub\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>f</mi><mn>2</mn></msub><mo>&gt;</mo><mrow><mo>(</mo><msub><mi>f</mi><mn>1</mn></msub><mo>=</mo><msub><mi>f</mi><mn>3</mn></msub><mo>)</mo></mrow><mo>&gt;</mo><msub><mi>f</mi><mi>R</mi></msub></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f sub 3, end sub, is greater than, f sub 2, end sub, which is greater than, open parenthesis, f sub 1, end sub, equals, f sub R, end sub, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>f</mi><mn>3</mn></msub><mo>&gt;</mo><msub><mi>f</mi><mn>2</mn></msub><mo>&gt;</mo><mrow><mo>(</mo><msub><mi>f</mi><mn>1</mn></msub><mo>=</mo><msub><mi>f</mi><mi>R</mi></msub><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f sub 3, end sub, is greater than, f sub 2, end sub, which is greater than, f sub 1, end sub, which is greater than f sub R, end sub\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>f</mi><mn>3</mn></msub><mo>&gt;</mo><msub><mi>f</mi><mn>2</mn></msub><mo>&gt;</mo><msub><mi>f</mi><mn>1</mn></msub><mo>&gt;</mo><msub><mi>f</mi><mi>R</mi></msub></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f sub 3, end sub, is greater than, f sub R, end sub, which is greater than, open parenthesis, f sub 1, end sub, equals, f sub 2, end sub, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>f</mi><mn>3</mn></msub><mo>&gt;</mo><msub><mi>f</mi><mi>R</mi></msub><mo>&gt;</mo><mrow><mo>(</mo><msub><mi>f</mi><mn>1</mn></msub><mo>=</mo><msub><mi>f</mi><mn>2</mn></msub><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"f sub 3, end sub, is greater than, f sub 2, end sub, which is greater than, open parenthesis, f sub 1, end sub, equals, f sub R, end sub, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>f</mi><mn>3</mn></msub><mo>&gt;</mo><msub><mi>f</mi><mn>2</mn></msub><mo>&gt;</mo><mrow><mo>(</mo><msub><mi>f</mi><mn>1</mn></msub><mo>=</mo><msub><mi>f</mi><mi>R</mi></msub><mo>)</mo></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "14",
+    "text": "14: Waves, Sound, and Physical Optics"
+  },
+  "topic": {
+    "code": "14.5",
+    "text": "14.5: The Doppler Effect"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

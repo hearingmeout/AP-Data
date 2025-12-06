@@ -1,0 +1,41 @@
+{
+  "id": "KXJ000009",
+  "type": "mcq",
+  "title": "print 70 using getValue method - determine result",
+  "content": {
+    "description": "",
+    "question": "Which of the following code segments, when appearing in another method in the same class as getValue, will print the value 70?",
+    "image": null,
+    "choices": [
+      {
+        "label": "int[] arr = {40, 30, 20, 10, 0}; System.out.println(getValue(arr, 1, 2));",
+        "image": null
+      },
+      {
+        "label": "int[] arr = {50, 40, 30, 20, 10}; System.out.println(getValue(arr, 1, 2));",
+        "image": null
+      },
+      {
+        "label": "int arr = {40, 30, 20, 10, 0}; System.out.println(getValue(arr, 2, 1));",
+        "image": null
+      },
+      {
+        "label": "int arr = {50, 40, 30, 20, 10}; System.out.println(getValue(arr, 2, 1));",
+        "image": null
+      }
+    ],
+    "answer": "int[] arr = {50, 40, 30, 20, 10}; System.out.println(getValue(arr, 1, 2));"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Array Creation and Access"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

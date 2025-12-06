@@ -1,0 +1,41 @@
+{
+  "id": "VR187064",
+  "type": "mcq",
+  "title": "Representations - Local Linear Approximation",
+  "content": {
+    "description": "",
+    "question": "The graph of <math alttext=\"f prime\" overflow=\"scroll\"><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup></mrow></math>, the derivative of the function <math alttext=\"f\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math>, is shown above. If <math alttext=\"f of 4 equals negative 1\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>4</mn><mo>)</mo></mrow><mo>=</mo><mrow><mo>−</mo><mn>1</mn></mrow></mrow></math>, what is the approximation for <math alttext=\"f of 4.5\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>4.5</mn><mo>)</mo></mrow></mrow></math> using the line tangent to the graph of <math alttext=\"f\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> at <math alttext=\"x equals 4\" overflow=\"scroll\"><mrow><mi>x</mi><mo>=</mo><mn>4</mn></mrow></math> ?",
+    "image": "https://ap.oly.st/images/3aecf4c289e392dcc679ef1b29898fae.png",
+    "choices": [
+      {
+        "label": "<math alttext=\"negative 4\" overflow=\"scroll\"><mstyle><mrow><mo>−</mo><mn>4</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"negative 1\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>1</mn></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"6\" overflow=\"scroll\"><mstyle><mrow><mn>6</mn></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"2\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Contextual Applications of Differentiation"
+  },
+  "topic": {
+    "code": "4.6",
+    "text": "4.6: Approximating Values of a Function Using Local Linearity and Linearization"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Identify mathematical information from graphical, numerical, analytical, and/or verbal representations."
+  }
+}

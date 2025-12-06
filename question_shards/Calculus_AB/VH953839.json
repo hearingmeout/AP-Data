@@ -1,0 +1,41 @@
+{
+  "id": "VH953839",
+  "type": "mcq",
+  "title": "Justification - Logistic Model with Diff Eq",
+  "content": {
+    "description": "",
+    "question": "The number of fish in a lake is modeled by the function <math alttext=\"F\" display=\"inline\" overflow=\"scroll\"><mrow><mi>F</mi></mrow></math> that satisfies the logistic differential equation <math alttext=\"the derivative of F, with respect to t, equals, 0.04 F times, open parenthesis, 1 minus the fraction F over 5000, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>d</mi><mi>F</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mn>0.04</mn><mi>F</mi><mrow><mo>(</mo><mn>1</mn><mo>−</mo><mfrac><mrow><mi>F</mi></mrow><mrow><mn>5000</mn></mrow></mfrac><mo>)</mo></mrow></mrow></mstyle></math>, where <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math> is the time in months and <math alttext=\"F of 0, equals 2000\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>F</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>=</mo><mn>2000</mn></mrow></mstyle></math>. What is <math alttext=\"the limit as t approaches infinity, of, F of t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>t</mi><mo>→</mo><mi>∞</mi></mrow></munder><mi>F</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"10,000\" display=\"inline\" overflow=\"scroll\"><mrow><mn>10</mn><mtext>,000</mtext></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"5000\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>5000</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2500\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>2500</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2000\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>2000</mn></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"5000\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>5000</mn></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.9",
+    "text": "7.9: (BC ONLY) Logistic Models with Differential Equations"
+  },
+  "skill": {
+    "code": "Skill 3.F",
+    "text": "Skill 3.F: Explain the meaning of mathematical solutions in context."
+  }
+}

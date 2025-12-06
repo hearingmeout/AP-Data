@@ -1,0 +1,41 @@
+{
+  "id": "VR442161",
+  "type": "mcq",
+  "title": "count A in str",
+  "content": {
+    "description": "Consider the following method, which is intended to count the number of times the letter \"A\" appears in the string str.",
+    "question": "public static int countA(String str) { int count = 0; while (str.length() > 0) { int pos = str.indexOf(\"A\"); if (pos >= 0) { count++; /* missing code */ } else { return count; } } return count; } Which of the following should be used to replace /* missing code */ so that method countA will work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "str = str.substring(0, pos + 1);",
+        "image": null
+      },
+      {
+        "label": "str = str.substring(pos - 1);",
+        "image": null
+      },
+      {
+        "label": "str = str.substring(pos);",
+        "image": null
+      },
+      {
+        "label": "str = str.substring(pos + 1);",
+        "image": null
+      }
+    ],
+    "answer": "str = str.substring(pos + 1);"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VH941612",
+  "type": "mcq",
+  "title": "equivalent output from for loops",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "for (int k = 1; k <= 7; k += 2){System.out.print(k);}Which of the following code segments will produce the same output as the code segment above?",
+    "image": null,
+    "choices": [
+      {
+        "label": "for (int k = 0; k < 7; k += 2){System.out.print(k);}",
+        "image": null
+      },
+      {
+        "label": "for (int k = 0; k <= 8; k += 2){System.out.print(k + 1);}",
+        "image": null
+      },
+      {
+        "label": "for (int k = 1; k < 7; k += 2){System.out.print(k + 1);}",
+        "image": null
+      },
+      {
+        "label": "for (int k = 1; k <= 8; k += 2){System.out.print(k);}",
+        "image": null
+      }
+    ],
+    "answer": "for (int k = 1; k <= 8; k += 2){System.out.print(k);}"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: `for` Loops"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

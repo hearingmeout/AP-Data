@@ -1,0 +1,41 @@
+{
+  "id": "VR804117",
+  "type": "mcq",
+  "title": "Current density - J equals ar-squared from 0 to R",
+  "content": {
+    "description": "",
+    "question": "The cross section of a conducting cylinder has a radius <math alttext=\"uppercase R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math>, as shown in the figure. The cylinder has a current parallel to its central axis and with a nonuniform current density <math alttext=\"J of lowercase r, equals a times lowercase r squared\" display=\"inline\" overflow=\"scroll\"><mi>J</mi><mrow><mo>(</mo><mi>r</mi><mo>)</mo></mrow><mo>=</mo><mi>a</mi><msup><mi>r</mi><mn>2</mn></msup></math>, where <math alttext=\"lowercase r\" display=\"inline\" overflow=\"scroll\"><mi>r</mi></math> is the distance from the central axis and <math alttext=\"a\" display=\"inline\" overflow=\"scroll\"><mi>a</mi></math> is a constant. Which of the following integrals is the total current in the cylinder?",
+    "image": "https://ap.oly.st/images/29268d484eb57f18cc2dcf95ba1b149a.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"the integral from 0 to uppercase R, of, open parenthesis, a times lowercase r squared, close parenthesis, d lowercase r\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><munderover><mo>∫</mo><mn>0</mn><mi>R</mi></munderover><mrow><mo>(</mo><mi>a</mi><msup><mi>r</mi><mn>2</mn></msup><mo>)</mo></mrow><mi>d</mi><mi>r</mi></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the integral from 0 to uppercase R, of, open parenthesis, 2 pi a times lowercase r cubed, close parenthesis, d lowercase r\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><munderover><mo>∫</mo><mn>0</mn><mi>R</mi></munderover><mrow><mo>(</mo><mn>2</mn><mi>π</mi><mi>a</mi><msup><mi>r</mi><mn>3</mn></msup><mo>)</mo></mrow><mi>d</mi><mi>r</mi></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the integral from 0 to uppercase R, of, open parenthesis, pi a times lowercase r to the fourth power, close parenthesis, d lowercase r\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><munderover><mo>∫</mo><mn>0</mn><mi>R</mi></munderover><mrow><mo>(</mo><mi>π</mi><mi>a</mi><msup><mi>r</mi><mn>4</mn></msup><mo>)</mo></mrow><mi>d</mi><mi>r</mi></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the integral from 0 to uppercase R, of, open parenthesis, 2 pi a times uppercase R squared, times lowercase r, close parenthesis, d lowercase r\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><munderover><mo>∫</mo><mn>0</mn><mi>R</mi></munderover><mrow><mo>(</mo><mn>2</mn><mi>π</mi><mi>a</mi><msup><mi>R</mi><mn>2</mn></msup><mi>r</mi><mo>)</mo></mrow><mi>d</mi><mi>r</mi></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the integral from 0 to uppercase R, of, open parenthesis, 2 pi a times lowercase r cubed, close parenthesis, d lowercase r\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><munderover><mo>∫</mo><mn>0</mn><mi>R</mi></munderover><mrow><mo>(</mo><mn>2</mn><mi>π</mi><mi>a</mi><msup><mi>r</mi><mn>3</mn></msup><mo>)</mo></mrow><mi>d</mi><mi>r</mi></mstyle></math>"
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.1",
+    "text": "11.1: Electric Current"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

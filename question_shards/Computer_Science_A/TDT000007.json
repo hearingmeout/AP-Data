@@ -1,0 +1,41 @@
+{
+  "id": "TDT000007",
+  "type": "mcq",
+  "title": "Calling static getTax method - determine result",
+  "content": {
+    "description": "",
+    "question": "What, if anything, is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "8.0",
+        "image": null
+      },
+      {
+        "label": "108.0",
+        "image": null
+      },
+      {
+        "label": "Nothing is printed because the method call should be PurchaseManager.getTax(100.0).",
+        "image": null
+      },
+      {
+        "label": "Nothing is printed because the return value from getTax cannot be assigned to the variable tax.",
+        "image": null
+      }
+    ],
+    "answer": "8.0"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.10",
+    "text": "1.10: Calling Class Methods"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

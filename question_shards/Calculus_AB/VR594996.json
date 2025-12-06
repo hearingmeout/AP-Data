@@ -1,0 +1,37 @@
+{
+  "id": "VR594996",
+  "type": "mcq",
+  "title": "Processes - Chain Rule",
+  "content": {
+    "description": "",
+    "question": "If <math alttext=\"y equals the square root of 3 times x squared plus 1, end root\" display=\"inline\" overflow=\"scroll\"><mrow><mi>y</mi><mo>=</mo><msqrt><mrow><mn>3</mn><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></mrow></msqrt></mrow></math>, then <math alttext=\"the derivative of y with respect to x equals\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle><mrow><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>=</mo></mrow></mstyle></mrow></math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the fraction with numerator 1, and denominator 2 times the square root of 6 x, end root, end fraction\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn><msqrt><mrow><mn>6</mn><mi>x</mi></mrow></msqrt></mrow></mfrac></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator 1, and denominator 2 times the square root of 3 times x squared, plus 1, end root, end fraction\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn><msqrt><mrow><mn>3</mn><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></mrow></msqrt></mrow></mfrac></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator 3 x, and denominator the square root of 3 times x squared, plus 1, end root, end fraction\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle><mrow><mfrac><mrow><mn>3</mn><mi>x</mi></mrow><mrow><msqrt><mrow><mn>3</mn><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></mrow></msqrt></mrow></mfrac></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"3 x times the square root of 3 times x squared plus 1, end root\" display=\"inline\" overflow=\"scroll\"><mrow><mn>3</mn><mi>x</mi><mo>⁢</mo><msqrt><mrow><mn>3</mn><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></mrow></msqrt></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the fraction with numerator 3 x, and denominator the square root of 3 times x squared, plus 1, end root, end fraction\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle><mrow><mfrac><mrow><mn>3</mn><mi>x</mi></mrow><mrow><msqrt><mrow><mn>3</mn><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></mrow></msqrt></mrow></mfrac></mrow></mstyle></mrow></math>"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: The Chain Rule"
+  }
+}

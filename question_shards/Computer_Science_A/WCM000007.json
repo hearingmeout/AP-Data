@@ -1,0 +1,41 @@
+{
+  "id": "WCM000007",
+  "type": "mcq",
+  "title": "traverse oldVals to create newVals-determine resul",
+  "content": {
+    "description": "",
+    "question": "What, if anything, will be the contents of newVals after executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "{true, false, true, true}",
+        "image": null
+      },
+      {
+        "label": "{false, true, false, false}",
+        "image": null
+      },
+      {
+        "label": "{false, false, true, false}",
+        "image": null
+      },
+      {
+        "label": "The array newVals will not contain any values because the code segment does not compile.",
+        "image": null
+      }
+    ],
+    "answer": "{false, true, false, false}"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.4",
+    "text": "4.4: Array Traversals"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

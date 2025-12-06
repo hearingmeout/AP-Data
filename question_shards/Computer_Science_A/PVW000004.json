@@ -1,0 +1,41 @@
+{
+  "id": "PVW000004",
+  "type": "mcq",
+  "title": "Dog class - explain error",
+  "content": {
+    "description": "",
+    "question": "Which of the following can be used to replace line 2 so that this code segment will compile without error?",
+    "image": null,
+    "choices": [
+      {
+        "label": "double miles = calculateWalkLength(90);",
+        "image": null
+      },
+      {
+        "label": "double miles = Dog.calculateWalkLength(fido, 90);",
+        "image": null
+      },
+      {
+        "label": "double miles = Dog.calculateWalkLength(90);",
+        "image": null
+      },
+      {
+        "label": "double miles = fido.calculateWalkLength(90);",
+        "image": null
+      }
+    ],
+    "answer": "double miles = fido.calculateWalkLength(90);"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.14",
+    "text": "1.14: Calling Instance Methods"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

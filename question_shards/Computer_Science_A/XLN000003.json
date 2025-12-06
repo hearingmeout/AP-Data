@@ -1,0 +1,41 @@
+{
+  "id": "XLN000003",
+  "type": "mcq",
+  "title": "getDecimal method - describe conditions",
+  "content": {
+    "description": "",
+    "question": "Suppose that fr is a properly instantiated reference to a Fraction object. Which of the following best describes the conditions under which the call fr.getDecimal() will fail to return a value?",
+    "image": null,
+    "choices": [
+      {
+        "label": "When the instance variables numerator and denominator have the same value",
+        "image": null
+      },
+      {
+        "label": "When the instance variables numerator and denominator have different values",
+        "image": null
+      },
+      {
+        "label": "When the instance variable denominator is equal to 0",
+        "image": null
+      },
+      {
+        "label": "When the instance variable denominator is negative",
+        "image": null
+      }
+    ],
+    "answer": "When the instance variable denominator is equal to 0"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

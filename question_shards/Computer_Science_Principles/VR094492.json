@@ -1,0 +1,37 @@
+{
+  "id": "VR094492",
+  "type": "mcq",
+  "title": "Error in remove duplicates code segment",
+  "content": {
+    "description": "For which of the following contents of myList will the procedure NOT produce the intended results?",
+    "question": "Select two answers.",
+    "image": null,
+    "choices": [
+      {
+        "label": "[10, 10, 20, 20, 10, 10]",
+        "image": null
+      },
+      {
+        "label": "[30, 30, 30, 10, 20, 20]",
+        "image": null
+      },
+      {
+        "label": "[30, 50, 40, 10, 20, 40]",
+        "image": null
+      },
+      {
+        "label": "[50, 50, 50, 50, 50, 50]",
+        "image": null
+      }
+    ],
+    "answer": "[10, 10, 20, 20, 10, 10]"
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Identifying and Correcting Errors"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Determine and design an appropriate method or approach to achieve the purpose."
+  }
+}

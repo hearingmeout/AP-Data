@@ -1,0 +1,41 @@
+{
+  "id": "DPT000001",
+  "type": "mcq",
+  "title": "Matrices as Functions - solving a system",
+  "content": {
+    "description": "<math alttext=\"A system of two equations. The first equation is 3 x minus 4 y equals 17. The second equation is 2 x minus 6 y equals 13.\"><mfenced close=\"\" open=\"{\"><mtable columnalign=\"left\"><mtr><mtd><mn>3</mn><mi>x</mi><mo>-</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>17</mn></mtd></mtr><mtr><mtd><mn>2</mn><mi>x</mi><mo>-</mo><mn>6</mn><mi>y</mi><mo>=</mo><mn>13</mn></mtd></mtr></mtable></mfenced></math>",
+    "question": "The given system of equations can be rewritten equivalently as <math alttext=\"matrix A times vector v sub 1 equals vector v sub 2\"><mi>A</mi><mover><msub><mi>v</mi><mn>1</mn></msub><mo>→</mo></mover><mo>=</mo><mover><msub><mi>v</mi><mn>2</mn></msub><mo>→</mo></mover></math> , where <math alttext=\"A equals a 2 by 2 matrix with row 1 column 1 value 3, row 1 column 2 value negative 4, row 2 column 1 value 2, row 2 column 2 value negative 6\"><mi>A</mi><mo>=</mo><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>3</mn></mtd><mtd><mo>-</mo><mn>4</mn></mtd></mtr><mtr><mtd><mn>2</mn></mtd><mtd><mo>-</mo><mn>6</mn></mtd></mtr></mtable></mfenced></math>, <math alttext=\"vector v sub 1 equals a 2 by 1 matrix with row 1 column 1 value x, row 2 column 1 value y\"><mover><msub><mi>v</mi><mn>1</mn></msub><mo>→</mo></mover><mo>=</mo><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mi>x</mi></mtd></mtr><mtr><mtd><mi>y</mi></mtd></mtr></mtable></mfenced></math>, and <math alttext=\"vector v sub 2 equals a 2 by 1 matrix with row 1 column 1 value 17, row 2 column 1 value 13\"><mover><msub><mi>v</mi><mn>2</mn></msub><mo>→</mo></mover><mo>=</mo><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>17</mn></mtd></mtr><mtr><mtd><mn>13</mn></mtd></mtr></mtable></mfenced></math>. Which of the following describes the product <math alttext=\"matrix A inverse times vector v sub 2\"><msup><mi>A</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mover><msub><mi>v</mi><mn>2</mn></msub><mo>→</mo></mover></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"matrix A inverse times vector v sub 2\"><msup><mi>A</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mover><msub><mi>v</mi><mn>2</mn></msub><mo>→</mo></mover></math> is a column vector that gives the product of matrix <math alttext=\"A\"><mi>A</mi></math> and vector <math alttext=\"vector v sub 2\"><mover><msub><mi>v</mi><mn>2</mn></msub><mo>→</mo></mover></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"matrix A inverse times vector v sub 2\"><msup><mi>A</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mover><msub><mi>v</mi><mn>2</mn></msub><mo>→</mo></mover></math> is a column vector that contains the solutions to the system of equations.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"matrix A inverse times vector v sub 2\"><msup><mi>A</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mover><msub><mi>v</mi><mn>2</mn></msub><mo>→</mo></mover></math> is a column vector that gives the dilation of each of the components under the linear transformation <math alttext=\"L open parentheses vector v close parentheses equals A times vector v\"><mi>L</mi><mfenced><mover><mi>v</mi><mo>→</mo></mover></mfenced><mo>=</mo><mi>A</mi><mover><mi>v</mi><mo>→</mo></mover></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"matrix A inverse times vector v sub 2\"><msup><mi>A</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mover><msub><mi>v</mi><mn>2</mn></msub><mo>→</mo></mover></math> is a column vector where the product of the components gives the dilation of regions under the linear transformation <math alttext=\"L open parentheses vector v close parentheses equals A times vector v\"><mi>L</mi><mfenced><mover><mi>v</mi><mo>→</mo></mover></mfenced><mo>=</mo><mi>A</mi><mover><mi>v</mi><mo>→</mo></mover></math>.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"matrix A inverse times vector v sub 2\"><msup><mi>A</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mover><msub><mi>v</mi><mn>2</mn></msub><mo>→</mo></mover></math> is a column vector that contains the solutions to the system of equations."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.13",
+    "text": "4.13: Matrices as Functions"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Describe the characteristics of a function with varying levels of precision, depending on the function representation and available mathematical tools."
+  }
+}

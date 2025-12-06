@@ -1,0 +1,28 @@
+{
+  "id": "VHZ000002",
+  "type": "frq",
+  "title": "GameGrid navigation FRQ",
+  "content": {
+    "description": "",
+    "question": "Complete method navigate. /** * Computes and returns the number of moves that are taken * by the game piece when following a path through the grid * Preconditions: startRow is a valid row index. * startCol is a valid column index. * There exists a path that moves the game piece * from the starting position to past the * boundaries of the grid. * Postcondition: grid is unchanged. */ public int navigate(int startRow, int startCol)",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Complete method navigate. /** * Computes and returns the number of moves that are taken * by the game piece when following a path through the grid * Preconditions: startRow is a valid row index. * startCol is a valid column index. * There exists a path that moves the game piece * from the starting position to past the * boundaries of the grid. * Postcondition: grid is unchanged. */ public int navigate(int startRow, int startCol)",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

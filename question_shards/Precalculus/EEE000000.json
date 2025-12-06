@@ -1,0 +1,41 @@
+{
+  "id": "EEE000000",
+  "type": "mcq",
+  "title": "Polar Change - limits of a function",
+  "content": {
+    "description": "",
+    "question": "​Consider the graph of the polar function <math alttext=\"r equals f open parentheses theta close parentheses\"><semantics><mrow><mi>r</mi><mo>=</mo><mi>f</mi><mfenced><mi>θ</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, where <math alttext=\"f open parentheses theta close parentheses equals fraction numerator 3 theta cubed plus 50 over denominator 2 theta to the power of 4 plus 5 end fraction\"><semantics><mrow><mi>f</mi><mfenced><mi>θ</mi></mfenced><mo>=</mo><mfrac><mrow><mn>3</mn><msup><mi>θ</mi><mn>3</mn></msup><mo>+</mo><mn>50</mn></mrow><mrow><mn>2</mn><msup><mi>θ</mi><mn>4</mn></msup><mo>+</mo><mn>5</mn></mrow></mfrac></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, in the polar coordinate system. Which of the following is true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​​Because <math alttext=\"limit as theta rightwards arrow infinity of f open parentheses theta close parentheses equals negative infinity\"><semantics><mrow><munder><mi>lim</mi><mrow><mi>θ</mi><mo>→</mo><mo>∞</mo></mrow></munder><mi>f</mi><mfenced><mi>θ</mi></mfenced><mo>=</mo><mo>-</mo><mo>∞</mo></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, points on the graph of <math alttext=\"r equals f open parentheses theta close parentheses\"><semantics><mrow><mi>r</mi><mo>=</mo><mi>f</mi><mfenced><mi>θ</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> will be arbitrarily close to the origin for sufficiently large values of <math alttext=\"theta\"><semantics><mi>θ</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>.",
+        "image": null
+      },
+      {
+        "label": "​Because <math alttext=\"limit as theta rightwards arrow infinity of f open parentheses theta close parentheses equals 0\"><semantics><mrow><munder><mi>lim</mi><mrow><mi>θ</mi><mo>→</mo><mo>∞</mo></mrow></munder><mi>f</mi><mfenced><mi>θ</mi></mfenced><mo>=</mo><mn>0</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, points on the graph of <math alttext=\"r equals f open parentheses theta close parentheses\"><semantics><mrow><mi>r</mi><mo>=</mo><mi>f</mi><mfenced><mi>θ</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> will be arbitrarily close to the origin for sufficiently large values of <math alttext=\"theta\"><semantics><mi>θ</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>.",
+        "image": null
+      },
+      {
+        "label": "Because <math alttext=\"limit as theta rightwards arrow infinity of f open parentheses theta close parentheses equals 3 over 2\"><semantics><mrow><munder><mi>lim</mi><mrow><mi>θ</mi><mo>→</mo><mo>∞</mo></mrow></munder><mi>f</mi><mfenced><mi>θ</mi></mfenced><mo>=</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, points on the graph of <math alttext=\"r equals f open parentheses theta close parentheses\"><semantics><mrow><mi>r</mi><mo>=</mo><mi>f</mi><mfenced><mi>θ</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> will be arbitrarily close to the polar curve <math alttext=\"r equals 3 over 2\"><semantics><mrow><mi>r</mi><mo>=</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> for sufficiently large values of <math alttext=\"theta\"><semantics><mi>θ</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>.",
+        "image": null
+      },
+      {
+        "label": "Because <math alttext=\"limit as theta rightwards arrow infinity of f open parentheses theta close parentheses equals infinity\"><semantics><mrow><munder><mi>lim</mi><mrow><mi>θ</mi><mo>→</mo><mo>∞</mo></mrow></munder><mi>f</mi><mfenced><mi>θ</mi></mfenced><mo>=</mo><mo>∞</mo></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, points on the graph of <math alttext=\"r equals f open parentheses theta close parentheses\"><semantics><mrow><mi>r</mi><mo>=</mo><mi>f</mi><mfenced><mi>θ</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> will be increasingly distant from the origin for sufficiently large values of <math alttext=\"theta\"><semantics><mi>θ</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>.",
+        "image": null
+      }
+    ],
+    "answer": "​Because <math alttext=\"limit as theta rightwards arrow infinity of f open parentheses theta close parentheses equals 0\"><semantics><mrow><munder><mi>lim</mi><mrow><mi>θ</mi><mo>→</mo><mo>∞</mo></mrow></munder><mi>f</mi><mfenced><mi>θ</mi></mfenced><mo>=</mo><mn>0</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, points on the graph of <math alttext=\"r equals f open parentheses theta close parentheses\"><semantics><mrow><mi>r</mi><mo>=</mo><mi>f</mi><mfenced><mi>θ</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> will be arbitrarily close to the origin for sufficiently large values of <math alttext=\"theta\"><semantics><mi>θ</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>."
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Trigonometric and Polar Functions"
+  },
+  "topic": {
+    "code": "3.15",
+    "text": "3.15: Rates of Change in Polar Functions"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Support conclusions or choices with a logical rationale or appropriate data."
+  }
+}

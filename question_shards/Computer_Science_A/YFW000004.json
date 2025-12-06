@@ -1,0 +1,41 @@
+{
+  "id": "YFW000004",
+  "type": "mcq",
+  "title": "SomeClass object - write code",
+  "content": {
+    "description": "",
+    "question": "Assume that SomeClass object obj has been properly declared and instantiated in a class other than SomeClass. Which of the following statements will compile without error?",
+    "image": null,
+    "choices": [
+      {
+        "label": "int x = obj.getA();",
+        "image": null
+      },
+      {
+        "label": "int x = obj.myA;",
+        "image": null
+      },
+      {
+        "label": "int x = SomeClass.getA();",
+        "image": null
+      },
+      {
+        "label": "int x = getA(obj);",
+        "image": null
+      }
+    ],
+    "answer": "int x = obj.getA();"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.14",
+    "text": "1.14: Calling Instance Methods"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

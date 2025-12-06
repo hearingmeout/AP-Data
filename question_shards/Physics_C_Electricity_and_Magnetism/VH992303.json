@@ -1,0 +1,45 @@
+{
+  "id": "VH992303",
+  "type": "mcq",
+  "title": "Instructional Videos",
+  "content": {
+    "description": "A company trains its employees with instructional videos and claims that the amount of time, in hours, spent training is linearly related to an increase in productivity. The company selected a random sample of five employees to test its claim. The data were used to create the computer output for a least-squares linear regression, shown in the table.",
+    "question": "Variable <math alttext=\"degrees of freedom\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>DF</mtext></mrow></mstyle></math> Estimate <math alttext=\"standard error\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>SE</mtext></mrow></mstyle></math> Intercept 1 3.6 1.1489 Hours 1 0.8 0.3464 Which of the following is the correct test statistic and number of degrees of freedom?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"t equals 2.31\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>t</mi><mo>=</mo><mn>2.31</mn></mrow></mrow></mstyle></math> with 4 degrees of freedom",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"t equals 2.31\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>t</mi><mo>=</mo><mn>2.31</mn></mrow></mrow></mstyle></math> with 3 degrees of freedom",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"t equals 2.31\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>t</mi><mo>=</mo><mn>2.31</mn></mrow></mrow></mstyle></math> with 5 degrees of freedom",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"t equals 3.13\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>t</mi><mo>=</mo><mn>3.13</mn></mrow></mrow></mstyle></math> with 1 degree of freedom",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"t equals 3.13\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>t</mi><mo>=</mo><mn>3.13</mn></mrow></mrow></mstyle></math> with 3 degrees of freedom",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"t equals 2.31\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>t</mi><mo>=</mo><mn>2.31</mn></mrow></mrow></mstyle></math> with 3 degrees of freedom"
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Inference for Quantitative Data-Slopes"
+  },
+  "topic": {
+    "code": "9.5",
+    "text": "9.5: Carrying Out a Test for the Slope of a Regression Model"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Calculate a test statistic and find a p-value, provided conditions for inference are met."
+  }
+}

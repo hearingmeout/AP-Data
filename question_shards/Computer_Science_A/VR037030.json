@@ -1,0 +1,41 @@
+{
+  "id": "VR037030",
+  "type": "mcq",
+  "title": "strArrMethod - last day of the school year",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "String[] testTwo = {\"last\", \"day\", \"of\", \"the\", \"school\", \"year\"};String[] resultTwo = strArrMethod(testTwo);How many times is the line labeled // Line 12 in the strArrMethod executed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "4 times",
+        "image": null
+      },
+      {
+        "label": "5 times",
+        "image": null
+      },
+      {
+        "label": "6 times",
+        "image": null
+      },
+      {
+        "label": "15 times",
+        "image": null
+      }
+    ],
+    "answer": "4 times"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

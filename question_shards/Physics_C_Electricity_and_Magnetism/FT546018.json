@@ -1,0 +1,45 @@
+{
+  "id": "FT546018",
+  "type": "mcq",
+  "title": "Interpret confidence level for mean monthly rent",
+  "content": {
+    "description": "",
+    "question": "Monthly rent was determined for each apartment in a random sample of 100 apartments. The sample mean was $820 and the sample standard deviation was $25. An approximate 95 percent confidence interval for the true mean monthly rent for the population of apartments from which this sample was selected is ($815, $825). Which of the following statements is a correct interpretation of the 95 percent confidence level?",
+    "image": null,
+    "choices": [
+      {
+        "label": "In this population, about 95 percent of all rental prices are between $815 and $825.",
+        "image": null
+      },
+      {
+        "label": "In this sample, about 95 percent of the 100 rental prices are between $815 and $825.",
+        "image": null
+      },
+      {
+        "label": "In repeated sampling, the method produces intervals that include the population mean approximately 95 percent of the time.",
+        "image": null
+      },
+      {
+        "label": "In repeated sampling, the method produces intervals that include the sample mean approximately 95 percent of the time.",
+        "image": null
+      },
+      {
+        "label": "There is a probability of 0.95 that the true mean is between $815 and $825.",
+        "image": null
+      }
+    ],
+    "answer": "In repeated sampling, the method produces intervals that include the population mean approximately 95 percent of the time."
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.3",
+    "text": "7.3: Justifying a Claim About a Population Mean Based on a Confidence Interval"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "VR797081",
+  "type": "frq",
+  "title": "Inductance - plane inside a solenoid",
+  "content": {
+    "description": "",
+    "question": "Show all your work for each part of the question. The parts within the question may not have equal weight. A long solenoid with its central axis along the <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mi>z</mi></math>-axis has current <math alttext=\"I sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>0</mn></msub></math>, as shown in Figure <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>. The length of the solenoid is much larger than the radius of the solenoid loops. (a) Figure <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> shows a cross-sectional view of the middle of the solenoid, along with three square regions labeled <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>, <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>, and <math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mn>3</mn></math>. Region <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> is centered on the central axis of the solenoid, Region <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> is inside the solenoid but offset from the central axis, and Region <math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mn>3</mn></math> is outside the solenoid.Inside the square for each region in Figure <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>, indicate the direction of the magnetic field produced by the solenoid by drawing one of the symbols shown in the table. If the magnetic field is zero or negligible in any region, write “zero” just below that region.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Show all your work for each part of the question. The parts within the question may not have equal weight. A long solenoid with its central axis along the <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mi>z</mi></math>-axis has current <math alttext=\"I sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>0</mn></msub></math>, as shown in Figure <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>. The length of the solenoid is much larger than the radius of the solenoid loops. (a) Figure <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> shows a cross-sectional view of the middle of the solenoid, along with three square regions labeled <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>, <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>, and <math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mn>3</mn></math>. Region <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> is centered on the central axis of the solenoid, Region <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> is inside the solenoid but offset from the central axis, and Region <math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mn>3</mn></math> is outside the solenoid.Inside the square for each region in Figure <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>, indicate the direction of the magnetic field produced by the solenoid by drawing one of the symbols shown in the table. If the magnetic field is zero or negligible in any region, write “zero” just below that region.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_C_Electricity_and_Magnetism/VR797081.g12.svg"
+      },
+      {
+        "text": "A small conducting loop of radius <math alttext=\"r sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>r</mi><mn>0</mn></msub></math> is placed at the center of the solenoid, as shown in the cross-sectional view in Figure <math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mn>3</mn></math>. The solenoid radius is <math alttext=\"3 r sub 0\" display=\"inline\" overflow=\"scroll\"><mn>3</mn><msub><mi>r</mi><mn>0</mn></msub></math> and the solenoid has <math alttext=\"n sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>n</mi><mn>0</mn></msub></math> turns per unit of length along the axis. Starting at time <math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn></math>, the current <math alttext=\"I\" display=\"inline\" overflow=\"scroll\"><mi>I</mi></math> in the solenoid is varied according to the equation <math alttext=\"I of t, equals I sub 0, end sub, times open parenthesis, 1 minus b times t squared, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mi>I</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><msub><mi>I</mi><mn>0</mn></msub><mrow><mo>(</mo><mn>1</mn><mo>−</mo><mi>b</mi><msup><mi>t</mi><mn>2</mn></msup><mo>)</mo></mrow></math>, where <math alttext=\"I sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>0</mn></msub></math> and <math alttext=\"b\" display=\"inline\" overflow=\"scroll\"><mi>b</mi></math> are positive constants and positive current is taken to be in the clockwise direction.(b) Derive an expression for the absolute value of the induced <math alttext=\"e m f\" display=\"inline\" overflow=\"scroll\"><mtext>emf</mtext></math> in the smaller loop for times <math alttext=\"t is greater than or equal to 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>≥</mo><mn>0</mn></math>. Express your answer in terms of <math alttext=\"r sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>r</mi><mn>0</mn></msub></math>, <math alttext=\"n sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>n</mi><mn>0</mn></msub></math>, <math alttext=\"I sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>0</mn></msub></math>, <math alttext=\"b\" display=\"inline\" overflow=\"scroll\"><mi>b</mi></math>, <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mi>t</mi></math>, and physical constants, as appropriate. Begin your derivation by writing a fundamental physics principle or an equation from the reference booklet.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_C_Electricity_and_Magnetism/VR797081.g06.svg"
+      },
+      {
+        "text": "(c) On the axes in Figure <math alttext=\"4\" display=\"inline\" overflow=\"scroll\"><mn>4</mn></math>, sketch a graph of the magnetic flux <math alttext=\"phi sub B\" display=\"inline\" overflow=\"scroll\"><msub><mi mathvariant=\"normal\">Φ</mi><mi>B</mi></msub></math> through the small conducting loop due to the current in the solenoid as a function of time <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mi>t</mi></math> from <math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn></math> until the flux reaches zero. On the horizontal axis of the graph, label the time at which the flux is zero with an expression in terms of the constant <math alttext=\"b\" display=\"inline\" overflow=\"scroll\"><mi>b</mi></math>.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_C_Electricity_and_Magnetism/VR797081.g07.svg"
+      },
+      {
+        "text": "(d) Indicate the factor by which the vertical intercept of the graph you drew in part (c) would change, if at all, if the loop inside the solenoid had a radius of <math alttext=\"2 r sub 0\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><msub><mi>r</mi><mn>0</mn></msub></math>.Briefly justify your answer.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "12",
+    "text": "12: Magnetic Fields and Electromagnetism"
+  },
+  "topic": {
+    "code": "12.4",
+    "text": "12.4: Ampère's Law"
+  },
+  "skill": {
+    "code": "1.A",
+    "text": "1.A: Create diagrams, tables, charts, or schematics to represent physical situations."
+  }
+}

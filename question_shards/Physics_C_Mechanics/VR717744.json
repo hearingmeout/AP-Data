@@ -1,0 +1,41 @@
+{
+  "id": "VR717744",
+  "type": "mcq",
+  "title": "Linear and rotation - accel magnitude and angle",
+  "content": {
+    "description": "",
+    "question": "A coin sits near the edge of a platform of radius <math alttext=\"uppercase R sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>0</mn></msub></math>. The platform is initially at rest when it begins to rotate with a constant angular acceleration <math alttext=\"alpha sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>α</mi><mn>0</mn></msub></math> so that its angular velocity <math alttext=\"omega\" display=\"inline\" overflow=\"scroll\"><mi>ω</mi></math> increases linearly with time. If the coin does not slip on the platform surface, which of the following best describes the magnitude and direction of the coin’s acceleration vector as the platform accelerates?",
+    "image": null,
+    "choices": [
+      {
+        "label": "It has magnitude <math alttext=\"uppercase R sub 0, end sub, omega squared\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>0</mn></msub><msup><mi>ω</mi><mn>2</mn></msup></math> and is directed toward the center of the platform.",
+        "image": null
+      },
+      {
+        "label": "It has magnitude <math alttext=\"uppercase R sub 0, end sub, alpha sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>0</mn></msub><msub><mi>α</mi><mn>0</mn></msub></math> and is directed tangent to the coin’s circular path.",
+        "image": null
+      },
+      {
+        "label": "It has magnitude <math alttext=\"uppercase R sub 0, end sub, the square root of, open parenthesis, omega raised to the 4 power, plus alpha sub 0, end sub, squared, close parenthesis, end root\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>0</mn></msub><msqrt><mo stretchy=\"false\">(</mo><msup><mi>ω</mi><mn>4</mn></msup><mo>+</mo><msup><msub><mi>α</mi><mn>0</mn></msub><mn>2</mn></msup><mo stretchy=\"false\">)</mo></msqrt></math>. It is initially directed toward the center of the platform, with an increasing component tangent to the coin’s circular path.",
+        "image": null
+      },
+      {
+        "label": "It has magnitude <math alttext=\"uppercase R sub 0, end sub, the square root of, open parenthesis, omega raised to the 4 power, plus alpha sub 0, end sub, squared, close parenthesis, end root\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>0</mn></msub><msqrt><mo stretchy=\"false\">(</mo><msup><mi>ω</mi><mn>4</mn></msup><mo>+</mo><msup><msub><mi>α</mi><mn>0</mn></msub><mn>2</mn></msup><mo stretchy=\"false\">)</mo></msqrt></math>. It is initially tangent to the coin’s circular path, with an increasing component directed toward the center of the platform.",
+        "image": null
+      }
+    ],
+    "answer": "It has magnitude <math alttext=\"uppercase R sub 0, end sub, the square root of, open parenthesis, omega raised to the 4 power, plus alpha sub 0, end sub, squared, close parenthesis, end root\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>0</mn></msub><msqrt><mo stretchy=\"false\">(</mo><msup><mi>ω</mi><mn>4</mn></msup><mo>+</mo><msup><msub><mi>α</mi><mn>0</mn></msub><mn>2</mn></msup><mo stretchy=\"false\">)</mo></msqrt></math>. It is initially tangent to the coin’s circular path, with an increasing component directed toward the center of the platform."
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.2",
+    "text": "5.2: Connecting Linear and Rotational Motion"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

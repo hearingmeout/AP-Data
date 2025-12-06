@@ -1,0 +1,41 @@
+{
+  "id": "WFB000017",
+  "type": "mcq",
+  "title": "String Algorithm - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following can be used to replace /* missing code */ so that this code segment prints the string \"EFCDAB\"?",
+    "image": null,
+    "choices": [
+      {
+        "label": "for (int j = str.length() - 1; j >= 0; j -= 1) { result += str.substring(j, j + 1); }",
+        "image": null
+      },
+      {
+        "label": "for (int j = str.length() - 1; j >= 0; j -= 2) { result += str.substring(j, j + 2); }",
+        "image": null
+      },
+      {
+        "label": "for (int j = str.length() - 2; j >= 0; j -= 1) { result += str.substring(j, j + 2); }",
+        "image": null
+      },
+      {
+        "label": "for (int j = str.length() - 2; j >= 0; j -= 2) { result += str.substring(j, j + 2); }",
+        "image": null
+      }
+    ],
+    "answer": "for (int j = str.length() - 2; j >= 0; j -= 2) { result += str.substring(j, j + 2); }"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.10",
+    "text": "2.10: Implementing String Algorithms"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

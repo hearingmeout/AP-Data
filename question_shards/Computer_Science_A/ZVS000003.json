@@ -1,0 +1,41 @@
+{
+  "id": "ZVS000003",
+  "type": "mcq",
+  "title": "Values of boolean after - determine result",
+  "content": {
+    "description": "",
+    "question": "What is printed as a result of executing this code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "true true",
+        "image": null
+      },
+      {
+        "label": "true false",
+        "image": null
+      },
+      {
+        "label": "false true",
+        "image": null
+      },
+      {
+        "label": "false false",
+        "image": null
+      }
+    ],
+    "answer": "false true"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Assignment Statements and Input"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

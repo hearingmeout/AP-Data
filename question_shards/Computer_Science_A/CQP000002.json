@@ -1,0 +1,41 @@
+{
+  "id": "CQP000002",
+  "type": "mcq",
+  "title": "Patient data privacy - explain impact",
+  "content": {
+    "description": "",
+    "question": "Which of the following statements best describes the privacy of the customer’s payment information?",
+    "image": null,
+    "choices": [
+      {
+        "label": "It is considered private because retrieving it requires a password.",
+        "image": null
+      },
+      {
+        "label": "It is considered private because the value of the instance variable cName is not easy to guess.",
+        "image": null
+      },
+      {
+        "label": "It is not considered private because the instance variables are declared public.",
+        "image": null
+      },
+      {
+        "label": "It is not considered private because the getName method has no password parameter.",
+        "image": null
+      }
+    ],
+    "answer": "It is not considered private because the instance variables are declared public."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.1",
+    "text": "4.1: Ethical and Social Issues Around Data Collection"
+  },
+  "skill": {
+    "code": "5.A",
+    "text": "5.A: Explain how computing impacts society, economy, and culture."
+  }
+}

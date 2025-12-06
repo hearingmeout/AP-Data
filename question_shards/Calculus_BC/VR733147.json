@@ -1,0 +1,41 @@
+{
+  "id": "VR733147",
+  "type": "mcq",
+  "title": "Processes - Tangent Line Approximation",
+  "content": {
+    "description": "",
+    "question": "The line tangent to the graph of the polynomial function <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mi>f</mi></math> at <math alttext=\"x equals 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>1</mn></mrow></mstyle></math> is used to approximate the value of <math alttext=\"f of 1.2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mn>1.2</mn><mo>)</mo></mrow></mrow></mstyle></math>. Which of the following conditions guarantees that the approximation for <math alttext=\"f of 1.2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mn>1.2</mn><mo>)</mo></mrow></mrow></mstyle></math> is an underestimate?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"f prime of 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow></mrow></mstyle></math> is negative.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f double prime of 1\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>″</mo></mrow></msup><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow></mrow></math> is positive.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f double prime of x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>″</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math> is negative for <math alttext=\"1 less than x, less than 1.2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>1</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>1.2</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f double prime of x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>″</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></mrow></mstyle></math> is positive for <math alttext=\"1 less than x, less than 1.2\" display=\"inline\" overflow=\"scroll\"><mn>1</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>1.2</mn></math>.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"f double prime of x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>″</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></mrow></mstyle></math> is positive for <math alttext=\"1 less than x, less than 1.2\" display=\"inline\" overflow=\"scroll\"><mn>1</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>1.2</mn></math>."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Contextual Applications of Differentiation"
+  },
+  "topic": {
+    "code": "4.6",
+    "text": "4.6: Approximating Values of a Function Using Local Linearity and Linearization"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Explain how an approximated value relates to the actual value."
+  }
+}

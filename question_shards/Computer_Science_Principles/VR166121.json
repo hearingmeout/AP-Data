@@ -1,0 +1,37 @@
+{
+  "id": "VR166121",
+  "type": "mcq",
+  "title": "Crowd flow simulation",
+  "content": {
+    "description": "",
+    "question": "A city planner is using simulation software to study crowd flow out of a large arena after an event has ended. The arena is located in an urban city. Which of the following best describes a limitation of using a simulation for this purpose?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The model used by the simulation software cannot be modified once the simulation has been used.",
+        "image": null
+      },
+      {
+        "label": "The model used by the simulation software often omits details so that it is easier to implement.",
+        "image": null
+      },
+      {
+        "label": "Running a simulation requires more time to generate data from trials than observing the crowd exiting the arena at various events.",
+        "image": null
+      },
+      {
+        "label": "Running a simulation requires a large number of observations to be collected before it can be used to explore a problem.",
+        "image": null
+      }
+    ],
+    "answer": "The model used by the simulation software often omits details so that it is easier to implement."
+  },
+  "topic": {
+    "code": "3.16",
+    "text": "3.16: Simulations"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Investigate the situation, context, or task."
+  }
+}

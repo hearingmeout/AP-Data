@@ -1,0 +1,41 @@
+{
+  "id": "PZP000008",
+  "type": "mcq",
+  "title": "Nested ifs with x y a b - determine result",
+  "content": {
+    "description": "",
+    "question": "What are the values of a, b, and x after the code segment is executed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "a = true, b = true, x = -1",
+        "image": null
+      },
+      {
+        "label": "a = true, b = false, x = 3",
+        "image": null
+      },
+      {
+        "label": "a = true, b = false, x = 7",
+        "image": null
+      },
+      {
+        "label": "a = false, b = false, x = 11",
+        "image": null
+      }
+    ],
+    "answer": "a = true, b = false, x = 7"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Nested `if` Statements"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

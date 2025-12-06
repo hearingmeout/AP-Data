@@ -1,0 +1,41 @@
+{
+  "id": "VKF000012",
+  "type": "mcq",
+  "title": "random from min to max - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following can replace /* missing code */ so that the code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "(int) (rn * max) + min",
+        "image": null
+      },
+      {
+        "label": "(int) (rn * (max - min)) + min",
+        "image": null
+      },
+      {
+        "label": "(int) (rn * (max - min)) + 1",
+        "image": null
+      },
+      {
+        "label": "(int) (rn * (max - min + 1)) + min",
+        "image": null
+      }
+    ],
+    "answer": "(int) (rn * (max - min + 1)) + min"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: `Math` Class"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

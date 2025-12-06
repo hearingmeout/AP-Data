@@ -1,0 +1,41 @@
+{
+  "id": "EXQ000003",
+  "type": "mcq",
+  "title": "printSomething method - determine result",
+  "content": {
+    "description": "",
+    "question": "What is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "0true1true",
+        "image": null
+      },
+      {
+        "label": "1true2true",
+        "image": null
+      },
+      {
+        "label": "true0true1",
+        "image": null
+      },
+      {
+        "label": "true1true2",
+        "image": null
+      }
+    ],
+    "answer": "true0true1"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Method Signatures"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "FT659364",
+  "type": "frq",
+  "title": "Ben's unicycle",
+  "content": {
+    "description": "",
+    "question": "Ben rides a unicycle back and forth along a straight east-west track. The twice-differentiable function B models Ben's position on the track, measured in meters from the western end of the track, at time t, measured in seconds from the start of the ride. The table above gives values for B(t) and Ben's velocity, v(t), measured in meters per second, at selected times t. (a) Use the data in the table to approximate Ben's acceleration at time t = 5 seconds. Indicate units of measure.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Ben rides a unicycle back and forth along a straight east-west track. The twice-differentiable function B models Ben's position on the track, measured in meters from the western end of the track, at time t, measured in seconds from the start of the ride. The table above gives values for B(t) and Ben's velocity, v(t), measured in meters per second, at selected times t. (a) Use the data in the table to approximate Ben's acceleration at time t = 5 seconds. Indicate units of measure.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Calculus_AB/original.png"
+      },
+      {
+        "text": "(b) Using correct units, interpret the meaning of <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mrow> <mn>60</mn> </mrow> </msubsup> <mrow> <mrow> <mo>|</mo> <mrow> <mrow> <mrow> <mi>v</mi> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo> </mrow> <mo>|</mo> </mrow> </mrow> </mrow> </mrow> </mrow> </mstyle> <mi>d</mi> <mi>t</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaa8qmaeaada abbaqaamaaeiaabaGaamODaiaacIcacaWG0bGaaiykaaGaayjcSdaa caGLhWoaaSqaaiaaicdaaeaacaaI2aGaaGimaaqdcqGHRiI8aOGaam izaiaadshaaaa@42B6@ </annotation> </semantics> </math> in the context of this problem. Approximate <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mrow> <mn>60</mn> </mrow> </msubsup> <mrow> <mrow> <mo>|</mo> <mrow> <mrow> <mrow> <mi>v</mi> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo> </mrow> <mo>|</mo> </mrow> </mrow> </mrow> </mrow> </mrow> </mstyle> <mi>d</mi> <mi>t</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaa8qmaeaada abbaqaamaaeiaabaGaamODaiaacIcacaWG0bGaaiykaaGaayjcSdaa caGLhWoaaSqaaiaaicdaaeaacaaI2aGaaGimaaqdcqGHRiI8aOGaam izaiaadshaaaa@42B6@ </annotation> </semantics> </math> using a left Riemann sum with the subintervals indicated by the data in the table.",
+        "image": null
+      },
+      {
+        "text": "(c) For 40 ≤ t ≤ 60, must there be a time t when Ben's velocity is 2 meters per second? Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "(d) A light is directly above the western end of the track. Ben rides so that at time t, the distance L(t) between Ben and the light satisfies (L(t))2 = 122 + (B(t))2. At what rate is the distance between Ben and the light changing at time t = 40?",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: Estimating Derivatives of a Function at a Point"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

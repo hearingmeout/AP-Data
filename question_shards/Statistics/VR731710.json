@@ -1,0 +1,45 @@
+{
+  "id": "VR731710",
+  "type": "mcq",
+  "title": "BMI and Glucose",
+  "content": {
+    "description": "A public health analyst is interested in investigating whether there is a linear relationship between body mass index (<math alttext=\"B M I\" overflow=\"scroll\"><mtext>BMI</mtext></math>) and fasting blood glucose (<math alttext=\"F B G\" overflow=\"scroll\"><mtext>FBG</mtext></math>) for a particular population of adults. The analyst measured the <math alttext=\"B M I\" overflow=\"scroll\"><mtext>BMI</mtext></math> and <math alttext=\"F B G\" overflow=\"scroll\"><mtext>FBG</mtext></math> for each adult in a sample of <math alttext=\"227\" overflow=\"scroll\"><mn>227</mn></math> volunteers. The computer output for the linear regression analysis predicting <math alttext=\"F B G\" overflow=\"scroll\"><mtext>FBG</mtext></math> from <math alttext=\"B M I\" overflow=\"scroll\"><mtext>BMI</mtext></math> is shown.",
+    "question": "Predictor <math alttext=\"Coefficient\" overflow=\"scroll\"><mtext>Coef</mtext></math> <math alttext=\"the standard error of the coefficient\" overflow=\"scroll\"><mtext>SE Coef</mtext></math> <math alttext=\"uppercase T\" overflow=\"scroll\"><mtext>T</mtext></math> <math alttext=\"P is greater than, the absolute value of lowercase t\" overflow=\"scroll\"><mi mathvariant=\"normal\">P</mi><mpadded><mo>(</mo><mpadded><mo>&gt;</mo><mpadded><mo>|</mo><mpadded><mi>t</mi></mpadded><mo>|</mo></mpadded></mpadded><mo>)</mo></mpadded></math> Constant <math alttext=\"94.207\" overflow=\"scroll\"><mn>94.207</mn></math> <math alttext=\"3.126\" overflow=\"scroll\"><mn>3.126</mn></math> <math alttext=\"30.141\" overflow=\"scroll\"><mn>30.141</mn></math> <math alttext=\"0.000\" overflow=\"scroll\"><mn>0.000</mn></math> <math alttext=\"B M I\" overflow=\"scroll\"><mtext>BMI</mtext></math> <math alttext=\"0.204\" overflow=\"scroll\"><mn>0.204</mn></math> <math alttext=\"0.109\" overflow=\"scroll\"><mn>0.109</mn></math> <math alttext=\"1.868\" overflow=\"scroll\"><mn>1.868</mn></math> <math alttext=\"0.060\" overflow=\"scroll\"><mn>0.060</mn></math> <math alttext=\"r squared equals 0.015\" overflow=\"scroll\"><msup><mi>r</mi><mn>2</mn></msup><mo>=</mo><mn>0.015</mn></math> Assume the conditions for inference have been met. Based on the computer output, which of the following conclusions is appropriate for all adults in the population similar to those who volunteered for the study?",
+    "image": null,
+    "choices": [
+      {
+        "label": "There is a significant linear relationship at the <math alttext=\"0.01\" overflow=\"scroll\"><mn>0.01</mn></math> level between <math alttext=\"F B G\" overflow=\"scroll\"><mtext>FBG</mtext></math> and <math alttext=\"B M I\" overflow=\"scroll\"><mtext>BMI</mtext></math>.",
+        "image": null
+      },
+      {
+        "label": "There is a significant linear relationship at the <math alttext=\"0.05\" overflow=\"scroll\"><mn>0.05</mn></math> level but not at the <math alttext=\"0.01\" overflow=\"scroll\"><mn>0.01</mn></math> level between <math alttext=\"F B G\" overflow=\"scroll\"><mtext>FBG</mtext></math> and <math alttext=\"B M I\" overflow=\"scroll\"><mtext>BMI</mtext></math>.",
+        "image": null
+      },
+      {
+        "label": "There is a significant linear relationship at the <math alttext=\"0.10\" overflow=\"scroll\"><mn>0.10</mn></math> level but not at the <math alttext=\"0.05\" overflow=\"scroll\"><mn>0.05</mn></math> level between <math alttext=\"F B G\" overflow=\"scroll\"><mtext>FBG</mtext></math> and <math alttext=\"B M I\" overflow=\"scroll\"><mtext>BMI</mtext></math>.",
+        "image": null
+      },
+      {
+        "label": "There is a significant linear relationship at the <math alttext=\"0.25\" overflow=\"scroll\"><mn>0.25</mn></math> level but not at the <math alttext=\"0.10\" overflow=\"scroll\"><mn>0.10</mn></math> level between <math alttext=\"F B G\" overflow=\"scroll\"><mtext>FBG</mtext></math> and <math alttext=\"B M I\" overflow=\"scroll\"><mtext>BMI</mtext></math>.",
+        "image": null
+      },
+      {
+        "label": "There is not a significant linear relationship at the <math alttext=\"0.25\" overflow=\"scroll\"><mn>0.25</mn></math> level between <math alttext=\"F B G\" overflow=\"scroll\"><mtext>FBG</mtext></math> and <math alttext=\"B M I\" overflow=\"scroll\"><mtext>BMI</mtext></math>.",
+        "image": null
+      }
+    ],
+    "answer": "There is a significant linear relationship at the <math alttext=\"0.10\" overflow=\"scroll\"><mn>0.10</mn></math> level but not at the <math alttext=\"0.05\" overflow=\"scroll\"><mn>0.05</mn></math> level between <math alttext=\"F B G\" overflow=\"scroll\"><mtext>FBG</mtext></math> and <math alttext=\"B M I\" overflow=\"scroll\"><mtext>BMI</mtext></math>."
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Inference for Quantitative Data-Slopes"
+  },
+  "topic": {
+    "code": "9.5",
+    "text": "9.5: Carrying Out a Test for the Slope of a Regression Model"
+  },
+  "skill": {
+    "code": "Skill 4.E",
+    "text": "Skill 4.E: Justify a claim using a decision based on significance tests."
+  }
+}

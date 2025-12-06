@@ -1,0 +1,41 @@
+{
+  "id": "FGE000003",
+  "type": "mcq",
+  "title": "Remove all matches from list - fix error",
+  "content": {
+    "description": "",
+    "question": "Which of the following changes can be made so that the method works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "In line 3, changing the loop initialization to index = list.size() – 1",
+        "image": null
+      },
+      {
+        "label": "In line 3, changing the loop condition to index > 0",
+        "image": null
+      },
+      {
+        "label": "In line 3, changing the loop increment to index++",
+        "image": null
+      },
+      {
+        "label": "In line 5, changing the list access expression to list.get(target)",
+        "image": null
+      }
+    ],
+    "answer": "In line 3, changing the loop initialization to index = list.size() – 1"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

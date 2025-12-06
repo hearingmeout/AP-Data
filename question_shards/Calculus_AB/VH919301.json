@@ -1,0 +1,41 @@
+{
+  "id": "VH919301",
+  "type": "mcq",
+  "title": "Processes - Higher-Order Derivatives",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"y equals, f of x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>y</mi><mo>=</mo><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow></mrow></mstyle></math> be a twice-differentiable function such that <math alttext=\"f of 1, equals 3\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mn>1</mn><mo stretchy=\"false\">)</mo><mo>=</mo><mn>3</mn></mrow></mrow></mstyle></math> and <math alttext=\"the derivative of y, with respect to x, equals, 4 times, the square root of y squared, plus 7 times x squared, end root\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>=</mo><mn>4</mn><msqrt><mrow><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>7</mn><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></msqrt></mrow></mrow></mstyle></math>. What is the value of <math alttext=\"the second derivative of y, with respect to x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mfrac><mrow><msup><mrow><mi>d</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>y</mi></mrow><mrow><mi>d</mi><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mrow></mstyle></math> at <math alttext=\"x equals 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>x</mi><mo>=</mo><mn>1</mn></mrow></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "10",
+        "image": null
+      },
+      {
+        "label": "23",
+        "image": null
+      },
+      {
+        "label": "55",
+        "image": null
+      },
+      {
+        "label": "160",
+        "image": null
+      }
+    ],
+    "answer": "55"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.6",
+    "text": "3.6: Calculating Higher-Order Derivatives"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

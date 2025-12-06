@@ -1,0 +1,41 @@
+{
+  "id": "NSG000003",
+  "type": "mcq",
+  "title": "recursive calculateValue method - determine result",
+  "content": {
+    "description": "",
+    "question": "What value is returned as a result of the method call calculateValue(4)?",
+    "image": null,
+    "choices": [
+      {
+        "label": "28",
+        "image": null
+      },
+      {
+        "label": "18",
+        "image": null
+      },
+      {
+        "label": "10",
+        "image": null
+      },
+      {
+        "label": "8",
+        "image": null
+      }
+    ],
+    "answer": "18"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.16",
+    "text": "4.16: Recursion"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "WAL000005",
+  "type": "mcq",
+  "title": "Print Hello - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following code segments will print the word Hello?",
+    "image": null,
+    "choices": [
+      {
+        "label": "System.out.print(\"Hello\");",
+        "image": null
+      },
+      {
+        "label": "System.out.print(Hello);",
+        "image": null
+      },
+      {
+        "label": "\"System.out.print(Hello)\";",
+        "image": null
+      },
+      {
+        "label": "System.out.print(He); System.out.print(llo);",
+        "image": null
+      }
+    ],
+    "answer": "System.out.print(\"Hello\");"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

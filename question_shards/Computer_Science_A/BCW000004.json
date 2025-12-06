@@ -1,0 +1,41 @@
+{
+  "id": "BCW000004",
+  "type": "mcq",
+  "title": "Equivalent dog cat expressions - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following code segments produces the same output as the given code segment for all values of a, b, c, and d?",
+    "image": null,
+    "choices": [
+      {
+        "label": "if (a < b && c != d) { System.out.println(\"dog\"); } else { System.out.println(\"cat\"); }",
+        "image": null
+      },
+      {
+        "label": "if (a > b && c == d) { System.out.println(\"cat\"); } else { System.out.println(\"dog\"); }",
+        "image": null
+      },
+      {
+        "label": "if (a >= b || c == d) { System.out.println(\"cat\"); } else { System.out.println(\"dog\"); }",
+        "image": null
+      },
+      {
+        "label": "if (a >= b && c == d) { System.out.println(\"cat\"); } else { System.out.println(\"dog\"); }",
+        "image": null
+      }
+    ],
+    "answer": "if (a >= b && c == d) { System.out.println(\"cat\"); } else { System.out.println(\"dog\"); }"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: `if` Statements"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VH904624",
+  "type": "mcq",
+  "title": "AnimalPrinter class",
+  "content": {
+    "description": "Consider the following description of the AnimalPrinter class which includes two methods.",
+    "question": "public void printDog()– Displays the word \"dog\" and then moves the cursor to a new line public void printCat()– Displays the word \"cat\" and then moves the cursor to a new line The method myMethod appears in a class other than AnimalPrinter. The method is intended to produce the following output. dog cat Assume that an AnimalPrinter object myPrinter has been properly declared and initialized inside myMethod. Which of the following code segments, if located in myMethod, will produce the intended output?",
+    "image": null,
+    "choices": [
+      {
+        "label": "printDog(); printCat();",
+        "image": null
+      },
+      {
+        "label": "printDog(AnimalPrinter); printCat(AnimalPrinter);",
+        "image": null
+      },
+      {
+        "label": "AnimalPrinter.printDog(); AnimalPrinter.printCat();",
+        "image": null
+      },
+      {
+        "label": "myPrinter.printDog();myPrinter.printCat();",
+        "image": null
+      }
+    ],
+    "answer": "myPrinter.printDog();myPrinter.printCat();"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.10",
+    "text": "1.10: Calling Class Methods"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

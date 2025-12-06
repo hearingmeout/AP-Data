@@ -1,0 +1,41 @@
+{
+  "id": "QFW000000",
+  "type": "mcq",
+  "title": "Inverse Functions - graphical inverse",
+  "content": {
+    "description": "​",
+    "question": "The x axis ranges from negative 3 to 3 in increments of 1. The y axis ranges from negative 3 to 3 in increments of 1. The graph is composed of three line segments: a segment from (negative 1 comma negative 2) to (1 comma negative 1), a segment from (1 comma negative 1) to (2 comma 2), and a segment from (2 comma 2) to (3 comma 3). ​The graph of the function <math alttext=\"y equals f open parentheses x close parentheses\"><semantics><mrow><mi>y</mi><mo>=</mo><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is given. Which of the following is the graph of <math alttext=\"y equals f to the power of negative 1 end exponent open parentheses x close parentheses\"><semantics><mrow><mi>y</mi><mo>=</mo><msup><mi>f</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfenced><mi>x</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": "https://ap.oly.st/images/3356b893ceac0faf6d0ed5ea473eb734.svg",
+    "choices": [
+      {
+        "label": "​ Both axes range from negative 3 to 3 in increments of 1. The graph is composed of three line segments: a segment from (negative 3 comma 3) to (negative 2 comma 2), a segment from (negative 2 comma 2) to (negative 1 comma negative 1), and a segment from (negative 1 comma negative 1) to (1 comma negative 2).",
+        "image": "https://ap.oly.st/images/8c73407016678b9775b34f83186cbeac.svg"
+      },
+      {
+        "label": "​ Both axes range from negative 3 to 3 in increments of 1. The graph is composed of three line segments: a segment from (negative 2 comma negative 1) to (negative 1 comma 1), a segment from (negative 1 comma 1) to (2 comma 2), and a segment from (2 comma 2) to (3 comma 3).",
+        "image": "https://ap.oly.st/images/8ede8da1350845e9cf95b38ebaa641a0.svg"
+      },
+      {
+        "label": "​ Both axes range from negative 3 to 3 in increments of 1. The graph is composed of three line segments: a segment from (negative 1 comma 2) to (1 comma 1), a segment from (1 comma 1) to (2 comma negative 2), and a segment from (2 comma negative 2) to (3 comma negative 3).",
+        "image": "https://ap.oly.st/images/53314a70f0f75c3be77c2b94c67f7768.svg"
+      },
+      {
+        "label": "​ Both axes range from negative 3 to 3 in increments of 1. The graph is composed of three line segments: a segment from (negative 3 comma negative 3) to (negative 2 comma negative 2), a segment from (negative 2 comma negative 2) to (negative 1 comma 1), and a segment from (negative 1 comma 1) to (1 comma 2).",
+        "image": "https://ap.oly.st/images/072b78ddb5d48acb95789822de7b3212.svg"
+      }
+    ],
+    "answer": "​ Both axes range from negative 3 to 3 in increments of 1. The graph is composed of three line segments: a segment from (negative 2 comma negative 1) to (negative 1 comma 1), a segment from (negative 1 comma 1) to (2 comma 2), and a segment from (2 comma 2) to (3 comma 3)."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: Inverse Functions"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Construct equivalent graphical, numerical, analytical, and verbal representations of functions that are useful in a given mathematical or applied context, with and without technology."
+  }
+}

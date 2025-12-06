@@ -1,0 +1,41 @@
+{
+  "id": "VH907211",
+  "type": "mcq",
+  "title": "call myMethod",
+  "content": {
+    "description": "Consider the following method.",
+    "question": "public double myMethod(int a, boolean b){ /* implementation not shown */ }Which of the following lines of code, if located in a method in the same class as myMethod, will compile without error?",
+    "image": null,
+    "choices": [
+      {
+        "label": "int result = myMethod(2, false);",
+        "image": null
+      },
+      {
+        "label": "double result = myMethod(0, false);",
+        "image": null
+      },
+      {
+        "label": "double result = myMethod(true, 10);",
+        "image": null
+      },
+      {
+        "label": "double result = myMethod(2.5, true);",
+        "image": null
+      }
+    ],
+    "answer": "double result = myMethod(0, false);"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Method Signatures"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

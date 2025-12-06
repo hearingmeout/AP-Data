@@ -1,0 +1,37 @@
+{
+  "id": "FT645705",
+  "type": "mcq",
+  "title": "Comparing robot algorithms",
+  "content": {
+    "description": "",
+    "question": "Which of the following code segments will move the robot to the gray square?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The block code consists of 3 lines. Line 1: Move X Times, begin block, 2, end block Line 2: Right X Times, begin block, 1, end block Line 3: Move X Times, begin block, 3, end block",
+        "image": "https://ap.oly.st/images/8d540a27cea7eabcd26caad495916eb5.JPG"
+      },
+      {
+        "label": "The block code consists of 3 lines. Line 1: Move X Times, begin block, 2, end block Line 2: Right X Times, begin block, 3, end block Line 3: Move X Times, begin block, 3, end block",
+        "image": "https://ap.oly.st/images/3bc0a8a73f19e0c5d659fcbc96f77991.JPG"
+      },
+      {
+        "label": "The block code consists of 3 lines. Line 1: Move X Times, begin block, 3, end block Line 2: Right X Times, begin block, 1, end block Line 3: Move X Times, begin block, 3, end block",
+        "image": "https://ap.oly.st/images/e4a825fd2cc8568e8c07663534ceb8f9.JPG"
+      },
+      {
+        "label": "The block code consists of 3 lines. Line 1: Move X Times, begin block, 3, end block Line 2: Right X Times, begin block, 3, end block Line 3: Move X Times, begin block, 3, end block",
+        "image": "https://ap.oly.st/images/2919ff5c3af96a1f07bbad624e774d30.JPG"
+      }
+    ],
+    "answer": "The block code consists of 3 lines. Line 1: Move X Times, begin block, 2, end block Line 2: Right X Times, begin block, 3, end block Line 3: Move X Times, begin block, 3, end block"
+  },
+  "topic": {
+    "code": "3.12",
+    "text": "3.12: Calling Procedures"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Use abstraction to manage complexity in a program."
+  }
+}

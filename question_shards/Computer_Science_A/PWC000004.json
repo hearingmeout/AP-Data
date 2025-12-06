@@ -1,0 +1,41 @@
+{
+  "id": "PWC000004",
+  "type": "mcq",
+  "title": "Print asterisks - determine result",
+  "content": {
+    "description": "",
+    "question": "What is printed as a result of executing this code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "* ** ***",
+        "image": null
+      },
+      {
+        "label": "** **** ******",
+        "image": null
+      },
+      {
+        "label": "* ** *** **** *****",
+        "image": null
+      },
+      {
+        "label": "** **** ****** ******** **********",
+        "image": null
+      }
+    ],
+    "answer": "* ** *** **** *****"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.8",
+    "text": "3.8: Scope and Access"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

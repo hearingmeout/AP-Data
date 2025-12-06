@@ -1,0 +1,41 @@
+{
+  "id": "VR595057",
+  "type": "mcq",
+  "title": "Justification - Continuity at a Point",
+  "content": {
+    "description": "The function <math alttext=\"f\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is continuous at <math alttext=\"x equals 3\" overflow=\"scroll\"><mrow><mi>x</mi><mo>=</mo><mn>3</mn></mrow></math>.",
+    "question": "<math alttext=\"f of 3 equals, 1 plus, the limit as x approaches 3 from the left, of, f of x, plus the limit as x approaches 3 from the right, of, f of x\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow><mo>=</mo><mn>1</mn><mo>+</mo><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><msup><mrow><mn>3</mn></mrow><mrow><mo>−</mo></mrow></msup></mrow></munder><mi>f</mi><mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow><mo>+</mo><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><msup><mrow><mn>3</mn></mrow><mrow><mo>+</mo></mrow></msup></mrow></munder><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math> Based on the statements above, which of the following must be true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"f of 3, equals negative 1\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow><mo>=</mo><mrow><mo>−</mo><mn>1</mn></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f of 3, equals 1\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow><mo>=</mo><mn>1</mn></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f of 3 is not equal to, the limit as x approaches 3, of, f of x\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow><mo>≠</mo><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mn>3</mn></mrow></munder><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is differentiable at <math alttext=\"x equals 3\" overflow=\"scroll\"><mrow><mi>x</mi><mo>=</mo><mn>3</mn></mrow></math>.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"f of 3, equals negative 1\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow><mo>=</mo><mrow><mo>−</mo><mn>1</mn></mrow></mrow></math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: Defining Continuity at a Point"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "OQH000001",
+  "type": "mcq",
+  "title": "Matrices - store products and prices",
+  "content": {
+    "description": "",
+    "question": "A store sells three different products. The price of the products, in increasing order, can be represented by the <math alttext=\"1 by 3\"><mn>1</mn><mo>×</mo><mn>3</mn></math> matrix <math alttext=\"A one by three matrix with components $12.50 and $17.00 and $18.25.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mo>$</mo><mn>12.50</mn></mtd><mtd><mo>$</mo><mn>17.00</mn></mtd><mtd><mo>$</mo><mn>18.25</mn></mtd></mtr></mtable></mfenced></math>. For sales on a certain day, <math alttext=\"x\"><mi>x</mi></math> represents the number of <math alttext=\"$ 12.50\"><mo>$</mo><mn>12.50</mn></math>-priced products sold, <math alttext=\"y\"><mi>y</mi></math> represents the number of <math alttext=\"$ 17.00\"><mo>$</mo><mn>17.00</mn></math>-priced products sold, and <math alttext=\"z\"><mi>z</mi></math> represents the number of <math alttext=\"$ 18.25\"><mo>$</mo><mn>18.25</mn></math>-priced products sold. Which of the following gives the total amount of sales, in dollars, for those three products on that day?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"The product of two matrices. A one by three matrix with components $12.50 and $17.00 and $18.25. A three by one matrix with components x and y and z.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mo>$</mo><mn>12.50</mn></mtd><mtd><mo>$</mo><mn>17.00</mn></mtd><mtd><mo>$</mo><mn>18.25</mn></mtd></mtr></mtable></mfenced><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mi>x</mi></mtd><mtd><mi>y</mi></mtd><mtd><mi>z</mi></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"The product of two matrices. A three by one matrix with components x and y and z. A one by three matrix with components $12.50 and $17.00 and $18.25.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mi>x</mi></mtd><mtd><mi>y</mi></mtd><mtd><mi>z</mi></mtd></mtr></mtable></mfenced><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mo>$</mo><mn>12.50</mn></mtd><mtd><mo>$</mo><mn>17.00</mn></mtd><mtd><mo>$</mo><mn>18.25</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"The product of two matrices. A one by three matrix with components $12.50 and $17.00 and $18.25. A three by one matrix with components x and y and z.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mo>$</mo><mn>12.50</mn></mtd><mtd><mo>$</mo><mn>17.00</mn></mtd><mtd><mo>$</mo><mn>18.25</mn></mtd></mtr></mtable></mfenced><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mi>x</mi></mtd></mtr><mtr><mtd><mi>y</mi></mtd></mtr><mtr><mtd><mi>z</mi></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"The product of two matrices. A three by one matrix with components x and y and z. A one by three matrix with components $12.50 and $17.00 and $18.25.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mi>x</mi></mtd></mtr><mtr><mtd><mi>y</mi></mtd></mtr><mtr><mtd><mi>z</mi></mtd></mtr></mtable></mfenced><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mo>$</mo><mn>12.50</mn></mtd><mtd><mo>$</mo><mn>17.00</mn></mtd><mtd><mo>$</mo><mn>18.25</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"The product of two matrices. A one by three matrix with components $12.50 and $17.00 and $18.25. A three by one matrix with components x and y and z.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mo>$</mo><mn>12.50</mn></mtd><mtd><mo>$</mo><mn>17.00</mn></mtd><mtd><mo>$</mo><mn>18.25</mn></mtd></mtr></mtable></mfenced><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mi>x</mi></mtd></mtr><mtr><mtd><mi>y</mi></mtd></mtr><mtr><mtd><mi>z</mi></mtd></mtr></mtable></mfenced></math>"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.10",
+    "text": "4.10: Matrices"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

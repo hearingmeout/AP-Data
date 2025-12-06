@@ -1,0 +1,41 @@
+{
+  "id": "VH935047",
+  "type": "mcq",
+  "title": "Spring-Block and Rough Surface",
+  "content": {
+    "description": "",
+    "question": "A block of mass <math alttext=\"M equals, 0.10 kilogram\" overflow=\"scroll\"><mstyle><mrow><mi>M</mi><mo>=</mo><mn>0.10</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mtext>kg</mtext></mrow></mstyle></math> is attached to one end of a spring with spring constant <math alttext=\"lowercase k equals 100 newtons per meter\" overflow=\"scroll\"><mstyle><mrow><mi>k</mi><mo>=</mo><mn>100</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mfrac><mrow><mtext>N</mtext></mrow><mrow><mtext>m</mtext></mrow></mfrac></mrow></mstyle></math> . The other end of the spring is attached to a fixed wall. The block is pushed against the spring, compressing it a distance <math alttext=\"x equals 0.04 meter\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>0.04</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mtext>m</mtext></mrow></mstyle></math> . The block is then released from rest, and the block-spring system travels along a horizontal, rough track. Data collected from a motion detector are used to create a graph of the kinetic energy <math alttext=\"uppercase K\" overflow=\"scroll\"><mstyle><mrow><mi>K</mi></mrow></mstyle></math> and spring potential energy <math alttext=\"U sub s\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>U</mi></mrow><mrow><mtext>s</mtext></mrow></msub></mrow></mstyle></math> of the system as a function of the block's position as the spring expands. How can the student determine the amount of mechanical energy dissipated by friction as the spring expanded to its natural spring length?",
+    "image": "https://ap.oly.st/images/8424316b331d10dcdc6c8266bcd05303.png",
+    "choices": [
+      {
+        "label": "Use <math alttext=\"F d\" overflow=\"scroll\"><mstyle><mrow><mi>F</mi><mi>d</mi></mrow></mstyle></math> with <math alttext=\"F\" overflow=\"scroll\"><mstyle><mrow><mi>F</mi></mrow></mstyle></math> equal to the distance the spring is compressed. Then multiply the value by the spring constant of the spring. Then multiply this value by <math alttext=\"d\" overflow=\"scroll\"><mstyle><mrow><mi>d</mi></mrow></mstyle></math> equal to the total displacement of the center of mass of the block.",
+        "image": null
+      },
+      {
+        "label": "Subtract the final kinetic energy of the block-spring system from the initial spring potential energy stored within the block-spring system.",
+        "image": null
+      },
+      {
+        "label": "Use <math alttext=\"one half lowercase k, times x squared\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>k</mi><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle></math> with <math alttext=\"lowercase k\" overflow=\"scroll\"><mstyle><mrow><mi>k</mi></mrow></mstyle></math> equal to <math alttext=\"100 newtons per meter\" overflow=\"scroll\"><mstyle><mrow><mn>100</mn><mfrac><mrow><mstyle mathvariant=\"normal\"><mrow><mi>N</mi></mrow></mstyle></mrow><mrow><mstyle mathvariant=\"normal\"><mrow><mi>m</mi></mrow></mstyle></mrow></mfrac></mrow></mstyle></math> and <math alttext=\"x\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> equal to the maximum compression of the spring.",
+        "image": null
+      },
+      {
+        "label": "Use the value of the kinetic energy of the block-spring system when the block is at a position of <math alttext=\"0 meter\" overflow=\"scroll\"><mstyle><mrow><mn>0</mn><mtext> </mtext><mstyle mathvariant=\"normal\"><mrow><mi>m</mi></mrow></mstyle></mrow></mstyle></math>.",
+        "image": null
+      }
+    ],
+    "answer": "Subtract the final kinetic energy of the block-spring system from the initial spring potential energy stored within the block-spring system."
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Work, Energy, and Power"
+  },
+  "topic": {
+    "code": "3.4",
+    "text": "3.4: Conservation of Energy"
+  },
+  "skill": {
+    "code": "2.D",
+    "text": "2.D: Predict new values or factors of change of physical quantities using functional dependence between variables."
+  }
+}

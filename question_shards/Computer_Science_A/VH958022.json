@@ -1,0 +1,41 @@
+{
+  "id": "VH958022",
+  "type": "mcq",
+  "title": "add elements from oldList to newList",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "ArrayList<Integer> oldList = new ArrayList();oldList.add(100);oldList.add(200);oldList.add(300);oldList.add(400);ArrayList<Integer> newList = new ArrayList();newList.add(oldList.remove(1));newList.add(oldList.get(2));System.out.println(newList);What, if anything, is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "[100, 300, 400]",
+        "image": null
+      },
+      {
+        "label": "[200, 300]",
+        "image": null
+      },
+      {
+        "label": "[200, 400]",
+        "image": null
+      },
+      {
+        "label": "Nothing is printed because the code segment does not compile.",
+        "image": null
+      }
+    ],
+    "answer": "[200, 400]"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

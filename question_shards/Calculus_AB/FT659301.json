@@ -1,0 +1,40 @@
+{
+  "id": "FT659301",
+  "type": "frq",
+  "title": "Theorem workout",
+  "content": {
+    "description": "",
+    "question": "The functions f and g are differentiable for all real numbers, and g is strictly increasing. The table above gives values of the functions and their first derivatives at selected values of x. The function h is given by h(x) = f(g(x)) - 6. (a) Explain why there must be a value r for 1 < r < 3 such that h(r) = -5.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "The functions f and g are differentiable for all real numbers, and g is strictly increasing. The table above gives values of the functions and their first derivatives at selected values of x. The function h is given by h(x) = f(g(x)) - 6. (a) Explain why there must be a value r for 1 < r < 3 such that h(r) = -5.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Calculus_AB/original.png"
+      },
+      {
+        "text": "(b) Explain why there must be a value c for 1 < c < 3 such that h'(c) = -5.",
+        "image": null
+      },
+      {
+        "text": "(c) Let w be the function given by <math> <semantics> <mrow> <mi>w</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mo>=</mo><mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>1</mn> <mrow> <mi>g</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow></mrow> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>t</mi> <mo>)</mo></mrow><mi>d</mi><mi>t</mi></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaWG3bWaaeWaa8aabaWdbiaadIhaaiaawIcacaGLPaaacqGH9aqp daWdXaWdaeaapeGaamOzaaWcpaqaa8qacaaIXaaapaqaa8qacaWGNb WaaeWaa8aabaWdbiaadIhaaiaawIcacaGLPaaaa0Gaey4kIipakmaa bmaapaqaa8qacaWG0baacaGLOaGaayzkaaGaamizaiaadshaaaa@4707@ </annotation> </semantics> </math>. Find the value of w'(3).",
+        "image": null
+      },
+      {
+        "text": "(d) If g-1 is the inverse function of g, write an equation for the line tangent to the graph of y = g-1(x) at x = 2.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.16",
+    "text": "1.16: Working with the Intermediate Value Theorem (IVT)"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

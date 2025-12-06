@@ -1,0 +1,37 @@
+{
+  "id": "VH854766",
+  "type": "mcq",
+  "title": "What can be determined from the course grade data",
+  "content": {
+    "description": "An administrator at the school has data about hundreds of students in a particular course. While the administrator does not know the values of each student’s individual assignment scores, the administrator does have the following information for each student.",
+    "question": "The student name A unique student ID number The number of assignments for the course The average assignment score before the lowest score was dropped The course grade after the lowest score was dropped Which of the following CANNOT be determined from this data alone?",
+    "image": null,
+    "choices": [
+      {
+        "label": "For a given student, the value of the highest assignment score",
+        "image": null
+      },
+      {
+        "label": "For a given student, the value of the lowest assignment score",
+        "image": null
+      },
+      {
+        "label": "For a given student, the change in course grade as a result of dropping the lowest score",
+        "image": null
+      },
+      {
+        "label": "The proportion of students who improved their course grade as a result of dropping the lowest score",
+        "image": null
+      }
+    ],
+    "answer": "For a given student, the value of the highest assignment score"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: Extracting Information from Data"
+  },
+  "skill": {
+    "code": "Skill 5.B",
+    "text": "Skill 5.B: Explain how knowledge can be generated from data."
+  }
+}

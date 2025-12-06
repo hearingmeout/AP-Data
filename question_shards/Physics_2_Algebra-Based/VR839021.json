@@ -1,0 +1,41 @@
+{
+  "id": "VR839021",
+  "type": "mcq",
+  "title": "Equivalent resistance - current in R1 R2 R3 combo",
+  "content": {
+    "description": "",
+    "question": "A circuit consists of a battery with a potential difference of <math alttext=\"delta V\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Δ</mi><mi>V</mi></math> and three resistors with resistances <math alttext=\"R sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>1</mn></msub></math>, <math alttext=\"R sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>2</mn></msub></math>, and <math alttext=\"R sub 3\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>3</mn></msub></math>, as shown in the figure. What is the current in the resistor of resistance <math alttext=\"R sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>1</mn></msub></math>?",
+    "image": "https://ap.oly.st/images/72353524fac870048a3efe2e4c8d09c2.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"the fraction with numerator delta V, and denominator R sub 1\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mi mathvariant=\"normal\">Δ</mi><mi>V</mi></mrow><msub><mi>R</mi><mn>1</mn></msub></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator delta V, and denominator R sub 1, end sub, plus R sub 2, end sub, plus R sub 3, end sub, end fraction\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mi mathvariant=\"normal\">Δ</mi><mi>V</mi></mrow><mrow><msub><mi>R</mi><mn>1</mn></msub><mo>+</mo><msub><mi>R</mi><mn>2</mn></msub><mo>+</mo><msub><mi>R</mi><mn>3</mn></msub></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"delta V, times open parenthesis, the fraction 1 over R sub 1, end fraction, plus the fraction 1 over R sub 2, end fraction, plus the fraction 1 over R sub 3, end fraction, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Δ</mi><mi>V</mi><mrow><mo>(</mo><mfrac><mn>1</mn><msub><mi>R</mi><mn>1</mn></msub></mfrac><mo>+</mo><mfrac><mn>1</mn><msub><mi>R</mi><mn>2</mn></msub></mfrac><mo>+</mo><mfrac><mn>1</mn><msub><mi>R</mi><mn>3</mn></msub></mfrac><mo>)</mo></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"delta V, times open parenthesis, the fraction with numerator R sub 2, end sub, plus R sub 3, end sub, and denominator R sub 1, end sub, times R sub 2, end sub, plus R sub 2, end sub, times R sub 3, end sub, plus R sub 1, end sub, times R sub 3, end fraction, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Δ</mi><mi>V</mi><mrow><mo>(</mo><mfrac><mrow><msub><mi>R</mi><mn>2</mn></msub><mo>+</mo><msub><mi>R</mi><mn>3</mn></msub></mrow><mrow><msub><mi>R</mi><mn>1</mn></msub><msub><mi>R</mi><mn>2</mn></msub><mo>+</mo><msub><mi>R</mi><mn>2</mn></msub><msub><mi>R</mi><mn>3</mn></msub><mo>+</mo><msub><mi>R</mi><mn>1</mn></msub><msub><mi>R</mi><mn>3</mn></msub></mrow></mfrac><mo>)</mo></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"delta V, times open parenthesis, the fraction with numerator R sub 2, end sub, plus R sub 3, end sub, and denominator R sub 1, end sub, times R sub 2, end sub, plus R sub 2, end sub, times R sub 3, end sub, plus R sub 1, end sub, times R sub 3, end fraction, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Δ</mi><mi>V</mi><mrow><mo>(</mo><mfrac><mrow><msub><mi>R</mi><mn>2</mn></msub><mo>+</mo><msub><mi>R</mi><mn>3</mn></msub></mrow><mrow><msub><mi>R</mi><mn>1</mn></msub><msub><mi>R</mi><mn>2</mn></msub><mo>+</mo><msub><mi>R</mi><mn>2</mn></msub><msub><mi>R</mi><mn>3</mn></msub><mo>+</mo><msub><mi>R</mi><mn>1</mn></msub><msub><mi>R</mi><mn>3</mn></msub></mrow></mfrac><mo>)</mo></mrow></math>"
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.5",
+    "text": "11.5: Compound Direct Current (DC) Circuits"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

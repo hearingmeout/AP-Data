@@ -1,0 +1,37 @@
+{
+  "id": "FT535659",
+  "type": "mcq",
+  "title": "Detecting errors in code to sum values in a list",
+  "content": {
+    "description": "A programmer wrote the program below. The program uses a list of numbers called numList. The program is intended to display the sum of the numbers in the list.",
+    "question": "In order to test the program, the programmer initializes numList to [0, 1, 4, 5]. The program displays 10, and the programmer concludes that the program works as intended.Which of the following is true?",
+    "image": "https://ap.oly.st/images/8b646410f1b6f2f2a7be31bbdf00c089.png",
+    "choices": [
+      {
+        "label": "The conclusion is correct; the program works as intended.",
+        "image": null
+      },
+      {
+        "label": "The conclusion is incorrect; the program does not display the correct value for the test case [0, 1, 4, 5].",
+        "image": null
+      },
+      {
+        "label": "The conclusion is incorrect; using the test case [0, 1, 4, 5] is not sufficient to conclude the program is correct.",
+        "image": null
+      },
+      {
+        "label": "The conclusion is incorrect; using the test case [0, 1, 4, 5] only confirms that the program works for lists in increasing order.",
+        "image": null
+      }
+    ],
+    "answer": "The conclusion is incorrect; using the test case [0, 1, 4, 5] is not sufficient to conclude the program is correct."
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Identifying and Correcting Errors"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Identify and correct errors in algorithms and programs, including error discovery through testing."
+  }
+}

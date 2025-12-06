@@ -1,0 +1,41 @@
+{
+  "id": "FZU000003",
+  "type": "mcq",
+  "title": "Compare String objects - explain error",
+  "content": {
+    "description": "",
+    "question": "Which of the following best explains the error, if any, in the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "In line 1, result should be initialized to true.",
+        "image": null
+      },
+      {
+        "label": "In line 2, str1 and str2 should be compared to null with the equals method.",
+        "image": null
+      },
+      {
+        "label": "In line 4, str1 and str2 should be compared to each other with the equals method.",
+        "image": null
+      },
+      {
+        "label": "The code segment contains no errors and works as intended.",
+        "image": null
+      }
+    ],
+    "answer": "In line 4, str1 and str2 should be compared to each other with the equals method."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

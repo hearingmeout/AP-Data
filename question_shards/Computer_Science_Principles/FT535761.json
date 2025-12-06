@@ -1,0 +1,37 @@
+{
+  "id": "FT535761",
+  "type": "mcq",
+  "title": "Compute sum in four iterations",
+  "content": {
+    "description": "Consider the following program code.",
+    "question": "Which of the following best describes the result of running the program code?",
+    "image": "https://ap.oly.st/images/475fa240ac28a2b88fe6bc993585c56e.png",
+    "choices": [
+      {
+        "label": "The number 0 is displayed.",
+        "image": null
+      },
+      {
+        "label": "The number 6 is displayed.",
+        "image": null
+      },
+      {
+        "label": "The number 10 is displayed.",
+        "image": null
+      },
+      {
+        "label": "Nothing is displayed; the program results in an infinite loop.",
+        "image": null
+      }
+    ],
+    "answer": "Nothing is displayed; the program results in an infinite loop."
+  },
+  "topic": {
+    "code": "3.8",
+    "text": "3.8: Iteration"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

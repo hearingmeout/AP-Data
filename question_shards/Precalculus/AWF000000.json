@@ -1,0 +1,41 @@
+{
+  "id": "AWF000000",
+  "type": "mcq",
+  "title": "Trigonometric Identities - sum identity for sine",
+  "content": {
+    "description": "",
+    "question": "The function ​<math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is given by <math alttext=\"f open parentheses theta close parentheses equals sin theta\"><semantics><mrow><mi>f</mi><mfenced><mi>θ</mi></mfenced><mo>=</mo><mi>sin</mi><mi>θ</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. Using the fact that <math alttext=\"pi over 12 equals pi over 4 plus open parentheses negative pi over 6 close parentheses\"><semantics><mrow><mfrac><mi>π</mi><mn>12</mn></mfrac><mo>=</mo><mfrac><mi>π</mi><mn>4</mn></mfrac><mo>+</mo><mfenced><mrow><mo>-</mo><mfrac><mi>π</mi><mn>6</mn></mfrac></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, what is the value of <math alttext=\"f open parentheses pi over 12 close parentheses\"><semantics><mrow><mi>f</mi><mfenced><mfrac><mi>π</mi><mn>12</mn></mfrac></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"negative fraction numerator square root of 2 over denominator 4 end fraction\"><semantics><mrow><mo>-</mo><mfrac><msqrt><mn>2</mn></msqrt><mn>4</mn></mfrac></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"fraction numerator square root of 2 minus 1 over denominator 2 end fraction\"><semantics><mfrac><mrow><msqrt><mn>2</mn></msqrt><mo>-</mo><mn>1</mn></mrow><mn>2</mn></mfrac><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"fraction numerator square root of 6 minus square root of 2 over denominator 4 end fraction\"><semantics><mfrac><mrow><msqrt><mn>6</mn></msqrt><mo>-</mo><msqrt><mn>2</mn></msqrt></mrow><mn>4</mn></mfrac><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"fraction numerator square root of 6 plus square root of 2 over denominator 4 end fraction\"><semantics><mfrac><mrow><msqrt><mn>6</mn></msqrt><mo>+</mo><msqrt><mn>2</mn></msqrt></mrow><mn>4</mn></mfrac><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"fraction numerator square root of 6 minus square root of 2 over denominator 4 end fraction\"><semantics><mfrac><mrow><msqrt><mn>6</mn></msqrt><mo>-</mo><msqrt><mn>2</mn></msqrt></mrow><mn>4</mn></mfrac><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Trigonometric and Polar Functions"
+  },
+  "topic": {
+    "code": "3.12",
+    "text": "3.12: Equivalent Representations of Trigonometric Functions"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Express functions, equations, or expressions in analytically equivalent forms that are useful in a given mathematical or applied context."
+  }
+}

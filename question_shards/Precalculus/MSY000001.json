@@ -1,0 +1,41 @@
+{
+  "id": "MSY000001",
+  "type": "mcq",
+  "title": "Parametric Functions - increasing and decreasing",
+  "content": {
+    "description": "",
+    "question": "The parametric function <math alttext=\"f\"><mi>f</mi></math> is given by <math alttext=\"f open parentheses t close parentheses equals open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses\"><mi>f</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced></math>, where <math alttext=\"x open parentheses t close parentheses equals 4 minus t squared\"><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>4</mn><mo>-</mo><msup><mi>t</mi><mn>2</mn></msup></math> and <math alttext=\"y open parentheses t close parentheses equals sin open parentheses t over 2 close parentheses\"><mi>y</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mi>sin</mi><mfenced><mfrac><mi>t</mi><mn>2</mn></mfrac></mfenced></math>. An object follows the path defined by <math alttext=\"f open parentheses t close parentheses\"><mi>f</mi><mfenced><mi>t</mi></mfenced></math> for time <math alttext=\"1 less or equal than t less or equal than 2\"><mn>1</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>2</mn></math> seconds. As the object starts moving at time <math alttext=\"t equals 1\"><mi>t</mi><mo>=</mo><mn>1</mn></math> second, which of the following describes its initial direction?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The object starts moving up and to the right.",
+        "image": null
+      },
+      {
+        "label": "The object starts moving up and to the left.",
+        "image": null
+      },
+      {
+        "label": "The object starts moving down and to the right.",
+        "image": null
+      },
+      {
+        "label": "The object starts moving down and to the left.",
+        "image": null
+      }
+    ],
+    "answer": "The object starts moving up and to the left."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Parametric Functions and Rates of Change"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Describe the characteristics of a function with varying levels of precision, depending on the function representation and available mathematical tools."
+  }
+}

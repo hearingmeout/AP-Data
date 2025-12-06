@@ -1,0 +1,41 @@
+{
+  "id": "VR730226",
+  "type": "mcq",
+  "title": "Fluid flow expression for pressure",
+  "content": {
+    "description": "",
+    "question": "Which of the following expressions is equal to the pressure of the water at Point <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mtext>B</mtext></math>?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"P sub 0 minus rho g H\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>P</mi><mn>0</mn></msub><mo>−</mo><mi>ρ</mi><mi>g</mi><mi>H</mi></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"P sub 0 minus rho g H, plus the fraction 3 over 8, end fraction, rho v sub 0, end sub, squared\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>P</mi><mn>0</mn></msub><mo>−</mo><mi>ρ</mi><mi>g</mi><mi>H</mi><mo>+</mo><mfrac><mn>3</mn><mn>8</mn></mfrac><mi>ρ</mi><msup><msub><mi>v</mi><mn>0</mn></msub><mn>2</mn></msup></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"P sub 0 minus rho g H, plus the fraction 15 over 32, end fraction, rho v sub 0, end sub, squared\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>P</mi><mn>0</mn></msub><mo>−</mo><mi>ρ</mi><mi>g</mi><mi>H</mi><mo>+</mo><mfrac><mn>15</mn><mn>32</mn></mfrac><mi>ρ</mi><msup><msub><mi>v</mi><mn>0</mn></msub><mn>2</mn></msup></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2 P sub 0\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><msub><mi>P</mi><mn>0</mn></msub></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"P sub 0 minus rho g H, plus the fraction 15 over 32, end fraction, rho v sub 0, end sub, squared\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>P</mi><mn>0</mn></msub><mo>−</mo><mi>ρ</mi><mi>g</mi><mi>H</mi><mo>+</mo><mfrac><mn>15</mn><mn>32</mn></mfrac><mi>ρ</mi><msup><msub><mi>v</mi><mn>0</mn></msub><mn>2</mn></msup></mstyle></math>"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Fluids"
+  },
+  "topic": {
+    "code": "8.4",
+    "text": "8.4: Fluids and Conservation Laws"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

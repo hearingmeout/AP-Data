@@ -1,0 +1,41 @@
+{
+  "id": "FT560161",
+  "type": "mcq",
+  "title": "Interpret the meaning of a derivative in context",
+  "content": {
+    "description": "",
+    "question": "A file is downloaded to a computer at a rate modeled by the differentiable function f(t), where t is the time in seconds since the start of the download and f(t) is measured in megabits per second. Which of the following is the best interpretation of f'(5) = 2.8 ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "At time t = 5 seconds, the rate at which the file is downloaded to the computer is 2.8 megabits per second. (B) (C)(D)",
+        "image": null
+      },
+      {
+        "label": "At time t = 5 seconds, the rate at which the file is downloaded to the computer is increasing at a rate of 2.8 megabits per second per second.",
+        "image": null
+      },
+      {
+        "label": "Over the time interval <math> <semantics> <mrow> <mn>0</mn> <mo>≤</mo> <mi>t</mi> <mo>≤</mo> <mn>5</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaaIWaGaeyizImQaamiDaiabgsMiJkaaiwdaaaa@3BF2@ </annotation> </semantics> </math> seconds, 2.8 megabits of the file are downloaded to the computer.",
+        "image": null
+      },
+      {
+        "label": "Over the time interval <math> <semantics> <mrow> <mn>0</mn> <mo>≤</mo> <mi>t</mi> <mo>≤</mo> <mn>5</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaaIWaGaeyizImQaamiDaiabgsMiJkaaiwdaaaa@3BF2@ </annotation> </semantics> </math> seconds, the average rate at which the file is downloaded to the computer is 2.8 megabits per second.",
+        "image": null
+      }
+    ],
+    "answer": "At time t = 5 seconds, the rate at which the file is downloaded to the computer is increasing at a rate of 2.8 megabits per second per second."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Contextual Applications of Differentiation"
+  },
+  "topic": {
+    "code": "4.1",
+    "text": "4.1: Interpreting the Meaning of the Derivative in Context"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

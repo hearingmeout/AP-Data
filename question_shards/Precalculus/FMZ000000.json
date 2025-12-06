@@ -1,0 +1,41 @@
+{
+  "id": "FMZ000000",
+  "type": "mcq",
+  "title": "Exponential Function - Modeling Growth",
+  "content": {
+    "description": "",
+    "question": "​The value, in millions of dollars, of transactions processed by an online payment platform is modeled by the function <math alttext=\"M\"><semantics><mi>M</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. The value is expected to increase by <math alttext=\"6.1 percent sign\"><semantics><mrow><mn>6.1</mn><mo>%</mo></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> each quarter of a year. At time <math alttext=\"t equals 0\"><semantics><mrow><mi>t</mi><mo>=</mo><mn>0</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> years, <math alttext=\"54\"><semantics><mn>54</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> million dollars of transactions were processed. If <math alttext=\"t\"><semantics><mi>t</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is measured in years, which of the following is an expression for <math alttext=\"M open parentheses t close parentheses\"><semantics><mrow><mi>M</mi><mfenced><mi>t</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ? (Note: A quarter is one fourth of a year.)",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"54 open parentheses 0.061 close parentheses to the power of open parentheses t divided by 4 close parentheses end exponent\"><semantics><mrow><mn>54</mn><msup><mfenced><mn>0.061</mn></mfenced><mfenced><mrow><mi>t</mi><mo>/</mo><mn>4</mn></mrow></mfenced></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"54 open parentheses 0.061 close parentheses to the power of open parentheses 4 t close parentheses end exponent\"><semantics><mrow><mn>54</mn><msup><mfenced><mn>0.061</mn></mfenced><mfenced><mrow><mn>4</mn><mi>t</mi></mrow></mfenced></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"54 open parentheses 1.061 close parentheses to the power of open parentheses t divided by 4 close parentheses end exponent\"><semantics><mrow><mn>54</mn><msup><mfenced><mn>1.061</mn></mfenced><mfenced><mrow><mi>t</mi><mo>/</mo><mn>4</mn></mrow></mfenced></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"54 open parentheses 1.061 close parentheses to the power of open parentheses 4 t close parentheses end exponent\"><semantics><mrow><mn>54</mn><msup><mfenced><mn>1.061</mn></mfenced><mfenced><mrow><mn>4</mn><mi>t</mi></mrow></mfenced></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"54 open parentheses 1.061 close parentheses to the power of open parentheses 4 t close parentheses end exponent\"><semantics><mrow><mn>54</mn><msup><mfenced><mn>1.061</mn></mfenced><mfenced><mrow><mn>4</mn><mi>t</mi></mrow></mfenced></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.5",
+    "text": "2.5: Exponential Function Context and Data Modeling"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "QHL000000",
+  "type": "mcq",
+  "title": "Model Selection - concert fields",
+  "content": {
+    "description": "The stage is shown at the top left. Three squares indicate the sizes of three square-shaped field. The three squares are nested from smallest to largest, share a point in the top left corner, and share a portion of the top of the square and the left side of the square. The smallest square has a horizontal side labeled Small Field. The square that is larger has a horizontal side labeled Medium Field. The largest square has a horizontal side labeled Large Field.",
+    "question": "​A music agent is planning a series of concerts at local farms around the nation. The agent is building a model to estimate crowd capacity based on different sizes of square fields. Which type of function is most likely to model crowd capacity in this situation?",
+    "image": "https://ap.oly.st/images/965698c05da4e3de2e93ec33e3c05827.svg",
+    "choices": [
+      {
+        "label": "​Linear",
+        "image": null
+      },
+      {
+        "label": "​Piecewise linear",
+        "image": null
+      },
+      {
+        "label": "​Quadratic",
+        "image": null
+      },
+      {
+        "label": "​Cubic",
+        "image": null
+      }
+    ],
+    "answer": "​Quadratic"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Polynomial and Rational Functions"
+  },
+  "topic": {
+    "code": "1.13",
+    "text": "1.13: Function Model Selection and Assumption Articulation"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Identify information from graphical, numerical, analytical, and verbal representations to answer a question or construct a model, with and without technology."
+  }
+}

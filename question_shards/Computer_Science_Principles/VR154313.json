@@ -1,0 +1,37 @@
+{
+  "id": "VR154313",
+  "type": "mcq",
+  "title": "Hot and humid conditionals",
+  "content": {
+    "description": "Assume that the Boolean variable hot is assigned the value true and the Boolean variable humid is assigned the value false. Which of the following will display the value true ?",
+    "question": "Select two answers.",
+    "image": null,
+    "choices": [
+      {
+        "label": "The figure presents one block of code that consists of 2 lines. Throughout the code there are nested blocks of code, as follows. [Begin Block] Line 1: IF [begin block] hot [end block] [Begin Block] Line 2: [begin block] DISPLAY [begin block] hot AND humid [end block] [end block] [End Block] [End Block]",
+        "image": "https://ap.oly.st/images/a22a0900266512496f34a6a5e67b8cb5.png"
+      },
+      {
+        "label": "The figure presents one block of code that consists of 2 lines. Throughout the code there are nested blocks of code, as follows. [Begin Block] Line 1: IF [begin block] NOT humid [end block] [Begin Block] Line 2: [begin block] DISPLAY [begin block] hot OR humid [end block] [end block] [End Block] [End Block]",
+        "image": "https://ap.oly.st/images/e8e5494a9dc97979c84e2b6c27d56c61.png"
+      },
+      {
+        "label": "The figure presents one block of code that consists of 2 lines. Throughout the code there are nested blocks of code, as follows. [Begin Block] Line 1: IF [begin block] hot OR humid [end block] [Begin Block] Line 2: [begin block] DISPLAY [begin block] hot [end block] [end block] [End Block] [End Block]",
+        "image": "https://ap.oly.st/images/06630a29356c498b7c8294fffcbad74d.png"
+      },
+      {
+        "label": "The figure presents one block of code that consists of 2 lines. Throughout the code there are nested blocks of code. [Begin Block] Line 1: IF [begin block] hot AND humid [end block] [Begin Block] Line 2: [begin block] DISPLAY [begin block] hot [end block] [end block] [End Block] [End Block]",
+        "image": "https://ap.oly.st/images/5e072018c133562ac72eda0392c5195f.png"
+      }
+    ],
+    "answer": "The figure presents one block of code that consists of 2 lines. Throughout the code there are nested blocks of code, as follows. [Begin Block] Line 1: IF [begin block] NOT humid [end block] [Begin Block] Line 2: [begin block] DISPLAY [begin block] hot OR humid [end block] [end block] [End Block] [End Block]"
+  },
+  "topic": {
+    "code": "3.5",
+    "text": "3.5: Boolean Expressions"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

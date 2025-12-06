@@ -1,0 +1,41 @@
+{
+  "id": "FXX000005",
+  "type": "mcq",
+  "title": "Item Class - determine output",
+  "content": {
+    "description": "",
+    "question": "What, if anything, is printed as a result of executing each of the code segments?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Code segment I prints the price of myItem, and code segment II prints the name of myItem2.",
+        "image": null
+      },
+      {
+        "label": "Code segment I prints the price of myItem, but code segment II does not compile.",
+        "image": null
+      },
+      {
+        "label": "Code segment II prints the name of myItem2, but code segment I does not compile.",
+        "image": null
+      },
+      {
+        "label": "Nothing is printed because neither code segment compiles.",
+        "image": null
+      }
+    ],
+    "answer": "Code segment II prints the name of myItem2, but code segment I does not compile."
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Anatomy of a Class"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

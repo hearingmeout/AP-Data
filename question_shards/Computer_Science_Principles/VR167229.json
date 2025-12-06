@@ -1,0 +1,37 @@
+{
+  "id": "VR167229",
+  "type": "mcq",
+  "title": "How information is transmitted on the Internet",
+  "content": {
+    "description": "",
+    "question": "Which of the following best explains how messages are typically transmitted over the Internet?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The message is broken into packets that are transmitted in a specified order. Each packet must be received in the order it was sent for the message to be correctly reassembled by the recipient’s device.",
+        "image": null
+      },
+      {
+        "label": "The message is broken into packets. The packets can be received in any order and still be reassembled by the recipient’s device.",
+        "image": null
+      },
+      {
+        "label": "The message is broken into two packets. One packet contains the data to be transmitted and the other packet contains metadata for routing the data to the recipient’s device.",
+        "image": null
+      },
+      {
+        "label": "The message is transmitted as a single file and received in whole by the recipient’s device.",
+        "image": null
+      }
+    ],
+    "answer": "The message is broken into packets. The packets can be received in any order and still be reassembled by the recipient’s device."
+  },
+  "topic": {
+    "code": "4.1",
+    "text": "4.1: The Internet"
+  },
+  "skill": {
+    "code": "Skill 5.A",
+    "text": "Skill 5.A: Explain how computing systems work."
+  }
+}

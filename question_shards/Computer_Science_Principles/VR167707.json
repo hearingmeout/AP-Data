@@ -1,0 +1,37 @@
+{
+  "id": "VR167707",
+  "type": "mcq",
+  "title": "Ability of parallel solution to improve efficiency",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the ability of parallel computing solutions to improve efficiency?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Any problem that can be solved sequentially can be solved using a parallel solution in approximately half the time.",
+        "image": null
+      },
+      {
+        "label": "Any solution can be broken down into smaller and smaller parallel portions, making the improvement in efficiency theoretically limitless as long as there are enough processors available.",
+        "image": null
+      },
+      {
+        "label": "The efficiency of parallel computing solutions is rarely improved over the efficiency of sequential computing solutions.",
+        "image": null
+      },
+      {
+        "label": "The efficiency of a solution that can be broken down into parallel portions is still limited by a sequential portion.",
+        "image": null
+      }
+    ],
+    "answer": "The efficiency of a solution that can be broken down into parallel portions is still limited by a sequential portion."
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Parallel and Distributed Computing"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

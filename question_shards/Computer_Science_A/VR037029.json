@@ -1,0 +1,41 @@
+{
+  "id": "VR037029",
+  "type": "mcq",
+  "title": "strArrMethod - first day of spring",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "String[] testOne = {\"first\", \"day\", \"of\", \"spring\"};String[] resultOne = strArrMethod(testOne);What are the contents of resultOne when the code segment has been executed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "{\"day\", \"first\", \"of\", \"spring\"}",
+        "image": null
+      },
+      {
+        "label": "{\"of\", \"day\", \"first\", \"spring\"}",
+        "image": null
+      },
+      {
+        "label": "{\"of\", \"day\", \"of\", \"spring\"}",
+        "image": null
+      },
+      {
+        "label": "{\"of\", \"of\", \"of\", \"spring\"}",
+        "image": null
+      }
+    ],
+    "answer": "{\"of\", \"of\", \"of\", \"spring\"}"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

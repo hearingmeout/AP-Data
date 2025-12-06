@@ -1,0 +1,41 @@
+{
+  "id": "VH953817",
+  "type": "mcq",
+  "title": "Processes - Integration by Completing the Square",
+  "content": {
+    "description": "",
+    "question": "<math alttext=\"the indefinite integral of, the fraction with numerator 2, and denominator the square root of negative x squared, minus 2 x, end root, end fraction, d x, equals\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><mo stretchy=\"true\">∫</mo><mrow><mfrac><mrow><mn>2</mn></mrow><mrow><msqrt><mrow><mrow><mo>−</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mo>−</mo><mn>2</mn><mi>x</mi></mrow></msqrt></mrow></mfrac><mtext> </mtext><mtext> </mtext><mi>d</mi><mi>x</mi></mrow></mrow></mstyle><mo>=</mo></mrow></mstyle></math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"4 times, the square root of negative x squared, minus 2 x, end root, plus C\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>4</mn><msqrt><mrow><mrow><mo>−</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mo>−</mo><mn>2</mn><mi>x</mi></mrow></msqrt><mo>+</mo><mi>C</mi></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2 times the inverse tangent of, open parenthesis, x plus 1, close parenthesis, plus C\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn><msup><mrow><mi>tan</mi><mo>⁡</mo></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mo>+</mo><mi>C</mi></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2 times the inverse sine of, open parenthesis, x plus 1, close parenthesis, plus C\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn><msup><mrow><mi>sin</mi></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup><mo stretchy=\"false\">(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo stretchy=\"false\">)</mo><mo>+</mo><mi>C</mi></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2 times the inverse sine of, open parenthesis, x minus 1, close parenthesis, plus C\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn><msup><mrow><mi>sin</mi><mo>⁡</mo></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup><mo stretchy=\"false\">(</mo><mi>x</mi><mo>−</mo><mn>1</mn><mo stretchy=\"false\">)</mo><mo>+</mo><mi>C</mi></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"2 times the inverse sine of, open parenthesis, x plus 1, close parenthesis, plus C\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn><msup><mrow><mi>sin</mi></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup><mo stretchy=\"false\">(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo stretchy=\"false\">)</mo><mo>+</mo><mi>C</mi></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.10",
+    "text": "6.10: Integrating Functions Using Long Division and Completing the Square"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

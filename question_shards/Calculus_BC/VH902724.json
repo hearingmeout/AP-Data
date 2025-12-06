@@ -1,0 +1,41 @@
+{
+  "id": "VH902724",
+  "type": "mcq",
+  "title": "Processes - Evaluate Limits",
+  "content": {
+    "description": "<math alttext=\"f of x, equals, the fraction with numerator x, and denominator the absolute value of x, end fraction, for x not equal to 0; f of x equals, 0, for x equals 0.\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mo>{</mo><mtable columnalign=\"left\"><mtr><mtd><mfrac><mrow><mi>x</mi></mrow><mrow><mo>|</mo><mi>x</mi><mo>|</mo></mrow></mfrac></mtd><mtd><mrow><mtext>for</mtext><mspace></mspace><mspace width=\"0.45em\"></mspace><mi>x</mi><mo>≠</mo><mn>0</mn></mrow></mtd></mtr><mtr><mtd><mrow><mn>0</mn></mrow></mtd><mtd><mrow><mtext>for</mtext><mspace></mspace><mspace width=\"0.45em\"></mspace><mi>x</mi><mo>=</mo><mn>0</mn></mrow></mtd></mtr></mtable></mrow></mstyle></math>",
+    "question": "If <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is the function defined above, then <math alttext=\"the limit as x approaches 0, of, f of x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mn>0</mn></mrow></munder><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math> is",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"negative 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>1</mn></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "0",
+        "image": null
+      },
+      {
+        "label": "1",
+        "image": null
+      },
+      {
+        "label": "nonexistent",
+        "image": null
+      }
+    ],
+    "answer": "nonexistent"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.7",
+    "text": "1.7: Selecting Procedures for Determining Limits"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Identify an appropriate mathematical rule or procedure based on the classification of a given expression (e.g., Use the chain rule to find the derivative of a composite function)."
+  }
+}

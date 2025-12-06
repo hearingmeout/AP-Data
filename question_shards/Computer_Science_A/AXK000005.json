@@ -1,0 +1,41 @@
+{
+  "id": "AXK000005",
+  "type": "mcq",
+  "title": "Access to methods in Apartment and Duplex classes",
+  "content": {
+    "description": "",
+    "question": "Which of the following replacements for /* missing code */ will compile without error?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Apartment.calculateRent()",
+        "image": null
+      },
+      {
+        "label": "Apartment.getTenant()",
+        "image": null
+      },
+      {
+        "label": "unitOne.calculateRent()",
+        "image": null
+      },
+      {
+        "label": "unitTwo.getTenant()",
+        "image": null
+      }
+    ],
+    "answer": "unitOne.calculateRent()"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.14",
+    "text": "1.14: Calling Instance Methods"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

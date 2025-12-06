@@ -1,0 +1,41 @@
+{
+  "id": "UMK000003",
+  "type": "mcq",
+  "title": "Matrices - identity matrix",
+  "content": {
+    "description": "",
+    "question": "Matrices <math alttext=\"A\"><mi>A</mi></math> and <math alttext=\"B\"><mi>B</mi></math> are <math alttext=\"2 by 2\"><mn>2</mn><mo>×</mo><mn>2</mn></math> matrices of real numbers. If <math alttext=\"A times B equals A\"><mi>A</mi><mo>·</mo><mi>B</mi><mo>=</mo><mi>A</mi></math>, matrix <math alttext=\"B\"><mi>B</mi></math> is equivalent to which of the following?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"A 2 by 2 matrix. Row 1 column 1 is 1. Row 1 column 2 is 0. Row 2 column 1 is 0. Row 2 column 2 is 1.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>1</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"A 2 by 2 matrix. Row 1 column 1 is 1. Row 1 column 2 is 1. Row 2 column 1 is 1. Row 2 column 2 is 1.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"A 2 by 2 matrix. Row 1 column 1 is 0. Row 1 column 2 is 1. Row 2 column 1 is 1. Row 2 column 2 is 0.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>0</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd><mtd><mn>0</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"A 2 by 2 matrix. Row 1 column 1 is 1. Row 1 column 2 is 0. Row 2 column 1 is 1. Row 2 column 2 is 0.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd><mtd><mn>0</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"A 2 by 2 matrix. Row 1 column 1 is 1. Row 1 column 2 is 0. Row 2 column 1 is 0. Row 2 column 2 is 1.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>1</mn></mtd></mtr></mtable></mfenced></math>"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.11",
+    "text": "4.11: The Inverse and Determinant of a Matrix"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Express functions, equations, or expressions in analytically equivalent forms that are useful in a given mathematical or applied context."
+  }
+}

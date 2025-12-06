@@ -1,0 +1,41 @@
+{
+  "id": "VH934805",
+  "type": "mcq",
+  "title": "Processes - Evaluate Limits",
+  "content": {
+    "description": "",
+    "question": "If <math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> is the function defined by <math alttext=\"g of x, equals, the fraction with numerator 2 times the cosine squared of x, minus 1, and denominator cosine x minus sine x, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>2</mn><msup><mrow><mi>cos</mi><mo>⁡</mo></mrow><mrow><mn>2</mn></mrow></msup><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mrow><mi>cos</mi><mo>⁡</mo><mi>x</mi><mo>−</mo><mi>sin</mi><mo>⁡</mo><mi>x</mi><mrow><mo>⁢</mo></mrow></mrow></mfrac></mrow></mstyle></math>, then <math alttext=\"the limit as x approaches pi over 4, of, g of x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></munder><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math> is equivalent to which of the following?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the limit as x approaches pi over 4, of, open parenthesis, 2 times the cosine squared of x, minus 1, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi><mo>⁡</mo></mrow><mrow><mi>x</mi><mo>→</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></munder><mrow><mo>(</mo><mn>2</mn><msup><mrow><mi>cos</mi><mo>⁡</mo></mrow><mrow><mn>2</mn></mrow></msup><mi>x</mi><mo>−</mo><mn>1</mn><mo>)</mo></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the limit as x approaches pi over 4, of, open parenthesis, cosine x plus sine x, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi><mo>⁡</mo></mrow><mrow><mi>x</mi><mo>→</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></munder><mrow><mo>(</mo><mi>cos</mi><mo>⁡</mo><mi>x</mi><mo>+</mo><mi>sin</mi><mo>⁡</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the limit as x approaches pi over 4, of, open parenthesis, cosine x minus sine x, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi><mo>⁡</mo></mrow><mrow><mi>x</mi><mo>→</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></munder><mrow><mo>(</mo><mi>cos</mi><mo>⁡</mo><mi>x</mi><mo>−</mo><mi>sin</mi><mo>⁡</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator, the limit as x approaches pi over 4, of, open parenthesis, 2 times the cosine squared of x, minus 1, close parenthesis, and denominator, the limit as x approaches pi over 4, of, open parenthesis, cosine x minus sine x, close parenthesis, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mstyle><mrow><munder><mrow><mi>lim</mi><mo>⁡</mo></mrow><mrow><mi>x</mi><mo>→</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></munder><mrow><mo>(</mo><mn>2</mn><msup><mrow><mi>cos</mi><mo>⁡</mo></mrow><mrow><mn>2</mn></mrow></msup><mi>x</mi><mo>−</mo><mn>1</mn><mo>)</mo></mrow></mrow></mstyle></mrow><mrow><mstyle><mrow><munder><mrow><mi>lim</mi><mo>⁡</mo></mrow><mrow><mi>x</mi><mo>→</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></munder><mrow><mo>(</mo><mi>cos</mi><mo>⁡</mo><mi>x</mi><mo>−</mo><mi>sin</mi><mo>⁡</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the limit as x approaches pi over 4, of, open parenthesis, cosine x plus sine x, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi><mo>⁡</mo></mrow><mrow><mi>x</mi><mo>→</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></munder><mrow><mo>(</mo><mi>cos</mi><mo>⁡</mo><mi>x</mi><mo>+</mo><mi>sin</mi><mo>⁡</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.7",
+    "text": "1.7: Selecting Procedures for Determining Limits"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Identify an appropriate mathematical rule or procedure based on the classification of a given expression (e.g., Use the chain rule to find the derivative of a composite function)."
+  }
+}

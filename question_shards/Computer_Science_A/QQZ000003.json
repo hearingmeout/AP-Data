@@ -1,0 +1,41 @@
+{
+  "id": "QQZ000003",
+  "type": "mcq",
+  "title": "reverse array method - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following statements can be used to replace /* missing statement */ so that the method works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "newArray[k] = arr[k - arr.length];",
+        "image": null
+      },
+      {
+        "label": "newArray[k] = arr[k - arr.length - 1];",
+        "image": null
+      },
+      {
+        "label": "newArray[k] = arr[arr.length - k];",
+        "image": null
+      },
+      {
+        "label": "newArray[k] = arr[arr.length - k - 1];",
+        "image": null
+      }
+    ],
+    "answer": "newArray[k] = arr[arr.length - k - 1];"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implementing Array Algorithms"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

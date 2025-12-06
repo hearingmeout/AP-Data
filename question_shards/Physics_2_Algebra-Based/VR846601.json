@@ -1,0 +1,41 @@
+{
+  "id": "VR846601",
+  "type": "mcq",
+  "title": "Time const - 2-resistor 1-capacitor combination",
+  "content": {
+    "description": "",
+    "question": "The figure shows a circuit consisting of two identical resistors of resistance <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math>, a capacitor of capacitance <math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mi>C</mi></math>, a battery, and a switch. What is the time constant of the circuit?",
+    "image": "https://ap.oly.st/images/dc6c3702ca25beed84c872927c1f3a9d.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"one third R C\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>R</mi><mi>C</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one half R C\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>R</mi><mi>C</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2 R C\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mi>R</mi><mi>C</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"3 R C\" display=\"inline\" overflow=\"scroll\"><mn>3</mn><mi>R</mi><mi>C</mi></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"one half R C\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>R</mi><mi>C</mi></math>"
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.8",
+    "text": "11.8: Resistor-Capacitor (RC) Circuits"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

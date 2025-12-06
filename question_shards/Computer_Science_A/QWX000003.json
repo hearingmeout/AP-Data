@@ -1,0 +1,41 @@
+{
+  "id": "QWX000003",
+  "type": "mcq",
+  "title": "Expression equivalent to nested ifs - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following statements always assigns the same value to b2 as the code segment assigns to b1?",
+    "image": null,
+    "choices": [
+      {
+        "label": "boolean b2 = (num > -100) && (num < 100);",
+        "image": null
+      },
+      {
+        "label": "boolean b2 = (num > -100) || (num < 100);",
+        "image": null
+      },
+      {
+        "label": "boolean b2 = (num < -100) && (num > 0 || num < 100);",
+        "image": null
+      },
+      {
+        "label": "boolean b2 = (num < -100) || (num > 0 && num < 100);",
+        "image": null
+      }
+    ],
+    "answer": "boolean b2 = (num < -100) || (num > 0 && num < 100);"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Nested `if` Statements"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

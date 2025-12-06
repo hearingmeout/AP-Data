@@ -1,0 +1,45 @@
+{
+  "id": "FT576396",
+  "type": "mcq",
+  "title": "Simulation to conclude test of raffle ticket sales",
+  "content": {
+    "description": "",
+    "question": "Based on the results of the simulation, is there convincing statistical evidence at the significance level of 0.05 that the event of Audrey selling at least 7 of the 30 selected tickets is unlikely to have occurred by chance alone?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Yes, because the distribution of the trials in the simulation is skewed to the right.",
+        "image": null
+      },
+      {
+        "label": "Yes, because the number in the histogram with the greatest frequency is 4, not 7.",
+        "image": null
+      },
+      {
+        "label": "Yes, because 7 appears in the right tail of the distribution, indicating that it is more than 2 standard deviations away from the mean.",
+        "image": null
+      },
+      {
+        "label": "No, because the simulation suggests that it is likely that Audrey could sell anywhere from 0 to 11 of the selected tickets.",
+        "image": null
+      },
+      {
+        "label": "No, because the simulation suggests that Audrey selling at least 7 of 30 selected tickets would occur about 13.8% of the time.",
+        "image": null
+      }
+    ],
+    "answer": "No, because the simulation suggests that Audrey selling at least 7 of 30 selected tickets would occur about 13.8% of the time."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.2",
+    "text": "4.2: Estimating Probabilities Using Simulation"
+  },
+  "skill": {
+    "code": "Skill 4.E",
+    "text": "Skill 4.E: Justify a claim using a decision based on significance tests."
+  }
+}

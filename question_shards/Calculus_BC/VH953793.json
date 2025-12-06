@@ -1,0 +1,41 @@
+{
+  "id": "VH953793",
+  "type": "mcq",
+  "title": "Processes - Riemann Sums",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be the function given by <math alttext=\"f of x, equals, the fraction with numerator x cubed, plus 1, and denominator the square root of x squared, plus x, end root, end fraction. \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>+</mo><mn>1</mn></mrow><mrow><msqrt><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mi>x</mi></mrow></msqrt></mrow></mfrac></mrow></mstyle></math>. It is known that <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is increasing on the interval <math alttext=\"open bracket, 2 comma 8, close bracket \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>[</mo><mn>2</mn><mo>,</mo><mn>8</mn><mo>]</mo></mrow></mstyle></math>. Let <math alttext=\"R sub 3\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>3</mn></mrow></msub></mrow></mstyle></math> be the value of the right Riemann sum approximation for <math alttext=\"the integral from, 2 to 8, of, f of x, d x \" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>2</mn></mrow><mrow><mn>8</mn></mrow></msubsup><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></mstyle></mrow></math> using 3 intervals of equal length. Which of the following statements is true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"R sub 3, equals, 103.385 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo><mn>103.385</mn></mrow></mstyle></math> is an underestimate for <math alttext=\"the integral from, 2 to 8, of, f of x, d x \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>2</mn></mrow><mrow><mn>8</mn></mrow></msubsup><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></mstyle></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"R sub 3, equals, 103.385 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo><mn>103.385</mn></mrow></mstyle></math> is an overestimate for <math alttext=\"the integral from, 2 to 8, of, f of x, d x \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>2</mn></mrow><mrow><mn>8</mn></mrow></msubsup><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></mstyle></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"R sub 3, equals, 216.952 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo><mn>216.952</mn></mrow></mstyle></mrow></mstyle></math> is an underestimate for <math alttext=\"the integral from, 2 to 8, of, f of x, d x \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>2</mn></mrow><mrow><mn>8</mn></mrow></msubsup><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></mstyle></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"R sub 3, equals, 216.952 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo><mn>216.952</mn></mrow></mstyle></mrow></mstyle></math> is an overestimate for <math alttext=\"the integral from, 2 to 8, of, f of x, d x \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>2</mn></mrow><mrow><mn>8</mn></mrow></msubsup><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></mstyle></mrow></mstyle></math>.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"R sub 3, equals, 216.952 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>=</mo><mn>216.952</mn></mrow></mstyle></mrow></mstyle></math> is an overestimate for <math alttext=\"the integral from, 2 to 8, of, f of x, d x \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>2</mn></mrow><mrow><mn>8</mn></mrow></msubsup><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></mstyle></mrow></mstyle></math>."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.2",
+    "text": "6.2: Approximating Areas with Riemann Sums"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Explain how an approximated value relates to the actual value."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VH906260",
+  "type": "mcq",
+  "title": "ArithmeticException error",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "int x = 10;int y = 20;/* missing code */System.out.print(top / bottom);Which of the following replacements for /* missing code */ will cause an ArithmeticException to occur?int top = x - y;int bottom = y - x;int top = 2 * x;int bottom = y - top;int top = x + y;int bottom = 2 * top;",
+    "image": null,
+    "choices": [
+      {
+        "label": "I only",
+        "image": null
+      },
+      {
+        "label": "II only",
+        "image": null
+      },
+      {
+        "label": "III only",
+        "image": null
+      },
+      {
+        "label": "II and III",
+        "image": null
+      }
+    ],
+    "answer": "II only"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

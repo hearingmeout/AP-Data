@@ -1,0 +1,41 @@
+{
+  "id": "VKE000003",
+  "type": "mcq",
+  "title": "Matrix Modeling - predicting a steady state",
+  "content": {
+    "description": "",
+    "question": "The diagram shows two states, labeled 1 and 2. A loop from state 1 pointing back to state 1 is labeled 0.5. An arrow from state 1 to state 2 is labeled 0.5. A loop from state 2 pointing back to state 2 is labeled 0.5. An arrow from state 2 to state 1 is labeled 0.5. Objects in a system can be in two possible states: state <math alttext=\"1\"><mn>1</mn></math> and state <math alttext=\"2\"><mn>2</mn></math>. The state transition diagram for this situation is given. Which of the following is true?",
+    "image": "https://ap.oly.st/images/1d10669f003db7d546135ba1f87faded.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"50 percent sign\"><mn>50</mn><mo>%</mo></math> of objects are remaining and leaving both state <math alttext=\"1\"><mn>1</mn></math> and state <math alttext=\"2\"><mn>2</mn></math>. Therefore, this system cannot approach a steady state.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"50 percent sign\"><mn>50</mn><mo>%</mo></math> of objects are remaining and leaving both state <math alttext=\"1\"><mn>1</mn></math> and state <math alttext=\"2\"><mn>2</mn></math>. Therefore, if the initial percent of objects in state <math alttext=\"1\"><mn>1</mn></math> is <math alttext=\"x percent sign\"><mi>x</mi><mo>%</mo></math>, and the initial percent of objects in state <math alttext=\"2\"><mn>2</mn></math> is <math alttext=\"y percent sign\"><mi>y</mi><mo>%</mo></math>, then the steady state of state <math alttext=\"1\"><mn>1</mn></math> is <math alttext=\"x percent sign\"><mi>x</mi><mo>%</mo></math>, and the steady state of state <math alttext=\"2\"><mn>2</mn></math> is <math alttext=\"y percent sign\"><mi>y</mi><mo>%</mo></math>. The percentages will never change from state <math alttext=\"1\"><mn>1</mn></math> being <math alttext=\"x percent sign\"><mi>x</mi><mo>%</mo></math> and state <math alttext=\"2\"><mn>2</mn></math> being <math alttext=\"y percent sign\"><mi>y</mi><mo>%</mo></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"50 percent sign\"><mn>50</mn><mo>%</mo></math> of objects are remaining and leaving both state <math alttext=\"1\"><mn>1</mn></math> and state <math alttext=\"2\"><mn>2</mn></math>. Therefore, if the initial percent of objects in state <math alttext=\"1\"><mn>1</mn></math> is <math alttext=\"x percent sign\"><mi>x</mi><mo>%</mo></math>, and the initial percent of objects in state <math alttext=\"2\"><mn>2</mn></math> is <math alttext=\"y percent sign\"><mi>y</mi><mo>%</mo></math>, then the steady state of state <math alttext=\"1\"><mn>1</mn></math> is <math alttext=\"x percent sign\"><mi>x</mi><mo>%</mo></math>, and the steady state of state <math alttext=\"2\"><mn>2</mn></math> is <math alttext=\"y percent sign\"><mi>y</mi><mo>%</mo></math>—even though the percentages may change on the way to a steady state.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"50 percent sign\"><mn>50</mn><mo>%</mo></math> of objects are remaining and leaving both state <math alttext=\"1\"><mn>1</mn></math> and state <math alttext=\"2\"><mn>2</mn></math>. Therefore, no matter the initial percent of objects in state <math alttext=\"1\"><mn>1</mn></math> and the initial percent of objects in state <math alttext=\"2\"><mn>2</mn></math>, the steady state of state <math alttext=\"1\"><mn>1</mn></math> is <math alttext=\"50 percent sign\"><mn>50</mn><mo>%</mo></math> and the steady state of state <math alttext=\"2\"><mn>2</mn></math> is <math alttext=\"50 percent sign\"><mn>50</mn><mo>%</mo></math>.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"50 percent sign\"><mn>50</mn><mo>%</mo></math> of objects are remaining and leaving both state <math alttext=\"1\"><mn>1</mn></math> and state <math alttext=\"2\"><mn>2</mn></math>. Therefore, no matter the initial percent of objects in state <math alttext=\"1\"><mn>1</mn></math> and the initial percent of objects in state <math alttext=\"2\"><mn>2</mn></math>, the steady state of state <math alttext=\"1\"><mn>1</mn></math> is <math alttext=\"50 percent sign\"><mn>50</mn><mo>%</mo></math> and the steady state of state <math alttext=\"2\"><mn>2</mn></math> is <math alttext=\"50 percent sign\"><mn>50</mn><mo>%</mo></math>."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.14",
+    "text": "4.14: Matrices Modeling Contexts"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Support conclusions or choices with a logical rationale or appropriate data."
+  }
+}

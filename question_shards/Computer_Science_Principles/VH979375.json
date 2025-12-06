@@ -1,0 +1,37 @@
+{
+  "id": "VH979375",
+  "type": "mcq",
+  "title": "Role of certificate authorities",
+  "content": {
+    "description": "",
+    "question": "Which of the following best explains how a certificate authority is used in protecting data?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A certificate authority certifies the safety of a particular Web site so that users know that it does not contain any viruses.",
+        "image": null
+      },
+      {
+        "label": "A certificate authority issues passwords that grant access to secure databases.",
+        "image": null
+      },
+      {
+        "label": "A certificate authority maintains a secure database that maps all Web domain names to the IP addresses of the servers where the sites are hosted.",
+        "image": null
+      },
+      {
+        "label": "A certificate authority verifies the authenticity of encryption keys used in secured communications.",
+        "image": null
+      }
+    ],
+    "answer": "A certificate authority verifies the authenticity of encryption keys used in secured communications."
+  },
+  "topic": {
+    "code": "5.6",
+    "text": "5.6: Safe Computing"
+  },
+  "skill": {
+    "code": "Skill 5.D",
+    "text": "Skill 5.D: Describe the impact of gathering data."
+  }
+}

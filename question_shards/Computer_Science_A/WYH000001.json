@@ -1,0 +1,41 @@
+{
+  "id": "WYH000001",
+  "type": "mcq",
+  "title": "2D Array Traversal - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the value of total as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "It contains the sum of elements in even-numbered rows.",
+        "image": null
+      },
+      {
+        "label": "It contains the sum of elements in odd-numbered rows.",
+        "image": null
+      },
+      {
+        "label": "It contains the sum of elements in even-numbered columns.",
+        "image": null
+      },
+      {
+        "label": "It contains the sum of elements in odd-numbered columns.",
+        "image": null
+      }
+    ],
+    "answer": "It contains the sum of elements in odd-numbered rows."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.12",
+    "text": "4.12: 2D Array Traversals"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

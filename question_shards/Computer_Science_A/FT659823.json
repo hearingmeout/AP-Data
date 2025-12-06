@@ -1,0 +1,41 @@
+{
+  "id": "FT659823",
+  "type": "mcq",
+  "title": "comparing ArrayList to arrays",
+  "content": {
+    "description": "",
+    "question": "Which of the following is a reason to use an ArrayList instead of an array?",
+    "image": null,
+    "choices": [
+      {
+        "label": "An ArrayList allows faster access to its kth item than an array does.",
+        "image": null
+      },
+      {
+        "label": "An ArrayList can store objects and an array can only store primitive types.",
+        "image": null
+      },
+      {
+        "label": "An ArrayList resizes itself as necessary when items are added, but an array does not.",
+        "image": null
+      },
+      {
+        "label": "An ArrayList provides access to the number of items it stores, but an array does not.",
+        "image": null
+      }
+    ],
+    "answer": "An ArrayList resizes itself as necessary when items are added, but an array does not."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "1.A",
+    "text": "1.A: Determine an appropriate program design to solve a problem or accomplish a task."
+  }
+}

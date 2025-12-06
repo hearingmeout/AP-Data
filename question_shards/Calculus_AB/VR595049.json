@@ -1,0 +1,41 @@
+{
+  "id": "VR595049",
+  "type": "mcq",
+  "title": "Processes - Eulers Method",
+  "content": {
+    "description": "",
+    "question": "A slope field for the differential equation <math alttext=\"the derivative of y with respect to x, equals x plus y\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>=</mo><mi>x</mi><mo>+</mo><mi>y</mi></mrow></mstyle></mrow></math> is shown. The point <math alttext=\"with coordinates 2 comma negative 1\" display=\"inline\" overflow=\"scroll\"><mrow><mo>(</mo><mn>2</mn><mo>,</mo><mrow><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></math> is indicated in the figure. Let <math alttext=\"y equals, f of x\" display=\"inline\" overflow=\"scroll\"><mrow><mi>y</mi><mo>=</mo><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></math> be the solution to the differential equation with initial condition <math alttext=\"f of 2, equals negative 1\" display=\"inline\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow><mo>=</mo><mrow><mo>−</mo><mn>1</mn></mrow></mrow></math>. If <math alttext=\"f of 3\" display=\"inline\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></math> is approximated by using Euler's method with two steps of equal size starting at <math alttext=\"x equals 2\" display=\"inline\" overflow=\"scroll\"><mrow><mi>x</mi><mo>=</mo><mn>2</mn></mrow></math>, which of the following statements is true?",
+    "image": "https://ap.oly.st/images/40946d9f03c4c5e48d6073bb28275b08.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"f of 3, is approximately equal to one half\" display=\"inline\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow><mo>≈</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></math>, and this value is an underapproximation of <math alttext=\"f of 3\" display=\"inline\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f of 3, is approximately equal to one half\" display=\"inline\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow><mo>≈</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></math>, and this value is an overapproximation of <math alttext=\"f of 3\" display=\"inline\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f of 3, is approximately equal to 0\" display=\"inline\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow><mo>≈</mo><mn>0</mn></mrow></math>, and this value is an underapproximation of <math alttext=\"f of 3\" display=\"inline\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f of 3, is approximately equal to 0\" display=\"inline\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow><mo>≈</mo><mn>0</mn></mrow></math>, and this value is an overapproximation of <math alttext=\"f of 3\" display=\"inline\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></math>.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"f of 3, is approximately equal to one half\" display=\"inline\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow><mo>≈</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></math>, and this value is an underapproximation of <math alttext=\"f of 3\" display=\"inline\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></math>."
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.5",
+    "text": "7.5: (BC ONLY) Approximating Solutions Using Euler's Method"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Explain how an approximated value relates to the actual value."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "VR185556",
+  "type": "mcq",
+  "title": "Draw figure using drawLine procedure",
+  "content": {
+    "description": "Consider the following procedure.",
+    "question": "Procedure Call Explanation drawLine(x1, y1, x2, y2) Draws a line segment on a coordinate grid with endpoints at coordinates (x1, y1) and (x2, y2) The drawLine procedure is to be used to draw the following figure on a coordinate grid. Let the value of the variable xVal be 6 and the value of the variable yVal be 5. Which of the following code segments can be used to draw the figure?",
+    "image": "https://ap.oly.st/images/a34465a1e23bd11ca222baa4a0f59c6c.png",
+    "choices": [
+      {
+        "label": "drawLine(1, 5, xVal, yVal)drawline(1, 5, xVal, yVal + 2)drawline(1, 5, xVal, yVal + 2)",
+        "image": null
+      },
+      {
+        "label": "drawLine(1, 5, xVal, yVal)drawline(1, 5, xVal, yVal + 2)drawline(1, 5, xVal, yVal - 2)",
+        "image": null
+      },
+      {
+        "label": "drawLine(1, 5, xVal, yVal)drawline(1, 5, xVal + 2, yVal + 2)drawline(1, 5, xVal + 2, yVal - 2)",
+        "image": null
+      },
+      {
+        "label": "drawLine(1, 5, xVal, yVal)drawline(1, 5, xVal + 2, yVal + 2)drawline(1, 5, xVal - 2, yVal - 2)",
+        "image": null
+      }
+    ],
+    "answer": "drawLine(1, 5, xVal, yVal)drawline(1, 5, xVal, yVal + 2)drawline(1, 5, xVal, yVal - 2)"
+  },
+  "topic": {
+    "code": "3.12",
+    "text": "3.12: Calling Procedures"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Use abstraction to manage complexity in a program."
+  }
+}

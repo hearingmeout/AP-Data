@@ -1,0 +1,41 @@
+{
+  "id": "UMG000001",
+  "type": "mcq",
+  "title": "timesTwo method and assignments - determine result",
+  "content": {
+    "description": "",
+    "question": "What, if anything, is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "10",
+        "image": null
+      },
+      {
+        "label": "20",
+        "image": null
+      },
+      {
+        "label": "Nothing is printed; the code segment will not compile because timesTwo cannot accept an Integer argument.",
+        "image": null
+      },
+      {
+        "label": "Nothing is printed; the code segment will not compile because the int variable result1 cannot be assigned to the Integer variable result2.",
+        "image": null
+      }
+    ],
+    "answer": "20"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.7",
+    "text": "4.7: Wrapper Classes"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

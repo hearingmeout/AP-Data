@@ -1,0 +1,41 @@
+{
+  "id": "GBU000003",
+  "type": "mcq",
+  "title": "interchange x and y - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following can be used to replace /* missing code */ so that the code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "x = y; y = temp;",
+        "image": null
+      },
+      {
+        "label": "y = x; x = temp;",
+        "image": null
+      },
+      {
+        "label": "y = x; temp = y;",
+        "image": null
+      },
+      {
+        "label": "y = x; temp = x;",
+        "image": null
+      }
+    ],
+    "answer": "x = y; y = temp;"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Assignment Statements and Input"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

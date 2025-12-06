@@ -1,0 +1,41 @@
+{
+  "id": "CRU000003",
+  "type": "mcq",
+  "title": "Multiway and two-way selection - compare segments",
+  "content": {
+    "description": "",
+    "question": "Which of the following correctly compares the outputs of the two code segments?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Code segment I and code segment II produce the same output for all values of x and y.",
+        "image": null
+      },
+      {
+        "label": "Code segment I and code segment II produce the same output only when x is equal to y.",
+        "image": null
+      },
+      {
+        "label": "Code segment I and code segment II produce the same output only when x is not equal to y.",
+        "image": null
+      },
+      {
+        "label": "Code segment I and code segment II produce the same output only when x is less than y.",
+        "image": null
+      }
+    ],
+    "answer": "Code segment I and code segment II produce the same output for all values of x and y."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: `if` Statements"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

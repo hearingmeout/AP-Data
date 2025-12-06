@@ -1,0 +1,41 @@
+{
+  "id": "WPO000001",
+  "type": "mcq",
+  "title": "Matrix Modeling - walkers and riders",
+  "content": {
+    "description": "<math alttext=\"A 2 by 2 labeled transition matrix. The rows are labeled W and R from top to bottom. The columns are labeled W and R from left to right. The entries are as follows. Row 1 column 1 is 0.57. Row 1 column 2 is 0.31. Row 2 column 1 is 0.43. Row 2 column 2 is 0.69.\"><mtable><mtr><mtd>&nbsp;</mtd><mtd><mtable><mtr><mtd><mpadded lspace=\"-4px\"><mi>W</mi></mpadded></mtd><mtd><mi>R</mi></mtd></mtr></mtable></mtd></mtr><mtr><mtd><mtable><mtr><mtd><mi>W</mi></mtd></mtr><mtr><mtd><mi>R</mi></mtd></mtr></mtable></mtd><mtd><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>0.57</mn></mtd><mtd><mn>0.31</mn></mtd></mtr><mtr><mtd><mn>0.43</mn></mtd><mtd><mn>0.69</mn></mtd></mtr></mtable></mfenced></mtd></mtr></mtable></math>",
+    "question": "At a certain school, students either walk to class or ride to class on a bicycle, skateboard, or other device. The transition matrix shown gives the probabilities that indicate how a student will get to class on the next day by how they got to class on a given day. The <math alttext=\"W\"><mi>W</mi></math> for walk and <math alttext=\"R\"><mi>R</mi></math> for ride above the matrix represent the given day, and the <math alttext=\"W\"><mi>W</mi></math> and <math alttext=\"R\"><mi>R</mi></math> left of the matrix represent the next day. On day <math alttext=\"1\"><mn>1</mn></math> of a certain week, <math alttext=\"120\"><mn>120</mn></math> students walked and <math alttext=\"65\"><mn>65</mn></math> students rode. Approximately how many students rode to class on day <math alttext=\"3\"><mn>3</mn></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"80\"><mn>80</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"96\"><mn>96</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"105\"><mn>105</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"107\"><mn>107</mn></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"105\"><mn>105</mn></math>"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.14",
+    "text": "4.14: Matrices Modeling Contexts"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Apply numerical results in a given mathematical or applied context."
+  }
+}

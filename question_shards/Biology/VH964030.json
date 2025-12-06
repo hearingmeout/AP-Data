@@ -1,0 +1,41 @@
+{
+  "id": "VH964030",
+  "type": "mcq",
+  "title": "Chi Square with Rabbitbrush",
+  "content": {
+    "description": "Rubber rabbitbrush plants display heritable variation in plant height and insect-induced gall formation. In a field study, researchers investigated the relationship between plant height and gall number for the rubber rabbitbrush plants in a natural population. The researchers used the data they collected to perform a chi-square test of independence. The null hypothesis for the chi-square test was that plant height and gall number are independent. The data for the chi-square test are presented in Table 1.",
+    "question": "Table 1. Data for the chi-square test of independence Height Category <math alttext=\"in centimeters\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>(cm)</mtext></mrow></mstyle></math> Number of Plants with Ten or Fewer Galls Number of Plants with More than Ten Galls 0–30 34 6 31–60 22 16 61–90 14 21 91–120 10 27 The researchers calculated a chi-square value of 29.25. If there are three degrees of freedom and the significance level is <math alttext=\"p equals 0.05\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi><mo>=</mo><mn>0.05</mn></mrow></mstyle></math>, which of the following statements best completes the chi-square test?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The critical value is 0.05, and the null hypothesis cannot be rejected because the calculated chi-square value is greater than the critical value.",
+        "image": null
+      },
+      {
+        "label": "The critical value is 0.05, and the null hypothesis can be rejected because the calculated chi-square value is greater than the critical value.",
+        "image": null
+      },
+      {
+        "label": "The critical value is 7.82, and the null hypothesis cannot be rejected because the calculated chi-square value is greater than the critical value.",
+        "image": null
+      },
+      {
+        "label": "The critical value is 7.82, and the null hypothesis can be rejected because the calculated chi-square value is greater than the critical value.",
+        "image": null
+      }
+    ],
+    "answer": "The critical value is 7.82, and the null hypothesis can be rejected because the calculated chi-square value is greater than the critical value."
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Heredity"
+  },
+  "topic": {
+    "code": "5.4",
+    "text": "5.4: Non-Mendelian Genetics"
+  },
+  "skill": {
+    "code": "5.C",
+    "text": "5.C: Perform chi-square hypothesis testing."
+  }
+}

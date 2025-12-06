@@ -1,0 +1,41 @@
+{
+  "id": "IUT000000",
+  "type": "mcq",
+  "title": "Semi-log Plots - using a logarithmic scale",
+  "content": {
+    "description": "​",
+    "question": "<math alttext=\"x\"><semantics><mi>x</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"0\"><semantics><mn>0</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"1\"><semantics><mn>1</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"2\"><semantics><mn>2</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"3\"><semantics><mn>3</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"log subscript 3 open parentheses f open parentheses x close parentheses close parentheses\"><semantics><mrow><msub><mi>log</mi><mn>3</mn></msub><mfenced><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"2\"><semantics><mn>2</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"3\"><semantics><mn>3</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"4\"><semantics><mn>4</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"5\"><semantics><mn>5</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>​​Consider the function <math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. The table gives values of <math alttext=\"log subscript 3 open parentheses f open parentheses x close parentheses close parentheses\"><semantics><mrow><msub><mi>log</mi><mn>3</mn></msub><mfenced><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> for selected values of <math alttext=\"x\"><semantics><mi>x</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. Which of the following is a graph of <math alttext=\"y equals f open parentheses x close parentheses\"><semantics><mrow><mi>y</mi><mo>=</mo><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The x axis ranges from negative 1 to 2 in increments of 1. The y axis ranges from negative 1 to 4 in increments of 1. The graph is a line passing through: (negative 1 comma 1) (0 comma 2) (1 comma 3) (2 comma 4) ​",
+        "image": "https://ap.oly.st/images/18d040ec1aeaf58f38ac2af868a7b31d.svg"
+      },
+      {
+        "label": "The x axis ranges from negative 1 to 2 in increments of 1. The y axis ranges from negative 2 to 3 in increments of 1. All coordinates are approximate. Moving from left to right: The curve enters the window at (negative 0.9 comma negative 2.5). The curve increases to cross the x axis at (negative 0.8 comma 0). The curve continues to increase to cross the y axis at (0 comma 2). The curve continues to increase to pass through (2 comma 3) and exit the window at (2.5 comma 3.2).",
+        "image": "https://ap.oly.st/images/b3249d3968e18198cad96f9f0d9c9fdb.svg"
+      },
+      {
+        "label": "The x axis ranges from negative 1 to 2 in increments of 1. The y axis ranges from negative 3 to 9 in increments of 3. All coordinates are approximate. Moving from left to right: The curve enters the window at (negative 1.5 comma 0.5). The curve increases to cross the y axis at (0 comma 1). The curve continues to increase to pass through (1 comma 3) and (2 comma 9) before exiting the window. ​",
+        "image": "https://ap.oly.st/images/353a7aa55899d237feb361c487b02d02.svg"
+      },
+      {
+        "label": "The x axis ranges from negative 1 to 3 in increments of 1. The y axis ranges from 0 to 81 in increments of 9. All coordinates are approximate. Moving from left to right: The curve enters the window at (negative 1.5 comma 2). The curve increases, passing through (0 comma 9), (1 comma 27), and (2 comma 81) before exiting the window.",
+        "image": "https://ap.oly.st/images/5ab0858766073f32c92508cebddb43e6.svg"
+      }
+    ],
+    "answer": "The x axis ranges from negative 1 to 3 in increments of 1. The y axis ranges from 0 to 81 in increments of 9. All coordinates are approximate. Moving from left to right: The curve enters the window at (negative 1.5 comma 2). The curve increases, passing through (0 comma 9), (1 comma 27), and (2 comma 81) before exiting the window."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.15",
+    "text": "2.15: Semi-log Plots"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Construct equivalent graphical, numerical, analytical, and verbal representations of functions that are useful in a given mathematical or applied context, with and without technology."
+  }
+}

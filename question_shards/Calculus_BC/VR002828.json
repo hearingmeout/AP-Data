@@ -1,0 +1,41 @@
+{
+  "id": "VR002828",
+  "type": "mcq",
+  "title": "Justification - Definite Integral - Riemann Sum",
+  "content": {
+    "description": "",
+    "question": "For what value of <math alttext=\"b\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>b</mi></mrow></mstyle></math> does the integral <math alttext=\"the integral from, 1 to b, of, x squared, d x\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>1</mn></mrow><mrow><mi>b</mi></mrow></msubsup><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></math> equal <math alttext=\"the limit as n approaches infinity, of, the sum, from k equals 1, to n, of, open parenthesis, 1 plus the fraction 2 k over n, close parenthesis, squared, times the fraction 2 over n\" display=\"inline\" overflow=\"scroll\"><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder><mrow><mstyle displaystyle=\"true\"><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>n</mi></mrow></munderover><mrow><mrow><msup><mrow><mo>(</mo><mn>1</mn><mo>+</mo><mfrac><mrow><mn>2</mn><mi>k</mi></mrow><mrow><mi>n</mi></mrow></mfrac><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow><mfrac><mrow><mn>2</mn></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mrow></mstyle></mrow></mrow></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"b equals 2\" display=\"inline\" overflow=\"scroll\"><mrow><mi>b</mi><mo>=</mo><mn>2</mn></mrow></math> only",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"b equals 3\" display=\"inline\" overflow=\"scroll\"><mrow><mi>b</mi><mo>=</mo><mn>3</mn></mrow></math> only",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"b\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>b</mi></mrow></mstyle></math> could be any real number.",
+        "image": null
+      },
+      {
+        "label": "There is no such value of <math alttext=\"b\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>b</mi></mrow></mstyle></math>.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"b equals 3\" display=\"inline\" overflow=\"scroll\"><mrow><mi>b</mi><mo>=</mo><mn>3</mn></mrow></math> only"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.7",
+    "text": "6.7: The Fundamental Theorem of Calculus and Definite Integrals"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

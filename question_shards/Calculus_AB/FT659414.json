@@ -1,0 +1,36 @@
+{
+  "id": "FT659414",
+  "type": "frq",
+  "title": "Series a(n)=1/(nlnn)",
+  "content": {
+    "description": "",
+    "question": "Let <math> <mrow> <msub> <mi> a </mi> <mi> n </mi> </msub> <mo> = </mo> <mfrac> <mn> 1 </mn> <mrow> <mi> n </mi> <mi> ln </mi> <mi> n </mi> </mrow> </mfrac> </mrow> </math> for <math> <mrow> <mi> n </mi> <mo> &ge; </mo> <mn> 3. </mn> </mrow> </math> (a) Let f be the function given by <math> <mrow> <mi> f </mi> <mo stretchy=\"false\"> ( </mo> <mi> x </mi> <mo stretchy=\"false\"> ) </mo> <mo> = </mo> <mfrac> <mn> 1 </mn> <mrow> <mi> x </mi> <mi> ln </mi> <mi> x </mi> </mrow> </mfrac> </mrow> </math> . For <math> <em> </em> <mrow> <em> </em> <mi> <em> x </em> &nbsp; </mi> <mo> &ge;&nbsp; </mo> <mn> 3 </mn> </mrow> </math> , f is continuous, decreasing, and positive. Use the integral test to show that <math> <mrow> <mstyle displaystyle=\"true\"> <munderover> <mo> &sum; </mo> <mrow> <mi> n </mi> <mo> = </mo> <mn> 3 </mn> </mrow> <mi> &infin; </mi> </munderover> <mrow> <msub> <mi> a </mi> <mi> n </mi> </msub> </mrow> </mstyle> </mrow> </math> diverges.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Let <math> <mrow> <msub> <mi> a </mi> <mi> n </mi> </msub> <mo> = </mo> <mfrac> <mn> 1 </mn> <mrow> <mi> n </mi> <mi> ln </mi> <mi> n </mi> </mrow> </mfrac> </mrow> </math> for <math> <mrow> <mi> n </mi> <mo> &ge; </mo> <mn> 3. </mn> </mrow> </math> (a) Let f be the function given by <math> <mrow> <mi> f </mi> <mo stretchy=\"false\"> ( </mo> <mi> x </mi> <mo stretchy=\"false\"> ) </mo> <mo> = </mo> <mfrac> <mn> 1 </mn> <mrow> <mi> x </mi> <mi> ln </mi> <mi> x </mi> </mrow> </mfrac> </mrow> </math> . For <math> <em> </em> <mrow> <em> </em> <mi> <em> x </em> &nbsp; </mi> <mo> &ge;&nbsp; </mo> <mn> 3 </mn> </mrow> </math> , f is continuous, decreasing, and positive. Use the integral test to show that <math> <mrow> <mstyle displaystyle=\"true\"> <munderover> <mo> &sum; </mo> <mrow> <mi> n </mi> <mo> = </mo> <mn> 3 </mn> </mrow> <mi> &infin; </mi> </munderover> <mrow> <msub> <mi> a </mi> <mi> n </mi> </msub> </mrow> </mstyle> </mrow> </math> diverges.",
+        "image": null
+      },
+      {
+        "text": "(b) Consider the infinite series <math> <mrow> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>n</mi> <mo>=</mo> <mn>3</mn> </mrow> <mi>∞</mi> </munderover> <mrow> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <mo>−</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mrow> <mi>n</mi> <mo>+</mo> <mn>1</mn> </mrow> </msup> </mrow> </mstyle> <msub> <mi>a</mi> <mi>n</mi> </msub> <mo>=</mo> <mfrac> <mn>1</mn> <mrow> <mn>3</mn> <mi>ln</mi> <mn>3</mn> </mrow> </mfrac> <mo>−</mo> <mfrac> <mn>1</mn> <mrow> <mn>4</mn> <mi>ln</mi> <mn>4</mn> </mrow> </mfrac> <mo>+</mo> <mfrac> <mn>1</mn> <mrow> <mn>5</mn> <mi>ln</mi> <mn>5</mn> </mrow> </mfrac> <mo>−</mo> <mo>⋯</mo> </mrow> </math>. Identify properties of this series that guarantee the series converges. Explain why the sum of this series is less than <math> <mrow> <mfrac> <mn>1</mn> <mn>3</mn> </mfrac> </mrow> </math>.",
+        "image": null
+      },
+      {
+        "text": "(c) Find the interval of convergence of the power series <math> <mrow> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>n</mi> <mo>=</mo> <mn>3</mn> </mrow> <mi>∞</mi> </munderover> <mrow> <mfrac> <mrow> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>−</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mrow> <mi>n</mi> <mo>+</mo> <mn>1</mn> </mrow> </msup> </mrow> <mrow> <mi>n</mi> <mi>ln</mi> <mi>n</mi> </mrow> </mfrac> </mrow> </mstyle> </mrow> </math>. Show the analysis that leads to your answer.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.13",
+    "text": "6.13: (BC ONLY) Evaluating Improper Integrals"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "VR166451",
+  "type": "mcq",
+  "title": "Bits needed to represent directions",
+  "content": {
+    "description": "",
+    "question": "A video game character can face toward one of four directions: north, south, east, and west. Each direction is stored in memory as a sequence of four bits. A new version of the game is created in which the character can face toward one of eight directions, adding northwest, northeast, southwest, and southeast to the original four possibilities. Which of the following statements is true about how the eight directions must be stored in memory?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Four bits are not enough to store the eight directions. Five bits are needed for the new version of the game.",
+        "image": null
+      },
+      {
+        "label": "Four bits are not enough to store the eight directions. Eight bits are needed for the new version of the game.",
+        "image": null
+      },
+      {
+        "label": "Four bits are not enough to store the eight directions. Sixteen bits are needed for the new version of the game.",
+        "image": null
+      },
+      {
+        "label": "Four bits are enough to store the eight directions.",
+        "image": null
+      }
+    ],
+    "answer": "Four bits are enough to store the eight directions."
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Binary Numbers"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

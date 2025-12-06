@@ -1,0 +1,41 @@
+{
+  "id": "FT659895",
+  "type": "mcq",
+  "title": "Printing with nested loops",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "for (int outer = 0; outer < n; outer++) { for (int inner = 0; inner <= outer; inner++) { System.out.print(outer + \" \"); } } If n has been declared as an integer with the value 4, what is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "0 1 2 3",
+        "image": null
+      },
+      {
+        "label": "0 1 2 2 3 3 3",
+        "image": null
+      },
+      {
+        "label": "0 1 1 2 2 2 3 3 3 3",
+        "image": null
+      },
+      {
+        "label": "0 0 1 0 1 2 0 1 2 3",
+        "image": null
+      }
+    ],
+    "answer": "0 1 1 2 2 2 3 3 3 3"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.11",
+    "text": "2.11: Nested Iteration"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

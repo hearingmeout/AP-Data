@@ -1,0 +1,41 @@
+{
+  "id": "FT659853",
+  "type": "mcq",
+  "title": "Output with nested loops",
+  "content": {
+    "description": "Consider the following output.",
+    "question": "1 1 2 1 2 3 1 2 3 4 1 2 3 4 5 1 2 3 4 5 6 Which of the following code segments will produce the output shown above?",
+    "image": null,
+    "choices": [
+      {
+        "label": "for (int j = 1; j <= 6; j++) { for (int k = 1; k < j; k++) System.out.print(\" \" + k); System.out.println(); }",
+        "image": null
+      },
+      {
+        "label": "for (int j = 1; j <= 6; j++) { for (int k = 1; k <= j; k++) System.out.print(\" \" + j); System.out.println(); }",
+        "image": null
+      },
+      {
+        "label": "for (int j = 1; j <= 6; j++) { for (int k = 1; k <= j; k++) System.out.print(\" \" + k); System.out.println(); }",
+        "image": null
+      },
+      {
+        "label": "for (int j = 1; j < 6; j++) { for (int k = 1; k <= j; k++) System.out.print(\" \" + k); System.out.println(); }",
+        "image": null
+      }
+    ],
+    "answer": "for (int j = 1; j <= 6; j++) { for (int k = 1; k <= j; k++) System.out.print(\" \" + k); System.out.println(); }"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.11",
+    "text": "2.11: Nested Iteration"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

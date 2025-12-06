@@ -1,0 +1,41 @@
+{
+  "id": "VR860293",
+  "type": "mcq",
+  "title": "Circuits - Time constant of RC circuit",
+  "content": {
+    "description": "",
+    "question": "Which of the following combinations of resistance and plate separation would result in a time constant equal to <math alttext=\"tau sub 0\" overflow=\"scroll\"> <msub> <mi>τ</mi> <mn>0</mn> </msub> </math>?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the fraction with numerator R sub 0, and denominator 2\" overflow=\"scroll\"><mfrac><msub><mi>R</mi><mn>0</mn></msub><mn>2</mn></mfrac></math> and <math alttext=\"the square root of 2, end root, d sub 0\" overflow=\"scroll\"><msqrt><mn>2</mn></msqrt><msub><mi>d</mi><mn>0</mn></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator R sub 0, and denominator 2\" overflow=\"scroll\"><mfrac><msub><mi>R</mi><mn>0</mn></msub><mn>2</mn></mfrac></math> and <math alttext=\"2 d sub 0\" overflow=\"scroll\"><mn>2</mn><msub><mi>d</mi><mn>0</mn></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2 R sub 0\" overflow=\"scroll\"><mn>2</mn><msub><mi>R</mi><mn>0</mn></msub></math> and <math alttext=\"2 d sub 0\" overflow=\"scroll\"><mn>2</mn><msub><mi>d</mi><mn>0</mn></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2 R sub 0\" overflow=\"scroll\"><mn>2</mn><msub><mi>R</mi><mn>0</mn></msub></math> and <math alttext=\"the fraction with numerator d sub 0, and denominator 2\" overflow=\"scroll\"><mfrac><msub><mi>d</mi><mn>0</mn></msub><mn>2</mn></mfrac></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"2 R sub 0\" overflow=\"scroll\"><mn>2</mn><msub><mi>R</mi><mn>0</mn></msub></math> and <math alttext=\"2 d sub 0\" overflow=\"scroll\"><mn>2</mn><msub><mi>d</mi><mn>0</mn></msub></math>"
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.8",
+    "text": "11.8: Resistor-Capacitor (RC) Circuits"
+  },
+  "skill": {
+    "code": "2.D",
+    "text": "2.D: Predict new values or factors of change of physical quantities using functional dependence between variables."
+  }
+}

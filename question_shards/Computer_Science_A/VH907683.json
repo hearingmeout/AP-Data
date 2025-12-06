@@ -1,0 +1,41 @@
+{
+  "id": "VH907683",
+  "type": "mcq",
+  "title": "dot equals vs equals equals alpha beta delta",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "String alpha = new String(\"APCS\");String beta = new String(\"APCS\");String delta = alpha;System.out.println(alpha.equals(beta));System.out.println(alpha == beta);System.out.println(alpha == delta);What is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "falsefalsetrue",
+        "image": null
+      },
+      {
+        "label": "truefalsefalse",
+        "image": null
+      },
+      {
+        "label": "truefalsetrue",
+        "image": null
+      },
+      {
+        "label": "truetruetrue",
+        "image": null
+      }
+    ],
+    "answer": "truefalsetrue"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Comparing Boolean Expressions"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

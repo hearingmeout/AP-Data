@@ -1,0 +1,41 @@
+{
+  "id": "XLE000003",
+  "type": "mcq",
+  "title": "Finding the letter a - describe conditions",
+  "content": {
+    "description": "",
+    "question": "Which of the following conditions best describes the condition in which this code segment will not work as intended and will result in a runtime error?",
+    "image": null,
+    "choices": [
+      {
+        "label": "\"a\" is the first character in word.",
+        "image": null
+      },
+      {
+        "label": "\"a\" is the last character in word.",
+        "image": null
+      },
+      {
+        "label": "word does not contain the character \"a\".",
+        "image": null
+      },
+      {
+        "label": "word contains only a sequence of multiple \"a\" characters.",
+        "image": null
+      }
+    ],
+    "answer": "word does not contain the character \"a\"."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

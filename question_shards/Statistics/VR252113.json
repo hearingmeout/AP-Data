@@ -1,0 +1,44 @@
+{
+  "id": "VR252113",
+  "type": "frq",
+  "title": "Multi-focus - gym exercise regression slope",
+  "content": {
+    "description": "",
+    "question": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations. The manager of a large gym believes that the amount of exercise that the <math alttext=\"1,300\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>1</mn><mtext>,300</mtext></mrow></mstyle></math> customers of the gym get, on average, per week is different from five hours. A random sample of <math alttext=\"50\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>50</mn></mrow></mstyle></math> customers from the gym were surveyed with the following question. How many hours of exercise do you usually get per week? From the <math alttext=\"50\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>50</mn></mrow></mstyle></math> respondents, the manager obtained a one-sample <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-interval to estimate <math alttext=\"mu sub E\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>μ</mi></mrow><mrow><mi>E</mi></mrow></msub></mrow></mstyle></math>, the mean amount of exercise, in hours, that all customers of the gym get per week. Assume the conditions for inference have been met. At the <math alttext=\"94\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>94</mn></mrow></mstyle></math> percent confidence level, the interval was <math alttext=\"4.914 plus or minus 0.503\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>4.914</mn><mo>±</mo><mn>0.503</mn></mrow></mstyle></math>. (a) Does the confidence interval support the manager’s belief that the amount of exercise that all customers of the gym get, on average, per week is different from five hours? Justify your answer.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations. The manager of a large gym believes that the amount of exercise that the <math alttext=\"1,300\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>1</mn><mtext>,300</mtext></mrow></mstyle></math> customers of the gym get, on average, per week is different from five hours. A random sample of <math alttext=\"50\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>50</mn></mrow></mstyle></math> customers from the gym were surveyed with the following question. How many hours of exercise do you usually get per week? From the <math alttext=\"50\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>50</mn></mrow></mstyle></math> respondents, the manager obtained a one-sample <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-interval to estimate <math alttext=\"mu sub E\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>μ</mi></mrow><mrow><mi>E</mi></mrow></msub></mrow></mstyle></math>, the mean amount of exercise, in hours, that all customers of the gym get per week. Assume the conditions for inference have been met. At the <math alttext=\"94\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>94</mn></mrow></mstyle></math> percent confidence level, the interval was <math alttext=\"4.914 plus or minus 0.503\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>4.914</mn><mo>±</mo><mn>0.503</mn></mrow></mstyle></math>. (a) Does the confidence interval support the manager’s belief that the amount of exercise that all customers of the gym get, on average, per week is different from five hours? Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "Upon further investigation, the manager believes that customers who prefer aerobic exercise (light activity over long periods of time) may respond differently to the survey than customers who prefer anaerobic exercise (heavy activity for short periods of time). The manager plans to conduct a new survey using independent random samples of customers who prefer aerobic exercise and customers who prefer anaerobic exercise. Assume that there are approximately equal numbers of customers who prefer aerobic exercise and customers who prefer anaerobic exercise at the gym.(b) Describe a method that the manager could use to obtain two independent random samples, one of <math alttext=\"15\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>15</mn></mrow></mstyle></math> customers who prefer aerobic exercise and one of <math alttext=\"20\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>20</mn></mrow></mstyle></math> customers who prefer anaerobic exercise, from the <math alttext=\"1,300\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>1</mn><mtext>,300</mtext></mrow></mstyle></math> customers of the gym.",
+        "image": null
+      },
+      {
+        "text": "(c) The manager wants to use an inference procedure to investigate whether the sample data provide convincing statistical evidence of a difference in the population mean amounts of exercise, in hours, that customers who prefer aerobic exercise and customers who prefer anaerobic exercise would get per week. Explain whether each condition for inference is met.",
+        "image": null
+      },
+      {
+        "text": "The manager decided to also ask each customer in the new survey to report their body mass index (a measure of body fat). The scatterplot below shows the data for each of the customers in the two samples. (d) Describe what the scatterplot reveals about the relationship between body mass index and amount of exercise per week for each of the following: the <math alttext=\"15\" overflow=\"scroll\"><mstyle><mrow><mn>15</mn></mrow></mstyle></math> customers who prefer aerobic exercise and the <math alttext=\"20\" overflow=\"scroll\"><mstyle><mrow><mn>20</mn></mrow></mstyle></math> customers who prefer anaerobic exercise.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Statistics/VR252113.g01.png"
+      },
+      {
+        "text": "A scatterplot of only the <math alttext=\"15\" overflow=\"scroll\"><mstyle><mrow><mn>15</mn></mrow></mstyle></math> customers who prefer aerobic exercise is shown, along with regression output for a linear model using body mass index to predict amount of exercise per week. The circled point on the scatterplot represents a customer who reported a body mass index of <math alttext=\"23.8\" overflow=\"scroll\"><mstyle><mrow><mn>23.8</mn></mrow></mstyle></math> and <math alttext=\"4.25\" overflow=\"scroll\"><mstyle><mrow><mn>4.25</mn></mrow></mstyle></math> hours of exercise per week. (e) Describe the impact on the slope of the least-squares regression line and the coefficient of determination, <math alttext=\"r squared\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle></math>, if the circled point was removed from the data. Explain your answer.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Statistics/VR252113.g02.png"
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Representing Two Categorical Variables"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Describe an appropriate method for gathering and representing data."
+  }
+}

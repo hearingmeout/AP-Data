@@ -1,0 +1,41 @@
+{
+  "id": "FT659856",
+  "type": "mcq",
+  "title": "recur method with int parameter and two calls",
+  "content": {
+    "description": "Consider the following recursive method.",
+    "question": "private int recur(int n) { if (n <= 1) { return 1; } else { return (recur(n - 2) + recur(n - 1)); } } What value will be returned by the call recur(4)?",
+    "image": null,
+    "choices": [
+      {
+        "label": "2",
+        "image": null
+      },
+      {
+        "label": "3",
+        "image": null
+      },
+      {
+        "label": "5",
+        "image": null
+      },
+      {
+        "label": "8",
+        "image": null
+      }
+    ],
+    "answer": "5"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.16",
+    "text": "4.16: Recursion"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

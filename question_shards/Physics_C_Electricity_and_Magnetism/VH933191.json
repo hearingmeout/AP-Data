@@ -1,0 +1,45 @@
+{
+  "id": "VH933191",
+  "type": "mcq",
+  "title": "Movie Screening",
+  "content": {
+    "description": "Let random variable <math alttext=\"uppercase X\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>X</mi></mrow></mstyle></math> represent the number of movies screening at movie theaters in a certain city. The following table shows the cumulative probability distribution of the discrete random variable <math alttext=\"uppercase X\" display=\"inline\" overflow=\"scroll\"><mrow><mi>X</mi></mrow></math>.",
+    "question": "<math alttext=\"lowercase x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> <math alttext=\"the probability of, uppercase x is less than or equal to lowercase X\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>P</mi><mo>(</mo><mi>X</mi><mo>≤</mo><mi>x</mi><mo>)</mo></mrow></mstyle></math> 1 0.2 2 0.5 3 0.6 4 0.7 5 0.8 6 0.9 7 1.0 Andromeda claims the distribution of <math alttext=\"uppercase X\" display=\"inline\" overflow=\"scroll\"><mrow><mi>X</mi></mrow></math> is skewed to the right with mean equal to 4 movies. Is Andromeda’s claim supported by the table?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Yes, the distribution is skewed to the right with mean equal to 4 movies.",
+        "image": null
+      },
+      {
+        "label": "No, the distribution is skewed to the left with mean greater than 4 movies.",
+        "image": null
+      },
+      {
+        "label": "No, the distribution is skewed to the left with mean less than 4 movies.",
+        "image": null
+      },
+      {
+        "label": "No, the distribution is skewed to the right with mean greater than 4 movies.",
+        "image": null
+      },
+      {
+        "label": "No, the distribution is skewed to the right with mean less than 4 movies.",
+        "image": null
+      }
+    ],
+    "answer": "No, the distribution is skewed to the right with mean less than 4 movies."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.7",
+    "text": "4.7: Introduction to Random Variables and Probability Distributions"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

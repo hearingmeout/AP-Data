@@ -1,0 +1,37 @@
+{
+  "id": "FT535735",
+  "type": "mcq",
+  "title": "Circuit with two logic gates",
+  "content": {
+    "description": "The diagram below shows a circuit composed of two logic gates labeled OR and AND. Each gate takes two inputs and produces a single output.",
+    "question": "If the inputs A and C are both true, which of the following best describes the output of the AND gate?",
+    "image": "https://ap.oly.st/images/34cca2a9096e5c328481959b7d42e771.png",
+    "choices": [
+      {
+        "label": "The output will be true no matter what the value of input B is.",
+        "image": null
+      },
+      {
+        "label": "The output will be false no matter what the value of input B is.",
+        "image": null
+      },
+      {
+        "label": "The output will be true if input B is true; otherwise it will be false.",
+        "image": null
+      },
+      {
+        "label": "The output will be false if input B is true; otherwise it will be true.",
+        "image": null
+      }
+    ],
+    "answer": "The output will be true no matter what the value of input B is."
+  },
+  "topic": {
+    "code": "3.5",
+    "text": "3.5: Boolean Expressions"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

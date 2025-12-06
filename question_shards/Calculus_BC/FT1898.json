@@ -1,0 +1,45 @@
+{
+  "id": "FT1898",
+  "type": "mcq",
+  "title": "Justification for Mean Value Theorem",
+  "content": {
+    "description": "",
+    "question": "The function f is continuous for all real numbers, and the average rate of change of f on the closed interval <math> <semantics> <mrow> <mrow><mo>[</mo> <mrow> <mn>6</mn><mo>,</mo><mtext> </mtext><mn>9</mn> </mrow> <mo>]</mo></mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWadaWdaeaapeGaaGOnaiaacYcapaGaaGjbV=qacaaI5aaacaGLBbGaayzxaaaaaa@3C04@</annotation> </semantics> </math> is <math> <semantics> <mrow> <mo>−</mo><mfrac> <mn>3</mn> <mn>2</mn> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacqGHsisldaWcaaWdaeaapeGaaG4maaWdaeaapeGaaGOmaaaaaaa@38C8@</annotation> </semantics> </math>. For <math> <semantics> <mrow> <mn>6</mn><mo>&lt;</mo><mi>c</mi><mo>&lt;</mo><mn>9</mn><mo>,</mo> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaGOnaiabgYda8iaadogacqGH8aapcaaI5aGaaiilaaaa@3B17@</annotation> </semantics> </math> there is no value of c such that <math> <semantics> <mrow> <msup> <mi>f</mi> <mo>′</mo> </msup> <mrow><mo>(</mo> <mi>c</mi> <mo>)</mo></mrow><mo>=</mo><mo>−</mo><mfrac> <mn>3</mn> <mn>2</mn> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qaceWGMbGbauaadaqadaWdaeaapeGaam4yaaGaayjkaiaawMcaaiabg2da9iabgkHiTmaalaaapaqaa8qacaaIZaaapaqaa8qacaaIYaaaaaaa@3D55@</annotation> </semantics> </math>. Of the following, which must be true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mn>1</mn> <mn>3</mn> </mfrac> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>6</mn> <mn>9</mn> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mtext> </mtext><mi>d</mi><mi>x</mi><mo>=</mo><mo>−</mo><mfrac> <mn>3</mn> <mn>2</mn> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWcaaWdaeaapeGaaGymaaWdaeaapeGaaG4maaaadaWdXaWdaeaapeGaamOzaaWcpaqaa8qacaaI2aaapaqaa8qacaaI5aaaniabgUIiYdGcdaqadaWdaeaapeGaamiEaaGaayjkaiaawMcaa8aacaaMe8+dbiaadsgacaWG4bGaeyypa0JaeyOeI0YaaSaaa8aabaWdbiaaiodaa8aabaWdbiaaikdaaaaaaa@46C9@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>6</mn> <mn>9</mn> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mtext> </mtext><mi>d</mi><mi>x</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWdXaWdaeaapeGaamOzaaWcpaqaa8qacaaI2aaapaqaa8qacaaI5aaaniabgUIiYdGcdaqadaWdaeaapeGaamiEaaGaayjkaiaawMcaa8aacaaMe8+dbiaadsgacaWG4baaaa@4149@</annotation> </semantics> </math> does not exist.",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mrow> <msup> <mi>f</mi> <mo>′</mo> </msup> <mrow><mo>(</mo> <mn>6</mn> <mo>)</mo></mrow><mo>+</mo><msup> <mi>f</mi> <mo>′</mo> </msup> <mrow><mo>(</mo> <mn>9</mn> <mo>)</mo></mrow> </mrow> <mn>2</mn> </mfrac> <mo>=</mo><mo>−</mo><mfrac> <mn>3</mn> <mn>2</mn> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWcaaWdaeaapeGabmOzayaafaWaaeWaa8aabaWdbiaaiAdaaiaawIcacaGLPaaacqGHRaWkceWGMbGbauaadaqadaWdaeaapeGaaGyoaaGaayjkaiaawMcaaaWdaeaapeGaaGOmaaaacqGH9aqpcqGHsisldaWcaaWdaeaapeGaaG4maaWdaeaapeGaaGOmaaaaaaa@427B@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <msup> <mi>f</mi> <mo>′</mo> </msup> <mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mo>&lt;</mo><mn>0</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qaceWGMbGbauaadaqadaWdaeaapeGaamiEaaGaayjkaiaawMcaaiabgYda8iaaicdaaaa@3B6E@</annotation> </semantics> </math> for all x in the open interval (6,9).",
+        "image": null
+      },
+      {
+        "label": "f is not differentiable on the open interval (6,9).",
+        "image": null
+      }
+    ],
+    "answer": "f is not differentiable on the open interval (6,9)."
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.1",
+    "text": "5.1: Using the Mean Value Theorem"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Provide reasons or rationales for solutions and conclusions."
+  }
+}

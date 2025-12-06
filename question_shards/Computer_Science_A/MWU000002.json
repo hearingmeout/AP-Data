@@ -1,0 +1,41 @@
+{
+  "id": "MWU000002",
+  "type": "mcq",
+  "title": "Traverse ArrayList and print k - describe result",
+  "content": {
+    "description": "",
+    "question": "What, if anything, is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "2 4 5",
+        "image": null
+      },
+      {
+        "label": "3 2 1",
+        "image": null
+      },
+      {
+        "label": "5 4 2",
+        "image": null
+      },
+      {
+        "label": "Nothing is printed because an IndexOutOfBoundsException is thrown.",
+        "image": null
+      }
+    ],
+    "answer": "3 2 1"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.9",
+    "text": "4.9: `ArrayList` Traversals"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

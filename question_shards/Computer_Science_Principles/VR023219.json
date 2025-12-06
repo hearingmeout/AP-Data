@@ -1,0 +1,37 @@
+{
+  "id": "VR023219",
+  "type": "mcq",
+  "title": "Error in wordList traversal",
+  "content": {
+    "description": "",
+    "question": "While debugging the program, the student realizes that the loop never terminates. Which of the following changes can be made so that the program works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Inserting index ← index + 1 between lines 6 and 7",
+        "image": null
+      },
+      {
+        "label": "Inserting index ← index + 1 between lines 7 and 8",
+        "image": null
+      },
+      {
+        "label": "Inserting index ← index - 1 between lines 6 and 7",
+        "image": null
+      },
+      {
+        "label": "Inserting index ← index - 1 between lines 7 and 8",
+        "image": null
+      }
+    ],
+    "answer": "Inserting index ← index - 1 between lines 7 and 8"
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Identifying and Correcting Errors"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Identify and correct errors in algorithms and programs, including error discovery through testing."
+  }
+}

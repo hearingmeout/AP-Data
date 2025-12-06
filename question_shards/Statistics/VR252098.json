@@ -1,0 +1,48 @@
+{
+  "id": "VR252098",
+  "type": "frq",
+  "title": "Multi-focus - avocado moth damage table",
+  "content": {
+    "description": "",
+    "question": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations.A particular moth can infest avocado trees and potentially damage the avocado fruit. Chawrdi, an avocado farmer, plans to investigate the number of damaged avocado fruit on moth-infested avocado trees on her farm.Suppose the probability is <math alttext=\"0.41\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.41</mn></mrow></mstyle></math> that a moth-infested avocado tree from the large farm has no more than <math alttext=\"7\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>7</mn></mrow></mstyle></math> damaged avocado fruit. Chawrdi selected a random sample of <math alttext=\"38\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>38</mn></mrow></mstyle></math> moth-infested avocado trees from the farm and recorded the number of damaged avocado fruit for each tree in the sample.(a) In the context of Chawrdi’s sample, interpret the meaning of the value computed by <math alttext=\"0.41 to the 38 power\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mrow><mo>(</mo><mn>0.41</mn><mo>)</mo></mrow></mrow><mrow><mn>38</mn></mrow></msup></mrow></mstyle></math>.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations.A particular moth can infest avocado trees and potentially damage the avocado fruit. Chawrdi, an avocado farmer, plans to investigate the number of damaged avocado fruit on moth-infested avocado trees on her farm.Suppose the probability is <math alttext=\"0.41\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.41</mn></mrow></mstyle></math> that a moth-infested avocado tree from the large farm has no more than <math alttext=\"7\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>7</mn></mrow></mstyle></math> damaged avocado fruit. Chawrdi selected a random sample of <math alttext=\"38\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>38</mn></mrow></mstyle></math> moth-infested avocado trees from the farm and recorded the number of damaged avocado fruit for each tree in the sample.(a) In the context of Chawrdi’s sample, interpret the meaning of the value computed by <math alttext=\"0.41 to the 38 power\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mrow><mo>(</mo><mn>0.41</mn><mo>)</mo></mrow></mrow><mrow><mn>38</mn></mrow></msup></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "text": "The computer output below provides the summary statistics of the number of damaged avocado fruit from each of the <math alttext=\"38\" overflow=\"scroll\"><mstyle><mrow><mn>38</mn></mrow></mstyle></math> moth-infested avocado trees in Chawrdi’s sample. Mean Standard Deviation Median <math alttext=\"Q 1\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mi>Q</mi><mn>1</mn></mrow></mstyle></math> <math alttext=\"Q 3\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mi>Q</mi><mn>3</mn></mrow></mstyle></math> Min Max <math alttext=\"6\" overflow=\"scroll\"><mstyle><mrow><mn>6</mn></mrow></mstyle></math> <math alttext=\"3\" overflow=\"scroll\"><mstyle><mrow><mn>3</mn></mrow></mstyle></math> <math alttext=\"7.5\" overflow=\"scroll\"><mstyle><mrow><mn>7.5</mn></mrow></mstyle></math> <math alttext=\"5\" overflow=\"scroll\"><mstyle><mrow><mn>5</mn></mrow></mstyle></math> <math alttext=\"8\" overflow=\"scroll\"><mstyle><mrow><mn>8</mn></mrow></mstyle></math> <math alttext=\"0\" overflow=\"scroll\"><mstyle><mrow><mn>0</mn></mrow></mstyle></math> <math alttext=\"12\" overflow=\"scroll\"><mstyle><mrow><mn>12</mn></mrow></mstyle></math> (b) Would it be unusual for a moth-infested avocado tree from Chawrdi’s sample to have <math alttext=\"9\" overflow=\"scroll\"><mstyle><mrow><mn>9</mn></mrow></mstyle></math> damaged avocado fruit? Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "(c) Consider the situation where the maximum value was incorrectly recorded as <math alttext=\"12\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>12</mn></mrow></mstyle></math> and is actually <math alttext=\"9\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>9</mn></mrow></mstyle></math>. Describe the effect that a decrease from <math alttext=\"12\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>12</mn></mrow></mstyle></math> damaged avocado fruit to <math alttext=\"9\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>9</mn></mrow></mstyle></math> damaged avocado fruit would have on the mean and interquartile range (<math alttext=\"I Q R\" display=\"inline\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mi>I</mi><mi>Q</mi><mi>R</mi></mrow></mstyle></math>) of Chawrdi’s sample. Explain your reasoning.",
+        "image": null
+      },
+      {
+        "text": "Chawrdi plans to use the sample data to investigate whether there is convincing statistical evidence that all moth-infested avocado trees from the farm have a mean number of damaged avocado fruit that is fewer than <math alttext=\"7\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>7</mn></mrow></mstyle></math>.(d) State, in words, the hypotheses for the appropriate test.",
+        "image": null
+      },
+      {
+        "text": "Assume all conditions for inference are met. The <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value of Chawrdi’s test was approximately <math alttext=\"0.024\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.024</mn></mrow></mstyle></math>.(e) Interpret what the value <math alttext=\"0.024\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.024</mn></mrow></mstyle></math> measures in the context of the study.",
+        "image": null
+      },
+      {
+        "text": "Amanda, another avocado farmer, selected a new random sample from the large population of moth-infested avocado trees at the farm and also obtained a sample mean of <math alttext=\"6\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>6</mn></mrow></mstyle></math>. She then conducted the same inference procedure as Chawrdi had in order to investigate whether there is convincing statistical evidence that all moth-infested avocado trees at the farm have a mean number of damaged avocado fruit that is fewer than <math alttext=\"7\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>7</mn></mrow></mstyle></math>. The <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value of Amanda’s test was approximately <math alttext=\"0.031\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.031</mn></mrow></mstyle></math>.(f) Identify one possible difference between Chawrdi’s and Amanda’s samples that resulted in Amanda’s test having a greater <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value. Explain how this difference results in a greater <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value for Amanda’s test.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.7",
+    "text": "1.7: Summary Statistics for a Quantitative Variable"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Identify null and alternative hypotheses."
+  }
+}

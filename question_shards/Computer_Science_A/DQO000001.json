@@ -1,0 +1,41 @@
+{
+  "id": "DQO000001",
+  "type": "mcq",
+  "title": "Student updateAverage - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following descriptions is accurate?",
+    "image": null,
+    "choices": [
+      {
+        "label": "greg is an instance of the Student class.",
+        "image": null
+      },
+      {
+        "label": "greg is an instance of three attributes.",
+        "image": null
+      },
+      {
+        "label": "Student is an instance of the greg object.",
+        "image": null
+      },
+      {
+        "label": "updateAverage is an instance of the Student class.",
+        "image": null
+      }
+    ],
+    "answer": "greg is an instance of the Student class."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.7",
+    "text": "1.7: Application Program Interface (API) and Libraries"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

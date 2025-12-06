@@ -1,0 +1,37 @@
+{
+  "id": "VR166614",
+  "type": "mcq",
+  "title": "Which variables are equal to 50 after assignments",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "x <math alttext=\"← \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 25y <math alttext=\"← \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 50z <math alttext=\"← \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 75x <math alttext=\"← \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> yy <math alttext=\"← \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> zz <math alttext=\"← \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> xWhich of the variables have the value 50 after executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "x only",
+        "image": null
+      },
+      {
+        "label": "y only",
+        "image": null
+      },
+      {
+        "label": "x and z only",
+        "image": null
+      },
+      {
+        "label": "x, y, and z",
+        "image": null
+      }
+    ],
+    "answer": "x and z only"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: Variables and Assignments"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

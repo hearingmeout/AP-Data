@@ -1,0 +1,41 @@
+{
+  "id": "OEG000002",
+  "type": "mcq",
+  "title": "ArrayList Traversals - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the value printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The sum of all the elements in intList",
+        "image": null
+      },
+      {
+        "label": "The number of elements in intList",
+        "image": null
+      },
+      {
+        "label": "The number of even values in intList",
+        "image": null
+      },
+      {
+        "label": "The number of elements in even-numbered indexes in intList",
+        "image": null
+      }
+    ],
+    "answer": "The number of elements in even-numbered indexes in intList"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.9",
+    "text": "4.9: `ArrayList` Traversals"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

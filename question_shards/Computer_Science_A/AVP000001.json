@@ -1,0 +1,41 @@
+{
+  "id": "AVP000001",
+  "type": "mcq",
+  "title": "methodA and methodB - determine result",
+  "content": {
+    "description": "",
+    "question": "Consider the call methodA(4), which appears in a method in the same class. What, if anything, is printed as a result of the call methodA(4)?",
+    "image": null,
+    "choices": [
+      {
+        "label": "40",
+        "image": null
+      },
+      {
+        "label": "50",
+        "image": null
+      },
+      {
+        "label": "140",
+        "image": null
+      },
+      {
+        "label": "Nothing is printed.",
+        "image": null
+      }
+    ],
+    "answer": "50"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Method Signatures"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

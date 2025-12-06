@@ -1,0 +1,40 @@
+{
+  "id": "VR036915-22",
+  "type": "frq",
+  "title": "Discrete vs continuous - Investigative Task",
+  "content": {
+    "description": "",
+    "question": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations. The following histogram shows the relative frequencies of the heights, recorded to the nearest inch, of a population of women. The mean of the population is <math alttext=\"64.97\"><mstyle><mrow><mn>64.97</mn></mrow></mstyle></math> inches, and the standard deviation is <math alttext=\"2.66\"><mstyle><mrow><mn>2.66</mn></mrow></mstyle></math> inches. One woman from the population will be selected at random. (a) Based on the histogram, what is the probability that the selected woman will have a height of at least <math alttext=\"67\"><mstyle><mrow><mn>67</mn></mrow></mstyle></math> inches? Show your work.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations. The following histogram shows the relative frequencies of the heights, recorded to the nearest inch, of a population of women. The mean of the population is <math alttext=\"64.97\"><mstyle><mrow><mn>64.97</mn></mrow></mstyle></math> inches, and the standard deviation is <math alttext=\"2.66\"><mstyle><mrow><mn>2.66</mn></mrow></mstyle></math> inches. One woman from the population will be selected at random. (a) Based on the histogram, what is the probability that the selected woman will have a height of at least <math alttext=\"67\"><mstyle><mrow><mn>67</mn></mrow></mstyle></math> inches? Show your work.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Statistics/VR036915.g01.png"
+      },
+      {
+        "text": "(b) What is the area of the bar corresponding to a height of <math alttext=\"67\"><mstyle><mrow><mn>67</mn></mrow></mstyle></math> inches in the graph, and what does the area represent in terms of probability?",
+        "image": null
+      },
+      {
+        "text": "(c) The histogram displays a discrete probability model for height. However, height is often considered a continuous variable that follows a normal model. Consider a normal model that uses the mean and standard deviation of the population of women as its parameters. (i) Use the normal model and the relationship between area and relative frequency to find the probability that the randomly selected woman will have a height of at least <math alttext=\"67\"><mstyle><mrow><mn>67</mn></mrow></mstyle></math> inches. Show your work. (ii) Does your answer in part (c-i) match your answer in part (a) ? If not, give a reason for why the answers might be different.",
+        "image": null
+      },
+      {
+        "text": "(d) Let the random variable <math alttext=\"H\"><mstyle><mrow><mi>H</mi></mrow></mstyle></math> represent the height of a woman in the population. <math alttext=\"P, open parenthesis, H is less than 60, close parenthesis\"><mstyle><mrow><mi>P</mi><mo>(</mo><mi>H</mi><mo>&lt;</mo><mn>60</mn><mo>)</mo></mrow></mstyle></math> represents the probability of randomly selecting a woman with height less than <math alttext=\"60\"><mstyle><mrow><mn>60</mn></mrow></mstyle></math> inches. Based on the information given, the probability can be found using either the discrete model or the normal model. (i) Give an example of a probability of <math alttext=\"H\"><mstyle><mrow><mi>H</mi></mrow></mstyle></math> that can be found using the discrete model but not the normal model. Explain why. (ii) Give an example of a probability of <math alttext=\"H\"><mstyle><mrow><mi>H</mi></mrow></mstyle></math> that can be found using the normal model but not the discrete model. Explain why.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.5",
+    "text": "1.5: Representing a Quantitative Variable with Graphs"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Describe data presented numerically or graphically."
+  }
+}

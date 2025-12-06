@@ -1,0 +1,41 @@
+{
+  "id": "FT659882",
+  "type": "mcq",
+  "title": "Calling getNum on aliased objects",
+  "content": {
+    "description": "Consider the following class declaration",
+    "question": "public class SomeClass { private int num; public SomeClass(int n) { num = n; } public void increment(int more) { num = num + more; } public int getNum() { return num; } } The following code segment appears in another class. SomeClass one = new SomeClass(100); SomeClass two = new SomeClass(100); SomeClass three = one; one.increment(200); System.out.println(one.getNum() + \" \" + two.getNum() + \" \" + three.getNum()); What is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "100 100 100",
+        "image": null
+      },
+      {
+        "label": "300 100 100",
+        "image": null
+      },
+      {
+        "label": "300 100 300",
+        "image": null
+      },
+      {
+        "label": "300 300 300",
+        "image": null
+      }
+    ],
+    "answer": "300 100 300"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Method Signatures"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

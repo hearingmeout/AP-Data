@@ -1,0 +1,28 @@
+{
+  "id": "PQB000001",
+  "type": "frq",
+  "title": "Schedule",
+  "content": {
+    "description": "",
+    "question": "Complete method columnWithFewest. /** * Returns the index of a column containing the fewest occurrences * of the status indicated by the parameter target * Preconditions: sched is not null and no elements of sched are null. * sched has at least one row and at least one column. */ public int columnWithFewest(String target)",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Complete method columnWithFewest. /** * Returns the index of a column containing the fewest occurrences * of the status indicated by the parameter target * Preconditions: sched is not null and no elements of sched are null. * sched has at least one row and at least one column. */ public int columnWithFewest(String target)",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.9",
+    "text": "2.9: Implementing Selection and Iteration Algorithms"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

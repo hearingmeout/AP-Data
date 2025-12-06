@@ -1,0 +1,45 @@
+{
+  "id": "FT548635",
+  "type": "mcq",
+  "title": "Fundamental Theorem with division",
+  "content": {
+    "description": "",
+    "question": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the integral from 1 to e of open parentheses x squared minus 1 close parentheses divided by x with respect to x equals\"> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow><munderover> <mo>∫</mo> <mn>1</mn> <mi>e</mi> </munderover> <mrow> <mo stretchy=\"false\">(</mo><mfrac> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>−</mo><mn>1</mn></mrow> <mi>x</mi> </mfrac> <mo stretchy=\"false\">)</mo></mrow> </mrow> </mstyle><mi>d</mi><mi>x</mi><mo>=</mo></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWdXbWdaeaapeGaaiikamaalaaapaqaa8qacaWG4bWdamaaCaaa leqabaWdbiaaikdaaaGccqGHsislcaaIXaaapaqaa8qacaWG4baaai aacMcaaSWdaeaapeGaaGymaaWdaeaapeGaamyzaaqdcqGHRiI8aOGa amizaiaadIhacqGH9aqpaaa@43D2@ </annotation> </semantics> </math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"e minus 1 divided by e\"> <semantics> <mrow> <mi>e</mi><mo>−</mo><mfrac> <mn>1</mn> <mi>e</mi> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaWGLbGaeyOeI0YaaSaaa8aabaWdbiaaigdaa8aabaWdbiaadwga aaaaaa@39E0@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "e2-e",
+        "image": null
+      },
+      {
+        "label": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"e squared divided by 2 minus e plus one half\"> <semantics> <mrow> <mfrac> <mrow> <msup> <mi>e</mi> <mn>2</mn> </msup> </mrow> <mn>2</mn> </mfrac> <mo>−</mo><mi>e</mi><mo>+</mo><mfrac> <mn>1</mn> <mn>2</mn> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaamyza8aadaahaaWcbeqaa8qacaaIYaaaaaGc paqaa8qacaaIYaaaaiabgkHiTiaadwgacqGHRaWkdaWcaaWdaeaape GaaGymaaWdaeaapeGaaGOmaaaaaaa@3D9A@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "e2-2",
+        "image": null
+      },
+      {
+        "label": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"e squared divided by 2 minus three halves\"> <semantics> <mrow> <mfrac> <mrow> <msup> <mi>e</mi> <mn>2</mn> </msup> </mrow> <mn>2</mn> </mfrac> <mo>−</mo><mfrac> <mn>3</mn> <mn>2</mn> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaamyza8aadaahaaWcbeqaa8qacaaIYaaaaaGc paqaa8qacaaIYaaaaiabgkHiTmaalaaapaqaa8qacaaIZaaapaqaa8 qacaaIYaaaaaaa@3BD0@ </annotation> </semantics> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"e squared divided by 2 minus three halves\"> <semantics> <mrow> <mfrac> <mrow> <msup> <mi>e</mi> <mn>2</mn> </msup> </mrow> <mn>2</mn> </mfrac> <mo>−</mo><mfrac> <mn>3</mn> <mn>2</mn> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaamyza8aadaahaaWcbeqaa8qacaaIYaaaaaGc paqaa8qacaaIYaaaaiabgkHiTmaalaaapaqaa8qacaaIZaaapaqaa8 qacaaIYaaaaaaa@3BD0@ </annotation> </semantics> </math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.10",
+    "text": "6.10: Integrating Functions Using Long Division and Completing the Square"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

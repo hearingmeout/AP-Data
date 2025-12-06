@@ -1,0 +1,41 @@
+{
+  "id": "HBE000008",
+  "type": "mcq",
+  "title": "while loop - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the behavior of the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "It prints 0 if x is even and prints -1 otherwise.",
+        "image": null
+      },
+      {
+        "label": "It prints -1 if x is even and prints 0 otherwise.",
+        "image": null
+      },
+      {
+        "label": "It prints true if x is even and prints false otherwise.",
+        "image": null
+      },
+      {
+        "label": "It prints false if x is even and prints true otherwise.",
+        "image": null
+      }
+    ],
+    "answer": "It prints true if x is even and prints false otherwise."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.7",
+    "text": "2.7: `while` Loops"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

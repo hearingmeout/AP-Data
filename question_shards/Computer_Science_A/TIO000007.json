@@ -1,0 +1,41 @@
+{
+  "id": "TIO000007",
+  "type": "mcq",
+  "title": "2D array traversal - determine result",
+  "content": {
+    "description": "",
+    "question": "What, if anything, is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Nothing is printed due to an ArrayIndexOutOfBoundsException.",
+        "image": null
+      },
+      {
+        "label": "Hello, it’s nice to meet you",
+        "image": null
+      },
+      {
+        "label": "Hey, it really is a pleasure to finally catch up with you all",
+        "image": null
+      },
+      {
+        "label": "Hi, it is great to get to see you again",
+        "image": null
+      }
+    ],
+    "answer": "Hi, it is great to get to see you again"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.12",
+    "text": "4.12: 2D Array Traversals"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

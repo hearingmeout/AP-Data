@@ -1,0 +1,37 @@
+{
+  "id": "VH892780",
+  "type": "mcq",
+  "title": "Copy even values from originalList to newList",
+  "content": {
+    "description": "",
+    "question": "Which of the following changes, if any, can be made so that the code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Changing line 1 to FOR EACH number IN newList",
+        "image": null
+      },
+      {
+        "label": "Changing line 3 to IF (number MOD 2 = 1)",
+        "image": null
+      },
+      {
+        "label": "Changing line 5 to APPEND (newList, number)",
+        "image": null
+      },
+      {
+        "label": "No change is needed; the code segment is correct as is.",
+        "image": null
+      }
+    ],
+    "answer": "Changing line 5 to APPEND (newList, number)"
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Identifying and Correcting Errors"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Identify and correct errors in algorithms and programs, including error discovery through testing."
+  }
+}

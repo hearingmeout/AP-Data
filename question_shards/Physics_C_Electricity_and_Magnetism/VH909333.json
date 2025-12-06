@@ -1,0 +1,45 @@
+{
+  "id": "VH909333",
+  "type": "mcq",
+  "title": "Baseball ERA and WHIP",
+  "content": {
+    "description": "In baseball, two statistics, the <math alttext=\"E R A\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>ERA</mtext></mrow></mstyle></math> (Earned Run Average) and the <math alttext=\"WHIP\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>WHIP</mtext></mrow></mstyle></math> (Walks and Hits per Inning Pitched), are used to measure the quality of pitchers. For both measures, smaller values indicate higher quality. The following computer output gives the results from predicting <math alttext=\"E R A\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>ERA</mtext></mrow></mstyle></math> by using <math alttext=\"WHIP\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>WHIP</mtext></mrow></mstyle></math> in a least-squares regression for the 2017 baseball season.",
+    "question": "Variable <math alttext=\"D F\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext mathvariant=\"bold\">DF</mtext></mrow></mstyle></math> Estimate <math alttext=\"S E\" display=\"inline\" overflow=\"scroll\"><mstyle mathvariant=\"bold\"><mrow><mtext>SE</mtext></mrow></mstyle></math> <math alttext=\"T\" display=\"inline\" overflow=\"scroll\"><mstyle mathvariant=\"bold\"><mrow><mtext>T</mtext></mrow></mstyle></math> Intercept 1 <math alttext=\"negative 5.0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>5.0</mn></mrow></mrow></mstyle></math> 0.26 <math alttext=\"negative 19.3\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>19.3</mn></mrow></mrow></mstyle></math> <math alttext=\"WHIP\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext mathvariant=\"bold\">WHIP</mtext></mrow></mstyle></math> 1 6.8 0.14 47.4 Which of the following statements is the best interpretation of the value 6.8 shown in the output?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"E R A\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>ERA</mtext></mrow></mstyle></math> is predicted to increase by 6.8 units for each 1 unit increase of <math alttext=\"WHIP\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>WHIP</mtext></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"WHIP\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>WHIP</mtext></mrow></mstyle></math> is predicted to increase by 6.8 units for each 1 unit increase of <math alttext=\"E R A\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>ERA</mtext></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "For a pitcher with 0 units of <math alttext=\"W H I P\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>WHIP</mtext></mrow></mstyle></math>, the <math alttext=\"E R A\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>ERA</mtext></mrow></mstyle></math> is predicted to be approximately 6.8 units.",
+        "image": null
+      },
+      {
+        "label": "For a pitcher with 0 units of <math alttext=\"E R A\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>ERA</mtext></mrow></mstyle></math>, the <math alttext=\"WHIP\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>WHIP</mtext></mrow></mstyle></math> is predicted to be approximately 6.8 units.",
+        "image": null
+      },
+      {
+        "label": "Approximately 6.8% of the variability in <math alttext=\"E R A\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>ERA</mtext></mrow></mstyle></math> is due to its linear relationship with <math alttext=\"WHIP\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>WHIP</mtext></mrow></mstyle></math>.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"E R A\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>ERA</mtext></mrow></mstyle></math> is predicted to increase by 6.8 units for each 1 unit increase of <math alttext=\"WHIP\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>WHIP</mtext></mrow></mstyle></math>."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: Least Squares Regression"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ITK000004",
+  "type": "mcq",
+  "title": "escape sequences - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the behavior of this statement?",
+    "image": null,
+    "choices": [
+      {
+        "label": "It prints five lines of text, each separated by a line break indicated by the escape sequence \\n.",
+        "image": null
+      },
+      {
+        "label": "It prints four lines of text because the escape sequence \\n appears four times in the string literal.",
+        "image": null
+      },
+      {
+        "label": "It prints one line of text because the printed value is a single string literal.",
+        "image": null
+      },
+      {
+        "label": "It prints nothing due to a syntax error.",
+        "image": null
+      }
+    ],
+    "answer": "It prints five lines of text, each separated by a line break indicated by the escape sequence \\n."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

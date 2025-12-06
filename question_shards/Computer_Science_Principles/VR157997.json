@@ -1,0 +1,37 @@
+{
+  "id": "VR157997",
+  "type": "mcq",
+  "title": "Move element from end of list to beginning",
+  "content": {
+    "description": "",
+    "question": "Which of the following code segments transforms the list as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "len <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH(utensils)temp <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> utensils[len]REMOVE(utensils, len)APPEND(utensils, temp)",
+        "image": null
+      },
+      {
+        "label": "len <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH(utensils)REMOVE(utensils, len)temp <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> utensils[len]APPEND(utensils, temp)",
+        "image": null
+      },
+      {
+        "label": "len <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH(utensils)temp <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> utensils[len]REMOVE(utensils, len)INSERT(utensils, 1, temp)",
+        "image": null
+      },
+      {
+        "label": "len <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH(utensils)REMOVE(utensils, len)temp <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> utensils[len]INSERT(utensils, 1, temp)",
+        "image": null
+      }
+    ],
+    "answer": "len <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH(utensils)temp <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> utensils[len]REMOVE(utensils, len)INSERT(utensils, 1, temp)"
+  },
+  "topic": {
+    "code": "3.10",
+    "text": "3.10: Lists"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

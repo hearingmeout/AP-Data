@@ -1,0 +1,41 @@
+{
+  "id": "VH979731",
+  "type": "mcq",
+  "title": "Tangential Speed vs Time",
+  "content": {
+    "description": "",
+    "question": "In an experiment, an external torque is applied to the edge of a disk of radius <math alttext=\"0.5 meter\" overflow=\"scroll\"><mstyle><mrow><mn>0.5</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mtext>m</mtext></mrow></mstyle></math> such that the edge of the disk speeds up as it continues to rotate. The tangential speed as a function of time is shown for the edge of the disk. The rotational inertia of the disk is <math alttext=\"0.125 kilogram meter squared \" overflow=\"scroll\"><mstyle><mrow><mn>0.125</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mtext>kg</mtext><mo>⋅</mo><msup><mrow><mtext>m</mtext></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle></math>. Can a student use the graph and the known information to calculate the net torque exerted on the edge of the disk?",
+    "image": "https://ap.oly.st/images/e78cce70c53df04b56637e6b8aead2b9.png",
+    "choices": [
+      {
+        "label": "Yes, because the slope of the graph multiplied by the rotational inertia is equal to the net torque exerted on the edge of the disk.",
+        "image": null
+      },
+      {
+        "label": "Yes, because the change in tangential speed per unit of time can be multiplied by the rotational inertia divided by the radius of the disk.",
+        "image": null
+      },
+      {
+        "label": "No, because the net force exerted on the edge of the disk must first be determined before the net torque can be calculated.",
+        "image": null
+      },
+      {
+        "label": "No, because the change in tangential speed of the edge of the disk per unit of time cannot be used to determine the angular acceleration of the disk.",
+        "image": null
+      }
+    ],
+    "answer": "Yes, because the change in tangential speed per unit of time can be multiplied by the rotational inertia divided by the radius of the disk."
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.2",
+    "text": "5.2: Connecting Linear and Rotational Motion"
+  },
+  "skill": {
+    "code": "2.D",
+    "text": "2.D: Predict new values or factors of change of physical quantities using functional dependence between variables."
+  }
+}

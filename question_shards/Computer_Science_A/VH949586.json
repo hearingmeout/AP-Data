@@ -1,0 +1,41 @@
+{
+  "id": "VH949586",
+  "type": "mcq",
+  "title": "processWords method",
+  "content": {
+    "description": "Consider the processWords method. Assume that each of its two parameters is a String of length two or more.",
+    "question": "public void processWords(String word1, String word2){String str1 = word1.substring(0, 2);String str2 = word2.substring(word2.length() - 1);String result = str2 + str1;System.out.println(result.indexOf(str2));}Which of the following best describes the value printed when processWords is called?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The value 0 is always printed.",
+        "image": null
+      },
+      {
+        "label": "The value 1 is always printed.",
+        "image": null
+      },
+      {
+        "label": "The value result.length() - 1 is printed.",
+        "image": null
+      },
+      {
+        "label": "A substring containing the last character of word2 is printed.",
+        "image": null
+      }
+    ],
+    "answer": "The value 0 is always printed."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

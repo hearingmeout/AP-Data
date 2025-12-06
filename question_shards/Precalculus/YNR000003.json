@@ -1,0 +1,41 @@
+{
+  "id": "YNR000003",
+  "type": "mcq",
+  "title": "Parametric Motion - robot position",
+  "content": {
+    "description": "",
+    "question": "The first quadrant is shown, and neither axis has a scale or tick marks. Two labeled rectangular regions are labeled. One region has the label blue. The blue region has its base along the x axis. The left side is along the y axis. The top side is horizontal and is the segment from the labeled point (0 comma 3) to the point above the labeled point (8 comma 0). One region has the label red. The red region has its base along the horizontal segment from (0 comma 3) to the point above (8 comma 0). This side is shared by the two regions. The left side is along the y axis, extending from (0 comma 3) to the labeled point (0 comma 6). The top side is horizontal and is the segment from the point (0 comma 6) to the point above (8 comma 0). The figure shows an <math alttext=\"x y\"><mi>x</mi><mi>y</mi></math>-plane that models an <math alttext=\"8\"><mn>8</mn></math>-meter-by-<math alttext=\"6\"><mn>6</mn></math>-meter rectangular warehouse floor that is divided into two sections of equal areas. The sections are labeled red and blue. A robot moves around the warehouse floor, and the location of the robot on the floor at time <math alttext=\"t\"><mi>t</mi></math> minutes is given by the parametric function <math alttext=\"f open parentheses t close parentheses equals open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses equals open parentheses t cubed comma 12 t minus 6 t squared close parentheses\"><mi>f</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced><mo>=</mo><mfenced><mrow><msup><mi>t</mi><mn>3</mn></msup><mo>,</mo><mn>12</mn><mi>t</mi><mo>-</mo><mn>6</mn><msup><mi>t</mi><mn>2</mn></msup></mrow></mfenced></math> for <math alttext=\"0 less or equal than t less or equal than 2\"><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>2</mn></math>. On which of the following intervals of <math alttext=\"t\"><mi>t</mi></math> is the robot in the red section?",
+    "image": "https://ap.oly.st/images/5ef9c4522725c66f662981abc63c1b29.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"0.293 less or equal than t less or equal than 1.707\"><mn>0.293</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>1.707</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"0.423 less or equal than t less or equal than 1.577\"><mn>0.423</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>1.577</mn></math> only",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"1.442 less or equal than t less or equal than 2\"><mn>1.442</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"1.587 less or equal than t less or equal than 2\"><mn>1.587</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>2</mn></math> only",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"0.293 less or equal than t less or equal than 1.707\"><mn>0.293</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>1.707</mn></math>"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.2",
+    "text": "4.2: Parametric Functions Modeling Planar Motion"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Solve equations and inequalities represented analytically, with and without technology."
+  }
+}

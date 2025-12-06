@@ -1,0 +1,41 @@
+{
+  "id": "FXP000007",
+  "type": "mcq",
+  "title": "dataValues ArrayList methods - determine result",
+  "content": {
+    "description": "",
+    "question": "Which of the following represents the contents of dataValues after executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "[9.84, 7.63, 6.24]",
+        "image": null
+      },
+      {
+        "label": "[9.84, 7.63, 7.65, 6.24]",
+        "image": null
+      },
+      {
+        "label": "[9.84, 8.93, 7.63]",
+        "image": null
+      },
+      {
+        "label": "[9.84, 8.93, 7.63, 6.24]",
+        "image": null
+      }
+    ],
+    "answer": "[9.84, 8.93, 7.63]"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

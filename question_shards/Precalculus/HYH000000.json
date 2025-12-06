@@ -1,0 +1,41 @@
+{
+  "id": "HYH000000",
+  "type": "mcq",
+  "title": "Trigonometric Function Model - Thrill Ride",
+  "content": {
+    "description": "",
+    "question": "A theme park thrill ride involves a tower and a carriage that rapidly moves passengers up and down along a vertical axis, as shown in the figure. The carriage is lifted to the top of the tower, then released to move down the tower. The ride involves <math alttext=\"10\"><semantics><mn>10</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> controlled bounces from the highest point to the lowest point, and back to the highest point. A point <math alttext=\"X\"><semantics><mi>X</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is located on the bottom of the carriage. The height of <math alttext=\"X\"><semantics><mi>X</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> above the ground, in feet, can be modeled by a periodic function <math alttext=\"H\"><semantics><mi>H</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. At time <math alttext=\"t equals 0\"><semantics><mrow><mi>t</mi><mo>=</mo><mn>0</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> seconds, <math alttext=\"X\"><semantics><mi>X</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is at its highest point of <math alttext=\"120\"><semantics><mn>120</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> feet. The lowest point for <math alttext=\"X\"><semantics><mi>X</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is at a height of <math alttext=\"20\"><semantics><mn>20</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> feet. The next time <math alttext=\"X\"><semantics><mi>X</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is at its highest point is at time <math alttext=\"t equals 8\"><semantics><mrow><mi>t</mi><mo>=</mo><mn>8</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> seconds, which is the end of the first bounce. Which of the following can be an expression for <math alttext=\"H open parentheses t close parentheses\"><semantics><mrow><mi>H</mi><mfenced><mi>t</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, where <math alttext=\"t\"><semantics><mi>t</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is the time in seconds?",
+    "image": "https://ap.oly.st/images/8a9d0909fac56b4d0c9ca057c64c512f.svg",
+    "choices": [
+      {
+        "label": "​<math alttext=\"H open parentheses t close parentheses equals 50 sin open parentheses pi over 4 t close parentheses plus 70\"><semantics><mrow><mi>H</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>50</mn><mi>sin</mi><mfenced><mrow><mfrac><mi>π</mi><mn>4</mn></mfrac><mi>t</mi></mrow></mfenced><mo>+</mo><mn>70</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"H open parentheses t close parentheses equals 50 cos open parentheses pi over 4 t close parentheses plus 70\"><semantics><mrow><mi>H</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>50</mn><mi>cos</mi><mfenced><mrow><mfrac><mi>π</mi><mn>4</mn></mfrac><mi>t</mi></mrow></mfenced><mo>+</mo><mn>70</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"H open parentheses t close parentheses equals 50 sin open parentheses pi over 8 t close parentheses plus 70\"><semantics><mrow><mi>H</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>50</mn><mi>sin</mi><mfenced><mrow><mfrac><mi>π</mi><mn>8</mn></mfrac><mi>t</mi></mrow></mfenced><mo>+</mo><mn>70</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"H open parentheses t close parentheses equals 50 cos open parentheses pi over 8 t close parentheses plus 70\"><semantics><mrow><mi>H</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>50</mn><mi>cos</mi><mfenced><mrow><mfrac><mi>π</mi><mn>8</mn></mfrac><mi>t</mi></mrow></mfenced><mo>+</mo><mn>70</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"H open parentheses t close parentheses equals 50 cos open parentheses pi over 4 t close parentheses plus 70\"><semantics><mrow><mi>H</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>50</mn><mi>cos</mi><mfenced><mrow><mfrac><mi>π</mi><mn>4</mn></mfrac><mi>t</mi></mrow></mfenced><mo>+</mo><mn>70</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Trigonometric and Polar Functions"
+  },
+  "topic": {
+    "code": "3.7",
+    "text": "3.7: Sinusoidal Function Context and Data Modeling"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

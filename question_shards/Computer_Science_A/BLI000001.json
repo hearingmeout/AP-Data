@@ -1,0 +1,41 @@
+{
+  "id": "BLI000001",
+  "type": "mcq",
+  "title": "Adding and setting in numList - determine result",
+  "content": {
+    "description": "",
+    "question": "Which of the following represents the contents of numList after executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "[1, 3, 0, 1]",
+        "image": null
+      },
+      {
+        "label": "[2, 0, 2, 1]",
+        "image": null
+      },
+      {
+        "label": "[2, 3, 2, 1]",
+        "image": null
+      },
+      {
+        "label": "[3, 0, 0, 1]",
+        "image": null
+      }
+    ],
+    "answer": "[2, 0, 2, 1]"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.7",
+    "text": "4.7: Wrapper Classes"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

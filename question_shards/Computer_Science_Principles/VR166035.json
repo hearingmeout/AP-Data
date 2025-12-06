@@ -1,0 +1,37 @@
+{
+  "id": "VR166035",
+  "type": "mcq",
+  "title": "Move robot back to starting place",
+  "content": {
+    "description": "The following grid contains a robot represented as a triangle, which is initially in the bottom-left square of the grid and facing the top of the grid. The robot can move into a white or a gray square but cannot move into a black region.",
+    "question": "The following code segment implements an algorithm that moves the robot from its initial position to the gray square and facing the top of the grid. When the robot reaches the gray square, it turns around and faces the bottom of the grid. Which of the following changes, if any, should be made to the code segment to move the robot back to its original position in the bottom-left square of the grid and facing toward the bottom of the grid?",
+    "image": "https://ap.oly.st/images/a59c96b5ee488ddcdc32ef70d147b8ee.png",
+    "choices": [
+      {
+        "label": "Interchange the ROTATE_RIGHT and the ROTATE_LEFT blocks.",
+        "image": null
+      },
+      {
+        "label": "Replace ROTATE_RIGHT with ROTATE_LEFT.",
+        "image": null
+      },
+      {
+        "label": "Replace ROTATE_LEFT with ROTATE_RIGHT.",
+        "image": null
+      },
+      {
+        "label": "No change is needed; the algorithm is correct as is.",
+        "image": null
+      }
+    ],
+    "answer": "No change is needed; the algorithm is correct as is."
+  },
+  "topic": {
+    "code": "3.9",
+    "text": "3.9: Developing Algorithms"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

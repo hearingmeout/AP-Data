@@ -1,0 +1,41 @@
+{
+  "id": "FT659836",
+  "type": "mcq",
+  "title": "while loop with compound Boolean expression",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "int num1 = 0; int num2 = 3; while ((num2 != 0) && ((num1 / num2) >= 0)) { num1 = num1 + 2; num2 = num2 - 1; } What are the values of numl and num2 after the while loop completes its execution?",
+    "image": null,
+    "choices": [
+      {
+        "label": "num1 = 0, num2 = 3",
+        "image": null
+      },
+      {
+        "label": "num1 = 8, num2 = -1",
+        "image": null
+      },
+      {
+        "label": "num1 = 4, num2 = 1",
+        "image": null
+      },
+      {
+        "label": "num1 = 6, num2 = 0",
+        "image": null
+      }
+    ],
+    "answer": "num1 = 6, num2 = 0"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.5",
+    "text": "2.5: Compound Boolean Expressions"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "FT1877",
+  "type": "mcq",
+  "title": "Equivalent definite integrals using substitution",
+  "content": {
+    "description": "",
+    "question": "Which of the following definite integrals has the same value as <math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>4</mn> </msubsup> <mtext> </mtext> </mrow> </mstyle><mi>x</mi><msup> <mi>e</mi> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </msup> <mtext> </mtext><mi>d</mi><mi>x</mi></mrow> </math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mtext> </mtext><mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>4</mn> </msubsup> <mrow> <msup> <mi>e</mi> <mi>u</mi> </msup> </mrow> </mrow> </mstyle><mtext> </mtext><mi>d</mi><mi>u</mi></mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mtext> </mtext><mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mrow> <mn>16</mn></mrow> </msubsup> <mrow> <msup> <mi>e</mi> <mi>u</mi> </msup> </mrow> </mrow> </mstyle><mtext> </mtext><mi>d</mi><mi>u</mi></mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mn>2</mn><mtext> </mtext><mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>2</mn> </msubsup> <mrow> <msup> <mi>e</mi> <mi>u</mi> </msup> </mrow> </mrow> </mstyle><mtext> </mtext><mi>d</mi><mi>u</mi></mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mn>2</mn><mtext> </mtext><mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>4</mn> </msubsup> <mrow> <msup> <mi>e</mi> <mi>u</mi> </msup> </mrow> </mrow> </mstyle><mtext> </mtext><mi>d</mi><mi>u</mi></mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mn>2</mn><mtext> </mtext><mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mrow> <mn>16</mn></mrow> </msubsup> <mrow> <msup> <mi>e</mi> <mi>u</mi> </msup> </mrow> </mrow> </mstyle><mtext> </mtext><mi>d</mi><mi>u</mi></mrow> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mtext> </mtext><mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mrow> <mn>16</mn></mrow> </msubsup> <mrow> <msup> <mi>e</mi> <mi>u</mi> </msup> </mrow> </mrow> </mstyle><mtext> </mtext><mi>d</mi><mi>u</mi></mrow> </math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.9",
+    "text": "6.9: Integrating Using Substitution"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

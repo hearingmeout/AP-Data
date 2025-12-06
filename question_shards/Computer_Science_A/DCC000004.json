@@ -1,0 +1,41 @@
+{
+  "id": "DCC000004",
+  "type": "mcq",
+  "title": "Incorrect sort - Describe initial conditions",
+  "content": {
+    "description": "",
+    "question": "This method works as intended for some, but not all, int arrays. Which of the following arrays can be used to show that the method does not work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "{1, 2, 3, 4, 5}",
+        "image": null
+      },
+      {
+        "label": "{1, 2, 3, 5, 4}",
+        "image": null
+      },
+      {
+        "label": "{1, 2, 4, 3, 5}",
+        "image": null
+      },
+      {
+        "label": "{1, 3, 2, 4, 5}",
+        "image": null
+      }
+    ],
+    "answer": "{1, 2, 3, 5, 4}"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.15",
+    "text": "4.15: Sorting Algorithms"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

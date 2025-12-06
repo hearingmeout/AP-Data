@@ -1,0 +1,41 @@
+{
+  "id": "LSN000004",
+  "type": "mcq",
+  "title": "Total elements in 2D array - correct error",
+  "content": {
+    "description": "",
+    "question": "Which of the following changes can be made so that the code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Changing line 3 to return (arr.length - 1) * (arr.length - 1);",
+        "image": null
+      },
+      {
+        "label": "Changing line 3 to return arr.length + arr.length;",
+        "image": null
+      },
+      {
+        "label": "Changing line 3 to return (arr.length - 1) * (arr[0].length - 1);",
+        "image": null
+      },
+      {
+        "label": "Changing line 3 to arr.length * arr[0].length;",
+        "image": null
+      }
+    ],
+    "answer": "Changing line 3 to arr.length * arr[0].length;"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.11",
+    "text": "4.11: 2D Array Creation and Access"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

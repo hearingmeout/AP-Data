@@ -1,0 +1,37 @@
+{
+  "id": "FT535661",
+  "type": "mcq",
+  "title": "Collections of books to be combined",
+  "content": {
+    "description": "Two lists, list1 and list2, contain the names of books found in two different collections. A librarian wants to create newList, which will contain the names of all books found in either list, in alphabetical order, with duplicate entries removed.",
+    "question": "For example, if list1 contains [\"Macbeth\", \"Frankenstein\", \"Jane Eyre\"] and list2 contains [\"Frankenstein\", \"Dracula\", \"Macbeth\", \"Hamlet\"], then newList will contain [\"Dracula\", \"Frankenstein\", \"Hamlet\", \"Jane Eyre\", \"Macbeth\"]. The following procedures are available to create newList. Which of the following code segments will correctly create newList ?",
+    "image": "https://ap.oly.st/images/095523080ee80c51972230a3101f0cb5.png",
+    "choices": [
+      {
+        "label": "newList ← Combine (list1, list2)newList ← Sort (newList)newList ← RemoveDuplicates (newList)",
+        "image": null
+      },
+      {
+        "label": "list1 ← Sort (list1)list2 ← Sort (list2)newList ← Combine (list1, list2)newList ← RemoveDuplicates (newList)",
+        "image": null
+      },
+      {
+        "label": "list1 ← RemoveDuplicates (list1)list2 ← RemoveDuplicates (list2)newList ← Combine (list1, list2)newList ← Sort (newList)",
+        "image": null
+      },
+      {
+        "label": "list1 ← RemoveDuplicates (list1)list1 ← Sort (list1)list2 ← RemoveDuplicates (list2)list2 ← Sort (list2)newList ← Combine (list1, list2)",
+        "image": null
+      }
+    ],
+    "answer": "newList ← Combine (list1, list2)newList ← Sort (newList)newList ← RemoveDuplicates (newList)"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Using Programs with Data"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

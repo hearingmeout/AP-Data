@@ -1,0 +1,41 @@
+{
+  "id": "YFW000005",
+  "type": "mcq",
+  "title": "Modify myA outside SomeClass - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following methods can be added to SomeClass to allow other classes to modify the value of myA?",
+    "image": null,
+    "choices": [
+      {
+        "label": "public void setA(int newA) { myA = newA; }",
+        "image": null
+      },
+      {
+        "label": "private void setA(int newA) { myA = newA; }",
+        "image": null
+      },
+      {
+        "label": "public void setA(int newA) { newA = myA; }",
+        "image": null
+      },
+      {
+        "label": "private void setA(int newA) { newA = myA; }",
+        "image": null
+      }
+    ],
+    "answer": "public void setA(int newA) { myA = newA; }"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Anatomy of a Class"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "TQS000000",
+  "type": "mcq",
+  "title": "Logarithms - cooling object",
+  "content": {
+    "description": "​<math alttext=\"ln open parentheses fraction numerator T subscript t minus T subscript s over denominator T subscript 0 minus T subscript s end fraction close parentheses equals negative k t\"><semantics><mrow><mi>ln</mi><mfenced><mfrac><mrow><msub><mi>T</mi><mi>t</mi></msub><mo>-</mo><msub><mi>T</mi><mi>s</mi></msub></mrow><mrow><msub><mi>T</mi><mn>0</mn></msub><mo>-</mo><msub><mi>T</mi><mi>s</mi></msub></mrow></mfrac></mfenced><mo>=</mo><mo>-</mo><mi>k</mi><mi>t</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+    "question": "​The given equation represents the logarithmic form of Newton’s law of cooling, which states that the temperature <math alttext=\"T subscript t\"><semantics><msub><mi>T</mi><mi>t</mi></msub><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> of an object at time <math alttext=\"t\"><semantics><mi>t</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> satisfies the given equation, where <math alttext=\"T subscript 0\"><semantics><msub><mi>T</mi><mn>0</mn></msub><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is the temperature of the object at time <math alttext=\"t equals 0\"><semantics><mrow><mi>t</mi><mo>=</mo><mn>0</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, <math alttext=\"T subscript s\"><semantics><msub><mi>T</mi><mi>s</mi></msub><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is the object’s surrounding temperature, and <math alttext=\"k\"><semantics><mi>k</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is a positive constant that depends on characteristics of the object. The temperature is measured in degrees Celsius (<math alttext=\"degree text C end text\"><semantics><mrow><mo>°</mo><mtext>C</mtext></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>), and time <math alttext=\"t\"><semantics><mi>t</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is in minutes. When a certain object is removed from an oven, it takes <math alttext=\"30\"><semantics><mn>30</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> minutes for the object to cool from <math alttext=\"180 degree text C end text\"><semantics><mrow><mn>180</mn><mo>°</mo><mtext>C</mtext></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> to <math alttext=\"30 degree text C end text\"><semantics><mrow><mn>30</mn><mo>°</mo><mtext>C</mtext></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> when the surrounding temperature is <math alttext=\"20 degree text C end text\"><semantics><mrow><mn>20</mn><mo>°</mo><mtext>C</mtext></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. How many minutes would it take the same object to cool from <math alttext=\"180 degree text C end text\"><semantics><mrow><mn>180</mn><mo>°</mo><mtext>C</mtext></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> to <math alttext=\"30 degree text C end text\"><semantics><mrow><mn>30</mn><mo>°</mo><mtext>C</mtext></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> when the surrounding temperature is <math alttext=\"24 degree text C end text\"><semantics><mrow><mn>24</mn><mo>°</mo><mtext>C</mtext></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"25.530\"><semantics><mn>25.530</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"30.000\"><semantics><mn>30.000</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"34.000\"><semantics><mn>34.000</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"35.253\"><semantics><mn>35.253</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"35.253\"><semantics><mn>35.253</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.9",
+    "text": "2.9: Logarithmic Expressions"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Apply numerical results in a given mathematical or applied context."
+  }
+}

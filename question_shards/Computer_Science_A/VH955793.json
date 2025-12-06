@@ -1,0 +1,41 @@
+{
+  "id": "VH955793",
+  "type": "mcq",
+  "title": "create ArrayList object to hold Integers",
+  "content": {
+    "description": "Consider the following statement, which is intended to create an ArrayList named numbers that can be used to store Integer values.",
+    "question": "ArrayList<Integer> numbers = /* missing code */; Which of the following can be used to replace /* missing code */ so that the statement works as intended? new Integer() new ArrayList<Integer> new ArrayList<Integer>()",
+    "image": null,
+    "choices": [
+      {
+        "label": "I and III only",
+        "image": null
+      },
+      {
+        "label": "I and II only",
+        "image": null
+      },
+      {
+        "label": "III only",
+        "image": null
+      },
+      {
+        "label": "II and III only",
+        "image": null
+      }
+    ],
+    "answer": "III only"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

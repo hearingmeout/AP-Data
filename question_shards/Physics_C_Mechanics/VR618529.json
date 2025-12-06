@@ -1,0 +1,41 @@
+{
+  "id": "VR618529",
+  "type": "mcq",
+  "title": "Gravity field - between a solid sphere and a shell",
+  "content": {
+    "description": "",
+    "question": "A sphere of radius <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math> and uniformly distributed mass <math alttext=\"M\" display=\"inline\" overflow=\"scroll\"><mi>M</mi></math> is concentric with a thin spherical shell of radius <math alttext=\"3 R\" display=\"inline\" overflow=\"scroll\"><mn>3</mn><mi>R</mi></math> and uniformly distributed mass <math alttext=\"M\" display=\"inline\" overflow=\"scroll\"><mi>M</mi></math>. What is the gravitational field strength at a location <math alttext=\"P\" display=\"inline\" overflow=\"scroll\"><mi>P</mi></math> that is a distance <math alttext=\"2 R\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mi>R</mi></math> from the sphere’s center?",
+    "image": "https://ap.oly.st/images/ff0066b4226e85153a993a2810567f43.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"0\" display=\"inline\" overflow=\"scroll\"><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction G M over R squared\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mi>G</mi><mi>M</mi></mrow><msup><mi>R</mi><mn>2</mn></msup></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction G M over open parenthesis, 2 R, close parenthesis squared\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mi>G</mi><mi>M</mi></mrow><msup><mrow><mo>(</mo><mn>2</mn><mi>R</mi><mo>)</mo></mrow><mn>2</mn></msup></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction G, open parenthesis, 2 M, close parenthesis over open parenthesis, 2 R, close parenthesis squared\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mi>G</mi><mrow><mo>(</mo><mn>2</mn><mi>M</mi><mo>)</mo></mrow></mrow><msup><mrow><mo>(</mo><mn>2</mn><mi>R</mi><mo>)</mo></mrow><mn>2</mn></msup></mfrac></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the fraction G M over open parenthesis, 2 R, close parenthesis squared\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mi>G</mi><mi>M</mi></mrow><msup><mrow><mo>(</mo><mn>2</mn><mi>R</mi><mo>)</mo></mrow><mn>2</mn></msup></mfrac></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Force and Translational Dynamics"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Gravitational Force"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

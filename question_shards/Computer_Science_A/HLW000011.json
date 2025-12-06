@@ -1,0 +1,41 @@
+{
+  "id": "HLW000011",
+  "type": "mcq",
+  "title": "ComputeObject - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the behavior of this code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The sumProd method accumulates the sum of the integers 0 through 4, multiplies the sum by 5, and returns the value 50, which is then printed.",
+        "image": null
+      },
+      {
+        "label": "The sumProd method accumulates the sum of the integers 0 through 4, multiplies the sum by 10, and returns the value 100, which is then printed.",
+        "image": null
+      },
+      {
+        "label": "The sumProd method accumulates the sum of the integers 0 through 6, multiplies the sum by 7, and returns the value 147, which is then printed.",
+        "image": null
+      },
+      {
+        "label": "The sumProd method accumulates the sum of the integers 0 through 6, multiplies the sum by 10, and returns the value 210, which is then printed.",
+        "image": null
+      }
+    ],
+    "answer": "The sumProd method accumulates the sum of the integers 0 through 4, multiplies the sum by 10, and returns the value 100, which is then printed."
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.8",
+    "text": "3.8: Scope and Access"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

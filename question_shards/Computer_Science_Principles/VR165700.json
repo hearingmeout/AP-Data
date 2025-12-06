@@ -1,0 +1,37 @@
+{
+  "id": "VR165700",
+  "type": "mcq",
+  "title": "Possible values of ans after three calls to RANDOM",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "Which of the following describes the possible values of ans as a result of executing the code segment?",
+    "image": "https://ap.oly.st/images/0cfaf8d6b5cbced9339142a5dd5a6e92.png",
+    "choices": [
+      {
+        "label": "Any integer value from 1 to 8, inclusive",
+        "image": null
+      },
+      {
+        "label": "Any integer value from 1 to 16, inclusive",
+        "image": null
+      },
+      {
+        "label": "Any integer value from 4 to 8, inclusive",
+        "image": null
+      },
+      {
+        "label": "Any integer value from 7 to 16, inclusive",
+        "image": null
+      }
+    ],
+    "answer": "Any integer value from 7 to 16, inclusive"
+  },
+  "topic": {
+    "code": "3.15",
+    "text": "3.15: Random Values"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

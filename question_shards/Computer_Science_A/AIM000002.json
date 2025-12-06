@@ -1,0 +1,41 @@
+{
+  "id": "AIM000002",
+  "type": "mcq",
+  "title": "printSum and printProduct - determine result",
+  "content": {
+    "description": "",
+    "question": "What, if anything, is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "15 50",
+        "image": null
+      },
+      {
+        "label": "15 50.0",
+        "image": null
+      },
+      {
+        "label": "15.0 50.0",
+        "image": null
+      },
+      {
+        "label": "Nothing is printed because the code does not compile.",
+        "image": null
+      }
+    ],
+    "answer": "Nothing is printed because the code does not compile."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Method Signatures"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

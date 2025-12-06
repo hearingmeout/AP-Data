@@ -1,0 +1,41 @@
+{
+  "id": "FT659867",
+  "type": "mcq",
+  "title": "first and last output of while",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "int value = 15; while (value < 28) { System.out.println(value); value++; } What are the first and last numbers output by the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "First Last 15 27",
+        "image": null
+      },
+      {
+        "label": "First Last 15 28",
+        "image": null
+      },
+      {
+        "label": "First Last 16 27",
+        "image": null
+      },
+      {
+        "label": "First Last 16 28",
+        "image": null
+      }
+    ],
+    "answer": "First Last 15 27"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.7",
+    "text": "2.7: `while` Loops"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

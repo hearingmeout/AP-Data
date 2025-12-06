@@ -1,0 +1,41 @@
+{
+  "id": "VR619090",
+  "type": "mcq",
+  "title": "Centripetal force - block on a rotating platform",
+  "content": {
+    "description": "",
+    "question": "A small block of mass <math alttext=\"M\" display=\"inline\" overflow=\"scroll\"><mi>M</mi></math> sits on a horizontally rotating platform, a distance <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math> from the axis of rotation. The coefficient of static friction between the block and the platform is <math alttext=\"mu sub s\" display=\"inline\" overflow=\"scroll\"><msub><mi>μ</mi><mi>s</mi></msub></math> and the maximum speed the block can have before sliding along the rotating platform is <math alttext=\"v sub max\" display=\"inline\" overflow=\"scroll\"><msub><mi>v</mi><mi>max</mi></msub></math>. The platform rotates at a constant rate and the block’s speed <math alttext=\"v\" display=\"inline\" overflow=\"scroll\"><mi>v</mi></math> is such that <math alttext=\"0 is less than v, which is less than v sub max\" display=\"inline\" overflow=\"scroll\"><mn>0</mn><mo>&lt;</mo><mi>v</mi><mo>&lt;</mo><msub><mi>v</mi><mi>max</mi></msub></math>. Which expression represents the net force exerted on the block while the platform is rotating?",
+    "image": "https://ap.oly.st/images/aa27aede1c07fa09289f6aba29b79527.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"0\" display=\"inline\" overflow=\"scroll\"><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator M times v squared, and denominator R\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mi>M</mi><msup><mi>v</mi><mn>2</mn></msup></mrow><mi>R</mi></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"mu sub s, end sub, times M g\" display=\"inline\" overflow=\"scroll\"><msub><mi>μ</mi><mi>s</mi></msub><mi>M</mi><mi>g</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"mu sub s, end sub, times M g, minus the fraction with numerator M times v squared, and denominator R\" display=\"inline\" overflow=\"scroll\"><msub><mi>μ</mi><mi>s</mi></msub><mi>M</mi><mi>g</mi><mo>−</mo><mfrac><mrow><mi>M</mi><msup><mi>v</mi><mn>2</mn></msup></mrow><mi>R</mi></mfrac></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the fraction with numerator M times v squared, and denominator R\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mi>M</mi><msup><mi>v</mi><mn>2</mn></msup></mrow><mi>R</mi></mfrac></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Force and Translational Dynamics"
+  },
+  "topic": {
+    "code": "2.10",
+    "text": "2.10: Circular Motion"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

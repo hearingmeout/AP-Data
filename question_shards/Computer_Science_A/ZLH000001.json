@@ -1,0 +1,41 @@
+{
+  "id": "ZLH000001",
+  "type": "mcq",
+  "title": "Print values in 2D array traversal",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the behavior of the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "It prints the product of all the elements in arr.",
+        "image": null
+      },
+      {
+        "label": "It prints the product of all the negative elements in arr.",
+        "image": null
+      },
+      {
+        "label": "It prints the product of all the positive elements in arr.",
+        "image": null
+      },
+      {
+        "label": "It prints nothing because of a run-time error.",
+        "image": null
+      }
+    ],
+    "answer": "It prints the product of all the positive elements in arr."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.12",
+    "text": "4.12: 2D Array Traversals"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

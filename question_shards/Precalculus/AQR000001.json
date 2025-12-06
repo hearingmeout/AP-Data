@@ -1,0 +1,41 @@
+{
+  "id": "AQR000001",
+  "type": "mcq",
+  "title": "Residual Plots - Reasoning",
+  "content": {
+    "description": "",
+    "question": "Residual Plot for f: The horizontal axis is labeled x. No values are indicated. The vertical axis is labeled Residuals. It ranges from negative 1.0 to 1.0 in increments of 0.5. 7 points are plotted. The 7 points are equally spaced relative to the horizontal axis. From left to right, the approximate Residuals values of the 7 plotted points are as follows: negative 0.7 0.4 0.41 0.42 negative 0.55 0.5 negative 0.48 Residual Plot for g: The horizontal axis is labeled x. No values are indicated. The vertical axis is labeled Residuals. It ranges from negative 6 to 6 in increments of 1. 7 points are plotted. The 7 points are equally spaced relative to the horizontal axis. From left to right, the approximate Residuals values of the 7 plotted points are as follows: negative 5 negative 0.2 2.5 5.1 2.9 negative 0.5 negative 4.8 Two regression models <math alttext=\"f\"><mi>f</mi></math> and <math alttext=\"g\"><mi>g</mi></math> are constructed from a data set. The residual plots for both models are shown. Which of the following statements is true?",
+    "image": "https://ap.oly.st/images/c6f48c21a6631d1e5b5b5f2b52e12bf4.svg",
+    "choices": [
+      {
+        "label": "Model <math alttext=\"f\"><mi>f</mi></math> is justified as appropriate for the data set because the residual plot does not show a pattern.",
+        "image": null
+      },
+      {
+        "label": "Model <math alttext=\"f\"><mi>f</mi></math> is justified as appropriate for the data set because the residual plot does show a pattern.",
+        "image": null
+      },
+      {
+        "label": "Model <math alttext=\"g\"><mi>g</mi></math> is justified as appropriate for the data set because the residual plot does not show a pattern.",
+        "image": null
+      },
+      {
+        "label": "Model <math alttext=\"g\"><mi>g</mi></math> is justified as appropriate for the data set because the residual plot does show a pattern.",
+        "image": null
+      }
+    ],
+    "answer": "Model <math alttext=\"f\"><mi>f</mi></math> is justified as appropriate for the data set because the residual plot does not show a pattern."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Competing Function Model Validation"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Support conclusions or choices with a logical rationale or appropriate data."
+  }
+}

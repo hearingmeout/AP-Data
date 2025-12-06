@@ -1,0 +1,41 @@
+{
+  "id": "VH903523",
+  "type": "mcq",
+  "title": "Advanced Placement dot equals and equals equals",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "String str1 = new String(\"Advanced Placement\");String str2 = new String(\"Advanced Placement\");if (str1.equals(str2) && str1 == str2){System.out.println(\"A\");}else if (str1.equals(str2) && str1 != str2){System.out.println(\"B\");}else if (!str1.equals(str2) && str1 == str2){System.out.println(\"C\");}else if (!str1.equals(str2) && str1 != str2){System.out.println(\"D\");}What, if anything, is printed when the code segment is executed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A",
+        "image": null
+      },
+      {
+        "label": "B",
+        "image": null
+      },
+      {
+        "label": "C",
+        "image": null
+      },
+      {
+        "label": "D",
+        "image": null
+      }
+    ],
+    "answer": "B"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Comparing Boolean Expressions"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

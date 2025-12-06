@@ -1,0 +1,41 @@
+{
+  "id": "YRK000000",
+  "type": "mcq",
+  "title": "Inverse Trig Functions - arctan transformations",
+  "content": {
+    "description": "​",
+    "question": "The graph of function f shows a curve and two horizontal dashed lines. The x axis ranges from negative 2 to 3 in increments of 1. The y axis ranges from negative 2 to 2 in increments of 1. The curve is asymptotic to the two horizontal dashed lines. Main description of fMoving from left to right: The first horizontal dashed line is labeled y equals pi over 2. The second horizontal dashed line is labeled y equals negative pi over 2. The curve for f begins above the horizontal dashed line labeled y equals negative pi over 2 in quadrant 3. The curve for f trends gradually up and to the right, passes through approximately (negative 1.5 comma negative 1), passes through the origin, and passes through approximately (1.5 comma 1). The curve for f continues up, ending below the horizontal dashed line labeled y equals pi over 2 in quadrant 1. The graph of function g shows a curve and two horizontal dashed lines. The x axis ranges from negative 5 to 5 in increments of 1. The y axis ranges from negative 1 to 3 in increments of 1. The curve is asymptotic to the two horizontal dashed lines. Main description of gMoving from left to right: The first horizontal dashed line is labeled y equals 1 plus pi over 2. The second horizontal dashed line is labeled y equals 1 minus pi over 2. The curve for g begins above the horizontal dashed line labeled y equals 1 minus pi over 2 in quadrant 3. The curve for g trends gradually up and to the right, passes through approximately (negative 3 comma 0), passes through (0 comma 1), and passes through approximately (3 comma 2). The curve for g continues up, ending below the horizontal dashed line labeled y equals 1 plus pi over 2 in quadrant 1. ​The figure gives the graphs of the functions <math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> and <math alttext=\"g\"><semantics><mi>g</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> in the <math alttext=\"x y\"><semantics><mrow><mi>x</mi><mi>y</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>-plane. The function <math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is given by <math alttext=\"f open parentheses x close parentheses equals tan to the power of negative 1 end exponent x\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mi>tan</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mi>x</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. Which of the following defines <math alttext=\"g open parentheses x close parentheses\"><semantics><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": "https://ap.oly.st/images/037a830fcb2708ae4ae482dfbf7ab666.svg",
+    "choices": [
+      {
+        "label": "​<math alttext=\"tan to the power of negative 1 end exponent x plus 1\"><semantics><mrow><msup><mi>tan</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mi>x</mi><mo>+</mo><mn>1</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"tan to the power of negative 1 end exponent x plus pi over 2\"><semantics><mrow><msup><mi>tan</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mi>x</mi><mo>+</mo><mfrac><mi>π</mi><mn>2</mn></mfrac></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"tan to the power of negative 1 end exponent open parentheses x over 2 close parentheses plus 1\"><semantics><mrow><msup><mi>tan</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfenced><mfrac><mi>x</mi><mn>2</mn></mfrac></mfenced><mo>+</mo><mn>1</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"tan to the power of negative 1 end exponent open parentheses x over 2 close parentheses plus pi over 2\"><semantics><mrow><msup><mi>tan</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfenced><mfrac><mi>x</mi><mn>2</mn></mfrac></mfenced><mo>+</mo><mfrac><mi>π</mi><mn>2</mn></mfrac></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"tan to the power of negative 1 end exponent open parentheses x over 2 close parentheses plus 1\"><semantics><mrow><msup><mi>tan</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfenced><mfrac><mi>x</mi><mn>2</mn></mfrac></mfenced><mo>+</mo><mn>1</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Trigonometric and Polar Functions"
+  },
+  "topic": {
+    "code": "3.9",
+    "text": "3.9: Inverse Trigonometric Functions"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Construct equivalent graphical, numerical, analytical, and verbal representations of functions that are useful in a given mathematical or applied context, with and without technology."
+  }
+}

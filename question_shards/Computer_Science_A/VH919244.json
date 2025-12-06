@@ -1,0 +1,41 @@
+{
+  "id": "VH919244",
+  "type": "mcq",
+  "title": "print Fun in nested for loops",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "for (int j = 0; j < 3; j++){for (int k = 0; k < 4; k++){System.out.println(\"Fun\");}}Which of the following best explains how changing the outer for loop header to for (int j = 0; j <= 3; j++) affects the output of the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The output of the code segment will be unchanged.",
+        "image": null
+      },
+      {
+        "label": "The string \"Fun\" will be printed more times because the outer loop will execute more times.",
+        "image": null
+      },
+      {
+        "label": "The string \"Fun\" will be printed more times because the inner loop will execute more times in each iteration of the outer loop.",
+        "image": null
+      },
+      {
+        "label": "The string \"Fun\" will be printed fewer times because the outer loop will execute fewer times.",
+        "image": null
+      }
+    ],
+    "answer": "The string \"Fun\" will be printed more times because the outer loop will execute more times."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.11",
+    "text": "2.11: Nested Iteration"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

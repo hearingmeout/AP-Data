@@ -1,0 +1,41 @@
+{
+  "id": "VR846575",
+  "type": "mcq",
+  "title": "Equivalent resistance - R1 R2 R2 and R3",
+  "content": {
+    "description": "",
+    "question": "The figure shows a portion of a circuit comprised of four resistors. As indicated, two resistors have the same resistance <math alttext=\"R sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>2</mn></msub></math> and two have resistances of <math alttext=\"R sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>1</mn></msub></math> and <math alttext=\"R sub 3\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>3</mn></msub></math>. What is the equivalent resistance of the set of resistors in the figure?",
+    "image": "https://ap.oly.st/images/927f2e0d69004168785d3fa7b4a9014e.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"R sub 1, end sub, plus the fraction R sub 2 over 2, end fraction, plus R sub 3\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>1</mn></msub><mo>+</mo><mfrac><msub><mi>R</mi><mn>2</mn></msub><mn>2</mn></mfrac><mo>+</mo><msub><mi>R</mi><mn>3</mn></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"R sub 1, end sub, plus 2 R sub 2, end sub, plus R sub 3\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>1</mn></msub><mo>+</mo><mn>2</mn><msub><mi>R</mi><mn>2</mn></msub><mo>+</mo><msub><mi>R</mi><mn>3</mn></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2 R sub 2, end sub, plus the fraction with numerator R sub 1, end sub, times R sub 3, and denominator R sub 1, end sub, plus R sub 3, end fraction\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><msub><mi>R</mi><mn>2</mn></msub><mo>+</mo><mfrac><mrow><msub><mi>R</mi><mn>1</mn></msub><msub><mi>R</mi><mn>3</mn></msub></mrow><mrow><msub><mi>R</mi><mn>1</mn></msub><mo>+</mo><msub><mi>R</mi><mn>3</mn></msub></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator R sub 1, end sub, times R sub 2, end sub, times R sub 3, and denominator R sub 1, end sub, times R sub 2, end sub, plus R sub 2, end sub, times R sub 3, end sub, plus 2 R sub 1, end sub, times R sub 3, end fraction\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><msub><mi>R</mi><mn>1</mn></msub><msub><mi>R</mi><mn>2</mn></msub><msub><mi>R</mi><mn>3</mn></msub></mrow><mrow><msub><mi>R</mi><mn>1</mn></msub><msub><mi>R</mi><mn>2</mn></msub><mo>+</mo><msub><mi>R</mi><mn>2</mn></msub><msub><mi>R</mi><mn>3</mn></msub><mo>+</mo><mn>2</mn><msub><mi>R</mi><mn>1</mn></msub><msub><mi>R</mi><mn>3</mn></msub></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"R sub 1, end sub, plus the fraction R sub 2 over 2, end fraction, plus R sub 3\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>1</mn></msub><mo>+</mo><mfrac><msub><mi>R</mi><mn>2</mn></msub><mn>2</mn></mfrac><mo>+</mo><msub><mi>R</mi><mn>3</mn></msub></math>"
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.5",
+    "text": "11.5: Compound Direct Current (DC) Circuits"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

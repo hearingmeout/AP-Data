@@ -1,0 +1,41 @@
+{
+  "id": "WZL000000",
+  "type": "mcq",
+  "title": "Competing Models - ATM surcharge fee",
+  "content": {
+    "description": "​",
+    "question": "Year2002200420052008201120132014Surcharge (dollars)<math alttext=\"1.38\"><semantics><mn>1.38</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"1.37\"><semantics><mn>1.37</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"1.54\"><semantics><mn>1.54</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"1.97\"><semantics><mn>1.97</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"2.40\"><semantics><mn>2.40</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"2.60\"><semantics><mn>2.60</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"2.77\"><semantics><mn>2.77</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>​​The table gives the average automated teller machine (ATM) surcharge fee, in dollars, in the United States for selected years from 2002 to 2014. An exponential regression <math alttext=\"y equals a b to the power of t\"><semantics><mrow><mi>y</mi><mo>=</mo><mi>a</mi><msup><mi>b</mi><mi>t</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is used to model these data, where <math alttext=\"t equals 2\"><semantics><mrow><mi>t</mi><mo>=</mo><mn>2</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> corresponds to 2002. Based on the exponential model, what is the error in the model, in dollars, for 2013, and is the value predicted by the model for 2013 an underestimate or overestimate of the surcharge fee?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​​The error is <math alttext=\"0.01\"><mn>0.01</mn></math>, and the value predicted by the model is an underestimate.",
+        "image": null
+      },
+      {
+        "label": "​​The error is <math alttext=\"0.01\"><mn>0.01</mn></math>, and the value predicted by the model is an overestimate.",
+        "image": null
+      },
+      {
+        "label": "​​The error is <math alttext=\"0.03\"><semantics><mn>0.03</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, and the value predicted by the model is an underestimate.",
+        "image": null
+      },
+      {
+        "label": "​The error is <math alttext=\"0.03\"><semantics><mn>0.03</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, and the value predicted by the model is an overestimate.",
+        "image": null
+      }
+    ],
+    "answer": "​The error is <math alttext=\"0.03\"><semantics><mn>0.03</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, and the value predicted by the model is an overestimate."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Competing Function Model Validation"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Identify information from graphical, numerical, analytical, and verbal representations to answer a question or construct a model, with and without technology."
+  }
+}

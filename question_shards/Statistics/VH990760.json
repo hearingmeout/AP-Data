@@ -1,0 +1,45 @@
+{
+  "id": "VH990760",
+  "type": "mcq",
+  "title": "Installed RAM",
+  "content": {
+    "description": "A computer engineer is investigating whether the amount of installed <math alttext=\"R A M\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>RAM</mtext></mrow></mstyle></math> (random access memory) can be used to predict the mean cost of a laptop with the operating system. The computer engineer collected a sample of 20 laptops with the same operating system. The engineer wants to estimate the mean change in the cost, in dollars, for each increase of 1 gigabyte of installed <math alttext=\"R A M\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>RAM</mtext></mrow></mstyle></math>.",
+    "question": "Assuming the conditions for inference have been met, which of the following inference procedures is the most appropriate for such an investigation?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A two-sample <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math>-interval for a difference between proportions",
+        "image": null
+      },
+      {
+        "label": "A two-sample <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-interval for a difference between means",
+        "image": null
+      },
+      {
+        "label": "A matched-pairs <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-interval for a mean difference",
+        "image": null
+      },
+      {
+        "label": "A one-sample <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-test for means",
+        "image": null
+      },
+      {
+        "label": "A linear regression <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-interval for slope",
+        "image": null
+      }
+    ],
+    "answer": "A linear regression <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-interval for slope"
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Inference for Quantitative Data-Slopes"
+  },
+  "topic": {
+    "code": "9.2",
+    "text": "9.2: Confidence Intervals for the Slope of a Regression Model"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate inference method for confidence intervals."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "UXV000002",
+  "type": "mcq",
+  "title": "Item and Checker class - determine result",
+  "content": {
+    "description": "",
+    "question": "What is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "ID 23: valid ID 55: valid ID 55: invalid ID 23: valid",
+        "image": null
+      },
+      {
+        "label": "ID 23: valid ID 55: valid ID 55: invalid ID 23: invalid",
+        "image": null
+      },
+      {
+        "label": "ID 23: valid ID 55: invalid ID 55: invalid ID 23: valid",
+        "image": null
+      },
+      {
+        "label": "ID 23: valid ID 55: invalid ID 55: valid ID 23: invalid",
+        "image": null
+      }
+    ],
+    "answer": "ID 23: valid ID 55: valid ID 55: invalid ID 23: valid"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.9",
+    "text": "3.9: `this` Keyword"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

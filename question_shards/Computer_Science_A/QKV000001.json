@@ -1,0 +1,41 @@
+{
+  "id": "QKV000001",
+  "type": "mcq",
+  "title": "recursive doSomething method - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Assume that myString is a properly declared and initialized String object. Which of the following best describes the result of the call doSomething(myString)?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The method call returns a String containing the contents of myString unchanged.",
+        "image": null
+      },
+      {
+        "label": "The method call returns a String containing the contents of myString with the order of the characters reversed from their order in myString.",
+        "image": null
+      },
+      {
+        "label": "The method call returns a String containing all but the first character of myString.",
+        "image": null
+      },
+      {
+        "label": "The method call returns a String containing only the first and second characters of myString.",
+        "image": null
+      }
+    ],
+    "answer": "The method call returns a String containing the contents of myString unchanged."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.16",
+    "text": "4.16: Recursion"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

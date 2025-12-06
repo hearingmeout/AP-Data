@@ -1,0 +1,40 @@
+{
+  "id": "VH982929-22",
+  "type": "frq",
+  "title": "Derivative Rules with Tangent Line-Inverse",
+  "content": {
+    "description": "",
+    "question": "NO CALCULATOR IS ALLOWED FOR THIS QUESTION. Show all of your work, even though the question may not explicitly remind you to do so. Clearly label any functions, graphs, tables, or other objects that you use. Justifications require that you give mathematical reasons, and that you verify the needed conditions under which relevant theorems, properties, definitions, or tests are applied. Your work will be scored on the correctness and completeness of your methods as well as your answers. Answers without supporting work will usually not receive credit. Unless otherwise specified, answers (numeric or algebraic) need not be simplified. If your answer is given as a decimal approximation, it should be correct to three places after the decimal point. Unless otherwise specified, the domain of a function <math alttext=\"f\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is assumed to be the set of all real numbers <math alttext=\"x\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> for which <math alttext=\"f of x\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math> is a real number. Let <math alttext=\"f\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be an increasing function with <math alttext=\"f of 0 equals 3\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>=</mo><mn>3</mn></mrow></mstyle></math>. The derivative of <math alttext=\"f\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is given by <math alttext=\"f prime of x, equals, the cosine of, open parenthesis, pi x, close parenthesis, plus x to the fourth power, plus 6\"><mstyle><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>cos</mi><mo>⁡</mo><mrow><mo>(</mo><mi>π</mi><mi>x</mi><mo>)</mo></mrow><mo>+</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>4</mn></mrow></msup><mo>+</mo><mn>6</mn></mrow></mstyle></math>. (a) Find <math alttext=\"f double prime of negative 3\"><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>″</mo></mrow></msup><mrow><mo>(</mo><mrow><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></math>.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "NO CALCULATOR IS ALLOWED FOR THIS QUESTION. Show all of your work, even though the question may not explicitly remind you to do so. Clearly label any functions, graphs, tables, or other objects that you use. Justifications require that you give mathematical reasons, and that you verify the needed conditions under which relevant theorems, properties, definitions, or tests are applied. Your work will be scored on the correctness and completeness of your methods as well as your answers. Answers without supporting work will usually not receive credit. Unless otherwise specified, answers (numeric or algebraic) need not be simplified. If your answer is given as a decimal approximation, it should be correct to three places after the decimal point. Unless otherwise specified, the domain of a function <math alttext=\"f\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is assumed to be the set of all real numbers <math alttext=\"x\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> for which <math alttext=\"f of x\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math> is a real number. Let <math alttext=\"f\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be an increasing function with <math alttext=\"f of 0 equals 3\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>=</mo><mn>3</mn></mrow></mstyle></math>. The derivative of <math alttext=\"f\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is given by <math alttext=\"f prime of x, equals, the cosine of, open parenthesis, pi x, close parenthesis, plus x to the fourth power, plus 6\"><mstyle><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>cos</mi><mo>⁡</mo><mrow><mo>(</mo><mi>π</mi><mi>x</mi><mo>)</mo></mrow><mo>+</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>4</mn></mrow></msup><mo>+</mo><mn>6</mn></mrow></mstyle></math>. (a) Find <math alttext=\"f double prime of negative 3\"><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>″</mo></mrow></msup><mrow><mo>(</mo><mrow><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></math>.",
+        "image": null
+      },
+      {
+        "text": "(b) Write an equation for the line tangent to the graph of <math alttext=\"y equals, open parenthesis, f of x, close parenthesis, squared\"><mrow><mi>y</mi><mo>=</mo><msup><mrow><mo>(</mo><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow></math> at <math alttext=\"x equals 0\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>0</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "text": "(c) Let <math alttext=\"g\"><mrow><mi>g</mi></mrow></math> be the function defined by <math alttext=\"g of x equals, f of, open parenthesis, the square root of 2 times x squared, plus 7, end root, close parenthesis\"><mstyle><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>f</mi><mrow><mo>(</mo><msqrt><mrow><mn>2</mn><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>7</mn></mrow></msqrt><mo>)</mo></mrow></mrow></mstyle></math>. Find <math alttext=\"g prime of 3\"><mstyle><mrow><msup><mrow><mi>g</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "text": "(d) Let <math alttext=\"h\"><mstyle><mrow><mi>h</mi></mrow></mstyle></math> be the inverse function of <math alttext=\"f\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math>. Find <math alttext=\"h prime of 3\"><mstyle><mrow><msup><mrow><mi>h</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></mstyle></math>.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Defining the Derivative of a Function and Using Derivative Notation"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Identify an appropriate mathematical rule or procedure based on the classification of a given expression (e.g., Use the chain rule to find the derivative of a composite function)."
+  }
+}

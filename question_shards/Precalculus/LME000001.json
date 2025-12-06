@@ -1,0 +1,41 @@
+{
+  "id": "LME000001",
+  "type": "mcq",
+  "title": "Geometric Sequence - General Term",
+  "content": {
+    "description": "",
+    "question": "The first four terms of a geometric sequence are given by <math alttext=\"g subscript 1 equals 1 fifth\"><msub><mi>g</mi><mn>1</mn></msub><mo>=</mo><mfrac><mn>1</mn><mn>5</mn></mfrac></math>, <math alttext=\"g subscript 2 equals 1\"><msub><mi>g</mi><mn>2</mn></msub><mo>=</mo><mn>1</mn></math>, <math alttext=\"g subscript 3 equals 5\"><msub><mi>g</mi><mn>3</mn></msub><mo>=</mo><mn>5</mn></math>, and <math alttext=\"g subscript 4 equals 25\"><msub><mi>g</mi><mn>4</mn></msub><mo>=</mo><mn>25</mn></math>. Which of the following could be an expression for the general term of the sequence, <math alttext=\"g subscript n\"><msub><mi>g</mi><mi>n</mi></msub></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"g subscript n equals 1 fifth open parentheses 5 close parentheses to the power of open parentheses n minus 1 close parentheses end exponent\"><msub><mi>g</mi><mi>n</mi></msub><mo>=</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><msup><mfenced><mn>5</mn></mfenced><mfenced><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced></msup></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"g subscript n equals 5 open parentheses 1 fifth close parentheses to the power of open parentheses n minus 1 close parentheses end exponent\"><msub><mi>g</mi><mi>n</mi></msub><mo>=</mo><mn>5</mn><msup><mfenced><mfrac><mn>1</mn><mn>5</mn></mfrac></mfenced><mfenced><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced></msup></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"g subscript n equals 1 fifth plus 4 over 5 n\"><msub><mi>g</mi><mi>n</mi></msub><mo>=</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mo>+</mo><mfrac><mn>4</mn><mn>5</mn></mfrac><mi>n</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"g subscript n equals 1 fifth plus 4 over 5 open parentheses n minus 1 close parentheses\"><msub><mi>g</mi><mi>n</mi></msub><mo>=</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mo>+</mo><mfrac><mn>4</mn><mn>5</mn></mfrac><mfenced><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"g subscript n equals 1 fifth open parentheses 5 close parentheses to the power of open parentheses n minus 1 close parentheses end exponent\"><msub><mi>g</mi><mi>n</mi></msub><mo>=</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><msup><mfenced><mn>5</mn></mfenced><mfenced><mrow><mi>n</mi><mo>-</mo><mn>1</mn></mrow></mfenced></msup></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Change in Arithmetic and Geometric Sequences"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VR813093",
+  "type": "mcq",
+  "title": "Inductor - power delivered to inductor",
+  "content": {
+    "description": "",
+    "question": "The current in an inductor of inductance <math alttext=\"L\" display=\"inline\" overflow=\"scroll\"><mi>L</mi></math> as a function of time is given by the equation <math alttext=\"I of t equals, I sub 0, end sub, times the sine of open parenthesis, omega t, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mi>I</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><msub><mi>I</mi><mn>0</mn></msub><mspace width=\"0.2em\"></mspace><mi>sin</mi><mo>⁡</mo><mrow><mo>(</mo><mi>ω</mi><mi>t</mi><mo>)</mo></mrow></math>, where <math alttext=\"omega\" display=\"inline\" overflow=\"scroll\"><mi>ω</mi></math> is a positive constant with appropriate units. Derive an expression for the power <math alttext=\"P\" display=\"inline\" overflow=\"scroll\"><mi>P</mi></math> delivered to the inductor at time <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mi>t</mi></math>.",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"one half L times I sub 0, end sub, squared, times the sine squared of, open parenthesis, omega t, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>L</mi><msubsup><mi>I</mi><mn>0</mn><mn>2</mn></msubsup><mspace width=\"0.2em\"></mspace><msup><mi>sin</mi><mn>2</mn></msup><mo>⁡</mo><mrow><mo>(</mo><mi>ω</mi><mi>t</mi><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"L times I sub 0, end sub, squared, times the sine of open parenthesis, omega t, close parenthesis, times the cosine of open parenthesis, omega t, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>L</mi><msubsup><mi>I</mi><mn>0</mn><mn>2</mn></msubsup><mspace width=\"0.2em\"></mspace><mi>sin</mi><mo>⁡</mo><mrow><mo>(</mo><mi>ω</mi><mi>t</mi><mo>)</mo><mspace width=\"0.2em\"></mspace></mrow><mi>cos</mi><mo>⁡</mo><mrow><mo>(</mo><mi>ω</mi><mi>t</mi><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"omega L, times I sub 0, end sub, squared, times the sine of open parenthesis, omega t, close parenthesis, times the cosine of open parenthesis, omega t, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>ω</mi><mi>L</mi><msubsup><mi>I</mi><mn>0</mn><mn>2</mn></msubsup><mspace width=\"0.2em\"></mspace><mi>sin</mi><mo>⁡</mo><mrow><mo>(</mo><mi>ω</mi><mi>t</mi><mo>)</mo></mrow><mspace width=\"0.2em\"></mspace><mi>cos</mi><mo>⁡</mo><mrow><mo>(</mo><mi>ω</mi><mi>t</mi><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"L I sub 0, end sub, times omega times the cosine of open parenthesis, omega t, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>L</mi><msub><mi>I</mi><mn>0</mn></msub><mi>ω</mi><mspace width=\"0.2em\"></mspace><mi>cos</mi><mo>⁡</mo><mrow><mo>(</mo><mi>ω</mi><mi>t</mi><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"omega L, times I sub 0, end sub, squared, times the sine of open parenthesis, omega t, close parenthesis, times the cosine of open parenthesis, omega t, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>ω</mi><mi>L</mi><msubsup><mi>I</mi><mn>0</mn><mn>2</mn></msubsup><mspace width=\"0.2em\"></mspace><mi>sin</mi><mo>⁡</mo><mrow><mo>(</mo><mi>ω</mi><mi>t</mi><mo>)</mo></mrow><mspace width=\"0.2em\"></mspace><mi>cos</mi><mo>⁡</mo><mrow><mo>(</mo><mi>ω</mi><mi>t</mi><mo>)</mo></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.4",
+    "text": "13.4: Inductance"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

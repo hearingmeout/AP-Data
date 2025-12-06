@@ -1,0 +1,41 @@
+{
+  "id": "UMH000003",
+  "type": "mcq",
+  "title": "Outer loop header to print values - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following can be used to replace /* missing loop header */ so that the code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "for (int j = 0; j < 2; j++)",
+        "image": null
+      },
+      {
+        "label": "for (int j = 1; j <= 2; j++)",
+        "image": null
+      },
+      {
+        "label": "for (int j = 0; j <= 6; j += 2)",
+        "image": null
+      },
+      {
+        "label": "for (int j = 1; j < 6; j += 2)",
+        "image": null
+      }
+    ],
+    "answer": "for (int j = 1; j < 6; j += 2)"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.11",
+    "text": "2.11: Nested Iteration"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

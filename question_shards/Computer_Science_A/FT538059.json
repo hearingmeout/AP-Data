@@ -1,0 +1,41 @@
+{
+  "id": "FT538059",
+  "type": "mcq",
+  "title": "checkArray Postcondition",
+  "content": {
+    "description": "Consider the following instance variable and method.",
+    "question": "Which of the following is the best postcondition for checkArray ?",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/81f7d227d5b72f7ffb7c8f23a56195bd.jpg",
+    "choices": [
+      {
+        "label": "Returns the index of the last element in array array whose value is greater than array [loc]",
+        "image": null
+      },
+      {
+        "label": "Returns the largest value in array array",
+        "image": null
+      },
+      {
+        "label": "Returns the index of the largest value in array array",
+        "image": null
+      },
+      {
+        "label": "Returns the index of the largest value in the second half of array array",
+        "image": null
+      }
+    ],
+    "answer": "Returns the index of the largest value in array array"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implementing Array Algorithms"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

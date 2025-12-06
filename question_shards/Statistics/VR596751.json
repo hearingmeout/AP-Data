@@ -1,0 +1,45 @@
+{
+  "id": "VR596751",
+  "type": "mcq",
+  "title": "Driving Distance and Fairways",
+  "content": {
+    "description": "A sample of <math alttext=\"15\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>15</mn></mrow></mstyle></math> golfers who played a golf course on a certain day was selected. For each golfer, the average driving distance (<math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mi>x</mi></math>), in yards, and the percent of fairways hit on the drive (<math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mi>y</mi></math>) were recorded.",
+    "question": "The scatterplot displays the percent of fairways hit versus the average driving distance. Also shown is the least-squares regression line, <math alttext=\"y hat equals, 66.228, plus 0.0002 x\" display=\"inline\" overflow=\"scroll\"><mover><mi>y</mi><mo>^</mo></mover><mo>=</mo><mn>66.228</mn><mo>+</mo><mn>0.0002</mn><mi>x</mi></math>. The point circled on the scatterplot is considered an influential point. A new least-squares regression line will be calculated with the influential point removed. How will the removal of the influential point affect the new least-squares regression line for the remaining <math alttext=\"14\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>14</mn></mrow></mstyle></math> points?",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Statistics/0d50664ab0b926bc3a2239e1a0b1e2fb.svg",
+    "choices": [
+      {
+        "label": "The <math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mi>y</mi></math>-intercept will remain the same, and the slope will be negative.",
+        "image": null
+      },
+      {
+        "label": "The <math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mi>y</mi></math>-intercept will decrease, and the slope will be negative.",
+        "image": null
+      },
+      {
+        "label": "The <math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mi>y</mi></math>-intercept will decrease, and the slope will be positive.",
+        "image": null
+      },
+      {
+        "label": "The <math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mi>y</mi></math>-intercept will increase, and the slope will be negative.",
+        "image": null
+      },
+      {
+        "label": "The <math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mi>y</mi></math>-intercept will increase, and the slope will be positive.",
+        "image": null
+      }
+    ],
+    "answer": "The <math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mi>y</mi></math>-intercept will increase, and the slope will be negative."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.9",
+    "text": "2.9: Analyzing Departures from Linearity"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Describe data presented numerically or graphically."
+  }
+}

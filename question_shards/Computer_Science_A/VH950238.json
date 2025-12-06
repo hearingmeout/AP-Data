@@ -1,0 +1,41 @@
+{
+  "id": "VH950238",
+  "type": "mcq",
+  "title": "ArrayList of numbers",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "ArrayList<String> numbers = new ArrayList<String>();numbers.add(\"one\");numbers.add(\"two\");numbers.add(0, \"three\");numbers.set(2, \"four\");numbers.add(\"five\");numbers.remove(1);Which of the following represents the contents of numbers after the code segment has been executed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "[\"one\", \"four\", \"five\"]",
+        "image": null
+      },
+      {
+        "label": "[\"three\", \"two\", \"five\"]",
+        "image": null
+      },
+      {
+        "label": "[\"three\", \"four\", \"two\"]",
+        "image": null
+      },
+      {
+        "label": "[\"three\", \"four\", \"five\"]",
+        "image": null
+      }
+    ],
+    "answer": "[\"three\", \"four\", \"five\"]"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GSR000001",
+  "type": "mcq",
+  "title": "printValues method - determine result",
+  "content": {
+    "description": "",
+    "question": "What is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "222 44444",
+        "image": null
+      },
+      {
+        "label": "2222 33333",
+        "image": null
+      },
+      {
+        "label": "33 5555",
+        "image": null
+      },
+      {
+        "label": "44 555",
+        "image": null
+      }
+    ],
+    "answer": "33 5555"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Method Signatures"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

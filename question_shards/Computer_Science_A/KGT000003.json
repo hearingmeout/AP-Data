@@ -1,0 +1,41 @@
+{
+  "id": "KGT000003",
+  "type": "mcq",
+  "title": "Avoid ArithmeticException - describe condition",
+  "content": {
+    "description": "",
+    "question": "Which of the following preconditions for the method is most appropriate to avoid an ArithmeticException?",
+    "image": null,
+    "choices": [
+      {
+        "label": "/** Precondition: y is equal to 0. */",
+        "image": null
+      },
+      {
+        "label": "/** Precondition: y is less than 5. */",
+        "image": null
+      },
+      {
+        "label": "/** Precondition: y is not equal to 0. */",
+        "image": null
+      },
+      {
+        "label": "/** Precondition: y is not negative. */",
+        "image": null
+      }
+    ],
+    "answer": "/** Precondition: y is not equal to 0. */"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

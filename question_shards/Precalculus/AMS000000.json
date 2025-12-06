@@ -1,0 +1,41 @@
+{
+  "id": "AMS000000",
+  "type": "mcq",
+  "title": "Model Construction - stratified data plan",
+  "content": {
+    "description": "",
+    "question": "Jordan’s cell phone plan includes <math alttext=\"5\"><mn>5</mn></math> gigabytes (GB) of data per month and has a monthly cost of <math alttext=\"dollar sign 79.95\"><semantics><mrow><mo>$</mo><mn>79.95</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. If Jordan uses more than <math alttext=\"5\"><mn>5</mn></math> GB of data within the month, there is a charge of <math alttext=\"dollar sign 10\"><semantics><mrow><mo>$</mo><mn>10</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> per additional gigabyte of data used. Function <math alttext=\"C\"><mi>C</mi></math> is used to model Jordan’s monthly cell phone bill, where <math alttext=\"d\"><mi>d</mi></math> is the number of gigabytes of data used and <math alttext=\"C open parentheses d close parentheses\"><mi>C</mi><mfenced><mi>d</mi></mfenced></math> is the cost in dollars. Which of the following defines function <math alttext=\"C\"><mi>C</mi></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"C open parenthesis d close parenthesis equals a system of two equations. The first equation is 79.95 for 0 less than or equal to d less than or equal to 5. The second equation is 79.95 plus 10 open parenthesis d minus 5 close parenthesis for d greater than 5.\"><mi>C</mi><mfenced><mi>d</mi></mfenced><mo>=</mo><mfenced close=\"\" open=\"{\"><mtable columnalign=\"left\" columnspacing=\"1.4ex\"><mtr><mtd><mn>79.95</mn></mtd><mtd><mtext>for&nbsp;</mtext><mn>0</mn><mo>≤</mo><mi>d</mi><mo>≤</mo><mn>5</mn></mtd></mtr><mtr><mtd><mn>79.95</mn><mo>+</mo><mn>10</mn><mfenced><mrow><mi>d</mi><mo>-</mo><mn>5</mn></mrow></mfenced></mtd><mtd><mtext>for&nbsp;</mtext><mi>d</mi><mo>&gt;</mo><mn>5</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"C open parenthesis d close parenthesis equals a system of two equations. The first equation is 79.95 for 0 less than or equal to d less than or equal to 5. The second equation is 79.95 plus 10 d for d greater than 5.\"><mi>C</mi><mfenced><mi>d</mi></mfenced><mo>=</mo><mfenced close=\"\" open=\"{\"><mtable columnalign=\"left\" columnspacing=\"1.4ex\"><mtr><mtd><mn>79.95</mn></mtd><mtd><mtext>for&nbsp;</mtext><mn>0</mn><mo>≤</mo><mi>d</mi><mo>≤</mo><mn>5</mn></mtd></mtr><mtr><mtd><mn>79.95</mn><mo>+</mo><mn>10</mn><mi>d</mi></mtd><mtd><mtext>for&nbsp;</mtext><mi>d</mi><mo>&gt;</mo><mn>5</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"C open parenthesis d close parenthesis equals a system of two equations. The first equation is 79.95 for 0 less than or equal to d less than or equal to 5. The second equation is 79.95 d plus 10 for d greater than 5.\"><mi>C</mi><mfenced><mi>d</mi></mfenced><mo>=</mo><mfenced close=\"\" open=\"{\"><mtable columnalign=\"left\" columnspacing=\"1.4ex\"><mtr><mtd><mn>79.95</mn></mtd><mtd><mtext>for&nbsp;</mtext><mn>0</mn><mo>≤</mo><mi>d</mi><mo>≤</mo><mn>5</mn></mtd></mtr><mtr><mtd><mn>79.95</mn><mi>d</mi><mo>+</mo><mn>10</mn></mtd><mtd><mtext>for&nbsp;</mtext><mi>d</mi><mo>&gt;</mo><mn>5</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"C open parentheses d close parentheses equals 79.95 plus 10 d\"><mi>C</mi><mfenced><mi>d</mi></mfenced><mo>=</mo><mn>79.95</mn><mo>+</mo><mn>10</mn><mi>d</mi></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"C open parenthesis d close parenthesis equals a system of two equations. The first equation is 79.95 for 0 less than or equal to d less than or equal to 5. The second equation is 79.95 plus 10 open parenthesis d minus 5 close parenthesis for d greater than 5.\"><mi>C</mi><mfenced><mi>d</mi></mfenced><mo>=</mo><mfenced close=\"\" open=\"{\"><mtable columnalign=\"left\" columnspacing=\"1.4ex\"><mtr><mtd><mn>79.95</mn></mtd><mtd><mtext>for&nbsp;</mtext><mn>0</mn><mo>≤</mo><mi>d</mi><mo>≤</mo><mn>5</mn></mtd></mtr><mtr><mtd><mn>79.95</mn><mo>+</mo><mn>10</mn><mfenced><mrow><mi>d</mi><mo>-</mo><mn>5</mn></mrow></mfenced></mtd><mtd><mtext>for&nbsp;</mtext><mi>d</mi><mo>&gt;</mo><mn>5</mn></mtd></mtr></mtable></mfenced></math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Polynomial and Rational Functions"
+  },
+  "topic": {
+    "code": "1.14",
+    "text": "1.14: Function Model Construction and Application"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "VR020211",
+  "type": "mcq",
+  "title": "Binary representation of indigo",
+  "content": {
+    "description": "",
+    "question": "What is the binary RGB triplet for the color indigo?",
+    "image": null,
+    "choices": [
+      {
+        "label": "(00100101, 00000000, 10000010)",
+        "image": null
+      },
+      {
+        "label": "(00100101, 00000000, 01000001)",
+        "image": null
+      },
+      {
+        "label": "(01001011, 00000000, 10000010)",
+        "image": null
+      },
+      {
+        "label": "(01001011, 00000000, 01000001)",
+        "image": null
+      }
+    ],
+    "answer": "(01001011, 00000000, 10000010)"
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Binary Numbers"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

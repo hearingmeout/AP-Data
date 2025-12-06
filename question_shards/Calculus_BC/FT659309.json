@@ -1,0 +1,40 @@
+{
+  "id": "FT659309",
+  "type": "frq",
+  "title": "Diff eq.: No context, with d2y/dx2",
+  "content": {
+    "description": "",
+    "question": "Consider the differential equation <math> <semantics> <mrow> <mfrac> <mrow> <mi>d</mi> <mi>y</mi> </mrow> <mrow> <mi>d</mi> <mi>x</mi> </mrow> </mfrac> <mo>=</mo> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mi>x</mi> <mo>+</mo> <mi>y</mi> <mo>−</mo> <mn>1</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWcaaWdaeaapeGaamizaiaadMhaa8aabaWdbiaadsgacaWG4baaaiabg2da9maalaaapaqaa8qacaaIXaaapaqaa8qacaaIYaaaaiaadIhacqGHRaWkcaWG5bGaeyOeI0IaaGymaaaa@417F@</annotation> </semantics> </math>. (a) On the axes provided, sketch a slope field for the given differential equation at the nine points indicated.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Consider the differential equation <math> <semantics> <mrow> <mfrac> <mrow> <mi>d</mi> <mi>y</mi> </mrow> <mrow> <mi>d</mi> <mi>x</mi> </mrow> </mfrac> <mo>=</mo> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mi>x</mi> <mo>+</mo> <mi>y</mi> <mo>−</mo> <mn>1</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWcaaWdaeaapeGaamizaiaadMhaa8aabaWdbiaadsgacaWG4baaaiabg2da9maalaaapaqaa8qacaaIXaaapaqaa8qacaaIYaaaaiaadIhacqGHRaWkcaWG5bGaeyOeI0IaaGymaaaa@417F@</annotation> </semantics> </math>. (a) On the axes provided, sketch a slope field for the given differential equation at the nine points indicated.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Calculus_BC/0a812262-5c7c-4be2-9303-c941e5c36855.png"
+      },
+      {
+        "text": "(b) Find <math> <semantics> <mrow> <mfrac> <mrow> <msup> <mi>d</mi> <mn>2</mn> </msup> <mi>y</mi> </mrow> <mrow> <mi>d</mi> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaSaaaeaacaWGKbWaaWbaaSqabeaacaaIYaaaaOGaamyEaaqaaiaadsgacaWG4bWaaWbaaSqabeaacaaIYaaaaaaaaaa@3BAE@</annotation> </semantics> </math> in terms of x and y. Describe the region in the xy-plane in which all solution curves to the differential equation are concave up.",
+        "image": null
+      },
+      {
+        "text": "(c) Let y = f(x) be a particular solution to the differential equation with the initial condition f(0) = 1. Does f have a relative minimum, a relative maximum, or neither at x = 0? Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "(d) Find the values of the constants m and b, for which y = mx + b is a solution to the differential equation.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.2",
+    "text": "3.2: Implicit Differentiation"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "VR596746",
+  "type": "mcq",
+  "title": "Evening Classes",
+  "content": {
+    "description": "A university that offers evening classes to a large number of students who commute to campus wants to estimate the mean commute time of all evening students. A parking facilities attendant selects one parking lot on campus, then selects the first <math alttext=\"60 students\" overflow=\"scroll\"> <mn>60</mn> </math> students who drive into the lot on a certain evening. Each of the <math alttext=\"60 students\" overflow=\"scroll\"> <mn>60</mn> </math> students is asked to provide their typical commute time to campus. The university will create a confidence interval for the mean commute time of evening students.",
+    "question": "Are the conditions for inference satisfied?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Yes, all conditions for inference are satisfied.",
+        "image": null
+      },
+      {
+        "label": "No, because the distribution of the population mean commute time is not known to be normally distributed.",
+        "image": null
+      },
+      {
+        "label": "No, because the sample size is greater than <math alttext=\"10%\" overflow=\"scroll\"><mstyle><mrow><mn>10</mn><mo>%</mo></mrow></mstyle></math> of the population size.",
+        "image": null
+      },
+      {
+        "label": "No, because the students selected are not a random sample of all evening students.",
+        "image": null
+      },
+      {
+        "label": "No, because the sample size of <math alttext=\"60\" overflow=\"scroll\"><mn>60</mn></math> is not large enough to assume that the sampling distribution of the sample mean commute time is approximately normal.",
+        "image": null
+      }
+    ],
+    "answer": "No, because the students selected are not a random sample of all evening students."
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.2",
+    "text": "7.2: Constructing a Confidence Interval for a Population Mean"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Verify that inference procedures apply in a given situation."
+  }
+}

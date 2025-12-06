@@ -1,0 +1,45 @@
+{
+  "id": "FT561141",
+  "type": "mcq",
+  "title": "Intermediate Value Theorem",
+  "content": {
+    "description": "",
+    "question": "Let g be a function such that g(-1) = 0 and g(2) = 5. Which of the following conditions guarantees that there is an x, -1< x < 2, for which g(x) = 3 ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "g is defined for all x in (-1, 2).",
+        "image": null
+      },
+      {
+        "label": "g is continuous for all x in [-1, 2 ].",
+        "image": null
+      },
+      {
+        "label": "g is increasing on [-1, 2 ].",
+        "image": null
+      },
+      {
+        "label": "There exists an x in (-1, 2) such that g'(x) = 5.",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mrow> <mo>−</mo><mn>1</mn> </mrow> <mn>2</mn> </msubsup> <mi>g</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>d</mi><mi>x</mi><mo>=</mo><mn>3</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWdXaWdaeaapeGaam4zaaWcpaqaa8qacqGHsislcaaIXaaapaqaa8qacaaIYaaaniabgUIiYdGcdaqadaWdaeaapeGaamiEaaGaayjkaiaawMcaaiaadsgacaWG4bGaeyypa0JaaG4maaaa@4242@</annotation> </semantics> </math>",
+        "image": null
+      }
+    ],
+    "answer": "g is continuous for all x in [-1, 2 ]."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.16",
+    "text": "1.16: Working with the Intermediate Value Theorem (IVT)"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Provide reasons or rationales for solutions and conclusions."
+  }
+}

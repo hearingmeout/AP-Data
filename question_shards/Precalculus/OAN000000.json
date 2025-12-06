@@ -1,0 +1,41 @@
+{
+  "id": "OAN000000",
+  "type": "mcq",
+  "title": "Logarithmic Manipulation - power property",
+  "content": {
+    "description": "",
+    "question": "​The function <math alttext=\"g\"><semantics><mi>g</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is given by <math alttext=\"g open parentheses x close parentheses equals a log subscript b c\"><semantics><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mi>a</mi><msub><mi>log</mi><mi>b</mi></msub><mi>c</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, where <math alttext=\"a\"><semantics><mi>a</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, <math alttext=\"b\"><semantics><mi>b</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, and <math alttext=\"c\"><semantics><mi>c</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> are positive integers. Which of the following is an equivalent representation of <math alttext=\"g open parentheses x close parentheses\"><semantics><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"log subscript b open parentheses c to the power of a close parentheses\"><semantics><mrow><msub><mi>log</mi><mi>b</mi></msub><mfenced><msup><mi>c</mi><mi>a</mi></msup></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"open parentheses log subscript b c close parentheses to the power of a\"><semantics><msup><mfenced><mrow><msub><mi>log</mi><mi>b</mi></msub><mi>c</mi></mrow></mfenced><mi>a</mi></msup><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"log subscript b open parentheses c to the power of open parentheses 1 divided by a close parentheses end exponent close parentheses\"><semantics><mrow><msub><mi>log</mi><mi>b</mi></msub><mfenced><msup><mi>c</mi><mfenced><mrow><mn>1</mn><mo>/</mo><mi>a</mi></mrow></mfenced></msup></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"a log subscript 10 b plus a log subscript 10 c\"><semantics><mrow><mi>a</mi><msub><mi>log</mi><mn>10</mn></msub><mi>b</mi><mo>+</mo><mi>a</mi><msub><mi>log</mi><mn>10</mn></msub><mi>c</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"log subscript b open parentheses c to the power of a close parentheses\"><semantics><mrow><msub><mi>log</mi><mi>b</mi></msub><mfenced><msup><mi>c</mi><mi>a</mi></msup></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.12",
+    "text": "2.12: Logarithmic Function Manipulation"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Express functions, equations, or expressions in analytically equivalent forms that are useful in a given mathematical or applied context."
+  }
+}

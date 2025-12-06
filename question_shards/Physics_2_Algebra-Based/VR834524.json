@@ -1,0 +1,41 @@
+{
+  "id": "VR834524",
+  "type": "mcq",
+  "title": "Capacitors - how dielectric constant 2 affects E",
+  "content": {
+    "description": "",
+    "question": "Two parallel plates have charges of magnitude <math alttext=\"Q\" display=\"inline\" overflow=\"scroll\"><mi>Q</mi></math> and opposite sign, as shown in the figure labeled “Initial Configuration.” The capacitor plates are isolated and there is an electric field of magnitude <math alttext=\"E sub i\" display=\"inline\" overflow=\"scroll\"><msub><mi>E</mi><mi>i</mi></msub></math> in between the plates. An insulating slab of material with a dielectric constant of <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> is then inserted into the capacitor, completely filling the space between the plates, as shown in the figure labeled “Final Configuration.” How does the magnitude <math alttext=\"E sub f\" display=\"inline\" overflow=\"scroll\"><msub><mi>E</mi><mi>f</mi></msub></math> of the electric field between the plates in the final configuration compare to <math alttext=\"E sub i\" display=\"inline\" overflow=\"scroll\"><msub><mi>E</mi><mi>i</mi></msub></math>, and what evidence or reasoning supports the claim?",
+    "image": "https://ap.oly.st/images/5c8152236c1339def84e31eb53d67570.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"E sub f is less than E sub i\" display=\"inline\" overflow=\"scroll\"><msub><mi>E</mi><mi>f</mi></msub><mo>&lt;</mo><msub><mi>E</mi><mi>i</mi></msub></math>. Some of the charge from each plate moves into the dielectric, resulting in less overall charge on the plates.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"E sub f is less than E sub i\" display=\"inline\" overflow=\"scroll\"><msub><mi>E</mi><mi>f</mi></msub><mo>&lt;</mo><msub><mi>E</mi><mi>i</mi></msub></math>. The dielectric induces a field in the opposite direction of the initial field, reducing the net field magnitude.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"E sub f equals E sub i\" display=\"inline\" overflow=\"scroll\"><msub><mi>E</mi><mi>f</mi></msub><mo>=</mo><msub><mi>E</mi><mi>i</mi></msub></math>. Insulators have no effect on the electric field.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"E sub f equals E sub i\" display=\"inline\" overflow=\"scroll\"><msub><mi>E</mi><mi>f</mi></msub><mo>=</mo><msub><mi>E</mi><mi>i</mi></msub></math>. A dielectric constant of <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> induces a field of magnitude <math alttext=\"2 E sub 1\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><msub><mi>E</mi><mn>1</mn></msub></math> in the opposite direction of the initial field, for a net field of the same magnitude.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"E sub f is less than E sub i\" display=\"inline\" overflow=\"scroll\"><msub><mi>E</mi><mi>f</mi></msub><mo>&lt;</mo><msub><mi>E</mi><mi>i</mi></msub></math>. The dielectric induces a field in the opposite direction of the initial field, reducing the net field magnitude."
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Electric Force, Field, and Potential"
+  },
+  "topic": {
+    "code": "10.6",
+    "text": "10.6: Capacitors"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

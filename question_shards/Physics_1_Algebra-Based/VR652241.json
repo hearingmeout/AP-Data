@@ -1,0 +1,41 @@
+{
+  "id": "VR652241",
+  "type": "mcq",
+  "title": "Torque - rod suspended by cable",
+  "content": {
+    "description": "",
+    "question": "A uniform metal rod of length <math alttext=\"l \" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>l</mi></mstyle></math> and mass <math alttext=\"m\" display=\"inline\" overflow=\"scroll\"><mi>m</mi></math> is connected to a wall by a pivot, as shown in the diagram. The rod is held at an angle <math alttext=\"theta \" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>θ</mi></mstyle></math> above the horizontal by a cable that extends horizontally from the wall. The tension in the cable is <math alttext=\"F sub T\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>F</mi><mi>T</mi></msub></mstyle></math>. Which of the following could be a correct expression for the net torque exerted on the rod about the pivot?",
+    "image": "https://ap.oly.st/images/6e4148e38a7333965f59823a3ed0b491.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"l the sine of theta, open parenthesis, F sub T, end sub, minus m g, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>l</mi><mi>sin</mi><mi>θ</mi><mrow><mo>(</mo><msub><mi>F</mi><mi>T</mi></msub><mo>−</mo><mi>m</mi><mi>g</mi><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"l, open parenthesis, F sub T, end sub, the sine of theta minus m g the cosine of theta, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>l</mi><mrow><mo>(</mo><msub><mi>F</mi><mi>T</mi></msub><mi>sin</mi><mi>θ</mi><mo>−</mo><mi>m</mi><mi>g</mi><mi>cos</mi><mi>θ</mi><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"l the sine of theta, open parenthesis, F sub T, end sub, minus the fraction m g over 2, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>l</mi><mi>sin</mi><mi>θ</mi><mrow><mo>(</mo><msub><mi>F</mi><mi>T</mi></msub><mo>−</mo><mfrac><mrow><mi>m</mi><mi>g</mi></mrow><mn>2</mn></mfrac><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"l, open parenthesis, F sub T, end sub, the sine of theta minus the fraction m g the cosine of theta, over 2, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>l</mi><mrow><mo>(</mo><msub><mi>F</mi><mi>T</mi></msub><mi>sin</mi><mi>θ</mi><mo>−</mo><mfrac><mrow><mi>m</mi><mi>g</mi><mi>cos</mi><mi>θ</mi></mrow><mn>2</mn></mfrac><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"l, open parenthesis, F sub T, end sub, the sine of theta minus the fraction m g the cosine of theta, over 2, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>l</mi><mrow><mo>(</mo><msub><mi>F</mi><mi>T</mi></msub><mi>sin</mi><mi>θ</mi><mo>−</mo><mfrac><mrow><mi>m</mi><mi>g</mi><mi>cos</mi><mi>θ</mi></mrow><mn>2</mn></mfrac><mo>)</mo></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.3",
+    "text": "5.3: Torque"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

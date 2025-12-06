@@ -1,0 +1,41 @@
+{
+  "id": "VR846566",
+  "type": "mcq",
+  "title": "Power - total power in resistors R1 and R2",
+  "content": {
+    "description": "",
+    "question": "A battery with <math alttext=\"e m f\" display=\"inline\" overflow=\"scroll\"><mi>emf</mi></math> <math alttext=\" uppercase script E\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi></math> is connected to two resistors of resistance <math alttext=\"R sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>1</mn></msub></math> and <math alttext=\"R sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mn>2</mn></msub></math>, as shown in the figure. What is the total power dissipated by the resistors?",
+    "image": "https://ap.oly.st/images/4efb5772430632176651b6bd7b585490.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"the fraction with numerator uppercase script E squared, and denominator R sub 1\" display=\"inline\" overflow=\"scroll\"><mfrac><msup><mi>Ɛ</mi><mn>2</mn></msup><msub><mi>R</mi><mn>1</mn></msub></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator uppercase script E squared, and denominator R sub 2\" display=\"inline\" overflow=\"scroll\"><mfrac><msup><mi>Ɛ</mi><mn>2</mn></msup><msub><mi>R</mi><mn>2</mn></msub></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator uppercase script E squared, and denominator R sub 1, end sub, plus R sub 2, end fraction\" display=\"inline\" overflow=\"scroll\"><mfrac><msup><mi>Ɛ</mi><mn>2</mn></msup><mrow><msub><mi>R</mi><mn>1</mn></msub><mo>+</mo><msub><mi>R</mi><mn>2</mn></msub></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"uppercase script E squared, times open parenthesis, the fraction 1 over R sub 1, end fraction, plus the fraction 1 over R sub 2, close parenthesis\" display=\"inline\" overflow=\"scroll\"><msup><mi>Ɛ</mi><mn>2</mn></msup><mpadded><mo>(</mo><mpadded><mfrac><mn>1</mn><msub><mi>R</mi><mn>1</mn></msub></mfrac><mo>+</mo><mfrac><mn>1</mn><msub><mi>R</mi><mn>2</mn></msub></mfrac></mpadded><mo>)</mo></mpadded></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"uppercase script E squared, times open parenthesis, the fraction 1 over R sub 1, end fraction, plus the fraction 1 over R sub 2, close parenthesis\" display=\"inline\" overflow=\"scroll\"><msup><mi>Ɛ</mi><mn>2</mn></msup><mpadded><mo>(</mo><mpadded><mfrac><mn>1</mn><msub><mi>R</mi><mn>1</mn></msub></mfrac><mo>+</mo><mfrac><mn>1</mn><msub><mi>R</mi><mn>2</mn></msub></mfrac></mpadded><mo>)</mo></mpadded></math>"
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.4",
+    "text": "11.4: Electric Power"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

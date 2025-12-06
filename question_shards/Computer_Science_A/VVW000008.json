@@ -1,0 +1,41 @@
+{
+  "id": "VVW000008",
+  "type": "mcq",
+  "title": "processNumbers - necessary precondition",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the preconditions necessary for the method to run without error?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The ArrayList must be sorted from smallest to largest.",
+        "image": null
+      },
+      {
+        "label": "The ArrayList must contain at least one element.",
+        "image": null
+      },
+      {
+        "label": "The ArrayList must contain at least two elements.",
+        "image": null
+      },
+      {
+        "label": "The ArrayList must contain only positive Integer values.",
+        "image": null
+      }
+    ],
+    "answer": "The ArrayList must contain at least one element."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

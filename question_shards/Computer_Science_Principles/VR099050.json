@@ -1,0 +1,37 @@
+{
+  "id": "VR099050",
+  "type": "mcq",
+  "title": "initial values that yield incorrect value of max",
+  "content": {
+    "description": "The following code segment is intended to set max equal to the maximum value among the integer variables x, y, and z. The code segment does not work as intended in all cases.",
+    "question": "Which of the following initial values for x, y, and z can be used to show that the code segment does not work as intended?",
+    "image": "https://ap.oly.st/images/2813b9462fb52956e36bda09dca9c46f.png",
+    "choices": [
+      {
+        "label": "x = 1, y = 2, z = 3",
+        "image": null
+      },
+      {
+        "label": "x = 1, y = 3, z = 2",
+        "image": null
+      },
+      {
+        "label": "x = 2, y = 3, z = 1",
+        "image": null
+      },
+      {
+        "label": "x = 3, y = 2, z = 1",
+        "image": null
+      }
+    ],
+    "answer": "x = 3, y = 2, z = 1"
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Identifying and Correcting Errors"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Identify and correct errors in algorithms and programs, including error discovery through testing."
+  }
+}

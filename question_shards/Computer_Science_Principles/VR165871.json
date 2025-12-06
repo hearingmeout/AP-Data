@@ -1,0 +1,37 @@
+{
+  "id": "VR165871",
+  "type": "mcq",
+  "title": "Condition when C is assigned to grade",
+  "content": {
+    "description": "Consider the following code segment, where exam and presentation are integer variables and grade is a string variable.",
+    "question": "IF((exam > 90) AND (presentation > 80)){grade <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> \"A\"}IF((exam > 80) OR (presentation > 75)){grade <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> \"B\"}ELSE{IF((exam > 70) OR (presentation > 60)){grade <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> \"C\"}ELSE{IF(exam > 60){grade <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> \"D\"}ELSE{grade <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> \"F\"}}}Under which of the following conditions will the value \"C\" be assigned to the variable grade ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "When the value of exam is 70 and the value of presentation is 50",
+        "image": null
+      },
+      {
+        "label": "When the value of exam is 70 and the value of presentation is 80",
+        "image": null
+      },
+      {
+        "label": "When the value of exam is 80 and the value of presentation is 60",
+        "image": null
+      },
+      {
+        "label": "When the value of exam is 80 and the value of presentation is 80",
+        "image": null
+      }
+    ],
+    "answer": "When the value of exam is 80 and the value of presentation is 60"
+  },
+  "topic": {
+    "code": "3.7",
+    "text": "3.7: Nested Conditionals"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

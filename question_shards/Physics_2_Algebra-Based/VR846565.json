@@ -1,0 +1,41 @@
+{
+  "id": "VR846565",
+  "type": "mcq",
+  "title": "Power - energy dissipated in time Delta t",
+  "content": {
+    "description": "",
+    "question": "A resistor has resistance <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math> and a constant current. An amount of charge <math alttext=\"Q\" display=\"inline\" overflow=\"scroll\"><mi>Q</mi></math> passes through a cross section of the resistor in an amount of time <math alttext=\"delta t\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Δ</mi><mi>t</mi></math>. How much energy is dissipated in the resistor during this time?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"Q R delta t\" display=\"inline\" overflow=\"scroll\"><mi>Q</mi><mi>R</mi><mi mathvariant=\"normal\">Δ</mi><mi>t</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction Q R over delta t\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mi>Q</mi><mi>R</mi></mrow><mrow><mi mathvariant=\"normal\">Δ</mi><mi>t</mi></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction Q squared times R, over delta t\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><msup><mi>Q</mi><mn>2</mn></msup><mi>R</mi></mrow><mrow><mi mathvariant=\"normal\">Δ</mi><mi>t</mi></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction Q squared times R, over, open parenthesis, delta t, close parenthesis, squared, end fraction\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><msup><mi>Q</mi><mn>2</mn></msup><mi>R</mi></mrow><msup><mpadded><mo>(</mo><mpadded><mi mathvariant=\"normal\">Δ</mi><mi>t</mi></mpadded><mo>)</mo></mpadded><mn>2</mn></msup></mfrac></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the fraction Q squared times R, over delta t\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><msup><mi>Q</mi><mn>2</mn></msup><mi>R</mi></mrow><mrow><mi mathvariant=\"normal\">Δ</mi><mi>t</mi></mrow></mfrac></math>"
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.4",
+    "text": "11.4: Electric Power"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

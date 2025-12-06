@@ -1,0 +1,40 @@
+{
+  "id": "VR731744",
+  "type": "frq",
+  "title": "History Quiz",
+  "content": {
+    "description": "",
+    "question": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations.Jacob is taking a quiz that consists of a list of five quotations from history and a list of names of the five historical figures who said them. The quiz directions are to match each quotation on the first list with one of the names on the second list, matching each name to exactly one quotation.(a) Consider just the first two quotations. If Jacob randomly guesses two different names from the list of five names for the first two quotations, what is the probability that he correctly matches both?",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations.Jacob is taking a quiz that consists of a list of five quotations from history and a list of names of the five historical figures who said them. The quiz directions are to match each quotation on the first list with one of the names on the second list, matching each name to exactly one quotation.(a) Consider just the first two quotations. If Jacob randomly guesses two different names from the list of five names for the first two quotations, what is the probability that he correctly matches both?",
+        "image": null
+      },
+      {
+        "text": "Now consider all five quotations and suppose that Jacob randomly guesses the matching name for each quotation, matching each name to exactly one quotation. Let the random variable <math alttext=\"uppercase X\" overflow=\"scroll\"><mi>X</mi></math> represent the number of correct matches out of the five quotations. The table shows the probability distribution of <math alttext=\"uppercase X\" overflow=\"scroll\"><mi>X</mi></math>.Number of correct matches, <math alttext=\"lowercase x\" overflow=\"scroll\"><mi>x</mi></math><math alttext=\"0\" overflow=\"scroll\"><mn>0</mn></math><math alttext=\"1\" overflow=\"scroll\"><mn>1</mn></math><math alttext=\"2\" overflow=\"scroll\"><mn>2</mn></math><math alttext=\"3\" overflow=\"scroll\"><mn>3</mn></math><math alttext=\"4\" overflow=\"scroll\"><mn>4</mn></math><math alttext=\"5\" overflow=\"scroll\"><mn>5</mn></math>Probability of <math alttext=\"lowercase x\" overflow=\"scroll\"><mi>x</mi></math>, <math alttext=\"the probability of lowercase x\" overflow=\"scroll\"><mi>P</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></math><math alttext=\"the fraction 44 over 120\" overflow=\"scroll\"><mfrac><mn>44</mn><mn>120</mn></mfrac></math><math alttext=\"the fraction 45 over 120\" overflow=\"scroll\"><mfrac><mn>45</mn><mn>120</mn></mfrac></math><math alttext=\"the fraction 20 over 120\" overflow=\"scroll\"><mfrac><mn>20</mn><mn>120</mn></mfrac></math><math alttext=\"the fraction 10 over 120\" overflow=\"scroll\"><mfrac><mn>10</mn><mn>120</mn></mfrac></math><math alttext=\"the fraction 0 over 120\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mn>0</mn><mn>120</mn></mfrac></mstyle></math><math alttext=\"the fraction 1 over 120\" overflow=\"scroll\"><mfrac><mn>1</mn><mn>120</mn></mfrac></math>(b) Calculate the conditional probability that Jacob will match exactly three quotations correctly, given that he matches at least two of the five quotations correctly. Show your work.",
+        "image": null
+      },
+      {
+        "text": "(c) The expected value of the probability distribution of <math alttext=\"uppercase X\" display=\"inline\" overflow=\"scroll\"><mi>X</mi></math> is <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>. What is the interpretation of this expected value in context?",
+        "image": null
+      },
+      {
+        "text": "(d) Does the random variable <math alttext=\"uppercase X\" display=\"inline\" overflow=\"scroll\"><mi>X</mi></math> have a binomial distribution? Explain why or why not.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Conditional Probability"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+  }
+}

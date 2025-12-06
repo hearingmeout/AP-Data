@@ -1,0 +1,40 @@
+{
+  "id": "FT659284",
+  "type": "frq",
+  "title": "Func def. by int.: 3 line segments",
+  "content": {
+    "description": "",
+    "question": "The graph of the function f above consists of three line segments. (a) Let g be the function given by <math> <semantics> <mrow> <mi>g</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mrow> <mo>−</mo> <mn>4</mn> </mrow> <mi>x</mi> </msubsup> <mi>f</mi> </mrow> </mstyle> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> <mi>d</mi> <mi>t</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWGNbWaaeWaa8aabaWdbiaadIhaaiaawIcacaGLPaaacqGH9aqpdaWdXaWdaeaapeGaamOzaaWcpaqaa8qacqGHsislcaaI0aaapaqaa8qacaWG4baaniabgUIiYdGcdaqadaWdaeaapeGaamiDaaGaayjkaiaawMcaaiaadsgacaWG0baaaa@4551@</annotation> </semantics> </math>. For each of g(-1), g'(-1), and g''(-1), find the value or state that it does not exist.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "The graph of the function f above consists of three line segments. (a) Let g be the function given by <math> <semantics> <mrow> <mi>g</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mrow> <mo>−</mo> <mn>4</mn> </mrow> <mi>x</mi> </msubsup> <mi>f</mi> </mrow> </mstyle> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> <mi>d</mi> <mi>t</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWGNbWaaeWaa8aabaWdbiaadIhaaiaawIcacaGLPaaacqGH9aqpdaWdXaWdaeaapeGaamOzaaWcpaqaa8qacqGHsislcaaI0aaapaqaa8qacaWG4baaniabgUIiYdGcdaqadaWdaeaapeGaamiDaaGaayjkaiaawMcaaiaadsgacaWG0baaaa@4551@</annotation> </semantics> </math>. For each of g(-1), g'(-1), and g''(-1), find the value or state that it does not exist.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Calculus_BC/original.png"
+      },
+      {
+        "text": "(b) For the function g defined in part (a), find the x-coordinate of each point of inflection of the graph of g on the open interval -4 < x < 3. Explain your reasoning.",
+        "image": null
+      },
+      {
+        "text": "(c) Let h be the function given by <math> <semantics> <mrow> <mi>h</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mi>x</mi> <mn>3</mn> </msubsup> <mi>f</mi> </mrow> </mstyle> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> <mi>d</mi> <mi>t</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWGObWaaeWaa8aabaWdbiaadIhaaiaawIcacaGLPaaacqGH9aqpdaWdXaWdaeaapeGaamOzaaWcpaqaa8qacaWG4baapaqaa8qacaaIZaaaniabgUIiYdGcdaqadaWdaeaapeGaamiDaaGaayjkaiaawMcaaiaadsgacaWG0baaaa@4464@</annotation> </semantics> </math>. Find all values of x in the closed interval −4 ≤ x ≤ 3 for which h(x) = 0.",
+        "image": null
+      },
+      {
+        "text": "(d) For the function h defined in part (c), find all intervals on which h is decreasing. Explain your reasoning.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.3",
+    "text": "5.3: Determining Intervals on Which a Function Is Increasing or Decreasing"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "DFR000000",
+  "type": "mcq",
+  "title": "Solving Exp and Logs - rewriting expressions",
+  "content": {
+    "description": "",
+    "question": "​The expression <math alttext=\"8 to the power of open parentheses x plus 7 close parentheses end exponent\"><semantics><msup><mn>8</mn><mfenced><mrow><mi>x</mi><mo>+</mo><mn>7</mn></mrow></mfenced></msup><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is part of an equation involving other exponential expressions with base <math alttext=\"e\"><semantics><mi>e</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. Which of the following is equivalent to <math alttext=\"8 to the power of open parentheses x plus 7 close parentheses end exponent\"><semantics><msup><mn>8</mn><mfenced><mrow><mi>x</mi><mo>+</mo><mn>7</mn></mrow></mfenced></msup><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> and is therefore more useful in solving the equation?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"e to the power of ln open parentheses x plus 7 close parentheses end exponent\"><semantics><msup><mi>e</mi><mrow><mi>ln</mi><mfenced><mrow><mi>x</mi><mo>+</mo><mn>7</mn></mrow></mfenced></mrow></msup><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"e to the power of open parentheses ln space 2 close parentheses open parentheses x plus 7 close parentheses end exponent\"><semantics><msup><mi>e</mi><mrow><mfenced><mrow><mi>ln</mi><mo>&nbsp;</mo><mn>2</mn></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>+</mo><mn>7</mn></mrow></mfenced></mrow></msup><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"e to the power of open parentheses ln space 8 close parentheses open parentheses x close parentheses end exponent plus 7\"><semantics><mrow><msup><mi>e</mi><mrow><mfenced><mrow><mi>ln</mi><mo>&nbsp;</mo><mn>8</mn></mrow></mfenced><mfenced><mi>x</mi></mfenced></mrow></msup><mo>+</mo><mn>7</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"e to the power of open parentheses ln space 2 close parentheses open parentheses 3 x plus 21 close parentheses end exponent\"><semantics><msup><mi>e</mi><mrow><mfenced><mrow><mi>ln</mi><mo>&nbsp;</mo><mn>2</mn></mrow></mfenced><mfenced><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mn>21</mn></mrow></mfenced></mrow></msup><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"e to the power of open parentheses ln space 2 close parentheses open parentheses 3 x plus 21 close parentheses end exponent\"><semantics><msup><mi>e</mi><mrow><mfenced><mrow><mi>ln</mi><mo>&nbsp;</mo><mn>2</mn></mrow></mfenced><mfenced><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mn>21</mn></mrow></mfenced></mrow></msup><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.13",
+    "text": "2.13: Exponential and Logarithmic Equations and Inequalities"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Express functions, equations, or expressions in analytically equivalent forms that are useful in a given mathematical or applied context."
+  }
+}

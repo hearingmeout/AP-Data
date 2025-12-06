@@ -1,0 +1,41 @@
+{
+  "id": "VR803583",
+  "type": "mcq",
+  "title": "Magnetic field - 2 straight current-carrying wires",
+  "content": {
+    "description": "",
+    "question": "Two long, parallel wires carry currents of the same magnitude <math alttext=\"I\" display=\"inline\" overflow=\"scroll\"><mi>I</mi></math> in opposite directions. Point <math alttext=\"P\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">P</mi></math> is located a perpendicular distance <math alttext=\"b\" display=\"inline\" overflow=\"scroll\"><mi>b</mi></math> from the top wire and a distance <math alttext=\"a\" display=\"inline\" overflow=\"scroll\"><mi>a</mi></math> a from the bottom wire, such that <math alttext=\"b is greater than a\" display=\"inline\" overflow=\"scroll\"><mi>b</mi><mo>&gt;</mo><mi>a</mi></math>, as shown. Which of the following is equal to the magnitude of the magnetic field at Point <math alttext=\"P\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">P</mi></math>?",
+    "image": "https://ap.oly.st/images/1cefc680c3a9211f0005169149db4301.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"the fraction with numerator mu sub 0, end sub, I times, open parenthesis, b minus a, close parenthesis, and denominator 2 pi a b\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><msub><mi>μ</mi><mn>0</mn></msub><mi>I</mi><mpadded><mo>(</mo><mpadded><mi>b</mi><mo>-</mo><mi>a</mi></mpadded><mo>)</mo></mpadded></mrow><mrow><mn>2</mn><mi>π</mi><mi>a</mi><mi>b</mi></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator mu sub 0, end sub, I times, open parenthesis, a plus b, close parenthesis, and denominator 2 pi a b\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><msub><mi>μ</mi><mn>0</mn></msub><mi>I</mi><mpadded><mo>(</mo><mi>a</mi><mo>+</mo><mi>b</mi><mo>)</mo></mpadded></mrow><mrow><mn>2</mn><mi>π</mi><mi>a</mi><mi>b</mi></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator mu sub 0, end sub, I times, open parenthesis, b minus a, close parenthesis, and denominator 2 a b\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><msub><mi>μ</mi><mn>0</mn></msub><mi>I</mi><mpadded><mo>(</mo><mi>b</mi><mo>-</mo><mi>a</mi><mo>)</mo></mpadded></mrow><mrow><mn>2</mn><mi>a</mi><mi>b</mi></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator mu sub 0, end sub, I times, open parenthesis, a plus b, close parenthesis, and denominator 2 a b\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><msub><mi>μ</mi><mn>0</mn></msub><mi>I</mi><mpadded><mo>(</mo><mi>a</mi><mo>+</mo><mi>b</mi><mo>)</mo></mpadded></mrow><mrow><mn>2</mn><mi>a</mi><mi>b</mi></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the fraction with numerator mu sub 0, end sub, I times, open parenthesis, a plus b, close parenthesis, and denominator 2 pi a b\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><msub><mi>μ</mi><mn>0</mn></msub><mi>I</mi><mpadded><mo>(</mo><mi>a</mi><mo>+</mo><mi>b</mi><mo>)</mo></mpadded></mrow><mrow><mn>2</mn><mi>π</mi><mi>a</mi><mi>b</mi></mrow></mfrac></math>"
+  },
+  "unit": {
+    "code": "12",
+    "text": "12: Magnetic Fields and Electromagnetism"
+  },
+  "topic": {
+    "code": "12.4",
+    "text": "12.4: Ampère's Law"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

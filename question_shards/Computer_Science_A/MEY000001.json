@@ -1,0 +1,41 @@
+{
+  "id": "MEY000001",
+  "type": "mcq",
+  "title": "Measurement class - explain error",
+  "content": {
+    "description": "",
+    "question": "Which of the following best explains why an error occurs when the classes are compiled?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The compare method cannot have parameters of type Measurement.",
+        "image": null
+      },
+      {
+        "label": "The compare method should be declared as void.",
+        "image": null
+      },
+      {
+        "label": "The toInches method cannot be accessed from a class other than Measurement.",
+        "image": null
+      },
+      {
+        "label": "The variables feet and inches cannot be accessed from the method toInches.",
+        "image": null
+      }
+    ],
+    "answer": "The toInches method cannot be accessed from a class other than Measurement."
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Anatomy of a Class"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "QTD000000",
+  "type": "mcq",
+  "title": "Polar Graphs - restricted domain",
+  "content": {
+    "description": "",
+    "question": "Which of the following is the graph of the polar function <math alttext=\"r equals f open parentheses theta close parentheses\"><semantics><mrow><mi>r</mi><mo>=</mo><mi>f</mi><mfenced><mi>θ</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, where <math alttext=\"f open parentheses theta close parentheses equals 2 cos open parentheses 2 theta close parentheses\"><semantics><mrow><mi>f</mi><mfenced><mi>θ</mi></mfenced><mo>=</mo><mn>2</mn><mi>cos</mi><mfenced><mrow><mn>2</mn><mi>θ</mi></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, in the polar coordinate system for <math alttext=\"negative pi over 2 less or equal than theta less or equal than pi over 2\"><semantics><mrow><mo>-</mo><mfrac><mi>π</mi><mn>2</mn></mfrac><mo>≤</mo><mi>θ</mi><mo>≤</mo><mfrac><mi>π</mi><mn>2</mn></mfrac></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​ The curve consists of four congruent loops that meet at the origin, each with a maximum radius of 2. The first loop is symmetric over the positive x axis. It runs from the origin, up to the right, then down to the right to (r comma theta) equals (2 comma 0). The loop continues down to the left, then up to the left back to the origin. The second loop is symmetric over the positive y axis. It runs from the origin, up to the left, then up to the right to (r comma theta) equals (2 comma pi over 2). The loop continues down to the right, then down to the left back to the origin. The third loop is symmetric over the negative x axis. It runs from the origin, up to the left, then down to the left to (r comma theta) equals (2 comma pi). The loop continues down to the right, then up to the right back to the origin. The fourth loop is symmetric over the negative y axis. It runs from the origin, down to the left, then down to the right to (r comma theta) equals (2 comma 3 pi over 2). The loop continues up to the right, then up to the left back to the origin.",
+        "image": "https://ap.oly.st/images/8f235aaab595516983ceb2ec863ed300.svg"
+      },
+      {
+        "label": "The curve consists one full loop and two half loops that meet at the origin, each with a maximum radius of 2. The full loop is symmetric over the positive x axis. It runs from the origin, up to the right, then down to the right to (r comma theta) equals (2 comma 0). The loop continues down to the left, then up to the left back to the origin. The first half loop runs from the origin, up to the left, then up to the right to (r comma theta) equals (2 comma pi over 2). The second half loop runs from the origin, down to the left, then down to the right to (r comma theta) equals (2 comma 3 pi over 2).",
+        "image": "https://ap.oly.st/images/d0d2f6783cf504ab6d00ff65de08d3ab.svg"
+      },
+      {
+        "label": "​​ The curve consists one full loop and two half loops that meet at the origin, each with a maximum radius of 2. The full loop is symmetric over the negative x axis. It runs from the origin, up to the left, then down to the left to (r comma theta) equals (2 comma pi). The loop continues down to the right, then up to the right back to the origin. The first half loop runs from the origin, up to the right, then up to the left to (r comma theta) equals (2 comma pi over 2). The second half loop runs from the origin, down to the right, then down to the left to (r comma theta) equals (2 comma 3 pi over 2).",
+        "image": "https://ap.oly.st/images/c590eafc6ef956a3101c2081f987c234.svg"
+      },
+      {
+        "label": "The curve consists one full loop and two half loops that meet at the origin, each with a maximum radius of 2. The full loop is symmetric over the negative y axis. It runs from the origin, down to the left, then down to the right to (r comma theta) equals (2 comma 3 pi over 2). The loop continues up to the right, then up to the left back to the origin. The first half loop runs from the origin, up to the right, then down to the right to (r comma theta) equals (2 comma 0). The second half loop runs from the origin, up to the left, then down to the left to (r comma theta) equals (2 comma pi).",
+        "image": "https://ap.oly.st/images/982fc8c03295c93e320043567ea163ff.svg"
+      }
+    ],
+    "answer": "The curve consists one full loop and two half loops that meet at the origin, each with a maximum radius of 2. The full loop is symmetric over the positive x axis. It runs from the origin, up to the right, then down to the right to (r comma theta) equals (2 comma 0). The loop continues down to the left, then up to the left back to the origin. The first half loop runs from the origin, up to the left, then up to the right to (r comma theta) equals (2 comma pi over 2). The second half loop runs from the origin, down to the left, then down to the right to (r comma theta) equals (2 comma 3 pi over 2)."
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Trigonometric and Polar Functions"
+  },
+  "topic": {
+    "code": "3.14",
+    "text": "3.14: Polar Function Graphs"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Construct equivalent graphical, numerical, analytical, and verbal representations of functions that are useful in a given mathematical or applied context, with and without technology."
+  }
+}

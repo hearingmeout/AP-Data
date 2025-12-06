@@ -1,0 +1,41 @@
+{
+  "id": "VH961745",
+  "type": "mcq",
+  "title": "Sex-linked White Eyes",
+  "content": {
+    "description": "A student carries out a genetics experiment with fruit flies to investigate the inheritance pattern of the white eye trait. The student crosses a homozygous white-eyed female with a wild-type male and records observations about the flies in the <math alttext=\"F 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>F</mtext></mrow><mrow><mtext>1</mtext></mrow></msub></mrow></mstyle></math> generation. The student plans to use the <math alttext=\"F 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>F</mtext></mrow><mrow><mtext>1</mtext></mrow></msub></mrow></mstyle></math> data to perform a chi-square goodness-of-fit test for a model based on an X-linked recessive pattern of inheritance. The student will use one degree of freedom and a significance level of <math alttext=\"p equals 0.05\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi><mo>=</mo><mn>0.05</mn></mrow></mstyle></math>. The setup for the student’s chi-square goodness-of-fit test is presented in Table 1.",
+    "question": "Table 1. Setup for the student’s chi-square goodness-of-fit test Phenotype Observed Expected Red-eyed female 53 50 White-eyed male 47 50 The student calculates a chi-square value of 0.36. Which of the following statements best completes the student’s chi-square goodness-of-fit test?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The critical value is 0.05, and the student cannot reject the null hypothesis.",
+        "image": null
+      },
+      {
+        "label": "The critical value is 0.05, and the student can reject the null hypothesis.",
+        "image": null
+      },
+      {
+        "label": "The critical value is 3.84, and the student cannot reject the null hypothesis.",
+        "image": null
+      },
+      {
+        "label": "The critical value is 3.84, and the student can reject the null hypothesis.",
+        "image": null
+      }
+    ],
+    "answer": "The critical value is 3.84, and the student cannot reject the null hypothesis."
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Heredity"
+  },
+  "topic": {
+    "code": "5.4",
+    "text": "5.4: Non-Mendelian Genetics"
+  },
+  "skill": {
+    "code": "5.C",
+    "text": "5.C: Perform chi-square hypothesis testing."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "CRE000000",
+  "type": "mcq",
+  "title": "Sinusoidal Modeling - video game",
+  "content": {
+    "description": "​Part of a video game design involves the use of one period of a sinusoidal function as the path that a spaceship will follow across a rectangular video screen. The video screen has a width of <math alttext=\"1000\"><semantics><mn>1000</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> pixels and a height of <math alttext=\"600\"><semantics><mn>600</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> pixels. The values <math alttext=\"x equals 0\"><semantics><mrow><mi>x</mi><mo>=</mo><mn>0</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> and <math alttext=\"x equals 1000\"><semantics><mrow><mi>x</mi><mo>=</mo><mn>1000</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> represent the left and right sides of the screen, respectively. The values <math alttext=\"y equals 0\"><semantics><mrow><mi>y</mi><mo>=</mo><mn>0</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> and <math alttext=\"y equals 600\"><semantics><mrow><mi>y</mi><mo>=</mo><mn>600</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> represent the bottom and top sides of the screen, respectively.",
+    "question": "The path of the spaceship begins on the left side of the screen, <math alttext=\"x equals 0\"><semantics><mrow><mi>x</mi><mo>=</mo><mn>0</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, and completes one period of a sinusoidal function by ending on the right side of the screen, <math alttext=\"x equals 1000\"><semantics><mrow><mi>x</mi><mo>=</mo><mn>1000</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. During its path, the spaceship reaches its minimum height of <math alttext=\"y equals 200\"><semantics><mrow><mi>y</mi><mo>=</mo><mn>200</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> before reaching its maximum height of <math alttext=\"y equals 500\"><semantics><mrow><mi>y</mi><mo>=</mo><mn>500</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. If <math alttext=\"y equals f open parentheses x close parentheses\"><semantics><mrow><mi>y</mi><mo>=</mo><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> models the path of the spaceship, which of the following could define <math alttext=\"f open parentheses x close parentheses\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"negative 300 sin open parentheses pi over 500 x close parentheses plus 350\"><semantics><mrow><mo>-</mo><mn>300</mn><mi>sin</mi><mfenced><mrow><mfrac><mi>π</mi><mn>500</mn></mfrac><mi>x</mi></mrow></mfenced><mo>+</mo><mn>350</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"negative 150 sin open parentheses pi over 500 x close parentheses plus 350\"><semantics><mrow><mo>-</mo><mn>150</mn><mi>sin</mi><mfenced><mrow><mfrac><mi>π</mi><mn>500</mn></mfrac><mi>x</mi></mrow></mfenced><mo>+</mo><mn>350</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"150 sin open parentheses pi over 500 x close parentheses plus 350\"><semantics><mrow><mn>150</mn><mi>sin</mi><mfenced><mrow><mfrac><mi>π</mi><mn>500</mn></mfrac><mi>x</mi></mrow></mfenced><mo>+</mo><mn>350</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"300 sin open parentheses pi over 500 x close parentheses plus 350\"><semantics><mrow><mn>300</mn><mi>sin</mi><mfenced><mrow><mfrac><mi>π</mi><mn>500</mn></mfrac><mi>x</mi></mrow></mfenced><mo>+</mo><mn>350</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"negative 150 sin open parentheses pi over 500 x close parentheses plus 350\"><semantics><mrow><mo>-</mo><mn>150</mn><mi>sin</mi><mfenced><mrow><mfrac><mi>π</mi><mn>500</mn></mfrac><mi>x</mi></mrow></mfenced><mo>+</mo><mn>350</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Trigonometric and Polar Functions"
+  },
+  "topic": {
+    "code": "3.7",
+    "text": "3.7: Sinusoidal Function Context and Data Modeling"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VR442170",
+  "type": "mcq",
+  "title": "numbers array arithmetic",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "int[] numbers = new int[5]; numbers[0] = 2; numbers[1] = numbers[0] + 1; numbers[numbers[0]] = numbers[1]; for (int x = 3; x < numbers.length; x++) { numbers[x] = numbers[x - 1] * 2; } Which of the following represents the contents of the array numbers after the code segment is executed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "{2, 3, 0, 0, 0}",
+        "image": null
+      },
+      {
+        "label": "{2, 3, 1, 2, 4}",
+        "image": null
+      },
+      {
+        "label": "{2, 3, 3, 6, 9}",
+        "image": null
+      },
+      {
+        "label": "{2, 3, 3, 6, 12}",
+        "image": null
+      }
+    ],
+    "answer": "{2, 3, 3, 6, 12}"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: `for` Loops"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

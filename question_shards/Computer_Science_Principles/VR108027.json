@@ -1,0 +1,37 @@
+{
+  "id": "VR108027",
+  "type": "mcq",
+  "title": "Algorithm not suited for parallel computing",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes a challenge involved in using a parallel computing solution?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A parallel computing solution may not be appropriate for an algorithm in which each step requires the output from the preceding step.",
+        "image": null
+      },
+      {
+        "label": "A parallel computing solution may not be appropriate for an algorithm in which the same formula is applied to many numeric data elements.",
+        "image": null
+      },
+      {
+        "label": "A parallel computing solution may not be appropriate for an algorithm that can be easily broken down into small independent tasks.",
+        "image": null
+      },
+      {
+        "label": "A parallel computing solution may not be appropriate for an algorithm that searches for occurrences of a key word in a large number of documents.",
+        "image": null
+      }
+    ],
+    "answer": "A parallel computing solution may not be appropriate for an algorithm in which each step requires the output from the preceding step."
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Parallel and Distributed Computing"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

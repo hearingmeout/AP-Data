@@ -1,0 +1,41 @@
+{
+  "id": "VR652275",
+  "type": "mcq",
+  "title": "Rotational dynamics - force and torque from pivot",
+  "content": {
+    "description": "",
+    "question": "A uniform bar is initially at rest on a horizontal surface when the two forces indicated in the top-view figure are exerted at the ends of the rod. The bar is free to rotate about a fixed a pivot at the bar’s center that anchors the center of the bar to the horizontal surface. Friction forces are negligible. As indicated by the arrows in the figure, <math alttext=\"F sub 1 is greater than F sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>F</mi><mn>1</mn></msub><mo>&gt;</mo><msub><mi>F</mi><mn>2</mn></msub></math>. A student claims that at the instant shown in the figure the pivot is exerting a nonzero force on the bar and exerting a nonzero torque on the bar about the pivot. Is the student’s claim correct? Why or why not?",
+    "image": "https://ap.oly.st/images/833f617fe718fa8038250633f755cf96.svg",
+    "choices": [
+      {
+        "label": "Yes, because the forces and torques are unbalanced. Therefore, the pivot must balance the forces and torques.",
+        "image": null
+      },
+      {
+        "label": "Yes, because the pivot will act to prevent the rotation and sliding of the bar.",
+        "image": null
+      },
+      {
+        "label": "No, because while the pivot does exert a nonzero force on the bar to balance the applied forces, the pivot exerts no torque because the force is applied at the axis of rotation.",
+        "image": null
+      },
+      {
+        "label": "No, because frictional forces are negligible, and therefore the bar slides freely on the pivot and the pivot exerts no force or torque on the bar.",
+        "image": null
+      }
+    ],
+    "answer": "No, because while the pivot does exert a nonzero force on the bar to balance the applied forces, the pivot exerts no torque because the force is applied at the axis of rotation."
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.6",
+    "text": "5.6: Newton's Second Law in Rotational Form"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

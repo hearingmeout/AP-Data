@@ -1,0 +1,41 @@
+{
+  "id": "VR442168",
+  "type": "mcq",
+  "title": "exercise method returns gamma",
+  "content": {
+    "description": "Consider the following method.",
+    "question": "public String exercise(int input) { if (input < 10) { return \"alpha\"; } if (input < 5) { return \"beta\"; } if (input < 1) { return \"gamma\"; } return \"delta\"; } Assume that the int variable x has been initialized in another method in the same class. Which of the following describes the conditions under which the method call exercise(x) will return \"gamma\" ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The method will never return \"gamma\".",
+        "image": null
+      },
+      {
+        "label": "The method will return \"gamma\" if x is less than 1.",
+        "image": null
+      },
+      {
+        "label": "The method will return \"gamma\" if x is between 1 and 4, inclusive.",
+        "image": null
+      },
+      {
+        "label": "The method will always return \"gamma\".",
+        "image": null
+      }
+    ],
+    "answer": "The method will never return \"gamma\"."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: `if` Statements"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

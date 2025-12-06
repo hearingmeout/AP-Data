@@ -1,0 +1,40 @@
+{
+  "id": "FT659313",
+  "type": "frq",
+  "title": "Analysis of accum. func. with graph of integrand",
+  "content": {
+    "description": "",
+    "question": "Let f be the function given by f(x) = (ln x)(sin x). The figure above shows the graph of f for <math> <semantics> <mrow> <mn>0</mn> <mo>&lt;</mo> <mi>x</mi> <mo>≤</mo> <mn>2</mn> <mi>π</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaGimaiabgY da8iaadIhacqGHKjYOcaaIYaGaeqiWdahaaa@3CDF@ </annotation> </semantics> </math>. The function g is defined by g(x) = <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>1</mn> <mi>x</mi> </msubsup> <mrow> <mi>f</mi> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo> <mi>d</mi> <mi>t</mi> </mrow> </mrow> </mstyle> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaa8qmaeaaca WGMbGaaiikaiaadshacaGGPaGaamizaiaadshaaSqaaiaaigdaaeaa caWG4baaniabgUIiYdaaaa@3EF6@ </annotation> </semantics> </math> for <math> <semantics> <mrow> <mn>0</mn> <mo>&lt;</mo> <mi>x</mi> <mo>≤</mo> <mn>2</mn> <mi>π</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaGimaiabgY da8iaadIhacqGHKjYOcaaIYaGaeqiWdahaaa@3CDF@ </annotation> </semantics> </math>. (a) Find g(1) and g'(1).",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Let f be the function given by f(x) = (ln x)(sin x). The figure above shows the graph of f for <math> <semantics> <mrow> <mn>0</mn> <mo>&lt;</mo> <mi>x</mi> <mo>≤</mo> <mn>2</mn> <mi>π</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaGimaiabgY da8iaadIhacqGHKjYOcaaIYaGaeqiWdahaaa@3CDF@ </annotation> </semantics> </math>. The function g is defined by g(x) = <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>1</mn> <mi>x</mi> </msubsup> <mrow> <mi>f</mi> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo> <mi>d</mi> <mi>t</mi> </mrow> </mrow> </mstyle> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaa8qmaeaaca WGMbGaaiikaiaadshacaGGPaGaamizaiaadshaaSqaaiaaigdaaeaa caWG4baaniabgUIiYdaaaa@3EF6@ </annotation> </semantics> </math> for <math> <semantics> <mrow> <mn>0</mn> <mo>&lt;</mo> <mi>x</mi> <mo>≤</mo> <mn>2</mn> <mi>π</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaGimaiabgY da8iaadIhacqGHKjYOcaaIYaGaeqiWdahaaa@3CDF@ </annotation> </semantics> </math>. (a) Find g(1) and g'(1).",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Calculus_BC/original.jpg"
+      },
+      {
+        "text": "(b) On what intervals, if any, is g increasing? Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "(c) For <math> <semantics> <mrow> <mn>0</mn> <mo>&lt;</mo> <mi>x</mi> <mo>≤</mo> <mn>2</mn> <mi>π</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaGimaiabgYda8iaadIhacqGHKjYOcaaIYaGaeqiWdahaaa@3CDD@</annotation> </semantics> </math>, find the value of x at which g has an absolute minimum. Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "(d) For 0 < x < 2π, is there a value of x at which the graph of g is tangent to the x-axis? Explain why or why not.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Defining the Derivative of a Function and Using Derivative Notation"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

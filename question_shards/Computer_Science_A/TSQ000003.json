@@ -1,0 +1,41 @@
+{
+  "id": "TSQ000003",
+  "type": "mcq",
+  "title": "getCategory selection statements - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following code segments can replace /* missing code */ so the getCategory method works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "String category; if (density > 3000) { category = \"urban\"; } else if (density >= 1000) { category = \"suburban\"; } else { category = \"rural\"; } return category;",
+        "image": null
+      },
+      {
+        "label": "String category; if (density > 3000) { category = \"urban\"; } else if (density <= 3000) { category = \"suburban\"; } else { category = \"rural\"; } return category;",
+        "image": null
+      },
+      {
+        "label": "String category = \"rural\"; if (density > 3000) { category = \"urban\"; } if (density >= 1000) { category = \"suburban\"; } return category;",
+        "image": null
+      },
+      {
+        "label": "String category = \"urban\"; if (density < 1000) { category = \"rural\"; } if (density >= 1000) { category = \"suburban\"; } return category;",
+        "image": null
+      }
+    ],
+    "answer": "String category; if (density > 3000) { category = \"urban\"; } else if (density >= 1000) { category = \"suburban\"; } else { category = \"rural\"; } return category;"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Nested `if` Statements"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

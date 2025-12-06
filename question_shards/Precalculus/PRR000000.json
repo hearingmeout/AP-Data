@@ -1,0 +1,41 @@
+{
+  "id": "PRR000000",
+  "type": "mcq",
+  "title": "Sinusoidal Transformations - amplitude",
+  "content": {
+    "description": "",
+    "question": "​In the tidal area of a certain city, a sinusoidal function <math alttext=\"f open parentheses x close parentheses equals a sin open parentheses b open parentheses x plus c close parentheses close parentheses plus d\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mi>a</mi><mi>sin</mi><mfenced><mrow><mi>b</mi><mfenced><mrow><mi>x</mi><mo>+</mo><mi>c</mi></mrow></mfenced></mrow></mfenced><mo>+</mo><mi>d</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, where <math alttext=\"a\"><semantics><mi>a</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, <math alttext=\"b\"><semantics><mi>b</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, <math alttext=\"c\"><semantics><mi>c</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, and <math alttext=\"d\"><semantics><mi>d</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> are constants, is used to model one cycle of high and low tides. The maximum value of the tide is <math alttext=\"8.88\"><semantics><mn>8.88</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> feet, and the minimum value of the tide is <math alttext=\"0.54\"><semantics><mn>0.54</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> feet in that cycle. If the values of <math alttext=\"b\"><semantics><mi>b</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, <math alttext=\"c\"><semantics><mi>c</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, and <math alttext=\"d\"><semantics><mi>d</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> have already been determined to fit the data, which of the following would best define <math alttext=\"f open parentheses x close parentheses\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"4.17 sin open parentheses b open parentheses x plus c close parentheses close parentheses plus d\"><semantics><mrow><mn>4.17</mn><mi>sin</mi><mfenced><mrow><mi>b</mi><mfenced><mrow><mi>x</mi><mo>+</mo><mi>c</mi></mrow></mfenced></mrow></mfenced><mo>+</mo><mi>d</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​​<math alttext=\"4.44 sin open parentheses b open parentheses x plus c close parentheses close parentheses plus d\"><semantics><mrow><mn>4.44</mn><mi>sin</mi><mfenced><mrow><mi>b</mi><mfenced><mrow><mi>x</mi><mo>+</mo><mi>c</mi></mrow></mfenced></mrow></mfenced><mo>+</mo><mi>d</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​​<math alttext=\"4.71 sin open parentheses b open parentheses x plus c close parentheses close parentheses plus d\"><semantics><mrow><mn>4.71</mn><mi>sin</mi><mfenced><mrow><mi>b</mi><mfenced><mrow><mi>x</mi><mo>+</mo><mi>c</mi></mrow></mfenced></mrow></mfenced><mo>+</mo><mi>d</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​​<math alttext=\"8.34 sin open parentheses b open parentheses x plus c close parentheses close parentheses plus d\"><semantics><mrow><mn>8.34</mn><mi>sin</mi><mfenced><mrow><mi>b</mi><mfenced><mrow><mi>x</mi><mo>+</mo><mi>c</mi></mrow></mfenced></mrow></mfenced><mo>+</mo><mi>d</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"4.17 sin open parentheses b open parentheses x plus c close parentheses close parentheses plus d\"><semantics><mrow><mn>4.17</mn><mi>sin</mi><mfenced><mrow><mi>b</mi><mfenced><mrow><mi>x</mi><mo>+</mo><mi>c</mi></mrow></mfenced></mrow></mfenced><mo>+</mo><mi>d</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Trigonometric and Polar Functions"
+  },
+  "topic": {
+    "code": "3.6",
+    "text": "3.6: Sinusoidal Function Transformations"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

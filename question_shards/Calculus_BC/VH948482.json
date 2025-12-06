@@ -1,0 +1,41 @@
+{
+  "id": "VH948482",
+  "type": "mcq",
+  "title": "Representations - Average Rate of Change",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be the function defined by <math alttext=\"f of x equals, secant x, plus, cosecant x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mrow><mrow><mi>sec</mi><mi>x</mi></mrow></mrow><mo>+</mo><mi>csc</mi><mi>x</mi></mrow></mstyle></math>. Which of the following expressions is the average rate of change of <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> over the interval <math alttext=\"open bracket, pi over 4 comma 3 pi over 8, close bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>[</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>4</mn></mrow></mfrac><mo>,</mo><mfrac><mrow><mn>3</mn><mi>π</mi></mrow><mrow><mn>8</mn></mrow></mfrac><mo>]</mo></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the fraction with numerator f of open parenthesis, 3 pi over 8, close parenthesis, plus f of open parenthesis, pi over 4, close parenthesis, and denominator 2, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>f</mi><mo>(</mo><mfrac><mrow><mn>3</mn><mi>π</mi></mrow><mrow><mn>8</mn></mrow></mfrac><mo>)</mo><mo>+</mo><mi>f</mi><mo>(</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>4</mn></mrow></mfrac><mo>)</mo></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator f of open parenthesis, 3 pi over 8, close parenthesis, plus f of open parenthesis, pi over 4, close parenthesis, and denominator, the fraction 3 pi over 8, end fraction, plus pi over 4, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>f</mi><mo>(</mo><mfrac><mrow><mn>3</mn><mi>π</mi></mrow><mrow><mn>8</mn></mrow></mfrac><mo>)</mo><mo>+</mo><mi>f</mi><mo>(</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>4</mn></mrow></mfrac><mo>)</mo></mrow><mrow><mfrac><mrow><mn>3</mn><mi>π</mi></mrow><mrow><mn>8</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator f of open parenthesis, 3 pi over 8, close parenthesis, plus f of open parenthesis, pi over 4, close parenthesis, and denominator, the fraction 3 pi over 8, end fraction, plus pi over 4, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>f</mi><mo>(</mo><mfrac><mrow><mn>3</mn><mi>π</mi></mrow><mrow><mn>8</mn></mrow></mfrac><mo>)</mo><mo>−</mo><mi>f</mi><mo>(</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>4</mn></mrow></mfrac><mo>)</mo></mrow><mrow><mfrac><mrow><mn>3</mn><mi>π</mi></mrow><mrow><mn>8</mn></mrow></mfrac><mo>−</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f of open parenthesis, 3 pi over 8, close parenthesis, plus f of open parenthesis, pi over 4, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mo>(</mo><mfrac><mrow><mn>3</mn><mi>π</mi></mrow><mrow><mn>8</mn></mrow></mfrac><mo>)</mo><mo>−</mo><mi>f</mi><mo>(</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>4</mn></mrow></mfrac><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the fraction with numerator f of open parenthesis, 3 pi over 8, close parenthesis, plus f of open parenthesis, pi over 4, close parenthesis, and denominator, the fraction 3 pi over 8, end fraction, plus pi over 4, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>f</mi><mo>(</mo><mfrac><mrow><mn>3</mn><mi>π</mi></mrow><mrow><mn>8</mn></mrow></mfrac><mo>)</mo><mo>−</mo><mi>f</mi><mo>(</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>4</mn></mrow></mfrac><mo>)</mo></mrow><mrow><mfrac><mrow><mn>3</mn><mi>π</mi></mrow><mrow><mn>8</mn></mrow></mfrac><mo>−</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></mfrac></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Defining Average and Instantaneous Rates of Change at a Point"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Identify mathematical information from graphical, numerical, analytical, and/or verbal representations."
+  }
+}

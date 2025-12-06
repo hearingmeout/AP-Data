@@ -1,0 +1,41 @@
+{
+  "id": "XON000004",
+  "type": "mcq",
+  "title": "SomeClass with static variable - determine result",
+  "content": {
+    "description": "",
+    "question": "What is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "0",
+        "image": null
+      },
+      {
+        "label": "1",
+        "image": null
+      },
+      {
+        "label": "11",
+        "image": null
+      },
+      {
+        "label": "14",
+        "image": null
+      }
+    ],
+    "answer": "14"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.7",
+    "text": "3.7: Class Variables and Methods"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

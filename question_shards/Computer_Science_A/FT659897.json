@@ -1,0 +1,41 @@
+{
+  "id": "FT659897",
+  "type": "mcq",
+  "title": "Relational expressions with ints",
+  "content": {
+    "description": "Assume that a and b are variables of type int. The expression",
+    "question": "!(a < b) && !(a > b) is equivalent to which of the following?",
+    "image": null,
+    "choices": [
+      {
+        "label": "true",
+        "image": null
+      },
+      {
+        "label": "false",
+        "image": null
+      },
+      {
+        "label": "a == b",
+        "image": null
+      },
+      {
+        "label": "a != b",
+        "image": null
+      }
+    ],
+    "answer": "a == b"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Comparing Boolean Expressions"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GJQ000001",
+  "type": "mcq",
+  "title": "Matrices as Functions - defining a transformation",
+  "content": {
+    "description": "",
+    "question": "The x axis ranges from negative 1 to 5 in increments of 1. The y axis ranges from negative 4 to 4 in increments of 1. A right triangle labeled Preimage is shown in the first quadrant. Its vertices are at (1 comma 1), (3 comma 1), and (3 comma 2). A second right triangle labeled Image is shown in the fourth quadrant. Its vertices are at (1 comma negative 1), (3 comma negative 1), and (3 comma negative 2). The figure shows two right triangles in the <math alttext=\"x y\"><mi>x</mi><mi>y</mi></math>-plane. The three vertices of the Preimage triangle can be written as a <math alttext=\"2 by 3\"><mn>2</mn><mo>×</mo><mn>3</mn></math> matrix of column vectors. The function <math alttext=\"L\"><mi>L</mi></math> is a linear transformation of vectors defined by <math alttext=\"L open parentheses vector v close parentheses equals A vector v\"><mi>L</mi><mfenced><mover><mi>v</mi><mo>→</mo></mover></mfenced><mo>=</mo><mi>A</mi><mover><mi>v</mi><mo>→</mo></mover></math>, where <math alttext=\"A\"><mi>A</mi></math> is a transformation matrix that maps the Preimage triangle to the Image triangle. Which of the following could define <math alttext=\"A\"><mi>A</mi></math> ?",
+    "image": "https://ap.oly.st/images/1e15579b5178c1495e34c6a5cadbc1b5.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"A 2 by 2 matrix. Row 1 column 1 is negative 1. Row 1 column 2 is 0. Row 2 column 1 is 0. Row 2 column 2 is 1.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mo>-</mo><mn>1</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>1</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"A 2 by 2 matrix. Row 1 column 1 is 0. Row 1 column 2 is 1. Row 2 column 1 is negative 1. Row 2 column 2 is 0.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>0</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mo>-</mo><mn>1</mn></mtd><mtd><mn>0</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"A 2 by 2 matrix. Row 1 column 1 is 0. Row 1 column 2 is negative 1. Row 2 column 1 is 1. Row 2 column 2 is 0.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>0</mn></mtd><mtd><mo>-</mo><mn>1</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd><mtd><mn>0</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"A 2 by 2 matrix. Row 1 column 1 is 1. Row 1 column 2 is 0. Row 2 column 1 is 0. Row 2 column 2 is negative 1.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mo>-</mo><mn>1</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"A 2 by 2 matrix. Row 1 column 1 is 1. Row 1 column 2 is 0. Row 2 column 1 is 0. Row 2 column 2 is negative 1.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>1</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mo>-</mo><mn>1</mn></mtd></mtr></mtable></mfenced></math>"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.13",
+    "text": "4.13: Matrices as Functions"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Identify information from graphical, numerical, analytical, and verbal representations to answer a question or construct a model, with and without technology."
+  }
+}

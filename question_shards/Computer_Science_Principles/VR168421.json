@@ -1,0 +1,37 @@
+{
+  "id": "VR168421",
+  "type": "mcq",
+  "title": "Simulation of bonus round attempts",
+  "content": {
+    "description": "In a certain game, a player may have the opportunity to attempt a bonus round to earn extra points. In a typical game, a player is given 1 to 4 bonus round attempts. For each attempt, the player typically earns the extra points 70% of the time and does not earn the extra points 30% of the time.",
+    "question": "The following code segment can be used to simulate the bonus round. Which of the following is NOT a possible output of this simulation?",
+    "image": "https://ap.oly.st/images/e87c158389223dc3796ebce018c2742f.png",
+    "choices": [
+      {
+        "label": "The player had 1 bonus round attempts and 1 of them earned extra points.",
+        "image": null
+      },
+      {
+        "label": "The player had 2 bonus round attempts and 0 of them earned extra points.",
+        "image": null
+      },
+      {
+        "label": "The player had 3 bonus round attempts and 7 of them earned extra points.",
+        "image": null
+      },
+      {
+        "label": "The player had 4 bonus round attempts and 3 of them earned extra points.",
+        "image": null
+      }
+    ],
+    "answer": "The player had 3 bonus round attempts and 7 of them earned extra points."
+  },
+  "topic": {
+    "code": "3.15",
+    "text": "3.15: Random Values"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

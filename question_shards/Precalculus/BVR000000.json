@@ -1,0 +1,41 @@
+{
+  "id": "BVR000000",
+  "type": "mcq",
+  "title": "Sequences and Functions - ratio with initial",
+  "content": {
+    "description": "",
+    "question": "​An exponential function <math alttext=\"G\"><semantics><mi>G</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> has a known common ratio of <math alttext=\"1 half\"><semantics><mfrac><mn>1</mn><mn>2</mn></mfrac><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> and includes the input-output pair <math alttext=\"open parentheses 1 , 4 close parentheses\"><semantics><mfenced><mn>1,4</mn></mfenced><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. Which of the following could define <math alttext=\"G open parentheses x close parentheses\"><semantics><mrow><mi>G</mi><mfenced><mi>x</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"4 plus 1 half open parentheses x minus 1 close parentheses\"><semantics><mrow><mn>4</mn><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfenced><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"1 half times 4 to the power of x\"><semantics><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>·</mo><msup><mn>4</mn><mi>x</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"4 times open parentheses 1 half close parentheses to the power of x\"><semantics><mrow><mn>4</mn><mo>·</mo><msup><mfenced><mfrac><mn>1</mn><mn>2</mn></mfrac></mfenced><mi>x</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"4 times open parentheses 1 half close parentheses to the power of open parentheses x minus 1 close parentheses end exponent\"><semantics><mrow><mn>4</mn><mo>·</mo><msup><mfenced><mfrac><mn>1</mn><mn>2</mn></mfrac></mfenced><mfenced><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"4 times open parentheses 1 half close parentheses to the power of open parentheses x minus 1 close parentheses end exponent\"><semantics><mrow><mn>4</mn><mo>·</mo><msup><mfenced><mfrac><mn>1</mn><mn>2</mn></mfrac></mfenced><mfenced><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Change in Linear and Exponential Functions"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

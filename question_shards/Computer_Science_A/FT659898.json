@@ -1,0 +1,41 @@
+{
+  "id": "FT659898",
+  "type": "mcq",
+  "title": "Loop with a, b, and r",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "int a = 24; int b = 30; while (b != 0) { int r = a % b; a = b; b = r; } System.out.println(a); What is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "0",
+        "image": null
+      },
+      {
+        "label": "6",
+        "image": null
+      },
+      {
+        "label": "24",
+        "image": null
+      },
+      {
+        "label": "30",
+        "image": null
+      }
+    ],
+    "answer": "6"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.9",
+    "text": "2.9: Implementing Selection and Iteration Algorithms"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

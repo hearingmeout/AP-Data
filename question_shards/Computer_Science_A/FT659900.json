@@ -1,0 +1,41 @@
+{
+  "id": "FT659900",
+  "type": "mcq",
+  "title": "findNext method with int array parameter",
+  "content": {
+    "description": "Consider the following incomplete method. Method findNext is intended to return the index of the first occurrence of the value val beyond the position start in array arr.",
+    "question": "// returns index of first occurrence of val in arr // after position start; // returns arr.length if val is not found public int findNext(int[] arr, int val, int start) { int pos = start + 1; while ( /* condition */ ) pos++; return pos; } For example, consider the following code segment. int[] arr = {11, 22, 100, 33, 100, 11, 44, 100}; System.out.println(findNext(arr, 100, 2)); The execution of the code segment should result in the value 4 being printed. Which of the following expressions could be used to replace /* condition */ so that findNext will work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "(pos < arr.length) && (arr[pos] != val)",
+        "image": null
+      },
+      {
+        "label": "(arr[pos] != val) && (pos < arr.length)",
+        "image": null
+      },
+      {
+        "label": "(pos < arr.length) || (arr[pos] != val)",
+        "image": null
+      },
+      {
+        "label": "(arr[pos] == val) && (pos < arr.length)",
+        "image": null
+      }
+    ],
+    "answer": "(pos < arr.length) && (arr[pos] != val)"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implementing Array Algorithms"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

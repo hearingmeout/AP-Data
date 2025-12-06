@@ -1,0 +1,41 @@
+{
+  "id": "VLC000009",
+  "type": "mcq",
+  "title": "2D array method operation - determine result",
+  "content": {
+    "description": "",
+    "question": "Which of the following represents the contents of arr after executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "{1, 0, 6, 3}",
+        "image": null
+      },
+      {
+        "label": "{1, 9, 0, 4}",
+        "image": null
+      },
+      {
+        "label": "{4, 0, 9, 1}",
+        "image": null
+      },
+      {
+        "label": "{4, 3, 6, 2}",
+        "image": null
+      }
+    ],
+    "answer": "{4, 0, 9, 1}"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.12",
+    "text": "4.12: 2D Array Traversals"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "KEI000007",
+  "type": "mcq",
+  "title": "calculate method with 2D array - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the value returned by the calculate method?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A count of the positive elements in column x of values",
+        "image": null
+      },
+      {
+        "label": "A count of the positive elements in row x of values",
+        "image": null
+      },
+      {
+        "label": "The sum of the positive elements in column x of values",
+        "image": null
+      },
+      {
+        "label": "The sum of the positive elements in row x of values",
+        "image": null
+      }
+    ],
+    "answer": "The sum of the positive elements in row x of values"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.13",
+    "text": "4.13: Implementing 2D Array Algorithms"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

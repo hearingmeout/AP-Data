@@ -1,0 +1,41 @@
+{
+  "id": "VR442153",
+  "type": "mcq",
+  "title": "call Sample class constructor",
+  "content": {
+    "description": "Consider the following class declaration.",
+    "question": "public class Sample { private int a; private double b; public Sample(int x, double y) { a = x; b = y; } // No other constructors } The following method appears in a class other than Sample. public static void test() { Sample object = new /* missing constructor call */ ; } Which of the following could be used to replace /* missing constructor call */ so that the method will compile without error?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Sample()",
+        "image": null
+      },
+      {
+        "label": "Sample(int x = 10, double y = 6.2)",
+        "image": null
+      },
+      {
+        "label": "Sample(int x, double y)",
+        "image": null
+      },
+      {
+        "label": "Sample(10, 6.2)",
+        "image": null
+      }
+    ],
+    "answer": "Sample(10, 6.2)"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.13",
+    "text": "1.13: Object Creation and Storage (Instantiation)"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

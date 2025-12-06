@@ -1,0 +1,41 @@
+{
+  "id": "HVT000005",
+  "type": "mcq",
+  "title": "Recursive bSearch - determine result",
+  "content": {
+    "description": "",
+    "question": "How many times will the bSearch method be called as a result of executing the statement, including the initial call?",
+    "image": null,
+    "choices": [
+      {
+        "label": "3",
+        "image": null
+      },
+      {
+        "label": "4",
+        "image": null
+      },
+      {
+        "label": "5",
+        "image": null
+      },
+      {
+        "label": "7",
+        "image": null
+      }
+    ],
+    "answer": "4"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.17",
+    "text": "4.17: Recursive Searching and Sorting"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "KQJ000000",
+  "type": "mcq",
+  "title": "Equivalent Representations - long div remainder",
+  "content": {
+    "description": "",
+    "question": "​The polynomial function <math alttext=\"f\"><mi>f</mi></math> is given by <math alttext=\"f open parentheses x close parentheses equals 2 x cubed minus 3 x squared minus 23 x plus 12\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>3</mn></msup><mo>-</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>23</mn><mi>x</mi><mo>+</mo><mn>12</mn></math>. Which of the following is true about <math alttext=\"fraction numerator f open parentheses x close parentheses over denominator x plus 3 end fraction\"><mfrac><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​The remainder of <math alttext=\"fraction numerator f open parentheses x close parentheses over denominator x plus 3 end fraction\"><mfrac><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac></math> is <math alttext=\"0\"><mn>0</mn></math>. The quotient of <math alttext=\"fraction numerator f open parentheses x close parentheses over denominator x plus 3 end fraction\"><mfrac><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac></math> is a quadratic polynomial that factors into two linear factors involving only real numbers.",
+        "image": null
+      },
+      {
+        "label": "​The remainder of <math alttext=\"fraction numerator f open parentheses x close parentheses over denominator x plus 3 end fraction\"><mfrac><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac></math> is <math alttext=\"0\"><mn>0</mn></math>. The quotient of <math alttext=\"fraction numerator f open parentheses x close parentheses over denominator x plus 3 end fraction\"><mfrac><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac></math> is a quadratic polynomial that does not factor into linear factors involving only real numbers.",
+        "image": null
+      },
+      {
+        "label": "​The remainder of <math alttext=\"fraction numerator f open parentheses x close parentheses over denominator x plus 3 end fraction\"><mfrac><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac></math> is a nonzero constant. The quotient of <math alttext=\"fraction numerator f open parentheses x close parentheses over denominator x plus 3 end fraction\"><mfrac><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac></math> is a quadratic polynomial that factors into two linear factors involving only real numbers.",
+        "image": null
+      },
+      {
+        "label": "​The remainder of <math alttext=\"fraction numerator f open parentheses x close parentheses over denominator x plus 3 end fraction\"><mfrac><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac></math> is a nonzero constant. The quotient of <math alttext=\"fraction numerator f open parentheses x close parentheses over denominator x plus 3 end fraction\"><mfrac><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac></math> is a quadratic polynomial that does not factor into linear factors involving only real numbers.",
+        "image": null
+      }
+    ],
+    "answer": "​The remainder of <math alttext=\"fraction numerator f open parentheses x close parentheses over denominator x plus 3 end fraction\"><mfrac><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac></math> is <math alttext=\"0\"><mn>0</mn></math>. The quotient of <math alttext=\"fraction numerator f open parentheses x close parentheses over denominator x plus 3 end fraction\"><mfrac><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced></mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac></math> is a quadratic polynomial that factors into two linear factors involving only real numbers."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Polynomial and Rational Functions"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: Equivalent Representations of Polynomial and Rational Expressions"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Express functions, equations, or expressions in analytically equivalent forms that are useful in a given mathematical or applied context."
+  }
+}

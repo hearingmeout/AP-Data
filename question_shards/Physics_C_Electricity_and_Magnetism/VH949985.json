@@ -1,0 +1,45 @@
+{
+  "id": "VH949985",
+  "type": "mcq",
+  "title": "Defective parts Type II",
+  "content": {
+    "description": "At a manufacturing company, the percent of defective items produced on the assembly line is 2%. The company is testing a new assembly line designed to reduce the percent of defective parts. The null and alternative hypotheses of the test are described as follows.",
+    "question": "<math alttext=\"H sub 0, the percent of defective parts is at least 2 percent. H sub a, the percent of defective parts is less than 2 percent.\" display=\"block\" overflow=\"scroll\"><mstyle><mrow><mtable><mtr><mtd><msub><mrow><mtext>H</mtext></mrow><mrow><mn>0</mn></mrow></msub><mo>:</mo><mtext>The percent of defective parts is at least 2%.</mtext></mtd></mtr><mtr><mtd><mo>⁢</mo><msub><mrow><mtext>H</mtext></mrow><mrow><mtext>a</mtext></mrow></msub><mo>:</mo><mo>⁢</mo><mtext>The percent of defective parts is less than 2%.</mtext></mtd></mtr></mtable></mrow></mstyle></math> Which of the following describes a Type <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>II</mtext></mrow></mstyle></math> error that could result from the test?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The test does not provide convincing evidence that the percent is less than 2%, but the actual percent is 3%.",
+        "image": null
+      },
+      {
+        "label": "The test does not provide convincing evidence that the percent is less than 2%, but the actual percent is 2%.",
+        "image": null
+      },
+      {
+        "label": "The test does not provide convincing evidence that the percent is less than 2%, but the actual percent is 1%.",
+        "image": null
+      },
+      {
+        "label": "The test provides convincing evidence that the percent is less than 2%, but the actual percent is 2%.",
+        "image": null
+      },
+      {
+        "label": "The test provides convincing evidence that the percent is less than 2%, but the actual percent is 1%.",
+        "image": null
+      }
+    ],
+    "answer": "The test does not provide convincing evidence that the percent is less than 2%, but the actual percent is 1%."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.7",
+    "text": "6.7: Potential Errors When Performing Tests"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Identify key and relevant information to answer a question or solve a problem."
+  }
+}

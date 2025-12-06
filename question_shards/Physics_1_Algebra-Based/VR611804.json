@@ -1,0 +1,41 @@
+{
+  "id": "VR611804",
+  "type": "mcq",
+  "title": "Scalars and vectors - velocity and acceleration",
+  "content": {
+    "description": "",
+    "question": "A cart moves along a straight, level track. At time <math alttext=\"t equals 0 seconds\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn><mspace width=\"0.2em\"></mspace><mi mathvariant=\"normal\">s</mi></math>, the cart has a speed of <math alttext=\"v sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>v</mi><mn>0</mn></msub></math> to the right. At time <math alttext=\"t equals 1 second\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>1</mn><mspace width=\"0.2em\"></mspace><mi mathvariant=\"normal\">s</mi></math>, the cart has a speed of <math alttext=\"v sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>v</mi><mn>1</mn></msub></math> to the left. Which of the following correctly describes the magnitude and direction of the change <math alttext=\"delta vector v\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mtext>Δ</mtext><mover accent=\"true\"><mi>v</mi><mo>→</mo></mover></mstyle></math> in the cart’s velocity between <math alttext=\"t equals 0 seconds\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn><mspace width=\"0.2em\"></mspace><mi mathvariant=\"normal\">s</mi></math> and <math alttext=\"t equals 1 second\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>1</mn><mspace width=\"0.2em\"></mspace><mi mathvariant=\"normal\">s</mi></math>?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"v sub 1, plus v sub 0\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>v</mi><mn>1</mn></msub><mo>+</mo><msub><mi>v</mi><mn>0</mn></msub></mstyle></math> to the right",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"v sub 1, plus v sub 0\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>v</mi><mn>1</mn></msub><mo>+</mo><msub><mi>v</mi><mn>0</mn></msub></mstyle></math> to the left",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the absolute value of v sub 1, minus v sub 0\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mo>|</mo><mpadded><msub><mi>v</mi><mn>1</mn></msub><mo>-</mo><msub><mi>v</mi><mn>0</mn></msub></mpadded><mo>|</mo></mstyle></math> to the right",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the absolute value of v sub 1, minus v sub 0\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mpadded><mo>|</mo><mpadded><msub><mi>v</mi><mn>1</mn></msub><mo>−</mo><msub><mi>v</mi><mn>0</mn></msub></mpadded><mo>|</mo></mpadded></mstyle></math> to the left",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"v sub 1, plus v sub 0\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>v</mi><mn>1</mn></msub><mo>+</mo><msub><mi>v</mi><mn>0</mn></msub></mstyle></math> to the left"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.1",
+    "text": "1.1: Scalars and Vectors in One Dimension"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "VR114174",
+  "type": "mcq",
+  "title": "Error in countNumOccurences procedure",
+  "content": {
+    "description": "The following procedure is intended to return the number of times the value val appears in the list myList. The procedure does not work as intended.",
+    "question": "Line 01: PROCEDURE countNumOccurences(myList, val) Line 02: { Line 03: FOR EACH item IN myList Line 04: { Line 05: count <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0 Line 06: IF(item = val) Line 07: { Line 08: count <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> count + 1 Line 09: } Line 10: } Line 11: RETURN(count) Line 12: } Which of the following changes can be made so that the procedure will work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Changing line 6 to IF(item = count)",
+        "image": null
+      },
+      {
+        "label": "Changing line 6 to IF(myList[item] = val)",
+        "image": null
+      },
+      {
+        "label": "Moving the statement in line 5 so that it appears between lines 2 and 3",
+        "image": null
+      },
+      {
+        "label": "Moving the statement in line 11 so that it appears between lines 9 and 10",
+        "image": null
+      }
+    ],
+    "answer": "Moving the statement in line 5 so that it appears between lines 2 and 3"
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Identifying and Correcting Errors"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Identify and correct errors in algorithms and programs, including error discovery through testing."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "XFU000004",
+  "type": "mcq",
+  "title": "ArrayList methods - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the behavior of the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "It compares all values in nums and places nums in order from smallest to largest.",
+        "image": null
+      },
+      {
+        "label": "It compares all values in nums and places nums in order from largest to smallest.",
+        "image": null
+      },
+      {
+        "label": "It compares the first and last elements in nums and swaps them if the first element is larger than the last.",
+        "image": null
+      },
+      {
+        "label": "It compares the first and last elements in nums and swaps them if the first element is smaller than the last.",
+        "image": null
+      }
+    ],
+    "answer": "It compares the first and last elements in nums and swaps them if the first element is larger than the last."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "LVO000001",
+  "type": "mcq",
+  "title": "Using dot operator with Pair object - write code",
+  "content": {
+    "description": "",
+    "question": "Assume that myPair is a properly declared and initialized Pair object that appears in a class other than Pair. Which of the following code segments will compile without error?",
+    "image": null,
+    "choices": [
+      {
+        "label": "int val = myPair.getX();",
+        "image": null
+      },
+      {
+        "label": "int val = myPair.getX(x);",
+        "image": null
+      },
+      {
+        "label": "int val = myPair.x;",
+        "image": null
+      },
+      {
+        "label": "int val = myPair.x1;",
+        "image": null
+      }
+    ],
+    "answer": "int val = myPair.getX();"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.14",
+    "text": "1.14: Calling Instance Methods"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "NOO000005",
+  "type": "mcq",
+  "title": "Data type of z - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following can be used to replace /* missing code */ so that the code segment will compile?",
+    "image": null,
+    "choices": [
+      {
+        "label": "boolean z = true;",
+        "image": null
+      },
+      {
+        "label": "int z = 0.0;",
+        "image": null
+      },
+      {
+        "label": "int z = 0;",
+        "image": null
+      },
+      {
+        "label": "z = 0;",
+        "image": null
+      }
+    ],
+    "answer": "int z = 0;"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.2",
+    "text": "1.2: Variables and Data Types"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

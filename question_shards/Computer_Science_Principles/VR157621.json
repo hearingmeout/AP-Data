@@ -1,0 +1,37 @@
+{
+  "id": "VR157621",
+  "type": "mcq",
+  "title": "Determine if target appears in list multiple times",
+  "content": {
+    "description": "",
+    "question": "Which of the following could be used to replace steps 4 and 5 so that the algorithm works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Step 4Repeat steps 2 and 3 until the value of position is greater than n.Step 5If count is greater than or equal to 2, display true. Otherwise, display false.",
+        "image": null
+      },
+      {
+        "label": "Step 4Repeat steps 2 and 3 until the value of position is greater than n.Step 5If count is greater than or equal to position, display true. Otherwise, display false.",
+        "image": null
+      },
+      {
+        "label": "Step 4Repeat steps 2 and 3 until the value of count is greater than 2.Step 5If position is greater than or equal to n, display true. Otherwise, display false.",
+        "image": null
+      },
+      {
+        "label": "Step 4Repeat steps 2 and 3 until the value of count is greater than n.Step 5If count is greater than or equal to 2, display true. Otherwise, display false.",
+        "image": null
+      }
+    ],
+    "answer": "Step 4Repeat steps 2 and 3 until the value of position is greater than n.Step 5If count is greater than or equal to 2, display true. Otherwise, display false."
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Mathematical Expressions"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Represent algorithmic processes without using a programming language."
+  }
+}

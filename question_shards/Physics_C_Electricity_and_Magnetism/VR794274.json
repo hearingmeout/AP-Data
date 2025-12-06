@@ -1,0 +1,41 @@
+{
+  "id": "VR794274",
+  "type": "mcq",
+  "title": "Simple circuits - battery bulb resistors switch",
+  "content": {
+    "description": "",
+    "question": "The figure shows a circuit consisting of a battery, a lightbulb, two resistors, and a switch. The switch is initially open. If the switch is then closed, does the current through the lightbulb change? What evidence or reasoning supports the claim?",
+    "image": "https://ap.oly.st/images/a8e1e52af98c3a676627021fd3bc7333.svg",
+    "choices": [
+      {
+        "label": "Yes, the current changes. The switch prevents charge from flowing in the circuit when it is open, but not when it is closed.",
+        "image": null
+      },
+      {
+        "label": "Yes, the current changes. Closing the switch creates an additional closed electrical loop and the lightbulb is part of this loop.",
+        "image": null
+      },
+      {
+        "label": "No, the current does not change. The lightbulb and the switch are not in series with one another.",
+        "image": null
+      },
+      {
+        "label": "No, the current does not change. There is a closed electrical loop in the circuit regardless of whether the switch is open or closed.",
+        "image": null
+      }
+    ],
+    "answer": "Yes, the current changes. Closing the switch creates an additional closed electrical loop and the lightbulb is part of this loop."
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.2",
+    "text": "11.2: Simple Circuits"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

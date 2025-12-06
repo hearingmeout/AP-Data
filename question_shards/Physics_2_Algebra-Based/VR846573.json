@@ -1,0 +1,41 @@
+{
+  "id": "VR846573",
+  "type": "mcq",
+  "title": "Power - time to heat a water tank",
+  "content": {
+    "description": "A cylindrical tank is filled with water, and the walls of the tank are insulated so that no energy is transferred into or out of the tank by thermal processes. Inside the tank are two heating elements, Heater <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">X</mi></math> and Heater <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Y</mi></math> with resistances <math alttext=\"R sub X\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mi mathvariant=\"normal\">X</mi></msub></math> and <math alttext=\"R sub Y\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mi mathvariant=\"normal\">Y</mi></msub></math>, respectively. <math alttext=\"R sub X\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mi mathvariant=\"normal\">X</mi></msub></math> is greater than <math alttext=\"R sub Y\" display=\"inline\" overflow=\"scroll\"><msub><mi>R</mi><mi mathvariant=\"normal\">Y</mi></msub></math>. The heaters are connected by wires to the same source of <math alttext=\"e m f\" display=\"inline\" overflow=\"scroll\"><mi>emf</mi></math>, and each is controlled by its own switch. (The switches and the source of <math alttext=\"e m f\" display=\"inline\" overflow=\"scroll\"><mi>emf</mi></math> are not shown in the figure.)",
+    "question": "Which heater, run by itself, would take a longer time to increase the temperature of the water by an amount <math alttext=\"delta uppercase T\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Δ</mi><mi>T</mi></math>? What reasoning helps support the claim?",
+    "image": "https://ap.oly.st/images/44c275f80a74bdc2220c0f6567b25f3b.svg",
+    "choices": [
+      {
+        "label": "Heater <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">X</mi></math> takes longer to heat the water. The time it takes a heater to heat the water is directly proportional to the power dissipated in the heater, and the power dissipated is directly proportional to the heater’s resistance.",
+        "image": null
+      },
+      {
+        "label": "Heater <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">X</mi></math> takes longer to heat the water. The time it takes a heater to heat the water is inversely proportional to the power dissipated in the heater, and the power dissipated is inversely proportional to the heater’s resistance.",
+        "image": null
+      },
+      {
+        "label": "Heater <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Y</mi></math> takes longer to heat the water. The time it takes a heater to heat the water is directly proportional to the power dissipated in the heater, and the power dissipated is inversely proportional to the heater’s resistance <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Y</mi></math>.",
+        "image": null
+      },
+      {
+        "label": "Heater <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">Y</mi></math> takes longer to heat the water. The time it takes a heater to heat the water is inversely proportional to the power dissipated in the heater, and the power dissipated is directly proportional to the heater’s resistance.",
+        "image": null
+      }
+    ],
+    "answer": "Heater <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">X</mi></math> takes longer to heat the water. The time it takes a heater to heat the water is inversely proportional to the power dissipated in the heater, and the power dissipated is inversely proportional to the heater’s resistance."
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.4",
+    "text": "11.4: Electric Power"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

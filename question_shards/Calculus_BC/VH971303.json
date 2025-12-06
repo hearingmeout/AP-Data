@@ -1,0 +1,41 @@
+{
+  "id": "VH971303",
+  "type": "mcq",
+  "title": "Justification - Modeling with Diff Equations",
+  "content": {
+    "description": "",
+    "question": "The quantity <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>R</mi></mrow></mstyle></math>, in grams, of a certain radioactive substance decreases according to the exponential decay model <math alttext=\"the derivative of R, with respect to t, equals, negative 0.05 R\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>d</mi><mi>R</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mrow><mo>−</mo><mn>0.05</mn></mrow><mi>R</mi></mrow></mstyle></math>, where <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math> is measured in seconds. During an experiment, a scientist determines that the rate of decay of a second substance with the quantity <math alttext=\"S\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>S</mi></mrow></mstyle></math>, in grams, can be represented by a linear model <math alttext=\"the derivative of S, with respect to t, equals negative 4\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>d</mi><mi>S</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mrow><mo>−</mo><mn>4</mn></mrow></mrow></mstyle></math>, where <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math> is measured in seconds. If at time <math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>0</mn></mrow></mstyle></math>, <math alttext=\"R of 0, equals 100\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>R</mi><mo>(</mo><mn>0</mn><mo>)</mo><mo>=</mo><mn>100</mn></mrow></mstyle></math> and <math alttext=\"S of 0, equals 125\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>S</mi><mo>(</mo><mn>0</mn><mo>)</mo><mo>=</mo><mn>125</mn></mrow></mstyle></math>, at what time <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>, in seconds, will there be equal quantities of both substances?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"t equals, 6.318\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>6.318</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"t equals, 6.329\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>6.329</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"t equals, 23.548\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>23.548</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"t equals, 31.197\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>31.197</mn></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"t equals, 23.548\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>23.548</mn></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.8",
+    "text": "7.8: Exponential Models with Differential Equations"
+  },
+  "skill": {
+    "code": "Skill 3.G",
+    "text": "Skill 3.G: Confirm that solutions are accurate and appropriate."
+  }
+}

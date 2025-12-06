@@ -1,0 +1,45 @@
+{
+  "id": "VH948534",
+  "type": "mcq",
+  "title": "Design preference",
+  "content": {
+    "description": "Market researchers interviewed a random sample of 60 men and a random sample of 55 women about their preferences for different color designs for the packaging of a certain product. Of those interviewed, 23 men and 28 women preferred color design X.",
+    "question": "Which of the following is the correct test statistic for a two-sample <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math>-test for a difference in population proportions for men and women (men minus women) in their preference for color design X ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"z equals the fraction 0.51 minus 0.38 over the square root of 0.44 times 0.56, times, open parenthesis, the fraction 1 over 55, plus the fraction 1 over 60, close parenthesis, end root\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi><mo>=</mo><mfrac><mrow><mn>0.51</mn><mo>−</mo><mn>0.38</mn></mrow><mrow><msqrt><mrow><mo>(</mo><mn>0.44</mn><mo>)</mo><mo>(</mo><mn>0.56</mn><mo>)</mo><mo>(</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>55</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>60</mn></mrow></mfrac><mo>)</mo></mrow></msqrt></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"z equals the fraction 23 minus 28 over the square root of 0.38 times 0.51, times the fraction 1 over 60 plus 55, end root\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi><mo>=</mo><mrow><mfrac><mrow><mn>23</mn><mo>−</mo><mn>28</mn></mrow><mrow><msqrt><mrow><mo>(</mo><mn>0.38</mn><mo>)</mo><mo>(</mo><mn>0.51</mn><mo>)</mo><mo>(</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>60</mn><mo>+</mo><mn>55</mn></mrow></mfrac><mo>)</mo></mrow></msqrt></mrow></mfrac></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"z equals the fraction 23 minus 28 over the square root of 0.44 times 0.56, times the fraction 1 over 60 plus the fraction 1 over 55, end root\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi><mo>=</mo><mrow><mfrac><mrow><mn>23</mn><mo>−</mo><mn>28</mn></mrow><mrow><msqrt><mrow><mo>(</mo><mn>0.44</mn><mo>)</mo><mo>(</mo><mn>0.56</mn><mo>)</mo><mo>(</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>60</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>55</mn></mrow></mfrac><mo>)</mo></mrow></msqrt></mrow></mfrac></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"z equals the fraction 0.38 minus 0.51 over the square root of 0.44 times 0.56, times the fraction 1 over 60 plus 55, end root\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi><mo>=</mo><mrow><mfrac><mrow><mn>0.38</mn><mo>−</mo><mn>0.51</mn></mrow><mrow><msqrt><mrow><mo>(</mo><mn>0.44</mn><mo>)</mo><mo>(</mo><mn>0.56</mn><mo>)</mo><mo>(</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>60</mn><mo>+</mo><mn>55</mn></mrow></mfrac><mo>)</mo></mrow></msqrt></mrow></mfrac></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"z equals the fraction 0.38 minus 0.51 over the square root of 0.44 times 0.56, times the fraction 1 over 60 plus the fraction 1 over 55, end root\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi><mo>=</mo><mrow><mfrac><mrow><mn>0.38</mn><mo>−</mo><mn>0.51</mn></mrow><mrow><msqrt><mrow><mo>(</mo><mn>0.44</mn><mo>)</mo><mo>(</mo><mn>0.56</mn><mo>)</mo><mo>(</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>60</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>55</mn></mrow></mfrac><mo>)</mo></mrow></msqrt></mrow></mfrac></mrow></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"z equals the fraction 0.38 minus 0.51 over the square root of 0.44 times 0.56, times the fraction 1 over 60 plus the fraction 1 over 55, end root\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi><mo>=</mo><mrow><mfrac><mrow><mn>0.38</mn><mo>−</mo><mn>0.51</mn></mrow><mrow><msqrt><mrow><mo>(</mo><mn>0.44</mn><mo>)</mo><mo>(</mo><mn>0.56</mn><mo>)</mo><mo>(</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>60</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>55</mn></mrow></mfrac><mo>)</mo></mrow></msqrt></mrow></mfrac></mrow></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.11",
+    "text": "6.11: Carrying Out a Test for the Difference of Two Population Proportions"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Calculate a test statistic and find a p-value, provided conditions for inference are met."
+  }
+}

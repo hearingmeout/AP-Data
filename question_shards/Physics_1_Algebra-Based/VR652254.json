@@ -1,0 +1,41 @@
+{
+  "id": "VR652254",
+  "type": "mcq",
+  "title": "Rotational inertia - rectangle rotating two axes",
+  "content": {
+    "description": "",
+    "question": "A rectangular rigid body consists of four spheres of equal mass connected by rods with negligible mass. The length of the long side of the rectangle is twice that of the short side. In Figure <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>, the system is oriented as shown and rotates about the dashed axis that passes through the center of mass of the system. The rotational inertia about the axis is <math alttext=\"l sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>1</mn></msub></math>. In Figure <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>, the system is turned <math alttext=\"90 degrees\" display=\"inline\" overflow=\"scroll\"><mn>90</mn><mi mathvariant=\"normal\">°</mi></math> and rotates about the dashed axis shown that also passes through the center of mass of the system. The rotational inertia of the system about the axis is <math alttext=\"l sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>2</mn></msub></math>. Which of the following correctly compares <math alttext=\"l sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>2</mn></msub></math> and <math alttext=\"l sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>1</mn></msub></math>?",
+    "image": "https://ap.oly.st/images/f08183732d249c1b92c9e6034ee9cba3.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"l sub 2 is greater than 2 l sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>2</mn></msub><mo>&gt;</mo><mn>2</mn><msub><mi>I</mi><mn>1</mn></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"l sub 2 equals 2 l sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>2</mn></msub><mo>=</mo><mn>2</mn><msub><mi>I</mi><mn>1</mn></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"l sub 2 equals the fraction l sub 1 over 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>2</mn></msub><mo>=</mo><mfrac><msub><mi>I</mi><mn>1</mn></msub><mn>2</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"l sub 2 is less than the fraction l sub 1 over 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>2</mn></msub><mo>&lt;</mo><mfrac><msub><mi>I</mi><mn>1</mn></msub><mn>2</mn></mfrac></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"l sub 2 is greater than 2 l sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>2</mn></msub><mo>&gt;</mo><mn>2</mn><msub><mi>I</mi><mn>1</mn></msub></math>"
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.4",
+    "text": "5.4: Rotational Inertia"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

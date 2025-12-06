@@ -1,0 +1,41 @@
+{
+  "id": "VH950002",
+  "type": "mcq",
+  "title": "Example class accessor method",
+  "content": {
+    "description": "Consider the following class definition.",
+    "question": "public class Example{private int x;// Constructor not shown.}Which of the following is a correct header for a method of the Example class that would return the value of the private instance variable x so that it can be used in a class other than Example ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "private int getX()",
+        "image": null
+      },
+      {
+        "label": "private void getX()",
+        "image": null
+      },
+      {
+        "label": "public int getX()",
+        "image": null
+      },
+      {
+        "label": "public void getX()",
+        "image": null
+      }
+    ],
+    "answer": "public int getX()"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Anatomy of a Class"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ASS000000",
+  "type": "mcq",
+  "title": "Sinusoidal Modeling - sewing machine",
+  "content": {
+    "description": "​",
+    "question": "​​Time <math alttext=\"t\"><semantics><mi>t</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> (seconds)Displacement of Tip from Cloth Plate (centimeters)<math alttext=\"0\"><semantics><mn>0</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"2.5\"><semantics><mn>2.5</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"1 over 24\"><semantics><mfrac><mn>1</mn><mn>24</mn></mfrac><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math><math alttext=\"negative 2.5\"><semantics><mrow><mo>-</mo><mn>2.5</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>​​The vertical motion of the tip of a needle on a sewing machine is periodic with respect to time and can be modeled by a sinusoidal function. The figure shows the location of the tip of the needle in relation to a cloth plate. The tip of the needle moves straight up and down above and below the cloth plate. The table gives a consecutive maximum and minimum displacement of the tip at two times. The function <math alttext=\"d\"><semantics><mi>d</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> models the displacement, in centimeters, of the tip of the needle from the cloth plate at time <math alttext=\"t\"><semantics><mi>t</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, in seconds. Which of the following expressions could define <math alttext=\"d open parentheses t close parentheses\"><semantics><mrow><mi>d</mi><mfenced><mi>t</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": "https://ap.oly.st/images/78a1507e60bb03ddbcfd1a16a278d673.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"2.5 cos open parentheses 1 over 12 t close parentheses\"><semantics><mrow><mn>2.5</mn><mi>cos</mi><mfenced><mrow><mfrac><mn>1</mn><mn>12</mn></mfrac><mi>t</mi></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>​",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"2.5 cos open parentheses pi over 6 t close parentheses\"><semantics><mrow><mn>2.5</mn><mi>cos</mi><mfenced><mrow><mfrac><mi>π</mi><mn>6</mn></mfrac><mi>t</mi></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"2.5 cos open parentheses 24 pi t close parentheses\"><semantics><mrow><mn>2.5</mn><mi>cos</mi><mfenced><mrow><mn>24</mn><mi>π</mi><mi>t</mi></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"2.5 cos open parentheses 48 pi t close parentheses\"><semantics><mrow><mn>2.5</mn><mi>cos</mi><mfenced><mrow><mn>48</mn><mi>π</mi><mi>t</mi></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"2.5 cos open parentheses 24 pi t close parentheses\"><semantics><mrow><mn>2.5</mn><mi>cos</mi><mfenced><mrow><mn>24</mn><mi>π</mi><mi>t</mi></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Trigonometric and Polar Functions"
+  },
+  "topic": {
+    "code": "3.7",
+    "text": "3.7: Sinusoidal Function Context and Data Modeling"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

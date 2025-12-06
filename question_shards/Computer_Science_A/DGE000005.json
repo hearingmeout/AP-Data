@@ -1,0 +1,41 @@
+{
+  "id": "DGE000005",
+  "type": "mcq",
+  "title": "while loop - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following code segments can be used to print only the even integers between 2 and 10, inclusive?",
+    "image": null,
+    "choices": [
+      {
+        "label": "int num = 0; while(num < 10) { System.out.println(num); num += 2; }",
+        "image": null
+      },
+      {
+        "label": "int num = 0; while(num <= 10) { System.out.println(num); num += 2; }",
+        "image": null
+      },
+      {
+        "label": "int num = 0; while(num < 10) { num += 2; System.out.println(num); }",
+        "image": null
+      },
+      {
+        "label": "int num = 0; while(num <= 10) { num += 2; System.out.println(num); }",
+        "image": null
+      }
+    ],
+    "answer": "int num = 0; while(num < 10) { num += 2; System.out.println(num); }"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.7",
+    "text": "2.7: `while` Loops"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "WGF000006_Part_A",
+  "type": "frq",
+  "title": "RobotMover - Methods and Control Structures_Part_A",
+  "content": {
+    "description": "",
+    "question": "Write the RobotMover constructor, which initializes the instance variable moveSequence with numMoves moves, with each move followed by an underscore (\"_\"). Each move should be randomly selected, with an equal chance of being \"up\", \"down\", \"left\", or \"right\". For example, new RobotMover(6) will initialize moveSequence with six moves. Some possible values of moveSequence after the call are \"up_right_right_left_down_up_\" or \"up_up_down_down_left_right_\". Complete the RobotMover constructor. /** * Initalizes moveSequence with numMoves moves, with an equal * chance of \"up\", \"down\", \"left\", and \"right\". Each move is * followed by an underscore (\"_\"). * Precondition: numMoves > 0 */ public RobotMover(int numMoves)",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Write the RobotMover constructor, which initializes the instance variable moveSequence with numMoves moves, with each move followed by an underscore (\"_\"). Each move should be randomly selected, with an equal chance of being \"up\", \"down\", \"left\", or \"right\". For example, new RobotMover(6) will initialize moveSequence with six moves. Some possible values of moveSequence after the call are \"up_right_right_left_down_up_\" or \"up_up_down_down_left_right_\". Complete the RobotMover constructor. /** * Initalizes moveSequence with numMoves moves, with an equal * chance of \"up\", \"down\", \"left\", and \"right\". Each move is * followed by an underscore (\"_\"). * Precondition: numMoves > 0 */ public RobotMover(int numMoves)",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: `Math` Class"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "FT659361",
+  "type": "frq",
+  "title": "Rate of flow of water in a tank",
+  "content": {
+    "description": "",
+    "question": "A 12,000-liter tank of water is filled to capacity. At time t = 0, water begins to drain out of the tank at a rate modeled by r(t), measured in liters per hour, where r is given by the piecewise-defined function <math> <semantics> <mrow> <mi>r</mi> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> <mo>=</mo> <mrow> <mo>{</mo> <mtable columnalign=\"left\"> <mtr> <mtd> <mfrac> <mrow> <mn>600</mn> <mi>t</mi> </mrow> <mrow> <mi>t</mi> <mo>+</mo> <mn>3</mn> </mrow> </mfrac> <mtext>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for&nbsp;</mtext> <mn>0</mn> <mo>≤</mo> <mi>t</mi> <mo>≤</mo> <mn>5</mn> </mtd> </mtr> <mtr> <mtd> <mn>1000</mn> <msup> <mi>e</mi> <mrow> <mo>−</mo> <mn>0.2</mn> <mi>t</mi> </mrow> </msup> <mtext>&nbsp;&nbsp;&nbsp;for&nbsp;</mtext> <mi>t</mi> <mo>&gt;</mo> <mn>5</mn> </mtd> </mtr> </mtable> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaamOCamaabm aabaaeaaaaaaaaa8qacaWG0baapaGaayjkaiaawMcaa8qacqGH9aqp daGabaabaeqabaWaaSaaaeaacaaI2aGaaGimaiaaicdacaWG0baaba GaamiDaiabgUcaRiaaiodaaaGaaeiiaiaabccacaqGGaGaaeiiaiaa bccacaqGGaGaaeiiaiaabccacaqGGaGaaeiiaiaabccacaqGGaGaae iiaiaabAgacaqGVbGaaeOCaiaabccacaaIWaGaeyizImQaamiDaiab gsMiJkaaiwdaaeaacaaIXaGaaGimaiaaicdacaaIWaGaamyza8aada ahaaWcbeqaa8qacqGHsislpaGaaGimaiaac6cacaaIYaGaamiDaaaa kiaabccacaqGGaGaaeiiaiaabAgacaqGVbGaaeOCaiaabccacaWG0b GaeyOpa4JaaGynaaaapeGaay5Eaaaaaa@63B2@ </annotation> </semantics> </math> (a) Is r continuous at t = 5? Show the work that leads to your answer.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "A 12,000-liter tank of water is filled to capacity. At time t = 0, water begins to drain out of the tank at a rate modeled by r(t), measured in liters per hour, where r is given by the piecewise-defined function <math> <semantics> <mrow> <mi>r</mi> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> <mo>=</mo> <mrow> <mo>{</mo> <mtable columnalign=\"left\"> <mtr> <mtd> <mfrac> <mrow> <mn>600</mn> <mi>t</mi> </mrow> <mrow> <mi>t</mi> <mo>+</mo> <mn>3</mn> </mrow> </mfrac> <mtext>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for&nbsp;</mtext> <mn>0</mn> <mo>≤</mo> <mi>t</mi> <mo>≤</mo> <mn>5</mn> </mtd> </mtr> <mtr> <mtd> <mn>1000</mn> <msup> <mi>e</mi> <mrow> <mo>−</mo> <mn>0.2</mn> <mi>t</mi> </mrow> </msup> <mtext>&nbsp;&nbsp;&nbsp;for&nbsp;</mtext> <mi>t</mi> <mo>&gt;</mo> <mn>5</mn> </mtd> </mtr> </mtable> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaamOCamaabm aabaaeaaaaaaaaa8qacaWG0baapaGaayjkaiaawMcaa8qacqGH9aqp daGabaabaeqabaWaaSaaaeaacaaI2aGaaGimaiaaicdacaWG0baaba GaamiDaiabgUcaRiaaiodaaaGaaeiiaiaabccacaqGGaGaaeiiaiaa bccacaqGGaGaaeiiaiaabccacaqGGaGaaeiiaiaabccacaqGGaGaae iiaiaabAgacaqGVbGaaeOCaiaabccacaaIWaGaeyizImQaamiDaiab gsMiJkaaiwdaaeaacaaIXaGaaGimaiaaicdacaaIWaGaamyza8aada ahaaWcbeqaa8qacqGHsislpaGaaGimaiaac6cacaaIYaGaamiDaaaa kiaabccacaqGGaGaaeiiaiaabAgacaqGVbGaaeOCaiaabccacaWG0b GaeyOpa4JaaGynaaaapeGaay5Eaaaaaa@63B2@ </annotation> </semantics> </math> (a) Is r continuous at t = 5? Show the work that leads to your answer.",
+        "image": null
+      },
+      {
+        "text": "(b) Find the average rate at which water is draining from the tank between time t = 0 and time t = 8 hours.",
+        "image": null
+      },
+      {
+        "text": "(c) Find r'(3). Using correct units, explain the meaning of that value in the context of this problem.",
+        "image": null
+      },
+      {
+        "text": "(d) Write, but do not solve, an equation involving an integral to find the time A when the amount of water in the tank is 9000 liters.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: Defining Continuity at a Point"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

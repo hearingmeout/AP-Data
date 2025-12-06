@@ -1,0 +1,41 @@
+{
+  "id": "VR813102",
+  "type": "mcq",
+  "title": "LR circuit - energy stored in an inductor",
+  "content": {
+    "description": "",
+    "question": "A circuit is constructed from a battery of <math alttext=\"e m f\" display=\"inline\" overflow=\"scroll\"><mi>emf</mi></math> <math alttext=\"open E\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi></math>, a switch, an inductor of inductance <math alttext=\"L\" display=\"inline\" overflow=\"scroll\"><mi>L</mi></math>, and three identical resistors of resistance <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math>, connected as shown in the diagram. The switch is initially open. Which of the following expressions best indicates the energy stored in the inductor a long time after the switch has been closed?",
+    "image": "https://ap.oly.st/images/330705f480571277c67dc35459c3e463.svg",
+    "choices": [
+      {
+        "label": "Zero",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one eighteenth, times the fraction with numerator L times open E squared, and denominator R squared, end fraction\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>1</mn><mn>18</mn></mfrac><mfrac><mrow><mi>L</mi><msup><mi>Ɛ</mi><mn>2</mn></msup></mrow><msup><mi>R</mi><mn>2</mn></msup></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one eighth, times the fraction with numerator L times open E squared, and denominator R squared, end fraction\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>1</mn><mn>8</mn></mfrac><mfrac><mrow><mi>L</mi><msup><mi>Ɛ</mi><mn>2</mn></msup></mrow><msup><mi>R</mi><mn>2</mn></msup></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction 9 over 16, end fraction, times the fraction with numerator L times open E squared, and denominator R squared, end fraction\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>9</mn><mn>16</mn></mfrac><mfrac><mrow><mi>L</mi><msup><mi>Ɛ</mi><mn>2</mn></msup></mrow><msup><mi>R</mi><mn>2</mn></msup></mfrac></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"one eighteenth, times the fraction with numerator L times open E squared, and denominator R squared, end fraction\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>1</mn><mn>18</mn></mfrac><mfrac><mrow><mi>L</mi><msup><mi>Ɛ</mi><mn>2</mn></msup></mrow><msup><mi>R</mi><mn>2</mn></msup></mfrac></math>"
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.5",
+    "text": "13.5: Circuits with Resistors and Inductors (LR Circuits)"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "QEJ000001",
+  "type": "mcq",
+  "title": "Vector-Valued Functions - distance from origin",
+  "content": {
+    "description": "",
+    "question": "The position of a particle moving in the <math alttext=\"x y\"><mi>x</mi><mi>y</mi></math>-plane is given by the vector-valued function <math alttext=\"p\"><mi>p</mi></math> defined by <math alttext=\"p open parentheses t close parentheses equals open angle brackets x open parentheses t close parentheses comma y open parentheses t close parentheses close angle brackets\"><mi>p</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced close=\">\" open=\"<\"><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced></math> for <math alttext=\"0 less or equal than t less or equal than 10\"><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>10</mn></math> seconds. Which of the following is true about the distance between the particle’s position and the origin at time <math alttext=\"t equals 4\"><mi>t</mi><mo>=</mo><mn>4</mn></math> seconds?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The distance is <math alttext=\"square root of open parentheses x open parentheses 4 close parentheses close parentheses squared plus open parentheses y open parentheses 4 close parentheses close parentheses squared end root\"><msqrt><msup><mfenced><mrow><mi>x</mi><mfenced><mn>4</mn></mfenced></mrow></mfenced><mn>2</mn></msup><mo>+</mo><msup><mfenced><mrow><mi>y</mi><mfenced><mn>4</mn></mfenced></mrow></mfenced><mn>2</mn></msup></msqrt></math> because this value is the magnitude of the position vector at time <math alttext=\"t equals 4\"><mi>t</mi><mo>=</mo><mn>4</mn></math> seconds.",
+        "image": null
+      },
+      {
+        "label": "The distance is <math alttext=\"4 open parentheses fraction numerator y open parentheses 4 close parentheses minus y open parentheses 0 close parentheses over denominator 4 minus 0 end fraction close parentheses\"><mn>4</mn><mfenced><mfrac><mrow><mi>y</mi><mfenced><mn>4</mn></mfenced><mo>-</mo><mi>y</mi><mfenced><mn>0</mn></mfenced></mrow><mrow><mn>4</mn><mo>-</mo><mn>0</mn></mrow></mfrac></mfenced></math> because this value is the product of the length of the interval and the average rate of change of <math alttext=\"y open parentheses t close parentheses\"><mi>y</mi><mfenced><mi>t</mi></mfenced></math> over the interval <math alttext=\"0 less or equal than t less or equal than 4\"><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>4</mn></math>.",
+        "image": null
+      },
+      {
+        "label": "The distance is <math alttext=\"fraction numerator y open parentheses 4 close parentheses minus y open parentheses 0 close parentheses over denominator x open parentheses 4 close parentheses minus x open parentheses 0 close parentheses end fraction\"><mfrac><mrow><mi>y</mi><mfenced><mn>4</mn></mfenced><mo>-</mo><mi>y</mi><mfenced><mn>0</mn></mfenced></mrow><mrow><mi>x</mi><mfenced><mn>4</mn></mfenced><mo>-</mo><mi>x</mi><mfenced><mn>0</mn></mfenced></mrow></mfrac></math> because this value is the average rate of change over the interval <math alttext=\"0 less or equal than t less or equal than 4\"><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>4</mn></math>.",
+        "image": null
+      },
+      {
+        "label": "The distance is <math alttext=\"open parentheses x open parentheses 4 close parentheses minus x open parentheses 0 close parentheses close parentheses plus open parentheses y open parentheses 4 close parentheses minus y open parentheses 0 close parentheses close parentheses\"><mfenced><mrow><mi>x</mi><mfenced><mn>4</mn></mfenced><mo>-</mo><mi>x</mi><mfenced><mn>0</mn></mfenced></mrow></mfenced><mo>+</mo><mfenced><mrow><mi>y</mi><mfenced><mn>4</mn></mfenced><mo>-</mo><mi>y</mi><mfenced><mn>0</mn></mfenced></mrow></mfenced></math> because this value is the sum of the change in the horizontal position and the change in the vertical position, over the interval <math alttext=\"0 less or equal than t less or equal than 4\"><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>4</mn></math>.",
+        "image": null
+      }
+    ],
+    "answer": "The distance is <math alttext=\"square root of open parentheses x open parentheses 4 close parentheses close parentheses squared plus open parentheses y open parentheses 4 close parentheses close parentheses squared end root\"><msqrt><msup><mfenced><mrow><mi>x</mi><mfenced><mn>4</mn></mfenced></mrow></mfenced><mn>2</mn></msup><mo>+</mo><msup><mfenced><mrow><mi>y</mi><mfenced><mn>4</mn></mfenced></mrow></mfenced><mn>2</mn></msup></msqrt></math> because this value is the magnitude of the position vector at time <math alttext=\"t equals 4\"><mi>t</mi><mo>=</mo><mn>4</mn></math> seconds."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.9",
+    "text": "4.9: Vector-Valued Functions"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Support conclusions or choices with a logical rationale or appropriate data."
+  }
+}

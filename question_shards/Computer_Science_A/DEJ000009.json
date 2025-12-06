@@ -1,0 +1,41 @@
+{
+  "id": "DEJ000009",
+  "type": "mcq",
+  "title": "Thing objects with keyword this - determine result",
+  "content": {
+    "description": "",
+    "question": "What, if anything, is printed as a result of executing this code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "yes yes",
+        "image": null
+      },
+      {
+        "label": "maybe yes",
+        "image": null
+      },
+      {
+        "label": "maybe maybe",
+        "image": null
+      },
+      {
+        "label": "Nothing is printed because the Thing class does not compile.",
+        "image": null
+      }
+    ],
+    "answer": "maybe yes"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.9",
+    "text": "3.9: `this` Keyword"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

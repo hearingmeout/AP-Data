@@ -1,0 +1,37 @@
+{
+  "id": "VH963115",
+  "type": "mcq",
+  "title": "Beverage equals method",
+  "content": {
+    "description": "Consider the following class definition.",
+    "question": "public class Beverage{private int temperature;public Beverage(int t){temperature = t;}public int getTemperature(){return temperature;}public boolean equals(Object other){if (other == null){return false;}Beverage b = (Beverage) other;return (b.getTemperature() == temperature);}}The following code segment appears in a class other than Beverage. Assume that x and y are properly declared and initialized int variables.Beverage hotChocolate = new Beverage(x);Beverage coffee = new Beverage(y);boolean same = /* missing code */;Which of the following can be used as a replacement for /* missing code */ so that the boolean variable same is set to true if and only if the hotChocolate and coffee objects have the same temperature values?",
+    "image": null,
+    "choices": [
+      {
+        "label": "(hotChocolate == coffee)",
+        "image": null
+      },
+      {
+        "label": "hotChocolate.equals(coffee)",
+        "image": null
+      },
+      {
+        "label": "hotChocolate.equals(coffee.getTemperature())",
+        "image": null
+      },
+      {
+        "label": "hotChocolate.getTemperature().equals(coffee.getTemperature())",
+        "image": null
+      }
+    ],
+    "answer": "hotChocolate.equals(coffee)"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

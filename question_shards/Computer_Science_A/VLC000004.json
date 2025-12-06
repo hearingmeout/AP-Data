@@ -1,0 +1,41 @@
+{
+  "id": "VLC000004",
+  "type": "mcq",
+  "title": "Recursive printNums method - determine result",
+  "content": {
+    "description": "",
+    "question": "What is printed as a result of the call printNums(10)?",
+    "image": null,
+    "choices": [
+      {
+        "label": "-80 40 -20 10",
+        "image": null
+      },
+      {
+        "label": "10 -20 40 -80",
+        "image": null
+      },
+      {
+        "label": "40 -20 10",
+        "image": null
+      },
+      {
+        "label": "10 -20 40",
+        "image": null
+      }
+    ],
+    "answer": "-80 40 -20 10"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.16",
+    "text": "4.16: Recursion"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

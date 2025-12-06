@@ -1,0 +1,41 @@
+{
+  "id": "DHB000000",
+  "type": "mcq",
+  "title": "Logarithmic Modeling - Richter scale",
+  "content": {
+    "description": "",
+    "question": "​The Richter scale is a numerical scale that uses base <math alttext=\"10\"><semantics><mn>10</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> logarithms for measuring an earthquake’s magnitude. The larger the number, the more intense the earthquake. As intensities increase multiplicatively by a factor of <math alttext=\"10\"><semantics><mn>10</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, the Richter scale increases additively by <math alttext=\"1\"><semantics><mn>1</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. Consider two earthquakes that occurred in the year 2022. An earthquake in Indonesia had a magnitude of <math alttext=\"5.1\"><semantics><mn>5.1</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, and an earthquake in Mexico had a magnitude of <math alttext=\"2.5\"><semantics><mn>2.5</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. Approximately how many times more intense was the Indonesia earthquake than the Mexico earthquake?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"2.6\"><semantics><mn>2.6</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"26\"><semantics><mn>26</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"100\"><semantics><mn>100</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"400\"><semantics><mn>400</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"400\"><semantics><mn>400</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.14",
+    "text": "2.14: Logarithmic Function Context and Data Modeling"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Apply numerical results in a given mathematical or applied context."
+  }
+}

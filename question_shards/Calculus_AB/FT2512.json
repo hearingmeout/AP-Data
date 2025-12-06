@@ -1,0 +1,45 @@
+{
+  "id": "FT2512",
+  "type": "mcq",
+  "title": "Integration using subsitution of variables",
+  "content": {
+    "description": "",
+    "question": "<math> <mrow> <mstyle displaystyle=\"true\"> <mrow><mo>∫</mo> <mrow> <mfrac> <mrow> <msup> <mi>e</mi> <mi>x</mi> </msup> </mrow> <mrow> <mn>1</mn><mo>+</mo><msup> <mi>e</mi> <mi>x</mi> </msup> </mrow> </mfrac> </mrow> </mrow> </mstyle><mtext> </mtext><mi>d</mi><mi>x</mi></mrow> </math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <mrow> <mi>ln</mi> <mrow> <mo>(</mo> <mrow> <mfrac> <mn>1</mn> <mrow> <msup> <mi>e</mi> <mi>x</mi> </msup> </mrow> </mfrac> <mo>+</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> <mo>+</mo> <mi>c</mi> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mi>ln</mi><mrow><mo>(</mo> <mrow> <mn>1</mn><mo>+</mo><msup> <mi>e</mi> <mi>x</mi> </msup> </mrow> <mo>)</mo></mrow><mo>+</mo><mi>c</mi></mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mi>x</mi> <mo>−</mo> <mi>ln</mi> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>+</mo> <msup> <mi>e</mi> <mi>x</mi> </msup> </mrow> <mo>)</mo> </mrow> <mo>+</mo> <mi>c</mi> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <msup> <mi>e</mi> <mi>x</mi> </msup> <mo>+</mo><mi>x</mi><mo>+</mo><mi>c</mi></mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <msup> <mrow> <mi>tan</mi> </mrow> <mrow> <mo>−</mo> <mn>1</mn> </mrow> </msup> <mrow> <mo>(</mo> <mrow> <msup> <mi>e</mi> <mi>x</mi> </msup> </mrow> <mo>)</mo> </mrow> <mo>+</mo> <mi>c</mi> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <mrow> <mi>ln</mi><mrow><mo>(</mo> <mrow> <mn>1</mn><mo>+</mo><msup> <mi>e</mi> <mi>x</mi> </msup> </mrow> <mo>)</mo></mrow><mo>+</mo><mi>c</mi></mrow> </math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.9",
+    "text": "6.9: Integrating Using Substitution"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

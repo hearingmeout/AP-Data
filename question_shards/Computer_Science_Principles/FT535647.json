@@ -1,0 +1,37 @@
+{
+  "id": "FT535647",
+  "type": "mcq",
+  "title": "Central High School absences and grade point average",
+  "content": {
+    "description": "Central High School keeps a database of information about each student, including the numeric variables numberOfAbsences and gradePointAverage. The expression below is used to determine whether a student is eligible to receive an academic award.",
+    "question": "(numberOfAbsences ≤ 5) AND (gradePointAverage > 3.5)Which of the following pairs of values indicates that a student is eligible to receive an academic award?",
+    "image": null,
+    "choices": [
+      {
+        "label": "numberOfAbsences = 3, gradePointAverage = 3.5",
+        "image": null
+      },
+      {
+        "label": "numberOfAbsences = 5, gradePointAverage = 3.8",
+        "image": null
+      },
+      {
+        "label": "numberOfAbsences = 6, gradePointAverage = 3.4",
+        "image": null
+      },
+      {
+        "label": "numberOfAbsences = 6, gradePointAverage = 3.6",
+        "image": null
+      }
+    ],
+    "answer": "numberOfAbsences = 5, gradePointAverage = 3.8"
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Identifying and Correcting Errors"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Identify and correct errors in algorithms and programs, including error discovery through testing."
+  }
+}

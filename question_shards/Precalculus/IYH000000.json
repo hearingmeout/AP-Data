@@ -1,0 +1,41 @@
+{
+  "id": "IYH000000",
+  "type": "mcq",
+  "title": "Exponential Modeling - water hyacinth",
+  "content": {
+    "description": "",
+    "question": "​Water hyacinth is an invasive plant species found in many lakes that typically grows at a rate of <math alttext=\"7 percent sign\"><semantics><mrow><mn>7</mn><mo>%</mo></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> per day. As part of a study, a scientist introduces a <math alttext=\"150\"><semantics><mn>150</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>-gram sample of water hyacinth into a testing pool. Which of the following functions gives the amount of water hyacinth in the testing pool <math alttext=\"t\"><semantics><mi>t</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> weeks after the sample is introduced? (Note: <math alttext=\"1\"><semantics><mn>1</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> week is <math alttext=\"7\"><semantics><mn>7</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> days.)",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"f open parentheses t close parentheses equals 150 open parentheses 1 plus 0.07 to the power of open parentheses 1 divided by 7 close parentheses end exponent close parentheses to the power of t\"><semantics><mrow><mi>f</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>150</mn><msup><mfenced><mrow><mn>1</mn><mo>+</mo><msup><mn>0.07</mn><mfenced><mrow><mn>1</mn><mo>/</mo><mn>7</mn></mrow></mfenced></msup></mrow></mfenced><mi>t</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"g open parentheses t close parentheses equals 150 open parentheses 1.07 to the power of open parentheses 1 divided by 7 close parentheses end exponent close parentheses to the power of t\"><semantics><mrow><mi>g</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>150</mn><msup><mfenced><msup><mn>1.07</mn><mfenced><mrow><mn>1</mn><mo>/</mo><mn>7</mn></mrow></mfenced></msup></mfenced><mi>t</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"h open parentheses t close parentheses equals 150 open parentheses 1 plus 0.07 to the power of open parentheses 7 close parentheses end exponent close parentheses to the power of t\"><semantics><mrow><mi>h</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>150</mn><msup><mfenced><mrow><mn>1</mn><mo>+</mo><msup><mn>0.07</mn><mfenced><mn>7</mn></mfenced></msup></mrow></mfenced><mi>t</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"k open parentheses t close parentheses equals 150 open parentheses 1.07 to the power of open parentheses 7 close parentheses end exponent close parentheses to the power of t\"><semantics><mrow><mi>k</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>150</mn><msup><mfenced><msup><mn>1.07</mn><mfenced><mn>7</mn></mfenced></msup></mfenced><mi>t</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"k open parentheses t close parentheses equals 150 open parentheses 1.07 to the power of open parentheses 7 close parentheses end exponent close parentheses to the power of t\"><semantics><mrow><mi>k</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>150</mn><msup><mfenced><msup><mn>1.07</mn><mfenced><mn>7</mn></mfenced></msup></mfenced><mi>t</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.5",
+    "text": "2.5: Exponential Function Context and Data Modeling"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

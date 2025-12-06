@@ -1,0 +1,37 @@
+{
+  "id": "VR108073",
+  "type": "mcq",
+  "title": "True statement about the network",
+  "content": {
+    "description": "",
+    "question": "Which of the following statements is true about the network?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Information sent from device A to device D can use at most two unique paths.",
+        "image": null
+      },
+      {
+        "label": "Information sent from device A to device I will pass through at most four other devices.",
+        "image": null
+      },
+      {
+        "label": "If devices B and F fail, then device A will not be able to communicate with device G.",
+        "image": null
+      },
+      {
+        "label": "If devices C and F fail, then device D will not be able to communicate with device H.",
+        "image": null
+      }
+    ],
+    "answer": "If devices B and F fail, then device A will not be able to communicate with device G."
+  },
+  "topic": {
+    "code": "4.2",
+    "text": "4.2: Fault Tolerance"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

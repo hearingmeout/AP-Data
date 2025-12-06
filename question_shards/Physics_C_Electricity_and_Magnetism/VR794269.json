@@ -1,0 +1,41 @@
+{
+  "id": "VR794269",
+  "type": "mcq",
+  "title": "RC circuits - capacitor charge at time 2RC",
+  "content": {
+    "description": "",
+    "question": "A capacitor of capacitance <math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mi>C</mi></math>, an open switch, and a resistor of resistance <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math> are connected as shown in the figure. The capacitor has an initial charge <math alttext=\"Q sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>Q</mi><mn>0</mn></msub></math> when the switch is closed at time <math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn></math>, and charge <math alttext=\"Q sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>Q</mi><mn>1</mn></msub></math> at time <math alttext=\"t equals 2 R C\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>2</mn><mi>R</mi><mi>C</mi></math>. Which of the following is closest to the ratio <math alttext=\"the fraction Q sub 1 over Q sub 0\" display=\"inline\" overflow=\"scroll\"><mfrac><msub><mi>Q</mi><mn>1</mn></msub><msub><mi>Q</mi><mn>0</mn></msub></mfrac></math>?",
+    "image": "https://ap.oly.st/images/6ee572a3ab12e2ec3ed755d050ed33f8.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"0.37\" display=\"inline\" overflow=\"scroll\"><mn>0.37</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"0.37 squared\" display=\"inline\" overflow=\"scroll\"><msup><mn>0.37</mn><mn>2</mn></msup></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction 0.37 over 2\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>0.37</mn><mn>2</mn></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2 times 0.37\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mo>×</mo><mn>0.37</mn></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"0.37 squared\" display=\"inline\" overflow=\"scroll\"><msup><mn>0.37</mn><mn>2</mn></msup></math>"
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.8",
+    "text": "11.8: Resistor-Capacitor (RC) Circuits"
+  },
+  "skill": {
+    "code": "2.D",
+    "text": "2.D: Predict new values or factors of change of physical quantities using functional dependence between variables."
+  }
+}

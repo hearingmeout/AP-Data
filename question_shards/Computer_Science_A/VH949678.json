@@ -1,0 +1,41 @@
+{
+  "id": "VH949678",
+  "type": "mcq",
+  "title": "vehicle classification",
+  "content": {
+    "description": "Vehicles are classified based on their total interior volume. The classify method is intended to return a vehicle classification String value based on total interior volume, in cubic feet, as shown in the table below.",
+    "question": "Vehicle size class Total interior volume Minicompact Less than 85 cubic feet Subcompact 85 to 99 cubic feet Compact 100 to 109 cubic feet Mid-Size 110 to 119 cubic feet Large 120 cubic feet or more The classify method, which does not work as intended, is shown below.public static String classify(int volume){String carClass = \"\";if (volume >= 120){carClass = \"Large\";}else if (volume < 120){carClass = \"Mid-Size\";}else if (volume < 110){carClass = \"Compact\";}else if (volume < 100){carClass = \"Subcompact\";}else{carClass = \"Minicompact\";}return carClass;}The classify method works as intended for some but not all values of the parameter volume. For which of the following values of volume would the correct value be returned when the classify method is executed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "80",
+        "image": null
+      },
+      {
+        "label": "90",
+        "image": null
+      },
+      {
+        "label": "105",
+        "image": null
+      },
+      {
+        "label": "115",
+        "image": null
+      }
+    ],
+    "answer": "115"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Nested `if` Statements"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

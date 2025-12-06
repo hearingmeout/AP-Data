@@ -1,0 +1,37 @@
+{
+  "id": "VR168068",
+  "type": "mcq",
+  "title": "Value of result after nested selection",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "result <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 1IF(score1 > 500){result <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> result + 1IF(score2 > 500){result <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> result + 1}ELSE{result <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> result + 2}}ELSE{result <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> result + 5IF(score2 > 500){result <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> result + 1}ELSE{result <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> result - 1}}If the value of score1 is 350 and the value of score2 is 210, what will be the value of result after the code segment is executed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "3",
+        "image": null
+      },
+      {
+        "label": "4",
+        "image": null
+      },
+      {
+        "label": "5",
+        "image": null
+      },
+      {
+        "label": "7",
+        "image": null
+      }
+    ],
+    "answer": "5"
+  },
+  "topic": {
+    "code": "3.7",
+    "text": "3.7: Nested Conditionals"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

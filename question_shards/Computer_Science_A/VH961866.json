@@ -1,0 +1,41 @@
+{
+  "id": "VH961866",
+  "type": "mcq",
+  "title": "binary search on myList",
+  "content": {
+    "description": "Consider the following method, which implements a recursive binary search.",
+    "question": "/** Returns an index in myList where target appears,* if target appears in myList between the elements at indices* low and high, inclusive; otherwise returns -1.* Precondition: myList is sorted in ascending order.* low >= 0, high < myList.size(), myList.size() > 0*/public static int binarySearch(ArrayList<Integer> myList,int low, int high, int target){int mid = (high + low) / 2;if (target < myList.get(mid)){return binarySearch(myList, low, mid - 1, target);}else if (target > myList.get(mid)){return binarySearch(myList, mid + 1, high, target);}else if (myList.get(mid).equals(target)){return mid;}return -1;}Assume that inputList is an ArrayList of Integer objects that contains the following values.[0, 10, 30, 40, 50, 70, 70, 70, 70]What value will be returned by the call binarySearch(inputList, 0, 8, 70) ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "-1",
+        "image": null
+      },
+      {
+        "label": "5",
+        "image": null
+      },
+      {
+        "label": "6",
+        "image": null
+      },
+      {
+        "label": "7",
+        "image": null
+      }
+    ],
+    "answer": "6"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.17",
+    "text": "4.17: Recursive Searching and Sorting"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

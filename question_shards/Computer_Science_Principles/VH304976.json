@@ -1,0 +1,37 @@
+{
+  "id": "VH304976",
+  "type": "mcq",
+  "title": "Bookstore database",
+  "content": {
+    "description": "A store employee wants to calculate the total amount of money the store will receive if they sell all of the available science fiction books. Which columns in the database can be ignored and still allow the employee to perform this calculation?",
+    "question": "Select two answers.",
+    "image": null,
+    "choices": [
+      {
+        "label": "Author",
+        "image": null
+      },
+      {
+        "label": "Title",
+        "image": null
+      },
+      {
+        "label": "Genre",
+        "image": null
+      },
+      {
+        "label": "Quantity Available",
+        "image": null
+      }
+    ],
+    "answer": "Author"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: Extracting Information from Data"
+  },
+  "skill": {
+    "code": "Skill 5.B",
+    "text": "Skill 5.B: Explain how knowledge can be generated from data."
+  }
+}

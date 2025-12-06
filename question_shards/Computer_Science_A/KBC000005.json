@@ -1,0 +1,41 @@
+{
+  "id": "KBC000005",
+  "type": "mcq",
+  "title": "choice if statement - determine result",
+  "content": {
+    "description": "",
+    "question": "What is the value of choice after executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "\"Indoors\"",
+        "image": null
+      },
+      {
+        "label": "\"Outdoors\"",
+        "image": null
+      },
+      {
+        "label": "\"Indoors with sibling\"",
+        "image": null
+      },
+      {
+        "label": "\"Outdoors with sibling\"",
+        "image": null
+      }
+    ],
+    "answer": "\"Outdoors\""
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: `if` Statements"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

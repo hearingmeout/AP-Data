@@ -1,0 +1,41 @@
+{
+  "id": "RAE000000",
+  "type": "mcq",
+  "title": "Exponential Equations - finding the inverse",
+  "content": {
+    "description": "",
+    "question": "​The function <math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is given by <math alttext=\"f open parentheses x close parentheses equals 4 times 2 to the power of open parentheses x minus 3 close parentheses end exponent\"><semantics><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>4</mn><mo>·</mo><msup><mn>2</mn><mfenced><mrow><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfenced></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. If the function <math alttext=\"g\"><semantics><mi>g</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is the inverse of <math alttext=\"f\"><semantics><mi>f</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, which of the following could define <math alttext=\"g open parentheses x close parentheses\"><semantics><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"log subscript 8 x plus 3\"><semantics><mrow><msub><mi>log</mi><mn>8</mn></msub><mi>x</mi><mo>+</mo><mn>3</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"log subscript 2 open parentheses 4 x close parentheses plus 3\"><semantics><mrow><msub><mi>log</mi><mn>2</mn></msub><mfenced><mrow><mn>4</mn><mi>x</mi></mrow></mfenced><mo>+</mo><mn>3</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"log subscript 2 open parentheses x over 4 close parentheses plus 3\"><semantics><mrow><msub><mi>log</mi><mn>2</mn></msub><mfenced><mfrac><mi>x</mi><mn>4</mn></mfrac></mfenced><mo>+</mo><mn>3</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"log subscript 2 open parentheses fraction numerator x minus 3 over denominator 4 end fraction close parentheses\"><semantics><mrow><msub><mi>log</mi><mn>2</mn></msub><mfenced><mfrac><mrow><mi>x</mi><mo>-</mo><mn>3</mn></mrow><mn>4</mn></mfrac></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"log subscript 2 open parentheses x over 4 close parentheses plus 3\"><semantics><mrow><msub><mi>log</mi><mn>2</mn></msub><mfenced><mfrac><mi>x</mi><mn>4</mn></mfrac></mfenced><mo>+</mo><mn>3</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.13",
+    "text": "2.13: Exponential and Logarithmic Equations and Inequalities"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

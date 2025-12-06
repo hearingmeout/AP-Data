@@ -1,0 +1,41 @@
+{
+  "id": "VH903894",
+  "type": "mcq",
+  "title": "determine newAverage",
+  "content": {
+    "description": "The Student class has been defined to store and manipulate grades for an individual student. The following methods have been defined for the class.",
+    "question": "/* Returns the sum of all of the student’s grades */public double sumOfGrades(){ /* implementation not shown */ }/* Returns the total number of grades the student has received */public int numberOfGrades(){ /* implementation not shown */ }/* Returns the lowest grade the student has received */public double lowestGrade(){ /* implementation not shown */ }Which of the following statements, if located in a method in the Student class, will determine the average of all of the student’s grades except for the lowest grade and store the result in the double variable newAverage ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "newAverage = sumOfGrades() / (numberOfGrades() - 1);",
+        "image": null
+      },
+      {
+        "label": "newAverage = sumOfGrades() - lowestGrade() / (numberOfGrades() - 1);",
+        "image": null
+      },
+      {
+        "label": "newAverage = (sumOfGrades() - lowestGrade()) / numberOfGrades() - 1;",
+        "image": null
+      },
+      {
+        "label": "newAverage = (sumOfGrades() - lowestGrade()) / (numberOfGrades() - 1);",
+        "image": null
+      }
+    ],
+    "answer": "newAverage = (sumOfGrades() - lowestGrade()) / (numberOfGrades() - 1);"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Method Signatures"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "VR029383",
+  "type": "mcq",
+  "title": "Display red blue pattern",
+  "content": {
+    "description": "",
+    "question": "Which of the following code segments can be used to display the intended output?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The figure presents one block of code that consists of 4 total lines. Throughout the block of code there are nested blocks of code. [Begin Block] Line 1: REPEAT 2 TIMES [Begin Block] [Begin Block] Line 2: REPEAT 3 TIMES [Begin Block] Line 3: [begin block] DISPLAY [begin block] “red” [end block] [end block]  [End Block] [End Block] Line 4: [begin block] DISPLAY [begin block] “blue” [end block] [end block] [End Block] [End Block]",
+        "image": "https://ap.oly.st/images/21a8e9932adbcc6aa4c728987bc1451a.png"
+      },
+      {
+        "label": "The figure presents one block of code that consists of 4 total lines. Throughout the block of code there are nested blocks of code. [Begin Block] Line 1: REPEAT 2 TIMES [Begin Block] [Begin Block] Line 2: REPEAT 3 TIMES [Begin Block] Line 3: [begin block] DISPLAY [begin block] “blue” [end block] [End block]  [End Block] [End Block] Line 4: [begin block] DISPLAY [begin block] “red” [end block] [end block] [End Block] [End Block]",
+        "image": "https://ap.oly.st/images/aca82d4d9813222ddaaaa52e7fade5eb.png"
+      },
+      {
+        "label": "The figure presents one block of code that consists of 4 total lines. Throughout the block of code there are nested blocks of code. [Begin Block] Line 1: REPEAT 3 TIMES [Begin Block] [Begin Block] Line 2: REPEAT 2 TIMES [Begin Block] Line 3: [begin block] DISPLAY [begin block] “red” [end block] [end block] [End Block] [End Block] Line 4: [begin block] DISPLAY [begin block] “blue” [end block] [end block] [End Block] [End Block]",
+        "image": "https://ap.oly.st/images/83cbc6397357096a5466958680eaf0f4.png"
+      },
+      {
+        "label": "The figure presents two blocks of code that consist of 4 total lines. Throughout the first block of code there are nested blocks of code. [Begin Block] Line 1: REPEAT 3 TIMES [Begin Block] [Begin Block] Line 2: REPEAT 2 TIMES [Begin Block] Line 3: [begin block] DISPLAY [begin block] “blue” [end block] [end block] [End Block] [End Block] Line 4: [begin block] DISPLAY [begin block] “red” [end block] [end block] [End Block] [End Block]",
+        "image": "https://ap.oly.st/images/e0f9618f1d2f22a46a4548cb72ee6c03.png"
+      }
+    ],
+    "answer": "The figure presents one block of code that consists of 4 total lines. Throughout the block of code there are nested blocks of code. [Begin Block] Line 1: REPEAT 3 TIMES [Begin Block] [Begin Block] Line 2: REPEAT 2 TIMES [Begin Block] Line 3: [begin block] DISPLAY [begin block] “red” [end block] [end block] [End Block] [End Block] Line 4: [begin block] DISPLAY [begin block] “blue” [end block] [end block] [End Block] [End Block]"
+  },
+  "topic": {
+    "code": "3.8",
+    "text": "3.8: Iteration"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

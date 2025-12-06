@@ -1,0 +1,41 @@
+{
+  "id": "VR725463",
+  "type": "mcq",
+  "title": "Frequency and period - T for two half-pendulums",
+  "content": {
+    "description": "",
+    "question": "A small ball is hung from a string of length <math alttext=\"3 L sub 0\" display=\"inline\" overflow=\"scroll\"><mn>3</mn><msub><mi>L</mi><mn>0</mn></msub></math>, as shown in the figures. There is a small peg just to the left of the string at a distance <math alttext=\"L sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>L</mi><mn>0</mn></msub></math> above the center of the ball. The ball is displaced to the left and released from rest, as shown in the middle figure, and moves as a pendulum of length <math alttext=\"L sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>L</mi><mn>0</mn></msub></math> until the string is vertical and loses contact with the peg. The ball then continues moving to the right as a pendulum of length <math alttext=\"3 L sub 0\" display=\"inline\" overflow=\"scroll\"><mn>3</mn><msub><mi>L</mi><mn>0</mn></msub></math>, as shown in the right-hand figure, until the string becomes vertical and again contacts the peg. The ball continues moving to the left, again as a pendulum of length <math alttext=\"L sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>L</mi><mn>0</mn></msub></math>, until it returns to its initial release position and completes one oscillation, and then the motion is repeated. What is the period of a complete oscillation for the ball?",
+    "image": "https://ap.oly.st/images/cea548ab869e57c8e1ef2393c6a31123.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"2 pi times the square root of the fraction with numerator 2 L sub 0, end sub, and denominator g\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mi>π</mi><msqrt><mfrac><mrow><mn>2</mn><msub><mi>L</mi><mn>0</mn></msub></mrow><mi>g</mi></mfrac></msqrt></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2 pi times the square root of the fraction with numerator 4 L sub 0, end sub, and denominator g\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mi>π</mi><msqrt><mfrac><mrow><mn>4</mn><msub><mi>L</mi><mn>0</mn></msub></mrow><mi>g</mi></mfrac></msqrt></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2 pi times, open parenthesis, one half times the square root of the fraction L sub 0, end sub, over g, end fraction, end root, plus one half, times the square root of the fraction with numerator 3 L sub 0, end sub, and denominator g, end fraction, end root, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mi>π</mi><mrow><mo>(</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msqrt><mfrac><msub><mi>L</mi><mn>0</mn></msub><mi>g</mi></mfrac></msqrt><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msqrt><mfrac><mrow><mn>3</mn><msub><mi>L</mi><mn>0</mn></msub></mrow><mi>g</mi></mfrac></msqrt><mo>)</mo></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2 pi times, open parenthesis, the square root of the fraction L sub 0, end sub, over g, end fraction, end root, plus the square root of the fraction with numerator 3 L sub 0, end sub, and denominator g, end fraction, end root, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mi>π</mi><mrow><mo>(</mo><msqrt><mfrac><msub><mi>L</mi><mn>0</mn></msub><mi>g</mi></mfrac></msqrt><mo>+</mo><msqrt><mfrac><mrow><mn>3</mn><msub><mi>L</mi><mn>0</mn></msub></mrow><mi>g</mi></mfrac></msqrt><mo>)</mo></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"2 pi times, open parenthesis, one half times the square root of the fraction L sub 0, end sub, over g, end fraction, end root, plus one half, times the square root of the fraction with numerator 3 L sub 0, end sub, and denominator g, end fraction, end root, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><mi>π</mi><mrow><mo>(</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msqrt><mfrac><msub><mi>L</mi><mn>0</mn></msub><mi>g</mi></mfrac></msqrt><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><msqrt><mfrac><mrow><mn>3</mn><msub><mi>L</mi><mn>0</mn></msub></mrow><mi>g</mi></mfrac></msqrt><mo>)</mo></mrow></math>"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Oscillations"
+  },
+  "topic": {
+    "code": "7.2",
+    "text": "7.2: Frequency and Period of SHM"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

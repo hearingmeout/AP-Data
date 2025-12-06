@@ -1,0 +1,41 @@
+{
+  "id": "HMI000005",
+  "type": "mcq",
+  "title": "Count a in string - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following can be used to replace /* missing code */ so that the code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "count++; temp = str.substring(loc + 1);",
+        "image": null
+      },
+      {
+        "label": "count++; loc++; temp = str.substring(loc);",
+        "image": null
+      },
+      {
+        "label": "count++; temp = temp.substring(loc); loc = temp.indexOf(\"a\");",
+        "image": null
+      },
+      {
+        "label": "count++; temp = temp.substring(loc + 1); loc = temp.indexOf(\"a\");",
+        "image": null
+      }
+    ],
+    "answer": "count++; temp = temp.substring(loc + 1); loc = temp.indexOf(\"a\");"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.10",
+    "text": "2.10: Implementing String Algorithms"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

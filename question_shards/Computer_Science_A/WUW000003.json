@@ -1,0 +1,41 @@
+{
+  "id": "WUW000003",
+  "type": "mcq",
+  "title": "Value returned by enigma - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the value returned by the method?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The index of a column in values that contains at least one element equal to target",
+        "image": null
+      },
+      {
+        "label": "The index of a row in values that contains at least one element equal to target",
+        "image": null
+      },
+      {
+        "label": "The number of times that an element equal to target appears in column x of values",
+        "image": null
+      },
+      {
+        "label": "The number of times that an element equal to target appears in row x of values",
+        "image": null
+      }
+    ],
+    "answer": "The number of times that an element equal to target appears in row x of values"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.12",
+    "text": "4.12: 2D Array Traversals"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

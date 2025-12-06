@@ -1,0 +1,37 @@
+{
+  "id": "VR165924",
+  "type": "mcq",
+  "title": "Value of relational expression for truck weight",
+  "content": {
+    "description": "In the following expression, the variable truckWeight has the value 70000 and the variable weightLimit has the value 80000.",
+    "question": "truckWeight < weightLimitWhat value does the expression evaluate to?",
+    "image": null,
+    "choices": [
+      {
+        "label": "70000",
+        "image": null
+      },
+      {
+        "label": "80000",
+        "image": null
+      },
+      {
+        "label": "true",
+        "image": null
+      },
+      {
+        "label": "false",
+        "image": null
+      }
+    ],
+    "answer": "true"
+  },
+  "topic": {
+    "code": "3.5",
+    "text": "3.5: Boolean Expressions"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "LQI000003",
+  "type": "mcq",
+  "title": "Instance vs class - describe relationship",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes a valid relationship?",
+    "image": null,
+    "choices": [
+      {
+        "label": "An instance of the vehicle class is Car.",
+        "image": null
+      },
+      {
+        "label": "An instance of the Car object is vehicle.",
+        "image": null
+      },
+      {
+        "label": "An attribute of the year object is int.",
+        "image": null
+      },
+      {
+        "label": "An attribute of the vehicle object is color.",
+        "image": null
+      }
+    ],
+    "answer": "An attribute of the vehicle object is color."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.12",
+    "text": "1.12: Objects: Instances of Classes"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

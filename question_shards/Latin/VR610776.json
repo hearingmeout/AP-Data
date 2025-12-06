@@ -1,0 +1,41 @@
+{
+  "id": "VR610776",
+  "type": "mcq",
+  "title": "2D motion - racing across a river",
+  "content": {
+    "description": "",
+    "question": "Two boats cross a river that has a current of velocity <math alttext=\"v sub r\" display=\"inline\" overflow=\"scroll\"><msub><mi>v</mi><mi>r</mi></msub></math>, as shown. The boats have identical speeds with respect to the water. Boat <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> heads at an angle upstream such that it reaches the opposite shore directly across from its starting point. Boat <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> heads in a direction perpendicular to the current and reaches a position on the opposite shore downstream of its starting point. Which boat takes less time to cross the river, and what reasoning supports this claim?",
+    "image": "https://ap.oly.st/images/d0e0b69b942b40cb0346d125b854b6d7.svg",
+    "choices": [
+      {
+        "label": "Boat <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> takes less time because it travels a shorter distance than Boat <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>.",
+        "image": null
+      },
+      {
+        "label": "Boat <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> takes less time because its velocity with respect to the water and the current velocity add together, giving Boat <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> a greater resultant velocity.",
+        "image": null
+      },
+      {
+        "label": "Boat <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> takes less time because its velocity has a greater <math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mi>y</mi></math>-component with respect to the ground than Boat <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>.",
+        "image": null
+      },
+      {
+        "label": "Boat <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> takes less time because the current increases the boat’s speed relative to the ground.",
+        "image": null
+      }
+    ],
+    "answer": "Boat <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> takes less time because its velocity has a greater <math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mi>y</mi></math>-component with respect to the ground than Boat <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.5",
+    "text": "1.5: Motion in Two or Three Dimensions"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

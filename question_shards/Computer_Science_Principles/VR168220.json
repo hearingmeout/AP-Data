@@ -1,0 +1,37 @@
+{
+  "id": "VR168220",
+  "type": "mcq",
+  "title": "How the Internet is fault-tolerant",
+  "content": {
+    "description": "",
+    "question": "Which of the following best explains how the Internet is a fault-tolerant system?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The Internet is fault-tolerant because cybercriminals can conceal their actions, allowing them the ability to carry out faulty actions without leaving a trace.",
+        "image": null
+      },
+      {
+        "label": "The Internet is fault-tolerant because there are usually multiple paths between devices, allowing messages to sometimes be sent even when parts of the network fail.",
+        "image": null
+      },
+      {
+        "label": "The Internet is fault-tolerant because users can transmit messages using a variety of different protocols, allowing them to use devices from any manufacturer.",
+        "image": null
+      },
+      {
+        "label": "The Internet is fault-tolerant because users usually understand and accept the fact that servers sometimes fail, allowing network engineers to repair faulty devices as quickly as possible.",
+        "image": null
+      }
+    ],
+    "answer": "The Internet is fault-tolerant because there are usually multiple paths between devices, allowing messages to sometimes be sent even when parts of the network fail."
+  },
+  "topic": {
+    "code": "4.2",
+    "text": "4.2: Fault Tolerance"
+  },
+  "skill": {
+    "code": "Skill 5.A",
+    "text": "Skill 5.A: Explain how computing systems work."
+  }
+}

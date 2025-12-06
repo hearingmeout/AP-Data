@@ -1,0 +1,45 @@
+{
+  "id": "VH950435",
+  "type": "mcq",
+  "title": "One sample z",
+  "content": {
+    "description": "",
+    "question": "Consider a population with population proportion <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>, and a sample from the population with sample proportion <math alttext=\"p hat\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mover><mrow><mi>p</mi></mrow><mrow><mo>^</mo></mrow></mover></mrow></mstyle></math>. Which of the following describes the purpose of the one-sample <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math>-test?",
+    "image": null,
+    "choices": [
+      {
+        "label": "To estimate the value of <math alttext=\"p hat\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mover><mrow><mi>p</mi></mrow><mrow><mo>^</mo></mrow></mover></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "To estimate the value of <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "To estimate a margin of error for <math alttext=\"p hat\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mover><mrow><mi>p</mi></mrow><mrow><mo>^</mo></mrow></mover></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "To estimate the probability of observing a value as extreme as <math alttext=\"p hat\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mover><mrow><mi>p</mi></mrow><mrow><mo>^</mo></mrow></mover></mrow></mstyle></math> given <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "To estimate the probability of observing a value as extreme as <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math> given <math alttext=\"p hat\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mover><mrow><mi>p</mi></mrow><mrow><mo>^</mo></mrow></mover></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "To estimate the probability of observing a value as extreme as <math alttext=\"p hat\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mover><mrow><mi>p</mi></mrow><mrow><mo>^</mo></mrow></mover></mrow></mstyle></math> given <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.4",
+    "text": "6.4: Setting Up a Test for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Identify an appropriate inference method for significance tests."
+  }
+}

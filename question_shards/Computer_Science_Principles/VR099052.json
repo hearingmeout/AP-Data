@@ -1,0 +1,37 @@
+{
+  "id": "VR099052",
+  "type": "mcq",
+  "title": "Adding numbers in 4-bit representation",
+  "content": {
+    "description": "",
+    "question": "A certain programming language uses 4-bit binary sequences to represent nonnegative integers. For example, the binary sequence 0101 represents the corresponding decimal value 5. Using this programming language, a programmer attempts to add the decimal values 14 and 15 and assign the sum to the variable total. Which of the following best describes the result of this operation?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The correct sum of 29 will be assigned to the variable total.",
+        "image": null
+      },
+      {
+        "label": "An overflow error will occur because 4 bits is not large enough to represent either of the values 14 or 15.",
+        "image": null
+      },
+      {
+        "label": "An overflow error will occur because 4 bits is not large enough to represent 29, the sum of 14 and 15.",
+        "image": null
+      },
+      {
+        "label": "A round-off error will occur because the decimal values 14 and 15 are represented as approximations due to the fixed number of bits used to represent numbers.",
+        "image": null
+      }
+    ],
+    "answer": "An overflow error will occur because 4 bits is not large enough to represent 29, the sum of 14 and 15."
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Binary Numbers"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

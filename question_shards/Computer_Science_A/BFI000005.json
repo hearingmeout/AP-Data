@@ -1,0 +1,41 @@
+{
+  "id": "BFI000005",
+  "type": "mcq",
+  "title": "Build acronym from string phrase - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following can be used to replace /* missing code */ so that the code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "text += temp.substring(0, 1); temp = temp.substring(i + 1); i = temp.indexOf(\" \");",
+        "image": null
+      },
+      {
+        "label": "temp = temp.substring(i + 1); text += temp.substring(0, 1); i = temp.indexOf(\" \");",
+        "image": null
+      },
+      {
+        "label": "text += temp.substring(i, i + 1); i = i + 1;",
+        "image": null
+      },
+      {
+        "label": "text += temp.substring(i, i + 1); i = temp.indexOf(\" \");",
+        "image": null
+      }
+    ],
+    "answer": "temp = temp.substring(i + 1); text += temp.substring(0, 1); i = temp.indexOf(\" \");"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.10",
+    "text": "2.10: Implementing String Algorithms"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

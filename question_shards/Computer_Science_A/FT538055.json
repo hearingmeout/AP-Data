@@ -1,0 +1,41 @@
+{
+  "id": "FT538055",
+  "type": "mcq",
+  "title": "mystery int array instance variable",
+  "content": {
+    "description": "Consider the following instance variable and method.",
+    "question": "Which of the following best describes the contents of numbers after the following statement has been executed? int m = mystery(n);",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/65192156be4900745af8d8baaaba2836.jpg",
+    "choices": [
+      {
+        "label": "All values in positions 0 through m are less than n.",
+        "image": null
+      },
+      {
+        "label": "All values in positions m+1 through numbers.length-1 are less than n.",
+        "image": null
+      },
+      {
+        "label": "All values in positions m+1 through numbers.length-1 are greater than or equal to n.",
+        "image": null
+      },
+      {
+        "label": "The largest value that is smaller than n is at position m.",
+        "image": null
+      }
+    ],
+    "answer": "All values in positions m+1 through numbers.length-1 are greater than or equal to n."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implementing Array Algorithms"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

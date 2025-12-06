@@ -1,0 +1,41 @@
+{
+  "id": "VH904686",
+  "type": "mcq",
+  "title": "Purchase object",
+  "content": {
+    "description": "Consider the following description of the Purchase class which includes one constructor and one method.",
+    "question": "public Purchase(double purchaseAmt, double taxAmt) – Constructs a Purchase object that represents a single purchase with purchase amount purchaseAmt and tax taxAmt. public void totalAmount()– Displays the sum of the purchase amount and the tax Assume that a Purchase object p has been properly declared and initialized. Which of the following code segments will successfully print the total purchase amount associated with p?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Purchase.totalAmount();",
+        "image": null
+      },
+      {
+        "label": "System.out.print(p);",
+        "image": null
+      },
+      {
+        "label": "System.out.print(p.totalAmount());",
+        "image": null
+      },
+      {
+        "label": "p.totalAmount();",
+        "image": null
+      }
+    ],
+    "answer": "p.totalAmount();"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Method Signatures"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

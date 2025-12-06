@@ -1,0 +1,41 @@
+{
+  "id": "VH973937",
+  "type": "mcq",
+  "title": "Processes - Alternating Series Error Bound",
+  "content": {
+    "description": "",
+    "question": "The series <math alttext=\"the sum, from k equals 1, to infinity, of, open parenthesis, negative 1, close parenthesis, raised to the k plus 1, power, times a, sub k\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mrow><munderover><mo>∑</mo><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><msup><mrow><mo>(</mo><mrow><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mrow><mi>k</mi><mo>+</mo><mn>1</mn></mrow></msup><msub><mrow><mi>a</mi></mrow><mrow><mi>k</mi></mrow></msub></mrow></mrow></mrow></mstyle></math> converges to <math alttext=\"S\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>S</mi></mrow></mstyle></math> and <math alttext=\"0 is less than a, sub k plus 1, end subscript, which is less than, a, sub k\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0</mn><mo>&lt;</mo><msub><mrow><mi>a</mi></mrow><mrow><mi>k</mi><mo>+</mo><mn>1</mn></mrow></msub><mo>&lt;</mo><msub><mrow><mi>a</mi></mrow><mrow><mi>k</mi></mrow></msub></mrow></mstyle></math> for all <math alttext=\"k\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>k</mi></mrow></mstyle></math>. If <math alttext=\"S sub n, equals, the sum, from k equals 1, to n, of, open parenthesis, negative 1, close parenthesis, raised to the k plus 1, power, times a, sub k\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><msub><mrow><mi>S</mi></mrow><mrow><mi>n</mi></mrow></msub><mo>=</mo><mrow><munderover><mo>∑</mo><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>n</mi></mrow></munderover><mrow><msup><mrow><mo>(</mo><mrow><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mrow><mi>k</mi><mo>+</mo><mn>1</mn></mrow></msup><msub><mrow><mi>a</mi></mrow><mrow><mi>k</mi></mrow></msub></mrow></mrow></mrow></mstyle></math> is the <math alttext=\"n\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi><mtext>th</mtext></mrow></mstyle></math> partial sum of the series, which of the following statements must be true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the limit as n approaches infinity, of S sub n, equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder><msub><mrow><mi>S</mi></mrow><mrow><mi>n</mi></mrow></msub><mo>=</mo><mn>0</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the limit as n approaches infinity, of a, sub n, equals S\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder><msub><mrow><mi>a</mi></mrow><mrow><mi>n</mi></mrow></msub><mo>=</mo><mi>S</mi></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the absolute value of S minus S sub 10, end absolute value, is less than or equal to a, sub 16\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>|</mo><mi>S</mi><mo>−</mo><msub><mrow><mi>S</mi></mrow><mrow><mn>10</mn></mrow></msub><mo>|</mo></mrow><mo>≤</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>16</mn></mrow></msub></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the absolute value of S minus S sub 15, end absolute value, is less than or equal to a, sub 16\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>|</mo><mi>S</mi><mo>−</mo><msub><mrow><mi>S</mi></mrow><mrow><mn>15</mn></mrow></msub><mo>|</mo></mrow><mo>≤</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>16</mn></mrow></msub></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the absolute value of S minus S sub 15, end absolute value, is less than or equal to a, sub 16\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>|</mo><mi>S</mi><mo>−</mo><msub><mrow><mi>S</mi></mrow><mrow><mn>15</mn></mrow></msub><mo>|</mo></mrow><mo>≤</mo><msub><mrow><mi>a</mi></mrow><mrow><mn>16</mn></mrow></msub></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.10",
+    "text": "10.10: (BC ONLY) Alternating Series Error Bound"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

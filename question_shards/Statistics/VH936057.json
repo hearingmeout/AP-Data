@@ -1,0 +1,45 @@
+{
+  "id": "VH936057",
+  "type": "mcq",
+  "title": "Mobile Payment App",
+  "content": {
+    "description": "A business journal reports that the probability that Internet users in the United States will use a mobile payment app is 0.60. The journal claims this indicates that out of 5 randomly selected Internet users, 3 will use the mobile payment app.",
+    "question": "Is the business journal interpreting the probability correctly?",
+    "image": null,
+    "choices": [
+      {
+        "label": "No, because the Internet users are not independent of each other.",
+        "image": null
+      },
+      {
+        "label": "No, because only 60% of all people use the Internet.",
+        "image": null
+      },
+      {
+        "label": "No, because 0.60 represents probability in the long run for many Internet users.",
+        "image": null
+      },
+      {
+        "label": "Yes, because Internet users are selected at random.",
+        "image": null
+      },
+      {
+        "label": "Yes, because 3 out of 5 is equal to 60%.",
+        "image": null
+      }
+    ],
+    "answer": "No, because 0.60 represents probability in the long run for many Internet users."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Introduction to Probability"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

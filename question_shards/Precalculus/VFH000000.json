@@ -1,0 +1,41 @@
+{
+  "id": "VFH000000",
+  "type": "mcq",
+  "title": "Graph of Polar Function - Interpretation",
+  "content": {
+    "description": "",
+    "question": "A polar function is given by <math alttext=\"r equals f open parentheses theta close parentheses equals negative 1 plus sin theta\"><semantics><mrow><mi>r</mi><mo>=</mo><mi>f</mi><mfenced><mi>θ</mi></mfenced><mo>=</mo><mo>-</mo><mn>1</mn><mo>+</mo><mi>sin</mi><mpadded lspace=\"+1px\"><mi>θ</mi></mpadded></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. As <math alttext=\"theta\"><semantics><mi>θ</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> increases on the interval <math alttext=\"0 less than theta less than pi over 2\"><semantics><mrow><mn>0</mn><mo>&lt;</mo><mi>θ</mi><mo>&lt;</mo><mfrac><mi>π</mi><mn>2</mn></mfrac></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, which of the following is true about the points on the graph of <math alttext=\"r equals f open parentheses theta close parentheses\"><semantics><mrow><mi>r</mi><mo>=</mo><mi>f</mi><mfenced><mi>θ</mi></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> in the <math alttext=\"x y\"><semantics><mrow><mi>x</mi><mi>y</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>-plane?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​The points on the graph are above the <math alttext=\"x\"><semantics><mi>x</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>-axis and are getting closer to the origin.",
+        "image": null
+      },
+      {
+        "label": "​The points on the graph are above the <math alttext=\"x\"><semantics><mi>x</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>-axis and are getting farther from the origin.",
+        "image": null
+      },
+      {
+        "label": "​The points on the graph are below the <math alttext=\"x\"><semantics><mi>x</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>-axis and are getting closer to the origin.",
+        "image": null
+      },
+      {
+        "label": "​The points on the graph are below the <math alttext=\"x\"><semantics><mi>x</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>-axis and are getting farther from the origin.",
+        "image": null
+      }
+    ],
+    "answer": "​The points on the graph are below the <math alttext=\"x\"><semantics><mi>x</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>-axis and are getting closer to the origin."
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Trigonometric and Polar Functions"
+  },
+  "topic": {
+    "code": "3.15",
+    "text": "3.15: Rates of Change in Polar Functions"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Describe the characteristics of a function with varying levels of precision, depending on the function representation and available mathematical tools."
+  }
+}

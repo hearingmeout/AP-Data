@@ -1,0 +1,41 @@
+{
+  "id": "VDO000005",
+  "type": "mcq",
+  "title": "Random number generator - explain error",
+  "content": {
+    "description": "",
+    "question": "Which of the following changes can be made so that this statement works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Add parentheses around the expression 10 + 1, as shown in the following statement. int result = (int) Math.random() * (10 + 1);",
+        "image": null
+      },
+      {
+        "label": "Add parentheses around the expression Math.random() * 10, as shown in the following statement.int result = (int) (Math.random() * 10) + 1;",
+        "image": null
+      },
+      {
+        "label": "Change the value of 10 to 9, as shown in the following statement.int result = (int) Math.random() * 9 + 1;",
+        "image": null
+      },
+      {
+        "label": "Remove the cast of Math.random() to an int value, as shown in the following statement.int result = Math.random() * 10 + 1;",
+        "image": null
+      }
+    ],
+    "answer": "Add parentheses around the expression Math.random() * 10, as shown in the following statement.int result = (int) (Math.random() * 10) + 1;"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: `Math` Class"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

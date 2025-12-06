@@ -1,0 +1,41 @@
+{
+  "id": "VR002808",
+  "type": "mcq",
+  "title": "Processes - Definition of Derivative",
+  "content": {
+    "description": "",
+    "question": "For any real number <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math>, <math alttext=\"the limit as h approaches 0, of, the fraction with numerator, the sine of, open parenthesis, 2 times, open parenthesis, x plus h, close parenthesis, close parenthesis, minus, the sine of, open parenthesis, 2 x, close parenthesis, and denominator h, equals\" display=\"inline\" overflow=\"scroll\"><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>h</mi><mo>→</mo><mn>0</mn></mrow></munder><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><mi>sin</mi><mrow><mo>(</mo><mn>2</mn><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mi>h</mi><mo>)</mo></mrow><mo>)</mo></mrow><mo>−</mo><mrow><mi>sin</mi><mrow><mo>(</mo><mn>2</mn><mi>x</mi><mo>)</mo></mrow></mrow></mrow><mrow><mi>h</mi></mrow></mfrac></mrow></mstyle><mo>=</mo></mrow></math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>1</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the cosine of, open parenthesis, 2 x, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mrow><mrow><mi>cos</mi><mrow><mo>(</mo><mn>2</mn><mi>x</mi><mo>)</mo></mrow></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2 times the cosine of, open parenthesis, 2 x, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mrow><mn>2</mn><mrow><mi>cos</mi><mrow><mo>(</mo><mn>2</mn><mi>x</mi><mo>)</mo></mrow></mrow></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"2 times the cosine of, open parenthesis, 2 x, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mrow><mn>2</mn><mrow><mi>cos</mi><mrow><mo>(</mo><mn>2</mn><mi>x</mi><mo>)</mo></mrow></mrow></mrow></math>"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.6",
+    "text": "7.6: Finding General Solutions Using Separation of Variables"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

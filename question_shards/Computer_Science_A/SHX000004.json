@@ -1,0 +1,41 @@
+{
+  "id": "SHX000004",
+  "type": "mcq",
+  "title": "doWhat method return value- describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the value, if any, returned from a call to doWhat?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The sum of all integers between 1 and num, inclusive",
+        "image": null
+      },
+      {
+        "label": "The sum of all even integers between 1 and num, inclusive",
+        "image": null
+      },
+      {
+        "label": "The sum of all odd integers between 1 and num, inclusive",
+        "image": null
+      },
+      {
+        "label": "No value is returned because of an infinite loop.",
+        "image": null
+      }
+    ],
+    "answer": "The sum of all odd integers between 1 and num, inclusive"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.9",
+    "text": "2.9: Implementing Selection and Iteration Algorithms"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "QDZ000002",
+  "type": "mcq",
+  "title": "Player attributes and behaviors - design",
+  "content": {
+    "description": "",
+    "question": "Which of the following sets of attributes and behaviors is most appropriate for the Player class design?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Attributes:noneBehaviors:setScore and getScore",
+        "image": null
+      },
+      {
+        "label": "Attributes:setScore and getScoreBehaviors:none",
+        "image": null
+      },
+      {
+        "label": "Attributes:getScore and setScoreBehavior:score",
+        "image": null
+      },
+      {
+        "label": "Attribute:scoreBehaviors:getScore and setScore",
+        "image": null
+      }
+    ],
+    "answer": "Attribute:scoreBehaviors:getScore and setScore"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: Abstraction and Program Design"
+  },
+  "skill": {
+    "code": "1.A",
+    "text": "1.A: Determine an appropriate program design to solve a problem or accomplish a task."
+  }
+}

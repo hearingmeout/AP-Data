@@ -1,0 +1,41 @@
+{
+  "id": "DQQ000001",
+  "type": "mcq",
+  "title": "volume of a cylinder - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following cannot be used to replace /* missing code */ so that the code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "double baseArea; double volume; pi * r * r = baseArea; baseArea * h = volume;",
+        "image": null
+      },
+      {
+        "label": "double baseArea = pi * r * r; double volume = baseArea * h;",
+        "image": null
+      },
+      {
+        "label": "double volume = pi * r * r ; volume = volume * h;",
+        "image": null
+      },
+      {
+        "label": "double volume = pi * r * r * h;",
+        "image": null
+      }
+    ],
+    "answer": "double baseArea; double volume; pi * r * r = baseArea; baseArea * h = volume;"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Assignment Statements and Input"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

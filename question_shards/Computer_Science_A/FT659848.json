@@ -1,0 +1,41 @@
+{
+  "id": "FT659848",
+  "type": "mcq",
+  "title": "Point and Circle class isInside method",
+  "content": {
+    "description": "The question refer to the following declarations.",
+    "question": "public class Point { private double myX; private double myyY; // postcondition: this Point has coordinates (0,0) public Point () { /* implementation not shown */ } // postcondition: this Point has coordinates (x,y) public Point(double x, double y) { /* implementation not shown */ } // other methods not shown } public class Circle { private Point myCenter; private double myRadius; // postcondition: this Circle has center at (0, 0) and radius 0.0 public Circle() { /* implementation not shown */ } // postcondition: this Circle has the given center and radius public Circle(Point center, double radius) { /* implementation not shown */ } // other methods not shown } Which of the following would be the best specification for a Circle method isInside that determines whether a Point lies inside this Circle?",
+    "image": null,
+    "choices": [
+      {
+        "label": "public boolean isInside()",
+        "image": null
+      },
+      {
+        "label": "public boolean isInside(Point p)",
+        "image": null
+      },
+      {
+        "label": "public void isInside(Point p, boolean found)",
+        "image": null
+      },
+      {
+        "label": "public boolean isInside(Point p, Point center, double radius)",
+        "image": null
+      }
+    ],
+    "answer": "public boolean isInside(Point p)"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.5",
+    "text": "3.5: Methods: How to Write Them"
+  },
+  "skill": {
+    "code": "1.A",
+    "text": "1.A: Determine an appropriate program design to solve a problem or accomplish a task."
+  }
+}

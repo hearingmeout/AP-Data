@@ -1,0 +1,41 @@
+{
+  "id": "VH907220",
+  "type": "mcq",
+  "title": "fahrenheitToCelsius",
+  "content": {
+    "description": "Consider the following description of method fahrenheitToCelsius.",
+    "question": "public double fahrenheitToCelsius(double f) – Takes as input a temperature in degrees Fahrenheit and returns the corresponding temperature in degrees Celsius. Assume that each of the following code segments appears in a method in the same class as fahrenheitToCelsius. Which of the following code segments prints the temperature in degrees Celsius that corresponds to 32 degrees Fahrenheit?",
+    "image": null,
+    "choices": [
+      {
+        "label": "double f = 32.0;f = fahrenheitToCelsius();System.out.println(f);",
+        "image": null
+      },
+      {
+        "label": "double f = 32.0;fahrenheitToCelsius(f);System.out.println(f);",
+        "image": null
+      },
+      {
+        "label": "double f = 32.0;double c = fahrenheitToCelsius();System.out.println(c);",
+        "image": null
+      },
+      {
+        "label": "double f = 32.0;double c = fahrenheitToCelsius(f);System.out.println(c);",
+        "image": null
+      }
+    ],
+    "answer": "double f = 32.0;double c = fahrenheitToCelsius(f);System.out.println(c);"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Method Signatures"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

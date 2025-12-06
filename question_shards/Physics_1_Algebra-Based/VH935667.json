@@ -1,0 +1,41 @@
+{
+  "id": "VH935667",
+  "type": "mcq",
+  "title": "Mathematical Routine for Block-Spring System",
+  "content": {
+    "description": "",
+    "question": "A block of mass <math alttext=\"m\" overflow=\"scroll\"><mstyle><mrow><mi>m</mi></mrow></mstyle></math> is launched by a spring of negligible mass along a horizontal surface of negligible friction. The spring constant of the spring is <math alttext=\"k\" overflow=\"scroll\"><mstyle><mrow><mi>k</mi></mrow></mstyle></math>. The spring is initially compressed a distance <math alttext=\"x sub 0\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>x</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mstyle></math>. The block is released from rest. Some time after the block is released and travels in the direction shown in the figure, the spring compression is <math alttext=\"x sub f\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>x</mi></mrow><mrow><mi>f</mi></mrow></msub></mrow></mstyle></math>. Which of the following mathematical calculations can a student use to determine the speed <math alttext=\"v sub f\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>v</mi></mrow><mrow><mi>f</mi></mrow></msub></mrow></mstyle></math> of the block at this new position?",
+    "image": "https://ap.oly.st/images/90f144b8e9e93ac42a8d65e377da8adb.png",
+    "choices": [
+      {
+        "label": "<math alttext=\"one half k, times x sub 0 squared, equals one half m, times v sub f squared\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>k</mi><msubsup><mrow><mi>x</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>m</mi><msubsup><mrow><mi>v</mi></mrow><mrow><mi>f</mi></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mstyle></math>. Solve for <math alttext=\"v sub f\" overflow=\"scroll\"><mrow><msub><mrow><mi>v</mi></mrow><mrow><mi>f</mi></mrow></msub></mrow></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one half k, times x sub 0 squared, equals one half k, times x sub f squared, plus one half m, times v sub f squared\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>k</mi><msubsup><mrow><mi>x</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>k</mi><msubsup><mrow><mi>x</mi></mrow><mrow><mi>f</mi></mrow><mrow><mn>2</mn></mrow></msubsup><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>m</mi><msubsup><mrow><mi>v</mi></mrow><mrow><mi>f</mi></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mstyle></math>. Solve for <math alttext=\"v sub f\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>v</mi></mrow><mrow><mi>f</mi></mrow></msub></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"F in parallel times d, equals one half m, times delta v squared\" overflow=\"scroll\"><mrow><msub><mrow><mi>F</mi></mrow><mrow><mo>∥</mo></mrow></msub><mi>d</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>m</mi><mi mathvariant=\"normal\">Δ</mi><msup><mrow><mi>v</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></math> and <math alttext=\"F in parallel, equals k x sub 0\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>F</mi></mrow><mrow><mo>∥</mo></mrow></msub><mo>=</mo><mi>k</mi><msub><mrow><mi>x</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mstyle></math> . Solve for <math alttext=\"delta v\" overflow=\"scroll\"><mstyle><mrow><mi mathvariant=\"normal\">Δ</mi><mi>v</mi></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"F d cosine of theta, equals one half m, times delta v squared\" overflow=\"scroll\"><mstyle><mrow><mi>F</mi><mi>d</mi><mo>⁢</mo><mi>cos</mi><mo>⁡</mo><mi>θ</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>m</mi><mi mathvariant=\"normal\">Δ</mi><msup><mrow><mi>v</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle></math> and <math alttext=\"F equals k x sub 0\" overflow=\"scroll\"><mstyle><mrow><mi>F</mi><mo>=</mo><mi>k</mi><msub><mrow><mi>x</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mstyle></math> . Solve for <math alttext=\"delta v\" overflow=\"scroll\"><mstyle><mrow><mi mathvariant=\"normal\">Δ</mi><mi>v</mi></mrow></mstyle></math>.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"one half k, times x sub 0 squared, equals one half k, times x sub f squared, plus one half m, times v sub f squared\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>k</mi><msubsup><mrow><mi>x</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>k</mi><msubsup><mrow><mi>x</mi></mrow><mrow><mi>f</mi></mrow><mrow><mn>2</mn></mrow></msubsup><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>m</mi><msubsup><mrow><mi>v</mi></mrow><mrow><mi>f</mi></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mstyle></math>. Solve for <math alttext=\"v sub f\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>v</mi></mrow><mrow><mi>f</mi></mrow></msub></mrow></mstyle></math>."
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Work, Energy, and Power"
+  },
+  "topic": {
+    "code": "3.4",
+    "text": "3.4: Conservation of Energy"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

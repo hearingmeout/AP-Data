@@ -1,0 +1,28 @@
+{
+  "id": "AQK000005",
+  "type": "frq",
+  "title": "Paint surfaces - Data analysis with arrays FRQ",
+  "content": {
+    "description": "",
+    "question": "Complete method hasEnoughPaint. /** * Returns true if numGallons is enough to * paint all surfaces in surfaceArray and * returns false otherwise * Preconditions: numGallons > 0 * No elements of surfaceArray are null. * surfaceArray is not empty. * Postcondition: surfaceArray is unchanged. */ public boolean hasEnoughPaint(int numGallons)",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Complete method hasEnoughPaint. /** * Returns true if numGallons is enough to * paint all surfaces in surfaceArray and * returns false otherwise * Preconditions: numGallons > 0 * No elements of surfaceArray are null. * surfaceArray is not empty. * Postcondition: surfaceArray is unchanged. */ public boolean hasEnoughPaint(int numGallons)",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

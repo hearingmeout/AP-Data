@@ -1,0 +1,41 @@
+{
+  "id": "ZZJ000000",
+  "type": "mcq",
+  "title": "Sequences - re-indexing",
+  "content": {
+    "description": "",
+    "question": "​The general term of a sequence is given by <math alttext=\"a subscript n equals 51 plus 3 open parentheses n minus 10 close parentheses\"><semantics><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mn>51</mn><mo>+</mo><mn>3</mn><mfenced><mrow><mi>n</mi><mo>-</mo><mn>10</mn></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, where <math alttext=\"a subscript 0\"><semantics><msub><mi>a</mi><mn>0</mn></msub><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is the initial value. Which of the following expressions also gives the general term of the sequence?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"10 plus 3 open parentheses 51 minus n close parentheses\"><semantics><mrow><mn>10</mn><mo>+</mo><mn>3</mn><mfenced><mrow><mn>51</mn><mo>-</mo><mi>n</mi></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"17 plus 3 n\"><semantics><mrow><mn>17</mn><mo>+</mo><mn>3</mn><mi>n</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"21 plus 3 n\"><semantics><mrow><mn>21</mn><mo>+</mo><mn>3</mn><mi>n</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"51 times 3 to the power of open parentheses n minus 10 close parentheses end exponent\"><semantics><mrow><mn>51</mn><mo>·</mo><msup><mn>3</mn><mfenced><mrow><mi>n</mi><mo>-</mo><mn>10</mn></mrow></mfenced></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"21 plus 3 n\"><semantics><mrow><mn>21</mn><mo>+</mo><mn>3</mn><mi>n</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Change in Arithmetic and Geometric Sequences"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Express functions, equations, or expressions in analytically equivalent forms that are useful in a given mathematical or applied context."
+  }
+}

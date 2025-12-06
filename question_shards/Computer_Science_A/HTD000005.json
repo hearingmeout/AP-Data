@@ -1,0 +1,41 @@
+{
+  "id": "HTD000005",
+  "type": "mcq",
+  "title": "Song class - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following statements is true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "artist, title, and album are instances of the Song class.",
+        "image": null
+      },
+      {
+        "label": "happyBirthday is an instance of three String objects.",
+        "image": null
+      },
+      {
+        "label": "happyBirthday is an instance of the Song class.",
+        "image": null
+      },
+      {
+        "label": "Song is an instance of the happyBirthday object.",
+        "image": null
+      }
+    ],
+    "answer": "happyBirthday is an instance of the Song class."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.12",
+    "text": "1.12: Objects: Instances of Classes"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

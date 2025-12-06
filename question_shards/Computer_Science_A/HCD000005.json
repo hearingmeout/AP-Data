@@ -1,0 +1,41 @@
+{
+  "id": "HCD000005",
+  "type": "mcq",
+  "title": "Nested loops that print 6 - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following can be used to replace /* missing loop header */ so that the code segment prints 6?",
+    "image": null,
+    "choices": [
+      {
+        "label": "for (int y = 0; y <= 2; y++)",
+        "image": null
+      },
+      {
+        "label": "for (int y = 0; y < 3; y++)",
+        "image": null
+      },
+      {
+        "label": "for (int y = 3; y <= x; y++)",
+        "image": null
+      },
+      {
+        "label": "for (int y = 0; y < x; y++)",
+        "image": null
+      }
+    ],
+    "answer": "for (int y = 0; y < x; y++)"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.11",
+    "text": "2.11: Nested Iteration"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

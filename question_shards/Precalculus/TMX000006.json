@@ -1,0 +1,41 @@
+{
+  "id": "TMX000006",
+  "type": "mcq",
+  "title": "Vector-Valued Functions - position and velocity",
+  "content": {
+    "description": "",
+    "question": "The position of a particle moving in the <math alttext=\"x y\"><mi>x</mi><mi>y</mi></math>-plane at time <math alttext=\"t\"><mi>t</mi></math> seconds is given by the vector-valued function <math alttext=\"p\"><mi>p</mi></math> defined by <math alttext=\"p open parentheses t close parentheses equals open angle brackets x open parentheses t close parentheses comma y open parentheses t close parentheses close angle brackets\"><mi>p</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced close=\">\" open=\"<\"><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced></math>. The velocity of the particle is given by the vector-valued function <math alttext=\"v\"><mi>v</mi></math> defined by <math alttext=\"v open parentheses t close parentheses equals open angle brackets x open parentheses t close parentheses comma y open parentheses t close parentheses close angle brackets\"><mi>v</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced close=\">\" open=\"<\"><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced></math>. If <math alttext=\"p open parentheses 1 close parentheses equals open angle brackets negative 2 comma 4 close angle brackets\"><mi>p</mi><mfenced><mn>1</mn></mfenced><mo>=</mo><mfenced close=\">\" open=\"<\"><mrow><mo>-</mo><mn>2</mn><mo>,</mo><mn>4</mn></mrow></mfenced></math> and <math alttext=\"v open parentheses 1 close parentheses equals open angle brackets 3 comma negative 5 close angle brackets\"><mi>v</mi><mfenced><mn>1</mn></mfenced><mo>=</mo><mfenced close=\">\" open=\"<\"><mrow><mn>3</mn><mo>,</mo><mo>-</mo><mn>5</mn></mrow></mfenced></math>, which of the following is true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "At time <math alttext=\"t equals 1\"><mi>t</mi><mo>=</mo><mn>1</mn></math> second, the particle is moving right toward the <math alttext=\"y\"><mi>y</mi></math>-axis because the <math alttext=\"x\"><mi>x</mi></math>-component of position is negative and the <math alttext=\"x\"><mi>x</mi></math>-component of velocity is positive.",
+        "image": null
+      },
+      {
+        "label": "At time <math alttext=\"t equals 1\"><mi>t</mi><mo>=</mo><mn>1</mn></math> second, the particle is moving right toward the <math alttext=\"y\"><mi>y</mi></math>-axis because the <math alttext=\"x\"><mi>x</mi></math>-component of velocity is positive and the <math alttext=\"y\"><mi>y</mi></math>-component of velocity is negative.",
+        "image": null
+      },
+      {
+        "label": "At time <math alttext=\"t equals 1\"><mi>t</mi><mo>=</mo><mn>1</mn></math> second, the particle is moving left toward the <math alttext=\"y\"><mi>y</mi></math>-axis because the <math alttext=\"x\"><mi>x</mi></math>-component of position is negative and the <math alttext=\"x\"><mi>x</mi></math>-component of velocity is positive.",
+        "image": null
+      },
+      {
+        "label": "At time <math alttext=\"t equals 1\"><mi>t</mi><mo>=</mo><mn>1</mn></math> second, the particle is moving left toward the <math alttext=\"y\"><mi>y</mi></math>-axis because the <math alttext=\"x\"><mi>x</mi></math>-component of position is negative and the <math alttext=\"y\"><mi>y</mi></math>-component of velocity is negative.",
+        "image": null
+      }
+    ],
+    "answer": "At time <math alttext=\"t equals 1\"><mi>t</mi><mo>=</mo><mn>1</mn></math> second, the particle is moving right toward the <math alttext=\"y\"><mi>y</mi></math>-axis because the <math alttext=\"x\"><mi>x</mi></math>-component of position is negative and the <math alttext=\"x\"><mi>x</mi></math>-component of velocity is positive."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.9",
+    "text": "4.9: Vector-Valued Functions"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Support conclusions or choices with a logical rationale or appropriate data."
+  }
+}

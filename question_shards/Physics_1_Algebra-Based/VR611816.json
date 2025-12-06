@@ -1,0 +1,41 @@
+{
+  "id": "VR611816",
+  "type": "mcq",
+  "title": "1D kinematics-acceleration with no change in speed",
+  "content": {
+    "description": "",
+    "question": "A cart is moving along a straight track and has velocity <math alttext=\"positive 0.5 meter per second\" display=\"inline\" overflow=\"scroll\"><mo>+</mo><mn>0.5</mn><mspace width=\"0.2em\"></mspace><mtext>m/s</mtext></math> and positive acceleration at time <math alttext=\"1 second\" display=\"inline\" overflow=\"scroll\"><mn>1</mn><mspace width=\"0.2em\"></mspace><mtext>s</mtext></math>. At time <math alttext=\"3 seconds\" display=\"inline\" overflow=\"scroll\"><mn>3</mn><mspace width=\"0.2em\"></mspace><mtext>s</mtext></math>, the cart reaches a maximum speed. At time <math alttext=\"4 seconds\" display=\"inline\" overflow=\"scroll\"><mn>4</mn><mspace width=\"0.2em\"></mspace><mtext>s</mtext></math>, the cart again has velocity <math alttext=\"positive 0.5 meters per second\" display=\"inline\" overflow=\"scroll\"><mo>+</mo><mn>0.5</mn><mspace width=\"0.2em\"></mspace><mtext>m/s</mtext></math>, but with negative acceleration. A student claims that the average acceleration of the cart between time <math alttext=\"1 second\" display=\"inline\" overflow=\"scroll\"><mn>1</mn><mspace width=\"0.2em\"></mspace><mtext>s</mtext></math> and <math alttext=\"4 seconds\" display=\"inline\" overflow=\"scroll\"><mn>4</mn><mspace width=\"0.2em\"></mspace><mtext>s</mtext></math> time is zero. Is the student’s claim correct? Why or why not?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Yes, because the final velocity of the cart is equal to the initial velocity.",
+        "image": null
+      },
+      {
+        "label": "Yes, because the cart returns to its original position.",
+        "image": null
+      },
+      {
+        "label": "No, because the values of the acceleration at time <math alttext=\"1 second\" display=\"inline\" overflow=\"scroll\"><mn>1</mn><mspace width=\"0.2em\"></mspace><mtext>s</mtext></math> and time <math alttext=\"4 seconds\" display=\"inline\" overflow=\"scroll\"><mn>4</mn><mspace width=\"0.2em\"></mspace><mtext>s</mtext></math> are unknown.",
+        "image": null
+      },
+      {
+        "label": "No, because the cart spends more time with a positive acceleration than with a negative acceleration.",
+        "image": null
+      }
+    ],
+    "answer": "Yes, because the final velocity of the cart is equal to the initial velocity."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.2",
+    "text": "1.2: Displacement, Velocity, and Acceleration"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

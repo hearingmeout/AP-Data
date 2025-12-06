@@ -1,0 +1,41 @@
+{
+  "id": "FT659893",
+  "type": "mcq",
+  "title": "allEven with missing expression and loop body",
+  "content": {
+    "description": "Consider the following method. Method allEven is intended to return true if all elements in array arr are even numbers; otherwise, it should return false.",
+    "question": "public boolean allEven(int[] arr) { boolean isEven = /* expression */ ; for (int k = 0; k < arr.length; k++) { /* loop body */ } return isEven; } Which of the following replacements for /* expression */ and /* loop body */ should be used so that method allEven will work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "/* expression */ /* loop body */ false if ((arr[k] % 2) == 0) isEven = true;",
+        "image": null
+      },
+      {
+        "label": "/* expression */ /* loop body */ false if ((arr[k] % 2) != 0) isEven = false; else isEven = true;",
+        "image": null
+      },
+      {
+        "label": "/* expression */ /* loop body */ true if ((arr[k] % 2) != 0) isEven = false;",
+        "image": null
+      },
+      {
+        "label": "/* expression */ /* loop body */ true if ((arr[k] % 2) != 0) isEven = false; else isEven = true;",
+        "image": null
+      }
+    ],
+    "answer": "/* expression */ /* loop body */ true if ((arr[k] % 2) != 0) isEven = false;"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implementing Array Algorithms"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

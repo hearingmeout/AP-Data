@@ -1,0 +1,41 @@
+{
+  "id": "VR794265",
+  "type": "mcq",
+  "title": "Resistivity - varying resistivity in 10 m wire",
+  "content": {
+    "description": "",
+    "question": "A wire of length <math alttext=\"L equals 10 meters\" display=\"inline\" overflow=\"scroll\"><mi>L</mi><mo>=</mo><mn>10</mn><mspace width=\"0.2em\"></mspace><mi mathvariant=\"normal\">m</mi></math> and cross-sectional area <math alttext=\"A equals 1.0 millimeter squared\" display=\"inline\" overflow=\"scroll\"><mi>A</mi><mo>=</mo><mn>1.0</mn><mspace width=\"0.2em\"></mspace><msup><mi>mm</mi><mn>2</mn></msup></math> has a resistivity which varies over its length. The resistivity in the wire at a distance <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mi>x</mi></math> from one end is given by the equation <math alttext=\"rho of x equals, rho sub 0, end sub, times open parenthesis, 1 plus 2, times open parenthesis, the fraction x over L, close parenthesis, cubed, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mi>ρ</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msub><mi>ρ</mi><mn>0</mn></msub><mrow><mo>(</mo><mn>1</mn><mo>+</mo><mn>2</mn><msup><mrow><mo>(</mo><mfrac><mi>x</mi><mi>L</mi></mfrac><mo>)</mo></mrow><mn>3</mn></msup><mo>)</mo></mrow></math>, where <math alttext=\"rho sub 0, equals 0.80 microohm meter\" display=\"inline\" overflow=\"scroll\"><msub><mi>ρ</mi><mn>0</mn></msub><mo>=</mo><mn>0.80</mn><mspace width=\"0.2em\"></mspace><mi>μΩ</mi><mo lspace=\"0em\" rspace=\"0em\">·</mo><mtext>m</mtext></math>. What is the resistance of the wire?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"8 ohms\" display=\"inline\" overflow=\"scroll\"><mn>8</mn><mspace width=\"0.2em\"></mspace><mi mathvariant=\"normal\">Ω</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"12 ohms\" display=\"inline\" overflow=\"scroll\"><mn>12</mn><mspace width=\"0.2em\"></mspace><mi mathvariant=\"normal\">Ω</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"16 ohms\" display=\"inline\" overflow=\"scroll\"><mn>16</mn><mspace width=\"0.2em\"></mspace><mi mathvariant=\"normal\">Ω</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"24 ohms\" display=\"inline\" overflow=\"scroll\"><mn>24</mn><mspace width=\"0.2em\"></mspace><mi mathvariant=\"normal\">Ω</mi></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"12 ohms\" display=\"inline\" overflow=\"scroll\"><mn>12</mn><mspace width=\"0.2em\"></mspace><mi mathvariant=\"normal\">Ω</mi></math>"
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.3",
+    "text": "11.3: Resistance, Resistivity, and Ohm's Law"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Calculate or estimate an unknown quantity with units from known quantities, by selecting and following a logical computational pathway."
+  }
+}

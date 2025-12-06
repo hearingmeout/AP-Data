@@ -1,0 +1,45 @@
+{
+  "id": "FT2045",
+  "type": "mcq",
+  "title": "Find where a tangent line has a particular slope",
+  "content": {
+    "description": "",
+    "question": "The function f is defined by <math> <mrow> <mi>f</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mfrac> <mi>x</mi> <mrow> <mi>x</mi> <mo>+</mo> <mn>2</mn> </mrow> </mfrac> </mrow> </math>. What points <math> <mrow> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>,</mo> <mi>y</mi> </mrow> <mo>)</mo> </mrow> </mrow> </math> on the graph of f have the property that the line tangent to f at <math> <mrow> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>,</mo> <mi>y</mi> </mrow> <mo>)</mo> </mrow> </mrow> </math> has slope <math> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> </mrow> </math>?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <mrow> <mrow> <mo>(</mo> <mrow> <mn>0</mn> <mo>,</mo> <mtext> </mtext> <mn>0</mn> </mrow> <mo>)</mo> </mrow> </mrow> </math> only",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mrow> <mo>(</mo> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mo>,</mo> <mtext> </mtext> <mfrac> <mn>1</mn> <mn>5</mn> </mfrac> </mrow> <mo>)</mo> </mrow> </mrow> </math> only",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mrow><mo>(</mo> <mrow> <mn>0</mn><mo>,</mo><mtext> </mtext><mn>0</mn></mrow> <mo>)</mo></mrow></mrow> </math> and <math> <mrow> <mrow> <mo>(</mo> <mrow> <mo>−</mo> <mn>4</mn> <mo>,</mo> <mtext> </mtext> <mn>2</mn> </mrow> <mo>)</mo> </mrow> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mrow> <mo>(</mo> <mrow> <mn>0</mn> <mo>,</mo> <mtext> </mtext> <mn>0</mn> </mrow> <mo>)</mo> </mrow> </mrow> </math> and <math> <mrow> <mrow> <mo>(</mo> <mrow> <mn>4</mn> <mo>,</mo> <mtext> </mtext> <mfrac> <mn>2</mn> <mn>3</mn> </mfrac> </mrow> <mo>)</mo> </mrow> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "There are no such points.",
+        "image": null
+      }
+    ],
+    "answer": "<math> <mrow> <mrow><mo>(</mo> <mrow> <mn>0</mn><mo>,</mo><mtext> </mtext><mn>0</mn></mrow> <mo>)</mo></mrow></mrow> </math> and <math> <mrow> <mrow> <mo>(</mo> <mrow> <mo>−</mo> <mn>4</mn> <mo>,</mo> <mtext> </mtext> <mn>2</mn> </mrow> <mo>)</mo> </mrow> </mrow> </math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Defining the Derivative of a Function and Using Derivative Notation"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

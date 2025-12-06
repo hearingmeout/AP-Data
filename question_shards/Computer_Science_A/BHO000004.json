@@ -1,0 +1,41 @@
+{
+  "id": "BHO000004",
+  "type": "mcq",
+  "title": "Compare points code segments - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following statements correctly compares the values printed by the two code segments?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The two code segments print the same value only when grade is below 80.",
+        "image": null
+      },
+      {
+        "label": "The two code segments print the same value only when grade is 90 or above.",
+        "image": null
+      },
+      {
+        "label": "Both code segments print the same value for all possible values of grade.",
+        "image": null
+      },
+      {
+        "label": "The two code segments print different values for all possible values of grade.",
+        "image": null
+      }
+    ],
+    "answer": "The two code segments print the same value only when grade is below 80."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Nested `if` Statements"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

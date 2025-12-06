@@ -1,0 +1,41 @@
+{
+  "id": "VR442186",
+  "type": "mcq",
+  "title": "for loop substring",
+  "content": {
+    "description": "Consider the following method.",
+    "question": "public static int what(String str, String check) { int num = -1; int len = check.length(); for (int k = 0; k + len <= str.length(); k++) { String a = str.substring(k, k + len); if (a.equals(check)) { num = k; } } return num; } Assume that check occurs at least once in str. Which of the following best describes the value returned by the what method?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The number of times the string check occurs in str",
+        "image": null
+      },
+      {
+        "label": "The index of the first occurrence of check inside str",
+        "image": null
+      },
+      {
+        "label": "The index of the last occurrence of check inside str",
+        "image": null
+      },
+      {
+        "label": "The number of substrings in str with the same length as check",
+        "image": null
+      }
+    ],
+    "answer": "The index of the last occurrence of check inside str"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

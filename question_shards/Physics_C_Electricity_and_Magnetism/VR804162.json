@@ -1,0 +1,41 @@
+{
+  "id": "VR804162",
+  "type": "mcq",
+  "title": "Kirchhoff loop - circuit part with R1 R2 emf1 emf2",
+  "content": {
+    "description": "",
+    "question": "The figure shows a portion of a circuit that includes two batteries and two resistors, as indicated. Which of the following equations expresses Kirchhoff’s loop rule for the portion of the circuit shown?",
+    "image": "https://ap.oly.st/images/c5d667258138d13e63f3a741e1997811.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"script uppercase E sub 1, end sub, plus script uppercase E sub 2, end sub, minus I sub 1, end sub, times R sub 1, end sub, minus I sub 2, end sub, times R sub 2, equals 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>Ɛ</mi><mn>1</mn></msub><mo>+</mo><msub><mi>Ɛ</mi><mn>2</mn></msub><mo>−</mo><msub><mi>I</mi><mn>1</mn></msub><msub><mi>R</mi><mn>1</mn></msub><mo>−</mo><msub><mi>I</mi><mn>2</mn></msub><msub><mi>R</mi><mn>2</mn></msub><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"script uppercase E sub 1, end sub, plus script uppercase E sub 2, end sub, minus I sub 1, end sub, times R sub 1, end sub, plus I sub 2, end sub, times R sub 2, equals 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>Ɛ</mi><mn>1</mn></msub><mo>+</mo><msub><mi>Ɛ</mi><mn>2</mn></msub><mo>−</mo><msub><mi>I</mi><mn>1</mn></msub><msub><mi>R</mi><mn>1</mn></msub><mo>+</mo><msub><mi>I</mi><mn>2</mn></msub><msub><mi>R</mi><mn>2</mn></msub><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"script uppercase E sub 1, end sub, minus script uppercase E sub 2, end sub, minus I sub 1, end sub, times R sub 1, end sub, minus I sub 2, end sub, times R sub 2, equals 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>Ɛ</mi><mn>1</mn></msub><mo>−</mo><msub><mi>Ɛ</mi><mn>2</mn></msub><mo>−</mo><msub><mi>I</mi><mn>1</mn></msub><msub><mi>R</mi><mn>1</mn></msub><mo>−</mo><msub><mi>I</mi><mn>2</mn></msub><msub><mi>R</mi><mn>2</mn></msub><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"script uppercase E sub 1, end sub, minus script uppercase E sub 2, end sub, minus I sub 1, end sub, times R sub 1, end sub, plus I sub 2, end sub, times R sub 2, equals 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>Ɛ</mi><mn>1</mn></msub><mo>−</mo><msub><mi>Ɛ</mi><mn>2</mn></msub><mo>−</mo><msub><mi>I</mi><mn>1</mn></msub><msub><mi>R</mi><mn>1</mn></msub><mo>+</mo><msub><mi>I</mi><mn>2</mn></msub><msub><mi>R</mi><mn>2</mn></msub><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"script uppercase E sub 1, end sub, minus script uppercase E sub 2, end sub, minus I sub 1, end sub, times R sub 1, end sub, plus I sub 2, end sub, times R sub 2, equals 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>Ɛ</mi><mn>1</mn></msub><mo>−</mo><msub><mi>Ɛ</mi><mn>2</mn></msub><mo>−</mo><msub><mi>I</mi><mn>1</mn></msub><msub><mi>R</mi><mn>1</mn></msub><mo>+</mo><msub><mi>I</mi><mn>2</mn></msub><msub><mi>R</mi><mn>2</mn></msub><mo>=</mo><mn>0</mn></math>"
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.6",
+    "text": "11.6: Kirchhoff's Loop Rule"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "FT1916",
+  "type": "mcq",
+  "title": "Estimate function values from derivatives",
+  "content": {
+    "description": "",
+    "question": "If <math> <semantics> <mrow> <msup> <mi>f</mi> <mo>′</mo> </msup> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>&gt;</mo> <mn>0</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbiqadAgagaqbamaabmaapaqaa8qacaWG4baacaGLOaGaayzkaaGaeyOpa4JaaGimaaaa@3E7A@</annotation> </semantics> </math> for all x, and <math> <semantics> <mrow> <msup> <mi>f</mi> <mo>″</mo> </msup> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>&lt;</mo> <mn>0</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbiqadAgagaGbamaabmaapaqaa8qacaWG4baacaGLOaGaayzkaaGaeyipaWJaaGimaaaa@3E77@</annotation> </semantics> </math> for all x, which of the following could be a table of values for f ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Table with two columns and four rows. The first title row is x and f(x). Second row is negative 1 and 4. Third row is 0 and 3. And fourth row is 1 and 1.",
+        "image": "https://ap.oly.st/images/e77fdb4653428b71380ea6d245963be8.png"
+      },
+      {
+        "label": "Table with two columns and four rows. The first title row is x and f(x). Second row is negative 1 and 4. Third row is 0 and 4. And fourth row is 1 and 4.",
+        "image": "https://ap.oly.st/images/344e6c06ff2118fb3f1aa7797b53def0.png"
+      },
+      {
+        "label": "Table with two columns and four rows. The first title row is x and f(x). Second row is negative 1 and 4. Third row is 0 and 5. And fourth row is 1 and 6.",
+        "image": "https://ap.oly.st/images/bb387dee4b0d0679f9f7841de4e53224.png"
+      },
+      {
+        "label": "Table with two columns and four rows. The first title row is x and f(x). Second row is negative 1 and 4. Third row is 0 and 5. And fourth row is 1 and 7.",
+        "image": "https://ap.oly.st/images/b59dd94d190ab5dd2b36628f606ad2ff.png"
+      },
+      {
+        "label": "Table with two columns and four rows. The first title row is x and f(x). Second row is negative 1 and 4. Third row is 0 and 6. And fourth row is 1 and 7.",
+        "image": "https://ap.oly.st/images/01a442af871816fc5ad38fd30701c0d1.png"
+      }
+    ],
+    "answer": "Table with two columns and four rows. The first title row is x and f(x). Second row is negative 1 and 4. Third row is 0 and 6. And fourth row is 1 and 7."
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.3",
+    "text": "5.3: Determining Intervals on Which a Function Is Increasing or Decreasing"
+  },
+  "skill": {
+    "code": "Skill 2.E",
+    "text": "Skill 2.E: Describe the relationships among different representations of functions and their derivatives."
+  }
+}

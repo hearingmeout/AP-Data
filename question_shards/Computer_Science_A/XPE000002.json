@@ -1,0 +1,41 @@
+{
+  "id": "XPE000002",
+  "type": "mcq",
+  "title": "Print cloudy and foggy - initial conditions",
+  "content": {
+    "description": "",
+    "question": "For which of the following values of mon and tue will the code segment print \"cloudy and foggy\"?",
+    "image": null,
+    "choices": [
+      {
+        "label": "montue\"cloudy today\"\"foggy tomorrow\"",
+        "image": null
+      },
+      {
+        "label": "montue\"cloudy today\"\"tomorrow foggy\"",
+        "image": null
+      },
+      {
+        "label": "montue\"today cloudy\"\"foggy tomorrow\"",
+        "image": null
+      },
+      {
+        "label": "montue\"today cloudy\"\"tomorrow foggy\"",
+        "image": null
+      }
+    ],
+    "answer": "montue\"cloudy today\"\"tomorrow foggy\""
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

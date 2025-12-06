@@ -1,0 +1,40 @@
+{
+  "id": "FT659350",
+  "type": "frq",
+  "title": "Water in a pool",
+  "content": {
+    "description": "",
+    "question": "The figure above shows an aboveground swimming pool in the shape of a cylinder with a radius of 12 feet and a height of 4 feet. The pool contains 1000 cubic feet of water at time t = 0. During the time interval <math> <semantics> <mrow> <mn>0</mn> <mtext>&nbsp;</mtext> <mo>≤</mo> <mtext>&nbsp;</mtext> <mi>t</mi> <mtext>&nbsp;</mtext> <mo>≤</mo> <mtext>&nbsp;12</mtext> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaGimaiaabccacqGHKjYOcaqGGaGaamiDaiaabccacqGHKjYOcaqGGaGaaeymaiaabkdaaaa@3F07@</annotation> </semantics> </math> hours, water is pumped into the pool at the rate P ( t ) cubic feet per hour. The table above gives values of P ( t ) for selected values of t . During the same time interval, water is leaking from the pool at the rate R ( t ) cubic feet per hour, where R ( t ) = 25e -0.05 t . (Note: The volume V of a cylinder with radius r and height h is given by V = <math> <semantics> <mi>π</mi> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaeqiWdahaaa@37B2@</annotation> </semantics> </math> r 2 h .) (a) Use a midpoint Riemann sum with three subintervals of equal length to approximate the total amount of water that was pumped into the pool during the time interval 0 ≤ t ≤ 12 hours. Show the computations that lead to your answer.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "The figure above shows an aboveground swimming pool in the shape of a cylinder with a radius of 12 feet and a height of 4 feet. The pool contains 1000 cubic feet of water at time t = 0. During the time interval <math> <semantics> <mrow> <mn>0</mn> <mtext>&nbsp;</mtext> <mo>≤</mo> <mtext>&nbsp;</mtext> <mi>t</mi> <mtext>&nbsp;</mtext> <mo>≤</mo> <mtext>&nbsp;12</mtext> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaGimaiaabccacqGHKjYOcaqGGaGaamiDaiaabccacqGHKjYOcaqGGaGaaeymaiaabkdaaaa@3F07@</annotation> </semantics> </math> hours, water is pumped into the pool at the rate P ( t ) cubic feet per hour. The table above gives values of P ( t ) for selected values of t . During the same time interval, water is leaking from the pool at the rate R ( t ) cubic feet per hour, where R ( t ) = 25e -0.05 t . (Note: The volume V of a cylinder with radius r and height h is given by V = <math> <semantics> <mi>π</mi> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaeqiWdahaaa@37B2@</annotation> </semantics> </math> r 2 h .) (a) Use a midpoint Riemann sum with three subintervals of equal length to approximate the total amount of water that was pumped into the pool during the time interval 0 ≤ t ≤ 12 hours. Show the computations that lead to your answer.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Calculus_BC/original.png"
+      },
+      {
+        "text": "(b) Calculate the total amount of water that leaked out of the pool during the time interval 0 ≤ t ≤ 12 hours.",
+        "image": null
+      },
+      {
+        "text": "(c) Use the results from parts (a) and (b) to approximate the volume of water in the pool at time t =12 hours. Round your answer to the nearest cubic foot.",
+        "image": null
+      },
+      {
+        "text": "(d) Find the rate at which the volume of water in the pool is increasing at time t = 8 hours. How fast is the water level in the pool rising at t = 8 hours? Indicate units of measure in both answers.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Contextual Applications of Differentiation"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Solving Related Rates Problems"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

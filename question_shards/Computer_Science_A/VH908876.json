@@ -1,0 +1,41 @@
+{
+  "id": "VH908876",
+  "type": "mcq",
+  "title": "Sequence of if statements",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "int x = 7;if (x < 7){x = 2 * x;}if (x % 3 == 1){x = x + 2;}System.out.print(3 * x);What is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "9",
+        "image": null
+      },
+      {
+        "label": "14",
+        "image": null
+      },
+      {
+        "label": "21",
+        "image": null
+      },
+      {
+        "label": "27",
+        "image": null
+      }
+    ],
+    "answer": "27"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: `if` Statements"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

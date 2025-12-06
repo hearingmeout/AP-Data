@@ -1,0 +1,37 @@
+{
+  "id": "VR167899",
+  "type": "mcq",
+  "title": "Test cases for grade assignment with nested if",
+  "content": {
+    "description": "A homework assignment consists of 10 questions. The assignment is graded as follows.",
+    "question": "Number of Correct Answers Grade 9–10 check plus 7–8 check Under 7 check minus Let numCorrect represent the number of correct answers for a particular student. The following code segment is intended to display the appropriate grade based on numCorrect. The code segment does not work as intended in all cases. For which of the following values of numCorrect does the code segment NOT display the intended grade? Select two answers.",
+    "image": "https://ap.oly.st/images/83d40e338e710c9466aa23f5dd0399a4.png",
+    "choices": [
+      {
+        "label": "9",
+        "image": null
+      },
+      {
+        "label": "8",
+        "image": null
+      },
+      {
+        "label": "7",
+        "image": null
+      },
+      {
+        "label": "6",
+        "image": null
+      }
+    ],
+    "answer": "8"
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Identifying and Correcting Errors"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Identify and correct errors in algorithms and programs, including error discovery through testing."
+  }
+}

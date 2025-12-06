@@ -1,0 +1,41 @@
+{
+  "id": "YQS000003",
+  "type": "mcq",
+  "title": "math expr with pos value - determine preconditions",
+  "content": {
+    "description": "",
+    "question": "Which of the following preconditions for the method is most appropriate to ensure that the value printed by the code segment is always greater than zero?",
+    "image": null,
+    "choices": [
+      {
+        "label": "/** * Preconditions: x is greater than zero. * y is not equal to zero. */",
+        "image": null
+      },
+      {
+        "label": "/** * Preconditions: x is not equal to zero. * y is greater than zero. */",
+        "image": null
+      },
+      {
+        "label": "/** * Preconditions: x is even and is not equal to zero. * y is not equal to zero. */",
+        "image": null
+      },
+      {
+        "label": "/** * Preconditions: x is not equal to zero. * y is even and is not equal to zero. */",
+        "image": null
+      }
+    ],
+    "answer": "/** * Preconditions: x is not equal to zero. * y is greater than zero. */"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

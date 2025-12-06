@@ -1,0 +1,41 @@
+{
+  "id": "XFH000005",
+  "type": "mcq",
+  "title": "quiz average - determine design",
+  "content": {
+    "description": "",
+    "question": "A student wants to create an algorithm to calculate the average (mean) of two quiz scores. Which of the following algorithms can be used to determine the correct average?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Step one:Add the two quiz scores.Step two:Multiply the result of step one by 2 to determine the average.",
+        "image": null
+      },
+      {
+        "label": "Step one:Add the two quiz scores.Step two:Divide the result of step one by 2 to determine the average.",
+        "image": null
+      },
+      {
+        "label": "Step one:Subtract the lower quiz score from the higher quiz score.Step two:Multiply the result of step one by 2 to determine the average.",
+        "image": null
+      },
+      {
+        "label": "Step one:Subtract the lower quiz score from the higher quiz score.Step two:Divide the result of step one by 2 to determine the average.",
+        "image": null
+      }
+    ],
+    "answer": "Step one:Add the two quiz scores.Step two:Divide the result of step one by 2 to determine the average."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.1",
+    "text": "1.1: Introduction to Algorithms, Programming, and Compilers"
+  },
+  "skill": {
+    "code": "1.A",
+    "text": "1.A: Determine an appropriate program design to solve a problem or accomplish a task."
+  }
+}

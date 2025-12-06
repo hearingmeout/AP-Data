@@ -1,0 +1,41 @@
+{
+  "id": "VH935373",
+  "type": "mcq",
+  "title": "comparison of array traversals",
+  "content": {
+    "description": "Consider the following two code segments.",
+    "question": "I.int[] arr = {1, 2, 3, 4, 5};for (int x = 0; x < arr.length; x++){System.out.print(arr[x + 3]);}II.int[] arr = {1, 2, 3, 4, 5};for (int x : arr){System.out.print(x + 3);}Which of the following best describes the behavior of code segment I and code segment II ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Both code segment I and code segment II will print 45678.",
+        "image": null
+      },
+      {
+        "label": "Code segment I will cause an ArrayIndexOutOfBoundsException and code segment II will print 45.",
+        "image": null
+      },
+      {
+        "label": "Code segment I will cause an ArrayIndexOutOfBoundsException and code segment II will print 45678.",
+        "image": null
+      },
+      {
+        "label": "Both code segment I and code segment II will cause an ArrayIndexOutOfBoundsException.",
+        "image": null
+      }
+    ],
+    "answer": "Code segment I will cause an ArrayIndexOutOfBoundsException and code segment II will print 45678."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Array Creation and Access"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

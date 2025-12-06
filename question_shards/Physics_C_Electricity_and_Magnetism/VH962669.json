@@ -1,0 +1,45 @@
+{
+  "id": "VH962669",
+  "type": "mcq",
+  "title": "Children tickets",
+  "content": {
+    "description": "A two-sample <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-test will be conducted to investigate whether the mean number of tickets sold for children each day is less at movie theater J than at movie theater K. From a random sample of 50 days at theater J, the average was 75 children tickets with standard deviation 12. From a random sample of 60 days at theater K, the average was 85 children tickets with standard deviation 14.",
+    "question": "Under the assumption that there is no difference in the population means (J minus K), which of the following is the appropriate test statistic for the test?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"t equals the square root of the fraction with numerator 75 minus 85, and denominator the fraction with numerator 12 squared and denominator 50, end fraction, plus the fraction with numerator 14 squared and denominator 60, end fraction, end root\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><msqrt><mrow><mfrac><mrow><mn>75</mn><mo>−</mo><mn>85</mn></mrow><mrow><mfrac><mrow><msup><mrow><mn>12</mn></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>50</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><msup><mrow><mn>14</mn></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>60</mn></mrow></mfrac></mrow></mfrac></mrow></msqrt></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"t equals the fraction with numerator 75 minus 85, and denominator the square root of the fraction with numerator 12 squared and denominator 50, end fraction, plus the fraction with numerator 14 squared and denominator 60, end fraction, end root\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mfrac><mrow><mn>75</mn><mo>−</mo><mn>85</mn></mrow><mrow><msqrt><mrow><mfrac><mrow><msup><mrow><mn>12</mn></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>50</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><msup><mrow><mn>14</mn></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>60</mn></mrow></mfrac></mrow></msqrt></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"t equals the fraction with numerator 75 minus 85, and denominator the square root of the fraction with numerator 12 and denominator 50, end fraction, plus the fraction with numerator 14 and denominator 60, end fraction, end root\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mfrac><mrow><mn>75</mn><mo>−</mo><mn>85</mn></mrow><mrow><msqrt><mrow><mfrac><mrow><mn>12</mn></mrow><mrow><mn>50</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>14</mn></mrow><mrow><mn>60</mn></mrow></mfrac></mrow></msqrt></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"t equals the fraction with numerator 75 minus 85, and denominator the square root of the fraction with numerator 12 squared plus 14 squared, and denominator 50 plus 60, end fraction, end root\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mfrac><mrow><mn>75</mn><mo>−</mo><mn>85</mn></mrow><mrow><msqrt><mrow><mfrac><mrow><msup><mrow><mn>12</mn></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mn>14</mn></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>50</mn><mo>+</mo><mn>60</mn></mrow></mfrac></mrow></msqrt></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"t equals the fraction with numerator 75 minus 85, and denominator the square root of the fraction with numerator 12 plus 14 , and denominator 50 plus 60, end fraction, end root\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mfrac><mrow><mn>75</mn><mo>−</mo><mn>85</mn></mrow><mrow><msqrt><mrow><mfrac><mrow><mn>12</mn><mo>+</mo><mn>14</mn></mrow><mrow><mn>50</mn><mo>+</mo><mn>60</mn></mrow></mfrac></mrow></msqrt></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"t equals the fraction with numerator 75 minus 85, and denominator the square root of the fraction with numerator 12 squared and denominator 50, end fraction, plus the fraction with numerator 14 squared and denominator 60, end fraction, end root\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mfrac><mrow><mn>75</mn><mo>−</mo><mn>85</mn></mrow><mrow><msqrt><mrow><mfrac><mrow><msup><mrow><mn>12</mn></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>50</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><msup><mrow><mn>14</mn></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>60</mn></mrow></mfrac></mrow></msqrt></mrow></mfrac></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.9",
+    "text": "7.9: Carrying Out a Test for the Difference of Two Population Means"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Calculate a test statistic and find a p-value, provided conditions for inference are met."
+  }
+}

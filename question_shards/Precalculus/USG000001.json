@@ -1,0 +1,41 @@
+{
+  "id": "USG000001",
+  "type": "mcq",
+  "title": "Modeling - Determine Function Model",
+  "content": {
+    "description": "",
+    "question": "The number of cells in a culture is known to double every <math alttext=\"5\"><mn>5</mn></math> hours. There are <math alttext=\"37\"><mn>37</mn></math> cells at time <math alttext=\"t equals 0\"><mi>t</mi><mo>=</mo><mn>0</mn></math> hours. Which of the following is an appropriate model for <math alttext=\"N open parentheses t close parentheses\"><mi>N</mi><mfenced><mi>t</mi></mfenced></math>, the number of cells in the culture at time <math alttext=\"t\"><mi>t</mi></math> hours?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"N open parentheses t close parentheses equals 37 plus 2 to the power of open parentheses t divided by 5 close parentheses end exponent\"><mi>N</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>37</mn><mo>+</mo><msup><mn>2</mn><mfenced><mrow><mi>t</mi><mo>/</mo><mn>5</mn></mrow></mfenced></msup></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"N open parentheses t close parentheses equals 37 plus 2 to the power of open parentheses 5 t close parentheses end exponent\"><mi>N</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>37</mn><mo>+</mo><msup><mn>2</mn><mfenced><mrow><mn>5</mn><mi>t</mi></mrow></mfenced></msup></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"N open parentheses t close parentheses equals 37 times 2 to the power of open parentheses t divided by 5 close parentheses end exponent\"><mi>N</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>37</mn><mo>·</mo><msup><mn>2</mn><mfenced><mrow><mi>t</mi><mo>/</mo><mn>5</mn></mrow></mfenced></msup></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"N open parentheses t close parentheses equals 37 times 2 to the power of open parentheses 5 t close parentheses end exponent\"><mi>N</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>37</mn><mo>·</mo><msup><mn>2</mn><mfenced><mrow><mn>5</mn><mi>t</mi></mrow></mfenced></msup></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"N open parentheses t close parentheses equals 37 times 2 to the power of open parentheses t divided by 5 close parentheses end exponent\"><mi>N</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>37</mn><mo>·</mo><msup><mn>2</mn><mfenced><mrow><mi>t</mi><mo>/</mo><mn>5</mn></mrow></mfenced></msup></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.5",
+    "text": "2.5: Exponential Function Context and Data Modeling"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

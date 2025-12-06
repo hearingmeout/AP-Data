@@ -1,0 +1,41 @@
+{
+  "id": "FT659892",
+  "type": "mcq",
+  "title": "Loop and print with conditionals and mod",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "int k = 0; while (k < 10) { System.out.print((k % 3) + \" \"); if ((k % 3) == 0) k = k + 2; else k++; } What is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "0 2 0 2 0 2",
+        "image": null
+      },
+      {
+        "label": "0 2 1 0 2 1 0",
+        "image": null
+      },
+      {
+        "label": "0 2 0 2 0 2 0",
+        "image": null
+      },
+      {
+        "label": "0 1 2 1 2 1 2",
+        "image": null
+      }
+    ],
+    "answer": "0 2 0 2 0 2 0"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: `if` Statements"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

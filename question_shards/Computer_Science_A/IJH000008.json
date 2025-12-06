@@ -1,0 +1,41 @@
+{
+  "id": "IJH000008",
+  "type": "mcq",
+  "title": "Calculate hotel stay cost - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following can be used to replace /* missing code */ so that the code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "if (numNights > 5) { totalCost *= 0.9; totalCost += (numNights * 25); }",
+        "image": null
+      },
+      {
+        "label": "if (numNights > 5) { totalCost *= 0.9; } totalCost += (numNights * 25);",
+        "image": null
+      },
+      {
+        "label": "totalCost += (numNights * 25); if (numNights > 5) { totalCost *= 0.9; }",
+        "image": null
+      },
+      {
+        "label": "totalCost += 25; if (numNights > 5) { totalCost *= 0.9; }",
+        "image": null
+      }
+    ],
+    "answer": "if (numNights > 5) { totalCost *= 0.9; } totalCost += (numNights * 25);"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: `if` Statements"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

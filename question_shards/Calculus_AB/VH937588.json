@@ -1,0 +1,41 @@
+{
+  "id": "VH937588",
+  "type": "mcq",
+  "title": "Justification - Integral Test",
+  "content": {
+    "description": "",
+    "question": "The integral test can be used to conclude that which of the following statements about the infinite series <math alttext=\"the sum, from n equals 2, to infinity, of, the fraction with numerator 1, and denominator n, times the natural log of n, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><munderover><mstyle displaystyle=\"true\" mathsize=\"140%\"><mrow><mo>∑</mo></mrow></mstyle><mrow><mi>n</mi><mo>=</mo><mn>2</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mfrac><mrow><mn>1</mn></mrow><mrow><mi>n</mi><mo>⁢</mo><mi>ln</mi><mo>⁡</mo><mi>n</mi></mrow></mfrac></mrow></mstyle></math> is true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The series converges, and the terms of the series have limit 0.",
+        "image": null
+      },
+      {
+        "label": "The series diverges, and the terms of the series have limit 0.",
+        "image": null
+      },
+      {
+        "label": "The series converges, and the terms of the series do not have limit 0.",
+        "image": null
+      },
+      {
+        "label": "The series diverges, and the terms of the series do not have limit 0.",
+        "image": null
+      }
+    ],
+    "answer": "The series diverges, and the terms of the series have limit 0."
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.4",
+    "text": "10.4: (BC ONLY) Integral Test for Convergence"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

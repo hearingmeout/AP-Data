@@ -1,0 +1,41 @@
+{
+  "id": "FT538040",
+  "type": "mcq",
+  "title": "ArrayList methods with animals",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "What is printed as a result of executing the code segment?",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/c90fbc84f376a556f1c127c22be6ad68.jpg",
+    "choices": [
+      {
+        "label": "[dog, fish, cat]",
+        "image": null
+      },
+      {
+        "label": "[dog, fish, lizard]",
+        "image": null
+      },
+      {
+        "label": "[dog, lizard, fish]",
+        "image": null
+      },
+      {
+        "label": "The code throws an ArrayIndexOutOfBoundsException exception.",
+        "image": null
+      }
+    ],
+    "answer": "[dog, fish, cat]"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

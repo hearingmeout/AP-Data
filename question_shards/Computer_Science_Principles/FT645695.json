@@ -1,0 +1,37 @@
+{
+  "id": "FT645695",
+  "type": "mcq",
+  "title": "Simulate spinner with three unequal sections",
+  "content": {
+    "description": "",
+    "question": "Which of the following can be used to replace so that the procedure correctly simulates the spinner?",
+    "image": "https://ap.oly.st/images/a30f9cc4aee60c639e6e0a9b78ddf49b.jpg",
+    "choices": [
+      {
+        "label": "The block code consists of 6 lines. Line 1: spin, left arrow, RANDOM begin block, 1 comma 3, end block Begin block Line 2: IF, begin block, spin equals 1, end block Begin block Line 3, indented 1 tab: RETURN, begin block, quotation mark, Red, quotation mark, end block End block End block Begin block Line 4: IF, begin block, spin equals 2, end block Begin block Line 5, indented 1 tab: RETURN, begin block, quotation mark, Yellow, quotation mark, end block End block End block Line 6: RETURN, begin block, quotation mark, Blue, quotation mark, end block",
+        "image": "https://ap.oly.st/images/96186809bac44cee3967c5484354ee42.jpg"
+      },
+      {
+        "label": "The block code consists of 6 lines. Line 1: spin, left arrow, RANDOM begin block, 1 comma 3, end block Begin block Line 2: IF, begin block, spin equals 1, end block Begin block Line 3, indented 1 tab: RETURN, begin block, quotation mark, Yellow, quotation mark, end block End block End block Begin block Line 4: IF, begin block, spin equals 2, end block Begin block Line 5, indented 1 tab: RETURN, begin block, quotation mark, Blue, quotation mark, end block End block End block Line 6: RETURN, begin block, quotation mark, Red, quotation mark, end block",
+        "image": "https://ap.oly.st/images/ece0733d2380d5af262e15f7427c59f3.jpg"
+      },
+      {
+        "label": "The block code consists of 6 lines. Line 1: spin, left arrow, RANDOM begin block, 1 comma 6, end block Begin block Line 2: IF, begin block, spin equals 1, end block Begin block Line 3, indented 1 tab: RETURN, begin block, quotation mark, Red, quotation mark, end block End block End block Begin block Line 4: IF, begin block, spin equals 2, end block Begin block Line 5, indented 1 tab: RETURN, begin block, quotation mark, Yellow, quotation mark, end block End block End block Line 6: RETURN, begin block, quotation mark, Blue, quotation mark, end block",
+        "image": "https://ap.oly.st/images/4186ea412c4e9b8992a50cbfe0c9a33d.jpg"
+      },
+      {
+        "label": "The block code consists of 6 lines. Line 1: spin, left arrow, RANDOM begin block, 1 comma 6, end block Begin block Line 2: IF, begin block, spin equals 1, end block Begin block Line 3, indented 1 tab: RETURN, begin block, quotation mark, Yellow, quotation mark, end block End block End block Begin block Line 4: IF, begin block, spin equals 2, end block Begin block Line 5, indented 1 tab: RETURN, begin block, quotation mark, Blue, quotation mark, end block End block End block Line 6: RETURN, begin block, quotation mark, Red, quotation mark, end block",
+        "image": "https://ap.oly.st/images/059b08ae3697494905a4e2d5dbf7edaa.jpg"
+      }
+    ],
+    "answer": "The block code consists of 6 lines. Line 1: spin, left arrow, RANDOM begin block, 1 comma 6, end block Begin block Line 2: IF, begin block, spin equals 1, end block Begin block Line 3, indented 1 tab: RETURN, begin block, quotation mark, Yellow, quotation mark, end block End block End block Begin block Line 4: IF, begin block, spin equals 2, end block Begin block Line 5, indented 1 tab: RETURN, begin block, quotation mark, Blue, quotation mark, end block End block End block Line 6: RETURN, begin block, quotation mark, Red, quotation mark, end block"
+  },
+  "topic": {
+    "code": "3.15",
+    "text": "3.15: Random Values"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

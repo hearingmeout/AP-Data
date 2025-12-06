@@ -1,0 +1,41 @@
+{
+  "id": "FT659869",
+  "type": "mcq",
+  "title": "int array swap",
+  "content": {
+    "description": "Assume that an array of integer values has been declared as follows and has been initialized.",
+    "question": "int[] arr = new int[10]; Which of the following code segments correctly interchanges the value of arr[0] and arr[5] ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "arr[0] = 5; arr[5] = 0;",
+        "image": null
+      },
+      {
+        "label": "arr[0] = arr[5]; arr[5] = arr[0];",
+        "image": null
+      },
+      {
+        "label": "int k = arr[5]; arr[0] = arr[5]; arr[5] = k;",
+        "image": null
+      },
+      {
+        "label": "int k = arr[0]; arr[0] = arr[5]; arr[5] = k;",
+        "image": null
+      }
+    ],
+    "answer": "int k = arr[0]; arr[0] = arr[5]; arr[5] = k;"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Array Creation and Access"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

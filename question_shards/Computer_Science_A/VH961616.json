@@ -1,0 +1,41 @@
+{
+  "id": "VH961616",
+  "type": "mcq",
+  "title": "error in removing 0s from numList",
+  "content": {
+    "description": "In the code segment below, myList is an ArrayList of integers. The code segment is intended to remove all elements with the value 0 from myList.",
+    "question": "int j = 0;while (j < myList.size()){if (myList.get(j) == 0){myList.remove(j);}j++;}The code segment does not always work as intended. For which of the following lists does the code segment NOT produce the correct result?",
+    "image": null,
+    "choices": [
+      {
+        "label": "{0, 1, 0, 2}",
+        "image": null
+      },
+      {
+        "label": "{1, 0, 0, 2}",
+        "image": null
+      },
+      {
+        "label": "{1, 2, 3, 0}",
+        "image": null
+      },
+      {
+        "label": "{1, 2, 3, 4}",
+        "image": null
+      }
+    ],
+    "answer": "{1, 0, 0, 2}"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.10",
+    "text": "4.10: Implementing `ArrayList` Algorithms"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "VR166087",
+  "type": "mcq",
+  "title": "Procedure most useful to check if word is in texts",
+  "content": {
+    "description": "",
+    "question": "Which of the following procedures would be most useful as part of a program to determine whether a word appears in two different text files?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A procedure getWords, which takes a positive integer n and a text file as input and returns the first n words in the text file.",
+        "image": null
+      },
+      {
+        "label": "A procedure isFound, which takes a word and a text file as input and returns true if the word appears in the text file",
+        "image": null
+      },
+      {
+        "label": "A procedure textMatch, which takes two text files as input and returns true if the two text files are identical.",
+        "image": null
+      },
+      {
+        "label": "A procedure sameSize, which takes two text files as input and returns true if the two text files contain the same number of words.",
+        "image": null
+      }
+    ],
+    "answer": "A procedure isFound, which takes a word and a text file as input and returns true if the word appears in the text file"
+  },
+  "topic": {
+    "code": "3.14",
+    "text": "3.14: Libraries"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VH949566",
+  "type": "mcq",
+  "title": "evaluate arithmetic expression",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "int a = 5;int b = 2;double c = 3.0;System.out.println(5 + a / b * c - 1);What is printed when the code segment is executed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "9.0",
+        "image": null
+      },
+      {
+        "label": "10.0",
+        "image": null
+      },
+      {
+        "label": "11.5",
+        "image": null
+      },
+      {
+        "label": "14.0",
+        "image": null
+      }
+    ],
+    "answer": "10.0"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

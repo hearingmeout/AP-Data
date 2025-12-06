@@ -1,0 +1,41 @@
+{
+  "id": "JIP000002",
+  "type": "mcq",
+  "title": "Matrix Transform Check - determine result",
+  "content": {
+    "description": "",
+    "question": "Which of the following represents the contents of changedMat after executing this code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "{{5, 6, 7, 8}, {5, 6, 7, 8}, {1, 2, 3, 4}, {1, 2, 3, 4}}",
+        "image": null
+      },
+      {
+        "label": "{{1, 2, 3, 4}, {5, 6, 7, 8}, {1, 2, 3, 4}, {5, 6, 7, 8}}",
+        "image": null
+      },
+      {
+        "label": "{{4, 3, 2, 1}, {4, 3, 2, 1}, {8, 7, 6, 5}, {8, 7, 6, 5}}",
+        "image": null
+      },
+      {
+        "label": "{{1, 2, 3, 4}, {1, 2, 3, 4}, {5, 6, 7, 8}, {5, 6, 7, 8}}",
+        "image": null
+      }
+    ],
+    "answer": "{{5, 6, 7, 8}, {5, 6, 7, 8}, {1, 2, 3, 4}, {1, 2, 3, 4}}"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.13",
+    "text": "4.13: Implementing 2D Array Algorithms"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VH903064",
+  "type": "mcq",
+  "title": "Justification - Infinite Limits",
+  "content": {
+    "description": "",
+    "question": "The function <math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> is defined by <math alttext=\"g of x, equals, the fraction with numerator the absolute value of x minus 5, end absolute value, and denominator x minus 5, end fraction, times the natural log of, open parenthesis, the fraction with numerator x plus 5, and denominator x squared, end fraction, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mfrac><mrow><mrow><mo>|</mo><mrow><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mo>|</mo></mrow></mrow><mrow><mi>x</mi><mo>−</mo><mn>5</mn></mrow></mfrac><mi>ln</mi><mrow><mo>(</mo><mrow><mfrac><mrow><mi>x</mi><mo>+</mo><mn>5</mn></mrow><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow><mo>)</mo></mrow></mrow></mstyle></math>. At what values of <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> does the graph of <math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> have a vertical asymptote?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"x equals negative 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mrow><mo>−</mo><mn>5</mn></mrow></mrow></mstyle></math> only",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"x equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>0</mn></mrow></mstyle></math> only",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"x equals negative 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mrow><mo>−</mo><mn>5</mn></mrow></mrow></mstyle></math> and <math alttext=\"x equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>0</mn></mrow></mstyle></math> only",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"x equals negative 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mrow><mo>−</mo><mn>5</mn></mrow></mrow></mstyle></math>, <math alttext=\"x equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>0</mn></mrow></mstyle></math>, and <math alttext=\"x equals 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>5</mn></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"x equals negative 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mrow><mo>−</mo><mn>5</mn></mrow></mrow></mstyle></math> and <math alttext=\"x equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>0</mn></mrow></mstyle></math> only"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.14",
+    "text": "1.14: Connecting Infinite Limits and Vertical Asymptotes"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

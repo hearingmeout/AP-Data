@@ -1,0 +1,41 @@
+{
+  "id": "VR802588",
+  "type": "mcq",
+  "title": "Magnetic field - small line segment of current",
+  "content": {
+    "description": "",
+    "question": "A long wire carries a current <math alttext=\"I\" display=\"inline\" overflow=\"scroll\"><mi>I</mi></math>, as shown in the figure. Point <math alttext=\"P\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">P</mi></math> is located a distance <math alttext=\"r\" display=\"inline\" overflow=\"scroll\"><mi>r</mi></math> from a small segment of the wire of length <math alttext=\"l\" display=\"inline\" overflow=\"scroll\"><mo>ℓ</mo></math>. The Point <math alttext=\"P\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">P</mi></math> on the positive <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mi>x</mi></math>-axis is a distance <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mi>x</mi></math> from the origin. What is the magnitude of the magnetic field at Point <math alttext=\"P\" display=\"inline\" overflow=\"scroll\"><mtext>P</mtext></math> due to this wire segment alone?",
+    "image": "https://ap.oly.st/images/fc3ed31effd5f663f4b4873d792b33b0.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"B equals the fraction with numerator mu sub 0, end sub, times I l, and denominator 4 pi r squared\" display=\"inline\" overflow=\"scroll\"><mi>B</mi><mo>=</mo><mfrac><mrow><msub><mi>μ</mi><mi>o</mi></msub><mi>I</mi><mo>ℓ</mo></mrow><mrow><mn>4</mn><mi>π</mi><msup><mi>r</mi><mn>2</mn></msup></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"B equals the fraction with numerator mu sub 0, end sub, times I l x, and denominator 4 pi r cubed\" display=\"inline\" overflow=\"scroll\"><mi>B</mi><mo>=</mo><mfrac><mrow><msub><mi>μ</mi><mi>o</mi></msub><mi>I</mi><mo>ℓ</mo><mi>x</mi></mrow><mrow><mn>4</mn><mi>π</mi><msup><mi>r</mi><mn>3</mn></msup></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"B equals the fraction with numerator mu sub 0, end sub, times I l y, and denominator 4 pi r cubed\" display=\"inline\" overflow=\"scroll\"><mi>B</mi><mo>=</mo><mfrac><mrow><msub><mi>μ</mi><mi>o</mi></msub><mi>I</mi><mo>ℓ</mo><mi>y</mi></mrow><mrow><mn>4</mn><mi>π</mi><msup><mi>r</mi><mn>3</mn></msup></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"B equals the fraction with numerator mu sub 0, end sub, times I l, and denominator 4 pi r cubed\" display=\"inline\" overflow=\"scroll\"><mi>B</mi><mo>=</mo><mfrac><mrow><msub><mi>μ</mi><mi>o</mi></msub><mi>I</mi><mo>ℓ</mo></mrow><mrow><mn>4</mn><mi>π</mi><msup><mi>r</mi><mn>3</mn></msup></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"B equals the fraction with numerator mu sub 0, end sub, times I l x, and denominator 4 pi r cubed\" display=\"inline\" overflow=\"scroll\"><mi>B</mi><mo>=</mo><mfrac><mrow><msub><mi>μ</mi><mi>o</mi></msub><mi>I</mi><mo>ℓ</mo><mi>x</mi></mrow><mrow><mn>4</mn><mi>π</mi><msup><mi>r</mi><mn>3</mn></msup></mrow></mfrac></math>"
+  },
+  "unit": {
+    "code": "12",
+    "text": "12: Magnetic Fields and Electromagnetism"
+  },
+  "topic": {
+    "code": "12.3",
+    "text": "12.3: Magnetic Fields of Current-Carrying Wires and the Biot-Savart Law"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "FT659844",
+  "type": "mcq",
+  "title": "BoundedIntArray private instance variables",
+  "content": {
+    "description": "The following question is based on the following incomplete declaration of the class BoundedIntArray and its constructor definitions.",
+    "question": "A BoundedintArray represents an indexed list of integers. In a BoundedIntArray the user can specify a size, in which case the indices range from 0 to size - 1. The user can also specify the lowest index, low, in which case the indices can range from low to low + size - 1. public class BoundedIntArray { private int[] myItems; // storage for the list private int myLowIndex; // lowest index public BoundedIntArray(int size) { myItems = new int[size]; myLowIndex = 0; } public BoundedIntArray(int size, int low) { myItems = new int[size]; myLowIndex = low; } // other methods not shown } Which of the following is the best reason for declaring the data fields myItems and myLowIndex to be private rather than public?",
+    "image": null,
+    "choices": [
+      {
+        "label": "This permits BoundedIntArray objects to be initialized and modified.",
+        "image": null
+      },
+      {
+        "label": "This helps to prevent clients of the BoundedIntArray class from writing code that would need to be modified if the implementation of BoundedIntArray were changed.",
+        "image": null
+      },
+      {
+        "label": "This prevents compile-time errors whenever public methods are called that access the private data fields.",
+        "image": null
+      },
+      {
+        "label": "This prevents run-time errors whenever public methods are called that access the private data fields.",
+        "image": null
+      }
+    ],
+    "answer": "This helps to prevent clients of the BoundedIntArray class from writing code that would need to be modified if the implementation of BoundedIntArray were changed."
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Anatomy of a Class"
+  },
+  "skill": {
+    "code": "1.A",
+    "text": "1.A: Determine an appropriate program design to solve a problem or accomplish a task."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "JRO000001",
+  "type": "mcq",
+  "title": "traverse arr1 and minArray - fix error",
+  "content": {
+    "description": "",
+    "question": "Which of the following changes can be made so that the code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Changing the relational operator in line 3 to >",
+        "image": null
+      },
+      {
+        "label": "Removing lines 5 through 8",
+        "image": null
+      },
+      {
+        "label": "Swapping the positions of line 5 and line 9",
+        "image": null
+      },
+      {
+        "label": "Removing lines 7 through 10",
+        "image": null
+      }
+    ],
+    "answer": "Removing lines 5 through 8"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: `if` Statements"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

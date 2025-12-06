@@ -1,0 +1,41 @@
+{
+  "id": "VH907262",
+  "type": "mcq",
+  "title": "concat one two zee",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "int one = 1;int two = 2;String zee = \"Z\";System.out.println(one + two + zee);What is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "12Z",
+        "image": null
+      },
+      {
+        "label": "3Z",
+        "image": null
+      },
+      {
+        "label": "12zee",
+        "image": null
+      },
+      {
+        "label": "3zee",
+        "image": null
+      }
+    ],
+    "answer": "3Z"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

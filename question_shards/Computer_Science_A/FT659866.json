@@ -1,0 +1,41 @@
+{
+  "id": "FT659866",
+  "type": "mcq",
+  "title": "mystery with 2D int array, 2 int parameters",
+  "content": {
+    "description": "Consider the following data field and method.",
+    "question": "private int[][] mat; public int mystery(int r, int c) { if (r != 0 || c != 0) { return (mat[r][c] + mystery(r - 1, c - 1)); } else { return mat[r][c]; } } Assume that mat is the 2-D array shown below. 0 1 2 3 0 0 1 2 3 1 4 5 6 7 2 8 9 10 11 3 12 13 14 15 What value is returned as a result of the call mystery(2, 3)?",
+    "image": null,
+    "choices": [
+      {
+        "label": "11",
+        "image": null
+      },
+      {
+        "label": "17",
+        "image": null
+      },
+      {
+        "label": "18",
+        "image": null
+      },
+      {
+        "label": "No value is returned because mystery throws an ArrayIndexOutOfBoundsException.",
+        "image": null
+      }
+    ],
+    "answer": "No value is returned because mystery throws an ArrayIndexOutOfBoundsException."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.11",
+    "text": "4.11: 2D Array Creation and Access"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VMN000006",
+  "type": "mcq",
+  "title": "linearSearch method - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following describes how replacing line 3 with for (int j = (elements.size() - 1); j >= 0; j--) will affect the behavior of linearSearch?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The modification has no effect: the modified method will continue to return the index of the first appearance of the target value in the list, or -1 if the target value does not appear in the list.",
+        "image": null
+      },
+      {
+        "label": "The modified method will return the index of the last appearance of the target value in the list, or -1 if the target value does not appear in the list.",
+        "image": null
+      },
+      {
+        "label": "The modified method will throw an IndexOutOfBoundsException.",
+        "image": null
+      },
+      {
+        "label": "The modified method will return -1 regardless of the inputs.",
+        "image": null
+      }
+    ],
+    "answer": "The modified method will return the index of the last appearance of the target value in the list, or -1 if the target value does not appear in the list."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.10",
+    "text": "4.10: Implementing `ArrayList` Algorithms"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

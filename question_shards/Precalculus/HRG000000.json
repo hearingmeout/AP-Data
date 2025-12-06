@@ -1,0 +1,41 @@
+{
+  "id": "HRG000000",
+  "type": "mcq",
+  "title": "Logarithmic Expressions - new product sales",
+  "content": {
+    "description": "",
+    "question": "​The sales of a new product, in items per month, is modeled by the expression <math alttext=\"225 plus 500 log subscript 10 open parentheses 15 t plus 10 close parentheses\"><semantics><mrow><mn>225</mn><mo>+</mo><mn>500</mn><msub><mi>log</mi><mn>10</mn></msub><mfenced><mrow><mn>15</mn><mi>t</mi><mo>+</mo><mn>10</mn></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, where <math alttext=\"t\"><semantics><mi>t</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> represents the time since the product became available for purchase, in months. What is the number of items sold per month for time <math alttext=\"t equals 6\"><semantics><mrow><mi>t</mi><mo>=</mo><mn>6</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"725\"><semantics><mn>725</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"1225\"><semantics><mn>1225</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"1700\"><semantics><mn>1700</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"5225\"><semantics><mn>5225</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"1225\"><semantics><mn>1225</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.9",
+    "text": "2.9: Logarithmic Expressions"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Express functions, equations, or expressions in analytically equivalent forms that are useful in a given mathematical or applied context."
+  }
+}

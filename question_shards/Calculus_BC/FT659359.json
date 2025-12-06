@@ -1,0 +1,36 @@
+{
+  "id": "FT659359",
+  "type": "frq",
+  "title": "Analysis of piecewise-defined function",
+  "content": {
+    "description": "",
+    "question": "Let f be a function defined by <math> <semantics> <mrow> <mi>f</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mrow> <mo>{</mo> <mtable columnalign=\"left\"> <mtr> <mtd> <mtable> <mtr> <mtd> <mrow> <mn>1</mn> <mo>−</mo> <mn>2</mn> <mi>sin</mi> <mi>x</mi> </mrow> </mtd> <mtd> <mrow> <mtext>for&nbsp;</mtext> <mi>x</mi> <mo>≤</mo> <mn>0</mn> </mrow> </mtd> </mtr> </mtable> </mtd> </mtr> <mtr> <mtd> <mtable> <mtr> <mtd> <mrow> <msup> <mi>e</mi> <mrow> <mo>−</mo> <mn>4</mn> <mi>x</mi> </mrow> </msup> </mrow> </mtd> <mtd> <mrow> <mtext>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for&nbsp;</mtext> <mi>x</mi> <mo>&gt;</mo> <mn>0.</mn> </mrow> </mtd> </mtr> </mtable> </mtd> </mtr> </mtable> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaWGMbGaaiikaiaadIhacaGGPaGaeyypa0Zaaiqaaqaabeqaauaa beqabiaaaeaacaaIXaGaeyOeI0IaaGOmaiGacohacaGGPbGaaiOBai aadIhaaeaacaqGMbGaae4BaiaabkhacaqGGaGaamiEaiabgsMiJkaa icdaaaaabaqbaeqabeGaaaqaaiaadwgadaahaaWcbeqaaiabgkHiTi aaisdacaWG4baaaaGcbaGaaeiiaiaabccacaqGGaGaaeiiaiaabcca caqGGaGaaeiiaiaabccacaqGGaGaaeiiaiaabAgacaqGVbGaaeOCai aabccacaWG4bGaeyOpa4JaaGimaiaac6caaaaaaiaawUhaaaaa@59BB@ </annotation> </semantics> </math> (a) Show that f is continuous at x = 0.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Let f be a function defined by <math> <semantics> <mrow> <mi>f</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mrow> <mo>{</mo> <mtable columnalign=\"left\"> <mtr> <mtd> <mtable> <mtr> <mtd> <mrow> <mn>1</mn> <mo>−</mo> <mn>2</mn> <mi>sin</mi> <mi>x</mi> </mrow> </mtd> <mtd> <mrow> <mtext>for&nbsp;</mtext> <mi>x</mi> <mo>≤</mo> <mn>0</mn> </mrow> </mtd> </mtr> </mtable> </mtd> </mtr> <mtr> <mtd> <mtable> <mtr> <mtd> <mrow> <msup> <mi>e</mi> <mrow> <mo>−</mo> <mn>4</mn> <mi>x</mi> </mrow> </msup> </mrow> </mtd> <mtd> <mrow> <mtext>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for&nbsp;</mtext> <mi>x</mi> <mo>&gt;</mo> <mn>0.</mn> </mrow> </mtd> </mtr> </mtable> </mtd> </mtr> </mtable> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaWGMbGaaiikaiaadIhacaGGPaGaeyypa0Zaaiqaaqaabeqaauaa beqabiaaaeaacaaIXaGaeyOeI0IaaGOmaiGacohacaGGPbGaaiOBai aadIhaaeaacaqGMbGaae4BaiaabkhacaqGGaGaamiEaiabgsMiJkaa icdaaaaabaqbaeqabeGaaaqaaiaadwgadaahaaWcbeqaaiabgkHiTi aaisdacaWG4baaaaGcbaGaaeiiaiaabccacaqGGaGaaeiiaiaabcca caqGGaGaaeiiaiaabccacaqGGaGaaeiiaiaabAgacaqGVbGaaeOCai aabccacaWG4bGaeyOpa4JaaGimaiaac6caaaaaaiaawUhaaaaa@59BB@ </annotation> </semantics> </math> (a) Show that f is continuous at x = 0.",
+        "image": null
+      },
+      {
+        "text": "(b) For x ≠ 0, express f'(x) as a piecewise-defined function. Find the value of x for which f'(x) = -3.",
+        "image": null
+      },
+      {
+        "text": "(c) Find the average value of f on the interval [-1, 1].",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: Defining Continuity at a Point"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

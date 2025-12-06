@@ -1,0 +1,41 @@
+{
+  "id": "VR188304",
+  "type": "mcq",
+  "title": "Sum potential differences around loop",
+  "content": {
+    "description": "",
+    "question": "The current in the circuit shown above is <math alttext=\"I\" overflow=\"scroll\"><mstyle><mrow><mi>I</mi></mrow></mstyle></math>. Which of the following correctly expresses the sum of the electric potential differences around the loop?",
+    "image": "https://ap.oly.st/images/5f0ec20a0973153785f9a5ffad8a1cc9.png",
+    "choices": [
+      {
+        "label": "<math alttext=\"negative script E sub 1, plus script E sub 2, plus I R sub 1, minus I R sub 2, equals 0\" overflow=\"scroll\"><msub><mrow><mo>−</mo><mi>Ɛ</mi></mrow><mn>1</mn></msub><mo>+</mo><msub><mi>Ɛ</mi><mn>2</mn></msub><mo>+</mo><msub><mrow><mi>I</mi><mi>R</mi></mrow><mn>1</mn></msub><mo>−</mo><msub><mrow><mi>I</mi><mi>R</mi></mrow><mn>2</mn></msub><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"negative script E sub 1, minus script E sub 2, minus I R sub 1, plus I R sub 2, equals 0\" overflow=\"scroll\"><msub><mrow><mo>−</mo><mi>Ɛ</mi></mrow><mn>1</mn></msub><mo>−</mo><msub><mi>Ɛ</mi><mn>2</mn></msub><mo>−</mo><msub><mrow><mi>I</mi><mi>R</mi></mrow><mn>1</mn></msub><mo>+</mo><msub><mrow><mi>I</mi><mi>R</mi></mrow><mn>2</mn></msub><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"script E sub 1, plus script E sub 2, minus I R sub 1, minus I R sub 2, equals 0\" overflow=\"scroll\"><msub><mi>Ɛ</mi><mn>1</mn></msub><mo>+</mo><msub><mi>Ɛ</mi><mn>2</mn></msub><mo>-</mo><mi>I</mi><msub><mi>R</mi><mn>1</mn></msub><mo>-</mo><mi>I</mi><msub><mi>R</mi><mn>2</mn></msub><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"script E sub 1, minus script E sub 2, minus I R sub 1, minus I R sub 2, equals 0\" overflow=\"scroll\"><msub><mi>Ɛ</mi><mn>1</mn></msub><mo>-</mo><msub><mi>Ɛ</mi><mn>2</mn></msub><mo>-</mo><mi>I</mi><msub><mi>R</mi><mn>1</mn></msub><mo>-</mo><mi>I</mi><msub><mi>R</mi><mn>2</mn></msub><mo>=</mo><mn>0</mn></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"script E sub 1, minus script E sub 2, minus I R sub 1, minus I R sub 2, equals 0\" overflow=\"scroll\"><msub><mi>Ɛ</mi><mn>1</mn></msub><mo>-</mo><msub><mi>Ɛ</mi><mn>2</mn></msub><mo>-</mo><mi>I</mi><msub><mi>R</mi><mn>1</mn></msub><mo>-</mo><mi>I</mi><msub><mi>R</mi><mn>2</mn></msub><mo>=</mo><mn>0</mn></math>"
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.3",
+    "text": "11.3: Resistance, Resistivity, and Ohm's Law"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

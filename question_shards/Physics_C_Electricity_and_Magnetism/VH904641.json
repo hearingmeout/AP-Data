@@ -1,0 +1,45 @@
+{
+  "id": "VH904641",
+  "type": "mcq",
+  "title": "RC Circuit with Data",
+  "content": {
+    "description": "A <math alttext=\"9 volt\" overflow=\"scroll\"><mstyle><mrow><mn>9</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.30em\"></mspace><mtext>V</mtext></mrow></mstyle></math> battery, a resistor, and a capacitor are connected in series as shown above. The values of the resistance and capacitance are not known. The switch is closed at time <math alttext=\"t equals 0\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>0</mn></mrow></mstyle></math>. The current is measured for a few seconds, and the data are recorded in the chart below. Which of the following claims is supported by the data?",
+    "question": "<math alttext=\"t, in seconds\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mrow><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.2em\"></mspace><mo>(</mo><mtext>s</mtext><mo>)</mo></mrow></mrow></mstyle></math> <math alttext=\"I, in amperes\" overflow=\"scroll\"><mstyle><mrow><mi>I</mi><mrow><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.2em\"></mspace><mo>(</mo><mtext>A</mtext><mo>)</mo></mrow></mrow></mstyle></math> <math alttext=\"0\" overflow=\"scroll\"><mstyle><mrow><mn>0</mn></mrow></mstyle></math> <math alttext=\"3\" overflow=\"scroll\"><mstyle><mrow><mn>3</mn></mrow></mstyle></math> <math alttext=\"1\" overflow=\"scroll\"><mstyle><mrow><mn>1</mn></mrow></mstyle></math> <math alttext=\"2\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn></mrow></mstyle></math> <math alttext=\"2\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn></mrow></mstyle></math> <math alttext=\"0.33\" overflow=\"scroll\"><mstyle><mrow><mn>0.33</mn></mrow></mstyle></math> <math alttext=\"3\" overflow=\"scroll\"><mstyle><mrow><mn>3</mn></mrow></mstyle></math> <math alttext=\"0\" overflow=\"scroll\"><mstyle><mrow><mn>0</mn></mrow></mstyle></math>",
+    "image": "https://ap.oly.st/images/2a69530f75bedf17556993bd40f945b1.png",
+    "choices": [
+      {
+        "label": "The capacitor is being charged, and the resistor has a resistance of <math alttext=\"3 ohms\" overflow=\"scroll\"><mstyle><mrow><mn>3</mn><mi mathvariant=\"normal\">Ω</mi></mrow></mstyle></math>.<math alttext=\"0\" overflow=\"scroll\"><mstyle><mrow><mn>0</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "The capacitor is being charged, and the resistor has a resistance of <math alttext=\"27 ohms\" overflow=\"scroll\"><mstyle><mrow><mn>27</mn><mi mathvariant=\"normal\">Ω</mi></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "The capacitor is being discharged, and the resistor has a resistance of <math alttext=\"3 ohms\" overflow=\"scroll\"><mstyle><mrow><mn>3</mn><mi mathvariant=\"normal\">Ω</mi></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "The capacitor is being discharged, and the resistor has a resistance of <math alttext=\"27 ohms\" overflow=\"scroll\"><mstyle><mrow><mn>27</mn><mi mathvariant=\"normal\">Ω</mi></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "None of these claims can be made without knowing the capacitance of the capacitor.",
+        "image": null
+      }
+    ],
+    "answer": "The capacitor is being charged, and the resistor has a resistance of <math alttext=\"3 ohms\" overflow=\"scroll\"><mstyle><mrow><mn>3</mn><mi mathvariant=\"normal\">Ω</mi></mrow></mstyle></math>.<math alttext=\"0\" overflow=\"scroll\"><mstyle><mrow><mn>0</mn></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.8",
+    "text": "11.8: Resistor-Capacitor (RC) Circuits"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

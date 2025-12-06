@@ -1,0 +1,41 @@
+{
+  "id": "NXU000004",
+  "type": "mcq",
+  "title": "Password strength - algorithm design",
+  "content": {
+    "description": "",
+    "question": "Which of the following algorithms will correctly classify a password?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Step 1: If the password has fewer than 8 characters, label it as “weak” and skip Steps 2 and 3. Otherwise, go to Step 2. Step 2: If the password has more than 8 characters, label it as “medium” and skip Step 3. Otherwise, go to Step 3. Step 3: Label the password as “strong.”",
+        "image": null
+      },
+      {
+        "label": "Step 1: If the password has fewer than 8 characters, label it as “weak” and skip Steps 2 and 3. Otherwise, go to Step 2. Step 2: If the password contains at least one special character, label it as “strong” and skip Step 3. Otherwise, go to Step 3. Step 3: Label the password as “medium.”",
+        "image": null
+      },
+      {
+        "label": "Step 1: If the password has 8 or more characters, label it as “medium” and skip Steps 2 and 3. Otherwise, go to Step 2. Step 2: If the password has more than 8 characters and contains at least one special character, label it as “strong” and skip Step 3. Otherwise, go to Step 3. Step 3: Label the password as “weak.”",
+        "image": null
+      },
+      {
+        "label": "Step 1: If the password has 8 or more characters and contains at least one special character, label it as “strong” and skip Steps 2 and 3. Otherwise, go to Step 2. Step 2: If the password does not contain at least one special character, label it as “medium” and skip Step 3. Otherwise, go to Step 3. Step 3: Label the password as “weak.”",
+        "image": null
+      }
+    ],
+    "answer": "Step 1: If the password has fewer than 8 characters, label it as “weak” and skip Steps 2 and 3. Otherwise, go to Step 2. Step 2: If the password contains at least one special character, label it as “strong” and skip Step 3. Otherwise, go to Step 3. Step 3: Label the password as “medium.”"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Algorithms with Selection and Repetition"
+  },
+  "skill": {
+    "code": "1.A",
+    "text": "1.A: Determine an appropriate program design to solve a problem or accomplish a task."
+  }
+}

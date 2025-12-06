@@ -1,0 +1,41 @@
+{
+  "id": "FT659906",
+  "type": "mcq",
+  "title": "goAgain with String and int parameter",
+  "content": {
+    "description": "Consider the following method.",
+    "question": "public String goAgain(String str, int index) { if (index >= str.length()) return str; return str + goAgain(str.substring(index), index + 1); } What is printed as a result of executing the following statement? System.out.println(goAgain(\"today\", 1));",
+    "image": null,
+    "choices": [
+      {
+        "label": "todayto",
+        "image": null
+      },
+      {
+        "label": "todayoday",
+        "image": null
+      },
+      {
+        "label": "todayodayay",
+        "image": null
+      },
+      {
+        "label": "todayodaydayayy",
+        "image": null
+      }
+    ],
+    "answer": "todayodayay"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.16",
+    "text": "4.16: Recursion"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

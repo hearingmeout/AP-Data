@@ -1,0 +1,41 @@
+{
+  "id": "SGD000001",
+  "type": "mcq",
+  "title": "Statement using random numbers - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the behavior of the statement?",
+    "image": null,
+    "choices": [
+      {
+        "label": "It generates a random integer between 6 and 15, inclusive, and assigns it to r.",
+        "image": null
+      },
+      {
+        "label": "It generates a random integer between 6 and 16, inclusive, and assigns it to r.",
+        "image": null
+      },
+      {
+        "label": "It generates a random integer between 10 and 15, inclusive, and assigns it to r.",
+        "image": null
+      },
+      {
+        "label": "It generates a random integer between 10 and 16, inclusive, and assigns it to r.",
+        "image": null
+      }
+    ],
+    "answer": "It generates a random integer between 10 and 15, inclusive, and assigns it to r."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: `Math` Class"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

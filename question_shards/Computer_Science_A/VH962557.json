@@ -1,0 +1,41 @@
+{
+  "id": "VH962557",
+  "type": "mcq",
+  "title": "change to inCommon method",
+  "content": {
+    "description": "Consider the following method, inCommon, which takes two Integer ArrayList parameters. The method returns true if the same integer value appears in both lists at least one time, and false otherwise.",
+    "question": "public static boolean inCommon(ArrayList<Integer> a, ArrayList<Integer> b){for (int i = 0; i < a.size(); i++){for (int j = 0; j < b.size(); j++) // Line 5{if (a.get(i).equals(b.get(j))){return true;}}}return false;}Which of the following best explains the impact to the inCommon method when line 5 is replaced by for (int j = b.size() - 1; j > 0; j--) ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The change has no impact on the behavior of the method.",
+        "image": null
+      },
+      {
+        "label": "After the change, the method will never check the first element in list b.",
+        "image": null
+      },
+      {
+        "label": "After the change, the method will never check the last element in list b.",
+        "image": null
+      },
+      {
+        "label": "After the change, the method will never check the first and the last elements in list b.",
+        "image": null
+      }
+    ],
+    "answer": "After the change, the method will never check the first element in list b."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.14",
+    "text": "4.14: Searching Algorithms"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

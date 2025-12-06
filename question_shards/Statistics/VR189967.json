@@ -1,0 +1,45 @@
+{
+  "id": "VR189967",
+  "type": "mcq",
+  "title": "Tax Appraisal",
+  "content": {
+    "description": "A certain state law requires residential properties to receive an appraisal for tax purposes every six years. A random sample of <math alttext=\"25\" overflow=\"scroll\"><mstyle><mrow><mn>25</mn></mrow></mstyle></math> appraised properties was selected. The following scatterplot shows the value of the properties, in thousands of dollars, before and after the appraisal. Also shown is the least-squares regression line and corresponding computer output.",
+    "question": "Term Coef SE Coef <math alttext=\"T\" overflow=\"scroll\"><mstyle><mrow><mtext>T</mtext></mrow></mstyle></math>-Value <math alttext=\"P\" overflow=\"scroll\"><mstyle><mrow><mtext>P</mtext></mrow></mstyle></math>-Value Constant <math alttext=\"negative 3.817\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>3.817</mn></mrow></mrow></mstyle></math> <math alttext=\"1.23\" overflow=\"scroll\"><mstyle><mrow><mn>1.23</mn></mrow></mstyle></math> <math alttext=\"negative 0.60\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>0.60</mn></mrow></mrow></mstyle></math> <math alttext=\"0.5562\" overflow=\"scroll\"><mstyle><mrow><mn>0.5562</mn></mrow></mstyle></math> Old Property Value <math alttext=\"0.95597\" overflow=\"scroll\"><mstyle><mrow><mn>0.95597</mn></mrow></mstyle></math> <math alttext=\"0.02634\" overflow=\"scroll\"><mstyle><mrow><mn>0.02634</mn></mrow></mstyle></math> <math alttext=\"36.30\" overflow=\"scroll\"><mstyle><mrow><mn>36.30</mn></mrow></mstyle></math> <math alttext=\"less than 0.0001\" overflow=\"scroll\"><mstyle><mrow><mo>&lt;</mo><mn>0.0001</mn></mrow></mstyle></math> <math alttext=\"S equals 7.53867\" overflow=\"scroll\"><mstyle><mrow><mtext>S</mtext><mo>=</mo><mn>7.53867</mn></mrow></mstyle></math> <math alttext=\"R Square equals 98.28%\" overflow=\"scroll\"><mstyle><mrow><mtext>R-Sq</mtext><mo>=</mo><mn>98.28</mn><mo>%</mo></mrow></mstyle></math> <math alttext=\"R Square, adjusted, equals 98.21%\" overflow=\"scroll\"><mrow><mtext>R-Sq</mtext><mrow><mo>(</mo><mtext>a</mtext><mtext>d</mtext><mtext>j</mtext><mo>)</mo></mrow><mo>=</mo><mn>98.21</mn><mo>%</mo></mrow></math> Which of the following is not an appropriate description of the data in the sample?",
+    "image": "https://ap.oly.st/images/1344c639b2dd3bd838fe8d221bcefd31.png",
+    "choices": [
+      {
+        "label": "New property values tend to be greater than old property values.",
+        "image": null
+      },
+      {
+        "label": "As old property values increase, new property values tend to increase.",
+        "image": null
+      },
+      {
+        "label": "The relationship between old and new property value is strong and positive.",
+        "image": null
+      },
+      {
+        "label": "For each additional <math alttext=\"$1,000\" overflow=\"scroll\"><mstyle><mrow><mi>$</mi><mn>1</mn><mtext>,</mtext><mn>000</mn></mrow></mstyle></math> in old property value, the new property value increases by <math alttext=\"$955.97\" overflow=\"scroll\"><mstyle><mrow><mi>$</mi><mn>955.97</mn></mrow></mstyle></math>, on average.",
+        "image": null
+      },
+      {
+        "label": "The observed new property values typically deviate from the predicted new property values by about <math alttext=\"$7,539\" overflow=\"scroll\"><mstyle><mrow><mi>$</mi><mn>7</mn><mtext>,</mtext><mn>539</mn></mrow></mstyle></math>.",
+        "image": null
+      }
+    ],
+    "answer": "New property values tend to be greater than old property values."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Representing the Relationship Between Two Quantitative Variables"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Describe data presented numerically or graphically."
+  }
+}

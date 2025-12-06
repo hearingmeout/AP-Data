@@ -1,0 +1,41 @@
+{
+  "id": "VR796966",
+  "type": "mcq",
+  "title": "Inductor - LR circuit comparison",
+  "content": {
+    "description": "",
+    "question": "An inductor with inductance <math alttext=\"L\" display=\"inline\" overflow=\"scroll\"><mi>L</mi></math> is placed in series with a resistor of resistance <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math>, a battery of <math alttext=\"e m f\" display=\"inline\" overflow=\"scroll\"><mi>emf</mi></math> <math alttext=\"uppercase script E\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi></math>, and a switch that is initially open, as shown in the Circuit <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> diagram. The switch is closed at time <math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn></math>, and Circuit <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> reaches half of its steady-state current at <math alttext=\"t equals t sub 1\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><msub><mi>t</mi><mn>1</mn></msub></math>. Circuit <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> is constructed by adding a resistor of resistance <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math> in parallel with the original resistor, as shown in the Circuit <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> diagram. The switch is closed at time <math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn></math>, and Circuit <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> reaches half of its steady-state current at <math alttext=\"t equals t sub 2\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><msub><mi>t</mi><mn>2</mn></msub></math>. Which of the following correctly compares <math alttext=\"t sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>t</mi><mn>1</mn></msub></math> and <math alttext=\"t sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>t</mi><mn>2</mn></msub></math>, and provides a valid justification?",
+    "image": "https://ap.oly.st/images/023f7209cd863a167a746499fb5bcac9.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"t sub 2, equals t sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>t</mi><mn>2</mn></msub><mo>=</mo><msub><mi>t</mi><mn>1</mn></msub></math>, because the time for an <math alttext=\"R L\" display=\"inline\" overflow=\"scroll\"><mi>RL</mi></math> circuit to reach half of its steady-state current only depends on <math alttext=\"L\" display=\"inline\" overflow=\"scroll\"><mi>L</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"t sub 2, equals t sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>t</mi><mn>2</mn></msub><mo>=</mo><msub><mi>t</mi><mn>1</mn></msub></math>, because both the time constant and the steady-state current double in Circuit <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> compared to Circuit <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"t sub 2, is greater than t sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>t</mi><mn>2</mn></msub><mo>&gt;</mo><msub><mi>t</mi><mn>1</mn></msub></math>, because the equivalent resistance is greater in Circuit <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> than in Circuit <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>, so the time constant is greater in Circuit <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"t sub 2, is greater than t sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>t</mi><mn>2</mn></msub><mo>&gt;</mo><msub><mi>t</mi><mn>1</mn></msub></math>, because the equivalent resistance is less in Circuit <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> than in Circuit <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>, so the time constant is greater in Circuit <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"t sub 2, is greater than t sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mi>t</mi><mn>2</mn></msub><mo>&gt;</mo><msub><mi>t</mi><mn>1</mn></msub></math>, because the equivalent resistance is less in Circuit <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> than in Circuit <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>, so the time constant is greater in Circuit <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>"
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.5",
+    "text": "13.5: Circuits with Resistors and Inductors (LR Circuits)"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

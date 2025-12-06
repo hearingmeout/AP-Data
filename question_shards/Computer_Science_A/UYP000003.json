@@ -1,0 +1,41 @@
+{
+  "id": "UYP000003",
+  "type": "mcq",
+  "title": "add element to words ArrayList - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following can replace /* missing statement */ so that words contains [\"jump\", \"right\", \"laugh\", \"plan\"] after the code segment is executed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "words.add(2, \"laugh\");",
+        "image": null
+      },
+      {
+        "label": "words.add(3, \"laugh\");",
+        "image": null
+      },
+      {
+        "label": "words.set(2, \"laugh\");",
+        "image": null
+      },
+      {
+        "label": "words.set(3, \"laugh\");",
+        "image": null
+      }
+    ],
+    "answer": "words.add(2, \"laugh\");"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

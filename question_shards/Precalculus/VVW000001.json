@@ -1,0 +1,41 @@
+{
+  "id": "VVW000001",
+  "type": "mcq",
+  "title": "Parametrization - defining inverses",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"y equals f open parentheses x close parentheses\"><mi>y</mi><mo>=</mo><mi>f</mi><mfenced><mi>x</mi></mfenced></math> be an invertible function, where <math alttext=\"x\"><mi>x</mi></math> is any real number. The parametric functions <math alttext=\"g\"><mi>g</mi></math> and <math alttext=\"h\"><mi>h</mi></math> are inverses of each other and are defined for all <math alttext=\"t\"><mi>t</mi></math>. Which of the following could be <math alttext=\"g open parentheses t close parentheses\"><mi>g</mi><mfenced><mi>t</mi></mfenced></math> and <math alttext=\"h open parentheses t close parentheses\"><mi>h</mi><mfenced><mi>t</mi></mfenced></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"g open parentheses t close parentheses equals open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses equals open parentheses t comma f inverse open parentheses t close parentheses close parentheses\"><mi>g</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced><mo>=</mo><mfenced><mrow><mi>t</mi><mo>,</mo><msup><mi>f</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfenced><mi>t</mi></mfenced></mrow></mfenced></math> and <math alttext=\"h open parentheses t close parentheses equals open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses equals open parentheses f open parentheses t close parentheses comma f inverse to the power of negative 1 end exponent open parentheses t close parentheses close parentheses\"><mi>h</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced><mo>=</mo><mfenced><mrow><mi>f</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><msup><mi>f</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfenced><mi>t</mi></mfenced></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"g open parentheses t close parentheses equals open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses equals open parentheses f inverse open parentheses t close parentheses comma t close parentheses\"><mi>g</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced><mo>=</mo><mfenced><mrow><msup><mi>f</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>t</mi></mrow></mfenced></math> and <math alttext=\"h open parentheses t close parentheses equals open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses equals open parentheses f open parentheses t close parentheses comma f inverse to the power of negative 1 end exponent open parentheses t close parentheses close parentheses\"><mi>h</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced><mo>=</mo><mfenced><mrow><mi>f</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><msup><mi>f</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mfenced><mi>t</mi></mfenced></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"g open parentheses t close parentheses equals open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses equals open parentheses t comma t close parentheses\"><mi>g</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced><mo>=</mo><mfenced><mrow><mi>t</mi><mo>,</mo><mi>t</mi></mrow></mfenced></math> and <math alttext=\"h open parentheses t close parentheses equals open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses equals open parentheses f open parentheses t close parentheses comma f open parentheses t close parentheses close parentheses\"><mi>h</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced><mo>=</mo><mfenced><mrow><mi>f</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>f</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"g open parentheses t close parentheses equals open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses equals open parentheses t comma f open parentheses t close parentheses close parentheses\"><mi>g</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced><mo>=</mo><mfenced><mrow><mi>t</mi><mo>,</mo><mi>f</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced></math> and <math alttext=\"h open parentheses t close parentheses equals open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses equals open parentheses f open parentheses t close parentheses comma t close parentheses\"><mi>h</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced><mo>=</mo><mfenced><mrow><mi>f</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>t</mi></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"g open parentheses t close parentheses equals open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses equals open parentheses t comma f open parentheses t close parentheses close parentheses\"><mi>g</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced><mo>=</mo><mfenced><mrow><mi>t</mi><mo>,</mo><mi>f</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced></math> and <math alttext=\"h open parentheses t close parentheses equals open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses equals open parentheses f open parentheses t close parentheses comma t close parentheses\"><mi>h</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced><mo>=</mo><mfenced><mrow><mi>f</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>t</mi></mrow></mfenced></math>"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.7",
+    "text": "4.7: Parametrization of Implicitly Defined Functions"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Express functions, equations, or expressions in analytically equivalent forms that are useful in a given mathematical or applied context."
+  }
+}

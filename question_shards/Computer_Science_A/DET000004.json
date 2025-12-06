@@ -1,0 +1,41 @@
+{
+  "id": "DET000004",
+  "type": "mcq",
+  "title": "Passcode requirements - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following expressions will evaluate to true if pass is an acceptable passcode?",
+    "image": null,
+    "choices": [
+      {
+        "label": "pass >= 1000 || pass < 10000",
+        "image": null
+      },
+      {
+        "label": "pass > 1000 || pass <= 10000",
+        "image": null
+      },
+      {
+        "label": "pass >= 1000 && pass < 10000",
+        "image": null
+      },
+      {
+        "label": "pass > 1000 && pass < 10000",
+        "image": null
+      }
+    ],
+    "answer": "pass >= 1000 && pass < 10000"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.5",
+    "text": "2.5: Compound Boolean Expressions"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

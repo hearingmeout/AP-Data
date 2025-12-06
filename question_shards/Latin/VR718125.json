@@ -1,0 +1,41 @@
+{
+  "id": "VR718125",
+  "type": "mcq",
+  "title": "Rotational inertia rank - 3 disks different axes",
+  "content": {
+    "description": "",
+    "question": "The figure shows three uniform disks, each with the same mass <math alttext=\"m sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>m</mi><mn>0</mn></msub></math> but having different radii, that are each free to rotate about axes directed out of the plane of the figure. Disk <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mtext>X</mtext></math> has radius <math alttext=\"r sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>r</mi><mn>0</mn></msub></math> and is connected by a rod of negligible mass to a point on a rotation axis that is a distance <math alttext=\"3 r sub 0\" display=\"inline\" overflow=\"scroll\"><mn>3</mn><msub><mi>r</mi><mn>0</mn></msub></math> from the disk’s center. Disk <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mtext>Y</mtext></math> has radius <math alttext=\"2 r sub 0\" display=\"inline\" overflow=\"scroll\"><mn>2</mn><msub><mi>r</mi><mn>0</mn></msub></math> and can rotate about an axis at the top edge of the disk. Disk <math alttext=\"Z\" display=\"inline\" overflow=\"scroll\"><mtext>Z</mtext></math> has radius <math alttext=\"4 r sub 0\" display=\"inline\" overflow=\"scroll\"><mn>4</mn><msub><mi>r</mi><mn>0</mn></msub></math> and can rotate about an axis through its center. The rotational inertia about the center of mass for any uniform disk of mass <math alttext=\"m\" display=\"inline\" overflow=\"scroll\"><mi>m</mi></math> and radius <math alttext=\"r\" display=\"inline\" overflow=\"scroll\"><mi>r</mi></math> is <math alttext=\"I equals one half m r squared\" display=\"inline\" overflow=\"scroll\"><mi>I</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>m</mi><msup><mi>r</mi><mn>2</mn></msup></math>. Rank the disks’ rotational inertias <math alttext=\"I sub X\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mtext>X</mtext></msub></math>, <math alttext=\"I sub Y\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mtext>Y</mtext></msub></math>, and <math alttext=\"I sub Z\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mtext>Z</mtext></msub></math> about their respective rotation axes.",
+    "image": "https://ap.oly.st/images/c61d26275e221bc6700e57a13b157a29.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"I sub X is greater than I sub Y, which is greater than I sub Z\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>I</mi><mtext>X</mtext></msub><mo>&gt;</mo><msub><mi>I</mi><mtext>Y</mtext></msub><mo>&gt;</mo><msub><mi>I</mi><mtext>Z</mtext></msub></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"I sub X is greater than I sub Z, which is greater than I sub Y\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>I</mi><mtext>X</mtext></msub><mo>&gt;</mo><msub><mi>I</mi><mtext>Z</mtext></msub><mo>&gt;</mo><msub><mi>I</mi><mtext>Y</mtext></msub></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"I sub Z is greater than I sub X, which is greater than I sub Y\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>I</mi><mtext>Z</mtext></msub><mo>&gt;</mo><msub><mi>I</mi><mtext>X</mtext></msub><mo>&gt;</mo><msub><mi>I</mi><mtext>Y</mtext></msub></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"I sub Z is greater than I sub Y, which is greater than I sub X\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>I</mi><mtext>Z</mtext></msub><mo>&gt;</mo><msub><mi>I</mi><mtext>Y</mtext></msub><mo>&gt;</mo><msub><mi>I</mi><mtext>X</mtext></msub></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"I sub X is greater than I sub Z, which is greater than I sub Y\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>I</mi><mtext>X</mtext></msub><mo>&gt;</mo><msub><mi>I</mi><mtext>Z</mtext></msub><mo>&gt;</mo><msub><mi>I</mi><mtext>Y</mtext></msub></mstyle></math>"
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.4",
+    "text": "5.4: Rotational Inertia"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

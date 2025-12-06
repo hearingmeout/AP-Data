@@ -1,0 +1,52 @@
+{
+  "id": "VR598908",
+  "type": "frq",
+  "title": "Capacitor Circuit",
+  "content": {
+    "description": "",
+    "question": "Read each question carefully. Show all your work for each part of the question. The parts within the question may not have equal weight.The plates of a certain variable capacitor have an adjustable area. An experiment is performed to study the potential difference across the capacitor as it discharges through a resistor. A circuit is to be constructed with the following available equipment: a single ideal battery of potential difference <math alttext=\"delta V sub 0\" display=\"inline\" overflow=\"scroll\"><mtext>Δ</mtext><msub><mi>V</mi><mn>0</mn></msub></math>, a single voltmeter, a single resistor of resistance <math alttext=\"uppercase R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math>, a single uncharged variable capacitor set to capacitance <math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mi>C</mi></math>, and one or more switches as needed.(a) Using the symbols shown, draw a schematic diagram of a circuit that can charge the capacitor and may also be used to study the potential difference across the capacitor as it discharges through the resistor.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Read each question carefully. Show all your work for each part of the question. The parts within the question may not have equal weight.The plates of a certain variable capacitor have an adjustable area. An experiment is performed to study the potential difference across the capacitor as it discharges through a resistor. A circuit is to be constructed with the following available equipment: a single ideal battery of potential difference <math alttext=\"delta V sub 0\" display=\"inline\" overflow=\"scroll\"><mtext>Δ</mtext><msub><mi>V</mi><mn>0</mn></msub></math>, a single voltmeter, a single resistor of resistance <math alttext=\"uppercase R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math>, a single uncharged variable capacitor set to capacitance <math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mi>C</mi></math>, and one or more switches as needed.(a) Using the symbols shown, draw a schematic diagram of a circuit that can charge the capacitor and may also be used to study the potential difference across the capacitor as it discharges through the resistor.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_C_Electricity_and_Magnetism/VR598908.g17.svg"
+      },
+      {
+        "text": "The capacitor is fully charged by the battery. At time <math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn></math>, the capacitor starts discharging through the resistor.(b) Show that the potential difference <math alttext=\"delta V sub C\" display=\"inline\" overflow=\"scroll\"><mtext>Δ</mtext><msub><mi>V</mi><mi>C</mi></msub></math> across the capacitor as a function of time <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mi>t</mi></math> is <math alttext=\"delta V sub C, of t, equals, delta V sub 0, times e raised to the negative of the fraction t over uppercase R C, end fraction, power\" display=\"inline\" overflow=\"scroll\"><mtext>Δ</mtext><msub><mi>V</mi><mi>C</mi></msub><mfenced><mi>t</mi></mfenced><mo>=</mo><mtext>Δ</mtext><mspace width=\"-0.2em\"></mspace><msub><mi>V</mi><mn>0</mn></msub><msup><mi>e</mi><mrow><mo>-</mo><mstyle displaystyle=\"true\"><mfrac><mi>t</mi><mrow><mi>R</mi><mi>C</mi></mrow></mfrac></mstyle></mrow></msup></math> as the capacitor discharges.",
+        "image": null
+      },
+      {
+        "text": "(c) The experiment is performed using a resistor of <math alttext=\"uppercase R equals 150 kilo-ohms\" display=\"inline\" overflow=\"scroll\"><mi>R</mi><mo>=</mo><mn>150</mn><mo> </mo><mo> </mo><mi>kΩ</mi></math>. Data for the potential difference <math alttext=\"delta V sub C\" display=\"inline\" overflow=\"scroll\"><mspace width=\"-0.2em\"></mspace><mtext>Δ</mtext><msub><mi>V</mi><mi>C</mi></msub></math> across the capacitor as a function of <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math> are recorded and a plot of <math alttext=\"the natural log of the fraction with numerator delta V sub C, and denominator delta V sub 0\" display=\"inline\" overflow=\"scroll\"><mi>ln</mi><mo>⁡</mo><mrow><mo>(</mo><mfrac><mrow><mtext>Δ</mtext><msub><mi>V</mi><mi>C</mi></msub></mrow><mrow><mspace width=\"-0.2em\"></mspace><mtext>Δ</mtext><msub><mi>V</mi><mn>0</mn></msub></mrow></mfrac><mo>)</mo></mrow></math> as a function of <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math> is created on the graph below.i. Draw the best-fit line for the data.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_C_Electricity_and_Magnetism/VR598908.g18.svg"
+      },
+      {
+        "text": "ii. Using the best-fit line, calculate a value for the unknown capacitance <math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>C</mi></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "text": "(d) The capacitor is adjusted so that the surface area of the plates is increased, and the experiment is repeated. Would the slope of the best-fit line in the second experiment be more steep, less steep, or unchanged compared to the slope of the best-fit line in part (c)?___ More steep ___ Less steep ___ UnchangedBriefly justify your answer.",
+        "image": null
+      },
+      {
+        "text": "(e) The ideal battery is then replaced with a non-ideal battery with internal resistance <math alttext=\"lowercase r\" display=\"inline\" overflow=\"scroll\"><mi>r</mi></math>, and the experiment is repeated.i. Would the slope of the graph in this final experiment change compared to the graph in part (c)?___ Yes ___ NoBriefly justify your answer.",
+        "image": null
+      },
+      {
+        "text": "ii. Would the vertical intercept of the graph in this final experiment change compared to the graph in part (c)?___ Yes ___ NoBriefly justify your answer.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.8",
+    "text": "11.8: Resistor-Capacitor (RC) Circuits"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

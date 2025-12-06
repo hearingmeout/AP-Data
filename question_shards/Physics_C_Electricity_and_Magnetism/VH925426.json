@@ -1,0 +1,45 @@
+{
+  "id": "VH925426",
+  "type": "mcq",
+  "title": "Y is not normal",
+  "content": {
+    "description": "The mean and standard deviation of the sample data collected on continuous variable <math alttext=\"Y\"><mrow><mi>Y</mi></mrow></math> are <math alttext=\"negative 0.5\"><mstyle><mrow><mo>−</mo><mn>0.5</mn></mrow></mstyle></math> and 0.5, respectively. The following table shows the relative frequencies of the data in the given intervals.",
+    "question": "Interval Relative Frequency <math alttext=\"negative 2.0 is less than or equal to y, which is less than negative 1.5\"><mstyle><mrow><mrow><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"1em\"></mspace><mo>−</mo><mn>2.0</mn></mrow><mo>≤</mo><mi>y</mi><mo>&lt;</mo><mrow><mo>−</mo><mn>1.5</mn></mrow></mrow></mstyle></math> 0.25 <math alttext=\"negative 1.5 is less than or equal to y, which is less than negative 1.0\"><mstyle><mrow><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"1em\"></mspace><mrow><mo>−</mo><mn>1.5</mn><mo>≤</mo><mi>y</mi><mo>&lt;</mo><mrow><mo>−</mo><mn>1.0</mn></mrow></mrow></mrow></mstyle></math> 0.15 <math alttext=\"negative 1.0 is less than or equal to y, which is less than negative 0.5\"><mstyle><mrow><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"1em\"></mspace><mo>−</mo><mn>1.0</mn><mo>≤</mo><mi>y</mi><mo>&lt;</mo><mrow><mo>−</mo><mn>0.5</mn></mrow></mrow></mstyle></math> 0.10 <math alttext=\"negative 0.5 is less than or equal to y, which is less than 0\"><mstyle><mrow><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"1em\"></mspace><mo>−</mo><mn>0.5</mn><mo>≤</mo><mi>y</mi><mo>&lt;</mo><mrow><mn>0</mn></mrow></mrow></mstyle></math> 0.10 <math alttext=\"0 is less than or equal to y, which is less than 0.5\"><mstyle><mrow><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"1.5em\"></mspace><mn>0</mn><mo>≤</mo><mi>y</mi><mo>&lt;</mo><mn>0.5</mn></mrow></mstyle></math> 0.15 <math alttext=\"0.5 is less than or equal to y, which is equal to less than 1.0\"><mstyle><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.5em\"></mspace><mrow><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"1em\"></mspace><mrow><mn>0.5</mn><mo>≤</mo><mi>y</mi><mo>&lt;</mo><mn>1.0</mn></mrow></mrow></mstyle></math> 0.25 Based on the table, is it appropriate to use the normal model to approximate the population distribution?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Yes, because the sum of the relative frequencies is 1.00.",
+        "image": null
+      },
+      {
+        "label": "Yes, because the distribution of relative frequencies indicates a symmetric distribution.",
+        "image": null
+      },
+      {
+        "label": "No, because the value of 0 is not in the center of the distribution.",
+        "image": null
+      },
+      {
+        "label": "No, because the distribution of relative frequencies does not indicate a bell shape.",
+        "image": null
+      },
+      {
+        "label": "No, because the sample size and the population parameters are not known.",
+        "image": null
+      }
+    ],
+    "answer": "No, because the distribution of relative frequencies does not indicate a bell shape."
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Sampling Distributions"
+  },
+  "topic": {
+    "code": "5.2",
+    "text": "5.2: The Normal Distribution, Revisited"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Describe probability distributions."
+  }
+}

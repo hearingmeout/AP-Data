@@ -1,0 +1,41 @@
+{
+  "id": "NFE000001",
+  "type": "mcq",
+  "title": "Substrings of LMNOP",
+  "content": {
+    "description": "",
+    "question": "What is the value of str2 after executing this code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "\"OPN\"",
+        "image": null
+      },
+      {
+        "label": "\"OPNO\"",
+        "image": null
+      },
+      {
+        "label": "\"NOPM\"",
+        "image": null
+      },
+      {
+        "label": "\"NOPMN\"",
+        "image": null
+      }
+    ],
+    "answer": "\"OPN\""
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

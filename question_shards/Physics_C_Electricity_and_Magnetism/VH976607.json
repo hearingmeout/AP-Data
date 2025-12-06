@@ -1,0 +1,45 @@
+{
+  "id": "VH976607",
+  "type": "mcq",
+  "title": "Job distribution",
+  "content": {
+    "description": "A human resources manager selected a random sample of 200 workers who donate to charity. The following table shows the distribution of the 200 workers.",
+    "question": "Type of worker Count Management 96 Other white collar 50 Blue collar 54 The manager conducts a goodness-of-fit test to determine whether the proportions of workers of these types are identical to the population proportions of workers donating to charity, which are 50 percent for management, 30 percent for other white-collar workers, and 20 percent for blue-collar workers. Which of the following statements must be true about the sample?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The expected number of blue-collar workers donating to charity is less than 30.",
+        "image": null
+      },
+      {
+        "label": "The expected number of management workers donating to charity is 100.",
+        "image": null
+      },
+      {
+        "label": "The expected numbers of other white-collar and blue-collar workers donating to charity are the same.",
+        "image": null
+      },
+      {
+        "label": "The expected number of other white-collar workers donating to charity is 50.",
+        "image": null
+      },
+      {
+        "label": "The combined expected numbers of other white-collar and blue-collar workers donating to charity is greater than the expected number of management workers donating to charity.",
+        "image": null
+      }
+    ],
+    "answer": "The expected number of management workers donating to charity is 100."
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Inference for Categorical Data-Chi-Square"
+  },
+  "topic": {
+    "code": "8.2",
+    "text": "8.2: Setting up a Chi-Square Goodness of Fit Test"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Describe probability distributions."
+  }
+}

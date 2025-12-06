@@ -1,0 +1,41 @@
+{
+  "id": "VR442171",
+  "type": "mcq",
+  "title": "traverse values array",
+  "content": {
+    "description": "Consider the following method.",
+    "question": "public static void methodX(int[] values) { for (int j = 0; j < values.length - 1; j++) { for (int k = j + 1; k < values.length; k++) { if (values[k] < values[j]) { values[j] = values[k]; } } } } The following code segment appears in another method of the same class. int[] numbers = {45, 1, 56, 10}; methodX(numbers); Which of the following represents the contents of the array numbers after the code segment is executed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "{1, 1, 10, 10}",
+        "image": null
+      },
+      {
+        "label": "{1, 10, 45, 56}",
+        "image": null
+      },
+      {
+        "label": "{45, 1, 56, 10}",
+        "image": null
+      },
+      {
+        "label": "{45, 45, 56, 45}",
+        "image": null
+      }
+    ],
+    "answer": "{1, 1, 10, 10}"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.11",
+    "text": "2.11: Nested Iteration"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

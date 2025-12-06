@@ -1,0 +1,41 @@
+{
+  "id": "TDJ000002",
+  "type": "mcq",
+  "title": "Numbers printed in nested loops - determine result",
+  "content": {
+    "description": "",
+    "question": "What is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "1 1 1 1 2 2 2 3 3 4",
+        "image": null
+      },
+      {
+        "label": "1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4",
+        "image": null
+      },
+      {
+        "label": "1 2 3 4 2 3 4 3 4 4",
+        "image": null
+      },
+      {
+        "label": "1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4",
+        "image": null
+      }
+    ],
+    "answer": "1 2 3 4 2 3 4 3 4 4"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.11",
+    "text": "2.11: Nested Iteration"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

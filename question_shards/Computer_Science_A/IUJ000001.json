@@ -1,0 +1,41 @@
+{
+  "id": "IUJ000001",
+  "type": "mcq",
+  "title": "combined area of rectangles - determine design",
+  "content": {
+    "description": "",
+    "question": "A student wants to create an algorithm to calculate the combined total area of two rectangles. Which of the following algorithms can be used to perform this calculation?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Step 1:Multiply the length of the first rectangle by the length of the second rectangle.Step 2:Multiply the width of the first rectangle by the width of the second rectangle.Step 3:Add the result of step 1 to the result of step 2.",
+        "image": null
+      },
+      {
+        "label": "Step 1:Multiply the length of the first rectangle by the width of the first rectangle.Step 2:Multiply the length of the second rectangle by the width of the second rectangle.Step 3:Add the result of step 1 to the result of step 2.",
+        "image": null
+      },
+      {
+        "label": "Step 1:Add the length of the first rectangle to the width of the first rectangle.Step 2:Add the length of the second rectangle to the width of the second rectangle.Step 3:Multiply the result of step 1 by the result of step 2.",
+        "image": null
+      },
+      {
+        "label": "Step 1:Add the length of the first rectangle to the length of the second rectangle.Step 2:Add the width of the first rectangle to the width of the second rectangle.Step 3:Multiply the result of step 1 by the result of step 2.",
+        "image": null
+      }
+    ],
+    "answer": "Step 1:Multiply the length of the first rectangle by the width of the first rectangle.Step 2:Multiply the length of the second rectangle by the width of the second rectangle.Step 3:Add the result of step 1 to the result of step 2."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.1",
+    "text": "1.1: Introduction to Algorithms, Programming, and Compilers"
+  },
+  "skill": {
+    "code": "1.A",
+    "text": "1.A: Determine an appropriate program design to solve a problem or accomplish a task."
+  }
+}

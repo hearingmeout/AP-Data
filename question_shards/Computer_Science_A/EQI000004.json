@@ -1,0 +1,41 @@
+{
+  "id": "EQI000004",
+  "type": "mcq",
+  "title": "Using Wrapper Classes - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following statements will store the value 34.0 in the double variable value?",
+    "image": null,
+    "choices": [
+      {
+        "label": "double value = (double) \"34\";",
+        "image": null
+      },
+      {
+        "label": "double value = Double.parseDouble(\"34\");",
+        "image": null
+      },
+      {
+        "label": "double value = Integer.parseInt(\"34\") + \".0\";",
+        "image": null
+      },
+      {
+        "label": "double value = Double.parseDouble(\"34\") + \".0\";",
+        "image": null
+      }
+    ],
+    "answer": "double value = Double.parseDouble(\"34\");"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.7",
+    "text": "4.7: Wrapper Classes"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

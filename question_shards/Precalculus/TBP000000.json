@@ -1,0 +1,41 @@
+{
+  "id": "TBP000000",
+  "type": "mcq",
+  "title": "Composition - water ripples",
+  "content": {
+    "description": "",
+    "question": "A drop of water hits the surface of a lake and forms concentric circular ripples. The radius, in inches, of the circle enclosed by the outer ripple increases as a function of time <math alttext=\"t\"><semantics><mi>t</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, in minutes, and is modeled by the function <math alttext=\"r\"><semantics><mi>r</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> given by <math alttext=\"r open parentheses t close parentheses equals 25 square root of 2 t plus 1 end root\"><semantics><mrow><mi>r</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>25</mn><msqrt><mn>2</mn><mi>t</mi><mo>+</mo><mn>1</mn></msqrt></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. Which of the following gives the area of the circle enclosed by the outer ripple, in square inches, as a function of time <math alttext=\"t\"><semantics><mi>t</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, in minutes? (Note: The area of a circle with radius <math alttext=\"x\"><semantics><mi>x</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is given by <math alttext=\"A equals pi x squared\"><semantics><mrow><mi>A</mi><mo>=</mo><mi>π</mi><msup><mi>x</mi><mn>2</mn></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>.)",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"50 pi t plus 25 pi\"><semantics><mrow><mn>50</mn><mi>π</mi><mi>t</mi><mo>+</mo><mn>25</mn><mi>π</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"1250 pi t plus 625 pi\"><semantics><mrow><mn>1250</mn><mi>π</mi><mi>t</mi><mo>+</mo><mn>625</mn><mi>π</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"25 square root of 2 pi t squared plus 1 end root\"><semantics><mrow><mn>25</mn><msqrt><mn>2</mn><mi>π</mi><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn></msqrt></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"25 pi t squared square root of 2 t plus 1 end root\"><semantics><mrow><mn>25</mn><mi>π</mi><msup><mi>t</mi><mn>2</mn></msup><msqrt><mn>2</mn><mi>t</mi><mo>+</mo><mn>1</mn></msqrt></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"1250 pi t plus 625 pi\"><semantics><mrow><mn>1250</mn><mi>π</mi><mi>t</mi><mo>+</mo><mn>625</mn><mi>π</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.7",
+    "text": "2.7: Composition of Functions"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "BBZ000001",
+  "type": "mcq",
+  "title": "Polynomial Functions - Long Division",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"f\"><mi>f</mi></math> and <math alttext=\"g\"><mi>g</mi></math> be polynomial functions given by <math alttext=\"f open parentheses x close parentheses equals 3 x to the power of 4 plus 2 x squared minus 5 x plus 1\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>4</mn></msup><mo>+</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>1</mn></math> and <math alttext=\"g open parentheses x close parentheses equals x squared plus x plus 1\"><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi><mo>+</mo><mn>1</mn></math>. What is the remainder when <math alttext=\"f\"><mi>f</mi></math> is divided by <math alttext=\"g\"><mi>g</mi></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"negative 4 x\"><mo>-</mo><mn>4</mn><mi>x</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"3\"><mn>3</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"negative 4 x minus 1\"><mo>-</mo><mn>4</mn><mi>x</mi><mo>-</mo><mn>1</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"6 x plus 9\"><mn>6</mn><mi>x</mi><mo>+</mo><mn>9</mn></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"negative 4 x minus 1\"><mo>-</mo><mn>4</mn><mi>x</mi><mo>-</mo><mn>1</mn></math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Polynomial and Rational Functions"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: Equivalent Representations of Polynomial and Rational Expressions"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Express functions, equations, or expressions in analytically equivalent forms that are useful in a given mathematical or applied context."
+  }
+}

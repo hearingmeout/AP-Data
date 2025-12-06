@@ -1,0 +1,41 @@
+{
+  "id": "VH928382",
+  "type": "mcq",
+  "title": "for loops that produce the same output",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "int count = 0;for (int k = 0; k < 10; k++){count++;}System.out.println(count);Which of the following code segments will produce the same output as the code segment above?",
+    "image": null,
+    "choices": [
+      {
+        "label": "int count = 0;for (int k = 1; k < 10; k++){count++;}System.out.println(count);",
+        "image": null
+      },
+      {
+        "label": "int count = 1;for (int k = 1; k <= 10; k++){count++;}System.out.println(count);",
+        "image": null
+      },
+      {
+        "label": "int count = 1;for (int k = 0; k <= 9; k++){count++;}System.out.println(count);",
+        "image": null
+      },
+      {
+        "label": "int count = 0;for (int k = 9; k >= 0; k--){count++;}System.out.println(count);",
+        "image": null
+      }
+    ],
+    "answer": "int count = 0;for (int k = 9; k >= 0; k--){count++;}System.out.println(count);"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.7",
+    "text": "2.7: `while` Loops"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

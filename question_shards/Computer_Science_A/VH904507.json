@@ -1,0 +1,41 @@
+{
+  "id": "VH904507",
+  "type": "mcq",
+  "title": "isLeapYear",
+  "content": {
+    "description": "The following method is intended to return true if and only if the parameter val is a multiple of 4 but is not a multiple of 100 unless it is also a multiple of 400. The method does not always work correctly.",
+    "question": "public boolean isLeapYear(int val){if ((val % 4) == 0){return true;}else{return (val % 400) == 0;}}Which of the following method calls will return an incorrect response?",
+    "image": null,
+    "choices": [
+      {
+        "label": "isLeapYear(1900)",
+        "image": null
+      },
+      {
+        "label": "isLeapYear(1984)",
+        "image": null
+      },
+      {
+        "label": "isLeapYear(2000)",
+        "image": null
+      },
+      {
+        "label": "isLeapYear(2001)",
+        "image": null
+      }
+    ],
+    "answer": "isLeapYear(1900)"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: `if` Statements"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

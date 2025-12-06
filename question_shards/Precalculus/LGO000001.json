@@ -1,0 +1,41 @@
+{
+  "id": "LGO000001",
+  "type": "mcq",
+  "title": "Matrix Determinant - calculating determinant",
+  "content": {
+    "description": "",
+    "question": "Which of the following is equivalent to <math alttext=\"d e t open parentheses, a 2 by 2 matrix with row 1 column 1 value 5, row 1 column 2 value negative 2, row 2 column 1 value 4, row 2 column 2 value 7, end matrix, close parentheses\"><mtext>det</mtext><mfenced><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>5</mn></mtd><mtd><mo>-</mo><mn>2</mn></mtd></mtr><mtr><mtd><mn>4</mn></mtd><mtd><mn>7</mn></mtd></mtr></mtable></mfenced></mfenced></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"negative 38\"><mo>-</mo><mn>38</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"27\"><mn>27</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"34\"><mn>34</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"43\"><mn>43</mn></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"43\"><mn>43</mn></math>"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.11",
+    "text": "4.11: The Inverse and Determinant of a Matrix"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Express functions, equations, or expressions in analytically equivalent forms that are useful in a given mathematical or applied context."
+  }
+}

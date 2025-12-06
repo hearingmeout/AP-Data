@@ -1,0 +1,41 @@
+{
+  "id": "GRQ000006",
+  "type": "mcq",
+  "title": "Words from Strings - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following expressions can be used to replace /* missing code */ so that the code segment prints the string \"pun\"?",
+    "image": null,
+    "choices": [
+      {
+        "label": "one.substring(3, 4) + two.substring(4, 4)",
+        "image": null
+      },
+      {
+        "label": "one.substring(3, 5) + two.substring(4, 5)",
+        "image": null
+      },
+      {
+        "label": "one.substring(4, 5) + two.substring(5, 5)",
+        "image": null
+      },
+      {
+        "label": "one.substring(4, 6) + two.substring(5, 6)",
+        "image": null
+      }
+    ],
+    "answer": "one.substring(3, 5) + two.substring(4, 5)"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: `String` Manipulation"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

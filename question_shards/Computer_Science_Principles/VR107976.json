@@ -1,0 +1,37 @@
+{
+  "id": "VR107976",
+  "type": "mcq",
+  "title": "Minimize execution time using parallel processing",
+  "content": {
+    "description": "",
+    "question": "Which of the following parallel computing solutions would minimize the amount of time it takes to execute all four processes?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Running processes P and Q on one processor and processes R and S on the other processor",
+        "image": null
+      },
+      {
+        "label": "Running processes P and R on one processor and processes Q and S on the other processor",
+        "image": null
+      },
+      {
+        "label": "Running processes P and S on one processor and processes Q and R on the other processor",
+        "image": null
+      },
+      {
+        "label": "Running process P on one processor and processes Q, R, and S on the other processor",
+        "image": null
+      }
+    ],
+    "answer": "Running processes P and Q on one processor and processes R and S on the other processor"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Parallel and Distributed Computing"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

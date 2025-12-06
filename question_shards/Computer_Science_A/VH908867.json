@@ -1,0 +1,41 @@
+{
+  "id": "VH908867",
+  "type": "mcq",
+  "title": "Thing methods talk name greet",
+  "content": {
+    "description": "Consider the following class definition.",
+    "question": "public class Thing{public void talk(){System.out.print(\"Hello \");} public void name(){System.out.print(\"my friend\");} public void greet(){talk();name();}/* Constructors not shown */}Which of the following code segments, if located in a method in a class other than Thing, will cause the message \"Hello my friend\" to be printed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Thing a = new Thing(); Thing.talk();Thing.name();",
+        "image": null
+      },
+      {
+        "label": "Thing a = new Thing(); Thing.greet();",
+        "image": null
+      },
+      {
+        "label": "Thing a = new Thing(); a.greet();",
+        "image": null
+      },
+      {
+        "label": "Thing a = new Thing(); a.name(); a.talk();",
+        "image": null
+      }
+    ],
+    "answer": "Thing a = new Thing(); a.greet();"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.10",
+    "text": "1.10: Calling Class Methods"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

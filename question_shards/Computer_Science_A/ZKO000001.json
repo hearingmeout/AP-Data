@@ -1,0 +1,41 @@
+{
+  "id": "ZKO000001",
+  "type": "mcq",
+  "title": "create ArrayList object - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following can be used to replace /* missing code */ so that the statement works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "new Thing();",
+        "image": null
+      },
+      {
+        "label": "new ArrayList<Thing>();",
+        "image": null
+      },
+      {
+        "label": "new ArrayList(Thing);",
+        "image": null
+      },
+      {
+        "label": "new ArrayList<>(Thing);",
+        "image": null
+      }
+    ],
+    "answer": "new ArrayList<Thing>();"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

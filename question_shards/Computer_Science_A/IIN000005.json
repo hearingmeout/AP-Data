@@ -1,0 +1,41 @@
+{
+  "id": "IIN000005",
+  "type": "mcq",
+  "title": "Declare variables for age and license - write code",
+  "content": {
+    "description": "",
+    "question": "A code segment will use variables to represent a student’s age, in years, and whether the student has a driver’s license. Which of the following variable declarations are most appropriate for the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "boolean age; double hasLicense;",
+        "image": null
+      },
+      {
+        "label": "boolean age; boolean hasLicense;",
+        "image": null
+      },
+      {
+        "label": "int age; boolean hasLicense;",
+        "image": null
+      },
+      {
+        "label": "int age; double hasLicense;",
+        "image": null
+      }
+    ],
+    "answer": "int age; boolean hasLicense;"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.2",
+    "text": "1.2: Variables and Data Types"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "FT645708",
+  "type": "mcq",
+  "title": "Compression by replacing TH  and IS with characters",
+  "content": {
+    "description": "",
+    "question": "Which of the following statements about byte pair encoding is true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Byte pair encoding is an example of a lossy transformation because it discards some of the data in the original string.",
+        "image": null
+      },
+      {
+        "label": "Byte pair encoding is an example of a lossy transformation because some pairs of characters are replaced by a single character.",
+        "image": null
+      },
+      {
+        "label": "Byte pair encoding is an example of a lossless transformation because an encoded string can be restored to its original version.",
+        "image": null
+      },
+      {
+        "label": "Byte pair encoding is an example of a lossless transformation because it can be used to transmit messages securely.",
+        "image": null
+      }
+    ],
+    "answer": "Byte pair encoding is an example of a lossless transformation because an encoded string can be restored to its original version."
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Data Compression"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

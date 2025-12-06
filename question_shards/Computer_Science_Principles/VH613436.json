@@ -1,0 +1,37 @@
+{
+  "id": "VH613436",
+  "type": "mcq",
+  "title": "Statement about public key encryption",
+  "content": {
+    "description": "",
+    "question": "Which of the following is a true statement about the use of public key encryption in transmitting messages?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Public key encryption enables parties to initiate secure communications through an open medium, such as the Internet, in which there might be eavesdroppers.",
+        "image": null
+      },
+      {
+        "label": "Public key encryption is not considered a secure method of communication because a public key can be intercepted.",
+        "image": null
+      },
+      {
+        "label": "Public key encryption only allows the encryption of documents containing text; documents containing audio and video must use a different encryption method.",
+        "image": null
+      },
+      {
+        "label": "Public key encryption uses a single key that should be kept secure because it is used for both encryption and decryption.",
+        "image": null
+      }
+    ],
+    "answer": "Public key encryption enables parties to initiate secure communications through an open medium, such as the Internet, in which there might be eavesdroppers."
+  },
+  "topic": {
+    "code": "5.6",
+    "text": "5.6: Safe Computing"
+  },
+  "skill": {
+    "code": "Skill 5.E",
+    "text": "Skill 5.E: Evaluate the use of computing based on legal and ethical factors."
+  }
+}

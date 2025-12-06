@@ -1,0 +1,41 @@
+{
+  "id": "VR442167",
+  "type": "mcq",
+  "title": "hop count",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "for (int num = 0; num < 10; num += 2) { for (int val = 0; val < 5; val++) { System.out.println(\"hop\"); } } How many times will System.out.println(\"hop\") be executed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>5</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"10\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>10</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"25\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>25</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"50\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>50</mn></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"25\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>25</mn></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.11",
+    "text": "2.11: Nested Iteration"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

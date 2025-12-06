@@ -1,0 +1,41 @@
+{
+  "id": "EZX000003",
+  "type": "mcq",
+  "title": "change countNegatives method - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Suppose the Boolean expression j < numList.size() in line 4 of the method is replaced with j <= numList.size() - 1. Which of the following best explains the effect of this change?",
+    "image": null,
+    "choices": [
+      {
+        "label": "It has no effect on the behavior of the method.",
+        "image": null
+      },
+      {
+        "label": "It causes the method to ignore the last element in numList.",
+        "image": null
+      },
+      {
+        "label": "It causes an IndexOutOfBoundsException to be thrown.",
+        "image": null
+      },
+      {
+        "label": "It changes the number of times the loop executes, but all elements in numList will still be accessed.",
+        "image": null
+      }
+    ],
+    "answer": "It has no effect on the behavior of the method."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.9",
+    "text": "4.9: `ArrayList` Traversals"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

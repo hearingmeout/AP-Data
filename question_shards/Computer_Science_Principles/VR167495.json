@@ -1,0 +1,37 @@
+{
+  "id": "VR167495",
+  "type": "mcq",
+  "title": "Remove network connections so A cannot contact F",
+  "content": {
+    "description": "The figure below represents a network of physically linked devices, labeled A through H. A line between two devices indicates a connection. Devices can communicate only through the connections shown.",
+    "question": "What is the minimum number of connections that would need to be removed from the network in order for device A to not be able to communicate with device F?",
+    "image": "https://ap.oly.st/images/f31b08086909343121f4332dc522baab.png",
+    "choices": [
+      {
+        "label": "2",
+        "image": null
+      },
+      {
+        "label": "3",
+        "image": null
+      },
+      {
+        "label": "4",
+        "image": null
+      },
+      {
+        "label": "5",
+        "image": null
+      }
+    ],
+    "answer": "2"
+  },
+  "topic": {
+    "code": "4.2",
+    "text": "4.2: Fault Tolerance"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

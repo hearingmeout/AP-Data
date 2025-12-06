@@ -1,0 +1,37 @@
+{
+  "id": "VR112983",
+  "type": "mcq",
+  "title": "minimize execution time using parallel computing",
+  "content": {
+    "description": "A certain computer has two identical processors that are able to run in parallel. Each processor can run only one process at a time, and each process must be executed on a single processor. The following table indicates the amount of time it takes to execute each of three processes on a single processor. Assume that none of the processes are dependent on any of the other processes.",
+    "question": "Process Execution Time on Either Processor X60 secondsY30 secondsZ50 secondsWhich of the following best approximates the minimum possible time to execute all three processes when the two processors are run in parallel?",
+    "image": null,
+    "choices": [
+      {
+        "label": "60 seconds",
+        "image": null
+      },
+      {
+        "label": "70 seconds",
+        "image": null
+      },
+      {
+        "label": "80 seconds",
+        "image": null
+      },
+      {
+        "label": "90 seconds",
+        "image": null
+      }
+    ],
+    "answer": "80 seconds"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Parallel and Distributed Computing"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

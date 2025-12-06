@@ -1,0 +1,37 @@
+{
+  "id": "FT535665",
+  "type": "mcq",
+  "title": "Two computers being able to communicate",
+  "content": {
+    "description": "",
+    "question": "Two computers are built by different manufacturers. One is running a Web server and the other is running a Web browser. Which of the following best describes the ability of the two computers to communicate with each other across the Internet?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The computers cannot communicate because different manufacturers use different communication protocols.",
+        "image": null
+      },
+      {
+        "label": "The computers can communicate, but additional hardware is needed to convert data packets from one computer’s protocol to the other computer’s protocol.",
+        "image": null
+      },
+      {
+        "label": "The computers can communicate directly only if the messages consist of text; other formats cannot be interpreted across computers.",
+        "image": null
+      },
+      {
+        "label": "The computers can communicate directly because Internet communication uses standard protocols.",
+        "image": null
+      }
+    ],
+    "answer": "The computers can communicate directly because Internet communication uses standard protocols."
+  },
+  "topic": {
+    "code": "4.1",
+    "text": "4.1: The Internet"
+  },
+  "skill": {
+    "code": "Skill 5.A",
+    "text": "Skill 5.A: Explain how computing systems work."
+  }
+}

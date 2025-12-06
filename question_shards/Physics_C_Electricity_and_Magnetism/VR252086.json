@@ -1,0 +1,48 @@
+{
+  "id": "VR252086",
+  "type": "frq",
+  "title": "Multi-focus - difference in roseblooms stemplot",
+  "content": {
+    "description": "",
+    "question": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations. A gardener at a local nursery conducted a study to investigate whether organic fertilizer increases the number of rose blooms on a certain variety of rosebush. The gardener randomly selected <math alttext=\"35\" overflow=\"scroll\"><mstyle><mrow><mn>35</mn></mrow></mstyle></math> rosebushes from the nursery. The number of rose blooms on each of the <math alttext=\"35\" overflow=\"scroll\"><mstyle><mrow><mn>35</mn></mrow></mstyle></math> rosebushes was recorded before any fertilizer was applied and again one month after the fertilizer was applied. All other variables were held constant over the one month period. The stemplot shows the difference in the number of rose blooms (before fertilizer minus after fertilizer). (a) Explain what a negative difference indicates in the context of the study.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations. A gardener at a local nursery conducted a study to investigate whether organic fertilizer increases the number of rose blooms on a certain variety of rosebush. The gardener randomly selected <math alttext=\"35\" overflow=\"scroll\"><mstyle><mrow><mn>35</mn></mrow></mstyle></math> rosebushes from the nursery. The number of rose blooms on each of the <math alttext=\"35\" overflow=\"scroll\"><mstyle><mrow><mn>35</mn></mrow></mstyle></math> rosebushes was recorded before any fertilizer was applied and again one month after the fertilizer was applied. All other variables were held constant over the one month period. The stemplot shows the difference in the number of rose blooms (before fertilizer minus after fertilizer). (a) Explain what a negative difference indicates in the context of the study.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_C_Electricity_and_Magnetism/VR252086.g02.png"
+      },
+      {
+        "text": "(b) Based only on the sample data in the stemplot, should the fertilizer be used to increase the number of rose blooms? Explain your reasoning in the context of the study. Do not perform an inferential procedure.",
+        "image": null
+      },
+      {
+        "text": "The owner of the nursery will invest in the fertilizer for all of his rosebushes of this variety if the gardener can provide convincing statistical evidence that the fertilizer increases the number of rose blooms within one month.(c) State, in words, the hypotheses of the appropriate test the gardener should use to investigate whether the sample data provide convincing statistical evidence that the fertilizer increases the number of rose blooms on rosebushes of this variety within one month.",
+        "image": null
+      },
+      {
+        "text": "(d) Assuming all conditions for the appropriate test are met, the gardener obtained a <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value of <math alttext=\"0.001\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.001</mn></mrow></mstyle></math> for the test. Based on the <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value and <math alttext=\"alpha equals 0.05\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>α</mi><mo>=</mo><mn>0.05</mn></mrow></mstyle></math>, would the owner of the nursery invest in the fertilizer? Explain your answer.",
+        "image": null
+      },
+      {
+        "text": "Consider a scenario in which rosebushes are randomly selected one at a time, with replacement, from the sample of <math alttext=\"35\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>35</mn></mrow></mstyle></math> rosebushes until a rosebush with a negative difference in number of rose blooms has been obtained. Let the random variable <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>B</mi></mrow></mstyle></math> represent the total number of rosebushes selected from the sample when the first rosebush with a negative difference in number of rose blooms is selected.(e) Calculate and interpret the value of <math alttext=\"mu sub B\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>μ</mi></mrow><mrow><mi>B</mi></mrow></msub></mrow></mstyle></math> in the context of the scenario.",
+        "image": null
+      },
+      {
+        "text": "(f) Describe how the scenario could be modified to make <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>B</mi></mrow></mstyle></math> a binomial random variable.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.2",
+    "text": "1.2: The Language of Variation - Variables"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Identify null and alternative hypotheses."
+  }
+}

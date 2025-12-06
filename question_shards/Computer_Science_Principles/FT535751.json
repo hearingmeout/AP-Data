@@ -1,0 +1,37 @@
+{
+  "id": "FT535751",
+  "type": "mcq",
+  "title": "Data about social media",
+  "content": {
+    "description": "A certain social media Web site allows users to post messages and to comment on other messages that have been posted. When a user posts a message, the message itself is considered data. In addition to the data, the site stores the following metadata.",
+    "question": "The time the message was postedThe name of the user who posted the messageThe names of any users who comment on the message and the times the comments were madeFor which of the following goals would it be more useful to analyze the data instead of the metadata?",
+    "image": null,
+    "choices": [
+      {
+        "label": "To determine the users who post messages most frequently",
+        "image": null
+      },
+      {
+        "label": "To determine the time of day that the site is most active",
+        "image": null
+      },
+      {
+        "label": "To determine the topics that many users are posting about",
+        "image": null
+      },
+      {
+        "label": "To determine which posts from a particular user have received the greatest number of comments",
+        "image": null
+      }
+    ],
+    "answer": "To determine the topics that many users are posting about"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: Extracting Information from Data"
+  },
+  "skill": {
+    "code": "Skill 5.B",
+    "text": "Skill 5.B: Explain how knowledge can be generated from data."
+  }
+}

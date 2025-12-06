@@ -1,0 +1,41 @@
+{
+  "id": "VH963778",
+  "type": "mcq",
+  "title": "Sepia Eyes Ebony Body",
+  "content": {
+    "description": "In fruit flies, sepia eyes and ebony body are traits that display autosomal recessive patterns of inheritance. To investigate whether the traits are genetically linked, students cross wild-type flies with a line of flies that have sepia eyes and ebony bodies. The students observe that all the flies in the <math alttext=\"F 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>F</mtext></mrow><mrow><mtext>1</mtext></mrow></msub></mrow></mstyle></math> generation have normal eyes and normal bodies. The students allow the flies in the <math alttext=\"F 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>F</mtext></mrow><mrow><mtext>1</mtext></mrow></msub></mrow></mstyle></math> generation to mate and produce an <math alttext=\"F 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>F</mtext></mrow><mrow><mtext>2</mtext></mrow></msub></mrow></mstyle></math> generation. The students then record observations for the flies in the <math alttext=\"F 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>F</mtext></mrow><mrow><mtext>2</mtext></mrow></msub><mtext></mtext></mrow></mstyle></math> generation and use the data to perform a chi-square goodness-of-fit test for a model of independent assortment. The setup for the chi-square goodness-of-fit test is presented in Table 1.",
+    "question": "Table 1. Setup for the students’ chi-square goodness-of-fit test Phenotype Observed Expected Normal eyes, normal body 231 279 Normal eyes, ebony body 86 93 Sepia eyes, normal body 97 93 Sepia eyes, ebony body 82 31 The students calculate a chi-squared value of 92.86 and compare it with a critical value of 7.82. Which of the following best completes the chi-square goodness-of-fit test?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The null hypothesis cannot be rejected, and the students should conclude that the data fit a model of independent assortment.",
+        "image": null
+      },
+      {
+        "label": "The null hypothesis cannot be rejected, and the students should conclude that the data may have resulted from genetic linkage.",
+        "image": null
+      },
+      {
+        "label": "The null hypothesis can be rejected, and the students should conclude that the data fit a model of independent assortment.",
+        "image": null
+      },
+      {
+        "label": "The null hypothesis can be rejected, and the students should conclude that the data may have resulted from genetic linkage.",
+        "image": null
+      }
+    ],
+    "answer": "The null hypothesis can be rejected, and the students should conclude that the data may have resulted from genetic linkage."
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Heredity"
+  },
+  "topic": {
+    "code": "5.4",
+    "text": "5.4: Non-Mendelian Genetics"
+  },
+  "skill": {
+    "code": "5.C",
+    "text": "5.C: Perform chi-square hypothesis testing."
+  }
+}

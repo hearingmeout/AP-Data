@@ -1,0 +1,45 @@
+{
+  "id": "FT1855",
+  "type": "mcq",
+  "title": "Second derivaive of an implicit function",
+  "content": {
+    "description": "",
+    "question": "If <math> <mrow> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>+</mo> <mn>2</mn> <mi>y</mi> </mrow> <mo>)</mo> </mrow> <mo>⋅</mo> <mfrac> <mrow> <mi>d</mi> <mi>y</mi> </mrow> <mrow> <mi>d</mi> <mi>x</mi> </mrow> </mfrac> <mo>=</mo> <mn>2</mn> <mi>x</mi> <mo>−</mo> <mi>y</mi> <mo>,</mo> </mrow> </math> what is the value of <math> <mrow> <mfrac> <mrow> <msup> <mi>d</mi> <mn>2</mn> </msup> <mi>y</mi> </mrow> <mrow> <mi>d</mi> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mfrac> </mrow> </math> at the point <math> <mrow> <mrow> <mo>(</mo> <mrow> <mn>3</mn> <mo>,</mo> <mn>0</mn> </mrow> <mo>)</mo> </mrow> <mo>?</mo> </mrow> </math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <mrow> <mo>−</mo><mfrac> <mrow> <mn>10</mn></mrow> <mn>3</mn> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "0",
+        "image": null
+      },
+      {
+        "label": "2",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mfrac> <mrow> <mn>10</mn></mrow> <mn>3</mn> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "Undefined",
+        "image": null
+      }
+    ],
+    "answer": "<math> <mrow> <mo>−</mo><mfrac> <mrow> <mn>10</mn></mrow> <mn>3</mn> </mfrac> </mrow> </math>"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.2",
+    "text": "3.2: Implicit Differentiation"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

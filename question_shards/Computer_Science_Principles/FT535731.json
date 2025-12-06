@@ -1,0 +1,37 @@
+{
+  "id": "FT535731",
+  "type": "mcq",
+  "title": "Two robots in separate grids try to reach the goal",
+  "content": {
+    "description": "Two grids are shown below. Each grid contains a robot represented as a triangle. Both robots are initially facing left. Each robot can move into a white or gray square, but cannot move into a black region.",
+    "question": "For each grid, the program below is intended to move the robot to the gray square. The program uses the procedure Goal_Reached ( ), which evaluates to true if the robot is in the gray square and evaluates to false otherwise. For which of the grids does the program correctly move the robot to the gray square?",
+    "image": "https://ap.oly.st/images/139c991ef8e8d05d578a680fe0def663.png",
+    "choices": [
+      {
+        "label": "Grid I only",
+        "image": null
+      },
+      {
+        "label": "Grid II only",
+        "image": null
+      },
+      {
+        "label": "Both grid I and grid II",
+        "image": null
+      },
+      {
+        "label": "Neither grid I nor grid II",
+        "image": null
+      }
+    ],
+    "answer": "Grid I only"
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Identifying and Correcting Errors"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Identify and correct errors in algorithms and programs, including error discovery through testing."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VR002929",
+  "type": "mcq",
+  "title": "Processes - Second Derivative of Parametric Eqs",
+  "content": {
+    "description": "",
+    "question": "If <math alttext=\"the derivative of x, with respect to t, equals 5\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle><mrow><mfrac><mrow><mi>d</mi><mi>x</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mn>5</mn></mrow></mstyle></mrow></math> and <math alttext=\"the derivative of y, with respect to t, equals the sine of, open parenthesis, t squared, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle><mrow><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mrow><mi>sin</mi><mrow><mo>(</mo><mspace depth=\"0.0ex\" height=\"2.4ex\" width=\"0.0em\"></mspace><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>)</mo></mrow></mrow></mrow></mstyle></mrow></math>, then <math alttext=\"the second derivative of y, with respect to x\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle><mrow><mfrac><mrow><msup><mrow><mi>d</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>y</mi></mrow><mrow><mi>d</mi><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mstyle></mrow></math> is",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"2 t times the cosine of, open parenthesis, t squared, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mn>2</mn><mi>t</mi><mrow><mi>cos</mi><mrow><mo>(</mo><mspace depth=\"0.0ex\" height=\"2.4ex\" width=\"0.0em\"></mspace><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>)</mo></mrow></mrow></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator 2 t times the cosine of, open parenthesis, t squared, close parenthesis, and denominator 5\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle><mrow><mfrac><mrow><mn>2</mn><mi>t</mi><mrow><mi>cos</mi><mrow><mo>(</mo><mspace depth=\"0.0ex\" height=\"2.4ex\" width=\"0.0em\"></mspace><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>)</mo></mrow></mrow></mrow><mrow><mn>5</mn></mrow></mfrac></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator 2 t times the cosine of, open parenthesis, t squared, close parenthesis, and denominator 25\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle><mrow><mfrac><mrow><mn>2</mn><mi>t</mi><mrow><mi>cos</mi><mrow><mo>(</mo><mspace depth=\"0.0ex\" height=\"2.4ex\" width=\"0.0em\"></mspace><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>)</mo></mrow></mrow></mrow><mrow><mn>25</mn></mrow></mfrac></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "undefined",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the fraction with numerator 2 t times the cosine of, open parenthesis, t squared, close parenthesis, and denominator 25\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle><mrow><mfrac><mrow><mn>2</mn><mi>t</mi><mrow><mi>cos</mi><mrow><mo>(</mo><mspace depth=\"0.0ex\" height=\"2.4ex\" width=\"0.0em\"></mspace><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>)</mo></mrow></mrow></mrow><mrow><mn>25</mn></mrow></mfrac></mrow></mstyle></mrow></math>"
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Parametric Equations, Polar Coordinates, and Vector-Valued Functions"
+  },
+  "topic": {
+    "code": "9.2",
+    "text": "9.2: (BC ONLY) Second Derivatives of Parametric Equations"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

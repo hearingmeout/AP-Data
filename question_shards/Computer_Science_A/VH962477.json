@@ -1,0 +1,41 @@
+{
+  "id": "VH962477",
+  "type": "mcq",
+  "title": "error when inserting val in numList",
+  "content": {
+    "description": "In the following code segment, assume that the ArrayList numList has been properly declared and initialized to contain the Integer values [1, 2, 2, 3]. The code segment is intended to insert the Integer value val in numList so that numList will remain in ascending order. The code segment does not work as intended in all cases.",
+    "question": "int index = 0;while (val > numList.get(index)){index++;}numList.add(index, val);For which of the following values of val will the code segment not work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "0",
+        "image": null
+      },
+      {
+        "label": "2",
+        "image": null
+      },
+      {
+        "label": "3",
+        "image": null
+      },
+      {
+        "label": "4",
+        "image": null
+      }
+    ],
+    "answer": "4"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.10",
+    "text": "4.10: Implementing `ArrayList` Algorithms"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VR610769",
+  "type": "mcq",
+  "title": "Position vector - object launched downward",
+  "content": {
+    "description": "",
+    "question": "An object is launched at time <math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn></math> from a height <math alttext=\"H\" display=\"inline\" overflow=\"scroll\"><mi>H</mi></math> above the ground with an initial velocity <math alttext=\"v sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>v</mi><mn>0</mn></msub></math> at an angle <math alttext=\"theta sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>θ</mi><mn>0</mn></msub></math> below the horizontal, as shown in the figure. With respect to the indicated coordinate system, which of the following is a correct expression of the position vector <math alttext=\"vector r\" display=\"inline\" overflow=\"scroll\"><mover accent=\"true\"><mi>r</mi><mo>→</mo></mover></math> as a function of <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mi>t</mi></math> for the object after it is launched?",
+    "image": "https://ap.oly.st/images/88eafc0f589d819b51031f6e12c887b0.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"vector r equals, open parenthesis, v sub 0, times t, close parenthesis, times i hat plus, open parenthesis, H minus one half g, times t squared, close parenthesis, times j hat\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mover accent=\"true\"><mi>r</mi><mo>→</mo></mover><mo>=</mo><mrow><mo>(</mo><msub><mi>v</mi><mn>0</mn></msub><mi>t</mi><mo>)</mo></mrow><mover accent=\"true\"><mi>i</mi><mo>^</mo></mover><mo>+</mo><mrow><mo>(</mo><mi>H</mi><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>g</mi><msup><mi>t</mi><mn>2</mn></msup><mo>)</mo></mrow><mover accent=\"true\"><mi>j</mi><mo>^</mo></mover></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"vector r equals, open parenthesis, v sub 0, times t, times, the cosine of theta sub 0, close parenthesis, times i hat, plus open parenthesis, H minus v sub 0, times t, times the sine of theta sub 0, minus one half g, times t squared, close parenthesis, times j hat\" display=\"inline\" overflow=\"scroll\"><mover accent=\"true\"><mi>r</mi><mo>→</mo></mover><mo>=</mo><mrow><mo>(</mo><msub><mi>v</mi><mn>0</mn></msub><mi>t</mi><mi>cos</mi><msub><mi>θ</mi><mn>0</mn></msub><mo>)</mo></mrow><mover accent=\"true\"><mi>i</mi><mo>^</mo></mover><mo>+</mo><mrow><mo>(</mo><mi>H</mi><mo>−</mo><msub><mi>v</mi><mn>0</mn></msub><mi>t</mi><mi>sin</mi><msub><mi>θ</mi><mn>0</mn></msub><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>g</mi><msup><mi>t</mi><mn>2</mn></msup><mo>)</mo></mrow><mover accent=\"true\"><mi>j</mi><mo>^</mo></mover></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"vector r equals, open parenthesis, v sub 0, times t, times, the cosine of theta sub 0, close parenthesis, times i hat, plus open parenthesis, H plus v sub 0, times t, times the sine of theta sub 0, minus one half g, times t squared, close parenthesis, times j hat\" display=\"inline\" overflow=\"scroll\"><mover accent=\"true\"><mi>r</mi><mo>→</mo></mover><mo>=</mo><mrow><mo>(</mo><msub><mi>v</mi><mn>0</mn></msub><mrow><mi>t</mi><mi>cos</mi><msub><mi>θ</mi><mn>0</mn></msub></mrow><mo>)</mo></mrow><mover accent=\"true\"><mi>i</mi><mo>^</mo></mover><mo>+</mo><mrow><mo>(</mo><mi>H</mi><mo>+</mo><msub><mi>v</mi><mn>0</mn></msub><mi>t</mi><mi>sin</mi><msub><mi>θ</mi><mn>0</mn></msub><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>g</mi><msup><mi>t</mi><mn>2</mn></msup><mo>)</mo></mrow><mover accent=\"true\"><mi>j</mi><mo>^</mo></mover></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"vector r equals, open parenthesis, negative one half g, times t squared, plus v sub 0, times t, times, the cosine of theta sub 0, close parenthesis, times i hat, plus open parenthesis, H minus v sub 0, times t, times the sine of theta sub 0, minus one half g, times t squared, close parenthesis, times j hat\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mover accent=\"true\"><mi>r</mi><mo>→</mo></mover><mo>=</mo><mrow><mo>(</mo><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>g</mi><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><msub><mi>v</mi><mn>0</mn></msub><mrow><mi>t</mi><mi>cos</mi><msub><mi>θ</mi><mn>0</mn></msub></mrow><mo>)</mo></mrow><mover accent=\"true\"><mi>i</mi><mo>^</mo></mover><mo>+</mo><mrow><mo>(</mo><mi>H</mi><mo>−</mo><msub><mi>v</mi><mn>0</mn></msub><mi>t</mi><mi>sin</mi><msub><mi>θ</mi><mn>0</mn></msub><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>g</mi><msup><mi>t</mi><mn>2</mn></msup><mo>)</mo></mrow><mover accent=\"true\"><mi>j</mi><mo>^</mo></mover></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"vector r equals, open parenthesis, v sub 0, times t, times, the cosine of theta sub 0, close parenthesis, times i hat, plus open parenthesis, H minus v sub 0, times t, times the sine of theta sub 0, minus one half g, times t squared, close parenthesis, times j hat\" display=\"inline\" overflow=\"scroll\"><mover accent=\"true\"><mi>r</mi><mo>→</mo></mover><mo>=</mo><mrow><mo>(</mo><msub><mi>v</mi><mn>0</mn></msub><mi>t</mi><mi>cos</mi><msub><mi>θ</mi><mn>0</mn></msub><mo>)</mo></mrow><mover accent=\"true\"><mi>i</mi><mo>^</mo></mover><mo>+</mo><mrow><mo>(</mo><mi>H</mi><mo>−</mo><msub><mi>v</mi><mn>0</mn></msub><mi>t</mi><mi>sin</mi><msub><mi>θ</mi><mn>0</mn></msub><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>g</mi><msup><mi>t</mi><mn>2</mn></msup><mo>)</mo></mrow><mover accent=\"true\"><mi>j</mi><mo>^</mo></mover></math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.5",
+    "text": "1.5: Motion in Two or Three Dimensions"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

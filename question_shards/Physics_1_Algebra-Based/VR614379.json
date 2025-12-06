@@ -1,0 +1,41 @@
+{
+  "id": "VR614379",
+  "type": "mcq",
+  "title": "Spring forces - block on a spring on a ramp",
+  "content": {
+    "description": "",
+    "question": "A block of mass <math alttext=\"m\" display=\"inline\" overflow=\"scroll\"><mi>m</mi></math> is attached to a spring on an inclined plane that makes an angle <math alttext=\"theta\" display=\"inline\" overflow=\"scroll\"><mi>θ</mi></math> with the horizontal. Initially, the block is held in place with the spring at its unstretched length, as shown on the left. The block is then slowly lowered until it comes to rest at equilibrium at a displacement <math alttext=\"x sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>x</mi><mn>0</mn></msub></math> from its original position, as shown on the right. Which of the following expressions is equal to the spring constant of the spring?",
+    "image": "https://ap.oly.st/images/7dbd83f326bebe6a32bb1e56b1ab246e.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"the fraction with numerator m g and denominator x sub 0\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mi>m</mi><mi>g</mi></mrow><msub><mi>x</mi><mn>0</mn></msub></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator, m g times the cosine of theta, and denominator x sub 0\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><mi>m</mi><mi>g</mi><mi>cos</mi><mi>θ</mi></mrow><msub><mi>x</mi><mn>0</mn></msub></mfrac></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator, m g times the sine of theta, and denominator x sub 0\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><mi>m</mi><mi>g</mi><mi>sin</mi><mi>θ</mi></mrow><msub><mi>x</mi><mn>0</mn></msub></mfrac></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator, g times the sine of theta, and denominator x sub 0\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><mi>g</mi><mi>sin</mi><mi>θ</mi></mrow><msub><mi>x</mi><mn>0</mn></msub></mfrac></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the fraction with numerator, m g times the sine of theta, and denominator x sub 0\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><mi>m</mi><mi>g</mi><mi>sin</mi><mi>θ</mi></mrow><msub><mi>x</mi><mn>0</mn></msub></mfrac></mstyle></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Force and Translational Dynamics"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: Spring Forces"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

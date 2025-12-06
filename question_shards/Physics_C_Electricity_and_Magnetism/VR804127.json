@@ -1,0 +1,41 @@
+{
+  "id": "VR804127",
+  "type": "mcq",
+  "title": "Simple circuits - rank the numbers of lit bulbs",
+  "content": {
+    "description": "The circuit shown in the figure consists of a battery, three switches, and three lightbulbs. A student examines the circuit using the following configurations of switch settings.",
+    "question": "Switch <math alttext=\"S sub X\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mtext>S</mtext><mtext>X</mtext></msub></mstyle></math>Switch <math alttext=\"S sub Y\" display=\"inline\" overflow=\"scroll\"><msub><mtext>S</mtext><mtext>Y</mtext></msub></math>Switch <math alttext=\"S sub Z\" display=\"inline\" overflow=\"scroll\"><msub><mtext>S</mtext><mtext>Z</mtext></msub></math>Configuration <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>OpenClosedClosedConfiguration <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>ClosedOpenClosedConfiguration <math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mn>3</mn></math>ClosedClosedOpenFor each configuration, the student counts the number <math alttext=\"N\" display=\"inline\" overflow=\"scroll\"><mi>N</mi></math> of lighted bulbs. Which of the following correctly compares the numbers <math alttext=\"N sub 1\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>N</mi><mn>1</mn></msub></mstyle></math>, <math alttext=\"N sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mi>N</mi><mn>2</mn></msub></math>, and <math alttext=\"N sub 3\" display=\"inline\" overflow=\"scroll\"><msub><mi>N</mi><mn>3</mn></msub></math> for the three switch configurations?",
+    "image": "https://ap.oly.st/images/aa2536bc1ed3a0cf6cfb066e1a8ca3b1.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"N sub 1, equals N sub 2, which equals N sub 3\" display=\"inline\" overflow=\"scroll\"><msub><mi>N</mi><mn>1</mn></msub><mo>=</mo><msub><mi>N</mi><mn>2</mn></msub><mo>=</mo><msub><mi>N</mi><mn>3</mn></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"N sub 1, is greater than N sub 2, which is greater than N sub 3\" display=\"inline\" overflow=\"scroll\"><msub><mi>N</mi><mn>1</mn></msub><mo>&gt;</mo><msub><mi>N</mi><mn>2</mn></msub><mo>&gt;</mo><msub><mi>N</mi><mn>3</mn></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"N sub 2, is greater than N sub 1, which equals N sub 3\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>N</mi><mn>2</mn></msub><mo>&gt;</mo><msub><mi>N</mi><mn>1</mn></msub><mo>=</mo><msub><mi>N</mi><mn>3</mn></msub></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"N sub 2, is greater than N sub 3, which is greater than N sub 1\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>N</mi><mn>2</mn></msub><mo>&gt;</mo><msub><mi>N</mi><mn>3</mn></msub><mo>&gt;</mo><msub><mi>N</mi><mn>1</mn></msub></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"N sub 2, is greater than N sub 3, which is greater than N sub 1\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>N</mi><mn>2</mn></msub><mo>&gt;</mo><msub><mi>N</mi><mn>3</mn></msub><mo>&gt;</mo><msub><mi>N</mi><mn>1</mn></msub></mstyle></math>"
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.2",
+    "text": "11.2: Simple Circuits"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

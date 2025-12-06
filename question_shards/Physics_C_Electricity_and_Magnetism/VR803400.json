@@ -1,0 +1,41 @@
+{
+  "id": "VR803400",
+  "type": "mcq",
+  "title": "Conductors - two connected charged spheres",
+  "content": {
+    "description": "",
+    "question": "Two conducting spheres are initially isolated. Sphere <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> has radius <math alttext=\"r sub 1\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>r</mi><mn>1</mn></msub></mstyle></math> and is initially uncharged. Sphere <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> has radius <math alttext=\"r sub 2\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>r</mi><mn>2</mn></msub></mstyle></math>, such that <math alttext=\"r sub 1 is greater than r sub 2\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>r</mi><mn>1</mn></msub><mo>&gt;</mo><msub><mi>r</mi><mn>2</mn></msub></mstyle></math>, and has a charge of <math alttext=\"positive uppercase Q\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mo>+</mo><mi>Q</mi></mstyle></math>. The two spheres are then connected by a conducting wire and allowed to reach equilibrium, resulting in a charge on Sphere <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>. Which of the following correctly represents the charge <math alttext=\"lowercase q\" display=\"inline\" overflow=\"scroll\"><mi>q</mi></math> on Sphere <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> after the two spheres have reached equilibrium?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"lowercase q equals the fraction r sub 1 over r sub 2, end fraction, times uppercase Q\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>q</mi><mo>=</mo><mfrac><msub><mi>r</mi><mn>1</mn></msub><msub><mi>r</mi><mn>2</mn></msub></mfrac><mi>Q</mi></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"lowercase q equals the fraction r sub 2 over r sub 1, end fraction, times uppercase Q\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>q</mi><mo>=</mo><mfrac><msub><mi>r</mi><mn>2</mn></msub><msub><mi>r</mi><mn>1</mn></msub></mfrac><mi>Q</mi></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"lowercase q equals the fraction with numerator r sub 1, and denominator, open parenthesis, r sub 1 plus r sub 2, close parenthesis, end fraction, times uppercase Q\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>q</mi><mo>=</mo><mfrac><msub><mi>r</mi><mn>1</mn></msub><mrow><mo>(</mo><msub><mi>r</mi><mn>1</mn></msub><mo>+</mo><msub><mi>r</mi><mn>2</mn></msub><mo>)</mo></mrow></mfrac><mi>Q</mi></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"lowercase q equals the fraction with numerator r sub 2, and denominator, open parenthesis, r sub 1 plus r sub 2, close parenthesis, end fraction, times uppercase Q\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>q</mi><mo>=</mo><mfrac><msub><mi>r</mi><mn>2</mn></msub><mrow><mo>(</mo><msub><mi>r</mi><mn>1</mn></msub><mo>+</mo><msub><mi>r</mi><mn>2</mn></msub><mo>)</mo></mrow></mfrac><mi>Q</mi></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"lowercase q equals the fraction with numerator r sub 1, and denominator, open parenthesis, r sub 1 plus r sub 2, close parenthesis, end fraction, times uppercase Q\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>q</mi><mo>=</mo><mfrac><msub><mi>r</mi><mn>1</mn></msub><mrow><mo>(</mo><msub><mi>r</mi><mn>1</mn></msub><mo>+</mo><msub><mi>r</mi><mn>2</mn></msub><mo>)</mo></mrow></mfrac><mi>Q</mi></mstyle></math>"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Conductors and Capacitors"
+  },
+  "topic": {
+    "code": "10.2",
+    "text": "10.2: Redistribution of Charge Between Conductors"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

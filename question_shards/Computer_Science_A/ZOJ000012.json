@@ -1,0 +1,41 @@
+{
+  "id": "ZOJ000012",
+  "type": "mcq",
+  "title": "Read data from text file - determine result",
+  "content": {
+    "description": "",
+    "question": "What is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "0",
+        "image": null
+      },
+      {
+        "label": "123",
+        "image": null
+      },
+      {
+        "label": "789",
+        "image": null
+      },
+      {
+        "label": "123456789",
+        "image": null
+      }
+    ],
+    "answer": "789"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.6",
+    "text": "4.6: Using Text Files"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

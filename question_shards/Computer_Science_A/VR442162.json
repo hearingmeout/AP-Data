@@ -1,0 +1,41 @@
+{
+  "id": "VR442162",
+  "type": "mcq",
+  "title": "guard against divide by 0",
+  "content": {
+    "description": "",
+    "question": "Assume that x and y are variables of type int. Which of the following Java expressions never results in a division by zero?",
+    "image": null,
+    "choices": [
+      {
+        "label": "((y / x) == 0) && (x != 0)",
+        "image": null
+      },
+      {
+        "label": "((y / x) == 0) || (x != 0)",
+        "image": null
+      },
+      {
+        "label": "(x != 0) && ((y / x) == 0)",
+        "image": null
+      },
+      {
+        "label": "(x != 0) || ((y / x) == 0)",
+        "image": null
+      }
+    ],
+    "answer": "(x != 0) && ((y / x) == 0)"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

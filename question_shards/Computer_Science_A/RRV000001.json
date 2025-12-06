@@ -1,0 +1,41 @@
+{
+  "id": "RRV000001",
+  "type": "mcq",
+  "title": "for loop equivalent to while loop - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following code segments assigns the same value to sum as the preceding code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "int sum = 0; for (int j = 0; j <= 5; j++) { j++; sum += j; }",
+        "image": null
+      },
+      {
+        "label": "int sum = 0; for (int j = 0; j <= 6; j++) { j++; sum += j; }",
+        "image": null
+      },
+      {
+        "label": "int sum = 0; for (int j = 1; j <= 5; j++) { sum += j; }",
+        "image": null
+      },
+      {
+        "label": "int sum = 0; for (int j = 1; j <= 6; j++) { sum += j; }",
+        "image": null
+      }
+    ],
+    "answer": "int sum = 0; for (int j = 1; j <= 6; j++) { sum += j; }"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.7",
+    "text": "2.7: `while` Loops"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

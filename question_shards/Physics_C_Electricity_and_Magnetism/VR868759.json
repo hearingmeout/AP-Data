@@ -1,0 +1,41 @@
+{
+  "id": "VR868759",
+  "type": "mcq",
+  "title": "Current density - current from radius-dependent J",
+  "content": {
+    "description": "",
+    "question": "The current density in a cylindrical conductor of radius <math alttext=\"uppercase R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math> varies with radial position <math alttext=\"lowercase r\" display=\"inline\" overflow=\"scroll\"><mi>r</mi></math> according to <math alttext=\"J of lowercase r equals, J sub 0, end subscript, times, open parenthesis, 1 minus, open parenthesis, the fraction lowercase r over uppercase R, close parenthesis, squared, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mi>J</mi><mo stretchy=\"false\">(</mo><mi>r</mi><mo stretchy=\"false\">)</mo><mo>=</mo><msub><mi>J</mi><mn>0</mn></msub><mrow><mo>(</mo><mn>1</mn><mo>−</mo><msup><mrow><mo>(</mo><mfrac><mi>r</mi><mi>R</mi></mfrac><mo>)</mo></mrow><mn>2</mn></msup><mo>)</mo></mrow></math>. Which expression is equal to the current in the conductor?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"pi J sub 0, end subscript, times uppercase R squared\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>π</mi><msub><mi>J</mi><mn>0</mn></msub><msup><mi>R</mi><mn>2</mn></msup></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator pi J sub 0, end subscript, times uppercase R squared, and denominator 2\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><mi>π</mi><msub><mi>J</mi><mn>0</mn></msub><msup><mi>R</mi><mn>2</mn></msup></mrow><mn>2</mn></mfrac></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator pi J sub 0, end subscript, times uppercase R squared, and denominator 4\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><mi>π</mi><msub><mi>J</mi><mn>0</mn></msub><msup><mi>R</mi><mn>2</mn></msup></mrow><mn>4</mn></mfrac></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator pi J sub 0, end subscript, times uppercase R cubed, and denominator 4\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><mi>π</mi><msub><mi>J</mi><mn>0</mn></msub><msup><mi>R</mi><mn>3</mn></msup></mrow><mn>4</mn></mfrac></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the fraction with numerator pi J sub 0, end subscript, times uppercase R squared, and denominator 2\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><mi>π</mi><msub><mi>J</mi><mn>0</mn></msub><msup><mi>R</mi><mn>2</mn></msup></mrow><mn>2</mn></mfrac></mstyle></math>"
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.1",
+    "text": "11.1: Electric Current"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

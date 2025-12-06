@@ -1,0 +1,37 @@
+{
+  "id": "FT535727",
+  "type": "mcq",
+  "title": "Using FindName to find unique names in nameList",
+  "content": {
+    "description": "The procedure below is intended to display the index in a list of unique names (nameList) where a particular name (targetName) is found. If targetName is not found in nameList, the code should display 0.",
+    "question": "Which of the following procedure calls can be used to demonstrate that the procedure does NOT work as intended?",
+    "image": "https://ap.oly.st/images/6a3cc29a7aab138ca46a60ce91e85b7a.png",
+    "choices": [
+      {
+        "label": "FindName ([\"Andrea\", \"Ben\"], \"Ben\")",
+        "image": null
+      },
+      {
+        "label": "FindName ([\"Andrea\", \"Ben\"], \"Diane\")",
+        "image": null
+      },
+      {
+        "label": "FindName ([\"Andrea\", \"Ben\", \"Chris\"], \"Ben\")",
+        "image": null
+      },
+      {
+        "label": "FindName ([\"Andrea\", \"Chris\", \"Diane\"], \"Ben\")",
+        "image": null
+      }
+    ],
+    "answer": "FindName ([\"Andrea\", \"Ben\", \"Chris\"], \"Ben\")"
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Identifying and Correcting Errors"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Identify and correct errors in algorithms and programs, including error discovery through testing."
+  }
+}

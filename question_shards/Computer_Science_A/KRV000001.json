@@ -1,0 +1,41 @@
+{
+  "id": "KRV000001",
+  "type": "mcq",
+  "title": "Print leftmost digit of n - fix error",
+  "content": {
+    "description": "",
+    "question": "This code segment is intended to print the leftmost digit of n. For example, if n is 302, this code segment should print 3. However, this code segment is not working as intended. Which of the following changes can be made so that this code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "In line 1, changing the condition n > 0 to n / 10 > 0",
+        "image": null
+      },
+      {
+        "label": "In line 1, changing the condition n > 0 to n % 10 > 0",
+        "image": null
+      },
+      {
+        "label": "In line 3, changing the statement n /= 10 to n -= 10",
+        "image": null
+      },
+      {
+        "label": "In line 3, changing the statement n /= 10 to n %= 10",
+        "image": null
+      }
+    ],
+    "answer": "In line 1, changing the condition n > 0 to n / 10 > 0"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.9",
+    "text": "2.9: Implementing Selection and Iteration Algorithms"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

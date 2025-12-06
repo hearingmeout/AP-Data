@@ -1,0 +1,45 @@
+{
+  "id": "VH974099",
+  "type": "mcq",
+  "title": "Music shuffle",
+  "content": {
+    "description": "Jimmy likes to listen to a variety of music. His library has the following distribution of music genres.",
+    "question": "Music Type Country R&B Pop Retro Rock Percent 22% 10% 12% 20% 36% Jimmy believes that the shuffle feature on his music player is malfunctioning by not playing songs that meet this distribution of music types. To test this, he listens to 100 songs randomly chosen when his player is in shuffle mode and records the number of songs in each category. Which inference procedure should he use to test whether or not the shuffle feature is working correctly?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A one-sample <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math>-test for a population proportion",
+        "image": null
+      },
+      {
+        "label": "A two-sample <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math>-test for a difference between population proportions",
+        "image": null
+      },
+      {
+        "label": "A chi-square goodness-of-fit test",
+        "image": null
+      },
+      {
+        "label": "A chi-square test for homogeneity",
+        "image": null
+      },
+      {
+        "label": "A matched pairs <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-test for a mean difference",
+        "image": null
+      }
+    ],
+    "answer": "A chi-square goodness-of-fit test"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Inference for Categorical Data-Chi-Square"
+  },
+  "topic": {
+    "code": "8.2",
+    "text": "8.2: Setting up a Chi-Square Goodness of Fit Test"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Identify an appropriate inference method for significance tests."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "OIH000006",
+  "type": "mcq",
+  "title": "doSomething method - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following implementations of doSomething will allow this code segment to run without error when added to the Widget class?",
+    "image": null,
+    "choices": [
+      {
+        "label": "public int doSomething() { return number; }",
+        "image": null
+      },
+      {
+        "label": "public int doSomething() { return word.length(); }",
+        "image": null
+      },
+      {
+        "label": "public static int doSomething() { return number; }",
+        "image": null
+      },
+      {
+        "label": "public static int doSomething() { return word.length(); }",
+        "image": null
+      }
+    ],
+    "answer": "public static int doSomething() { return word.length(); }"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.7",
+    "text": "3.7: Class Variables and Methods"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "VR731703",
+  "type": "mcq",
+  "title": "Late to Class",
+  "content": {
+    "description": "Attendance records at a large high school show that <math alttext=\"6\" overflow=\"scroll\"><mn>6</mn></math> percent of students are late to school on a typical day. The students in an AP Statistics class believe the rate is higher than <math alttext=\"6\" overflow=\"scroll\"><mn>6</mn></math> percent. The students took a simple random sample of <math alttext=\"75\" overflow=\"scroll\"><mn>75</mn></math> students from the school and asked, “Were you late to school today?” In their sample, <math alttext=\"6\" overflow=\"scroll\"><mn>6</mn></math> out of the <math alttext=\"75\" overflow=\"scroll\"><mn>75</mn></math> students, or <math alttext=\"8\" overflow=\"scroll\"><mn>8</mn></math> percent of the sample, said they were late to school that day. The AP Statistics students conducted a simulation with <math alttext=\"100\" overflow=\"scroll\"><mn>100</mn></math> samples of <math alttext=\"75\" overflow=\"scroll\"><mn>75</mn></math> students from a population where <math alttext=\"6\" overflow=\"scroll\"><mn>6</mn></math> percent of students are late. The results of the simulation are shown in the dotplot.",
+    "question": "Based on the simulation and the results of the AP Statistics class’s sample, is there convincing statistical evidence that more than <math alttext=\"6\" overflow=\"scroll\"><mn>6</mn></math> percent of all students at the school are late to school on a typical day?",
+    "image": "https://ap.oly.st/images/161e6353c874338dedc4cfd584a8fbd6.svg",
+    "choices": [
+      {
+        "label": "Yes, because <math alttext=\"8%\" overflow=\"scroll\"><mn>8</mn><mo>%</mo></math> of students in their sample said they were late to school that day.",
+        "image": null
+      },
+      {
+        "label": "Yes, because about <math alttext=\"47%\" overflow=\"scroll\"><mn>47</mn><mo>%</mo></math> of the simulated sample percentages of students late to school are <math alttext=\"6%\" overflow=\"scroll\"><mn>6</mn><mo>%</mo></math> or more.",
+        "image": null
+      },
+      {
+        "label": "No, because about <math alttext=\"47%\" overflow=\"scroll\"><mn>47</mn><mo>%</mo></math> of the simulated sample percentages of students late to school are <math alttext=\"6%\" overflow=\"scroll\"><mn>6</mn><mo>%</mo></math> or more.",
+        "image": null
+      },
+      {
+        "label": "Yes, because about <math alttext=\"29%\" overflow=\"scroll\"><mn>29</mn><mo>%</mo></math> of the simulated sample percentages of students late to school are <math alttext=\"8%\" overflow=\"scroll\"><mn>8</mn><mo>%</mo></math> or more.",
+        "image": null
+      },
+      {
+        "label": "No, because about <math alttext=\"29%\" overflow=\"scroll\"><mn>29</mn><mo>%</mo></math> of the simulated sample percentages of students late to school are <math alttext=\"8%\" overflow=\"scroll\"><mn>8</mn><mo>%</mo></math> or more.",
+        "image": null
+      }
+    ],
+    "answer": "No, because about <math alttext=\"29%\" overflow=\"scroll\"><mn>29</mn><mo>%</mo></math> of the simulated sample percentages of students late to school are <math alttext=\"8%\" overflow=\"scroll\"><mn>8</mn><mo>%</mo></math> or more."
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Sampling Distributions"
+  },
+  "topic": {
+    "code": "5.3",
+    "text": "5.3: The Central Limit Theorem"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Describe probability distributions."
+  }
+}

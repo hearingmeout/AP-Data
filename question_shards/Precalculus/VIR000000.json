@@ -1,0 +1,41 @@
+{
+  "id": "VIR000000",
+  "type": "mcq",
+  "title": "Exponential Function - Modeling-Equivalent Form",
+  "content": {
+    "description": "",
+    "question": "Iodine-<math alttext=\"131\"><semantics><mn>131</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> has a half-life of <math alttext=\"8\"><semantics><mn>8</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> days. In a particular sample, the amount of iodine-<math alttext=\"131\"><semantics><mn>131</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> remaining after <math alttext=\"d\"><semantics><mi>d</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> days can be modeled by the function <math alttext=\"h\"><semantics><mi>h</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> given by <math alttext=\"h open parentheses d close parentheses equals A subscript 0 open parentheses 0.5 close parentheses to the power of open parentheses d divided by 8 close parentheses end exponent\"><semantics><mrow><mi>h</mi><mfenced><mi>d</mi></mfenced><mo>=</mo><msub><mi>A</mi><mn>0</mn></msub><msup><mfenced><mn>0.5</mn></mfenced><mfenced><mrow><mi>d</mi><mo>/</mo><mn>8</mn></mrow></mfenced></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>, where <math alttext=\"A subscript 0\"><semantics><msub><mi>A</mi><mn>0</mn></msub><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is the amount of iodine-<math alttext=\"131\"><semantics><mn>131</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> in the sample at time <math alttext=\"d equals 0\"><semantics><mrow><mi>d</mi><mo>=</mo><mn>0</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. Which of the following functions <math alttext=\"k\"><semantics><mi>k</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> models the amount of iodine-<math alttext=\"131\"><semantics><mn>131</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> remaining after <math alttext=\"t\"><semantics><mi>t</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> hours, where <math alttext=\"A subscript 0\"><semantics><msub><mi>A</mi><mn>0</mn></msub><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is the amount of iodine-<math alttext=\"131\"><semantics><mn>131</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> in the sample at time <math alttext=\"t equals 0\"><semantics><mrow><mi>t</mi><mo>=</mo><mn>0</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ? (There are <math alttext=\"24\"><semantics><mn>24</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> hours in a day, so <math alttext=\"t equals 24 d\"><semantics><mrow><mi>t</mi><mo>=</mo><mn>24</mn><mi>d</mi></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>.)",
+    "image": null,
+    "choices": [
+      {
+        "label": "​<math alttext=\"k open parentheses t close parentheses equals A subscript 0 open parentheses 0.5 close parentheses to the power of open parentheses t divided by 24 close parentheses end exponent\"><semantics><mrow><mi>k</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><msub><mi>A</mi><mn>0</mn></msub><msup><mfenced><mn>0.5</mn></mfenced><mfenced><mrow><mi>t</mi><mo>/</mo><mn>24</mn></mrow></mfenced></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"k open parentheses t close parentheses equals A subscript 0 open parentheses 0.5 to the power of open parentheses 1 divided by 24 close parentheses end exponent close parentheses to the power of open parentheses 8 t close parentheses end exponent\"><semantics><mrow><mi>k</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><msub><mi>A</mi><mn>0</mn></msub><msup><mfenced><msup><mn>0.5</mn><mfenced><mrow><mn>1</mn><mo>/</mo><mn>24</mn></mrow></mfenced></msup></mfenced><mfenced><mrow><mn>8</mn><mi>t</mi></mrow></mfenced></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"k open parentheses t close parentheses equals A subscript 0 open parentheses 0.5 to the power of open parentheses 24 close parentheses end exponent close parentheses to the power of open parentheses t divided by 8 close parentheses end exponent\"><semantics><mrow><mi>k</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><msub><mi>A</mi><mn>0</mn></msub><msup><mfenced><msup><mn>0.5</mn><mfenced><mn>24</mn></mfenced></msup></mfenced><mfenced><mrow><mi>t</mi><mo>/</mo><mn>8</mn></mrow></mfenced></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      },
+      {
+        "label": "​<math alttext=\"k open parentheses t close parentheses equals A subscript 0 open parentheses 0.5 to the power of open parentheses 1 divided by 192 close parentheses end exponent close parentheses to the power of t\"><semantics><mrow><mi>k</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><msub><mi>A</mi><mn>0</mn></msub><msup><mfenced><msup><mn>0.5</mn><mfenced><mrow><mn>1</mn><mo>/</mo><mn>192</mn></mrow></mfenced></msup></mfenced><mi>t</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "image": null
+      }
+    ],
+    "answer": "​<math alttext=\"k open parentheses t close parentheses equals A subscript 0 open parentheses 0.5 to the power of open parentheses 1 divided by 192 close parentheses end exponent close parentheses to the power of t\"><semantics><mrow><mi>k</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><msub><mi>A</mi><mn>0</mn></msub><msup><mfenced><msup><mn>0.5</mn><mfenced><mrow><mn>1</mn><mo>/</mo><mn>192</mn></mrow></mfenced></msup></mfenced><mi>t</mi></msup></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.5",
+    "text": "2.5: Exponential Function Context and Data Modeling"
+  },
+  "skill": {
+    "code": "Skill 1.B",
+    "text": "Skill 1.B: Express functions, equations, or expressions in analytically equivalent forms that are useful in a given mathematical or applied context."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "FT4274",
+  "type": "mcq",
+  "title": "Mathematical procedure for determining speed",
+  "content": {
+    "description": "",
+    "question": "A person driving a car suddenly applies the brakes. The car takes 4 s to come to rest while traveling 20 m at constant acceleration. Can the speed of the car immediately before the brakes were applied be determined without first determining the car’s acceleration?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Yes, by dividing the distance (20 m) by the time (4 s).",
+        "image": null
+      },
+      {
+        "label": "Yes, by determining the average speed while braking and doubling it.",
+        "image": null
+      },
+      {
+        "label": "No, because the acceleration is needed to use standard equations such as Δx = vot + 1/2 at2.",
+        "image": null
+      },
+      {
+        "label": "No, because the fundamental relationship that defines velocity contains acceleration.",
+        "image": null
+      }
+    ],
+    "answer": "Yes, by determining the average speed while braking and doubling it."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.2",
+    "text": "1.2: Displacement, Velocity, and Acceleration"
+  },
+  "skill": {
+    "code": "2.D",
+    "text": "2.D: Predict new values or factors of change of physical quantities using functional dependence between variables."
+  }
+}

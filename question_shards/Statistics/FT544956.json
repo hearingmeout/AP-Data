@@ -1,0 +1,45 @@
+{
+  "id": "FT544956",
+  "type": "mcq",
+  "title": "Confidence interval for slope for rubber bands",
+  "content": {
+    "description": "Raoul performed an experiment using 16 windup rubber band single-propeller airplanes. He wound up the propeller a different number of times and recorded the amount of time (in seconds) that the airplane flew for each number of rotations that the propeller was wound. A regression analysis was performed and the partial computer output is given below.",
+    "question": "Which of the following is a 95 percent confidence interval for the slope of the regression line that relates the number of rotations the rubber band is wound and the plane's flight time?",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Statistics/3280af25fc20f9010cf212a504823e14.png",
+    "choices": [
+      {
+        "label": "0.0462 ± (2.145)(0.01565)",
+        "image": null
+      },
+      {
+        "label": "0.924 ± (2.145)(0.6413)",
+        "image": null
+      },
+      {
+        "label": "0.0462 ± (2.96)(0.01565)",
+        "image": null
+      },
+      {
+        "label": "0.924 ± (2.96)(0.6413)",
+        "image": null
+      },
+      {
+        "label": "0.0462 ± (2.131)(0.01565)",
+        "image": null
+      }
+    ],
+    "answer": "0.0462 ± (2.145)(0.01565)"
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Inference for Quantitative Data-Slopes"
+  },
+  "topic": {
+    "code": "9.2",
+    "text": "9.2: Confidence Intervals for the Slope of a Regression Model"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Construct a confidence interval, provided conditions for inference are met."
+  }
+}

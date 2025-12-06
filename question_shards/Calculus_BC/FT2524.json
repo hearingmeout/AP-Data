@@ -1,0 +1,45 @@
+{
+  "id": "FT2524",
+  "type": "mcq",
+  "title": "Derivative of an arccos function",
+  "content": {
+    "description": "",
+    "question": "If <math> <mrow> <mi>f</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mi>arccos</mi> <mrow> <mo>(</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>)</mo> </mrow> </mrow> </math>, then f′(x)=",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <mrow> <mfrac> <mn>1</mn> <mrow> <msqrt> <mrow> <mn>1</mn> <mo>−</mo> <msup> <mi>x</mi> <mn>4</mn> </msup> </mrow> </msqrt> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mfrac> <mrow> <mo>−</mo> <mn>2</mn> <mi>x</mi> </mrow> <mrow> <msqrt> <mrow> <mn>1</mn> <mo>−</mo> <msup> <mi>x</mi> <mn>4</mn> </msup> </mrow> </msqrt> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mfrac> <mrow> <mn>2</mn> <mi>x</mi> </mrow> <mrow> <msqrt> <mrow> <mn>1</mn> <mo>−</mo> <msup> <mi>x</mi> <mn>4</mn> </msup> </mrow> </msqrt> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mfrac> <mrow> <mo>−</mo> <mn>4</mn> <msup> <mi>x</mi> <mn>3</mn> </msup> </mrow> <mrow> <msqrt> <mrow> <mn>1</mn> <mo>−</mo> <msup> <mi>x</mi> <mn>4</mn> </msup> </mrow> </msqrt> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mfrac> <mrow> <mn>4</mn> <msup> <mi>x</mi> <mn>3</mn> </msup> </mrow> <mrow> <msqrt> <mrow> <mn>1</mn> <mo>−</mo> <msup> <mi>x</mi> <mn>4</mn> </msup> </mrow> </msqrt> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <mrow> <mfrac> <mrow> <mo>−</mo> <mn>2</mn> <mi>x</mi> </mrow> <mrow> <msqrt> <mrow> <mn>1</mn> <mo>−</mo> <msup> <mi>x</mi> <mn>4</mn> </msup> </mrow> </msqrt> </mrow> </mfrac> </mrow> </math>"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.4",
+    "text": "3.4: Differentiating Inverse Trigonometric Functions"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

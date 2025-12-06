@@ -1,0 +1,41 @@
+{
+  "id": "VR442179",
+  "type": "mcq",
+  "title": "2D array bounds error",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "int[][] anArray = new int[10][8]; for (int j = 0; j < 8; j++) { for (int k = 0; k < 10; k++) { anArray[j][k] = 5; } } The code segment causes an ArrayIndexOutOfBoundsException to be thrown. How many elements in anArray will be set to 5 before the exception is thrown?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"8\" overflow=\"scroll\"><mstyle><mrow><mn>8</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"9\" overflow=\"scroll\"><mstyle><mrow><mn>9</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"64\" overflow=\"scroll\"><mstyle><mrow><mn>64</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"80\" overflow=\"scroll\"><mstyle><mrow><mn>80</mn></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"8\" overflow=\"scroll\"><mstyle><mrow><mn>8</mn></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.11",
+    "text": "4.11: 2D Array Creation and Access"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

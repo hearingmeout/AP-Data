@@ -1,0 +1,41 @@
+{
+  "id": "DJJ000004",
+  "type": "mcq",
+  "title": "Equivalent Boolean expression - write code",
+  "content": {
+    "description": "",
+    "question": "Assume that a, b, and c are boolean variables that have been properly declared and initialized. Which of the following boolean expressions is equivalent to !(a && b) || c?",
+    "image": null,
+    "choices": [
+      {
+        "label": "a || b || c",
+        "image": null
+      },
+      {
+        "label": "!a && !b || c",
+        "image": null
+      },
+      {
+        "label": "!a && !b && c",
+        "image": null
+      },
+      {
+        "label": "!a || !b || c",
+        "image": null
+      }
+    ],
+    "answer": "!a || !b || c"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Comparing Boolean Expressions"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

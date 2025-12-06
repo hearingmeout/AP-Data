@@ -1,0 +1,37 @@
+{
+  "id": "VR169608",
+  "type": "mcq",
+  "title": "Value displayed by call to doSomething procedure",
+  "content": {
+    "description": "Consider the following procedure.",
+    "question": "PROCEDURE doSomething(num1, num2){DISPLAY(num1)RETURN(num1)DISPLAY(num2)}Consider the following statement.DISPLAY(doSomething(10, 20))What is displayed as a result of executing the statement above?",
+    "image": null,
+    "choices": [
+      {
+        "label": "10 10",
+        "image": null
+      },
+      {
+        "label": "10 20",
+        "image": null
+      },
+      {
+        "label": "10 10 20",
+        "image": null
+      },
+      {
+        "label": "10 20 10",
+        "image": null
+      }
+    ],
+    "answer": "10 10"
+  },
+  "topic": {
+    "code": "3.12",
+    "text": "3.12: Calling Procedures"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Determine the result of code segments."
+  }
+}

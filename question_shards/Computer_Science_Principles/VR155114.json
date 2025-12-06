@@ -1,0 +1,37 @@
+{
+  "id": "VR155114",
+  "type": "mcq",
+  "title": "Using botStepper procedure",
+  "content": {
+    "description": "",
+    "question": "Which of the following code segments will move the robot to the gray square along the path indicated by the arrows?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The figure presents two lines of code. Throughout the code there are nested blocks of code, as follows. Line 1: [begin block] botStepper [begin block] 2 [end block] [end block] Line 2: [begin block] botStepper [begin block] 3 [end block] [end block]",
+        "image": "https://ap.oly.st/images/68798c3aff57a6935fdb54bcca20862c.png"
+      },
+      {
+        "label": "The figure presents two lines of code. Throughout the code there are nested blocks of code, as follows. Line 1: [begin block] botStepper [begin block] 3 [end block] [end block] Line 2: [begin block] botStepper [begin block] 4 [end block] [end block]",
+        "image": "https://ap.oly.st/images/30122bcc50bd96080fbb32d26f0c51b0.png"
+      },
+      {
+        "label": "The figure presents three lines of code. Throughout the code there are nested blocks of code, as follows. Line 1: [begin block] botStepper [begin block] 2 [end block] [end block] Line 2: [begin block] MOVE_FORWARD [end block] Line 3: [begin block] botStepper [begin block] 3 [end block] [end block]",
+        "image": "https://ap.oly.st/images/8cc7e9852cbbbd61dc6df1ec6f75db8e.png"
+      },
+      {
+        "label": "The figure presents three lines of code. Throughout the code there are nested blocks of code, as follows. Line 1: [begin block] botStepper [begin block] 3 [end block] [end block] Line 2: [begin block] MOVE_FORWARD [end block] Line 3: [begin block] botStepper [begin block] 4 [end block] [end block]",
+        "image": "https://ap.oly.st/images/674c407d81e6e501afb97521209c2626.png"
+      }
+    ],
+    "answer": "The figure presents three lines of code. Throughout the code there are nested blocks of code, as follows. Line 1: [begin block] botStepper [begin block] 2 [end block] [end block] Line 2: [begin block] MOVE_FORWARD [end block] Line 3: [begin block] botStepper [begin block] 3 [end block] [end block]"
+  },
+  "topic": {
+    "code": "3.8",
+    "text": "3.8: Iteration"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Use abstraction to manage complexity in a program."
+  }
+}

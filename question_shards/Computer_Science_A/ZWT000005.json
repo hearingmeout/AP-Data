@@ -1,0 +1,41 @@
+{
+  "id": "ZWT000005",
+  "type": "mcq",
+  "title": "For and while loop comparison - correct error",
+  "content": {
+    "description": "",
+    "question": "Which of the following changes can be made to Code Segment 2 so that the outputs of the two code segments are identical as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Move the statement x = x + 1; so that it follows the print statement inside the loop body.",
+        "image": null
+      },
+      {
+        "label": "Rename the variable x to be i so that it is the same variable name as in Code Segment 1.",
+        "image": null
+      },
+      {
+        "label": "Remove the statement x = x + 1; because this statement is not in the loop body in Code Segment 1.",
+        "image": null
+      },
+      {
+        "label": "Change the statement x = x + 1; to be x++; so that the increment of the loop control variable is the same in both code segments.",
+        "image": null
+      }
+    ],
+    "answer": "Move the statement x = x + 1; so that it follows the print statement inside the loop body."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: `for` Loops"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

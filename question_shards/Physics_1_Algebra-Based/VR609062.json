@@ -1,0 +1,41 @@
+{
+  "id": "VR609062",
+  "type": "mcq",
+  "title": "Relative motion - time of flight",
+  "content": {
+    "description": "",
+    "question": "An airplane travels with constant speed <math alttext=\"v sub a\" display=\"inline\" overflow=\"scroll\"><msub><mi>v</mi><mtext>a</mtext></msub></math> relative to the air as it travels from City <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mtext>X</mtext></math> to City <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mtext>Y</mtext></math>, as shown. On Monday, the air is not moving relative to the ground and the airplane takes a time <math alttext=\"lowercase t sub M\" display=\"inline\" overflow=\"scroll\"><msub><mi>t</mi><mtext>M</mtext></msub></math> to travel between the two cities. On Tuesday, there is a wind and the air moves with constant speed <math alttext=\"v sub w\" display=\"inline\" overflow=\"scroll\"><msub><mi>v</mi><mtext>w</mtext></msub></math> relative to the ground in the same direction as the airplane, causing the airplane to take a time <math alttext=\"lowercase t sub uppercase T\" display=\"inline\" overflow=\"scroll\"><msub><mi>t</mi><mtext>T</mtext></msub></math> to travel between the two cities. Which of the following correctly relates <math alttext=\"lowercase t sub uppercase T\" display=\"inline\" overflow=\"scroll\"><msub><mi>t</mi><mtext>T</mtext></msub></math> and <math alttext=\"lowercase t sub M\" display=\"inline\" overflow=\"scroll\"><msub><mi>t</mi><mtext>M</mtext></msub></math> ?",
+    "image": "https://ap.oly.st/images/217342ed8d55f7be4bbe16549795bd74.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"lowercase t sub uppercase T equals, open parenthesis, the fraction v sub a, over v sub w, close parenthesis, times lowercase t sub M\" display=\"inline\" overflow=\"scroll\"><msub><mi>t</mi><mtext>T</mtext></msub><mo>=</mo><mpadded><mo>(</mo><mpadded><mfrac><msub><mi>v</mi><mtext>a</mtext></msub><msub><mi>v</mi><mtext>w</mtext></msub></mfrac></mpadded><mo>)</mo></mpadded><msub><mi>t</mi><mtext>M</mtext></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"lowercase t sub uppercase T equals, open parenthesis, the fraction v sub w, over v sub a, close parenthesis, times lowercase t sub M\" display=\"inline\" overflow=\"scroll\"><msub><mi>t</mi><mtext>T</mtext></msub><mo>=</mo><mpadded><mo>(</mo><mpadded><mfrac><msub><mi>v</mi><mtext>w</mtext></msub><msub><mi>v</mi><mtext>a</mtext></msub></mfrac></mpadded><mo>)</mo></mpadded><msub><mi>t</mi><mtext>M</mtext></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"lowercase t sub uppercase T equals, open parenthesis, the fraction v sub a, over v sub a, minus v sub w, end fraction, close parenthesis, times lowercase t sub M\" display=\"inline\" overflow=\"scroll\"><msub><mi>t</mi><mtext>T</mtext></msub><mo>=</mo><mpadded><mo>(</mo><mpadded><mfrac><msub><mi>v</mi><mtext>a</mtext></msub><mrow><msub><mi>v</mi><mtext>a</mtext></msub><mo>-</mo><msub><mi>v</mi><mtext>w</mtext></msub></mrow></mfrac></mpadded><mo>)</mo></mpadded><msub><mi>t</mi><mtext>M</mtext></msub></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"lowercase t sub uppercase T equals, open parenthesis, the fraction v sub a, over v sub a, plus v sub w, end fraction, close parenthesis, times lowercase t sub M\" display=\"inline\" overflow=\"scroll\"><msub><mi>t</mi><mtext>T</mtext></msub><mo>=</mo><mpadded><mo>(</mo><mpadded><mfrac><msub><mi>v</mi><mtext>a</mtext></msub><mrow><msub><mi>v</mi><mtext>a</mtext></msub><mo>+</mo><msub><mi>v</mi><mtext>w</mtext></msub></mrow></mfrac></mpadded><mo>)</mo></mpadded><msub><mi>t</mi><mtext>M</mtext></msub></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"lowercase t sub uppercase T equals, open parenthesis, the fraction v sub a, over v sub a, plus v sub w, end fraction, close parenthesis, times lowercase t sub M\" display=\"inline\" overflow=\"scroll\"><msub><mi>t</mi><mtext>T</mtext></msub><mo>=</mo><mpadded><mo>(</mo><mpadded><mfrac><msub><mi>v</mi><mtext>a</mtext></msub><mrow><msub><mi>v</mi><mtext>a</mtext></msub><mo>+</mo><msub><mi>v</mi><mtext>w</mtext></msub></mrow></mfrac></mpadded><mo>)</mo></mpadded><msub><mi>t</mi><mtext>M</mtext></msub></math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Reference Frames and Relative Motion"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

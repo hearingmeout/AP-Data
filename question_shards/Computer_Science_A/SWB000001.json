@@ -1,0 +1,41 @@
+{
+  "id": "SWB000001",
+  "type": "mcq",
+  "title": "Equivalent Boolean expression - write code",
+  "content": {
+    "description": "",
+    "question": "Assume that isEven, isPositive, and isPrime are boolean variables that have been properly declared and initialized. Which of the following expressions is equivalent to the expression !(isEven && isPositive) && isPrime?",
+    "image": null,
+    "choices": [
+      {
+        "label": "(!isEven || !isPositive) && isPrime",
+        "image": null
+      },
+      {
+        "label": "(!isEven || !isPositive) && !isPrime",
+        "image": null
+      },
+      {
+        "label": "(!isEven && !isPositive) && isPrime",
+        "image": null
+      },
+      {
+        "label": "(!isEven && !isPositive) && !isPrime",
+        "image": null
+      }
+    ],
+    "answer": "(!isEven || !isPositive) && isPrime"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.5",
+    "text": "2.5: Compound Boolean Expressions"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VH904462",
+  "type": "mcq",
+  "title": "doSomething method",
+  "content": {
+    "description": "Consider the following method.",
+    "question": "public void doSomething(){System.out.println(\"Something has been done\");}Each of the following statements appears in a method in the same class as doSomething. Which of the following statements are valid uses of the method doSomething ?doSomething();String output = doSomething();System.out.println(doSomething());",
+    "image": null,
+    "choices": [
+      {
+        "label": "I only",
+        "image": null
+      },
+      {
+        "label": "I and II only",
+        "image": null
+      },
+      {
+        "label": "I and III only",
+        "image": null
+      },
+      {
+        "label": "I, II, and III",
+        "image": null
+      }
+    ],
+    "answer": "I only"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Method Signatures"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

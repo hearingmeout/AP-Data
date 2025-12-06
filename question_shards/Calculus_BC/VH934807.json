@@ -1,0 +1,41 @@
+{
+  "id": "VH934807",
+  "type": "mcq",
+  "title": "Justification - Squeeze Theorem",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> and <math alttext=\"h\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>h</mi></mrow></mstyle></math> be the functions defined by <math alttext=\"g of x, equals, negative 2 times x squared, plus 4 x, plus 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mrow><mo>−</mo><mn>2</mn><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mo>+</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mstyle></math> and <math alttext=\"h of x, equals, one half times x squared, minus x, plus the fraction 11 over 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>h</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><mi>x</mi><mo>+</mo><mfrac><mrow><mn>11</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math>. If <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is a function that satisfies <math alttext=\"g of x, is less than or equal to f of x, is less than or equal to h of x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>≤</mo><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>≤</mo><mi>h</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow></mstyle></math> for all <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math>, what is <math alttext=\"the limit as x approaches 1, of, f of x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mrow><mn>1</mn></mrow></mrow></munder><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "3",
+        "image": null
+      },
+      {
+        "label": "4",
+        "image": null
+      },
+      {
+        "label": "5",
+        "image": null
+      },
+      {
+        "label": "The limit cannot be determined from the information given.",
+        "image": null
+      }
+    ],
+    "answer": "The limit cannot be determined from the information given."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.8",
+    "text": "1.8: Determining Limits Using the Squeeze Theorem"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Confirm whether hypotheses or conditions of a selected definition, theorem, or test have been satisfied."
+  }
+}

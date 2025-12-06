@@ -1,0 +1,41 @@
+{
+  "id": "LKV000004",
+  "type": "mcq",
+  "title": "access for Player class - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following replacements for /* missing code */ is the most appropriate implementation of the class?",
+    "image": null,
+    "choices": [
+      {
+        "label": "private int score; private int id; public Player(int playerScore, int playerID) { /* implementation not shown */ } private int getScore() { /* implementation not shown */ }",
+        "image": null
+      },
+      {
+        "label": "private int score; private int id; public Player(int playerScore, int playerID) { /* implementation not shown */ } public int getScore() { /* implementation not shown */ }",
+        "image": null
+      },
+      {
+        "label": "public int score; public int id; public Player(int playerScore, int playerID) { /* implementation not shown */ } private int getScore() { /* implementation not shown */ }",
+        "image": null
+      },
+      {
+        "label": "public int score; public int id; public Player(int playerScore, int playerID) { /* implementation not shown */ } public int getScore() { /* implementation not shown */ }",
+        "image": null
+      }
+    ],
+    "answer": "private int score; private int id; public Player(int playerScore, int playerID) { /* implementation not shown */ } public int getScore() { /* implementation not shown */ }"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Anatomy of a Class"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

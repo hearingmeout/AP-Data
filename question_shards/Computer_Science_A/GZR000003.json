@@ -1,0 +1,41 @@
+{
+  "id": "GZR000003",
+  "type": "mcq",
+  "title": "Conditionals to set year category",
+  "content": {
+    "description": "",
+    "question": "Which of the following code segments can replace /* missing code */ so that the getCategory method works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "if (year > 1600 || year < 400) { category = \"Other\"; } else if (year >= 1400) { category = \"Renaissance\"; } else if (year >= 400) { category = \"Medieval\"; }",
+        "image": null
+      },
+      {
+        "label": "if (year > 1600 || year < 400) { category = \"Other\"; } if (year >= 1400) { category = \"Renaissance\"; } if (year >= 400) { category = \"Medieval\"; }",
+        "image": null
+      },
+      {
+        "label": "if (year >= 1400) { category = \"Renaissance\"; } else if (year >= 400) { category = \"Medieval\"; } else { category = \"Other\"; }",
+        "image": null
+      },
+      {
+        "label": "if (year >= 1400) { category = \"Renaissance\"; } if (year >= 400) { category = \"Medieval\"; } else { category = \"Other\"; }",
+        "image": null
+      }
+    ],
+    "answer": "if (year > 1600 || year < 400) { category = \"Other\"; } else if (year >= 1400) { category = \"Renaissance\"; } else if (year >= 400) { category = \"Medieval\"; }"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: `if` Statements"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

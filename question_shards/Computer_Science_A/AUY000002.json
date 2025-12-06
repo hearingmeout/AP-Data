@@ -1,0 +1,41 @@
+{
+  "id": "AUY000002",
+  "type": "mcq",
+  "title": "Scanning ints from file - initial conditions",
+  "content": {
+    "description": "",
+    "question": "Which of the following could be the contents of input.txt so that the variables firstIn, secondIn, and thirdIn are each assigned a valid value by the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "123",
+        "image": null
+      },
+      {
+        "label": "1 2 3",
+        "image": null
+      },
+      {
+        "label": "1, 2, 3",
+        "image": null
+      },
+      {
+        "label": "firstIn: 1 secondIn: 2 thirdIn: 3",
+        "image": null
+      }
+    ],
+    "answer": "1 2 3"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.6",
+    "text": "4.6: Using Text Files"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "VR165608",
+  "type": "mcq",
+  "title": "Use of procedure to search a dictionary",
+  "content": {
+    "description": "A student is developing a program that allows users to look up the definitions of words that appear in a book.",
+    "question": "The student plans to perform a large number of searches through a dictionary containing words and their definitions. The student will use a procedure written by a computer scientist to quickly search the dictionary (and knows that the procedure will return a definition if one is available). The student cannot modify the search procedure written by the computer scientist but can call the procedure by supplying a word.Which of the following is a true statement about the student’s use of the computer scientist’s search procedure?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The student is changing the search procedure’s internal abstractions.",
+        "image": null
+      },
+      {
+        "label": "The student is modifying the search procedure to take a definition as an argument and return the corresponding word.",
+        "image": null
+      },
+      {
+        "label": "The student is reusing the computer scientist’s procedural abstraction by knowing what the procedure does without knowing how it does it.",
+        "image": null
+      },
+      {
+        "label": "The student is reusing the computer scientist’s procedural abstraction by using duplicate code each time a search needs to occur.",
+        "image": null
+      }
+    ],
+    "answer": "The student is reusing the computer scientist’s procedural abstraction by knowing what the procedure does without knowing how it does it."
+  },
+  "topic": {
+    "code": "3.13",
+    "text": "3.13: Developing Procedures"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Explain how abstraction manages complexity."
+  }
+}

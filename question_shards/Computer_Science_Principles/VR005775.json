@@ -1,0 +1,37 @@
+{
+  "id": "VR005775",
+  "type": "mcq",
+  "title": "Determine if score is within ten points of target",
+  "content": {
+    "description": "",
+    "question": "Which of the following Boolean expressions will evaluate to true if and only if score is within 10 points of target ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "(score ≤ target + 10) AND (target + 10 ≤ score)",
+        "image": null
+      },
+      {
+        "label": "(target + 10 ≤ score) AND (score ≤ target - 10)",
+        "image": null
+      },
+      {
+        "label": "(score ≤ target - 10) AND (score ≤ target + 10)",
+        "image": null
+      },
+      {
+        "label": "(target - 10 ≤ score) AND (score ≤ target + 10)",
+        "image": null
+      }
+    ],
+    "answer": "(target - 10 ≤ score) AND (score ≤ target + 10)"
+  },
+  "topic": {
+    "code": "3.5",
+    "text": "3.5: Boolean Expressions"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

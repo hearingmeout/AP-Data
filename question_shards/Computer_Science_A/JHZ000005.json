@@ -1,0 +1,41 @@
+{
+  "id": "JHZ000005",
+  "type": "mcq",
+  "title": "Create Student object - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following statements will cause a compilation error?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Student a = new Student();",
+        "image": null
+      },
+      {
+        "label": "Student b = new Student(\"Juan\");",
+        "image": null
+      },
+      {
+        "label": "Student c = new Student(\"Juan\", 15);",
+        "image": null
+      },
+      {
+        "label": "Student d = new Student(\"Juan\", \"15\");",
+        "image": null
+      }
+    ],
+    "answer": "Student d = new Student(\"Juan\", \"15\");"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.13",
+    "text": "1.13: Object Creation and Storage (Instantiation)"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

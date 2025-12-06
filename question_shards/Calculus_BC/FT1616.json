@@ -1,0 +1,45 @@
+{
+  "id": "FT1616",
+  "type": "mcq",
+  "title": "Differentiable, continuous, piecewise",
+  "content": {
+    "description": "<math> <semantics> <mrow> <mi> f </mi> <mtext> </mtext> <mrow> <mo> ( </mo> <mi> x </mi> <mo> ) </mo> </mrow> <mo> = </mo> <mrow> <mo> { </mo> <mrow> <mtext> </mtext> <mtable columnalign=\"left\"> <mtr columnalign=\"left\"> <mtd columnalign=\"left\"> <mrow> <mfrac> <mrow> <msup> <mi> x </mi> <mn> 2 </mn> </msup> <mo> − </mo> <mn> 4 </mn> </mrow> <mrow> <mi> x </mi> <mo> − </mo> <mn> 2 </mn> </mrow> </mfrac> </mrow> </mtd> <mtd columnalign=\"left\"> <mrow> <mtext> if&nbsp; </mtext> <mtext> </mtext> <mi> x </mi> <mo> ≠ </mo> <mn> 2 </mn> </mrow> </mtd> </mtr> <mtr columnalign=\"left\"> <mtd columnalign=\"left\"> <mrow> <mtext> </mtext> <mn> 1 </mn> </mrow> </mtd> <mtd columnalign=\"left\"> <mrow> <mtext> if&nbsp; </mtext> <mtext> </mtext> <mi> x </mi> <mo> = </mo> <mn> 2 </mn> </mrow> </mtd> </mtr> </mtable> </mrow> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\"> MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk 0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr 0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaacaWGMbGaaGjcVp aabmaabaGaamiEaaGaayjkaiaawMcaaiabg2da9maaceqabaGaaGPa VxaabaqaciaaaeaadaWcaaqaaiaadIhadaahaaWcbeqaaiaaikdaaa GccqGHsislcaaI0aaabaGaamiEaiabgkHiTiaaikdaaaaabaGaaeyA aiaabAgacaqGGaGaaGjcVlaadIhacqGHGjsUcaaIYaaabaGaaGPaVl aaigdaaeaacaqGPbGaaeOzaiaabccacaaMi8UaamiEaiabg2da9iaa ikdaaaaacaGL7baaaaa@58A2@ </annotation> </semantics> </math>",
+    "question": "Let f be the function defined above. Which of the following statements about f are true? I. f has a limit at <math> <mrow> <mi> x </mi> <mo> = </mo> <mn> 2 </mn> </mrow> </math> . II. f is continuous at <math> <mrow> <mi> x </mi> <mo> = </mo> <mn> 2 </mn> </mrow> </math> . III. f is differentiable at <math> <mrow> <mi> x </mi> <mo> = </mo> <mn> 2 </mn> </mrow> </math> .",
+    "image": null,
+    "choices": [
+      {
+        "label": "I only",
+        "image": null
+      },
+      {
+        "label": "II only",
+        "image": null
+      },
+      {
+        "label": "III only",
+        "image": null
+      },
+      {
+        "label": "I and II only",
+        "image": null
+      },
+      {
+        "label": "I, II and III",
+        "image": null
+      }
+    ],
+    "answer": "I only"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.13",
+    "text": "1.13: Removing Discontinuities"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

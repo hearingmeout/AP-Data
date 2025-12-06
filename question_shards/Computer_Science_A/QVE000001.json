@@ -1,0 +1,41 @@
+{
+  "id": "QVE000001",
+  "type": "mcq",
+  "title": "Removing 0s from numList - explain error",
+  "content": {
+    "description": "",
+    "question": "For which of the following lists does the code segment not produce the correct result?",
+    "image": null,
+    "choices": [
+      {
+        "label": "[0, 1, 0, 2]",
+        "image": null
+      },
+      {
+        "label": "[1, 0, 0, 2]",
+        "image": null
+      },
+      {
+        "label": "[1, 2, 3, 0]",
+        "image": null
+      },
+      {
+        "label": "[1, 2, 3, 4]",
+        "image": null
+      }
+    ],
+    "answer": "[1, 0, 0, 2]"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.9",
+    "text": "4.9: `ArrayList` Traversals"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

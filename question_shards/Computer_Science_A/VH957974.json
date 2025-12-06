@@ -1,0 +1,41 @@
+{
+  "id": "VH957974",
+  "type": "mcq",
+  "title": "add and set in animals ArrayList",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "ArrayList<String> animals = new ArrayList<>();animals.add(\"fox\");animals.add(0, \"squirrel\");animals.add(\"deer\");animals.set(2, \"groundhog\");animals.add(1, \"mouse\");System.out.println(animals.get(2) + \" and \" + animals.get(3));What is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "mouse and fox",
+        "image": null
+      },
+      {
+        "label": "fox and groundhog",
+        "image": null
+      },
+      {
+        "label": "groundhog and deer",
+        "image": null
+      },
+      {
+        "label": "squirrel and groundhog",
+        "image": null
+      }
+    ],
+    "answer": "fox and groundhog"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

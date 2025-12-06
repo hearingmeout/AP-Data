@@ -1,0 +1,41 @@
+{
+  "id": "GDW000004",
+  "type": "mcq",
+  "title": "Bugs class error - explain error",
+  "content": {
+    "description": "",
+    "question": "Which of the following best explains why the Bugs class does not compile?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The return type of the getPopulation method should be void.",
+        "image": null
+      },
+      {
+        "label": "The getPopulation method should have at least one parameter.",
+        "image": null
+      },
+      {
+        "label": "The variable population is not declared inside the getPopulation method.",
+        "image": null
+      },
+      {
+        "label": "In the getPopulation method, the variable population should be returned instead of p.",
+        "image": null
+      }
+    ],
+    "answer": "In the getPopulation method, the variable population should be returned instead of p."
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.5",
+    "text": "3.5: Methods: How to Write Them"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

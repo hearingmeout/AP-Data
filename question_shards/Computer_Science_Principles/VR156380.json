@@ -1,0 +1,37 @@
+{
+  "id": "VR156380",
+  "type": "mcq",
+  "title": "Set bonus points based on timer",
+  "content": {
+    "description": "Which of the following code segments assigns the correct number of bonus points to bonus for all possible values of timer ?",
+    "question": "Select two answers.",
+    "image": null,
+    "choices": [
+      {
+        "label": "The figure presents three blocks of code that consist of 5 lines. Throughout the second and third blocks of code are nested blocks of code, as follows. Line 1: [begin block] bonus ← 500 [end block] [Begin Block] Line 2: IF [begin block] timer ≥ 30 [end block] [Begin Block] Line 3: [begin block] bonus ← bonus + 500 [end block] [End Block] [End Block] [Begin Block] Line 4: IF [begin block] timer > 60 [end block] [Begin Block] Line 5: [begin block] bonus ← bonus + 500 [end block] [End Block] [End Block]",
+        "image": "https://ap.oly.st/images/6ec5d493107b5b0a974d3e4fca2ae79e.png"
+      },
+      {
+        "label": "The figure presents three blocks of code that consist of 5 lines. Throughout the second and third blocks of code are nested blocks of code, as follows. Line 1: [begin block] bonus ← 1500 [end block] [Begin Block] Line 2: IF [begin block] timer ≥ 30 [end block] [Begin Block] Line 3: [begin block] bonus ← bonus - 500 [end block] [End Block] [End Block] [Begin Block] Line 4: IF [begin block] timer < 30 [end block] [Begin Block] Line 5: [begin block] bonus ← bonus - 500 [end block] [End Block] [End Block]",
+        "image": "https://ap.oly.st/images/df0ae0af5009a82c15f770e7c4603778.png"
+      },
+      {
+        "label": "The figure presents three blocks of code that consist of 6 lines. Throughout the blocks of code are nested blocks of code, as follows. [Begin Block] Line 1: IF [begin block] timer > 60 [end block] [Begin Block] Line 2: [begin block] bonus ← 1500 [end block] [End Block] [End Block] [Begin Block] Line 3: IF [begin block] timer ≥ 30 [end block] [Begin Block] Line 4: [begin block] bonus ← 1000 [end block] [End Block] [End Block] [Begin Block] Line 5: IF [begin block] timer < 30 [end block] [Begin Block] Line 6: [begin block] bonus ← 500 [end block] [End Block] [End Block]",
+        "image": "https://ap.oly.st/images/713437ecbf6f10e43ba013fa79e2f493.png"
+      },
+      {
+        "label": "The figure presents three blocks of code that consist of 6 lines. Throughout the blocks of code are nested blocks of code, as follows. [Begin Block] Line 1: IF [begin block] timer > 60 [end block] [Begin Block] Line 2: [begin block] bonus ← 1500 [end block] [End Block] [End Block] [Begin Block] Line 3: IF [Begin Block] [begin block] timer ≥ 30 [end block] AND [begin block] timer ≤ 60 [end block] [End Block] [Begin Block] Line 4: [begin block] bonus ← 1000 [end block] [End Block] [End Block] [Begin Block] Line 5: IF [begin block] timer < 30 [end block] [Begin Block] Line 6: [begin block] bonus ← 500 [end block] [End Block] [End Block]",
+        "image": "https://ap.oly.st/images/9e4bb85b21241fbd1601e1f4bc1870e2.png"
+      }
+    ],
+    "answer": "The figure presents three blocks of code that consist of 5 lines. Throughout the second and third blocks of code are nested blocks of code, as follows. Line 1: [begin block] bonus ← 500 [end block] [Begin Block] Line 2: IF [begin block] timer ≥ 30 [end block] [Begin Block] Line 3: [begin block] bonus ← bonus + 500 [end block] [End Block] [End Block] [Begin Block] Line 4: IF [begin block] timer > 60 [end block] [Begin Block] Line 5: [begin block] bonus ← bonus + 500 [end block] [End Block] [End Block]"
+  },
+  "topic": {
+    "code": "3.6",
+    "text": "3.6: Conditionals"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

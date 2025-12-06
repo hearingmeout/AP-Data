@@ -1,0 +1,45 @@
+{
+  "id": "FT1420",
+  "type": "mcq",
+  "title": "Differentiation of a product using chain rule",
+  "content": {
+    "description": "",
+    "question": "If f(x) = (x − 1)(x2 + 2)3, then f′(x) =",
+    "image": null,
+    "choices": [
+      {
+        "label": "6x(x2+2)2",
+        "image": null
+      },
+      {
+        "label": "6x(x − 1)(x2 + 2)2",
+        "image": null
+      },
+      {
+        "label": "(x2 + 2)2(x2 + 3x −1)",
+        "image": null
+      },
+      {
+        "label": "(x2 + 2)2(7x2 − 6x + 2)",
+        "image": null
+      },
+      {
+        "label": "−3(x − 1)(x2 + 2)2",
+        "image": null
+      }
+    ],
+    "answer": "(x2 + 2)2(7x2 − 6x + 2)"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: The Chain Rule"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Identify an appropriate mathematical rule or procedure based on the classification of a given expression (e.g., Use the chain rule to find the derivative of a composite function)."
+  }
+}

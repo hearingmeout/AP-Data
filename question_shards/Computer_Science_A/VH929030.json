@@ -1,0 +1,41 @@
+{
+  "id": "VH929030",
+  "type": "mcq",
+  "title": "twoInARow method",
+  "content": {
+    "description": "The twoInARow method below is intended to return true if any two consecutive elements of the parameter arr are equal in value and return false otherwise.",
+    "question": "public boolean twoInARow(int[] arr){/* missing loop header */{if (arr[k] == arr[k + 1]){return true;}}return false;}Which of the following can be used to replace /* missing loop header */ so that the method will work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "for (int k = 0; k < arr.length - 1; k++)",
+        "image": null
+      },
+      {
+        "label": "for (int k = 0; k < arr.length; k++)",
+        "image": null
+      },
+      {
+        "label": "for (int k = 1; k < arr.length; k++)",
+        "image": null
+      },
+      {
+        "label": "for (int k = arr.length - 1; k >= 0; k--)",
+        "image": null
+      }
+    ],
+    "answer": "for (int k = 0; k < arr.length - 1; k++)"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implementing Array Algorithms"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

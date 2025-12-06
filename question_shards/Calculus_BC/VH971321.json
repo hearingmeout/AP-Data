@@ -1,0 +1,41 @@
+{
+  "id": "VH971321",
+  "type": "mcq",
+  "title": "Processes - Diff Eq Particular Solution",
+  "content": {
+    "description": "",
+    "question": "The general solution to the differential equation <math alttext=\"the derivative of y, with respect to x, equals, the fraction x over y \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>x</mi></mrow><mrow><mi>y</mi></mrow></mfrac></mrow></mrow></mstyle></math> is <math alttext=\"y equals, plus or minus the square root of x squared plus C, end root \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mrow><mo>±</mo><msqrt><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mi>C</mi></mrow></msqrt></mrow></mrow></mstyle></math>. Let <math alttext=\"y equals, f of x \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>y</mi><mo>=</mo><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow></mrow></mstyle></math> be the particular solution to the differential equation with the initial condition <math alttext=\"f of negative 2, equals, the negative of the square root of 2 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mrow><mo>−</mo><mn>2</mn></mrow><mo stretchy=\"false\">)</mo><mo>=</mo><mrow><mo>−</mo><msqrt><mrow><mn>2</mn></mrow></msqrt></mrow></mrow></mstyle></math>. Which of the following is an expression for <math alttext=\"f of x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math> and the domain for which the solution is valid?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"f of x, equals, the negative of the square root of x squared, minus 2, end root \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mrow><mo>−</mo><msqrt><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><mn>2</mn></mrow></msqrt></mrow></mrow></mstyle></math> for <math alttext=\"x less than the negative of the square root of 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>&lt;</mo><mrow><mo>−</mo><msqrt><mrow><mn>2</mn></mrow></msqrt></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f of x, equals, the square root of x squared minus 2, end root \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><mn>2</mn></mrow></msqrt></mrow></mstyle></math> for <math alttext=\"x less than the negative of the square root of 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>&lt;</mo><mrow><mo>−</mo><msqrt><mrow><mn>2</mn></mrow></msqrt></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f of x, equals, the negative of the square root of x squared minus 2, end root \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mrow><mo>−</mo><msqrt><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><mn>2</mn></mrow></msqrt></mrow></mrow></mstyle></math> for <math alttext=\"the absolute value of x, greater than the square root of 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>|</mo><mi>x</mi><mo>|</mo></mrow><mo>&gt;</mo><msqrt><mrow><mn>2</mn></mrow></msqrt></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f of x, equals, the square root of x squared minus 2, end root \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><mn>2</mn></mrow></msqrt></mrow></mstyle></math> for <math alttext=\"the absolute value of x, greater than the square root of 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>|</mo><mi>x</mi><mo>|</mo></mrow><mo>&gt;</mo><msqrt><mrow><mn>2</mn></mrow></msqrt></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"f of x, equals, the negative of the square root of x squared, minus 2, end root \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mrow><mo>−</mo><msqrt><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><mn>2</mn></mrow></msqrt></mrow></mrow></mstyle></math> for <math alttext=\"x less than the negative of the square root of 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>&lt;</mo><mrow><mo>−</mo><msqrt><mrow><mn>2</mn></mrow></msqrt></mrow></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.7",
+    "text": "7.7: Finding Particular Solutions Using Initial Conditions and Separation of Variables"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

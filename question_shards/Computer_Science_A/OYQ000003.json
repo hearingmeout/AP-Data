@@ -1,0 +1,41 @@
+{
+  "id": "OYQ000003",
+  "type": "mcq",
+  "title": "Dog Class missing constructor - determine result",
+  "content": {
+    "description": "",
+    "question": "What is printed as a result of executing this code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "name: , age: 0",
+        "image": null
+      },
+      {
+        "label": "name: null, age: 0",
+        "image": null
+      },
+      {
+        "label": "name: null, age: null",
+        "image": null
+      },
+      {
+        "label": "Nothing is printed. An error occurs because the Dog class does not contain a no-parameter constructor.",
+        "image": null
+      }
+    ],
+    "answer": "name: null, age: 0"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.4",
+    "text": "3.4: Constructors"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

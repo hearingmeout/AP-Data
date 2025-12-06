@@ -1,0 +1,41 @@
+{
+  "id": "FT538041",
+  "type": "mcq",
+  "title": "Remove zeros from ArrayList by index",
+  "content": {
+    "description": "Consider the following method.",
+    "question": "Assume that a List<Integer> values initially contains the following Integer values. What will values contain as a result of executing mystery(values) ?",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/222b5ced8f5bee4efe1d65507dc6309b.jpg",
+    "choices": [
+      {
+        "label": "[0, 0, 4, 2, 5, 0, 3, 0]",
+        "image": null
+      },
+      {
+        "label": "[4, 2, 5, 3]",
+        "image": null
+      },
+      {
+        "label": "[0, 4, 2, 5, 3]",
+        "image": null
+      },
+      {
+        "label": "The code throws an ArrayIndexOutOfBoundsException exception.",
+        "image": null
+      }
+    ],
+    "answer": "[0, 4, 2, 5, 3]"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.9",
+    "text": "4.9: `ArrayList` Traversals"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "PRP000003",
+  "type": "mcq",
+  "title": "Substrings of qrstu - determine result",
+  "content": {
+    "description": "",
+    "question": "What, if anything, is printed as a result of executing this code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "rrsrstrstu",
+        "image": null
+      },
+      {
+        "label": "qqrqrsqrst",
+        "image": null
+      },
+      {
+        "label": "qqrqrsqrstqrstu",
+        "image": null
+      },
+      {
+        "label": "Nothing is printed because an IndexOutOfBoundsException occurs.",
+        "image": null
+      }
+    ],
+    "answer": "qqrqrsqrstqrstu"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.10",
+    "text": "2.10: Implementing String Algorithms"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

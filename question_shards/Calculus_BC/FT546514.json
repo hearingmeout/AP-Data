@@ -1,0 +1,45 @@
+{
+  "id": "FT546514",
+  "type": "mcq",
+  "title": "Chain rule with exponential function",
+  "content": {
+    "description": "",
+    "question": "If <math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"f of x equals e to the power of open parentheses 1 divided by x close parentheses \"> <semantics> <mrow> <mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><msup> <mi>e</mi> <mrow> <mn>1</mn><mo>/</mo><mi>x</mi></mrow> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaWGMbGaaiikaiaadIhacaGGPaGaeyypa0Jaamyza8aadaahaaWc beqaa8qacaaIXaGaai4laiaadIhaaaaaaa@3DFE@ </annotation> </semantics> </math> , then f'(x)=",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"negative e to the power of open parentheses 1 divided by x close parentheses divided by x squared\"> <semantics> <mrow> <mo>−</mo><mfrac> <mrow> <msup> <mi>e</mi> <mrow> <mn>1</mn><mo>/</mo><mi>x</mi></mrow> </msup> </mrow> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacqGHsisldaWcaaWdaeaapeGaamyza8aadaahaaWcbeqaa8qacaaI XaGaai4laiaadIhaaaaak8aabaWdbiaadIhapaWaaWbaaSqabeaape GaaGOmaaaaaaaaaa@3D01@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"negative e to the power of open parentheses 1 divided by x close parentheses\"> <semantics> <mrow> <mo>−</mo><msup> <mi>e</mi> <mrow> <mn>1</mn><mo>/</mo><mi>x</mi></mrow> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacqGHsislcaWGLbWdamaaCaaaleqabaWdbiaaigdacaGGVaGaamiE aaaaaaa@3AA4@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"e to the power of open parentheses 1 divided by x close parentheses divided by x\"> <semantics> <mrow> <mfrac> <mrow> <msup> <mi>e</mi> <mrow> <mn>1</mn><mo>/</mo><mi>x</mi></mrow> </msup> </mrow> <mi>x</mi> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaamyza8aadaahaaWcbeqaa8qacaaIXaGaai4l aiaadIhaaaaak8aabaWdbiaadIhaaaaaaa@3B0C@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"e to the power of open parentheses 1 divided by x close parentheses divided by x squared\"> <semantics> <mrow> <mfrac> <mrow> <msup> <mi>e</mi> <mrow> <mn>1</mn><mo>/</mo><mi>x</mi></mrow> </msup> </mrow> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaamyza8aadaahaaWcbeqaa8qacaaIXaGaai4l aiaadIhaaaaak8aabaWdbiaadIhapaWaaWbaaSqabeaapeGaaGOmaa aaaaaaaa@3C14@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"1 divided by x times e to the power of open parentheses 1 divided by x minus 1 close parentheses\"> <semantics> <mrow> <mfrac> <mn>1</mn> <mrow> <msup> <mi>x</mi> <mrow></mrow> </msup> </mrow> </mfrac> <msup> <mi>e</mi> <mrow> <mo stretchy=\"false\">(</mo><mn>1</mn><mo>/</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>−</mo><mn>1</mn></mrow> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaacaaIXaaabaWdbiaadIhapaWaaWbaaSqabeaaaaaa aOWdbiaadwgapaWaaWbaaSqabeaapeGaaiikaiaaigdacaGGVaGaam iEaiaacMcacqGHsislcaaIXaaaaaaa@3EF5@ </annotation> </semantics> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"negative e to the power of open parentheses 1 divided by x close parentheses divided by x squared\"> <semantics> <mrow> <mo>−</mo><mfrac> <mrow> <msup> <mi>e</mi> <mrow> <mn>1</mn><mo>/</mo><mi>x</mi></mrow> </msup> </mrow> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacqGHsisldaWcaaWdaeaapeGaamyza8aadaahaaWcbeqaa8qacaaI XaGaai4laiaadIhaaaaak8aabaWdbiaadIhapaWaaWbaaSqabeaape GaaGOmaaaaaaaaaa@3D01@ </annotation> </semantics> </math>"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: The Chain Rule"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Identify an appropriate mathematical rule or procedure based on the classification of a given expression (e.g., Use the chain rule to find the derivative of a composite function)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VR730227",
+  "type": "mcq",
+  "title": "Fluid flow compare flow rates in pipe",
+  "content": {
+    "description": "",
+    "question": "Which of the following correctly compares the mass flow rate <math alttext=\"Q sub A\" display=\"inline\" overflow=\"scroll\"><msub><mi>Q</mi><mi>A</mi></msub></math> of the water at Point <math alttext=\"A\" display=\"inline\" overflow=\"scroll\"><mtext>A</mtext></math> to the mass flow rate <math alttext=\"Q sub B\" display=\"inline\" overflow=\"scroll\"><msub><mi>Q</mi><mi>B</mi></msub></math> of the water at Point <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mtext>B</mtext></math> and provides a valid justification?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"Q sub B equals Q sub A\" display=\"inline\" overflow=\"scroll\"><msub><mi>Q</mi><mi>B</mi></msub><mo>=</mo><msub><mi>Q</mi><mi>A</mi></msub></math>, because the speed of the water at point <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mtext>B</mtext></math> is the same as the speed at Point <math alttext=\"A\" display=\"inline\" overflow=\"scroll\"><mtext>A</mtext></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"Q sub B equals Q sub A\" display=\"inline\" overflow=\"scroll\"><msub><mi>Q</mi><mi>B</mi></msub><mo>=</mo><msub><mi>Q</mi><mi>A</mi></msub></math>, because the flow rate must remain constant throughout the pipe.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"Q sub B is less than Q sub A\" display=\"inline\" overflow=\"scroll\"><msub><mi>Q</mi><mi>B</mi></msub><mo>&lt;</mo><msub><mi>Q</mi><mi>A</mi></msub></math>, because the greater cross-sectional area at Point <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mtext>B</mtext></math> means the speed of the water at Point <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mtext>B</mtext></math> is less than the speed of the water at Point <math alttext=\"A\" display=\"inline\" overflow=\"scroll\"><mtext>A</mtext></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"Q sub B is less than Q sub A\" display=\"inline\" overflow=\"scroll\"><msub><mi>Q</mi><mi>B</mi></msub><mo>&lt;</mo><msub><mi>Q</mi><mi>A</mi></msub></math>, because the water slows down as it moves vertically upward between Point <math alttext=\"A\" display=\"inline\" overflow=\"scroll\"><mtext>A</mtext></math> and Point <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mtext>B</mtext></math>.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"Q sub B equals Q sub A\" display=\"inline\" overflow=\"scroll\"><msub><mi>Q</mi><mi>B</mi></msub><mo>=</mo><msub><mi>Q</mi><mi>A</mi></msub></math>, because the flow rate must remain constant throughout the pipe."
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Fluids"
+  },
+  "topic": {
+    "code": "8.4",
+    "text": "8.4: Fluids and Conservation Laws"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

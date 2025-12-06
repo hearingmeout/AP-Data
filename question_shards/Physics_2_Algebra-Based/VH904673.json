@@ -1,0 +1,41 @@
+{
+  "id": "VH904673",
+  "type": "mcq",
+  "title": "Ammeter between X and Y",
+  "content": {
+    "description": "",
+    "question": "After the switch is closed and the circuit has reached a steady state, an ideal ammeter is connected between points X and Y, as shown above. The circuit is again allowed to reach steady state. Which of the following correctly indicates the reading on the ammeter and explains why it has that reading?",
+    "image": "https://ap.oly.st/images/356922261de07921245efba253c91184.png",
+    "choices": [
+      {
+        "label": "<math alttext=\"0 amperes\" overflow=\"scroll\"><mstyle><mrow><mn>0</mn><mtext> </mtext><mtext> </mtext><mstyle mathvariant=\"normal\"><mi>A</mi></mstyle></mrow></mstyle></math>, because the capacitor will be fully charged and no current will exist in that branch.",
+        "image": null
+      },
+      {
+        "label": "The same as the current in resistor 3, because the ammeter is connected in parallel with it.",
+        "image": null
+      },
+      {
+        "label": "The same as the current in resistor 1, because ammeters have very low resistance and it will create a short between the top and bottom wires.",
+        "image": null
+      },
+      {
+        "label": "The sum of the currents in resistors 2 and 3, because that current also goes through the capacitor.",
+        "image": null
+      }
+    ],
+    "answer": "The same as the current in resistor 1, because ammeters have very low resistance and it will create a short between the top and bottom wires."
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.2",
+    "text": "11.2: Simple Circuits"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

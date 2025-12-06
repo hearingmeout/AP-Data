@@ -1,0 +1,41 @@
+{
+  "id": "FT659865",
+  "type": "mcq",
+  "title": "mystery with int array and 3 int parameters",
+  "content": {
+    "description": "Consider the following method.",
+    "question": "// precondition: arr contains no duplicates; // the elements in arr are in sorted order; // 0 ≤ low ≤ arr.length; low - 1 ≤ high < arr.length public static int mystery(int[] arr, int low, int high, int num) { int mid = (low + high) / 2; if (low > high) { return low; } else if (arr[mid] < num) { return mystery(arr, mid + 1, high, num); } else if (arr[mid] > num) { return mystery(arr, low, mid - 1, num); } else // arr{mid] == num { return mid; } } How many calls to mystery (including the initial call) are made as a result of the call mystery(arr, 0, arr.length - 1, 14) if arr is the following array? 0 1 2 3 4 5 6 7 arr 11 13 25 26 29 30 31 32",
+    "image": null,
+    "choices": [
+      {
+        "label": "2",
+        "image": null
+      },
+      {
+        "label": "4",
+        "image": null
+      },
+      {
+        "label": "7",
+        "image": null
+      },
+      {
+        "label": "8",
+        "image": null
+      }
+    ],
+    "answer": "4"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Array Creation and Access"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

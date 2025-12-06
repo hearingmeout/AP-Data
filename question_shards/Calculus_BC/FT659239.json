@@ -1,0 +1,40 @@
+{
+  "id": "FT659239",
+  "type": "frq",
+  "title": "Analysis from h'(x)=quotient",
+  "content": {
+    "description": "",
+    "question": "Let h be a function defined for all <math> <semantics> <mrow> <mi>x</mi> <mo>≠</mo> <mn>0</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWG4bGaeyiyIKRaaGimaaaa@3992@</annotation> </semantics> </math> such that h(4) = -3 and the derivative of h is given by <math> <semantics> <mrow> <msup> <mi>h</mi> <mo>′</mo> </msup> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mfrac> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>−</mo> <mn>2</mn> </mrow> <mi>x</mi> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qaceWGObGbauaadaqadaWdaeaapeGaamiEaaGaayjkaiaawMcaaiabg2da9maalaaapaqaa8qacaWG4bWdamaaCaaaleqabaWdbiaaikdaaaGccqGHsislcaaIYaaapaqaa8qacaWG4baaaaaa@3FBB@</annotation> </semantics> </math> for all <math> <semantics> <mrow> <mi>x</mi> <mo>≠</mo> <mn>0</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWG4bGaeyiyIKRaaGimaaaa@3992@</annotation> </semantics> </math>. (a) Find all values of x for which the graph of h has a horizontal tangent, and determine whether h has a local maximum, a local minimum, or neither at each of these values. Justify your answers.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Let h be a function defined for all <math> <semantics> <mrow> <mi>x</mi> <mo>≠</mo> <mn>0</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWG4bGaeyiyIKRaaGimaaaa@3992@</annotation> </semantics> </math> such that h(4) = -3 and the derivative of h is given by <math> <semantics> <mrow> <msup> <mi>h</mi> <mo>′</mo> </msup> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mfrac> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>−</mo> <mn>2</mn> </mrow> <mi>x</mi> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qaceWGObGbauaadaqadaWdaeaapeGaamiEaaGaayjkaiaawMcaaiabg2da9maalaaapaqaa8qacaWG4bWdamaaCaaaleqabaWdbiaaikdaaaGccqGHsislcaaIYaaapaqaa8qacaWG4baaaaaa@3FBB@</annotation> </semantics> </math> for all <math> <semantics> <mrow> <mi>x</mi> <mo>≠</mo> <mn>0</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWG4bGaeyiyIKRaaGimaaaa@3992@</annotation> </semantics> </math>. (a) Find all values of x for which the graph of h has a horizontal tangent, and determine whether h has a local maximum, a local minimum, or neither at each of these values. Justify your answers.",
+        "image": null
+      },
+      {
+        "text": "(b) On what intervals, if any, is the graph of h concave up? Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "(c) Write an equation for the line tangent to the graph of h at x = 4.",
+        "image": null
+      },
+      {
+        "text": "(d) Does the line tangent to the graph of h at x = 4 lie above or below the graph of h for x > 4? Why?",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Defining the Derivative of a Function and Using Derivative Notation"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

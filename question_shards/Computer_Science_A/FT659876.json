@@ -1,0 +1,41 @@
+{
+  "id": "FT659876",
+  "type": "mcq",
+  "title": "numberCheck with for loop and mod",
+  "content": {
+    "description": "Consider the following method.",
+    "question": "public void numberCheck(int maxNum) { int typeA = 0; int typeB = 0; int typeC = 0; for (int k = 1; k <= maxNum; k++) { if (k % 2 == 0 && k % 5 == 0) typeA++; if (k % 2 == 0) typeB++; if (k % 5 == 0) typeC++; } System.out.println(typeA + \" \" + typeB + \" \" + typeC); } What is printed as a result of the call numberCheck(50) ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "5 20 5",
+        "image": null
+      },
+      {
+        "label": "5 20 10",
+        "image": null
+      },
+      {
+        "label": "5 25 5",
+        "image": null
+      },
+      {
+        "label": "5 25 10",
+        "image": null
+      }
+    ],
+    "answer": "5 25 10"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.5",
+    "text": "2.5: Compound Boolean Expressions"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

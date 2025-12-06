@@ -1,0 +1,41 @@
+{
+  "id": "FT573888",
+  "type": "mcq",
+  "title": "Euler's method with table",
+  "content": {
+    "description": "",
+    "question": "The table above shows values of f', the derivative of a function f, for selected values of x. If f (−0.2) = 1, what is the approximation for f (0.4) obtained by using Euler’s method with a step size of 0.2 starting at x = −0.2 ?",
+    "image": "https://ap.oly.st/images/3cd3038e42461401c1cf22fb3cdee977.png",
+    "choices": [
+      {
+        "label": "1.48",
+        "image": null
+      },
+      {
+        "label": "1.74",
+        "image": null
+      },
+      {
+        "label": "2.04",
+        "image": null
+      },
+      {
+        "label": "2.20",
+        "image": null
+      }
+    ],
+    "answer": "1.74"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.5",
+    "text": "7.5: (BC ONLY) Approximating Solutions Using Euler's Method"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "TKO000001",
+  "type": "mcq",
+  "title": "Compound Boolean expression - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the conditions in which result is assigned the value true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "When j and k are both equal to 0",
+        "image": null
+      },
+      {
+        "label": "When j and k are both positive or both negative",
+        "image": null
+      },
+      {
+        "label": "When j is greater than k",
+        "image": null
+      },
+      {
+        "label": "When j is positive and k is negative or when j is negative and k is positive",
+        "image": null
+      }
+    ],
+    "answer": "When j and k are both positive or both negative"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Boolean Expressions"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

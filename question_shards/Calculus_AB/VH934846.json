@@ -1,0 +1,41 @@
+{
+  "id": "VH934846",
+  "type": "mcq",
+  "title": "Justification - Intermediate Value Theorem",
+  "content": {
+    "description": "<math alttext=\"The figure presents a 2 row table, with 6 columns of data. The heading for row 1 is “x,” and the heading for row 2 is “f of x.” The data in the table are as follows. Column 1. x is 0. f of x is 1. Column 2. x is 1. f of x is negative 5. Column 3. x is 2. f of x is negative 4. Column 4. x is 3. f of x is 2. Column 5. x is 4. f of x is negative 10. Column 6. x is 5. f of x is negative 15.\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtable columnlines=\"solid\" columnspacing=\"0.0em\" columnwidth=\"3em 0.05em 3em 3em 3em 3em 3em 3em\" equalrows=\"true\" frame=\"solid\" framespacing=\"0.0em 0.5ex\" rowlines=\"solid\" rowspacing=\"1ex\" width=\"auto\"><mtr><mtd><mi>x</mi></mtd><mtd><mspace depth=\"1.0ex\" height=\"2.25ex\" width=\"0.0em\"></mspace></mtd><mtd><mn>0</mn></mtd><mtd><mn>1</mn></mtd><mtd><mn>2</mn></mtd><mtd><mn>3</mn></mtd><mtd><mn>4</mn></mtd><mtd><mn>5</mn></mtd></mtr><mtr><mtd><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mtd><mtd><mspace depth=\"1.0ex\" height=\"2.25ex\" width=\"0.0em\"></mspace></mtd><mtd><mn>1</mn></mtd><mtd><mrow><mo>−</mo><mn>5</mn></mrow></mtd><mtd><mrow><mo>−</mo><mn>4</mn></mrow></mtd><mtd><mn>2</mn></mtd><mtd><mrow><mo>−</mo><mn>10</mn></mrow></mtd><mtd><mrow><mo>−</mo><mn>15</mn></mrow></mtd></mtr></mtable></mrow></mstyle></math>",
+    "question": "Selected values of a continuous function <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> are given in the table above. What is the fewest possible number of zeros of <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> in the interval <math alttext=\"open bracket, 0 comma 5, close bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>[</mo><mn>0</mn><mo>,</mo><mn>5</mn><mo>]</mo></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Zero, because <math alttext=\"f of x\" display=\"inline\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></math> is not equal to 0 for any of the values in the table.",
+        "image": null
+      },
+      {
+        "label": "One, because <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is continuous on the interval <math alttext=\"open bracket, 0 comma 5, close bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>[</mo><mn>0</mn><mo>,</mo><mn>5</mn><mo>]</mo></mrow></mrow></mstyle></math> and <math alttext=\"f of 0, is greater than 0, which is greater than f of 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>&gt;</mo><mn>0</mn><mo>&gt;</mo><mi>f</mi><mrow><mo>(</mo><mn>5</mn><mo>)</mo></mrow></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "Two, because the values for <math alttext=\"f of x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math> in the table change from positive to negative twice.",
+        "image": null
+      },
+      {
+        "label": "Three, because <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is continuous on the interval <math alttext=\"open bracket, 0 comma 5, close bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>[</mo><mn>0</mn><mo>,</mo><mn>5</mn><mo>]</mo></mrow></mrow></mstyle></math> and <math alttext=\"f of 0, is greater than 0, which is greater than f of 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>&gt;</mo><mn>0</mn><mo>&gt;</mo><mi>f</mi><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow></mrow></mstyle></math>, <math alttext=\"f of 1, is less than 0, which is less than f of 3\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow><mo>&lt;</mo><mn>0</mn><mo>&lt;</mo><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></mstyle></mrow></mstyle></math>, and <math alttext=\"f of 3, is greater than 0, which is greater than f of 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow><mo>&gt;</mo><mn>0</mn><mo>&gt;</mo><mi>f</mi><mrow><mo>(</mo><mn>5</mn><mo>)</mo></mrow></mrow></mstyle></mrow></mstyle></math>.",
+        "image": null
+      }
+    ],
+    "answer": "Three, because <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is continuous on the interval <math alttext=\"open bracket, 0 comma 5, close bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>[</mo><mn>0</mn><mo>,</mo><mn>5</mn><mo>]</mo></mrow></mrow></mstyle></math> and <math alttext=\"f of 0, is greater than 0, which is greater than f of 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>&gt;</mo><mn>0</mn><mo>&gt;</mo><mi>f</mi><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow></mrow></mstyle></math>, <math alttext=\"f of 1, is less than 0, which is less than f of 3\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow><mo>&lt;</mo><mn>0</mn><mo>&lt;</mo><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></mstyle></mrow></mstyle></math>, and <math alttext=\"f of 3, is greater than 0, which is greater than f of 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow><mo>&gt;</mo><mn>0</mn><mo>&gt;</mo><mi>f</mi><mrow><mo>(</mo><mn>5</mn><mo>)</mo></mrow></mrow></mstyle></mrow></mstyle></math>."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.16",
+    "text": "1.16: Working with the Intermediate Value Theorem (IVT)"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Provide reasons or rationales for solutions and conclusions."
+  }
+}

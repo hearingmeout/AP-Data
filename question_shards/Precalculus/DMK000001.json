@@ -1,0 +1,36 @@
+{
+  "id": "DMK000001",
+  "type": "frq",
+  "title": "Symbolic Manipulations - Exp/Log/Trig Functions",
+  "content": {
+    "description": "",
+    "question": "Part A The functions <math alttext=\"g\"><mi>g</mi></math> and <math alttext=\"h\"><mi>h</mi></math> are given by <math alttext=\"g open parentheses x close parentheses equals 15 arcsin x\"><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>15</mn><mi>arcsin</mi><mi>x</mi></math> <math alttext=\"h open parentheses x close parentheses equals log subscript 10 open parentheses 1 minus x close parentheses minus log subscript 10 4\"><mi>h</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msub><mi>log</mi><mn>10</mn></msub><mfenced><mrow><mn>1</mn><mo>-</mo><mi>x</mi></mrow></mfenced><mo>-</mo><msub><mi>log</mi><mn>10</mn></msub><mn>4</mn></math>. (i) Solve <math alttext=\"g open parentheses x close parentheses equals 5 pi\"><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>5</mn><mi>π</mi></math> for values of <math alttext=\"x\"><mi>x</mi></math> in the domain of <math alttext=\"g\"><mi>g</mi></math>. (ii) Solve <math alttext=\"h open parentheses x close parentheses equals 1\"><mi>h</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>1</mn></math> for values of <math alttext=\"x\"><mi>x</mi></math> in the domain of <math alttext=\"h\"><mi>h</mi></math>.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Part A The functions <math alttext=\"g\"><mi>g</mi></math> and <math alttext=\"h\"><mi>h</mi></math> are given by <math alttext=\"g open parentheses x close parentheses equals 15 arcsin x\"><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>15</mn><mi>arcsin</mi><mi>x</mi></math> <math alttext=\"h open parentheses x close parentheses equals log subscript 10 open parentheses 1 minus x close parentheses minus log subscript 10 4\"><mi>h</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msub><mi>log</mi><mn>10</mn></msub><mfenced><mrow><mn>1</mn><mo>-</mo><mi>x</mi></mrow></mfenced><mo>-</mo><msub><mi>log</mi><mn>10</mn></msub><mn>4</mn></math>. (i) Solve <math alttext=\"g open parentheses x close parentheses equals 5 pi\"><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>5</mn><mi>π</mi></math> for values of <math alttext=\"x\"><mi>x</mi></math> in the domain of <math alttext=\"g\"><mi>g</mi></math>. (ii) Solve <math alttext=\"h open parentheses x close parentheses equals 1\"><mi>h</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>1</mn></math> for values of <math alttext=\"x\"><mi>x</mi></math> in the domain of <math alttext=\"h\"><mi>h</mi></math>.",
+        "image": null
+      },
+      {
+        "text": "Part B The functions <math alttext=\"j\"><mi>j</mi></math> and <math alttext=\"k\"><mi>k</mi></math> are given by <math alttext=\"j open parentheses x close parentheses equals log subscript 2 open parentheses x plus 4 close parentheses minus 11 log subscript 2 open parentheses x minus 2 close parentheses plus log subscript 2 open parentheses x cubed close parentheses\"><mi>j</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msub><mi>log</mi><mn>2</mn></msub><mfenced><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow></mfenced><mo>-</mo><mn>11</mn><msub><mi>log</mi><mn>2</mn></msub><mfenced><mrow><mi>x</mi><mo>-</mo><mn>2</mn></mrow></mfenced><mo>+</mo><msub><mi>log</mi><mn>2</mn></msub><mfenced><msup><mi>x</mi><mn>3</mn></msup></mfenced></math> <math alttext=\"k open parentheses x close parentheses equals open parentheses cot x close parentheses open parentheses csc x close parentheses\"><mi>k</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mfenced><mrow><mi>cot</mi><mi>x</mi></mrow></mfenced><mfenced><mrow><mi>csc</mi><mi>x</mi></mrow></mfenced></math>. (i) Rewrite <math alttext=\"j open parentheses x close parentheses\"><mi>j</mi><mfenced><mi>x</mi></mfenced></math> as a single logarithm base <math alttext=\"2\"><mn>2</mn></math> without negative exponents in any part of the expression. Your result should be of the form <math alttext=\"log subscript 2 open parentheses text expression end text close parentheses\"><msub><mi>log</mi><mn>2</mn></msub><mfenced><mtext>expression</mtext></mfenced></math>. (ii) Rewrite <math alttext=\"k open parentheses x close parentheses\"><mi>k</mi><mfenced><mi>x</mi></mfenced></math> as a fraction involving powers of <math alttext=\"cos x\"><mi>cos</mi><mi>x</mi></math> and no other trigonometric functions.",
+        "image": null
+      },
+      {
+        "text": "Part C The function <math alttext=\"m\"><mi>m</mi></math> is given by <math alttext=\"m open parentheses x close parentheses equals open parentheses 2 to the power of x close parentheses squared minus 3 times 2 to the power of x\"><mi>m</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mfenced><msup><mn>2</mn><mi>x</mi></msup></mfenced><mn>2</mn></msup><mo>-</mo><mn>3</mn><mo>·</mo><msup><mn>2</mn><mi>x</mi></msup></math>. Find all input values in the domain of <math alttext=\"m\"><mi>m</mi></math> that yield an output value of <math alttext=\"18\"><mn>18</mn></math>.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.12",
+    "text": "2.12: Logarithmic Function Manipulation"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Solve equations and inequalities represented analytically, with and without technology."
+  }
+}

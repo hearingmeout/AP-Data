@@ -1,0 +1,45 @@
+{
+  "id": "VH967134",
+  "type": "mcq",
+  "title": "Experiment - electric field between plates",
+  "content": {
+    "description": "",
+    "question": "An experiment is performed using a parallel plate capacitor and a voltmeter. The purpose of the experiment is to determine a value for the permittivity constant <math alttext=\"epsilon sub 0\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>ϵ</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mstyle></math>. The capacitor is fully charged and then placed in the circuit shown, where the voltmeter can be used to measure the potential difference across the plates. Measurements for the potential difference are made as the distance <math alttext=\"d\" overflow=\"scroll\"><mstyle><mrow><mi>d</mi></mrow></mstyle></math> between the plates is increased, and the data are shown in the graph. According to the equation <math alttext=\"C equals epsilon sub 0, times the fraction A over d\" overflow=\"scroll\"><mstyle><mrow><mi>C</mi><mo>=</mo><msub><mrow><mi>ϵ</mi></mrow><mrow><mn>0</mn></mrow></msub><mfrac><mrow><mi>A</mi></mrow><mrow><mi>d</mi></mrow></mfrac></mrow></mstyle></math>, the graph should be linear. This is true for small values of <math alttext=\"d\" overflow=\"scroll\"><mstyle><mrow><mi>d</mi></mrow></mstyle></math>, but for larger values the graph diverges from the straight line. Which of the following is a plausible source of error that may have caused the nonlinear result?",
+    "image": "https://ap.oly.st/images/3ac2a6bca75209fe537c38c4464cbb4b.png",
+    "choices": [
+      {
+        "label": "Measuring the voltage causes the capacitor to gain charge from the voltmeter’s battery.",
+        "image": null
+      },
+      {
+        "label": "As the distance between the plates increases, the effective value of the dielectric constant of air becomes greater than <math alttext=\"1\" overflow=\"scroll\"><mstyle><mrow><mn>1</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "As the distance between the plates increases, the effective area of the plates increases.",
+        "image": null
+      },
+      {
+        "label": "The resistance of the capacitor increases, which causes the reading from the voltmeter to decrease.",
+        "image": null
+      },
+      {
+        "label": "As the distance between the plates increases, edge effects come into play and the electric field between the plates is no longer constant.",
+        "image": null
+      }
+    ],
+    "answer": "As the distance between the plates increases, edge effects come into play and the electric field between the plates is no longer constant."
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Conductors and Capacitors"
+  },
+  "topic": {
+    "code": "10.3",
+    "text": "10.3: Capacitors"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

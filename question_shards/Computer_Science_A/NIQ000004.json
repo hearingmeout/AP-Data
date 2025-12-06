@@ -1,0 +1,41 @@
+{
+  "id": "NIQ000004",
+  "type": "mcq",
+  "title": "change findValue method - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Suppose the for loop initialization int j = 0 in line 4 of the method is replaced with int j = 1. Which of the following best explains the effect of this change?",
+    "image": null,
+    "choices": [
+      {
+        "label": "It will have no effect on the behavior of the method.",
+        "image": null
+      },
+      {
+        "label": "It will cause the method to return a different result when key is not in words.",
+        "image": null
+      },
+      {
+        "label": "It will cause the method to return a different result when key is found only at the first index in words.",
+        "image": null
+      },
+      {
+        "label": "It will cause the method to return a different result when key is found only at the last index in the list.",
+        "image": null
+      }
+    ],
+    "answer": "It will cause the method to return a different result when key is found only at the first index in words."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.9",
+    "text": "4.9: `ArrayList` Traversals"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

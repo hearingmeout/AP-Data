@@ -1,0 +1,41 @@
+{
+  "id": "EYP000001",
+  "type": "mcq",
+  "title": "Nested two-way-selection - value of result",
+  "content": {
+    "description": "",
+    "question": "What is the value of result after the code segment is executed if x has the value 15 and y has the value 5?",
+    "image": null,
+    "choices": [
+      {
+        "label": "adf",
+        "image": null
+      },
+      {
+        "label": "d",
+        "image": null
+      },
+      {
+        "label": "def",
+        "image": null
+      },
+      {
+        "label": "ef",
+        "image": null
+      }
+    ],
+    "answer": "def"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Nested `if` Statements"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

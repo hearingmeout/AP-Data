@@ -1,0 +1,41 @@
+{
+  "id": "VH928606",
+  "type": "mcq",
+  "title": "error calling method in Password class",
+  "content": {
+    "description": "Consider the following class definition.",
+    "question": "public class Password{private String password;public Password (String pwd){password = pwd;}public void reset(String new_pwd){password = new_pwd;}}Consider the following code segment, which appears in a method in a class other than Password. The code segment does not compile.Password p = new Password(\"password\");System.out.println(\"The new password is \" + p.reset(\"password\"));Which of the following best identifies the reason the code segment does not compile?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The code segment attempts to access the private variable password from outside the Password class.",
+        "image": null
+      },
+      {
+        "label": "The new password cannot be the same as the old password.",
+        "image": null
+      },
+      {
+        "label": "The Password class constructor is invoked incorrectly.",
+        "image": null
+      },
+      {
+        "label": "The reset method does not return a value that can be printed.",
+        "image": null
+      }
+    ],
+    "answer": "The reset method does not return a value that can be printed."
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.5",
+    "text": "3.5: Methods: How to Write Them"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

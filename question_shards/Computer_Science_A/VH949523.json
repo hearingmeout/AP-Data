@@ -1,0 +1,41 @@
+{
+  "id": "VH949523",
+  "type": "mcq",
+  "title": "random 25 to 60",
+  "content": {
+    "description": "",
+    "question": "Which of the following statements assigns a random integer between 25 and 60, inclusive, to rn ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "int rn = (int) (Math.random() * 25) + 36;",
+        "image": null
+      },
+      {
+        "label": "int rn = (int) (Math.random() * 25) + 60;",
+        "image": null
+      },
+      {
+        "label": "int rn = (int) (Math.random() * 36) + 25;",
+        "image": null
+      },
+      {
+        "label": "int rn = (int) (Math.random() * 60) + 25;",
+        "image": null
+      }
+    ],
+    "answer": "int rn = (int) (Math.random() * 36) + 25;"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: `Math` Class"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

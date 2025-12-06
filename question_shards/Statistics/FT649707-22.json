@@ -1,0 +1,52 @@
+{
+  "id": "FT649707-22",
+  "type": "frq",
+  "title": "Investigative task - defective lightbulbs by brand",
+  "content": {
+    "description": "",
+    "question": "(a) One condition for obtaining an interval estimate for \\(P_X\\) is that the distribution of <math alttext=\"p hat sub new\"> <mrow> <msub> <mrow> <mstyle> <mrow> <mover> <mrow> <mi>P</mi> </mrow> <mrow> <mo>^</mo> </mrow> </mover> </mrow> </mstyle> </mrow> <mrow> <mtext>X</mtext> </mrow> </msub> </mrow> </math> is approximately normal. Is it reasonable to assume that the condition is met? Justify your answer.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "(a) One condition for obtaining an interval estimate for \\(P_X\\) is that the distribution of <math alttext=\"p hat sub new\"> <mrow> <msub> <mrow> <mstyle> <mrow> <mover> <mrow> <mi>P</mi> </mrow> <mrow> <mo>^</mo> </mrow> </mover> </mrow> </mstyle> </mrow> <mrow> <mtext>X</mtext> </mrow> </msub> </mrow> </math> is approximately normal. Is it reasonable to assume that the condition is met? Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "(b) The standard error of <math alttext=\"p hat sub new\"> <mrow> <msub> <mrow> <mstyle> <mrow> <mover> <mrow> <mi>P</mi> </mrow> <mrow> <mo>^</mo> </mrow> </mover> </mrow> </mstyle> </mrow> <mrow> <mtext>X</mtext> </mrow> </msub> </mrow> </math> is approximately 0.0156. Show how the value of the standard error is calculated.",
+        "image": null
+      },
+      {
+        "text": "(c) How many standard errors is the observed value of <math alttext=\"p hat sub new\"> <mrow> <msub> <mrow> <mstyle> <mrow> <mover> <mrow> <mi>P</mi> </mrow> <mrow> <mo>^</mo> </mrow> </mover> </mrow> </mstyle> </mrow> <mrow> <mtext>X</mtext> </mrow> </msub> </mrow> </math> from 0.10 ?",
+        "image": null
+      },
+      {
+        "text": "To estimate the proportion of generic lightbulbs that are defective, a simple random sample of 400 generic lightbulbs is taken and 104 are found to be defective. Let Y represent the number of generic lightbulbs that are defective in a sample of 400. It is reasonable to assume that Y is a binomial random variable and the distribution of <math alttext=\"p hat sub new\"> <mrow> <msub> <mrow> <mstyle> <mrow> <mover> <mrow> <mi>P</mi> </mrow> <mrow> <mo>^</mo> </mrow> </mover> </mrow> </mstyle> </mrow> <mrow> <mtext>Y</mtext> </mrow> </msub> </mrow> </math> is approximately normal, with an approximate standard error of 0.0219. It is also reasonable to assume that X and Y are independent. The parameter of interest for the manager of quality control is D, the average proportion of defective lightbulbs for the brand-name and the generic lightbulbs. D is defined as \\(D=\\frac{P_X+\\ P_Y}{2}\\). (d) Consider <math> <semantics> <mrow> <mover> <mi>D</mi> <mrow> <mtext>&nbsp;</mtext> <mo>∧</mo> </mrow> </mover> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaCbiaeaaca WGebaaleqabiqbaO8=aihaainaaODaayQacaqGGaGaey4jIKnaaaaa @3DF0@ </annotation> </semantics> </math>, the point estimate of D. (i) Calculate <math> <semantics> <mrow> <mover> <mi>D</mi> <mrow> <mtext>&nbsp;</mtext> <mo>∧</mo> </mrow> </mover> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaCbiaeaaca WGebaaleqabiqbaO8=aihaainaaODaayQacaqGGaGaey4jIKnaaaaa @3DF0@ </annotation> </semantics> </math> using data from the sample of brand-name lightbulbs and the sample of generic lightbulbs.",
+        "image": null
+      },
+      {
+        "text": "(ii) Calculate <math> <semantics> <mrow> <msub> <mi>s</mi> <mrow> <mover> <mi>D</mi> <mrow> <mtext>&nbsp;</mtext> <mo>∧</mo> </mrow> </mover> </mrow> </msub> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaam4CamaaBa aaleaadaWfGaqaaiaadseaaWqabeGafaGY=dGCaaG0aaG2baGPciaa bccacqGHNis2aaaaleqaaaaa@3F20@ </annotation> </semantics> </math>, the standard error of <math> <semantics> <mrow> <mover> <mi>D</mi> <mrow> <mtext>&nbsp;</mtext> <mo>∧</mo> </mrow> </mover> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaCbiaeaaca WGebaaleqabiqbaO8=aihaainaaODaayQacaqGGaGaey4jIKnaaaaa @3DF0@ </annotation> </semantics> </math>.",
+        "image": null
+      },
+      {
+        "text": "Consider the following hypotheses. \\(H_0\\): The average proportion of all lightbulbs that are defective is 0.10.\\(\\left(D=0.10\\right)\\) . \\(Ha\\) : The average proportion of all lightbulbs that are defective is greater than 0.10. \\(\\left(D>0.10\\right)\\) A reasonable test statistic for the hypotheses is W, defined as e) Calculate W using your answer to part (d).",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Statistics/2a8f6c8d-a5df-40c4-9720-5063fffa14b4.PNG"
+      },
+      {
+        "text": "(f) Chebyshev’s inequality states that the proportion of any distribution that lies within k standard errors of the mean is at least <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <semantics> <mrow> <mn>1</mn> <mo>−</mo> <mfrac> <mn>1</mn> <mrow> <msup> <mi>k</mi> <mn>2</mn> </msup> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHXgaruavP1wzZbItLDhis9wBH5garmWu51MyVXgaruWqVvNCPvMCG4uz3bqee0evGueE0jxyaibaieYxf9irVeeu0dXdI8qqqj=hEeeu0xXdbba9frFj0=OqFfea0dXdd9vqaq=JfrVkFHe9pgea0dXdar=Jb9hs0dXdbPYxe9vr0=vr0=vqpWqaaiaaciWacmaadaGabiaaeaGaauaaaOqaaabaaaaaaaaapeGaaGymaiabgkHiTmaalaaapaqaa8qacaaIXaaapaqaa8qacaWGRbWdamaaCaaaleqabaWdbiaaikdaaaaaaaaa@3C81@</annotation> </semantics> </math>. Use Chebyshev’s inequality and the value of W to decide whether there is statistical evidence, at the significance level of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"> <semantics> <mrow> <mi>α</mi> <mo>=</mo> <mn>0.05</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHXgaruavP1wzZbItLDhis9wBH5garmWu51MyVXgaruWqVvNCPvMCG4uz3bqee0evGueE0jxyaibaieYxf9irVeeu0dXdI8qqqj=hEeeu0xXdbba9frFj0=OqFfea0dXdd9vqaq=JfrVkFHe9pgea0dXdar=Jb9hs0dXdbPYxe9vr0=vr0=vqpWqaaiaaciWacmaadaGabiaaeaGaauaaaOqaaabaaaaaaaaapeGaeqySdeMaeyypa0JaaGimaiaac6cacaaIWaGaaGynaaaa@3D62@</annotation> </semantics> </math>, that D, the average proportion of all lightbulbs that are defective, is greater than 0.10.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.9",
+    "text": "4.9: Combining Random Variables"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Determine parameters for probability distributions."
+  }
+}

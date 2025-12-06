@@ -1,0 +1,41 @@
+{
+  "id": "VR442173",
+  "type": "mcq",
+  "title": "equivalent expressions",
+  "content": {
+    "description": "Assume that a, b, c, and d have been declared and initialized with int values.",
+    "question": "!((a >= b) && !(c < d)) Which of the following is equivalent to the expression above?",
+    "image": null,
+    "choices": [
+      {
+        "label": "(a < b) || (c < d)",
+        "image": null
+      },
+      {
+        "label": "(a < b) || (c >= d)",
+        "image": null
+      },
+      {
+        "label": "(a < b) && (c < d)",
+        "image": null
+      },
+      {
+        "label": "(a >= b) || (c < d)",
+        "image": null
+      }
+    ],
+    "answer": "(a < b) || (c < d)"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Comparing Boolean Expressions"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

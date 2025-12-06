@@ -1,0 +1,37 @@
+{
+  "id": "VR012640",
+  "type": "mcq",
+  "title": "DrawLine on a coordinate grid",
+  "content": {
+    "description": "",
+    "question": "Which of the following can be used to replace <MISSING CODE> so that the figure is drawn correctly?",
+    "image": null,
+    "choices": [
+      {
+        "label": "DrawLine (startX, startY, endX, endY)endY <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> endY - 2",
+        "image": null
+      },
+      {
+        "label": "DrawLine (startX, startY, endX, endY)endX <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> endX - 2endY <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> endY - 2",
+        "image": null
+      },
+      {
+        "label": "endY <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> endY - 2DrawLine (startX, startY, endX, endY)",
+        "image": null
+      },
+      {
+        "label": "endX <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> endX - 2endY <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> endY - 2DrawLine (startX, startY, endX, endY)",
+        "image": null
+      }
+    ],
+    "answer": "DrawLine (startX, startY, endX, endY)endY <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> endY - 2"
+  },
+  "topic": {
+    "code": "3.12",
+    "text": "3.12: Calling Procedures"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Use abstraction to manage complexity in a program."
+  }
+}

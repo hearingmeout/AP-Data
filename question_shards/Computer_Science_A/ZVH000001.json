@@ -1,0 +1,41 @@
+{
+  "id": "ZVH000001",
+  "type": "mcq",
+  "title": "Recursive method - determine initial conditions",
+  "content": {
+    "description": "",
+    "question": "Which of the following can be used to replace /* missing initialization */ so that the code segment prints 0 1 4 6 7 ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "{\"Stool\", \"Chair\", \"Chair\", \"Chair\", \"Stool\", \"Couch\", \"Couch\", \"Table\"}",
+        "image": null
+      },
+      {
+        "label": "{\"Table\", \"Couch\", \"Couch\", \"Stool\", \"Chair\", \"Chair\", \"Chair\", \"Stool\"}",
+        "image": null
+      },
+      {
+        "label": "{\"Stool\", \"Chair\", \"Chair\", \"Chair\", \"Couch\", \"Couch\", \"Stool\", \"Table\"}",
+        "image": null
+      },
+      {
+        "label": "{\"Table\", \"Stool\", \"Couch\", \"Couch\", \"Chair\", \"Chair\", \"Chair\", \"Stool\"}",
+        "image": null
+      }
+    ],
+    "answer": "{\"Stool\", \"Chair\", \"Chair\", \"Chair\", \"Couch\", \"Couch\", \"Stool\", \"Table\"}"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.17",
+    "text": "4.17: Recursive Searching and Sorting"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

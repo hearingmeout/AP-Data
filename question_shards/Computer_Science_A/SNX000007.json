@@ -1,0 +1,41 @@
+{
+  "id": "SNX000007",
+  "type": "mcq",
+  "title": "Compare blue red yellow code - describe behavior",
+  "content": {
+    "description": "",
+    "question": "Assume that both code segments initialize choice to the same integer value. Which of the following best describes the conditions on the initial value of the variable choice that will cause the two code segments to produce different output?",
+    "image": null,
+    "choices": [
+      {
+        "label": "choice > 5 and choice < 10",
+        "image": null
+      },
+      {
+        "label": "choice > 10",
+        "image": null
+      },
+      {
+        "label": "choice == 5 or choice == 10",
+        "image": null
+      },
+      {
+        "label": "There is no value for choice that will cause the two code segments to produce different output.",
+        "image": null
+      }
+    ],
+    "answer": "choice > 10"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: `if` Statements"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

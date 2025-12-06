@@ -1,0 +1,41 @@
+{
+  "id": "FT659849",
+  "type": "mcq",
+  "title": "sort method with String array",
+  "content": {
+    "description": "Consider the following method.",
+    "question": "public static void sort(String[] arr) { for (int pass = arr.length - 1; pass >= 1; pass--) { String large = arr[0]; int index = 0; for (int k = 0; k <= pass; k++) { if ((arr[k].compareTo(large)) > 0) { large = arr[k]; index = k; } } arr[index] = arr[pass]; arr[pass] = large; } } Assume arr is the following array. \"Ann\" \"Mike\" \"Walt\" \"Lisa\" \"Shari\" \"Jose\" \"Mary\" “Bill” What is the intermediate value of arr after two iterations of the outer for loop in the call sort(arr)?",
+    "image": null,
+    "choices": [
+      {
+        "label": "\"Ann\" \"Mike\" \"Walt\" \"Lisa\" \"Shari\" \"Jose\" \"Mary\" “Bill”",
+        "image": null
+      },
+      {
+        "label": "\"Ann\" \"Mike\" \"Lisa\" \"Shari\" \"Jose\" \"Mary\" “Bill” \"Walt\"",
+        "image": null
+      },
+      {
+        "label": "\"Ann\" “Bill” \"Jose\" \"Lisa\" \"Mary\" \"Mike\" \"Shari\" \"Walt\"",
+        "image": null
+      },
+      {
+        "label": "\"Ann\" \"Mike\" “Bill” \"Lisa\" \"Mary\" \"Jose\" \"Shari\" \"Walt\"",
+        "image": null
+      }
+    ],
+    "answer": "\"Ann\" \"Mike\" “Bill” \"Lisa\" \"Mary\" \"Jose\" \"Shari\" \"Walt\""
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.4",
+    "text": "4.4: Array Traversals"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VH902384",
+  "type": "mcq",
+  "title": "Representations - Estimating Speed - Symbolic",
+  "content": {
+    "description": "",
+    "question": "The position of a particle moving to the right on the <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math>-axis is given by <math alttext=\"x of t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>x</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow></mrow></mstyle></math>, where <math alttext=\"x of t\" display=\"inline\" overflow=\"scroll\"><mrow><mi>x</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow></math> is measured in inches and <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>t</mi></mrow></mrow></mstyle></math> is measured in minutes for <math alttext=\"0 less than or equal to t, less than or equal to 100\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>100</mn></mrow></mrow></mstyle></math>. If <math alttext=\"y equals, x of t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mi>x</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow></mstyle></math> is a linear function, which of the following would most likely give the best estimate of the speed of the particle, in inches per minute, at time <math alttext=\"t equals 20\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>t</mi><mo>=</mo><mn>20</mn></mrow></mrow></mstyle></math> minutes?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"x of 20\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>x</mi><mrow><mo>(</mo><mn>20</mn><mo>)</mo></mrow></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator x of 20, and denominator 20\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>x</mi><mrow><mo>(</mo><mn>20</mn><mo>)</mo></mrow></mrow><mrow><mn>20</mn></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"x of 21, minus, x of 19\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>x</mi><mrow><mo>(</mo><mn>21</mn><mo>)</mo><mo>−</mo><mi>x</mi><mrow><mo>(</mo><mn>19</mn><mo>)</mo></mrow></mrow></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "The slope of the graph of <math alttext=\"y equals, x of t\" display=\"inline\" overflow=\"scroll\"><mrow><mi>y</mi><mo>=</mo><mi>x</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "The slope of the graph of <math alttext=\"y equals, x of t\" display=\"inline\" overflow=\"scroll\"><mrow><mi>y</mi><mo>=</mo><mi>x</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow></math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.1",
+    "text": "1.1: Introducing Calculus - Can Change Occur at an Instant?"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Identify mathematical information from graphical, numerical, analytical, and/or verbal representations."
+  }
+}

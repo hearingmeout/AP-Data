@@ -1,0 +1,37 @@
+{
+  "id": "VR158398",
+  "type": "mcq",
+  "title": "Filtering and sorting restaurant data",
+  "content": {
+    "description": "A student is developing an algorithm to determine which of the restaurants that accept credit cards has the greatest average customer rating. Restaurants that have not yet received any customer ratings and restaurants that do not accept credit card are to be ignored.",
+    "question": "Once the algorithm is complete, the desired restaurant will appear in the first row of the spreadsheet. If there are multiple entries that fit the desired criteria, it does not matter which of them appears in the first row.The student has the following actions available but is not sure of the order in which they should be executed.ActionExplanationFilter by number of ratingsRemove entries for restaurants with no customer ratingsFilter by payment typeRemove entries for restaurants that do not accept credit cardsSort by ratingSort the rows in the spreadsheet on column D from greatest to leastAssume that applying either of the filters will not change the relative order of the rows remaining in the spreadsheet.Which of the following sequences of steps can be used to identify the desired restaurant?Filter by number of ratings, then filter by payment type, then sort by ratingFilter by number of ratings, then sort by rating, then filter by payment typeSort by rating, then filter by number of ratings, then filter by payment type",
+    "image": null,
+    "choices": [
+      {
+        "label": "I and II only",
+        "image": null
+      },
+      {
+        "label": "I and III only",
+        "image": null
+      },
+      {
+        "label": "II and III only",
+        "image": null
+      },
+      {
+        "label": "I, II, and III",
+        "image": null
+      }
+    ],
+    "answer": "I, II, and III"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Using Programs with Data"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

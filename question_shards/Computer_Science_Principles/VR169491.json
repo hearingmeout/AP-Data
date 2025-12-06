@@ -1,0 +1,37 @@
+{
+  "id": "VR169491",
+  "type": "mcq",
+  "title": "Algorithm to find distance between two numbers",
+  "content": {
+    "description": "A student is creating an algorithm to display the distance between the numbers num1 and num2 on a number line. The following table shows the distance for several different values.",
+    "question": "Value of num1 Value of num2 Distance Between num1 and num2 5 2 3 1 8 7 -3 4 7 Which of the following algorithms displays the correct distance for all possible values of num1 and num2 ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Step 1: Add num1 and num2 and store the result in the variable sum. Step 2: Take the absolute value of sum and display the result.",
+        "image": null
+      },
+      {
+        "label": "Step 1: Subtract num1 from num2 and store the result in the variable diff. Step 2: Take the absolute value of diff and display the result.",
+        "image": null
+      },
+      {
+        "label": "Step 1: Take the absolute value of num1 and store it in the variable absNum1. Step 2: Take the absolute value of num2 and store it in the variable absNum2. Step 3: Add absNum1 and absNum2 and display the result.",
+        "image": null
+      },
+      {
+        "label": "Step 1: Take the absolute value of num1 and store it in the variable absNum1. Step 2: Take the absolute value of num2 and store it in the variable absNum2. Step 3: Subtract absNum1 from absNum2 and display the result.",
+        "image": null
+      }
+    ],
+    "answer": "Step 1: Subtract num1 from num2 and store the result in the variable diff. Step 2: Take the absolute value of diff and display the result."
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Mathematical Expressions"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Represent algorithmic processes without using a programming language."
+  }
+}

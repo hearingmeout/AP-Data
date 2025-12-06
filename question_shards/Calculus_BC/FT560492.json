@@ -1,0 +1,41 @@
+{
+  "id": "FT560492",
+  "type": "mcq",
+  "title": "Volume of a solid with a known cross-section",
+  "content": {
+    "description": "",
+    "question": "Which of the following expressions gives the volume of the solid?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>2</mn> </msubsup> <mn>3</mn> </mrow> </mstyle><mi>sin</mi><mrow><mo>(</mo> <mrow> <mfrac> <mi>π</mi> <mn>2</mn> </mfrac> <mi>x</mi> </mrow> <mo>)</mo></mrow><mi>d</mi><mi>x</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWdXaWdaeaapeGaaG4maaWcpaqaa8qacaaIWaaapaqaa8qacaaIYaaaniabgUIiYdGcciGGZbGaaiyAaiaac6gadaqadaWdaeaapeWaaSaaa8aabaWdbiabec8aWbWdaeaapeGaaGOmaaaacaWG4baacaGLOaGaayzkaaGaamizaiaadIhaaaa@4501@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>2</mn> </msubsup> <mn>3</mn> </mrow> </mstyle><msup> <mrow> <mi>sin</mi> </mrow> <mn>2</mn> </msup> <mrow><mo>(</mo> <mrow> <mfrac> <mi>π</mi> <mn>2</mn> </mfrac> <mi>x</mi> </mrow> <mo>)</mo></mrow><mi>d</mi><mi>x</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWdXaWdaeaapeGaaG4maaWcpaqaa8qacaaIWaaapaqaa8qacaaIYaaaniabgUIiYdGcciGGZbGaaiyAaiaac6gapaWaaWbaaSqabeaapeGaaGOmaaaakmaabmaapaqaa8qadaWcaaWdaeaapeGaeqiWdahapaqaa8qacaaIYaaaaiaadIhaaiaawIcacaGLPaaacaWGKbGaamiEaaaa@4613@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>2</mn> </msubsup> <mn>3</mn> </mrow> </mstyle><mi>π</mi><mi>sin</mi><mrow><mo>(</mo> <mrow> <mfrac> <mi>π</mi> <mn>2</mn> </mfrac> <mi>x</mi> </mrow> <mo>)</mo></mrow><mi>d</mi><mi>x</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWdXaWdaeaapeGaaG4maaWcpaqaa8qacaaIWaaapaqaa8qacaaIYaaaniabgUIiYdGccqaHapaCciGGZbGaaiyAaiaac6gadaqadaWdaeaapeWaaSaaa8aabaWdbiabec8aWbWdaeaapeGaaGOmaaaacaWG4baacaGLOaGaayzkaaGaamizaiaadIhaaaa@46BE@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>2</mn> </msubsup> <mn>3</mn> </mrow> </mstyle><mi>π</mi><msup> <mrow> <mi>sin</mi> </mrow> <mn>2</mn> </msup> <mrow><mo>(</mo> <mrow> <mfrac> <mi>π</mi> <mn>2</mn> </mfrac> <mi>x</mi> </mrow> <mo>)</mo></mrow><mi>d</mi><mi>x</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWdXaWdaeaapeGaaG4maaWcpaqaa8qacaaIWaaapaqaa8qacaaIYaaaniabgUIiYdGccqaHapaCciGGZbGaaiyAaiaac6gapaWaaWbaaSqabeaapeGaaGOmaaaakmaabmaapaqaa8qadaWcaaWdaeaapeGaeqiWdahapaqaa8qacaaIYaaaaiaadIhaaiaawIcacaGLPaaacaWGKbGaamiEaaaa@47D0@</annotation> </semantics> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>2</mn> </msubsup> <mn>3</mn> </mrow> </mstyle><mi>sin</mi><mrow><mo>(</mo> <mrow> <mfrac> <mi>π</mi> <mn>2</mn> </mfrac> <mi>x</mi> </mrow> <mo>)</mo></mrow><mi>d</mi><mi>x</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWdXaWdaeaapeGaaG4maaWcpaqaa8qacaaIWaaapaqaa8qacaaIYaaaniabgUIiYdGcciGGZbGaaiyAaiaac6gadaqadaWdaeaapeWaaSaaa8aabaWdbiabec8aWbWdaeaapeGaaGOmaaaacaWG4baacaGLOaGaayzkaaGaamizaiaadIhaaaa@4501@</annotation> </semantics> </math>"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Applications of Integration"
+  },
+  "topic": {
+    "code": "8.7",
+    "text": "8.7: Volumes with Cross Sections - Squares and Rectangles"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

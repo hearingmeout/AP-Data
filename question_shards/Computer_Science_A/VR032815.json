@@ -1,0 +1,41 @@
+{
+  "id": "VR032815",
+  "type": "mcq",
+  "title": "random number generated from a",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the value assigned to b when the code segment is executed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "a",
+        "image": null
+      },
+      {
+        "label": "A random integer between 0 and a - 1, inclusive",
+        "image": null
+      },
+      {
+        "label": "A random integer between a and 2 * a, inclusive",
+        "image": null
+      },
+      {
+        "label": "A random integer between a and 2 * a - 1, inclusive",
+        "image": null
+      }
+    ],
+    "answer": "A random integer between a and 2 * a - 1, inclusive"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: `Math` Class"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

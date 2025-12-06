@@ -1,0 +1,56 @@
+{
+  "id": "VR026122-22",
+  "type": "frq",
+  "title": "LR Circuit",
+  "content": {
+    "description": "",
+    "question": "Read each question carefully. Show all your work for each part of the question. The parts within the question may not have equal weight. The circuit shown above is constructed using an ideal <math alttext=\"12 volts\" overflow=\"scroll\"><mstyle><mrow><mn>12</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mtext>V</mtext></mrow></mstyle></math> battery, an ideal switch <math alttext=\"S\" overflow=\"scroll\"><mstyle><mrow><mtext>S</mtext></mrow></mstyle></math> , and two resistors and an inductor with the values shown. Switch <math alttext=\"S\" overflow=\"scroll\"><mstyle><mrow><mtext>S</mtext></mrow></mstyle></math> is closed. After a long time, the circuit reaches steady-state conditions. (a) Calculate the current through <math alttext=\"R sub 1\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mstyle></math> .",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Read each question carefully. Show all your work for each part of the question. The parts within the question may not have equal weight. The circuit shown above is constructed using an ideal <math alttext=\"12 volts\" overflow=\"scroll\"><mstyle><mrow><mn>12</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mtext>V</mtext></mrow></mstyle></math> battery, an ideal switch <math alttext=\"S\" overflow=\"scroll\"><mstyle><mrow><mtext>S</mtext></mrow></mstyle></math> , and two resistors and an inductor with the values shown. Switch <math alttext=\"S\" overflow=\"scroll\"><mstyle><mrow><mtext>S</mtext></mrow></mstyle></math> is closed. After a long time, the circuit reaches steady-state conditions. (a) Calculate the current through <math alttext=\"R sub 1\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mstyle></math> .",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_C_Electricity_and_Magnetism/VR026122.g02.png"
+      },
+      {
+        "text": "(b) Calculate the current through the battery.",
+        "image": null
+      },
+      {
+        "text": "The switch is then opened at time <math alttext=\"t equals 0\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>0</mn></mrow></mstyle></math>. (c) Determine the current in the inductor immediately after the switch is opened.",
+        "image": null
+      },
+      {
+        "text": "(d) i. Determine the current in resistor <math alttext=\"R sub 1 \" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mstyle></math> immediately after the switch is opened.",
+        "image": null
+      },
+      {
+        "text": "ii. Which of the following statements is correct about the current through <math alttext=\"R sub 1 \" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mstyle></math> immediately after the switch is opened? The current is up through <math alttext=\"R sub 1 \" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mstyle></math> . The current is down through <math alttext=\"R sub 1 \" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mstyle></math> . There is no current through <math alttext=\"R sub 1 \" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mstyle></math> . Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "(e) Immediately after the switch is opened, is the top end or bottom end of the inductor at the higher electric potential? Top end Bottom end Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "(f) On the axes below, sketch a graph of the potential difference <math alttext=\"V\" overflow=\"scroll\"><mstyle><mrow><mi>V</mi></mrow></mstyle></math> across the inductor as a function of time after the switch is opened. Explicitly label the vertical axis intercept with a numerical value.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_C_Electricity_and_Magnetism/VR026122.g03.png"
+      },
+      {
+        "text": "(g) Write but DO NOT solve a differential equation that could be solved for the current through the inductor as a function of time after the switch is opened.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.5",
+    "text": "13.5: Circuits with Resistors and Inductors (LR Circuits)"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Calculate or estimate an unknown quantity with units from known quantities, by selecting and following a logical computational pathway."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VR813106",
+  "type": "mcq",
+  "title": "LR circuit two switches and time constant",
+  "content": {
+    "description": "",
+    "question": "In the circuit shown, the two identical resistors have resistance <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math> and the inductor has inductance <math alttext=\"L\" display=\"inline\" overflow=\"scroll\"><mi>L</mi></math>. When only Switch <math alttext=\"S sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mtext>S</mtext><mn>1</mn></msub></math> is closed, the current in the battery reaches <math alttext=\"63%\" display=\"inline\" overflow=\"scroll\"><mn>63</mn><mi>%</mi></math> of its asymptotic value after a time interval <math alttext=\"delta t sub 1\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi mathvariant=\"normal\">Δ</mi><msub><mi>t</mi><mn>1</mn></msub></mstyle></math>. When switches <math alttext=\"S sub 1\" display=\"inline\" overflow=\"scroll\"><msub><mtext>S</mtext><mn>1</mn></msub></math> and <math alttext=\"S sub 2\" display=\"inline\" overflow=\"scroll\"><msub><mtext>S</mtext><mn>2</mn></msub></math> are closed simultaneously, the current in the battery reaches <math alttext=\"63%\" display=\"inline\" overflow=\"scroll\"><mn>63</mn><mi>%</mi></math> of its asymptotic value after a time interval <math alttext=\"delta t sub 2\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi mathvariant=\"normal\">Δ</mi><msub><mi>t</mi><mn>2</mn></msub></mstyle></math>. Which of the following correctly compares <math alttext=\"delta t sub 1\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi mathvariant=\"normal\">Δ</mi><msub><mi>t</mi><mn>1</mn></msub></mstyle></math> and <math alttext=\"delta t sub 2\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi mathvariant=\"normal\">Δ</mi><msub><mi>t</mi><mn>2</mn></msub></mstyle></math>?",
+    "image": "https://ap.oly.st/images/b9ff8d5daeb3ab39c3146e2aa95bce74.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"delta t sub 1 is less than delta t sub 2\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi mathvariant=\"normal\">Δ</mi><msub><mi>t</mi><mn>1</mn></msub><mo>&lt;</mo><mi mathvariant=\"normal\">Δ</mi><msub><mi>t</mi><mn>2</mn></msub></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"delta t sub 1 equals delta t sub 2\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi mathvariant=\"normal\">Δ</mi><msub><mi>t</mi><mn>1</mn></msub><mo>=</mo><mi mathvariant=\"normal\">Δ</mi><msub><mi>t</mi><mn>2</mn></msub></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"delta t sub 1 is greater than delta t sub 2\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi mathvariant=\"normal\">Δ</mi><msub><mi>t</mi><mn>1</mn></msub><mo>&gt;</mo><mi mathvariant=\"normal\">Δ</mi><msub><mi>t</mi><mn>2</mn></msub></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"delta t sub 1 is greater than open parenthesis, delta t sub 2 equals 0, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi mathvariant=\"normal\">Δ</mi><msub><mi>t</mi><mn>1</mn></msub><mo>&gt;</mo><mrow><mo>(</mo><mi mathvariant=\"normal\">Δ</mi><msub><mi>t</mi><mn>2</mn></msub><mo>=</mo><mn>0</mn><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"delta t sub 1 is less than delta t sub 2\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi mathvariant=\"normal\">Δ</mi><msub><mi>t</mi><mn>1</mn></msub><mo>&lt;</mo><mi mathvariant=\"normal\">Δ</mi><msub><mi>t</mi><mn>2</mn></msub></mstyle></math>"
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.5",
+    "text": "13.5: Circuits with Resistors and Inductors (LR Circuits)"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

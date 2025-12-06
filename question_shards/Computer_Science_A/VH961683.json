@@ -1,0 +1,41 @@
+{
+  "id": "VH961683",
+  "type": "mcq",
+  "title": "error in removeElement method",
+  "content": {
+    "description": "The removeElement method is intended to remove all instances of target from the ArrayList object data passed as a parameter. The method does not work as intended for all inputs.",
+    "question": "public void removeElement(ArrayList<Integer> data, int target){for (int j = 0; j < data.size(); j++){if (data.get(j).equals(target)){data.remove(j);}}}Assume that the ArrayList object scores and the int variable low_score have been properly declared and initialized. In which of the following cases will the method call removeElement(scores, low_score) fail to produce the intended result?",
+    "image": null,
+    "choices": [
+      {
+        "label": "When scores is [0, 2, 0, 2, 0, 6] and low_score is 0",
+        "image": null
+      },
+      {
+        "label": "When scores is [2, 4, 0, 5, 7, 0] and low_score is 0",
+        "image": null
+      },
+      {
+        "label": "When scores is [3, 4, 5, 7, 7, 2] and low_score is 1",
+        "image": null
+      },
+      {
+        "label": "When scores is [8, 8, 4, 3, 3, 6] and low_score is 3",
+        "image": null
+      }
+    ],
+    "answer": "When scores is [8, 8, 4, 3, 3, 6] and low_score is 3"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.10",
+    "text": "4.10: Implementing `ArrayList` Algorithms"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

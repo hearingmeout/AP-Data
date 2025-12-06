@@ -1,0 +1,41 @@
+{
+  "id": "BXN000001",
+  "type": "mcq",
+  "title": "Implement isEquiv method to compare Point objects",
+  "content": {
+    "description": "Two Point objects are considered equivalent if they have the same x and y coordinates. The isEquiv method is intended to return true if this Point object is equivalent to the Point object parameter and return false otherwise.",
+    "question": "Which of the following expressions can replace /* missing expression */ so that the isEquiv method works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "getXCoor() == xCoor && getYCoor() == yCoor",
+        "image": null
+      },
+      {
+        "label": "otherP.xCoor == x && otherP.yCoor == y",
+        "image": null
+      },
+      {
+        "label": "otherP.getXCoor() == getXCoor() && otherP.getYCoor() == getYCoor()",
+        "image": null
+      },
+      {
+        "label": "otherP == this",
+        "image": null
+      }
+    ],
+    "answer": "otherP.getXCoor() == getXCoor() && otherP.getYCoor() == getYCoor()"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "3.6",
+    "text": "3.6: Methods: Passing and Returning References of an Object"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

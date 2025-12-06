@@ -1,0 +1,41 @@
+{
+  "id": "LBY000004",
+  "type": "mcq",
+  "title": "averageAgeInMajor ArrayList traversal - write code",
+  "content": {
+    "description": "",
+    "question": "Which of the following can be used to replace /* missing code */ so that averageAgeInMajor will work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "if (theMajor.equals(k.getMajor())) { count++; } sum += k.getAge();",
+        "image": null
+      },
+      {
+        "label": "if (theMajor.equals(k.getMajor())) { sum += k.getAge(); count++; }",
+        "image": null
+      },
+      {
+        "label": "if (theMajor.equals(k.getMajor())) { sum = k.getAge(); count++; }",
+        "image": null
+      },
+      {
+        "label": "if (theMajor.equals(k.getMajor())) { sum += k.getAge(); } count++;",
+        "image": null
+      }
+    ],
+    "answer": "if (theMajor.equals(k.getMajor())) { sum += k.getAge(); count++; }"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Anatomy of a Class"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

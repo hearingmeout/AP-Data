@@ -1,0 +1,41 @@
+{
+  "id": "FT538058",
+  "type": "mcq",
+  "title": "mystery with int parameter",
+  "content": {
+    "description": "Consider the following recursive method.",
+    "question": "Assuming that k is a nonnegative integer and m = 2k, what value is returned as a result of the call mystery (m) ?",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/47e8333cf0e421d2291ccea29cdd3108.jpg",
+    "choices": [
+      {
+        "label": "0",
+        "image": null
+      },
+      {
+        "label": "k",
+        "image": null
+      },
+      {
+        "label": "Option D shows an expression that reads, M over, 2, plus 1.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/d979197f8190e58826960f6097df362b.jpg"
+      },
+      {
+        "label": "Option E shows an expression that reads, k over 2, plus 1.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/88477a052a7e67e85e37293f64144dc0.jpg"
+      }
+    ],
+    "answer": "k"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.16",
+    "text": "4.16: Recursion"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "FT535657",
+  "type": "mcq",
+  "title": "Simulate customer wait times at a bank",
+  "content": {
+    "description": "A new bank plans to make customer convenience a priority by minimizing the amount of time a customer waits in line. The bank is considering two options: a single line where the customer at the front waits for the next available teller, or separate lines for each teller. The bank decides to use a computer simulation of these two options to determine the average wait time for customers.",
+    "question": "Which of the following is NOT true about the bank’s plan?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The bank can incorporate other factors, such as the number of tellers, in the simulation.",
+        "image": null
+      },
+      {
+        "label": "The bank can use the simulation to investigate these two options without causing inconvenience for customers.",
+        "image": null
+      },
+      {
+        "label": "The bank may consider new alternatives based on the simulation results.",
+        "image": null
+      },
+      {
+        "label": "The simulation will not produce usable results because actual customer data are not available.",
+        "image": null
+      }
+    ],
+    "answer": "The simulation will not produce usable results because actual customer data are not available."
+  },
+  "topic": {
+    "code": "3.16",
+    "text": "3.16: Simulations"
+  },
+  "skill": {
+    "code": "Skill 1.A",
+    "text": "Skill 1.A: Investigate the situation, context, or task."
+  }
+}

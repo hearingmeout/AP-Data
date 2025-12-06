@@ -1,0 +1,37 @@
+{
+  "id": "FT535733",
+  "type": "mcq",
+  "title": "Using 3 bits to represent an integer then trying to store 8",
+  "content": {
+    "description": "",
+    "question": "A computer program uses 3 bits to represent integers. When the program adds the decimal (base 10) numbers 5 and 3, the result is 0. Which of the following is the best explanation for the result?",
+    "image": null,
+    "choices": [
+      {
+        "label": "An overflow error occurred.",
+        "image": null
+      },
+      {
+        "label": "A round-off error occurred.",
+        "image": null
+      },
+      {
+        "label": "The result was affected by lossy data compression.",
+        "image": null
+      },
+      {
+        "label": "The result was approximated by a floating-point representation.",
+        "image": null
+      }
+    ],
+    "answer": "An overflow error occurred."
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Identifying and Correcting Errors"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Identify and correct errors in algorithms and programs, including error discovery through testing."
+  }
+}

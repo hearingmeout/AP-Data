@@ -1,0 +1,41 @@
+{
+  "id": "FT538054",
+  "type": "mcq",
+  "title": "findLongest consecutive target fix",
+  "content": {
+    "description": "",
+    "question": "Which of the following changes should be made so that method findLongest will work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Insert the statement lenCount = 0;between lines 2 and 3.",
+        "image": null
+      },
+      {
+        "label": "Insert the statement lenCount = 0;between lines 8 and 9.",
+        "image": null
+      },
+      {
+        "label": "Insert the statement lenCount = 0;between lines 11 and 12.",
+        "image": null
+      },
+      {
+        "label": "Insert the statement lenCount = 0;between lines 12 and 13.",
+        "image": null
+      }
+    ],
+    "answer": "Insert the statement lenCount = 0;between lines 12 and 13."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implementing Array Algorithms"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

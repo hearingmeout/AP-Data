@@ -1,0 +1,41 @@
+{
+  "id": "VH964068",
+  "type": "mcq",
+  "title": "how many times exclamation point printed",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "int[][] arr = {{6, 2, 5, 7},{7, 6, 1, 2}};for (int j = 0; j < arr.length; j++){for (int k = 0; k < arr[0].length; k++){if (arr[j][k] > j + k){System.out.println(\"!\");}}}How many times will \"!\" be printed when the code segment is executed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "2 times",
+        "image": null
+      },
+      {
+        "label": "4 times",
+        "image": null
+      },
+      {
+        "label": "6 times",
+        "image": null
+      },
+      {
+        "label": "8 times",
+        "image": null
+      }
+    ],
+    "answer": "6 times"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.12",
+    "text": "4.12: 2D Array Traversals"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

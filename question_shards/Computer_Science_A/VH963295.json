@@ -1,0 +1,41 @@
+{
+  "id": "VH963295",
+  "type": "mcq",
+  "title": "recursive bark method",
+  "content": {
+    "description": "The bark method below is intended to print the string \"woof\" a total of num times.",
+    "question": "public static void bark(int num){if (num > 0){System.out.println(\"woof\");/* missing code */}}Which of the following can be used to replace /* missing code */ so that the call bark(5) will cause \"woof\" to be printed five times?",
+    "image": null,
+    "choices": [
+      {
+        "label": "bark(num - 5);",
+        "image": null
+      },
+      {
+        "label": "bark(num - 1);",
+        "image": null
+      },
+      {
+        "label": "bark(num);",
+        "image": null
+      },
+      {
+        "label": "bark(num + 1);",
+        "image": null
+      }
+    ],
+    "answer": "bark(num - 1);"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.16",
+    "text": "4.16: Recursion"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Write program code involving procedural abstractions."
+  }
+}

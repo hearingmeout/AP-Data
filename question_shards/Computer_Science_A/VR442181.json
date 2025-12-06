@@ -1,0 +1,41 @@
+{
+  "id": "VR442181",
+  "type": "mcq",
+  "title": "recursive nums array method",
+  "content": {
+    "description": "Consider the following recursive method.",
+    "question": "/** Precondition: 0 <= numVals <= nums.length */ public static int mystery(int[] nums, int v, int numVals) { if (numVals == 0) { return 0; } else if (v == nums[numVals - 1]) { return 1 + mystery(nums, v, numVals - 1); } else { return mystery(nums, v, numVals - 1); } } Which of the following best describes the value returned by the call mystery(nums, v, nums.length) ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The value 1 is returned.",
+        "image": null
+      },
+      {
+        "label": "The number of times that v occurs in nums is returned.",
+        "image": null
+      },
+      {
+        "label": "The number of times that numVals occurs in nums is returned.",
+        "image": null
+      },
+      {
+        "label": "Nothing is returned. A runtime error occurs because of infinite recursion.",
+        "image": null
+      }
+    ],
+    "answer": "The number of times that v occurs in nums is returned."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Array Creation and Access"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

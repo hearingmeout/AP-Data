@@ -1,0 +1,37 @@
+{
+  "id": "VR168692",
+  "type": "mcq",
+  "title": "Error in reducing score with if else",
+  "content": {
+    "description": "In the following code segment, score and penalty are initially positive integers. The code segment is intended to reduce the value of score by penalty. However, if doing so would cause score to be negative, score should be assigned the value 0.",
+    "question": "For example, if score is 20 and penalty is 5, the code segment should set score to 15.If score is 20 and penalty is 30, score should be set to 0.The code segment does not work as intended.Line 1: IF(score - penalty < 0)Line 2: {Line 3: score <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> score - penaltyLine 4: }Line 5: ELSELine 6: {Line 7: score <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0Line 8: }Which of the following changes can be made so that the code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Changing line 1 to IF(score < 0)",
+        "image": null
+      },
+      {
+        "label": "Changing line 1 to IF(score + penalty < 0)",
+        "image": null
+      },
+      {
+        "label": "Changing line 7 to score ← score + penalty",
+        "image": null
+      },
+      {
+        "label": "Interchanging lines 3 and 7",
+        "image": null
+      }
+    ],
+    "answer": "Interchanging lines 3 and 7"
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Identifying and Correcting Errors"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Identify and correct errors in algorithms and programs, including error discovery through testing."
+  }
+}

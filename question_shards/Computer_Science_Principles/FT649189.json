@@ -1,0 +1,37 @@
+{
+  "id": "FT649189",
+  "type": "mcq",
+  "title": "Simulating election votes",
+  "content": {
+    "description": "Directions: For the question or incomplete statement below, two of the suggested answers are correct. For this question, you must select both correct choices to earn credit. No partial credit will be earned if only one correct choice is selected. Select the two that are best in each case.",
+    "question": "In a certain district, 20 percent of the voters are expected to vote for Candidate A in an election. The computer program below is intended to simulate the result of the election with voters, and display the number of votes received by Candidate A. Which of the following can be used to replace in line 4 so that the program works as intended? Select two answers.",
+    "image": "https://ap.oly.st/images/c150beb6e91cc53f08b1962e020f4e75.jpg",
+    "choices": [
+      {
+        "label": "Random (1 comma 5) equals 1",
+        "image": "https://ap.oly.st/images/5033ea0cb8bebe7b6fd864825271aad2.JPG"
+      },
+      {
+        "label": "Random (1 comma 5) less than or equal to 2",
+        "image": "https://ap.oly.st/images/68f4a4720dec07acd92f2de167df18fb.JPG"
+      },
+      {
+        "label": "Random (1 comma 10) equals 2",
+        "image": "https://ap.oly.st/images/2e13734ce09c61dc38b438e9b4e791b5.JPG"
+      },
+      {
+        "label": "Random (1 comma 10) less than or equal to 2",
+        "image": "https://ap.oly.st/images/dd6b876822bec2325d2d718b9104a96d.JPG"
+      }
+    ],
+    "answer": "Random (1 comma 5) equals 1"
+  },
+  "topic": {
+    "code": "3.15",
+    "text": "3.15: Random Values"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

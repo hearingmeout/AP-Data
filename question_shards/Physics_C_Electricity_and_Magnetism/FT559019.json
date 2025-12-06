@@ -1,0 +1,45 @@
+{
+  "id": "FT559019",
+  "type": "mcq",
+  "title": "Variable voltage source connected to inductor",
+  "content": {
+    "description": "",
+    "question": "A variable voltage source is connected to an inductor of inductance L. The voltage V as a function of time t is given by the equation V(t) = βt2 , where β is a constant in units of V/s2. The current in the inductor at time t = 0 is zero. Which of the following equations gives the magnitude of the current in the inductor as a function of time?",
+    "image": null,
+    "choices": [
+      {
+        "label": "I(t) = 0",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mi>I</mi><mrow><mo>(</mo> <mi>t</mi> <mo>)</mo></mrow><mo>=</mo><mfrac> <mrow> <mn>2</mn><mi>β</mi> </mrow> <mi>L</mi> </mfrac> <mi>t</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWGjbWaaeWaa8aabaWdbiaadshaaiaawIcacaGLPaaacqGH9aqpdaWcaaWdaeaapeGaaGOmaiabek7aIbWdaeaapeGaamitaaaacaWG0baaaa@3EFE@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mi>I</mi><mrow><mo>(</mo> <mi>t</mi> <mo>)</mo></mrow><mo>=</mo><mfrac> <mi>β</mi> <mi>L</mi> </mfrac> <msup> <mi>t</mi> <mn>2</mn> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWGjbWaaeWaa8aabaWdbiaadshaaiaawIcacaGLPaaacqGH9aqpdaWcaaWdaeaapeGaeqOSdigapaqaa8qacaWGmbaaaiaadshapaWaaWbaaSqabeaapeGaaGOmaaaaaaa@3F4A@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mi>I</mi> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> <mo>=</mo> <mfrac> <mi>β</mi> <mrow> <mn>3</mn> <mi>L</mi> </mrow> </mfrac> <msup> <mi>t</mi> <mn>3</mn> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWGjbWaaeWaa8aabaWdbiaadshaaiaawIcacaGLPaaacqGH9aqpdaWcaaWdaeaapeGaeqOSdigapaqaa8qacaaIZaGaamitaaaacaWG0bWdamaaCaaaleqabaWdbiaaiodaaaaaaa@4008@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mi>I</mi> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> <mo>=</mo> <mfrac> <mi>β</mi> <mi>L</mi> </mfrac> <msup> <mi>t</mi> <mn>2</mn> </msup> <mi>sin</mi> <mrow> <mo>(</mo> <mrow> <mi>ω</mi> <mi>t</mi> </mrow> <mo>)</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWGjbWaaeWaa8aabaWdbiaadshaaiaawIcacaGLPaaacqGH9aqpdaWcaaWdaeaapeGaeqOSdigapaqaa8qacaWGmbaaaiaadshapaWaaWbaaSqabeaapeGaaGOmaaaakiGacohacaGGPbGaaiOBamaabmaapaqaa8qacqaHjpWDcaWG0baacaGLOaGaayzkaaaaaa@469A@</annotation> </semantics> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <semantics> <mrow> <mi>I</mi> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> <mo>=</mo> <mfrac> <mi>β</mi> <mrow> <mn>3</mn> <mi>L</mi> </mrow> </mfrac> <msup> <mi>t</mi> <mn>3</mn> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWGjbWaaeWaa8aabaWdbiaadshaaiaawIcacaGLPaaacqGH9aqpdaWcaaWdaeaapeGaeqOSdigapaqaa8qacaaIZaGaamitaaaacaWG0bWdamaaCaaaleqabaWdbiaaiodaaaaaaa@4008@</annotation> </semantics> </math>"
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.4",
+    "text": "13.4: Inductance"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

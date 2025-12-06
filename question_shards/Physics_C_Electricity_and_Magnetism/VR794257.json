@@ -1,0 +1,41 @@
+{
+  "id": "VR794257",
+  "type": "mcq",
+  "title": "Resistivity - battery and resistor L x s x s",
+  "content": {
+    "description": "",
+    "question": "A battery of <math alttext=\"e m f\" display=\"inline\" overflow=\"scroll\"><mi>emf</mi></math> <math alttext=\"script uppercase E\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi></math> is connected to a resistor, as shown in the figure. The resistor is made from a material of resistivity <math alttext=\"rho\" display=\"inline\" overflow=\"scroll\"><mi>ρ</mi></math> and is in the shape of a rectangular solid with length <math alttext=\"L\" display=\"inline\" overflow=\"scroll\"><mi>L</mi></math> and a square cross section of side length <math alttext=\"s\" display=\"inline\" overflow=\"scroll\"><mi>s</mi></math>. What is the current in the resistor?",
+    "image": "https://ap.oly.st/images/49631b3d4a0ae62102457016b2da36b9.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"script uppercase E times rho, times L\" display=\"inline\" overflow=\"scroll\"><mi>Ɛ</mi><mi>ρ</mi><mi>L</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator script uppercase E, and denominator rho times L, end fraction\" display=\"inline\" overflow=\"scroll\"><mfrac><mi>Ɛ</mi><mrow><mi>ρ</mi><mi>L</mi></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator script uppercase E times rho times L, and denominator s squared, end fraction\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mi>Ɛ</mi><mi>ρ</mi><mi>L</mi></mrow><msup><mi>s</mi><mn>2</mn></msup></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator script uppercase E times s squared, and denominator rho times L, end fraction\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mi>Ɛ</mi><msup><mi>s</mi><mn>2</mn></msup></mrow><mrow><mi>ρ</mi><mi>L</mi></mrow></mfrac></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the fraction with numerator script uppercase E times s squared, and denominator rho times L, end fraction\" display=\"inline\" overflow=\"scroll\"><mfrac><mrow><mi>Ɛ</mi><msup><mi>s</mi><mn>2</mn></msup></mrow><mrow><mi>ρ</mi><mi>L</mi></mrow></mfrac></math>"
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.3",
+    "text": "11.3: Resistance, Resistivity, and Ohm's Law"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

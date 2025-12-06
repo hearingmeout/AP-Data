@@ -1,0 +1,41 @@
+{
+  "id": "VH904701",
+  "type": "mcq",
+  "title": "Assign one point zero to num",
+  "content": {
+    "description": "In the code segment below, assume that the int variables a and b have been properly declared and initialized.",
+    "question": "int c = a;int d = b;c += 3;d--;double num = c;num /= d;Which of the following best describes the behavior of the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The code segment stores the value of (a + 3) / b in the variable num.",
+        "image": null
+      },
+      {
+        "label": "The code segment stores the value of (a + 3) / (b - 1) in the variable num.",
+        "image": null
+      },
+      {
+        "label": "The code segment stores the value of (a + 3) / (b - 2) in the variable num.",
+        "image": null
+      },
+      {
+        "label": "The code segment causes a runtime error in the last line of code because num is type double and d is type int.",
+        "image": null
+      }
+    ],
+    "answer": "The code segment stores the value of (a + 3) / (b - 1) in the variable num."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.6",
+    "text": "1.6: Compound Assignment Operators"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

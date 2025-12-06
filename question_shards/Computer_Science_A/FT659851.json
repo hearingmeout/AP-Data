@@ -1,0 +1,41 @@
+{
+  "id": "FT659851",
+  "type": "mcq",
+  "title": "removeDups with ArrayList instance variable output",
+  "content": {
+    "description": "The following question refer to the following information.",
+    "question": "Consider the following data field and method. The method removeDups is intended to remove all adjacent duplicate numbers from myData, but does not work as intended. private ArrayList myData; public void removeDups () { int k = 1; while (k < myData.size()) { if (myData.get(k).equals(myData.get(k - 1))) { myData.remove(k); } k++; } } For example, if myData has the values 3 3 4 4 4 8 7 7 7, after calling removeDups, myData should have the values 3 4 8 7. Assume that myData has the following values. 2 7 5 5 5 5 6 6 3 3 3 Which of the following represents myData after the incorrect removeDups is executed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "2 7 5 6 3",
+        "image": null
+      },
+      {
+        "label": "2 7 5 6 3 3",
+        "image": null
+      },
+      {
+        "label": "2 7 5 5 6 3 3",
+        "image": null
+      },
+      {
+        "label": "2 7 5 5 5 6 3 3",
+        "image": null
+      }
+    ],
+    "answer": "2 7 5 5 6 3 3"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.10",
+    "text": "4.10: Implementing `ArrayList` Algorithms"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

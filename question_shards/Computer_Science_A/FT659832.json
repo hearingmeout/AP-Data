@@ -1,0 +1,41 @@
+{
+  "id": "FT659832",
+  "type": "mcq",
+  "title": "while with int k and mod",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "int k = 1; while (k < 20) { if ((k % 3) == 1) System.out.print(k + \" \"); k++; } What is printed as a result of executing this code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "2 5 8 11 14 17",
+        "image": null
+      },
+      {
+        "label": "3 6 9 12 15 18",
+        "image": null
+      },
+      {
+        "label": "1 4 7 10 13 16 19",
+        "image": null
+      },
+      {
+        "label": "1 3 5 7 9 11 13 15 17 19",
+        "image": null
+      }
+    ],
+    "answer": "1 4 7 10 13 16 19"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.9",
+    "text": "2.9: Implementing Selection and Iteration Algorithms"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

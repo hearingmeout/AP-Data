@@ -1,0 +1,41 @@
+{
+  "id": "XVW000001",
+  "type": "mcq",
+  "title": "Matrices as Functions - related areas",
+  "content": {
+    "description": "",
+    "question": "The linear transformation function <math alttext=\"L\"><mi>L</mi></math> is given by <math alttext=\"L open parentheses vector v close parentheses equals A times vector v\"><mi>L</mi><mfenced><mover><mi>v</mi><mo>→</mo></mover></mfenced><mo>=</mo><mi>A</mi><mover><mi>v</mi><mo>→</mo></mover></math>, where <math alttext=\"A\"><mi>A</mi></math> is a <math alttext=\"2 by 2\"><mn>2</mn><mo>×</mo><mn>2</mn></math> matrix and <math alttext=\"vector v\"><mover><mi>v</mi><mo>→</mo></mover></math> is a column vector. Five vectors can be used to define a pentagon, which is a five-sided polygon. Under the linear transformation of the five vectors, the area of the image pentagon is twice the area of the preimage pentagon. Which of the following could define <math alttext=\"A\"><mi>A</mi></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"a 2 by 2 matrix with row 1 column 1 value square root of 2, row 1 column 2 value 0, row 2 column 1 value 0, row 2 column 2 value square root of 2\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><msqrt><mn>2</mn></msqrt></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><msqrt><mn>2</mn></msqrt></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"a 2 by 2 matrix with row 1 column 1 value square root of 2, row 1 column 2 value square root of 2, row 2 column 1 value square root of 2, row 2 column 2 value square root of 2\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><msqrt><mn>2</mn></msqrt></mtd><mtd><msqrt><mn>2</mn></msqrt></mtd></mtr><mtr><mtd><msqrt><mn>2</mn></msqrt></mtd><mtd><msqrt><mn>2</mn></msqrt></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"a 2 by 2 matrix with row 1 column 1 value 2, row 1 column 2 value 0, row 2 column 1 value 0, row 2 column 2 value 2\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>2</mn></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>2</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"a 2 by 2 matrix with row 1 column 1 value 2, row 1 column 2 value 2, row 2 column 1 value 2, row 2 column 2 value 2\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>2</mn></mtd><mtd><mn>2</mn></mtd></mtr><mtr><mtd><mn>2</mn></mtd><mtd><mn>2</mn></mtd></mtr></mtable></mfenced></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"a 2 by 2 matrix with row 1 column 1 value square root of 2, row 1 column 2 value 0, row 2 column 1 value 0, row 2 column 2 value square root of 2\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><msqrt><mn>2</mn></msqrt></mtd><mtd><mn>0</mn></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><msqrt><mn>2</mn></msqrt></mtd></mtr></mtable></mfenced></math>"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.13",
+    "text": "4.13: Matrices as Functions"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Identify information from graphical, numerical, analytical, and verbal representations to answer a question or construct a model, with and without technology."
+  }
+}

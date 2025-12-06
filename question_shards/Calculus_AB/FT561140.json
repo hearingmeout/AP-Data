@@ -1,0 +1,45 @@
+{
+  "id": "FT561140",
+  "type": "mcq",
+  "title": "Lagrange error bound",
+  "content": {
+    "description": "",
+    "question": "Let f be a function that has derivatives of all orders for all real numbers, and let P3(x) be the third-degree Taylor polynomial for f about x = 0. The Taylor series for f about x = 0 converges at x = 1, and <math> <semantics> <mrow> <mrow> <mo>|</mo> <mrow> <msup> <mi>f</mi> <mrow> <mrow> <mo>(</mo> <mi>n</mi> <mo>)</mo> </mrow> </mrow> </msup> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>|</mo> </mrow> <mo>≤</mo> <mfrac> <mi>n</mi> <mrow> <mi>n</mi> <mo>+</mo> <mn>1</mn> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaadaabdaqaaabaaaaaaaaapeGaamOza8aadaahaaWcbeqaa8qadaqadaWdaeaapeGaamOBaaGaayjkaiaawMcaaaaakmaabmaapaqaa8qacaWG4baacaGLOaGaayzkaaaapaGaay5bSlaawIa7a8qacqGHKjYOdaWcaaWdaeaapeGaamOBaaWdaeaapeGaamOBaiabgUcaRiaaigdaaaaaaa@4863@</annotation> </semantics> </math>, for <math> <semantics> <mrow> <mn>1</mn> <mo>≤</mo> <mi>n</mi> <mo>≤</mo> <mn>4</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbiaaigdacqGHKjYOcaWGUbGaeyizImQaaGinaaaa@3EF1@</annotation> </semantics> </math> and all values of x. Of the following, which is the smallest value of k for which the Lagrange error bound guarantees that <math> <semantics> <mrow> <mrow> <mo>|</mo> <mrow> <mi>f</mi> <mrow> <mo>(</mo> <mn>1</mn> <mo>)</mo> </mrow> <mo>−</mo> <msub> <mi>P</mi> <mn>3</mn> </msub> <mrow> <mo>(</mo> <mn>1</mn> <mo>)</mo> </mrow> </mrow> <mo>|</mo> </mrow> <mo>≤</mo> <mi>k</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaadaabdaqaaabaaaaaaaaapeGaamOzamaabmaapaqaa8qacaaIXaaacaGLOaGaayzkaaGaeyOeI0Iaamiua8aadaWgaaWcbaWdbiaaiodaa8aabeaak8qadaqadaWdaeaapeGaaGymaaGaayjkaiaawMcaaaWdaiaawEa7caGLiWoapeGaeyizImQaam4Aaaaa@47A5@</annotation> </semantics> </math>?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mn>4</mn> <mn>5</mn> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaalaaapaqaa8qacaaI0aaapaqaa8qacaaI1aaaaaaa@3AE6@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mn>4</mn> <mn>5</mn> </mfrac> <mo>·</mo> <mfrac> <mn>1</mn> <mrow> <mn>4</mn> <mo>!</mo> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaalaaapaqaa8qacaaI0aaapaqaa8qacaaI1aaaaiaacEladaWcaaWdaeaapeGaaGymaaWdaeaapeGaaGinaiaacgcaaaaaaa@3E8D@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mn>4</mn> <mn>5</mn> </mfrac> <mo>·</mo> <mfrac> <mn>1</mn> <mrow> <mn>3</mn> <mo>!</mo> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaalaaapaqaa8qacaaI0aaapaqaa8qacaaI1aaaaiaacEladaWcaaWdaeaapeGaaGymaaWdaeaapeGaaG4maiaacgcaaaaaaa@3E8C@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mn>3</mn> <mn>4</mn> </mfrac> <mo>·</mo> <mfrac> <mn>1</mn> <mrow> <mn>4</mn> <mo>!</mo> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaalaaapaqaa8qacaaIZaaapaqaa8qacaaI0aaaaiaacEladaWcaaWdaeaapeGaaGymaaWdaeaapeGaaGinaiaacgcaaaaaaa@3E8B@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mn>3</mn> <mn>4</mn> </mfrac> <mo>·</mo> <mfrac> <mn>1</mn> <mrow> <mn>3</mn> <mo>!</mo> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaalaaapaqaa8qacaaIZaaapaqaa8qacaaI0aaaaiaacEladaWcaaWdaeaapeGaaGymaaWdaeaapeGaaG4maiaacgcaaaaaaa@3E8A@</annotation> </semantics> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <semantics> <mrow> <mfrac> <mn>4</mn> <mn>5</mn> </mfrac> <mo>·</mo> <mfrac> <mn>1</mn> <mrow> <mn>4</mn> <mo>!</mo> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaalaaapaqaa8qacaaI0aaapaqaa8qacaaI1aaaaiaacEladaWcaaWdaeaapeGaaGymaaWdaeaapeGaaGinaiaacgcaaaaaaa@3E8D@</annotation> </semantics> </math>"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.12",
+    "text": "10.12: (BC ONLY) Lagrange Error Bound"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Explain how an approximated value relates to the actual value."
+  }
+}

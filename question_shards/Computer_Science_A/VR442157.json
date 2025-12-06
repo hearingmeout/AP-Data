@@ -1,0 +1,41 @@
+{
+  "id": "VR442157",
+  "type": "mcq",
+  "title": "check Boolean expression in for loop",
+  "content": {
+    "description": "Consider the following method.",
+    "question": "/** Precondition: bound >= 0 */ public int sum(int bound) { int answer = 0; for (int i = 0; i < bound; i++) { answer += bound; } return answer; } Assume that sum is called with a parameter that satisfies the precondition and that it executes without error. How many times is the test expression i < bound in the for loop header evaluated?",
+    "image": null,
+    "choices": [
+      {
+        "label": "bound - 1",
+        "image": null
+      },
+      {
+        "label": "bound",
+        "image": null
+      },
+      {
+        "label": "bound + 1",
+        "image": null
+      },
+      {
+        "label": "An unknown number of times",
+        "image": null
+      }
+    ],
+    "answer": "bound + 1"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: `for` Loops"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

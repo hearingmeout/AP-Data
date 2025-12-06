@@ -1,0 +1,45 @@
+{
+  "id": "VR001983",
+  "type": "mcq",
+  "title": "Electric field and magnetic flux",
+  "content": {
+    "description": "",
+    "question": "A conducting loop of radius <math alttext=\"uppercase R\" overflow=\"scroll\"><mstyle><mrow><mi>R</mi></mrow></mstyle></math> is concentric with a magnetic field that is directed out of the page and covers a circular region of radius <math alttext=\"lowercase r\" overflow=\"scroll\"><mstyle><mrow><mi>r</mi></mrow></mstyle></math>, as shown in the figure. The magnitude of the magnetic field is represented by <math alttext=\"B of t\" overflow=\"scroll\"><mstyle><mrow><mi>B</mi><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mstyle></math>, and the magnitude of the electric field is represented by <math alttext=\"E\" overflow=\"scroll\"><mstyle><mrow><mi>E</mi></mrow></mstyle></math>. Which of the following shows a correct application of Faraday’s law for this situation?",
+    "image": "https://ap.oly.st/images/9ae14a2b80039d060bc5a0765238125f.png",
+    "choices": [
+      {
+        "label": "<math alttext=\"E, open parenthesis, 2 pi times uppercase R, close parenthesis, equals pi times lowercase r squared times, the derivative of B of t with respect to t\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>E</mi><mrow><mo>(</mo><mrow><mn>2</mn><mi>π</mi><mi>R</mi></mrow><mo>)</mo></mrow><mo>=</mo><mi>π</mi><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup><mstyle scriptlevel=\"+1\"><mrow><mfrac><mrow><mi>d</mi><mi>B</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac></mrow></mstyle></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"E, open parenthesis, 2 pi times uppercase R, close parenthesis, equals pi times uppercase R squared times, the derivative of B of t with respect to t\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>E</mi><mrow><mo>(</mo><mrow><mn>2</mn><mi>π</mi><mi>R</mi></mrow><mo>)</mo></mrow><mo>=</mo><mi>π</mi><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup><mstyle scriptlevel=\"+1\"><mrow><mfrac><mrow><mi>d</mi><mi>B</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac></mrow></mstyle></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"E, open parenthesis, 2 pi times lowercase r, close parenthesis, equals pi times lowercase r squared times, the derivative of B of t with respect to t\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>E</mi><mrow><mo>(</mo><mrow><mn>2</mn><mi>π</mi><mi>r</mi></mrow><mo>)</mo></mrow><mo>=</mo><mi>π</mi><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup><mstyle scriptlevel=\"+1\"><mrow><mfrac><mrow><mi>d</mi><mi>B</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac></mrow></mstyle></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"E, open parenthesis, pi times lowercase r squared, close parenthesis, equals, 2 pi times uppercase R, times the derivative of B of t with respect to t\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>E</mi><mrow><mo>(</mo><mrow><mi>π</mi><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mo>)</mo></mrow><mo>=</mo><mn>2</mn><mi>π</mi><mi>R</mi><mstyle scriptlevel=\"+1\"><mrow><mfrac><mrow><mi>d</mi><mi>B</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac></mrow></mstyle></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"E, open parenthesis, pi times lowercase r squared, close parenthesis, equals, 2 pi times lowercase r, times derivative of B of t with respect to t\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>E</mi><mrow><mo>(</mo><mrow><mi>π</mi><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mo>)</mo></mrow><mo>=</mo><mn>2</mn><mi>π</mi><mi>r</mi><mstyle scriptlevel=\"+1\"><mrow><mfrac><mrow><mi>d</mi><mi>B</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac></mrow></mstyle></mrow></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"E, open parenthesis, 2 pi times uppercase R, close parenthesis, equals pi times lowercase r squared times, the derivative of B of t with respect to t\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>E</mi><mrow><mo>(</mo><mrow><mn>2</mn><mi>π</mi><mi>R</mi></mrow><mo>)</mo></mrow><mo>=</mo><mi>π</mi><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup><mstyle scriptlevel=\"+1\"><mrow><mfrac><mrow><mi>d</mi><mi>B</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac></mrow></mstyle></mrow></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Electromagnetic Induction"
+  },
+  "topic": {
+    "code": "13.2",
+    "text": "13.2: Electromagnetic Induction"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

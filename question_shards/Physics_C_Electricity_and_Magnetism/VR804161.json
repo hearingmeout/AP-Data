@@ -1,0 +1,41 @@
+{
+  "id": "VR804161",
+  "type": "mcq",
+  "title": "Equivalent resistance - Rx current - Rvar changes",
+  "content": {
+    "description": "",
+    "question": "The figure shows a circuit that contains a battery and four resistors <math alttext=\"R sub X\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>R</mi><mtext>X</mtext></msub></mstyle></math>, <math alttext=\"R sub Y\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>R</mi><mtext>Y</mtext></msub></mstyle></math>, <math alttext=\"R sub Z\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>R</mi><mtext>Z</mtext></msub></mstyle></math>, and <math alttext=\"R sub variable\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>R</mi><mtext>Var</mtext></msub></mstyle></math>. Resistors <math alttext=\"R sub X\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>R</mi><mtext>X</mtext></msub></mstyle></math>, <math alttext=\"R sub Y\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>R</mi><mtext>Y</mtext></msub></mstyle></math>, and <math alttext=\"R sub Z\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>R</mi><mtext>Z</mtext></msub></mstyle></math> are fixed resistors with the same resistance <math alttext=\"R sub 0\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>R</mi><mtext>0</mtext></msub></mstyle></math>. Resistor <math alttext=\"R sub variable\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>R</mi><mtext>Var</mtext></msub></mstyle></math> is a variable resistor with an initial resistance setting of <math alttext=\"2 R sub 0\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mn>2</mn><msub><mi>R</mi><mn>0</mn></msub></mstyle></math>. The resistance of <math alttext=\"R sub variable\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>R</mi><mtext>Var</mtext></msub></mstyle></math> is then changed to <math alttext=\"the fraction R sub 0, over 2\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><msub><mi>R</mi><mn>0</mn></msub><mn>2</mn></mfrac></mstyle></math>. When <math alttext=\"R sub variable\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>R</mi><mtext>Var</mtext></msub></mstyle></math> decreases to <math alttext=\"the fraction R sub 0, over 2\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><msub><mi>R</mi><mn>0</mn></msub><mn>2</mn></mfrac></mstyle></math>, does the current <math alttext=\"I sub X\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>I</mi><mtext>X</mtext></msub></mstyle></math> in resistor <math alttext=\"R sub X\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>R</mi><mtext>X</mtext></msub></mstyle></math> increase or decrease, and what evidence or reasoning supports the claim?",
+    "image": "https://ap.oly.st/images/21f6a810f19ff4642964d1ece78e1f76.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"I sub X\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>I</mi><mtext>X</mtext></msub></mstyle></math> increases. The equivalent resistance of the three parallel resistors decreases.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"I sub X\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>I</mi><mtext>X</mtext></msub></mstyle></math> increases. The equivalent resistance of the three parallel resistors is less than each individual resistance.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"I sub X\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>I</mi><mtext>X</mtext></msub></mstyle></math> decreases. The equivalent resistance of the three parallel resistors decreases.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"I sub X\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>I</mi><mtext>X</mtext></msub></mstyle></math> decreases. The equivalent resistance of the three parallel resistors is less than each individual resistance.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"I sub X\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>I</mi><mtext>X</mtext></msub></mstyle></math> increases. The equivalent resistance of the three parallel resistors decreases."
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.5",
+    "text": "11.5: Compound Direct Current Circuits"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

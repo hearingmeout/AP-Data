@@ -1,0 +1,41 @@
+{
+  "id": "FT659864",
+  "type": "mcq",
+  "title": "lenIncreasing of int array",
+  "content": {
+    "description": "Consider the following data field and method.",
+    "question": "private int[] seq; // precondition: seq.length > 0 public int lenIncreasing() { int k = 1; while ((k < seq.length) && (seq[k - 1] < seq[k])) { k++; } // assertion return k; } Which of the following assertions is true when execution reaches the line // assertion in lenIncreasing?",
+    "image": null,
+    "choices": [
+      {
+        "label": "(k == seq.length) && (seq[k - 1] >= seq[k])",
+        "image": null
+      },
+      {
+        "label": "(k == seq.length) || (seq[k - 1] >= seq[k])",
+        "image": null
+      },
+      {
+        "label": "(k < seq.length) && (seq[k - 1] < seq[k])",
+        "image": null
+      },
+      {
+        "label": "(k < seq.length) || (seq[k - 1] < seq[k])",
+        "image": null
+      }
+    ],
+    "answer": "(k == seq.length) || (seq[k - 1] >= seq[k])"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Comparing Boolean Expressions"
+  },
+  "skill": {
+    "code": "4.A",
+    "text": "4.A: Describe the behavior of a code segment or program."
+  }
+}

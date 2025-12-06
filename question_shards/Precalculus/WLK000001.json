@@ -1,0 +1,41 @@
+{
+  "id": "WLK000001",
+  "type": "mcq",
+  "title": "Modeling - Determine Function Model",
+  "content": {
+    "description": "",
+    "question": "A computer program can find a specific name in an alphabetical list of names. The function <math alttext=\"h\"><mi>h</mi></math> models the number of steps the program goes through to find the name in a list with a total of <math alttext=\"x\"><mi>x</mi></math> names. The values of <math alttext=\"x\"><mi>x</mi></math> change proportionately as values of <math alttext=\"h open parentheses x close parentheses\"><mi>h</mi><mfenced><mi>x</mi></mfenced></math> increase in equal-length intervals. Which of the following could be an expression for <math alttext=\"h open parentheses x close parentheses\"><mi>h</mi><mfenced><mi>x</mi></mfenced></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"3 plus 2 x squared\"><mn>3</mn><mo>+</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"3 e to the power of 2 x end exponent\"><mn>3</mn><msup><mi>e</mi><mrow><mn>2</mn><mi>x</mi></mrow></msup></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"3 log subscript 2 x\"><mn>3</mn><msub><mi>log</mi><mn>2</mn></msub><mi>x</mi></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"3 sin open parentheses 2 x close parentheses\"><mn>3</mn><mi>sin</mi><mfenced><mrow><mn>2</mn><mi>x</mi></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"3 log subscript 2 x\"><mn>3</mn><msub><mi>log</mi><mn>2</mn></msub><mi>x</mi></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exponential and Logarithmic Functions"
+  },
+  "topic": {
+    "code": "2.14",
+    "text": "2.14: Logarithmic Function Context and Data Modeling"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VR804146",
+  "type": "mcq",
+  "title": "Power - energy dissipated in 10-ohm resistor",
+  "content": {
+    "description": "",
+    "question": "A <math alttext=\"10 ohm\" display=\"inline\" overflow=\"scroll\"><mn>10</mn><mspace width=\"0.2em\"></mspace><mi mathvariant=\"normal\">Ω</mi></math> resistor has a current that varies with time <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mi>t</mi></math> according to the equation <math alttext=\"I of t, equals I sub 0, end sub, times e raised to the negative alpha t power\" display=\"inline\" overflow=\"scroll\"><mi>I</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><msub><mi>I</mi><mn>0</mn></msub><msup><mi>e</mi><mrow><mo>−</mo><mi>α</mi><mi>t</mi></mrow></msup></math>, where <math alttext=\"I sub 0, equals 4 amps\" display=\"inline\" overflow=\"scroll\"><msub><mi>I</mi><mn>0</mn></msub><mo>=</mo><mn>4</mn><mspace width=\"0.2em\"></mspace><mtext>A</mtext></math> and <math alttext=\"alpha equals 2 inverse seconds\" display=\"inline\" overflow=\"scroll\"><mi>α</mi><mo>=</mo><mn>2</mn><mspace width=\"0.2em\"></mspace><msup><mtext>s</mtext><mrow><mo>−</mo><mn>1</mn></mrow></msup></math>. What is the total energy dissipated in the resistor between <math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn></math> and a long time later?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"4 joules\" display=\"inline\" overflow=\"scroll\"><mn>4</mn><mspace width=\"0.2em\"></mspace><mtext>J</mtext></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"20 joules\" display=\"inline\" overflow=\"scroll\"><mn>20</mn><mspace width=\"0.2em\"></mspace><mtext>J</mtext></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"40 joules\" display=\"inline\" overflow=\"scroll\"><mn>40</mn><mspace width=\"0.2em\"></mspace><mtext>J</mtext></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"160 joules\" display=\"inline\" overflow=\"scroll\"><mn>160</mn><mspace width=\"0.2em\"></mspace><mtext>J</mtext></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"40 joules\" display=\"inline\" overflow=\"scroll\"><mn>40</mn><mspace width=\"0.2em\"></mspace><mtext>J</mtext></math>"
+  },
+  "unit": {
+    "code": "11",
+    "text": "11: Electric Circuits"
+  },
+  "topic": {
+    "code": "11.4",
+    "text": "11.4: Electric Power"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Calculate or estimate an unknown quantity with units from known quantities, by selecting and following a logical computational pathway."
+  }
+}

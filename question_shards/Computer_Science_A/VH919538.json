@@ -1,0 +1,41 @@
+{
+  "id": "VH919538",
+  "type": "mcq",
+  "title": "missing while loop header",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "int k = 0;/* missing loop header */{k++;System.out.print(k + \" \");}Which of the following can be used as a replacement for /* missing loop header */ so that the code segment prints out the string \"1 2 3 4 \"?",
+    "image": null,
+    "choices": [
+      {
+        "label": "while (k < 4)",
+        "image": null
+      },
+      {
+        "label": "while (k < 5)",
+        "image": null
+      },
+      {
+        "label": "while (k <= 4)",
+        "image": null
+      },
+      {
+        "label": "while (k <= 5)",
+        "image": null
+      }
+    ],
+    "answer": "while (k < 4)"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.7",
+    "text": "2.7: `while` Loops"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

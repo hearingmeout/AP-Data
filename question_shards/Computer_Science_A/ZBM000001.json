@@ -1,0 +1,28 @@
+{
+  "id": "ZBM000001",
+  "type": "frq",
+  "title": "ItemInventory",
+  "content": {
+    "description": "",
+    "question": "Complete method averageWithinRange. /** * Returns the average cost of the available items whose cost is between * lower and upper, inclusive * Precondition: lower <= upper * At least one available element of inventory has a cost * between lower and upper, inclusive. * No elements of inventory are null. */ public double averageWithinRange(double lower, double upper)",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Complete method averageWithinRange. /** * Returns the average cost of the available items whose cost is between * lower and upper, inclusive * Precondition: lower <= upper * At least one available element of inventory has a cost * between lower and upper, inclusive. * No elements of inventory are null. */ public double averageWithinRange(double lower, double upper)",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Expressions and Output"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Write program code to implement an algorithm."
+  }
+}

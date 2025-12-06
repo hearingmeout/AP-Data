@@ -1,0 +1,41 @@
+{
+  "id": "AWG000004",
+  "type": "mcq",
+  "title": "SocialMediaAccount - explain impact",
+  "content": {
+    "description": "",
+    "question": "What is the greatest personal privacy risk posed to users by this class design?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The class contains no mutator methods.",
+        "image": null
+      },
+      {
+        "label": "The class utilizes data encapsulation.",
+        "image": null
+      },
+      {
+        "label": "Personal information can be determined from outside the class using information that has public visibility.",
+        "image": null
+      },
+      {
+        "label": "If the ID numbers are assigned consecutively, the total number of users can be determined.",
+        "image": null
+      }
+    ],
+    "answer": "Personal information can be determined from outside the class using information that has public visibility."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.1",
+    "text": "4.1: Ethical and Social Issues Around Data Collection"
+  },
+  "skill": {
+    "code": "5.A",
+    "text": "5.A: Explain how computing impacts society, economy, and culture."
+  }
+}

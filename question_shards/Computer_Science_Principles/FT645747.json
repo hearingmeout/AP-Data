@@ -1,0 +1,37 @@
+{
+  "id": "FT645747",
+  "type": "mcq",
+  "title": "Generate Happy from Harp and Puppy",
+  "content": {
+    "description": "",
+    "question": "Which of the following expressions can be used to generate the string ?",
+    "image": "https://ap.oly.st/images/56ed4831ef2cae56f35ccabc33a6181e.JPG",
+    "choices": [
+      {
+        "label": "Concat, open parenthesis, Substring, open parenthesis, open quotation, Harp, close quotation, comma 1 comma 1, close parenthesis, comma, Substring, open parenthesis, open quotation, Puppy, close quotation, comma, 2 comma 4, close parenthesis, close parenthesis",
+        "image": "https://ap.oly.st/images/c2a07d144ef7c83530c9f8612002789d.jpg"
+      },
+      {
+        "label": "Concat, open parenthesis, Substring, open parenthesis, open quotation, Harp, close quotation, comma 1 comma 2, close parenthesis, comma, Substring, open parenthesis, open quotation, Puppy, close quotation, comma, 3 comma 3, close parenthesis, close parenthesis",
+        "image": "https://ap.oly.st/images/b4bfd7b18893b1cbb861487d01389807.jpg"
+      },
+      {
+        "label": "Concat, open parenthesis, Substring, open parenthesis, open quotation, Harp, close quotation, comma 1 comma 2, close parenthesis, comma, Substring, open parenthesis, open quotation, Puppy, close quotation, comma, 4 comma 2, close parenthesis, close parenthesis",
+        "image": "https://ap.oly.st/images/c646144feca044021fdacc5da735356e.jpg"
+      },
+      {
+        "label": "Concat, open parenthesis, Substring, open parenthesis, open quotation, Harp, close quotation, comma 2 comma 2, close parenthesis, comma, Substring, open parenthesis, open quotation, Puppy, close quotation, comma, 4 comma 2, close parenthesis, close parenthesis",
+        "image": "https://ap.oly.st/images/4c60f9d49f13d525c584a705cadad288.jpg"
+      }
+    ],
+    "answer": "Concat, open parenthesis, Substring, open parenthesis, open quotation, Harp, close quotation, comma 1 comma 2, close parenthesis, comma, Substring, open parenthesis, open quotation, Puppy, close quotation, comma, 3 comma 3, close parenthesis, close parenthesis"
+  },
+  "topic": {
+    "code": "3.12",
+    "text": "3.12: Calling Procedures"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Use abstraction to manage complexity in a program."
+  }
+}

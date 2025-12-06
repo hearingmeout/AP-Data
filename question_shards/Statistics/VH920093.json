@@ -1,0 +1,45 @@
+{
+  "id": "VH920093",
+  "type": "mcq",
+  "title": "Blood characteristic",
+  "content": {
+    "description": "",
+    "question": "In a certain region, 94 percent of the people have a certain characteristic in their blood. Suppose a group of 45 people from the region are selected at random. Let the random variable <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>B</mi></mrow></mstyle></math> represent the number of people in the sample without the characteristic. Random variable <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>B</mi></mrow></mstyle></math> follows a binomial distribution with a mean of 2.7 people. Which of the following is the best interpretation of the mean?",
+    "image": null,
+    "choices": [
+      {
+        "label": "For all groups of 45 people, the average number of people without the characteristic is 2.7.",
+        "image": null
+      },
+      {
+        "label": "Every group of 45 people will have 2.7 people with the characteristic.",
+        "image": null
+      },
+      {
+        "label": "Every group of 45 people will have 2.7 people without the characteristic.",
+        "image": null
+      },
+      {
+        "label": "On average, 2.7 people are selected until finding someone with the characteristic.",
+        "image": null
+      },
+      {
+        "label": "On average, 2.7 people are selected until finding someone without the characteristic.",
+        "image": null
+      }
+    ],
+    "answer": "For all groups of 45 people, the average number of people without the characteristic is 2.7."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.11",
+    "text": "4.11: Parameters for a Binomial Distribution"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

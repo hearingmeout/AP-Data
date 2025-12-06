@@ -1,0 +1,41 @@
+{
+  "id": "VH971320",
+  "type": "mcq",
+  "title": "Processes - Diff Eq Separation of Variables",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"y equals, f of x \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math> be the particular solution to the differential equation <math alttext=\"the derivative of y, with respect to x, equals, the fraction with numerator 1, and denominator 2 y plus 1, end fraction \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mo>ⅆ</mo><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn><mi>y</mi><mo>+</mo><mn>1</mn></mrow></mfrac></mrow></mstyle></math> with the initial condition <math alttext=\"y of 0, equals 0 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>=</mo><mn>0</mn></mrow></mstyle></math>. Which of the following gives an expression for <math alttext=\"f of x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math> and the domain for which the solution is valid?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"y equals, the fraction with numerator e raised to the 2 x power, minus 1, and denominator 2 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mfrac><mrow><msup><mrow><mi>e</mi></mrow><mrow><mn>2</mn><mi>x</mi></mrow></msup><mo>−</mo><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math> for all <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"y equals, tangent x \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mi>tan</mi><mo>⁡</mo><mi>x</mi></mrow></mstyle></math> for <math alttext=\"the negative of the fraction pi over 2, less than x, less than the fraction pi over 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"y equals, the square root of x \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><msqrt><mrow><mi>x</mi></mrow></msqrt></mrow></mstyle></math> for <math alttext=\"x greater than or equal to 0\" display=\"inline\" overflow=\"scroll\"><mrow><mi>x</mi><mo>≥</mo><mn>0</mn></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"y equals, the fraction with numerator negative 1, plus the square root of 1 plus 4 x, end root, and denominator 2 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mfrac><mrow><mrow><mo>−</mo><mn>1</mn></mrow><mo>+</mo><msqrt><mrow><mn>1</mn><mo>+</mo><mn>4</mn><mi>x</mi></mrow></msqrt></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math> for <math alttext=\"x greater than negative one fourth\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>&gt;</mo><mrow><mo>−</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"y equals, the fraction with numerator negative 1, plus the square root of 1 plus 4 x, end root, and denominator 2 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mfrac><mrow><mrow><mo>−</mo><mn>1</mn></mrow><mo>+</mo><msqrt><mrow><mn>1</mn><mo>+</mo><mn>4</mn><mi>x</mi></mrow></msqrt></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math> for <math alttext=\"x greater than negative one fourth\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>&gt;</mo><mrow><mo>−</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.7",
+    "text": "7.7: Finding Particular Solutions Using Initial Conditions and Separation of Variables"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "FT659247",
+  "type": "frq",
+  "title": "Analysis of f based on table of values for f, f'",
+  "content": {
+    "description": "",
+    "question": "Let f be a function that is differentiable for all real numbers. The table above gives the values of f and its derivative f' for selected points x in the closed interval <math> <semantics> <mrow> <mo>−</mo> <mn>1.5</mn> <mo>≤</mo> <mi>x</mi> <mo>≤</mo> <mn>1.5</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacqGHsislcaaIXaGaaiOlaiaaiwdacqGHKjYOcaWG4bGaeyizImQa aGymaiaac6cacaaI1aaaaa@3FC2@ </annotation> </semantics> </math>. The second derivative of f has the property that f''(x) > 0 for <math> <semantics> <mrow> <mo>−</mo> <mn>1.5</mn> <mo>≤</mo> <mi>x</mi> <mo>≤</mo> <mn>1.5</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacqGHsislcaaIXaGaaiOlaiaaiwdacqGHKjYOcaWG4bGaeyizImQa aGymaiaac6cacaaI1aaaaa@3FC2@ </annotation> </semantics> </math>. (a) Evaluate <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mrow> <mn>1.5</mn> </mrow> </msubsup> <mrow> <mrow> <mo>(</mo> <mrow> <mn>3</mn> <msup> <mi>f</mi> <mo>′</mo> </msup> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>+</mo> <mn>4</mn> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> </mstyle> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWdXaWdaeaapeWaaeWaa8aabaWdbiaaiodaceWGMbGbauaadaqa daWdaeaapeGaamiEaaGaayjkaiaawMcaaiabgUcaRiaaisdaaiaawI cacaGLPaaaaSWdaeaapeGaaGimaaWdaeaapeGaaGymaiaac6cacaaI 1aaaniabgUIiYdaaaa@4323@ </annotation> </semantics> </math>dx. Show the work that leads to your answer.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Let f be a function that is differentiable for all real numbers. The table above gives the values of f and its derivative f' for selected points x in the closed interval <math> <semantics> <mrow> <mo>−</mo> <mn>1.5</mn> <mo>≤</mo> <mi>x</mi> <mo>≤</mo> <mn>1.5</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacqGHsislcaaIXaGaaiOlaiaaiwdacqGHKjYOcaWG4bGaeyizImQa aGymaiaac6cacaaI1aaaaa@3FC2@ </annotation> </semantics> </math>. The second derivative of f has the property that f''(x) > 0 for <math> <semantics> <mrow> <mo>−</mo> <mn>1.5</mn> <mo>≤</mo> <mi>x</mi> <mo>≤</mo> <mn>1.5</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacqGHsislcaaIXaGaaiOlaiaaiwdacqGHKjYOcaWG4bGaeyizImQa aGymaiaac6cacaaI1aaaaa@3FC2@ </annotation> </semantics> </math>. (a) Evaluate <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mrow> <mn>1.5</mn> </mrow> </msubsup> <mrow> <mrow> <mo>(</mo> <mrow> <mn>3</mn> <msup> <mi>f</mi> <mo>′</mo> </msup> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>+</mo> <mn>4</mn> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> </mstyle> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWdXaWdaeaapeWaaeWaa8aabaWdbiaaiodaceWGMbGbauaadaqa daWdaeaapeGaamiEaaGaayjkaiaawMcaaiabgUcaRiaaisdaaiaawI cacaGLPaaaaSWdaeaapeGaaGimaaWdaeaapeGaaGymaiaac6cacaaI 1aaaniabgUIiYdaaaa@4323@ </annotation> </semantics> </math>dx. Show the work that leads to your answer.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Calculus_AB/original.jpg"
+      },
+      {
+        "text": "(b) Write an equation of the line tangent to the graph of f at the point where x = 1. Use this line to approximate the value of f(1.2). Is this approximation greater than or less than the actual value of f(1.2)? Give a reason for your answer.",
+        "image": null
+      },
+      {
+        "text": "(c) Find a positive real number r having the property that there must exist a value c with 0 < c < 0.5 and f''(c) = r. Give a reason for your answer.",
+        "image": null
+      },
+      {
+        "text": "(d) Let g be the function given by <math> <semantics> <mrow> <mi>g</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mrow> <mo>{</mo> <mrow> <mtable> <mtr> <mtd> <mrow> <mn>2</mn> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>−</mo> <mi>x</mi> <mo>−</mo> <mn>7</mn> <mtext>&nbsp;&nbsp;&nbsp;for&nbsp;</mtext> <mi>x</mi> <mo>&lt;</mo> <mn>0</mn> </mrow> </mtd> </mtr> <mtr> <mtd> <mrow> <mn>2</mn> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>+</mo> <mi>x</mi> <mo>−</mo> <mn>7</mn> <mtext>&nbsp;&nbsp;&nbsp;for&nbsp;</mtext> <mi>x</mi> <mo>≥</mo> <mn>0.</mn> </mrow> </mtd> </mtr> </mtable> </mrow> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaam4zaiaacIcacaWG4bGaaiykaiabg2da9maaceaabaqbaeqabiqaaaqaaiaaikdacaWG4bWaaWbaaSqabeaacaaIYaaaaOGaeyOeI0IaamiEaiabgkHiTiaaiEdacaqGGaGaaeiiaiaabccacaqGMbGaae4BaiaabkhacaqGGaGaamiEaiabgYda8iaaicdaaeaacaaIYaGaamiEamaaCaaaleqabaGaaGOmaaaakiabgUcaRiaadIhacqGHsislcaaI3aGaaeiiaiaabccacaqGGaGaaeOzaiaab+gacaqGYbGaaeiiaiaadIhacqGHLjYScaaIWaGaaiOlaaaaaiaawUhaaaaa@5982@</annotation> </semantics> </math> The graph of g passes through each of the points (x, f(x)) given in the table above. Is it possible that f and g are the same function? Give a reason for your answer.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.11",
+    "text": "1.11: Defining Continuity at a Point"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Explain how an approximated value relates to the actual value."
+  }
+}

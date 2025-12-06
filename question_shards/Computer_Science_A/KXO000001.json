@@ -1,0 +1,41 @@
+{
+  "id": "KXO000001",
+  "type": "mcq",
+  "title": "Rope lengths - describe behavior ",
+  "content": {
+    "description": "",
+    "question": "Which of the following best describes the behavior of the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The code segment works as intended for all nonnegative values of len1, len2, and len3.",
+        "image": null
+      },
+      {
+        "label": "The code segment works as intended but only when the sum of the three lengths is an integer or the decimal part of the sum of the three lengths is greater than or equal to 0.5.",
+        "image": null
+      },
+      {
+        "label": "The code segment does not work as intended for some values of len1, len2, and len3 because these values must be cast to int before they are added together.",
+        "image": null
+      },
+      {
+        "label": "The code segment does not work as intended for some values of len1, len2, and len3 because minLength should be declared as a double and then cast to an int in the print statement.",
+        "image": null
+      }
+    ],
+    "answer": "The code segment works as intended but only when the sum of the three lengths is an integer or the decimal part of the sum of the three lengths is greater than or equal to 0.5."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.5",
+    "text": "1.5: Casting and Range of Variables"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "VH888121-22",
+  "type": "frq",
+  "title": "Series - p-Series-Improper Integral",
+  "content": {
+    "description": "",
+    "question": "NO CALCULATOR IS ALLOWED FOR THIS QUESTION. Show all of your work, even though the question may not explicitly remind you to do so. Clearly label any functions, graphs, tables, or other objects that you use. Justifications require that you give mathematical reasons, and that you verify the needed conditions under which relevant theorems, properties, definitions, or tests are applied. Your work will be scored on the correctness and completeness of your methods as well as your answers. Answers without supporting work will usually not receive credit. Unless otherwise specified, answers (numeric or algebraic) need not be simplified. If your answer is given as a decimal approximation, it should be correct to three places after the decimal point. Unless otherwise specified, the domain of a function <math alttext=\"f\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is assumed to be the set of all real numbers <math alttext=\"x\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> for which <math alttext=\"f of x\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math> is a real number. Let <math alttext=\"p\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math> be a positive constant such that the series <math alttext=\"the sum, from n equals 1, to infinity, of the fraction 1 over n to the p power, end fraction\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mrow><munderover><mo>∑</mo><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mi>p</mi></mrow></msup></mrow></mfrac></mrow></mrow></mrow></mstyle></mrow></mstyle></mrow></math> diverges. (a) Does the series <math alttext=\"the sum, from n equals 1, to infinity, of the fraction 1 over n raised to the p squared power, end fraction\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mrow><munderover><mo>∑</mo><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><msup><mrow><mi>p</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></msup></mrow></mfrac></mrow></mrow></mrow></mstyle></mrow></mstyle></mrow></math> converge or diverge? Justify your answer.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "NO CALCULATOR IS ALLOWED FOR THIS QUESTION. Show all of your work, even though the question may not explicitly remind you to do so. Clearly label any functions, graphs, tables, or other objects that you use. Justifications require that you give mathematical reasons, and that you verify the needed conditions under which relevant theorems, properties, definitions, or tests are applied. Your work will be scored on the correctness and completeness of your methods as well as your answers. Answers without supporting work will usually not receive credit. Unless otherwise specified, answers (numeric or algebraic) need not be simplified. If your answer is given as a decimal approximation, it should be correct to three places after the decimal point. Unless otherwise specified, the domain of a function <math alttext=\"f\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is assumed to be the set of all real numbers <math alttext=\"x\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> for which <math alttext=\"f of x\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math> is a real number. Let <math alttext=\"p\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math> be a positive constant such that the series <math alttext=\"the sum, from n equals 1, to infinity, of the fraction 1 over n to the p power, end fraction\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mrow><munderover><mo>∑</mo><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mi>p</mi></mrow></msup></mrow></mfrac></mrow></mrow></mrow></mstyle></mrow></mstyle></mrow></math> diverges. (a) Does the series <math alttext=\"the sum, from n equals 1, to infinity, of the fraction 1 over n raised to the p squared power, end fraction\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mrow><munderover><mo>∑</mo><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><msup><mrow><mi>p</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></msup></mrow></mfrac></mrow></mrow></mrow></mstyle></mrow></mstyle></mrow></math> converge or diverge? Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "(b) Does the series <math alttext=\"the sum, from n equals 1, to infinity, of the fraction with numerator open parenthesis, negative 1, close parenthesis, to the n power, and denominator n raised to the p plus 1 power, end fraction\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><mfrac><mrow><msup><mrow><mo>(</mo><mrow><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mrow><mi>n</mi></mrow></msup></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mi>p</mi><mo>+</mo><mn>1</mn></mrow></msup></mrow></mfrac></mrow></mrow></mstyle></mrow></mstyle></mrow></math> converge absolutely, converge conditionally, or diverge? Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "(c) Evaluate <math alttext=\"the integral from, 1 to infinity, of the fraction with numerator 1, and denominator x raised to the p plus 1 power, end fraction, d x\"><mrow><mstyle><mrow><mstyle><mrow><mrow><msubsup><mo stretchy=\"true\">∫</mo><mrow><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></msubsup><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>x</mi></mrow><mrow><mi>p</mi><mo>+</mo><mn>1</mn></mrow></msup></mrow></mfrac></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mrow></mstyle></mrow></mstyle></mrow></math>.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.13",
+    "text": "6.13: (BC ONLY) Evaluating Improper Integrals"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

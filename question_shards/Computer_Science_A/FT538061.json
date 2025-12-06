@@ -1,0 +1,41 @@
+{
+  "id": "FT538061",
+  "type": "mcq",
+  "title": "2D array with multi-way selection",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "What are the contents of mat after the code segment has been executed?",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/dfb1a290e49fdacffcc534c6bfc18446.jpg",
+    "choices": [
+      {
+        "label": "Option A shows a 4 by 3 matrix that reads as follows: open brace, open brace, 2 comma 1 comma 1, close brace. Comma, open brace, 3 comma 2 comma 1, close brace. Comma, open brace, 3 comma 3 comma 2, close brace, comma open brace, 3 comma 3 comma 3, close brace, close brace.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/023933442fca1f7c63a9f0df097c75a5.jpg"
+      },
+      {
+        "label": "Option C shows a 3 by 4 matrix that reads as follows: open brace, open brace, 2 comma 3 comma 3 comma 3, close brace. Comma, open brace, 1 comma 2 comma 3 comma 3, close brace. Comma, open brace, 1 comma 1 comma 2 comma 3, close brace, close brace.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/d2990e345a41ea22563127121472ec21.jpg"
+      },
+      {
+        "label": "Option D shows a 3 by 3 matrix that reads as follows: open brace, open brace, 2 comma 1 comma 1 comma 1 close brace. Comma, open brace, 3 comma 2 comma 1 comma 1, close brace. Comma, open brace, 3 comma 3 comma 2 comma 1, close brace, close brace.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/9db11130bbfe4d155d0042de46e0b87a.jpg"
+      },
+      {
+        "label": "Option E shows a 3 by 3 that matrix reads as follows: open brace, open brace, 1 comma 1 comma 1 comma 1, close brace. Comma, open brace, 2 comma 2 comma 2 comma 2, close brace. Comma, open brace, 3 comma 3 comma 3 comma 3, close brace, close brace.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/0ccdec838b1af4763412e8b5b69c4338.jpg"
+      }
+    ],
+    "answer": "Option D shows a 3 by 3 matrix that reads as follows: open brace, open brace, 2 comma 1 comma 1 comma 1 close brace. Comma, open brace, 3 comma 2 comma 1 comma 1, close brace. Comma, open brace, 3 comma 3 comma 2 comma 1, close brace, close brace."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.12",
+    "text": "4.12: 2D Array Traversals"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Determine the result or output based on code that contains data abstractions."
+  }
+}

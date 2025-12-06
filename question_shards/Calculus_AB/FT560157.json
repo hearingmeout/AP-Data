@@ -1,0 +1,41 @@
+{
+  "id": "FT560157",
+  "type": "mcq",
+  "title": "Value of a definite integral from a Riemann sum",
+  "content": {
+    "description": "",
+    "question": "For a certain continuous function f, the right Riemann sum approximation of <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>2</mn> </msubsup> <mi>f</mi> </mrow> </mstyle> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mtext>&nbsp;</mtext> <mi>d</mi> <mi>x</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaapedapaqaa8qacaWGMbaal8aabaWdbiaaicdaa8aabaWdbiaaikdaa0Gaey4kIipakmaabmaapaqaa8qacaWG4baacaGLOaGaayzkaaGaaeiiaiaadsgacaWG4baaaa@433A@</annotation> </semantics> </math> with n subintervals of equal length is <math> <semantics> <mrow> <mfrac> <mrow> <mn>2</mn> <mrow> <mo>(</mo> <mrow> <mi>n</mi> <mo>+</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> <mrow> <mo>(</mo> <mrow> <mn>3</mn> <mi>n</mi> <mo>+</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mrow> <msup> <mi>n</mi> <mn>2</mn> </msup> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaalaaapaqaa8qacaaIYaWaaeWaa8aabaWdbiaad6gacqGHRaWkcaaIXaaacaGLOaGaayzkaaWaaeWaa8aabaWdbiaaiodacaWGUbGaey4kaSIaaGOmaaGaayjkaiaawMcaaaWdaeaapeGaamOBa8aadaahaaWcbeqaa8qacaaIYaaaaaaaaaa@454E@</annotation> </semantics> </math> for all n. What is the value of <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>2</mn> </msubsup> <mi>f</mi> </mrow> </mstyle> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mtext>&nbsp;</mtext> <mi>d</mi> <mi>x</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaapedapaqaa8qacaWGMbaal8aabaWdbiaaicdaa8aabaWdbiaaikdaa0Gaey4kIipakmaabmaapaqaa8qacaWG4baacaGLOaGaayzkaaGaaeiiaiaadsgacaWG4baaaa@433A@</annotation> </semantics> </math>?",
+    "image": null,
+    "choices": [
+      {
+        "label": "2",
+        "image": null
+      },
+      {
+        "label": "6",
+        "image": null
+      },
+      {
+        "label": "12",
+        "image": null
+      },
+      {
+        "label": "20",
+        "image": null
+      }
+    ],
+    "answer": "6"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.3",
+    "text": "6.3: Riemann Sums, Summation Notation, and Definite Integral Notation"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

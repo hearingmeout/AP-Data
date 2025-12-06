@@ -1,0 +1,41 @@
+{
+  "id": "BBJ000001",
+  "type": "mcq",
+  "title": "2D Array Algorithms - modify the code",
+  "content": {
+    "description": "",
+    "question": "The code segment is intended to compute the sum of all elements in all rows that have odd-numbered row indices. However, the code segment is not working as intended. Which of the following changes can be made so that the code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Changing line 2 to for (int r = 0; r < board.length; r += 2)",
+        "image": null
+      },
+      {
+        "label": "Changing line 4 to for (int c = 1; c < board[0].length; c += 2)",
+        "image": null
+      },
+      {
+        "label": "Changing line 6 to if (r % 2 != 0)",
+        "image": null
+      },
+      {
+        "label": "Changing line 8 to sum += board[c][r];",
+        "image": null
+      }
+    ],
+    "answer": "Changing line 6 to if (r % 2 != 0)"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.13",
+    "text": "4.13: Implementing 2D Array Algorithms"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

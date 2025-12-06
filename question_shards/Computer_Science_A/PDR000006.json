@@ -1,0 +1,41 @@
+{
+  "id": "PDR000006",
+  "type": "mcq",
+  "title": "Positive value printed - describe conditions",
+  "content": {
+    "description": "",
+    "question": "Which of the following preconditions for the method is most appropriate to ensure that the value printed by the code segment is always positive?",
+    "image": null,
+    "choices": [
+      {
+        "label": "/** Precondition: x and y are both positive. */",
+        "image": null
+      },
+      {
+        "label": "/** Precondition: x and y are both even. */",
+        "image": null
+      },
+      {
+        "label": "/** Precondition: x > y */",
+        "image": null
+      },
+      {
+        "label": "/** Precondition: x < y */",
+        "image": null
+      }
+    ],
+    "answer": "/** Precondition: x > y */"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Using Objects and Methods"
+  },
+  "topic": {
+    "code": "1.8",
+    "text": "1.8: Documentation with Comments"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

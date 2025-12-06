@@ -1,0 +1,45 @@
+{
+  "id": "VH950168",
+  "type": "mcq",
+  "title": "Power part 1",
+  "content": {
+    "description": "",
+    "question": "Consider a hypothesis test in which the significance level is <math alttext=\"alpha equals 0.05\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>α</mi><mo>=</mo><mn>0.05</mn></mrow></mstyle></math> and the power of the test is 0.65. What is the probability of making a Type <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mrow><mtext>II</mtext></mrow></math> error?",
+    "image": null,
+    "choices": [
+      {
+        "label": "0.95",
+        "image": null
+      },
+      {
+        "label": "0.65",
+        "image": null
+      },
+      {
+        "label": "0.60",
+        "image": null
+      },
+      {
+        "label": "0.35",
+        "image": null
+      },
+      {
+        "label": "0.05",
+        "image": null
+      }
+    ],
+    "answer": "0.35"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.7",
+    "text": "6.7: Potential Errors When Performing Tests"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+  }
+}

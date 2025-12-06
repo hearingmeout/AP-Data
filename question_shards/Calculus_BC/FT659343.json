@@ -1,0 +1,40 @@
+{
+  "id": "FT659343",
+  "type": "frq",
+  "title": "Elephant name",
+  "content": {
+    "description": "",
+    "question": "A zoo sponsored a one-day contest to name a new baby elephant. Zoo visitors deposited entries in a special box between noon (t = 0) and 8 P.M. (t = 8). The number of entries in the box t hours after noon is modeled by a differentiable function E for 0 ≤ t ≤ 8. Values of E(t), in hundreds of entries, at various times t are shown in the table above. (a) Use the data in the table to approximate the rate, in hundreds of entries per hour, at which entries were being deposited at time t = 6. Show the computations that lead to your answer.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "A zoo sponsored a one-day contest to name a new baby elephant. Zoo visitors deposited entries in a special box between noon (t = 0) and 8 P.M. (t = 8). The number of entries in the box t hours after noon is modeled by a differentiable function E for 0 ≤ t ≤ 8. Values of E(t), in hundreds of entries, at various times t are shown in the table above. (a) Use the data in the table to approximate the rate, in hundreds of entries per hour, at which entries were being deposited at time t = 6. Show the computations that lead to your answer.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Calculus_BC/original.png"
+      },
+      {
+        "text": "(b) Use a trapezoidal sum with the four subintervals given by the table to approximate the value of <math> <semantics> <mrow> <mtext>18</mtext><mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>8</mn> </msubsup> <mrow> <mi>E</mi><mo stretchy=\"false\">(</mo><mi>t</mi><mo stretchy=\"false\">)</mo><mi>d</mi><mi>t</mi> </mrow> </mrow> </mstyle> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaeymaiaabIdadaWdXaqaaiaadweacaGGOaGaamiDaiaacMcacaWGKbGaamiDaaWcbaGaaGimaaqaaiaaiIdaa0Gaey4kIipaaaa@4006@</annotation> </semantics> </math>. Using correct units, explain the meaning of <math> <semantics> <mrow> <mtext>18</mtext><mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>8</mn> </msubsup> <mrow> <mi>E</mi><mo stretchy=\"false\">(</mo><mi>t</mi><mo stretchy=\"false\">)</mo><mi>d</mi><mi>t</mi> </mrow> </mrow> </mstyle> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaeymaiaabIdadaWdXaqaaiaadweacaGGOaGaamiDaiaacMcacaWGKbGaamiDaaWcbaGaaGimaaqaaiaaiIdaa0Gaey4kIipaaaa@4006@</annotation> </semantics> </math> in terms of the number of entries.",
+        "image": null
+      },
+      {
+        "text": "(c) At 8 P.M., volunteers began to process the entries. They processed the entries at a rate modeled by the function P, where P(t) = t3 - 30t2 + 298t - 976 hundreds of entries per hour for 8 ≤ t ≤ 12. According to the model, how many entries had not yet been processed by midnight (t = 12)?",
+        "image": null
+      },
+      {
+        "text": "(d) According to the model from part (c), at what time were the entries being processed most quickly? Justify your answer.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: Estimating Derivatives of a Function at a Point"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

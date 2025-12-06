@@ -1,0 +1,41 @@
+{
+  "id": "VR797924",
+  "type": "mcq",
+  "title": "Gauss law - inside uniformly charged cylinder",
+  "content": {
+    "description": "",
+    "question": "A very long solid insulating cylinder of radius <math alttext=\"uppercase R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math> has a charge uniformly distributed over its volume, such that its overall linear charge density is <math alttext=\"lambda\" display=\"inline\" overflow=\"scroll\"><mi>λ</mi></math>. What is the magnitude of the electric field at a perpendicular distance <math alttext=\"lowercase r is less than or equal to uppercase R\" display=\"inline\" overflow=\"scroll\"><mi>r</mi><mo>≤</mo><mi>R</mi></math> from the cylinder’s central axis?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the fraction with numerator lambda, and denominator 4 times pi epsilon sub 0, end sub, uppercase R, end fraction\" display=\"inline\" overflow=\"scroll\"><mfrac><mi>λ</mi><mrow><mn>4</mn><mi>π</mi><msub><mi>ε</mi><mn>0</mn></msub><mi>R</mi></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator lambda, and denominator 4 times pi epsilon sub 0, end sub, lowercase r, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mi>λ</mi><mrow><mn>4</mn><mi>π</mi><msub><mi>ε</mi><mn>0</mn></msub><mi>r</mi></mrow></mfrac></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator lambda times lowercase r, and denominator 2 times pi epsilon sub 0, end sub, uppercase R squared, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><mi>λ</mi><mi>r</mi></mrow><mrow><mn>2</mn><mi>π</mi><msub><mi>ε</mi><mn>0</mn></msub><msup><mi>R</mi><mn>2</mn></msup></mrow></mfrac></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator lambda times lowercase r squared, and denominator 2 times pi epsilon sub 0, end sub, uppercase R cubed, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><mi>λ</mi><msup><mi>r</mi><mn>2</mn></msup></mrow><mrow><mn>2</mn><mi>π</mi><msub><mi>ε</mi><mn>0</mn></msub><msup><mi>R</mi><mn>3</mn></msup></mrow></mfrac></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the fraction with numerator lambda times lowercase r, and denominator 2 times pi epsilon sub 0, end sub, uppercase R squared, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><mi>λ</mi><mi>r</mi></mrow><mrow><mn>2</mn><mi>π</mi><msub><mi>ε</mi><mn>0</mn></msub><msup><mi>R</mi><mn>2</mn></msup></mrow></mfrac></mstyle></math>"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Electric Charges, Fields, and Gauss's Law"
+  },
+  "topic": {
+    "code": "8.6",
+    "text": "8.6: Gauss's Law"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "VR168591",
+  "type": "mcq",
+  "title": "Advantage of lossless over lossy compression",
+  "content": {
+    "description": "",
+    "question": "Which of the following is an advantage of a lossless compression algorithm over a lossy compression algorithm?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A lossless compression algorithm can guarantee that compressed information is kept secure, while a lossy compression algorithm cannot.",
+        "image": null
+      },
+      {
+        "label": "A lossless compression algorithm can guarantee reconstruction of original data, while a lossy compression algorithm cannot.",
+        "image": null
+      },
+      {
+        "label": "A lossless compression algorithm typically allows for faster transmission speeds than does a lossy compression algorithm.",
+        "image": null
+      },
+      {
+        "label": "A lossless compression algorithm typically provides a greater reduction in the number of bits stored or transmitted than does a lossy compression algorithm.",
+        "image": null
+      }
+    ],
+    "answer": "A lossless compression algorithm can guarantee reconstruction of original data, while a lossy compression algorithm cannot."
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Data Compression"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Evaluate solution options."
+  }
+}

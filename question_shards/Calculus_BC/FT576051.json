@@ -1,0 +1,41 @@
+{
+  "id": "FT576051",
+  "type": "mcq",
+  "title": "Slope field",
+  "content": {
+    "description": "",
+    "question": "Let g be a function such that <math> <semantics> <mrow> <mi>g</mi><mrow><mo>(</mo> <mi>y</mi> <mo>)</mo></mrow><mtext>&nbsp;</mtext><mo>&gt;</mo><mtext>&nbsp;</mtext><mn>0</mn><mtext>&nbsp;</mtext></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVCI8FfYJH8YrFfeuY=Hhbbf9v8qqaqFr0xc9pk0xbb a9q8WqFfeaY=biLkVcLq=JHqpepeea0=as0Fb9pgeaYRXxe9vr0=vr 0=vqpWqaaeaabiGaciaacaqabeaadaqaaqaaaOqaaabaaaaaaaaape Gaam4za8aadaqadaqaa8qacaWG5baapaGaayjkaiaawMcaa8qacaqG GaGaeyOpa4JaaeiiaiaaicdacaqGGaaaaa@3D67@ </annotation> </semantics> </math> for all y. Which of the following could be a slope field for the differential equation <math><semantics><mrow><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>=</mo><mrow><mo>(</mo><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mi>g</mi><mo stretchy=\"false\">(</mo><mi>y</mi><mo stretchy=\"false\">)</mo></mrow><annotation>MathType@MTEF@5@5@+= feaahmart1ev3aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaamizaiaadMhaa8aabaWdbiaadsgacaWG4baa aiabg2da9maabmaapaqaa8qacaWG4bWdamaaCaaaleqabaWdbiaaik daaaGccqGHsislcaaIXaaacaGLOaGaayzkaaGaam4zaiaacIcacaWG 5bGaaiykaaaa@43D5@</annotation></semantics></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The figure presents a slope field in the x y coordinate plane. The numbers negative 2 and 2 are indicated on the x axis. There are 11 rows of slope segments. From left to right, the slopes in each row decrease from positive to zero to negative; then to the right of the y axis, the slopes increase from negative to zero to positive. From top to bottom, the segments in each column with positive slope slightly decrease, and the segments with negative slopes slightly increase.",
+        "image": "https://ap.oly.st/images/db6980f6a63c354ad997ac13ac993882.png"
+      },
+      {
+        "label": "The figure presents a slope field in the x y coordinate plane. The numbers negative 2 and 2 are indicated on the x axis. There are 11 rows of slope segments. From left to right, the slopes in each row increase from negative to zero to positive; then to the right of the y axis, the slopes decrease from positive to zero to negative. From top to bottom, the segments in each column with negative slope slightly increase, and the segments with positive slopes slightly decrease.",
+        "image": "https://ap.oly.st/images/1f7e42bd654a4883d436a492a9627ece.png"
+      },
+      {
+        "label": "The figure presents a slope field in the x y coordinate plane. The numbers negative 2 and 2 are indicated on the x axis. There are 11 rows of slope segments. There are two rows of segments with zero slope, one in quadrants 1 and 2, and one in quadrants 3 and 4. Between these two rows with zero slope segments, the slopes in each row are negative and decrease slightly from left to right. Above the row with zero slope segments in quadrants 1 and 2, the slopes in each row are positive and increase slightly from left to right. Below the row with zero slope segments in quadrants 3 and 4, the slopes in each row are positive and increase slightly from left to right.",
+        "image": "https://ap.oly.st/images/f643e5c4199dea31d198899c84fd96ab.png"
+      },
+      {
+        "label": "The figure presents a slope field in the x y coordinate plane. The numbers negative 2 and 2 are indicated on the x axis. There are 11 rows of slope segments. From left to right, the slopes in each row increase slightly from negative to zero to positive. There is a column of zero slope segments in quadrants 1 and 4. From top to bottom, the segments in each column with negative slopes slightly increase, and the segments with positive slopes slightly decrease.",
+        "image": "https://ap.oly.st/images/9556d1e833af7840f9c6deb5856ffd83.png"
+      }
+    ],
+    "answer": "The figure presents a slope field in the x y coordinate plane. The numbers negative 2 and 2 are indicated on the x axis. There are 11 rows of slope segments. From left to right, the slopes in each row decrease from positive to zero to negative; then to the right of the y axis, the slopes increase from negative to zero to positive. From top to bottom, the segments in each column with positive slope slightly decrease, and the segments with negative slopes slightly increase."
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.3",
+    "text": "7.3: Sketching Slope Fields"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

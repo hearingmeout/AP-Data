@@ -1,0 +1,41 @@
+{
+  "id": "VR619276",
+  "type": "mcq",
+  "title": "Spring force-derive an equation relating distances",
+  "content": {
+    "description": "",
+    "question": "A vertical spring is attached to the floor, as shown in Figure <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math>. An object of mass <math alttext=\"m sub 1\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>m</mi><mn>1</mn></msub></mstyle></math> is placed on top of the spring and slowly lowered, compressing the spring a distance <math alttext=\"x sub 1\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>x</mi><mn>1</mn></msub></mstyle></math> from its unstretched length, until it reaches equilibrium, as shown in Figure <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>. Next, an object of mass <math alttext=\"m sub 2\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>m</mi><mn>2</mn></msub></mstyle></math> is placed on top of the first object and slowly lowered, compressing the spring an additional distance <math alttext=\"x sub 2\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>x</mi><mn>2</mn></msub></mstyle></math>. The system is again in equilibrium in Figure <math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mn>3</mn></math>. Which of the following correctly relates <math alttext=\"x sub 2\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>x</mi><mn>2</mn></msub></mstyle></math> to <math alttext=\"x sub 1\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>x</mi><mn>1</mn></msub></mstyle></math>?",
+    "image": "https://ap.oly.st/images/eba512984e1537f0f3907c60717f1544.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"x sub 2, equals, the fraction m sub 2, over m sub 1, end fraction, times x sub 1\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>x</mi><mn>2</mn></msub><mo>=</mo><mfrac><msub><mi>m</mi><mn>2</mn></msub><msub><mi>m</mi><mn>1</mn></msub></mfrac><msub><mi>x</mi><mn>1</mn></msub></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"x sub 2, equals, the fraction m sub 1, over m sub 2, end fraction, times x sub 1\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>x</mi><mn>2</mn></msub><mo>=</mo><mfrac><msub><mi>m</mi><mn>1</mn></msub><msub><mi>m</mi><mn>2</mn></msub></mfrac><msub><mi>x</mi><mn>1</mn></msub></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"x sub 2, equals, open parenthesis, the fraction with numerator m sub 1, plus m sub 2, and denominator m sub 1, end fraction, close parenthesis, times x sub 1\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>x</mi><mn>2</mn></msub><mo>=</mo><mrow><mo>(</mo><mfrac><mrow><msub><mi>m</mi><mn>1</mn></msub><mo>+</mo><msub><mi>m</mi><mn>2</mn></msub></mrow><msub><mi>m</mi><mn>1</mn></msub></mfrac><mo>)</mo></mrow><msub><mi>x</mi><mn>1</mn></msub></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"x sub 2, equals, open parenthesis, the fraction with numerator m sub 2, minus m sub 1, and denominator m sub 1, end fraction, close parenthesis, times x sub 1\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>x</mi><mn>2</mn></msub><mo>=</mo><mrow><mo>(</mo><mfrac><mrow><msub><mi>m</mi><mn>2</mn></msub><mo>−</mo><msub><mi>m</mi><mn>1</mn></msub></mrow><msub><mi>m</mi><mn>1</mn></msub></mfrac><mo>)</mo></mrow><msub><mi>x</mi><mn>1</mn></msub></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"x sub 2, equals, the fraction m sub 2, over m sub 1, end fraction, times x sub 1\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><msub><mi>x</mi><mn>2</mn></msub><mo>=</mo><mfrac><msub><mi>m</mi><mn>2</mn></msub><msub><mi>m</mi><mn>1</mn></msub></mfrac><msub><mi>x</mi><mn>1</mn></msub></mstyle></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Force and Translational Dynamics"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: Spring Forces"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

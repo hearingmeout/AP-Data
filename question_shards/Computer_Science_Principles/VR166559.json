@@ -1,0 +1,37 @@
+{
+  "id": "VR166559",
+  "type": "mcq",
+  "title": "Ability for network to provide fault tolerance",
+  "content": {
+    "description": "The following figure represents a network of physically linked devices labeled P through S. A line between two devices indicates a connection. Devices can communicate only through the connections shown.",
+    "question": "Which of the following statements best explains the ability of the network to provide fault tolerance?",
+    "image": "https://ap.oly.st/images/30296c7140bd6f8defb0c503955ce5f1.png",
+    "choices": [
+      {
+        "label": "The network is considered fault-tolerant because there are redundant paths between each pair of devices.",
+        "image": null
+      },
+      {
+        "label": "The network is considered fault-tolerant because it guarantees that no individual component will fail.",
+        "image": null
+      },
+      {
+        "label": "The network is not considered fault-tolerant because it relies on physical connections.",
+        "image": null
+      },
+      {
+        "label": "The network is not considered fault-tolerant because it provides more paths than are needed.",
+        "image": null
+      }
+    ],
+    "answer": "The network is considered fault-tolerant because there are redundant paths between each pair of devices."
+  },
+  "topic": {
+    "code": "4.2",
+    "text": "4.2: Fault Tolerance"
+  },
+  "skill": {
+    "code": "Skill 5.A",
+    "text": "Skill 5.A: Explain how computing systems work."
+  }
+}

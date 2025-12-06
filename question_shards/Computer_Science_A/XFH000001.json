@@ -1,0 +1,41 @@
+{
+  "id": "XFH000001",
+  "type": "mcq",
+  "title": "call add set remove on ArrayList- determine result",
+  "content": {
+    "description": "",
+    "question": "Which of the following represents the contents of nums after the code segment is executed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "[2, 3, 2, 1, 0]",
+        "image": null
+      },
+      {
+        "label": "[4, 0, 0, 1, 3]",
+        "image": null
+      },
+      {
+        "label": "[4, 2, 0, 2, 0]",
+        "image": null
+      },
+      {
+        "label": "[4, 3, 0, 2, 0]",
+        "image": null
+      }
+    ],
+    "answer": "[4, 3, 0, 2, 0]"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: `ArrayList` Methods"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Determine the result or output based on code that contains procedural abstractions."
+  }
+}

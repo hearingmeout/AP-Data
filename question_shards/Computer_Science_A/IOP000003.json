@@ -1,0 +1,41 @@
+{
+  "id": "IOP000003",
+  "type": "mcq",
+  "title": "Improve system reliability - impact",
+  "content": {
+    "description": "",
+    "question": "Which of the following actions is most likely to improve the system reliability of a Java program?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Designing the program to minimize the use of procedural abstraction",
+        "image": null
+      },
+      {
+        "label": "Testing the program with conditions that represent a wide variety of ways the program will be used",
+        "image": null
+      },
+      {
+        "label": "Using default constructors to set the initial state of the objects used in the program",
+        "image": null
+      },
+      {
+        "label": "Using public visibility for the attributes and behaviors of the classes used in the program",
+        "image": null
+      }
+    ],
+    "answer": "Testing the program with conditions that represent a wide variety of ways the program will be used"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Class Creation"
+  },
+  "topic": {
+    "code": "3.2",
+    "text": "3.2: Impact of Program Design"
+  },
+  "skill": {
+    "code": "5.A",
+    "text": "5.A: Explain how computing impacts society, economy, and culture."
+  }
+}

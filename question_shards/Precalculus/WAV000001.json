@@ -1,0 +1,41 @@
+{
+  "id": "WAV000001",
+  "type": "mcq",
+  "title": "Parametric Functions - domain restriction",
+  "content": {
+    "description": "The figure is labeled Graph of f. The x axis ranges from negative one half pi to one half pi in increments of one half pi. The y axis ranges from 0 to 7 in increments of 1. Moving from bottom to top:• The curve begins at the point (1 comma 0).• The curve increases from right to left, passing through (0 comma one half pi) and (negative 1 comma pi).• The curve then increases from left to right, passing through (0 comma three halves pi) and ending at (1 comma two pi).",
+    "question": "The graph of the parametric function <math alttext=\"f open parentheses t close parentheses equals open parentheses cos t comma t close parentheses\"><mi>f</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced><mrow><mi>cos</mi><mi>t</mi><mo>,</mo><mi>t</mi></mrow></mfenced></math> for <math alttext=\"0 less or equal than t less or equal than 2 pi\"><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>2</mn><mi>π</mi></math> is given. Which of the following is the portion of the graph of <math alttext=\"f\"><mi>f</mi></math> on the interval <math alttext=\"pi less or equal than t less or equal than fraction numerator 3 pi over denominator 2 end fraction\"><mi>π</mi><mo>≤</mo><mi>t</mi><mo>≤</mo><mfrac><mrow><mn>3</mn><mi>π</mi></mrow><mn>2</mn></mfrac></math> ?",
+    "image": "https://ap.oly.st/images/98c7b03f779a157e1c7f4b774c49afd3.svg",
+    "choices": [
+      {
+        "label": "The x axis ranges from negative one half pi to one half pi in increments of one half pi. The y axis ranges from 0 to 7 in increments of 1. Moving from bottom to top: The curve begins at (0 comma one half pi). The curve increases from right to left, ending at (negative 1 comma pi).",
+        "image": "https://ap.oly.st/images/8fb3ca6342bbc724ed0eac5bd1dc7516.svg"
+      },
+      {
+        "label": "The x axis ranges from negative one half pi to one half pi in increments of one half pi. The y axis ranges from 0 to 7 in increments of 1. Moving from bottom to top: The curve begins at (1 comma 0). The curve increases from right to left, ending at (0 comma one half pi).",
+        "image": "https://ap.oly.st/images/b2be7fcce0a42dd81794f2aeaf95548c.svg"
+      },
+      {
+        "label": "The x axis ranges from negative one half pi to one half pi in increments of one half pi. The y axis ranges from 0 to 7 in increments of 1. Moving from bottom to top: The curve begins at (negative 1 comma pi). The curve increases from left to right, ending at (0 comma three halves pi).",
+        "image": "https://ap.oly.st/images/f6418f1c32ff86f1dd64ec636f851ccd.svg"
+      },
+      {
+        "label": "The x axis ranges from negative one half pi to one half pi in increments of one half pi. The y axis ranges from 0 to 7 in increments of 1. Moving from bottom to top: The curve begins at (0 comma three halves pi). The curve increases from left to right, ending at (1 comma two pi).",
+        "image": "https://ap.oly.st/images/916d7d4136de0197cf81dc2b9e87f30f.svg"
+      }
+    ],
+    "answer": "The x axis ranges from negative one half pi to one half pi in increments of one half pi. The y axis ranges from 0 to 7 in increments of 1. Moving from bottom to top: The curve begins at (negative 1 comma pi). The curve increases from left to right, ending at (0 comma three halves pi)."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.1",
+    "text": "4.1: Parametric Functions"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Construct equivalent graphical, numerical, analytical, and verbal representations of functions that are useful in a given mathematical or applied context, with and without technology."
+  }
+}

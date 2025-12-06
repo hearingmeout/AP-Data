@@ -1,0 +1,41 @@
+{
+  "id": "MAO000005",
+  "type": "mcq",
+  "title": "Parametric Circles and Lines - logo design",
+  "content": {
+    "description": "A circular logo was designed for a company and was placed on letterhead paper. The parametrization of the circle is given by <math alttext=\"open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses equals open parentheses negative 5 plus 2 cos t comma 4 plus 2 sin t close parentheses\"><mfenced><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced><mo>=</mo><mfenced><mrow><mo>-</mo><mn>5</mn><mo>+</mo><mn>2</mn><mi>cos</mi><mi>t</mi><mo>,</mo><mn>4</mn><mo>+</mo><mn>2</mn><mi>sin</mi><mi>t</mi></mrow></mfenced></math>, where the origin of the <math alttext=\"x y\"><mi>x</mi><mi>y</mi></math>-plane is the center of a sheet of paper, and each unit is a centimeter.",
+    "question": "The company decided to enlarge the circular logo so that the new radius is twice its original size, while leaving the center of the circle at the same location on the letterhead paper. Which of the following gives the parametrization of the revised circular logo?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses equals open parentheses negative 5 plus 2 cos open parentheses 2 t close parentheses comma 4 plus 2 sin open parentheses 2 t close parentheses close parentheses\"><mfenced><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced><mo>=</mo><mfenced><mrow><mo>-</mo><mn>5</mn><mo>+</mo><mn>2</mn><mi>cos</mi><mfenced><mrow><mn>2</mn><mi>t</mi></mrow></mfenced><mo>,</mo><mn>4</mn><mo>+</mo><mn>2</mn><mi>sin</mi><mfenced><mrow><mn>2</mn><mi>t</mi></mrow></mfenced></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses equals open parentheses negative 5 plus 4 cos t comma 4 plus 4 sin t close parentheses\"><mfenced><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced><mo>=</mo><mfenced><mrow><mo>-</mo><mn>5</mn><mo>+</mo><mn>4</mn><mi>cos</mi><mi>t</mi><mo>,</mo><mn>4</mn><mo>+</mo><mn>4</mn><mi>sin</mi><mi>t</mi></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses equals open parentheses negative 10 plus 2 cos t comma 8 plus 2 sin t close parentheses\"><mfenced><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced><mo>=</mo><mfenced><mrow><mo>-</mo><mn>10</mn><mo>+</mo><mn>2</mn><mi>cos</mi><mi>t</mi><mo>,</mo><mn>8</mn><mo>+</mo><mn>2</mn><mi>sin</mi><mi>t</mi></mrow></mfenced></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses equals open parentheses negative 10 plus 4 cos t comma 8 plus 4 sin t close parentheses\"><mfenced><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced><mo>=</mo><mfenced><mrow><mo>-</mo><mn>10</mn><mo>+</mo><mn>4</mn><mi>cos</mi><mi>t</mi><mo>,</mo><mn>8</mn><mo>+</mo><mn>4</mn><mi>sin</mi><mi>t</mi></mrow></mfenced></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses equals open parentheses negative 5 plus 4 cos t comma 4 plus 4 sin t close parentheses\"><mfenced><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced><mo>=</mo><mfenced><mrow><mo>-</mo><mn>5</mn><mo>+</mo><mn>4</mn><mi>cos</mi><mi>t</mi><mo>,</mo><mn>4</mn><mo>+</mo><mn>4</mn><mi>sin</mi><mi>t</mi></mrow></mfenced></math>"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Functions Involving Parameters, Vectors, and Matrices (Not assessed on the AP Exam)"
+  },
+  "topic": {
+    "code": "4.4",
+    "text": "4.4: Parametrically Defined Circles and Lines"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Construct new functions, using transformations, compositions, inverses, or regressions, that may be useful in modeling contexts, criteria, or data, with and without technology."
+  }
+}

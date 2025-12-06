@@ -1,0 +1,41 @@
+{
+  "id": "HZB000002",
+  "type": "mcq",
+  "title": "error in countAs method - explain error",
+  "content": {
+    "description": "",
+    "question": "For which of the following two-dimensional arrays arguments does countAs not work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "{{\"lemon\"}, {\"lime\"}}",
+        "image": null
+      },
+      {
+        "label": "{{\"rabbit\", \"bird\"}, {\"cat\", \"dog\"}, {\"gecko\", \"turtle\"}}",
+        "image": null
+      },
+      {
+        "label": "{{\"scarf\", \"gloves\", \"hat\"}, {\"shoes\", \"shirt\", \"socks\"}}",
+        "image": null
+      },
+      {
+        "label": "{{\"math\", \"english\", \"physics\"}, {\"golf\", \"baseball\", \"soccer\"}}",
+        "image": null
+      }
+    ],
+    "answer": "{{\"scarf\", \"gloves\", \"hat\"}, {\"shoes\", \"shirt\", \"socks\"}}"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.13",
+    "text": "4.13: Implementing 2D Array Algorithms"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

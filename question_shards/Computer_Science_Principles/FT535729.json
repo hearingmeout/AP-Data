@@ -1,0 +1,37 @@
+{
+  "id": "FT535729",
+  "type": "mcq",
+  "title": "Metadata and data from a call using a cellphone",
+  "content": {
+    "description": "When a cellular telephone user places a call, the carrier transmits the caller’s voice as well as the voice of the person who is called. The encoded voices are the data of the call. In addition to transmitting the data, the carrier also stores metadata. The metadata of the call include information such as the time the call is placed and the phone numbers of both participants. For which of the following goals would it be more useful to computationally analyze the metadata instead of the data?",
+    "question": "To determine if a caller frequently uses a specific wordTo estimate the number of phone calls that will be placed next Monday between 10:30 A.M. and noon.To generate a list of criminal suspects when given the telephone number of a known criminal",
+    "image": null,
+    "choices": [
+      {
+        "label": "I only",
+        "image": null
+      },
+      {
+        "label": "II only",
+        "image": null
+      },
+      {
+        "label": "II and III only",
+        "image": null
+      },
+      {
+        "label": "I, II, and III",
+        "image": null
+      }
+    ],
+    "answer": "II and III only"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: Extracting Information from Data"
+  },
+  "skill": {
+    "code": "Skill 5.B",
+    "text": "Skill 5.B: Explain how knowledge can be generated from data."
+  }
+}

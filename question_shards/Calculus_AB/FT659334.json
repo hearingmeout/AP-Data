@@ -1,0 +1,40 @@
+{
+  "id": "FT659334",
+  "type": "frq",
+  "title": "Analysis given graph of derivative",
+  "content": {
+    "description": "",
+    "question": "Let f be a twice-differentiable function defined on the interval -1.2 < x < 3.2 with f(1) = 2. The graph of f', the derivative of f, is shown above. The graph of f' crosses the x-axis at x = -1 and x = 3 and has a horizontal tangent at x = 2. Let g be the function given by g(x) = ef(x). (a) Write an equation for the line tangent to the graph of g at x = 1.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Let f be a twice-differentiable function defined on the interval -1.2 < x < 3.2 with f(1) = 2. The graph of f', the derivative of f, is shown above. The graph of f' crosses the x-axis at x = -1 and x = 3 and has a horizontal tangent at x = 2. Let g be the function given by g(x) = ef(x). (a) Write an equation for the line tangent to the graph of g at x = 1.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Calculus_AB/original.png"
+      },
+      {
+        "text": "(b) For -1.2 < x < 3.2, find all values of x at which g has a local maximum. Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "(c) The second derivative of g is g''(x) = ef(x) [(f'(x))2 + f''(x)]. Is g''(-1) positive, negative, or zero? Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "(d) Find the average rate of change of g', the derivative of g, over the interval [1, 3].",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Defining Average and Instantaneous Rates of Change at a Point"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VH919724",
+  "type": "mcq",
+  "title": "array to be passed to transform method",
+  "content": {
+    "description": "Consider the following method.",
+    "question": "public int[] transform(int[] a){a[0]++;a[2]++;return a;}The following code segment appears in a method in the same class as transform./* missing code */arr = transform(arr);After executing the code segment, the array arr should contain {1, 0, 1, 0}. Which of the following can be used to replace /* missing code */ so that the code segment works as intended?int[] arr = {0, 0, 0, 0};int[] arr = new int[0];int[] arr = new int[4];",
+    "image": null,
+    "choices": [
+      {
+        "label": "I only",
+        "image": null
+      },
+      {
+        "label": "III only",
+        "image": null
+      },
+      {
+        "label": "I and II",
+        "image": null
+      },
+      {
+        "label": "I and III",
+        "image": null
+      }
+    ],
+    "answer": "I and III"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Array Creation and Access"
+  },
+  "skill": {
+    "code": "2.B",
+    "text": "2.B: Write program code involving data abstractions."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "AFY000000",
+  "type": "mcq",
+  "title": "Function Model Construction - sufficient info",
+  "content": {
+    "description": "",
+    "question": "​The function <math alttext=\"f\"><mi>f</mi></math> is a quartic polynomial of the form <math alttext=\"f open parentheses x close parentheses equals a open parentheses x minus r subscript 1 close parentheses open parentheses x minus r subscript 2 close parentheses open parentheses x minus r subscript 3 close parentheses open parentheses x minus r subscript 4 close parentheses\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mi>a</mi><mfenced><mrow><mi>x</mi><mo>-</mo><msub><mi>r</mi><mn>1</mn></msub></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>-</mo><msub><mi>r</mi><mn>2</mn></msub></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>-</mo><msub><mi>r</mi><mn>3</mn></msub></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>-</mo><msub><mi>r</mi><mn>4</mn></msub></mrow></mfenced></math>, where <math alttext=\"a\"><mi>a</mi></math> is a real number and the values of <math alttext=\"r subscript i\"><msub><mi>r</mi><mi>i</mi></msub></math> are integers. It is known that the <math alttext=\"x\"><mi>x</mi></math>-intercepts of <math alttext=\"f\"><mi>f</mi></math> are <math alttext=\"open parentheses negative 1 comma 0 close parentheses\"><mfenced><mrow><mo>-</mo><mn>1</mn><mo>,</mo><mn>0</mn></mrow></mfenced></math> and <math alttext=\"open parentheses 2 comma 0 close parentheses\"><mfenced><mrow><mn>2</mn><mo>,</mo><mn>0</mn></mrow></mfenced></math>, the <math alttext=\"y\"><mi>y</mi></math>-intercept of <math alttext=\"f\"><mi>f</mi></math> is <math alttext=\"open parentheses 0 comma 24 close parentheses\"><mfenced><mrow><mn>0</mn><mo>,</mo><mn>24</mn></mrow></mfenced></math>, and <math alttext=\"f\"><mi>f</mi></math> has two real zeros each with multiplicity <math alttext=\"2\"><mn>2</mn></math>. Which of the following statements is true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "​There is sufficient information to define <math alttext=\"f open parentheses x close parentheses\"><mi>f</mi><mfenced><mi>x</mi></mfenced></math> because the <math alttext=\"x\"><mi>x</mi></math>-intercepts and the multiplicity of zeros can be used to determine the <math alttext=\"r subscript i\"><msub><mi>r</mi><mi>i</mi></msub></math> values, and the <math alttext=\"y\"><mi>y</mi></math>-intercept can be used to find <math alttext=\"a\"><mi>a</mi></math>.",
+        "image": null
+      },
+      {
+        "label": "​There is sufficient information to define <math alttext=\"f open parentheses x close parentheses\"><mi>f</mi><mfenced><mi>x</mi></mfenced></math> because the <math alttext=\"y\"><mi>y</mi></math>-intercept value <math alttext=\"24\"><mn>24</mn></math> can be factored into the product of at least <math alttext=\"4\"><mn>4</mn></math> integers involving the <math alttext=\"x\"><mi>x</mi></math>-intercepts, and the multiplicity of zeros is known.",
+        "image": null
+      },
+      {
+        "label": "​There is insufficient information to define <math alttext=\"f open parentheses x close parentheses\"><mi>f</mi><mfenced><mi>x</mi></mfenced></math> because although the <math alttext=\"x\"><mi>x</mi></math>-intercepts and the multiplicity of zeros can be used to determine the <math alttext=\"r subscript i\"><msub><mi>r</mi><mi>i</mi></msub></math> values, the <math alttext=\"y\"><mi>y</mi></math>-intercept can only be used to find <math alttext=\"open vertical bar a close vertical bar\"><mfenced close=\"|\" open=\"|\"><mi>a</mi></mfenced></math> but not the sign of <math alttext=\"a\"><mi>a</mi></math>.",
+        "image": null
+      },
+      {
+        "label": "​There is insufficient information to define <math alttext=\"f open parentheses x close parentheses\"><mi>f</mi><mfenced><mi>x</mi></mfenced></math> because only two of the <math alttext=\"x\"><mi>x</mi></math>-intercepts are known, and the <math alttext=\"y\"><mi>y</mi></math>-intercept and multiplicity of zeros do not provide enough information to determine the other two values of <math alttext=\"r subscript i\"><msub><mi>r</mi><mi>i</mi></msub></math> or the value of <math alttext=\"a\"><mi>a</mi></math>.",
+        "image": null
+      }
+    ],
+    "answer": "​There is sufficient information to define <math alttext=\"f open parentheses x close parentheses\"><mi>f</mi><mfenced><mi>x</mi></mfenced></math> because the <math alttext=\"x\"><mi>x</mi></math>-intercepts and the multiplicity of zeros can be used to determine the <math alttext=\"r subscript i\"><msub><mi>r</mi><mi>i</mi></msub></math> values, and the <math alttext=\"y\"><mi>y</mi></math>-intercept can be used to find <math alttext=\"a\"><mi>a</mi></math>."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Polynomial and Rational Functions"
+  },
+  "topic": {
+    "code": "1.14",
+    "text": "1.14: Function Model Construction and Application"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Support conclusions or choices with a logical rationale or appropriate data."
+  }
+}

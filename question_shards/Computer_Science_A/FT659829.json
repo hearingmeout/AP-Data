@@ -1,0 +1,41 @@
+{
+  "id": "FT659829",
+  "type": "mcq",
+  "title": "conditionalTest with two int parameters",
+  "content": {
+    "description": "Consider the following method.",
+    "question": "public void conditionalTest(int a, int b) { if ((a > 0) && (b > 0)) { if (a > b) System.out.println(\"A\"); else System.out.println(\"B\"); } else if ((b < 0) || (a < 0)) System.out.println(\"C\"); else System.out.println(\"D\"); } What is printed as a result of the call conditionalTest(3, -2)?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A",
+        "image": null
+      },
+      {
+        "label": "B",
+        "image": null
+      },
+      {
+        "label": "C",
+        "image": null
+      },
+      {
+        "label": "D",
+        "image": null
+      }
+    ],
+    "answer": "C"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Nested `if` Statements"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

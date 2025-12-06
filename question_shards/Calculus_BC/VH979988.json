@@ -1,0 +1,41 @@
+{
+  "id": "VH979988",
+  "type": "mcq",
+  "title": "Processes - Improper Integrals",
+  "content": {
+    "description": "",
+    "question": "An antiderivative of <math alttext=\"the fraction with numerator sine x, and denominator 1 plus, cosine x, end fraction\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mi>sin</mi><mo>⁡</mo><mi>x</mi></mrow><mrow><mn>1</mn><mo>+</mo><mi>cos</mi><mo>⁡</mo><mi>x</mi></mrow></mfrac></mrow></math> is <math alttext=\"the negative of the natural log of, open parenthesis, 1 plus, cosine x, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>−</mo><mi>ln</mi><mo>⁡</mo><mrow><mo>(</mo><mn>1</mn><mo>+</mo><mi>cos</mi><mo>⁡</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math>. Which of the following statements about the integral <math alttext=\"the integral from, 0 to pi, of, the fraction with numerator sine x, and denominator 1 plus, cosine x, end fraction, d x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mi>π</mi></mrow></msubsup></mrow></mstyle><mfrac><mrow><mi>sin</mi><mo>⁡</mo><mi>x</mi></mrow><mrow><mn>1</mn><mo>+</mo><mi>cos</mi><mo>⁡</mo><mi>x</mi></mrow></mfrac><mrow><mi>d</mi><mi>x</mi></mrow></mrow></mstyle></math> is true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The integral equals <math alttext=\"2 over pi\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>2</mn></mrow><mrow><mi>π</mi></mrow></mfrac></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "The integral equals <math alttext=\"the natural log of 2\" display=\"inline\" overflow=\"scroll\"><mrow><mi>ln</mi><mo>⁡</mo><mn>2</mn></mrow></math>.",
+        "image": null
+      },
+      {
+        "label": "The integral diverges because <math alttext=\"the limit as x approaches pi from the left, of, the fraction with numerator sine x, and denominator 1 plus, cosine x, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><msup><mrow><mi>π</mi></mrow><mrow><mo>−</mo></mrow></msup></mrow></munder><mfrac><mrow><mi>sin</mi><mo>⁡</mo><mi>x</mi></mrow><mrow><mn>1</mn><mo>+</mo><mi>cos</mi><mo>⁡</mo><mi>x</mi></mrow></mfrac></mrow></mstyle></math> does not exist.",
+        "image": null
+      },
+      {
+        "label": "The integral diverges because <math alttext=\"the limit as x approaches pi from the left, of, open parenthesis, the negative of the natural log of, open parenthesis, 1 plus, cosine x, close parenthesis, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><msup><mrow><mi>π</mi></mrow><mrow><mo>−</mo></mrow></msup></mrow></munder><mrow><mo>(</mo><mo>−</mo><mi>ln</mi><mo>⁡</mo><mrow><mo>(</mo><mn>1</mn><mo>+</mo><mi>cos</mi><mo>⁡</mo><mi>x</mi><mo>)</mo></mrow><mo>)</mo></mrow></mrow></mstyle></math> does not exist.",
+        "image": null
+      }
+    ],
+    "answer": "The integral diverges because <math alttext=\"the limit as x approaches pi from the left, of, open parenthesis, the negative of the natural log of, open parenthesis, 1 plus, cosine x, close parenthesis, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><msup><mrow><mi>π</mi></mrow><mrow><mo>−</mo></mrow></msup></mrow></munder><mrow><mo>(</mo><mo>−</mo><mi>ln</mi><mo>⁡</mo><mrow><mo>(</mo><mn>1</mn><mo>+</mo><mi>cos</mi><mo>⁡</mo><mi>x</mi><mo>)</mo></mrow><mo>)</mo></mrow></mrow></mstyle></math> does not exist."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.13",
+    "text": "6.13: (BC ONLY) Evaluating Improper Integrals"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "VH900759",
+  "type": "mcq",
+  "title": "Justification - Squeeze Theorem",
+  "content": {
+    "description": "",
+    "question": "The function <math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> is given by <math alttext=\"g of x equals, the fraction with numerator 7 x minus 26, and denominator x minus 5, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>7</mn><mi>x</mi><mo>−</mo><mn>26</mn></mrow><mrow><mi>x</mi><mo>−</mo><mn>5</mn></mrow></mfrac></mrow></mstyle></math>. The function <math alttext=\"h\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>h</mi></mrow></mstyle></math> is given by <math alttext=\"h of x equals, the fraction with numerator 3 x plus 14, and denominator 2 x plus 1, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mn>14</mn></mrow><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfrac></mrow></mstyle></math>. If <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is a function that satisfies <math alttext=\"g of x is less than or equal to f of x, which is less than or equal to h of x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>≤</mo><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>≤</mo><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math> for <math alttext=\"0 less than x, less than 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>5</mn></mrow></mstyle></math>, what is <math alttext=\"the limit as x approaches 2, of, f of x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mn>2</mn></mrow></munder><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"three halves\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>3</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "4",
+        "image": null
+      },
+      {
+        "label": "7",
+        "image": null
+      },
+      {
+        "label": "The limit cannot be determined from the information given.",
+        "image": null
+      }
+    ],
+    "answer": "4"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.8",
+    "text": "1.8: Determining Limits Using the Squeeze Theorem"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Confirm whether hypotheses or conditions of a selected definition, theorem, or test have been satisfied."
+  }
+}

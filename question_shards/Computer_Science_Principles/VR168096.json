@@ -1,0 +1,37 @@
+{
+  "id": "VR168096",
+  "type": "mcq",
+  "title": "Iterate over mitten and glove voteList",
+  "content": {
+    "description": "Shoppers at a mall were asked whether they preferred wearing gloves or mittens in cold weather. Shoppers’ preferences were stored in the list voteList as strings, with the string \"Gloves\" representing a preference for gloves and the string \"Mittens\" representing a preference for mittens.",
+    "question": "The following code segment is intended to traverse the list and display the number of shoppers who chose gloves and the number of shoppers who chose mittens.numGlovesVotes <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0numMittensVotes <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0<MISSING CODE>{IF(vote = \"Gloves\"){numGlovesVotes <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> numGlovesVotes + 1}ELSE{numMittensVotes <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> numMittensVotes + 1}}DISPLAY(numGlovesVotes)DISPLAY(\" shoppers chose gloves and\")DISPLAY(numMittensVotes)DISPLAY(\" shoppers chose mittens.\")Which of the following should replace <MISSING CODE> so that the code segment works as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "IF(vote ≤ LENGTH(voteList))",
+        "image": null
+      },
+      {
+        "label": "FOR EACH vote IN voteList",
+        "image": null
+      },
+      {
+        "label": "REPEAT LENGTH(voteList) TIMES",
+        "image": null
+      },
+      {
+        "label": "REPEAT UNTIL(vote > LENGTH(voteList))",
+        "image": null
+      }
+    ],
+    "answer": "FOR EACH vote IN voteList"
+  },
+  "topic": {
+    "code": "3.10",
+    "text": "3.10: Lists"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Implement and apply an algorithm."
+  }
+}

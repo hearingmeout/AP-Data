@@ -1,0 +1,41 @@
+{
+  "id": "BCJ000005",
+  "type": "mcq",
+  "title": "Fibonacci array - correct error",
+  "content": {
+    "description": "",
+    "question": "Which of the following best explains why the code segment does not work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "In the for loop header, the initial value of j should be 0.",
+        "image": null
+      },
+      {
+        "label": "In the for loop header, the initial value of j should be 2.",
+        "image": null
+      },
+      {
+        "label": "The for loop condition should be j < fibs.length - 1.",
+        "image": null
+      },
+      {
+        "label": "The for loop condition should be j < fibs.length + 1.",
+        "image": null
+      }
+    ],
+    "answer": "In the for loop header, the initial value of j should be 2."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.4",
+    "text": "4.4: Array Traversals"
+  },
+  "skill": {
+    "code": "3.D",
+    "text": "3.D: Explain why a code segment will not compile or work as intended and modify the code to correct the error."
+  }
+}

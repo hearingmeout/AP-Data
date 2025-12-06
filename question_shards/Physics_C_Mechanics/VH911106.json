@@ -1,0 +1,45 @@
+{
+  "id": "VH911106",
+  "type": "mcq",
+  "title": "Motion sensor - collision",
+  "content": {
+    "description": "In an experiment, block <math alttext=\"1\" overflow=\"scroll\"><mstyle><mrow><mn>1</mn></mrow></mstyle></math> is given an initial speed <math alttext=\"v sub 0\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>v</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mstyle></math> toward block <math alttext=\"2\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn></mrow></mstyle></math>, which is initially at rest. The blocks are on a track that has a motion detector set up, as shown above. When the two blocks collide, there is a completely inelastic collision and the blocks move together with speed <math alttext=\"v sub f\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>v</mi></mrow><mrow><mi>f</mi></mrow></msub></mrow></mstyle></math>. The blocks were both placed on a balance, and it is determined that they have the same mass.",
+    "question": "The experiment is repeated for four different initial speeds, and the data are shown in the chart below. It appears that the resulting data are not accurate. Which measurement most likely produced errors in the data seen in the chart below? <math alttext=\"v sub 0\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>v</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mstyle></math> <math alttext=\"in meters per second\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mtext>m/s</mtext><mo>)</mo></mrow></mrow></mstyle></math> <math alttext=\"v sub f\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>v</mi></mrow><mrow><mi>f</mi></mrow></msub></mrow></mstyle></math> <math alttext=\"in meters per second\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mtext>m/s</mtext><mo>)</mo></mrow></mrow></mstyle></math> <math alttext=\"1\" overflow=\"scroll\"><mstyle><mrow><mn>1</mn></mrow></mstyle></math> <math alttext=\"0.42\" overflow=\"scroll\"><mstyle><mrow><mn>0.42</mn></mrow></mstyle></math> <math alttext=\"2\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn></mrow></mstyle></math> <math alttext=\"0.85\" overflow=\"scroll\"><mstyle><mrow><mn>0.85</mn></mrow></mstyle></math> <math alttext=\"3\" overflow=\"scroll\"><mstyle><mrow><mn>3</mn></mrow></mstyle></math> <math alttext=\"1.33\" overflow=\"scroll\"><mstyle><mrow><mn>1.33</mn></mrow></mstyle></math> <math alttext=\"4\" overflow=\"scroll\"><mstyle><mrow><mn>4</mn></mrow></mstyle></math> <math alttext=\"1.70\" overflow=\"scroll\"><mstyle><mrow><mn>1.70</mn></mrow></mstyle></math>",
+    "image": "https://ap.oly.st/images/9536f53bfe17e2cfb9390aafa74524f4.png",
+    "choices": [
+      {
+        "label": "The mass of block <math alttext=\"1\" overflow=\"scroll\"><mstyle><mrow><mn>1</mn></mrow></mstyle></math> is accurate, but the mass of block <math alttext=\"2\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn></mrow></mstyle></math> is actually less massive than recorded.",
+        "image": null
+      },
+      {
+        "label": "Both mass values are accurate, but <math alttext=\"v sub 0\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>v</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mstyle></math> is actually larger than recorded.",
+        "image": null
+      },
+      {
+        "label": "The motion sensor was positioned too close to block <math alttext=\"1\" overflow=\"scroll\"><mstyle><mrow><mn>1</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "The final velocity recorded was taken too long after the collision.",
+        "image": null
+      },
+      {
+        "label": "The data recorded is accurate within acceptable experimental error.",
+        "image": null
+      }
+    ],
+    "answer": "The final velocity recorded was taken too long after the collision."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Linear Momentum"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Conservation of Linear Momentum"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

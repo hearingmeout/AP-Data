@@ -1,0 +1,41 @@
+{
+  "id": "VR003295",
+  "type": "mcq",
+  "title": "Focal point from magnification data",
+  "content": {
+    "description": "",
+    "question": "A student performs an experiment with a converging lens and obtains the graph of the magnification <math alttext=\"M\" overflow=\"scroll\"><mstyle><mrow><mi>M</mi></mrow></mstyle></math> of an object as a function of the object’s distance <math alttext=\"s sub 0\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>s</mi></mrow><mrow><mi>o</mi></mrow></msub></mrow></mstyle></math> from the lens. Based on the data, the student claims that the focal length <math alttext=\"f\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> of the lens is <math alttext=\"40 centimeters\" overflow=\"scroll\"><mstyle><mrow><mn>40</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mtext>cm</mtext></mrow></mstyle></math>. Do the data support the student’s claim?",
+    "image": "https://ap.oly.st/images/0c9e0ef453d1bdd1972e34d983b00433.png",
+    "choices": [
+      {
+        "label": "Yes, because the data show that as <math alttext=\"s sub o\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>s</mi></mrow><mrow><mi>o</mi></mrow></msub></mrow></mstyle></math> approaches <math alttext=\"40 centimeters\" overflow=\"scroll\"><mstyle><mrow><mn>40</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mtext>cm</mtext></mrow></mstyle></math>, <math alttext=\"M\" overflow=\"scroll\"><mstyle><mrow><mi>M</mi></mrow></mstyle></math>approaches 1.",
+        "image": null
+      },
+      {
+        "label": "Yes, because the data show that as <math alttext=\"s sub o\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>s</mi></mrow><mrow><mi>o</mi></mrow></msub></mrow></mstyle></math> approaches zero, <math alttext=\"M\" overflow=\"scroll\"><mstyle><mrow><mi>M</mi></mrow></mstyle></math> approaches <math alttext=\"negative 1\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>1</mn></mrow></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "No, because the data show that <math alttext=\"the absolute value of M\" overflow=\"scroll\"><mstyle><mrow><mrow><mrow><mrow><mo>|</mo><mi>M</mi><mo>|</mo></mrow></mrow></mrow></mrow></mstyle></math> approaches infinity for <math alttext=\"s sub o equals 20 centimeters\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>s</mi></mrow><mrow><mi>o</mi></mrow></msub><mo>=</mo><mn>20</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mtext>cm</mtext></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "No, because information on the magnification does not indicate anything about the focal length.",
+        "image": null
+      }
+    ],
+    "answer": "No, because the data show that <math alttext=\"the absolute value of M\" overflow=\"scroll\"><mstyle><mrow><mrow><mrow><mrow><mo>|</mo><mi>M</mi><mo>|</mo></mrow></mrow></mrow></mrow></mstyle></math> approaches infinity for <math alttext=\"s sub o equals 20 centimeters\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>s</mi></mrow><mrow><mi>o</mi></mrow></msub><mo>=</mo><mn>20</mn><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.3em\"></mspace><mtext>cm</mtext></mrow></mstyle></math>."
+  },
+  "unit": {
+    "code": "13",
+    "text": "13: Geometric Optics"
+  },
+  "topic": {
+    "code": "13.4",
+    "text": "13.4: Images Formed by Lenses"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

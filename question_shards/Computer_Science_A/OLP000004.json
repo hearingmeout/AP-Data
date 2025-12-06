@@ -1,0 +1,41 @@
+{
+  "id": "OLP000004",
+  "type": "mcq",
+  "title": "Code with two if statements - determine output",
+  "content": {
+    "description": "",
+    "question": "What is printed as a result of executing the code segment?",
+    "image": null,
+    "choices": [
+      {
+        "label": "x = 2, y = 1",
+        "image": null
+      },
+      {
+        "label": "x = 3, y = 2",
+        "image": null
+      },
+      {
+        "label": "x = 4, y = -1",
+        "image": null
+      },
+      {
+        "label": "x = 4, y = 3",
+        "image": null
+      }
+    ],
+    "answer": "x = 4, y = -1"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: `if` Statements"
+  },
+  "skill": {
+    "code": "3.A",
+    "text": "3.A: Determine the result or output based on statement execution order in an algorithm."
+  }
+}

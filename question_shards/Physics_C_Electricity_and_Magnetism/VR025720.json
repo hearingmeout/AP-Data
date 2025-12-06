@@ -1,0 +1,45 @@
+{
+  "id": "VR025720",
+  "type": "mcq",
+  "title": "Interpret coefficient of determination for height",
+  "content": {
+    "description": "",
+    "question": "Based on the least-squares regression line created from the data to predict the height of a child based on age, which of the following is a correct statement?",
+    "image": null,
+    "choices": [
+      {
+        "label": "On average, the height of a child is <math alttext=\"80%\" overflow=\"scroll\"><mstyle><mrow><mn>80</mn><mo>%</mo></mrow></mstyle></math> of the age of the child.",
+        "image": null
+      },
+      {
+        "label": "The least-squares regression line of height versus age will have a slope of <math alttext=\"0.8\" overflow=\"scroll\"><mstyle><mrow><mn>0.8</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "The proportion of the variation in height that is explained by a regression on age is <math alttext=\"0.64\" overflow=\"scroll\"><mstyle><mrow><mn>0.64</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "The least-squares regression line will correctly predict height based on age <math alttext=\"80%\" overflow=\"scroll\"><mstyle><mrow><mn>80</mn><mo>%</mo></mrow></mstyle></math> of the time.",
+        "image": null
+      },
+      {
+        "label": "The least-squares regression line will correctly predict height based on age <math alttext=\"64%\" overflow=\"scroll\"><mstyle><mrow><mn>64</mn><mo>%</mo></mrow></mstyle></math> of the time.",
+        "image": null
+      }
+    ],
+    "answer": "The proportion of the variation in height that is explained by a regression on age is <math alttext=\"0.64\" overflow=\"scroll\"><mstyle><mrow><mn>0.64</mn></mrow></mstyle></math>."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: Least Squares Regression"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}

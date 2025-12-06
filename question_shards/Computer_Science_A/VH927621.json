@@ -1,0 +1,41 @@
+{
+  "id": "VH927621",
+  "type": "mcq",
+  "title": "missing declaration and initialization in longestWord",
+  "content": {
+    "description": "Consider the following incomplete method, which is intended to return the longest string in the string array words. Assume that the array contains at least one element.",
+    "question": "public static String longestWord(String[] words){/* missing declaration and initialization */for (int k = 1; k < words.length; k++){if (words[k].length() > longest.length()){longest = words[k];}}return longest;}Which of the following can replace /* missing declaration and initialization */ so that the method will work as intended?",
+    "image": null,
+    "choices": [
+      {
+        "label": "int longest = 0;",
+        "image": null
+      },
+      {
+        "label": "int longest = words[0].length();",
+        "image": null
+      },
+      {
+        "label": "String longest = \"\";",
+        "image": null
+      },
+      {
+        "label": "String longest = words[0];",
+        "image": null
+      }
+    ],
+    "answer": "String longest = words[0];"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Data Collections"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Implementing Array Algorithms"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

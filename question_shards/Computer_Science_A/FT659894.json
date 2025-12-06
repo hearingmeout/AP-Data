@@ -1,0 +1,41 @@
+{
+  "id": "FT659894",
+  "type": "mcq",
+  "title": "Compound Boolean with x, y, and result",
+  "content": {
+    "description": "Consider the following code segment.",
+    "question": "int x = /* some integer value */ ; int y = /* some integer value */ ; boolean result = (x < y); result = ( (x >= y) && !result ); Which of the following best describes the conditions under which the value of result will be true after the code segment is executed?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Only when x >= y",
+        "image": null
+      },
+      {
+        "label": "Only when x and y are equal",
+        "image": null
+      },
+      {
+        "label": "The value will always be true.",
+        "image": null
+      },
+      {
+        "label": "The value will never be true.",
+        "image": null
+      }
+    ],
+    "answer": "Only when x >= y"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Selection and Iteration"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Boolean Expressions"
+  },
+  "skill": {
+    "code": "4.B",
+    "text": "4.B: Describe the initial conditions that must be met for a code segment to work as intended or described."
+  }
+}

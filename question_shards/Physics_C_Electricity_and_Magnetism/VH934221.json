@@ -1,0 +1,45 @@
+{
+  "id": "VH934221",
+  "type": "mcq",
+  "title": "Transformed Data",
+  "content": {
+    "description": "The relationship between carbon dioxide emissions and fuel efficiency of a certain car can be modeled by the least-squares regression equation <math alttext=\"the natural log of y hat, equals 7 minus 0.045 x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>ln</mi><mo>⁡</mo><mo>(</mo><mover><mrow><mi>y</mi></mrow><mrow><mo>^</mo></mrow></mover><mo>)</mo><mo>=</mo><mn>7</mn><mo>−</mo><mn>0.045</mn><mi>x</mi></mrow></mstyle></math>, where <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> represents the fuel efficiency, in miles per gallon, and <math alttext=\"y hat\" display=\"inline\" overflow=\"scroll\"><mrow><mover><mrow><mstyle><mrow><mi>y</mi></mrow></mstyle></mrow><mrow><mo>^</mo></mrow></mover></mrow></math> represents the predicted carbon dioxide emissions, in grams per mile.",
+    "question": "Which of the following is closest to the predicted carbon dioxide emissions, in grams per mile, for a car of this type with a fuel efficiency of 20 miles per gallon?",
+    "image": null,
+    "choices": [
+      {
+        "label": "1.8",
+        "image": null
+      },
+      {
+        "label": "6.1",
+        "image": null
+      },
+      {
+        "label": "446",
+        "image": null
+      },
+      {
+        "label": "2,697",
+        "image": null
+      },
+      {
+        "label": "1,250,000",
+        "image": null
+      }
+    ],
+    "answer": "446"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.9",
+    "text": "2.9: Analyzing Departures from Linearity"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}
