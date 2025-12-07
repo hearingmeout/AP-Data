@@ -1,0 +1,45 @@
+{
+  "id": "CS052224",
+  "type": "mcq",
+  "title": "Home size and selling price",
+  "content": {
+    "description": "",
+    "question": "A real estate agent wants to predict the selling price of single-family homes from the size of each house. A scatterplot created from a sample of houses shows an exponential relationship between price, in thousands of dollars, and size, in 100 square feet. To create a linear model, the natural logarithm of price was taken and the least-squares regression line was given as <math alttext=\"the natural log of, open parenthesis, price hat, close parenthesis, equals 2.08 plus, 0.11 times size\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>ln</mi><mo>⁡</mo><mrow><mrow><mo>(</mo><mover><mrow><mi>p</mi><mi>r</mi><mi>i</mi><mi>c</mi><mi>e</mi></mrow><mrow><mo>^</mo></mrow></mover><mo>)</mo></mrow><mo>=</mo><mn>2.08</mn><mo>+</mo><mn>0.11</mn><mo>(</mo><mrow><mi>s</mi><mi>i</mi><mi>z</mi><mi>e</mi><mo>)</mo></mrow></mrow></mrow></mstyle></math>. Based on the model, which of the following is closest to the predicted selling price for a house with a size of 3,200 square feet?",
+    "image": null,
+    "choices": [
+      {
+        "label": "$54,500",
+        "image": null
+      },
+      {
+        "label": "$270,000",
+        "image": null
+      },
+      {
+        "label": "$354,000",
+        "image": null
+      },
+      {
+        "label": "$398,000",
+        "image": null
+      },
+      {
+        "label": "$560,000",
+        "image": null
+      }
+    ],
+    "answer": "$270,000"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.9",
+    "text": "2.9: Analyzing Departures from Linearity"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}

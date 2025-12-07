@@ -1,0 +1,45 @@
+{
+  "id": "FR899878",
+  "type": "mcq",
+  "title": "Political affiliation",
+  "content": {
+    "description": "A political analyst wanted to see whether there is an association between political affiliation and where a person lives. The analyst took a random sample of 1,250 people in a state and asked them which political party they were affiliated with and what county they lived in. The following are the hypotheses the analyst tested.",
+    "question": "<math alttext=\"H sub 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>H</mtext></mrow><mrow><mn>0</mn></mrow></msub></mrow></mstyle></math> : There is no association between party affiliation and the county in which a person lives. <math alttext=\"H sub a\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>H</mtext></mrow><mrow><mtext>a</mtext></mrow></msub></mrow></mstyle></math> : There is an association between party affiliation and the county in which a person lives. The chi-square test statistic and <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value of the hypothesis test were 19.78 and 0.003 respectively. Which of the following conclusions should be made about political affiliation and where a person lives?",
+    "image": null,
+    "choices": [
+      {
+        "label": "There is convincing statistical evidence to suggest that political affiliation and where a person lives are independent.",
+        "image": null
+      },
+      {
+        "label": "There is convincing statistical evidence to suggest that political affiliation and where a person lives are dependent.",
+        "image": null
+      },
+      {
+        "label": "There is convincing statistical evidence to prove that political affiliation and where a person lives are dependent.",
+        "image": null
+      },
+      {
+        "label": "There is not convincing statistical evidence to suggest that political affiliation and where a person lives are independent.",
+        "image": null
+      },
+      {
+        "label": "There is not convincing statistical evidence to suggest that political affiliation and where a person lives are dependent.",
+        "image": null
+      }
+    ],
+    "answer": "There is convincing statistical evidence to suggest that political affiliation and where a person lives are dependent."
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Inference for Categorical Data-Chi-Square"
+  },
+  "topic": {
+    "code": "8.6",
+    "text": "8.6: Carrying Out a Chi-Square Test for Homogeneity or Independence"
+  },
+  "skill": {
+    "code": "Skill 4.E",
+    "text": "Skill 4.E: Justify a claim using a decision based on significance tests."
+  }
+}

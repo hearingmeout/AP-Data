@@ -1,0 +1,45 @@
+{
+  "id": "NJ087710",
+  "type": "mcq",
+  "title": "Confidence interval for slope of height and feet",
+  "content": {
+    "description": "A statistics teacher wants to determine whether there is a linear relationship between high school students’ heights, in inches (in), and the lengths of their feet, in centimeters (cm). The teacher obtains height and foot-length measurements for a random sample of 23 students at the high school and generates the following graph and computer output.",
+    "question": "Provided that the assumptions for regression inference are satisfied, which of the following provides a 95 percent confidence interval estimate of the slope of the population regression line for predicting foot length from height?",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Statistics/b8ed62adb324e5213dd6188c3f159f55.png",
+    "choices": [
+      {
+        "label": "0.583 ± (1.717) (0.138)",
+        "image": null
+      },
+      {
+        "label": "0.583 ± (2.080) (0.138)",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mn>0.583</mn> <mo>±</mo> <mo stretchy=\"false\">(</mo> <mn>1.960</mn> <mo stretchy=\"false\">)</mo> <mrow> <mo>(</mo> <mrow> <mfrac> <mrow> <mn>0.138</mn> </mrow> <mrow> <msqrt> <mrow> <mn>23</mn> </mrow> </msqrt> </mrow> </mfrac> </mrow> <mo>)</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaacaaIWaGaaiOlaiaaiwdacaaI4aGaaG4maiabgglaXkaacIcacaaIXaGaaiOlaiaaiMdacaaI2aGaaGimaiaacMcadaqadaqaamaalaaabaGaaGimaiaac6cacaaIXaGaaG4maiaaiIdaaeaadaGcaaqaaiaaikdacaaIZaaaleqaaaaaaOGaayjkaiaawMcaaaaa@4A73@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mn>0.583</mn> <mo>±</mo> <mo stretchy=\"false\">(</mo> <mn>2.074</mn> <mo stretchy=\"false\">)</mo> <mrow> <mo>(</mo> <mrow> <mfrac> <mrow> <mn>0.138</mn> </mrow> <mrow> <msqrt> <mrow> <mn>23</mn> </mrow> </msqrt> </mrow> </mfrac> </mrow> <mo>)</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaacaaIWaGaaiOlaiaaiwdacaaI4aGaaG4maiabgglaXkaacIcacaaIYaGaaiOlaiaaicdacaaI3aGaaGinaiaacMcadaqadaqaamaalaaabaGaaGimaiaac6cacaaIXaGaaG4maiaaiIdaaeaadaGcaaqaaiaaikdacaaIZaaaleqaaaaaaOGaayjkaiaawMcaaaaa@4A70@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mn>0.583</mn> <mo>±</mo> <mo stretchy=\"false\">(</mo> <mn>4.208</mn> <mo stretchy=\"false\">)</mo> <mrow> <mo>(</mo> <mrow> <mfrac> <mrow> <mn>0.138</mn> </mrow> <mrow> <msqrt> <mrow> <mn>23</mn> </mrow> </msqrt> </mrow> </mfrac> </mrow> <mo>)</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaacaaIWaGaaiOlaiaaiwdacaaI4aGaaG4maiabgglaXkaacIcacaaI0aGaaiOlaiaaikdacaaIWaGaaGioaiaacMcadaqadaqaamaalaaabaGaaGimaiaac6cacaaIXaGaaG4maiaaiIdaaeaadaGcaaqaaiaaikdacaaIZaaaleqaaaaaaOGaayjkaiaawMcaaaaa@4A71@</annotation> </semantics> </math>",
+        "image": null
+      }
+    ],
+    "answer": "0.583 ± (2.080) (0.138)"
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Inference for Quantitative Data-Slopes"
+  },
+  "topic": {
+    "code": "9.2",
+    "text": "9.2: Confidence Intervals for the Slope of a Regression Model"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Construct a confidence interval, provided conditions for inference are met."
+  }
+}

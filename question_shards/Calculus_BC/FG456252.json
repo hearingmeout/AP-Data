@@ -1,0 +1,41 @@
+{
+  "id": "FG456252",
+  "type": "mcq",
+  "title": "Processes - Quotient Rule",
+  "content": {
+    "description": "<math alttext=\"The figure presents a 5 column table with 1 row of data. The heading for column 1 is “x.” The heading for column 2 is “f of x.” The heading for column 3 is “f prime of x.” The heading for column 4 is “g of x.” The heading for column 5 is “g prime of x.” The data are as follows. Row 1. x is 2. f of x is negative 3. f prime of x is one half. g of x is negative 3. g prime of x is 2.\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtable columnlines=\"solid\" columnspacing=\"0em\" columnwidth=\"3em 0.05em 3em 3em 3em 3em\" equalrows=\"false\" frame=\"solid\" framespacing=\"0em 0ex\" rowlines=\"solid\" rowspacing=\"0.05em\" width=\"auto\"><mtr><mtd><mi>x</mi></mtd><mtd><mspace depth=\"1ex\" height=\"2.5ex\" width=\"0.0em\"></mspace></mtd><mtd><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mtd><mtd><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mtd><mtd><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mtd><mtd><msup><mrow><mi>g</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mtd></mtr><mtr><mtd></mtd><mtd></mtd><mtd></mtd><mtd></mtd><mtd></mtd><mtd></mtd></mtr><mtr><mtd><mn>2</mn></mtd><mtd><mspace depth=\"2.25ex\" height=\"3.5ex\" width=\"0.0em\"></mspace></mtd><mtd><mo>−</mo><mn>3</mn></mtd><mtd><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mtd><mtd><mo>−</mo><mn>3</mn></mtd><mtd><mn>2</mn></mtd></mtr></mtable></mrow></mstyle></math>",
+    "question": "The table above gives values of the differentiable functions <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> and <math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> and their derivatives at <math alttext=\"x equals 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>2</mn></mrow></mstyle></math>. If <math alttext=\"h of x equals, the fraction with numerator 4 times f of x, and denominator g of x, plus 1, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>h</mi><mrow><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow><mo>=</mo><mfrac><mrow><mn>4</mn><mi>f</mi><mrow><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow></mrow><mrow><mi>g</mi><mrow><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow><mo>+</mo><mn>1</mn></mrow></mfrac></mrow></mstyle></math>, then <math alttext=\"h prime of 2, equals\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>h</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow><mo>=</mo></mrow></math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"negative 10\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>−</mo><mn>10</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"negative 7\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>−</mo><mn>7</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "1",
+        "image": null
+      },
+      {
+        "label": "5",
+        "image": null
+      }
+    ],
+    "answer": "5"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.9",
+    "text": "2.9: The Quotient Rule"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

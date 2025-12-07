@@ -1,0 +1,45 @@
+{
+  "id": "XU221321",
+  "type": "mcq",
+  "title": "Fundamental Theorem with derivative of integral",
+  "content": {
+    "description": "",
+    "question": "If <math> <semantics> <mrow> <mi>F</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>4</mn> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </msubsup> <mrow> <msqrt> <mi>t</mi> </msqrt> </mrow> </mrow> </mstyle> <mi>d</mi> <mi>t</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbiaadAeadaqadaWdaeaapeGaamiEaaGaayjkaiaawMcaaiabg2da9maapedapaqaa8qadaGcaaWdaeaapeGaamiDaaWcbeaaa8aabaWdbiaaisdaa8aabaWdbiaadIhapaWaaWbaaWqabeaapeGaaGOmaaaaa0Gaey4kIipakiaadsgacaWG0baaaa@45EF@</annotation> </semantics> </math> for all real numbers x > 0, then F'(x) =",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <semantics> <mrow> <mo>−</mo> <mfrac> <mn>1</mn> <mrow> <mn>2</mn> <mi>x</mi> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbiabgkHiTmaalaaapaqaa8qacaaIXaaapaqaa8qacaaIYaGaamiEaaaaaaa@3CCA@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <msqrt> <mi>x</mi> </msqrt> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaakaaapaqaa8qacaWG4baaleqaaaaa@3A52@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "x",
+        "image": null
+      },
+      {
+        "label": "2x2",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mrow> <mn>2</mn> <msup> <mi>x</mi> <mn>3</mn> </msup> <mo>−</mo> <mn>16</mn> </mrow> <mn>3</mn> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaalaaapaqaa8qacaaIYaGaamiEa8aadaahaaWcbeqaa8qacaaIZaaaaOGaeyOeI0IaaGymaiaaiAdaa8aabaWdbiaaiodaaaaaaa@3F5A@</annotation> </semantics> </math>",
+        "image": null
+      }
+    ],
+    "answer": "2x2"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.4",
+    "text": "6.4: The Fundamental Theorem of Calculus and Accumulation Functions"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "ZZ544576",
+  "type": "mcq",
+  "title": "Definition of the derivative",
+  "content": {
+    "description": "",
+    "question": "The <math> <semantics> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>h</mi><mo>→</mo><mn>0</mn> </mrow> </munder> <mfrac> <mrow> <mi>tan</mi><mn>3</mn><mrow><mo>(</mo> <mrow> <mi>x</mi><mo>+</mo><mi>h</mi> </mrow> <mo>)</mo></mrow><mo>−</mo><mi>tan</mi><mrow><mo>(</mo> <mrow> <mn>3</mn><mi>x</mi> </mrow> <mo>)</mo></mrow> </mrow> <mi>h</mi> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaCbeaeaaqaaaaaaaaaWdbiGacYgacaGGPbGaaiyBaaWcpaqaa8qacaWGObGaeyOKH4QaaGimaaWdaeqaaOWdbmaalaaapaqaa8qaciGG0bGaaiyyaiaac6gacaaIZaWaaeWaa8aabaWdbiaadIhacqGHRaWkcaWGObaacaGLOaGaayzkaaGaeyOeI0IaciiDaiaacggacaGGUbWaaeWaa8aabaWdbiaaiodacaWG4baacaGLOaGaayzkaaaapaqaa8qacaWGObaaaaaa@4D56@</annotation> </semantics> </math> is",
+    "image": null,
+    "choices": [
+      {
+        "label": "0",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mn>3</mn><msup> <mrow> <mi>sec</mi> </mrow> <mn>2</mn> </msup> <mrow><mo>(</mo> <mrow> <mn>3</mn><mi>x</mi> </mrow> <mo>)</mo></mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaaIZaGaci4CaiaacwgacaGGJbWdamaaCaaaleqabaWdbiaaikdaaaGcdaqadaWdaeaapeGaaG4maiaadIhaaiaawIcacaGLPaaaaaa@3E0E@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <msup> <mrow> <mi>sec</mi> </mrow> <mn>2</mn> </msup> <mrow><mo>(</mo> <mrow> <mn>3</mn><mi>x</mi> </mrow> <mo>)</mo></mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qaciGGZbGaaiyzaiaacogapaWaaWbaaSqabeaapeGaaGOmaaaakmaabmaapaqaa8qacaaIZaGaamiEaaGaayjkaiaawMcaaaaa@3D51@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mn>3</mn><mi>cot</mi><mrow><mo>(</mo> <mrow> <mn>3</mn><mi>x</mi> </mrow> <mo>)</mo></mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaaIZaGaci4yaiaac+gacaGG0bWaaeWaa8aabaWdbiaaiodacaWG4baacaGLOaGaayzkaaaaaa@3D07@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "nonexistent",
+        "image": null
+      }
+    ],
+    "answer": "<math> <semantics> <mrow> <mn>3</mn><msup> <mrow> <mi>sec</mi> </mrow> <mn>2</mn> </msup> <mrow><mo>(</mo> <mrow> <mn>3</mn><mi>x</mi> </mrow> <mo>)</mo></mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaaIZaGaci4CaiaacwgacaGGJbWdamaaCaaaleqabaWdbiaaikdaaaGcdaqadaWdaeaapeGaaG4maiaadIhaaiaawIcacaGLPaaaaaa@3E0E@</annotation> </semantics> </math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Defining the Derivative of a Function and Using Derivative Notation"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Use appropriate mathematical symbols and notation (e.g., Represent a derivative using ƒ'(x), y', and dy/dx)."
+  }
+}

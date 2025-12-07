@@ -1,0 +1,45 @@
+{
+  "id": "XS350480",
+  "type": "mcq",
+  "title": "Residual plot",
+  "content": {
+    "description": "The following is a residual plot from a regression of a variable with the independent variable <math alttext=\"x\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math>.",
+    "question": "Based on the plot, is it reasonable to conclude that a linear model is appropriate?",
+    "image": "https://ap.oly.st/images/f6cb031992d57330bd35cc67949dbe59.png",
+    "choices": [
+      {
+        "label": "Yes, because the plot shows no apparent pattern.",
+        "image": null
+      },
+      {
+        "label": "Yes, because the points in the plot display less variation as <math alttext=\"x\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> increases.",
+        "image": null
+      },
+      {
+        "label": "Yes, because the sum of the residuals is close to zero.",
+        "image": null
+      },
+      {
+        "label": "No, because the plot shows no apparent pattern.",
+        "image": null
+      },
+      {
+        "label": "No, because the points in the plot display more variation as <math alttext=\"x\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> increases.",
+        "image": null
+      }
+    ],
+    "answer": "Yes, because the plot shows no apparent pattern."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.7",
+    "text": "2.7: Residuals"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Describe data presented numerically or graphically."
+  }
+}

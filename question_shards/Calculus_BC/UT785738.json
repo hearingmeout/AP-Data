@@ -1,0 +1,45 @@
+{
+  "id": "UT785738",
+  "type": "mcq",
+  "title": "Alternating Series Test",
+  "content": {
+    "description": "",
+    "question": "The power series <math> <mrow> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>n</mi><mo>=</mo><mn>1</mn></mrow> <mi>∞</mi> </munderover> <mrow> <mfrac> <mrow> <msup> <mrow> <mrow><mo>(</mo> <mrow> <mi>x</mi><mo>−</mo><mn>5</mn></mrow> <mo>)</mo></mrow></mrow> <mi>n</mi> </msup> </mrow> <mrow> <msup> <mn>2</mn> <mi>n</mi> </msup> <msup> <mi>n</mi> <mn>2</mn> </msup> </mrow> </mfrac> </mrow> </mstyle></mrow> </math> has radius of convergence 2. At which of the following values of x can the alternating series test be used with this series to verify convergence at x ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "6",
+        "image": null
+      },
+      {
+        "label": "4",
+        "image": null
+      },
+      {
+        "label": "2",
+        "image": null
+      },
+      {
+        "label": "0",
+        "image": null
+      },
+      {
+        "label": "-1",
+        "image": null
+      }
+    ],
+    "answer": "4"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.7",
+    "text": "10.7: (BC ONLY) Alternating Series Test for Convergence"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

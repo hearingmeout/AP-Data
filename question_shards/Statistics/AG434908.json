@@ -1,0 +1,45 @@
+{
+  "id": "AG434908",
+  "type": "mcq",
+  "title": "Use z-score and percentile to find data value",
+  "content": {
+    "description": "",
+    "question": "A distribution of scores is approximately normal with a mean of 78 and a standard deviation of 8.6. Which of the following equations can be used to find the score x above which 33 percent of the scores fall?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <semantics> <mrow> <mn>0.44</mn> <mo>=</mo> <mfrac> <mrow> <mi>x</mi> <mo>−</mo> <mn>78</mn> </mrow> <mrow> <msup> <mrow> <mo stretchy=\"false\">(</mo> <mn>8.6</mn> <mo stretchy=\"false\">)</mo> </mrow> <mn>2</mn> </msup> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaacaaIWaGaaiOlaiaaisdacaaI0aGaeyypa0ZaaSaaaeaacaWG4bGaeyOeI0IaaG4naiaaiIdaaeaacaGGOaGaaGioaiaac6cacaaI2aGaaiykamaaCaaaleqabaGaaGOmaaaaaaaaaa@44DC@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mn>0.67</mn> <mo>=</mo> <mfrac> <mrow> <mi>x</mi> <mo>−</mo> <mn>78</mn> </mrow> <mrow> <msup> <mrow> <mo stretchy=\"false\">(</mo> <mn>8.6</mn> <mo stretchy=\"false\">)</mo> </mrow> <mn>2</mn> </msup> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaacaaIWaGaaiOlaiaaiAdacaaI3aGaeyypa0ZaaSaaaeaacaWG4bGaeyOeI0IaaG4naiaaiIdaaeaacaGGOaGaaGioaiaac6cacaaI2aGaaiykamaaCaaaleqabaGaaGOmaaaaaaaaaa@44E1@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mn>0.33</mn> <mo>=</mo> <mfrac> <mrow> <mi>x</mi> <mo>−</mo> <mn>78</mn> </mrow> <mrow> <mn>8.6</mn> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaacaaIWaGaaiOlaiaaiodacaaIZaGaeyypa0ZaaSaaaeaacaWG4bGaeyOeI0IaaG4naiaaiIdaaeaacaaI4aGaaiOlaiaaiAdaaaaaaa@4298@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mn>0.44</mn> <mo>=</mo> <mfrac> <mrow> <mi>x</mi> <mo>−</mo> <mn>78</mn> </mrow> <mrow> <mn>8.6</mn> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaacaaIWaGaaiOlaiaaisdacaaI0aGaeyypa0ZaaSaaaeaacaWG4bGaeyOeI0IaaG4naiaaiIdaaeaacaaI4aGaaiOlaiaaiAdaaaaaaa@429A@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mn>0.67</mn> <mo>=</mo> <mfrac> <mrow> <mi>x</mi> <mo>−</mo> <mn>78</mn> </mrow> <mrow> <mn>8.6</mn> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaacaaIWaGaaiOlaiaaiAdacaaI3aGaeyypa0ZaaSaaaeaacaWG4bGaeyOeI0IaaG4naiaaiIdaaeaacaaI4aGaaiOlaiaaiAdaaaaaaa@429F@</annotation> </semantics> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <semantics> <mrow> <mn>0.44</mn> <mo>=</mo> <mfrac> <mrow> <mi>x</mi> <mo>−</mo> <mn>78</mn> </mrow> <mrow> <mn>8.6</mn> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaacaaIWaGaaiOlaiaaisdacaaI0aGaeyypa0ZaaSaaaeaacaWG4bGaeyOeI0IaaG4naiaaiIdaaeaacaaI4aGaaiOlaiaaiAdaaaaaaa@429A@</annotation> </semantics> </math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.10",
+    "text": "1.10: The Normal Distribution"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "FY887104",
+  "type": "mcq",
+  "title": "Dolphin weight",
+  "content": {
+    "description": "A marine biologist wants to estimate the average weight of a population of dolphins living in a certain region of the ocean. The biologist will collect a random sample of dolphins and use the sample weights to create the estimate.",
+    "question": "Which of the following is an appropriate method for the biologist to use for inference to the population?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A one-sample <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-interval for a population mean",
+        "image": null
+      },
+      {
+        "label": "A one-sample <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-interval for a sample mean",
+        "image": null
+      },
+      {
+        "label": "A one-sample <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math>-interval for a population proportion",
+        "image": null
+      },
+      {
+        "label": "A matched-pairs <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-interval for a mean difference",
+        "image": null
+      },
+      {
+        "label": "A two-sample <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-interval for a difference between means",
+        "image": null
+      }
+    ],
+    "answer": "A one-sample <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-interval for a population mean"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.2",
+    "text": "7.2: Constructing a Confidence Interval for a Population Mean"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate inference method for confidence intervals."
+  }
+}

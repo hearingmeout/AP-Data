@@ -1,0 +1,41 @@
+{
+  "id": "AF717202",
+  "type": "mcq",
+  "title": "Representations - Volume by Disc Method",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"R\" overflow=\"scroll\"><mstyle><mrow><mi>R</mi></mrow></mstyle></math> be the region bounded by the graph of <math alttext=\"y equals, the square root of x minus 1, end root\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><msqrt><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></msqrt></mrow></mstyle></math>, the horizontal line <math alttext=\"y equals 2\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mn>2</mn></mrow></mstyle></math>, and the vertical line <math alttext=\"x equals 1\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>1</mn></mrow></mstyle></math>, as shown in the figure above. Which of the following gives the volume of the solid generated when the region <math alttext=\"R\" overflow=\"scroll\"><mstyle><mrow><mi>R</mi></mrow></mstyle></math> is revolved about the vertical line <math alttext=\"x equals 1\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>1</mn></mrow></mstyle></math> ?",
+    "image": "https://ap.oly.st/images/fdd8de30d8e6a56eb61ffb243d53426e.png",
+    "choices": [
+      {
+        "label": "<math alttext=\"pi times the integral from, 0 to 2, of, open parenthesis, open parenthesis, y squared, plus 1, close parenthesis, minus 1, close parenthesis, d y\" overflow=\"scroll\"><mrow><mi>π</mi><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mrow><mo>(</mo><mrow><mo>(</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mo>−</mo><mn>1</mn><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>y</mi></mrow></mrow></mstyle></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"pi times the integral from, 0 to 2, of, open parenthesis, open parenthesis, y squared, plus 1, close parenthesis, squared, minus, 1 squared, close parenthesis, d y\" overflow=\"scroll\"><mrow><mi>π</mi><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mrow><mrow><mo>(</mo><msup><mrow><mo>(</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><msup><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msup><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>y</mi></mrow></mrow></mstyle></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"pi times the integral from, 0 to 2, of, open parenthesis, open parenthesis, y squared, plus 1, close parenthesis, minus 1, close parenthesis, squared, d y\" overflow=\"scroll\"><mrow><mi>π</mi><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup><msup><mrow><mo>(</mo><mrow><mo>(</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mo>−</mo><mn>1</mn><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup><mo>ⅆ</mo><mrow><mi>y</mi></mrow></mrow></mstyle></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"pi times the integral from, 0 to 2, of, open parenthesis, open parenthesis, y squared, plus 1, close parenthesis, plus 1, close parenthesis, squared, d y\" overflow=\"scroll\"><mrow><mi>π</mi><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup><msup><mrow><mo>(</mo><mrow><mo>(</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup><mo>ⅆ</mo><mrow><mi>y</mi></mrow></mrow></mstyle></mrow></mstyle></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"pi times the integral from, 0 to 2, of, open parenthesis, open parenthesis, y squared, plus 1, close parenthesis, minus 1, close parenthesis, squared, d y\" overflow=\"scroll\"><mrow><mi>π</mi><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup><msup><mrow><mo>(</mo><mrow><mo>(</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mo>−</mo><mn>1</mn><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup><mo>ⅆ</mo><mrow><mi>y</mi></mrow></mrow></mstyle></mrow></mstyle></mrow></math>"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Applications of Integration"
+  },
+  "topic": {
+    "code": "8.10",
+    "text": "8.10: Volume with Disc Method - Revolving Around Other Axes"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Identify how mathematical characteristics or properties of functions are related in different representations."
+  }
+}

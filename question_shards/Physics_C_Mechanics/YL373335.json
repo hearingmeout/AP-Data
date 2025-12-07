@@ -1,0 +1,41 @@
+{
+  "id": "YL373335",
+  "type": "mcq",
+  "title": "Motion in 2D - boat crossing river",
+  "content": {
+    "description": "",
+    "question": "A person in a boat wishes to cross a river from Point <math alttext=\"O\" display=\"inline\" overflow=\"scroll\"><mi mathvariant=\"normal\">O</mi></math> to Point <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>, as shown in the figure. The water has velocity <math alttext=\"v sub water, equals 5 meters per second\" display=\"inline\" overflow=\"scroll\"><msub><mi>v</mi><mtext>water</mtext></msub><mo>=</mo><mn>5</mn><mtext> m</mtext><mo>/</mo><mtext>s</mtext></math> in the positive <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mi>x</mi></math>-direction relative to the river bank, and the boat has a velocity of <math alttext=\"v sub boat, equals 10 meters per second\" display=\"inline\" overflow=\"scroll\"><msub><mi>v</mi><mtext>boat</mtext></msub><mo>=</mo><mn>10</mn><mtext> m</mtext><mo>/</mo><mtext>s</mtext></math> in the positive <math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mi>y</mi></math>-direction relative to the water. Towards which point should the boat travel to reach Point <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> and why?",
+    "image": "https://ap.oly.st/images/2a4769873f832da51828a3c3da7c80c8.svg",
+    "choices": [
+      {
+        "label": "Toward Point <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> because the <math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mi>y</mi></math>-component of the boat’s velocity with respect to the water needs to be equal in magnitude to the velocity of the water.",
+        "image": null
+      },
+      {
+        "label": "Toward Point <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> because the <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mi>x</mi></math>-component of the boat’s velocity with respect to the water needs to be equal in magnitude to the velocity of the water but in the opposite direction.",
+        "image": null
+      },
+      {
+        "label": "Toward Point <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> because the magnitude of the boat’s velocity with respect to the water is greater than the magnitude of the velocity of the water.",
+        "image": null
+      },
+      {
+        "label": "Toward Point <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> because the <math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mi>y</mi></math>-component of the boat’s velocity with respect to the water is not affected by the motion of the water.",
+        "image": null
+      }
+    ],
+    "answer": "Toward Point <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> because the <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mi>x</mi></math>-component of the boat’s velocity with respect to the water needs to be equal in magnitude to the velocity of the water but in the opposite direction."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Reference Frames and Relative Motion"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

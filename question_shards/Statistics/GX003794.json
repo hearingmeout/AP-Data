@@ -1,0 +1,45 @@
+{
+  "id": "GX003794",
+  "type": "mcq",
+  "title": "Transformers",
+  "content": {
+    "description": "",
+    "question": "During a severe storm, electrical transformers that function independently are expected to operate 85 percent of the time. Suppose 20 electrical transformers are randomly selected from the population. Let the random variable <math alttext=\"T\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>T</mi></mrow></mstyle></math> represent the number of electrical transformers operating during a severe storm. Which of the following is the best interpretation of the random variable <math alttext=\"T \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>T</mi></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "It is a binomial variable with mean 17 transformers and standard deviation <math alttext=\"the square root of 2.55\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msqrt><mrow><mn>2.55</mn></mrow></msqrt></mrow></mstyle></math> transformers.",
+        "image": null
+      },
+      {
+        "label": "It is a binomial variable with mean 17 severe storms and standard deviation <math alttext=\"the square root of 2.55\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msqrt><mrow><mn>2.55</mn></mrow></msqrt></mrow></mstyle></math> severe storms.",
+        "image": null
+      },
+      {
+        "label": "It is a binomial variable with mean 0.85 transformer and standard deviation 20 transformers.",
+        "image": null
+      },
+      {
+        "label": "It is a variable that is not binomial with mean 17 transformers and standard deviation <math alttext=\"the square root of 2.55\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msqrt><mrow><mn>2.55</mn></mrow></msqrt></mrow></mstyle></math> transformers.",
+        "image": null
+      },
+      {
+        "label": "It is a variable that is not binomial with mean 0.85 severe storm and standard deviation 20 severe storms.",
+        "image": null
+      }
+    ],
+    "answer": "It is a binomial variable with mean 17 transformers and standard deviation <math alttext=\"the square root of 2.55\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msqrt><mrow><mn>2.55</mn></mrow></msqrt></mrow></mstyle></math> transformers."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.11",
+    "text": "4.11: Parameters for a Binomial Distribution"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

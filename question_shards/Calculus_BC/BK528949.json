@@ -1,0 +1,37 @@
+{
+  "id": "BK528949",
+  "type": "mcq",
+  "title": "Justification - Differentiability and Continuity",
+  "content": {
+    "description": "<math alttext=\"f of x equals 4 minus x squared for x less than or equal to 1; and f of x equals 5 minus 2 x for x greater than 1\" display=\"inline\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mo>{</mo><mtable columnalign=\"left\"><mtr><mtd><mrow><mn>4</mn><mo>−</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mtd><mtd><mrow><mtext>for</mtext><mspace></mspace><mspace width=\"0.45em\"></mspace><mi>x</mi><mo>≤</mo><mn>1</mn></mrow></mtd></mtr><mtr><mtd><mrow><mn>5</mn><mo>−</mo><mn>2</mn><mi>x</mi></mrow></mtd><mtd><mrow><mtext>for</mtext><mspace></mspace><mspace width=\"0.45em\"></mspace><mi>x</mi><mo>&gt;</mo><mn>1</mn></mrow></mtd></mtr></mtable></mrow></math>",
+    "question": "Let <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be the function defined as shown. Which of the following statements about <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is true at <math alttext=\"x equals 1\" display=\"inline\" overflow=\"scroll\"><mrow><mi>x</mi><mo>=</mo><mn>1</mn></mrow></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is both continuous and differentiable.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is continuous but not differentiable.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is differentiable but not continuous.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is neither continuous nor differentiable.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is both continuous and differentiable."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Connecting Differentiability and Continuity - Determining When Derivatives Do and Do Not Exist"
+  }
+}

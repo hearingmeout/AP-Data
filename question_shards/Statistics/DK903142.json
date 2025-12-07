@@ -1,0 +1,45 @@
+{
+  "id": "DK903142",
+  "type": "mcq",
+  "title": "Heart rate of Soccer Players",
+  "content": {
+    "description": "A random sample of 15 college soccer players were selected to investigate the relationship between heart rate and maximal oxygen uptake. The heart rate and maximal oxygen uptake were recorded for each player during a training session. A regression analysis of the data was conducted, where heart rate is the explanatory variable and maximal oxygen uptake is the response variable.",
+    "question": "If a 95 percent confidence interval is constructed for the slope of the population regression line, which of the following is a condition that must be checked?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The true relationship between heart rate and maximal oxygen uptake is linear.",
+        "image": null
+      },
+      {
+        "label": "The correlation between heart rate and maximal oxygen uptake is not equal to zero.",
+        "image": null
+      },
+      {
+        "label": "The confidence interval is not biased.",
+        "image": null
+      },
+      {
+        "label": "The point <math alttext=\"x bar comma y bar\" display=\"inline\" overflow=\"scroll\"><mrow><mo>(</mo><mover><mrow><mi>x</mi></mrow><mrow><mi>_</mi></mrow></mover><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.25em\"></mspace><mo>,</mo><mover><mrow><mi>y</mi></mrow><mrow><mi>_</mi></mrow></mover><mo>)</mo></mrow></math> falls on the regression line.",
+        "image": null
+      },
+      {
+        "label": "The slope is not equal to zero.",
+        "image": null
+      }
+    ],
+    "answer": "The true relationship between heart rate and maximal oxygen uptake is linear."
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Inference for Quantitative Data-Slopes"
+  },
+  "topic": {
+    "code": "9.2",
+    "text": "9.2: Confidence Intervals for the Slope of a Regression Model"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Verify that inference procedures apply in a given situation."
+  }
+}

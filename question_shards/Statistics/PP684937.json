@@ -1,0 +1,45 @@
+{
+  "id": "PP684937",
+  "type": "mcq",
+  "title": "Favorite Class",
+  "content": {
+    "description": "A national publication showed the following distribution of favorite class subjects for high school students.",
+    "question": "Class Subject Math English Social Studies Physical Education Music Other Percentage 5% 14% 28% 26% 20% 7% Pasquale, a student from a high school of 1,200 students, wants to see whether the distribution at his school matches that of the publication. He stands at the school entrance in the morning and asks the first 40 students he sees what their favorite class is. Pasquale records the following table of observed values.Class Subject Math English Social Studies Physical Education Music Other Observed 7 8 7 6 6 6 He decides to conduct a chi-square goodness-of-fit test to see whether his high school's distribution differs significantly from that of the publication. Pasquale’s statistics teacher tells him that his information does not meet the conditions necessary for a goodness-of-fit test. Which condition has not been met?Data are collected using a random sample or randomized experiment<math alttext=\"lowercase n is less than or equal to 0.10 times uppercase N\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi><mo>≤</mo><mn>0.10</mn><mi>N</mi></mrow></mstyle></math>All expected counts are greater than 5.",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>I</mtext></mrow></mstyle></math> only",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>II</mtext></mrow></mstyle></math> only",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>III</mtext></mrow></mstyle></math> only",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>I</mtext></mrow></mstyle></math> and <math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>III</mtext></mrow></mstyle></math> only",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>I </mtext></mrow></mstyle></math> and <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>II</mtext></mrow></mstyle></math> only",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>I</mtext></mrow></mstyle></math> and <math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>III</mtext></mrow></mstyle></math> only"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Inference for Categorical Data-Chi-Square"
+  },
+  "topic": {
+    "code": "8.2",
+    "text": "8.2: Setting up a Chi-Square Goodness of Fit Test"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Verify that inference procedures apply in a given situation."
+  }
+}

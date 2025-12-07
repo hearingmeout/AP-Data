@@ -1,0 +1,41 @@
+{
+  "id": "RZ705650",
+  "type": "mcq",
+  "title": "Justification - Types of Discontinuities",
+  "content": {
+    "description": "<math alttext=\"g of x equals, 3 times x squared, minus 5 x, plus 1, if x is less than or equal to 0, and g of x equals, the fraction with numerator 1, and denominator x times open parenthesis, x plus 1, close parenthesis, end fraction, if x is greater than 0.\" display=\"inline\" overflow=\"scroll\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mo>{</mo><mtable columnalign=\"left\"><mtr><mtd><mn>3</mn><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>1</mn></mtd><mtd><mrow><mtext>if</mtext><mspace></mspace><mspace width=\"0.45em\"></mspace><mi>x</mi><mo>≤</mo><mn>0</mn></mrow></mtd></mtr><mtr><mtd><mfrac><mrow><mn>1</mn></mrow><mrow><mi>x</mi><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow></mrow></mfrac></mtd><mtd><mrow><mtext>if</mtext><mspace></mspace><mspace width=\"0.45em\"></mspace><mi>x</mi><mo>&gt;</mo><mn>0</mn></mrow></mtd></mtr></mtable></mrow></math>",
+    "question": "Let <math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> be the function given above. Which of the following statements is true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> is continuous at <math alttext=\"x equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>0</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> has a jump discontinuity at <math alttext=\"x equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>0</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> has a removable discontinuity at <math alttext=\"x equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>0</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> has a discontinuity due to a vertical asymptote at <math alttext=\"x equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>0</mn></mrow></mstyle></math>.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> has a discontinuity due to a vertical asymptote at <math alttext=\"x equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>0</mn></mrow></mstyle></math>."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.10",
+    "text": "1.10: Exploring Types of Discontinuities"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Confirm whether hypotheses or conditions of a selected definition, theorem, or test have been satisfied."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "UJ184877",
+  "type": "frq",
+  "title": "Implicit Differentiation with Tangent Line-Inverse",
+  "content": {
+    "description": "",
+    "question": "NO CALCULATOR IS ALLOWED FOR THIS QUESTION. Show all of your work, even though the question may not explicitly remind you to do so. Clearly label any functions, graphs, tables, or other objects that you use. Justifications require that you give mathematical reasons, and that you verify the needed conditions under which relevant theorems, properties, definitions, or tests are applied. Your work will be scored on the correctness and completeness of your methods as well as your answers. Answers without supporting work will usually not receive credit. Unless otherwise specified, answers (numeric or algebraic) need not be simplified. If your answer is given as a decimal approximation, it should be correct to three places after the decimal point. Unless otherwise specified, the domain of a function <math alttext=\"f\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is assumed to be the set of all real numbers <math alttext=\"x\"><mstyle><mrow><mstyle><mrow><mi>x</mi></mrow></mstyle></mrow></mstyle></math> for which <math alttext=\"f of x\"><mstyle><mrow><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></mrow></mstyle></math> is a real number. Consider the curve given by the equation <math alttext=\"open parenthesis, 2 y plus 1, close parenthesis, cubed, minus 24 x, equals negative 3\"><mrow><msup><mrow><mstyle><mrow><mrow><mo>(</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow></mrow></mstyle></mrow><mrow><mn>3</mn></mrow></msup><mo>−</mo><mn>24</mn><mi>x</mi><mo>=</mo><mrow><mo>−</mo><mn>3</mn></mrow></mrow></math>. (a) Show that <math alttext=\"the derivative of y, with respect to x, equals, the fraction with numerator 4, and denominator open parenthesis, 2 y plus 1, close parenthesis, squared\"><mstyle><mrow><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>4</mn></mrow><mrow><msup><mrow><mo>(</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mstyle></math>.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "NO CALCULATOR IS ALLOWED FOR THIS QUESTION. Show all of your work, even though the question may not explicitly remind you to do so. Clearly label any functions, graphs, tables, or other objects that you use. Justifications require that you give mathematical reasons, and that you verify the needed conditions under which relevant theorems, properties, definitions, or tests are applied. Your work will be scored on the correctness and completeness of your methods as well as your answers. Answers without supporting work will usually not receive credit. Unless otherwise specified, answers (numeric or algebraic) need not be simplified. If your answer is given as a decimal approximation, it should be correct to three places after the decimal point. Unless otherwise specified, the domain of a function <math alttext=\"f\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is assumed to be the set of all real numbers <math alttext=\"x\"><mstyle><mrow><mstyle><mrow><mi>x</mi></mrow></mstyle></mrow></mstyle></math> for which <math alttext=\"f of x\"><mstyle><mrow><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></mrow></mstyle></math> is a real number. Consider the curve given by the equation <math alttext=\"open parenthesis, 2 y plus 1, close parenthesis, cubed, minus 24 x, equals negative 3\"><mrow><msup><mrow><mstyle><mrow><mrow><mo>(</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow></mrow></mstyle></mrow><mrow><mn>3</mn></mrow></msup><mo>−</mo><mn>24</mn><mi>x</mi><mo>=</mo><mrow><mo>−</mo><mn>3</mn></mrow></mrow></math>. (a) Show that <math alttext=\"the derivative of y, with respect to x, equals, the fraction with numerator 4, and denominator open parenthesis, 2 y plus 1, close parenthesis, squared\"><mstyle><mrow><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>4</mn></mrow><mrow><msup><mrow><mo>(</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "text": "(b) Write an equation for the line tangent to the curve at the point <math alttext=\"with coordinates negative 1 comma negative 2\"><mstyle><mrow><mrow><mo>(</mo><mrow><mo>−</mo><mn>1</mn></mrow><mo>,</mo><mrow><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "text": "(c) Evaluate <math alttext=\"the second derivative of y, with respect to x \"><mstyle><mrow><mfrac><mrow><msup><mrow><mi>d</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>y</mi></mrow><mrow><mi>d</mi><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mstyle></math> at the point <math alttext=\"with coordinates negative 1 comma negative 2\"><mstyle><mrow><mo>(</mo><mrow><mo>−</mo><mn>1</mn></mrow><mo>,</mo><mrow><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "text": "(d) The point <math alttext=\"with coordinates one sixth comma 0 \"><mstyle><mrow><mrow><mo>(</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>6</mn></mrow></mfrac><mo>,</mo><mn>0</mn><mo>)</mo></mrow></mrow></mstyle></math> is on the curve. Find the value of <math alttext=\"open parenthesis, the inverse of y, close parenthesis, prime, of 0\"><mrow><msup><mrow><mo>(</mo><mstyle><mrow><msup><mrow><mi>y</mi></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup></mrow></mstyle><mo>)</mo></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow></mrow></math>.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Defining the Derivative of a Function and Using Derivative Notation"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

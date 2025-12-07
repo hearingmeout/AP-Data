@@ -1,0 +1,41 @@
+{
+  "id": "WK963980",
+  "type": "mcq",
+  "title": "Justification - Volume by Disc Method",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"uppercase R\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>R</mi></mrow></mstyle></math> be the triangular region in the first quadrant with vertices at points <math alttext=\"with coordinates 0 comma 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mrow><mn>0</mn></mrow><mo>,</mo><mrow><mn>0</mn></mrow><mo>)</mo></mrow></mrow></mstyle></math>, <math alttext=\"coordinates h comma 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mrow><mi>h</mi></mrow><mo>,</mo><mrow><mn>0</mn></mrow><mo>)</mo></mrow></mrow></mstyle></math>, and <math alttext=\"coordinates h comma lowercase r\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>(</mo><mi>h</mi><mo>,</mo><mrow><mi>r</mi></mrow><mo>)</mo></mrow></mstyle></math>, where <math alttext=\"lowercase r\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>r</mi></mrow></mstyle></math> and <math alttext=\"h\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>h</mi></mrow></mstyle></math> are positive constants. Which of the following gives the volume of the solid generated when region <math alttext=\"uppercase R\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>R</mi></mrow></mstyle></math> is revolved about the <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math>-axis?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"pi times the integral from, 0 to lowercase r, of, open parenthesis, the fraction h over lowercase r, end fraction, times x, close parenthesis, squared, d x\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mi>π</mi><mrow><msubsup><mo>∫</mo><mrow><mn>0</mn></mrow><mrow><mi>r</mi></mrow></msubsup><mrow><mrow><msup><mrow><mo>(</mo><mfrac><mrow><mi>h</mi></mrow><mrow><mi>r</mi></mrow></mfrac><mi>x</mi><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"pi times the integral from, 0 to h, of, open parenthesis, the fraction h over lowercase r, end fraction, times x, close parenthesis, squared, d x\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mi>π</mi><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mi>h</mi></mrow></msubsup><mrow><msup><mrow><mo>(</mo><mfrac><mrow><mi>h</mi></mrow><mrow><mi>r</mi></mrow></mfrac><mi>x</mi><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"pi times the integral from, 0 to lowercase r, of, open parenthesis, the fraction lowercase r over h, end fraction, times x, close parenthesis, squared, d x\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mi>π</mi><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mi>r</mi></mrow></msubsup><mrow><msup><mrow><mo>(</mo><mfrac><mrow><mi>r</mi></mrow><mrow><mi>h</mi></mrow></mfrac><mi>x</mi><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"pi times the integral from, 0 to h, of, open parenthesis, the fraction lowercase r over h, end fraction, times x, close parenthesis, squared, d x\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mi>π</mi><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mi>h</mi></mrow></msubsup><mrow><msup><mrow><mo>(</mo><mfrac><mrow><mi>r</mi></mrow><mrow><mi>h</mi></mrow></mfrac><mi>x</mi><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mrow></mstyle></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"pi times the integral from, 0 to h, of, open parenthesis, the fraction lowercase r over h, end fraction, times x, close parenthesis, squared, d x\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mi>π</mi><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mi>h</mi></mrow></msubsup><mrow><msup><mrow><mo>(</mo><mfrac><mrow><mi>r</mi></mrow><mrow><mi>h</mi></mrow></mfrac><mi>x</mi><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mrow></mstyle></mrow></math>"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Applications of Integration"
+  },
+  "topic": {
+    "code": "8.9",
+    "text": "8.9: Volume with Disc Method - Revolving Around the x- or y-Axis"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

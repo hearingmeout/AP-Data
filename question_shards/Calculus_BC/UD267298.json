@@ -1,0 +1,41 @@
+{
+  "id": "UD267298",
+  "type": "mcq",
+  "title": "Justification - Interval of Convergence",
+  "content": {
+    "description": "",
+    "question": "The power series <math alttext=\"the sum from n equals 0 to infinity, of, a, sub n, end sub, times, open parenthesis, x plus 1, close parenthesis, to the n power\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle displaystyle=\"true\"><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>n</mi><mtext> </mtext><mo>=</mo><mtext> </mtext><mn>0</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><msub><mrow><mi>a</mi></mrow><mrow><mi>n</mi></mrow></msub><msup><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mrow><mi>n</mi></mrow></msup></mrow></mrow></mstyle></mrow></mstyle></mrow></math> converges at <math alttext=\"x equals 3\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>3</mn></mrow></mstyle></math>. Which of the following must be true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the sum from n equals 0 to infinity, of, a, sub n, end sub, times, open parenthesis, x plus 1, close parenthesis, to the n power\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>n</mi><mtext> </mtext><mo>=</mo><mtext> </mtext><mn>0</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><msub><mrow><mi>a</mi></mrow><mrow><mi>n</mi></mrow></msub><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mrow><mi>n</mi></mrow></msup></mrow></mrow></mstyle></mrow></mstyle></math> converges at <math alttext=\"x equals negative 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mrow><mo>−</mo><mn>5</mn></mrow></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the sum from n equals 0 to infinity, of, a, sub n, end sub, times, open parenthesis, x plus 1, close parenthesis, to the n power\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>n</mi><mtext> </mtext><mo>=</mo><mtext> </mtext><mn>0</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><msub><mrow><mi>a</mi></mrow><mrow><mi>n</mi></mrow></msub><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mrow><mi>n</mi></mrow></msup></mrow></mrow></mstyle></mrow></mstyle></math> diverges at <math alttext=\"x equals negative 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mrow><mo>−</mo><mn>5</mn></mrow></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the sum from n equals 0 to infinity, of, a, sub n, end sub, times, open parenthesis, x plus 1, close parenthesis, to the n power\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>n</mi><mtext> </mtext><mo>=</mo><mtext> </mtext><mn>0</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><msub><mrow><mi>a</mi></mrow><mrow><mi>n</mi></mrow></msub><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mrow><mi>n</mi></mrow></msup></mrow></mrow></mstyle></mrow></mstyle></math> converges at <math alttext=\"x equals negative 4\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mrow><mo>−</mo><mn>4</mn></mrow></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the sum from n equals 0 to infinity, of, a, sub n, end sub, times, open parenthesis, x plus 1, close parenthesis, to the n power\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>n</mi><mtext> </mtext><mo>=</mo><mtext> </mtext><mn>0</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><msub><mrow><mi>a</mi></mrow><mrow><mi>n</mi></mrow></msub><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mrow><mi>n</mi></mrow></msup></mrow></mrow></mstyle></mrow></mstyle></math> diverges at <math alttext=\"x equals 4\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>4</mn></mrow></mstyle></math>.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the sum from n equals 0 to infinity, of, a, sub n, end sub, times, open parenthesis, x plus 1, close parenthesis, to the n power\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>n</mi><mtext> </mtext><mo>=</mo><mtext> </mtext><mn>0</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><msub><mrow><mi>a</mi></mrow><mrow><mi>n</mi></mrow></msub><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mrow><mi>n</mi></mrow></msup></mrow></mrow></mstyle></mrow></mstyle></math> converges at <math alttext=\"x equals negative 4\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mrow><mo>−</mo><mn>4</mn></mrow></mrow></mstyle></math>."
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.13",
+    "text": "10.13: (BC ONLY) Radius and Interval of Convergence of Power Series"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

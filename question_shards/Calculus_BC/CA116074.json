@@ -1,0 +1,41 @@
+{
+  "id": "CA116074",
+  "type": "mcq",
+  "title": "Riemann sum for definite integral with graph",
+  "content": {
+    "description": "",
+    "question": "The function f is given by f (x) = ln x. The graph of f is shown above. Which of the following limits is equal to the area of the shaded region?",
+    "image": "https://ap.oly.st/images/eeb9032327261c75f2c1207f9df29c2d.png",
+    "choices": [
+      {
+        "label": "<math> <semantics> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>n</mi> <mo>→</mo> <mi>∞</mi> </mrow> </munder> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>k</mi> <mo>=</mo> <mn>1</mn> </mrow> <mi>n</mi> </munderover> <mrow> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>+</mo> <mi>ln</mi> <mrow> <mo>(</mo> <mrow> <mfrac> <mrow> <mn>3</mn> <mi>k</mi> </mrow> <mi>n</mi> </mfrac> </mrow> <mo>)</mo> </mrow> </mrow> <mo>)</mo> </mrow> </mrow> </mstyle> <mfrac> <mn>3</mn> <mi>n</mi> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaCbeaeaaqa aaaaaaaaWdbiGacYgacaGGPbGaaiyBaaWcpaqaa8qacaWGUbGaeyOK H4QaeyOhIukapaqabaGcpeWaaabCa8aabaWdbmaabmaapaqaa8qaca aIXaGaey4kaSIaciiBaiaac6gadaqadaWdaeaapeWaaSaaa8aabaWd biaaiodacaWGRbaapaqaa8qacaWGUbaaaaGaayjkaiaawMcaaaGaay jkaiaawMcaaaWcpaqaa8qacaWGRbGaeyypa0JaaGymaaWdaeaapeGa amOBaaqdcqGHris5aOWaaSaaa8aabaWdbiaaiodaa8aabaWdbiaad6 gaaaaaaa@4FC2@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>n</mi> <mo>→</mo> <mi>∞</mi> </mrow> </munder> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>k</mi> <mo>=</mo> <mn>1</mn> </mrow> <mi>n</mi> </munderover> <mrow> <mi>ln</mi> </mrow> </mstyle> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>+</mo> <mfrac> <mrow> <mn>3</mn> <mi>k</mi> </mrow> <mi>n</mi> </mfrac> </mrow> <mo>)</mo> </mrow> <mfrac> <mn>3</mn> <mi>n</mi> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaCbeaeaaqa aaaaaaaaWdbiGacYgacaGGPbGaaiyBaaWcpaqaa8qacaWGUbGaeyOK H4QaeyOhIukapaqabaGcpeWaaabCa8aabaWdbiGacYgacaGGUbaal8 aabaWdbiaadUgacqGH9aqpcaaIXaaapaqaa8qacaWGUbaaniabggHi LdGcdaqadaWdaeaapeGaaGymaiabgUcaRmaalaaapaqaa8qacaaIZa Gaam4AaaWdaeaapeGaamOBaaaaaiaawIcacaGLPaaadaWcaaWdaeaa peGaaG4maaWdaeaapeGaamOBaaaaaaa@4E1A@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>n</mi> <mo>→</mo> <mi>∞</mi> </mrow> </munder> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>k</mi> <mo>=</mo> <mn>1</mn> </mrow> <mi>n</mi> </munderover> <mrow> <mi>ln</mi> </mrow> </mstyle> <mrow> <mo>(</mo> <mrow> <mfrac> <mn>4</mn> <mi>n</mi> </mfrac> </mrow> <mo>)</mo> </mrow> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>+</mo> <mfrac> <mrow> <mn>4</mn> <mi>k</mi> </mrow> <mi>n</mi> </mfrac> </mrow> <mo>)</mo> </mrow> <mtext> </mtext> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaCbeaeaaqa aaaaaaaaWdbiGacYgacaGGPbGaaiyBaaWcpaqaa8qacaWGUbGaeyOK H4QaeyOhIukapaqabaGcpeWaaabCa8aabaWdbiGacYgacaGGUbaal8 aabaWdbiaadUgacqGH9aqpcaaIXaaapaqaa8qacaWGUbaaniabggHi LdGcdaqadaWdaeaapeWaaSaaa8aabaWdbiaaisdaa8aabaWdbiaad6 gaaaaacaGLOaGaayzkaaWaaeWaa8aabaWdbiaaigdacqGHRaWkdaWc aaWdaeaapeGaaGinaiaadUgaa8aabaWdbiaad6gaaaaacaGLOaGaay zkaaWdaiaaysW7aaa@5160@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>n</mi> <mo>→</mo> <mi>∞</mi> </mrow> </munder> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>k</mi> <mo>=</mo> <mn>1</mn> </mrow> <mi>n</mi> </munderover> <mrow> <mi>ln</mi> </mrow> </mstyle> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>+</mo> <mfrac> <mrow> <mn>4</mn> <mi>k</mi> </mrow> <mi>n</mi> </mfrac> </mrow> <mo>)</mo> </mrow> <mfrac> <mn>4</mn> <mi>n</mi> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaCbeaeaaqa aaaaaaaaWdbiGacYgacaGGPbGaaiyBaaWcpaqaa8qacaWGUbGaeyOK H4QaeyOhIukapaqabaGcpeWaaabCa8aabaWdbiGacYgacaGGUbaal8 aabaWdbiaadUgacqGH9aqpcaaIXaaapaqaa8qacaWGUbaaniabggHi LdGcdaqadaWdaeaapeGaaGymaiabgUcaRmaalaaapaqaa8qacaaI0a Gaam4AaaWdaeaapeGaamOBaaaaaiaawIcacaGLPaaadaWcaaWdaeaa peGaaGinaaWdaeaapeGaamOBaaaaaaa@4E1C@ </annotation> </semantics> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <semantics> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>n</mi> <mo>→</mo> <mi>∞</mi> </mrow> </munder> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>k</mi> <mo>=</mo> <mn>1</mn> </mrow> <mi>n</mi> </munderover> <mrow> <mi>ln</mi> </mrow> </mstyle> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>+</mo> <mfrac> <mrow> <mn>3</mn> <mi>k</mi> </mrow> <mi>n</mi> </mfrac> </mrow> <mo>)</mo> </mrow> <mfrac> <mn>3</mn> <mi>n</mi> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaCbeaeaaqa aaaaaaaaWdbiGacYgacaGGPbGaaiyBaaWcpaqaa8qacaWGUbGaeyOK H4QaeyOhIukapaqabaGcpeWaaabCa8aabaWdbiGacYgacaGGUbaal8 aabaWdbiaadUgacqGH9aqpcaaIXaaapaqaa8qacaWGUbaaniabggHi LdGcdaqadaWdaeaapeGaaGymaiabgUcaRmaalaaapaqaa8qacaaIZa Gaam4AaaWdaeaapeGaamOBaaaaaiaawIcacaGLPaaadaWcaaWdaeaa peGaaG4maaWdaeaapeGaamOBaaaaaaa@4E1A@ </annotation> </semantics> </math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.3",
+    "text": "6.3: Riemann Sums, Summation Notation, and Definite Integral Notation"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

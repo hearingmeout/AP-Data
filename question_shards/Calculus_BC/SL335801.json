@@ -1,0 +1,41 @@
+{
+  "id": "SL335801",
+  "type": "mcq",
+  "title": "Processes - Improper Integrals",
+  "content": {
+    "description": "",
+    "question": "An antiderivative of <math alttext=\"the fraction with numerator e to the x power, and denominator e to the x power, minus 1, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><msup><mrow><mi>e</mi></mrow><mrow><mi>x</mi></mrow></msup></mrow><mrow><msup><mrow><mi>e</mi></mrow><mrow><mi>x</mi></mrow></msup><mo>−</mo><mn>1</mn></mrow></mfrac></mrow></mstyle></math> is <math alttext=\"the natural log of, the absolute value of, e to the x power, minus 1, end absolute value\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>ln</mi><mo>⁡</mo><mrow><mo>|</mo><msup><mrow><mi>e</mi></mrow><mrow><mi>x</mi></mrow></msup><mo>−</mo><mn>1</mn><mo>|</mo></mrow></mrow></mstyle></math>. Which of the following statements about the integral <math alttext=\"the integral from, negative 2 to 2, of, the fraction with numerator e to the x power, and denominator e to the x power, minus 1, end fraction, d x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mo>−</mo><mn>2</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mstyle><mrow><mfrac><mrow><msup><mrow><mi>e</mi></mrow><mrow><mi>x</mi></mrow></msup></mrow><mrow><msup><mrow><mi>e</mi></mrow><mrow><mi>x</mi></mrow></msup><mo>−</mo><mn>1</mn></mrow></mfrac></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mrow></mstyle></math> is true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The integral equals <math alttext=\"the fraction with numerator e squared, and denominator e squared, minus 1, end fraction, minus, the fraction with numerator e to the negative 2 power, and denominator e to the negative 2 power, minus 1, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><msup><mrow><mi>e</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>e</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><mn>1</mn></mrow></mfrac><mo>−</mo><mfrac><mrow><msup><mrow><mi>e</mi></mrow><mrow><mrow><mo>−</mo><mn>2</mn></mrow></mrow></msup></mrow><mrow><msup><mrow><mi>e</mi></mrow><mrow><mrow><mo>−</mo><mn>2</mn></mrow></mrow></msup><mo>−</mo><mn>1</mn></mrow></mfrac></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "The integral equals <math alttext=\"the natural log of, the absolute value of, e squared, minus 1, end absolute value, minus, the natural log of, the absolute value of, e to the negative 2 power, minus 1, end absolute value\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>ln</mi><mo>⁡</mo><mrow><mo>|</mo><msup><mrow><mi>e</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><mn>1</mn><mo>|</mo></mrow><mo>−</mo><mi>ln</mi><mo>⁡</mo><mrow><mo>|</mo><msup><mrow><mi>e</mi></mrow><mrow><mrow><mo>−</mo><mn>2</mn></mrow></mrow></msup><mo>−</mo><mn>1</mn><mo>|</mo></mrow></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "The integral diverges because <math alttext=\"the limit as x approaches 0 from the left, of, the fraction with numerator e to the x power, and denominator e to the x power, minus 1, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><msup><mrow><mn>0</mn></mrow><mrow><mo>−</mo></mrow></msup></mrow></munder><mfrac><mrow><msup><mrow><mi>e</mi></mrow><mrow><mi>x</mi></mrow></msup></mrow><mrow><msup><mrow><mi>e</mi></mrow><mrow><mi>x</mi></mrow></msup><mo>−</mo><mn>1</mn></mrow></mfrac></mrow></mstyle></math> does not exist.",
+        "image": null
+      },
+      {
+        "label": "The integral diverges because <math alttext=\"the limit as x approaches 0 from the left, of, the natural log of, the absolute value of, e to the x power, minus 1, end absolute value\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><msup><mrow><mn>0</mn></mrow><mrow><mo>−</mo></mrow></msup></mrow></munder><mrow><mi>ln</mi><mo>⁡</mo><mo>|</mo><msup><mrow><mi>e</mi></mrow><mrow><mi>x</mi></mrow></msup><mo>−</mo><mn>1</mn><mo>|</mo></mrow></mrow></mstyle></math> does not exist.",
+        "image": null
+      }
+    ],
+    "answer": "The integral diverges because <math alttext=\"the limit as x approaches 0 from the left, of, the natural log of, the absolute value of, e to the x power, minus 1, end absolute value\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><msup><mrow><mn>0</mn></mrow><mrow><mo>−</mo></mrow></msup></mrow></munder><mrow><mi>ln</mi><mo>⁡</mo><mo>|</mo><msup><mrow><mi>e</mi></mrow><mrow><mi>x</mi></mrow></msup><mo>−</mo><mn>1</mn><mo>|</mo></mrow></mrow></mstyle></math> does not exist."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.13",
+    "text": "6.13: (BC ONLY) Evaluating Improper Integrals"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

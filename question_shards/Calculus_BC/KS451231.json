@@ -1,0 +1,41 @@
+{
+  "id": "KS451231",
+  "type": "mcq",
+  "title": "Representations - Behavior of a Function",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be the function given by <math alttext=\"f of x, equals, the integral from, 6 to x, of, open parenthesis, negative, t squared, minus t, plus 6, close parenthesis, d t\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>6</mn></mrow><mrow><mi>x</mi></mrow></msubsup><mrow><mo>(</mo><mo>−</mo><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><mi>t</mi><mo>+</mo><mn>6</mn><mo>)</mo></mrow><mo>ⅆ</mo><mi>t</mi></mrow></mrow></mstyle></mrow></mstyle></mrow></math>. On which of the following intervals is <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> increasing?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"open parenthesis, negative infinity comma negative one half, close bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>(</mo><mrow><mo>−</mo><mi>∞</mi></mrow><mo>,</mo><mrow><mo>−</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow><mrow><mo>]</mo></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open bracket, negative 3 comma 2, close bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>[</mo><mrow><mrow><mrow><mo>−</mo><mn>3</mn></mrow></mrow><mo>,</mo><mrow><mn>2</mn></mrow></mrow><mo>]</mo></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open bracket, negative one half comma infinity, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>[</mo></mrow><mrow><mo>−</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow><mo>,</mo><mi>∞</mi><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open parenthesis, negative infinity comma negative 3, close bracket\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle><mrow><mo>(</mo><mrow><mo>−</mo><mi>∞</mi></mrow><mo>,</mo><mrow><mo>−</mo><mn>3</mn></mrow></mrow></mstyle><mo>]</mo></mrow></math> and <math alttext=\"open bracket, 2 comma infinity, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>[</mo></mrow><mrow><mn>2</mn></mrow><mo>,</mo><mrow><mi>∞</mi></mrow><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"open bracket, negative 3 comma 2, close bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>[</mo><mrow><mrow><mrow><mo>−</mo><mn>3</mn></mrow></mrow><mo>,</mo><mrow><mn>2</mn></mrow></mrow><mo>]</mo></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.5",
+    "text": "6.5: Interpreting the Behavior of Accumulation Functions Involving Area"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Identify how mathematical characteristics or properties of functions are related in different representations."
+  }
+}

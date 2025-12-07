@@ -1,0 +1,41 @@
+{
+  "id": "UQ093236",
+  "type": "mcq",
+  "title": "Processes - Local Linear Approximation",
+  "content": {
+    "description": "",
+    "question": "The locally linear approximation of the differentiable function <math alttext=\"f\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> at <math alttext=\"x equals 3\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>3</mn></mrow></mstyle></math> is used to approximate the value of <math alttext=\"f of 3.2\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mn>3.2</mn><mo stretchy=\"false\">)</mo></mrow></mstyle></math>. The approximation at <math alttext=\"x equals 3.2\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>3.2</mn></mrow></mstyle></math> is an overestimate of the corresponding function value at <math alttext=\"x equals 3.2\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>3.2</mn></mrow></mstyle></math>. Which of the following could be the graph of <math alttext=\"f\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The figure presents a graph of a line in the x y coordinate plane, with the origin labeled O. The numbers 1 through 4, in increments of 1, are indicated on x axis. There are no numbers on the y axis. The line begins on the y axis, high above the origin, and moves downward and to the right. It passes through a closed circle at x equals 3, above the x axis, and ends just above the x axis, to the right of x equals 4.",
+        "image": "https://ap.oly.st/images/f58a5b760e8d29b36da41608697d59b7.png"
+      },
+      {
+        "label": "The figure presents a graph of a curve in the x y coordinate plane, with the origin labeled O. The numbers 1 through 4, in increments of 1, are indicated on x axis. There are no numbers on the y axis. The curve begins on the y axis, high above the origin, and moves downward and to the right. It begins to gradually level off, and passes through a closed circle at x equals 3, above the x axis. The curve ends just above the x axis, to the right of x equals 4.",
+        "image": "https://ap.oly.st/images/710f2d4518b0a9ecf4f41c53b76b61b5.png"
+      },
+      {
+        "label": "The figure presents a graph of a curve in the x y coordinate plane, with the origin labeled O. The numbers 1 through 4, in increments of 1, are indicated on x axis. There are no numbers on the y axis. The curve begins on the y axis, just above the origin, and moves upward and to the right. It moves gradually upward at first, passes through a closed circle at x equals 3, above the x axis. The curve begins to move more steeply upward and ends above the x axis, to the right of x equals 4.",
+        "image": "https://ap.oly.st/images/5a99572aa2599fc58dd3dabcb665ee6e.png"
+      },
+      {
+        "label": "The figure presents a graph of a curve in the x y coordinate plane, with the origin labeled O. The numbers 1 through 4, in increments of 1, are indicated on x axis. There are no numbers on the y axis. The curve begins about halfway up the y axis, and moves upward and to the right. It begins to level off high above the x axis, and passes through a closed circle at x equals 3. The curve levels off, then turns downward briefly before it ends above the x axis, to the right of x equals 4.",
+        "image": "https://ap.oly.st/images/1b0a9715751dfab6f9188e77dc330e79.png"
+      }
+    ],
+    "answer": "The figure presents a graph of a curve in the x y coordinate plane, with the origin labeled O. The numbers 1 through 4, in increments of 1, are indicated on x axis. There are no numbers on the y axis. The curve begins about halfway up the y axis, and moves upward and to the right. It begins to level off high above the x axis, and passes through a closed circle at x equals 3. The curve levels off, then turns downward briefly before it ends above the x axis, to the right of x equals 4."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Contextual Applications of Differentiation"
+  },
+  "topic": {
+    "code": "4.6",
+    "text": "4.6: Approximating Values of a Function Using Local Linearity and Linearization"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Explain how an approximated value relates to the actual value."
+  }
+}

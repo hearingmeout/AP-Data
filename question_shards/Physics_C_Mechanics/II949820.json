@@ -1,0 +1,41 @@
+{
+  "id": "II949820",
+  "type": "mcq",
+  "title": "Vectors - vector addition",
+  "content": {
+    "description": "",
+    "question": "In relation to a school, a student’s house is located at a distance <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mi>B</mi></math> away and at an angle <math alttext=\"theta\" display=\"inline\" overflow=\"scroll\"><mi>θ</mi></math> from the <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mi>x</mi></math>-axis in the coordinate system shown in the figure. Starting from the school, the student takes a bus and travels a distance <math alttext=\"A\" display=\"inline\" overflow=\"scroll\"><mi>A</mi></math> in the positive <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mi>x</mi></math>-direction, and then gets off the bus. What is the position vector <math alttext=\"vector r\" display=\"inline\" overflow=\"scroll\"><mover accent=\"true\"><mi>r</mi><mo>→</mo></mover></math> of the student’s house relative to where the student gets off the bus?",
+    "image": "https://ap.oly.st/images/5978cdf0d28c22ac2a27c9762a82eb46.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"vector r equals, open parenthesis, B times the cosine of theta, plus A, close parenthesis, times i hat, plus open parenthesis, B times the sine of theta, close parenthesis, times j hat\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mover accent=\"true\"><mi>r</mi><mo>→</mo></mover><mo>=</mo><mrow><mo>(</mo><mi>B</mi><mo> </mo><mi>cos</mi><mo> </mo><mi>θ</mi><mo>+</mo><mi>A</mi><mo>)</mo></mrow><mover accent=\"true\"><mi>i</mi><mo>^</mo></mover><mo>+</mo><mrow><mo>(</mo><mi>B</mi><mo> </mo><mi>sin</mi><mo> </mo><mi>θ</mi><mo>)</mo></mrow><mover accent=\"true\"><mi>j</mi><mo>^</mo></mover></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"vector r equals, open parenthesis, B times the cosine of theta, minus A, close parenthesis, times i hat, plus open parenthesis, B times the sine of theta, close parenthesis, times j hat\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mover accent=\"true\"><mi>r</mi><mo>→</mo></mover><mo>=</mo><mrow><mo>(</mo><mi>B</mi><mo> </mo><mi>cos</mi><mo> </mo><mi>θ</mi><mo>−</mo><mi>A</mi><mo>)</mo></mrow><mover accent=\"true\"><mi>i</mi><mo>^</mo></mover><mo>+</mo><mrow><mo>(</mo><mi>B</mi><mo> </mo><mi>sin</mi><mo> </mo><mi>θ</mi><mo>)</mo></mrow><mover accent=\"true\"><mi>j</mi><mo>^</mo></mover></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"vector r equals, open parenthesis, B times the sine of theta, plus A, close parenthesis, times i hat, plus open parenthesis, B times the cosine of theta, close parenthesis, times j hat\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mover accent=\"true\"><mi>r</mi><mo>→</mo></mover><mo>=</mo><mrow><mo>(</mo><mi>B</mi><mo> </mo><mi>sin</mi><mo> </mo><mi>θ</mi><mo>+</mo><mi>A</mi><mo>)</mo></mrow><mover accent=\"true\"><mi>i</mi><mo>^</mo></mover><mo>+</mo><mrow><mo>(</mo><mi>B</mi><mo> </mo><mi>cos</mi><mo> </mo><mi>θ</mi><mo>)</mo></mrow><mover accent=\"true\"><mi>j</mi><mo>^</mo></mover></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"vector r equals, open parenthesis, B times the sine of theta, minus A, close parenthesis, times i hat, plus open parenthesis, B times the cosine of theta, close parenthesis, times j hat\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mover accent=\"true\"><mi>r</mi><mo>→</mo></mover><mo>=</mo><mrow><mo>(</mo><mi>B</mi><mo> </mo><mi>sin</mi><mo> </mo><mi>θ</mi><mo>−</mo><mi>A</mi><mo>)</mo></mrow><mover accent=\"true\"><mi>i</mi><mo>^</mo></mover><mo>+</mo><mrow><mo>(</mo><mi>B</mi><mo> </mo><mi>cos</mi><mo> </mo><mi>θ</mi><mo>)</mo></mrow><mover accent=\"true\"><mi>j</mi><mo>^</mo></mover></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"vector r equals, open parenthesis, B times the cosine of theta, minus A, close parenthesis, times i hat, plus open parenthesis, B times the sine of theta, close parenthesis, times j hat\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mover accent=\"true\"><mi>r</mi><mo>→</mo></mover><mo>=</mo><mrow><mo>(</mo><mi>B</mi><mo> </mo><mi>cos</mi><mo> </mo><mi>θ</mi><mo>−</mo><mi>A</mi><mo>)</mo></mrow><mover accent=\"true\"><mi>i</mi><mo>^</mo></mover><mo>+</mo><mrow><mo>(</mo><mi>B</mi><mo> </mo><mi>sin</mi><mo> </mo><mi>θ</mi><mo>)</mo></mrow><mover accent=\"true\"><mi>j</mi><mo>^</mo></mover></mstyle></math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.1",
+    "text": "1.1: Scalars and Vectors"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

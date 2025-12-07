@@ -1,0 +1,41 @@
+{
+  "id": "EJ191766",
+  "type": "mcq",
+  "title": "Restoring force - does the equation result in SHM",
+  "content": {
+    "description": "",
+    "question": "An object of mass <math alttext=\"M\" display=\"inline\" overflow=\"scroll\"><mi>M</mi></math> is free to move along a curved track with negligible friction. The shape of the track results in the following equation that expresses Newton’s second law for the <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mi>x</mi></math>-coordinate of the object’s motion: <math alttext=\"M times the second derivative of x with respect to t squared equals beta times, open parenthesis, x minus x sub 0, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mi>M</mi><mfrac><mrow><msup><mi>d</mi><mn>2</mn></msup><mi>x</mi></mrow><mrow><mi>d</mi><msup><mi>t</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mi>β</mi><mrow><mo>(</mo><mi>x</mi><mo>−</mo><msub><mi>x</mi><mn>0</mn></msub><mo>)</mo></mrow></math>, where <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mi>t</mi></math> is time, <math alttext=\"beta\" display=\"inline\" overflow=\"scroll\"><mi>β</mi></math> is a positive constant with appropriate units, and <math alttext=\"x sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>x</mi><mn>0</mn></msub></math> is a position where the object’s acceleration is zero in the <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mi>x</mi></math>-direction. If the object is released from rest on the track at an initial position other than <math alttext=\"x sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>x</mi><mn>0</mn></msub></math>, will its <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mi>x</mi></math>-coordinate exhibit simple harmonic motion? What reasoning or evidence supports the claim?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Yes. The net force is a linear function of position.",
+        "image": null
+      },
+      {
+        "label": "Yes. There is an equilibrium position where the net force is zero.",
+        "image": null
+      },
+      {
+        "label": "No. The net force is not zero at <math alttext=\"x equals 0\" display=\"inline\" overflow=\"scroll\"><mi>x</mi><mo>=</mo><mn>0</mn></math>.",
+        "image": null
+      },
+      {
+        "label": "No. The net force is not in the opposite direction from the object’s displacement from equilibrium.",
+        "image": null
+      }
+    ],
+    "answer": "No. The net force is not in the opposite direction from the object’s displacement from equilibrium."
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Oscillations"
+  },
+  "topic": {
+    "code": "7.1",
+    "text": "7.1: Defining Simple Harmonic Motion (SHM)"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

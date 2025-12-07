@@ -1,0 +1,48 @@
+{
+  "id": "UR933109",
+  "type": "frq",
+  "title": "Multi-focus - difference in cat plaque 1 dotplot",
+  "content": {
+    "description": "",
+    "question": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations. A manufacturer conducted a study to investigate whether a certain dental treat is effective in reducing the accumulation of plaque on the teeth of cats. The manufacturer randomly selected <math alttext=\"30\" overflow=\"scroll\"><mstyle><mrow><mn>30</mn></mrow></mstyle></math> cats from a cat sanctuary for the study. At the beginning of the study, each of the <math alttext=\"30\" overflow=\"scroll\"><mstyle><mrow><mn>30</mn></mrow></mstyle></math> cats had its teeth scored on a scale from <math alttext=\"0\" overflow=\"scroll\"><mstyle><mrow><mn>0</mn></mrow></mstyle></math> to <math alttext=\"10\" overflow=\"scroll\"><mstyle><mrow><mn>10</mn></mrow></mstyle></math>, with lower values indicating less plaque. The cats were then given the treats on a strict schedule, and after one month each cat had its teeth scored again using the same technique. All other variables were held constant over the one month period. The difference in the scores (before treat minus after treat) was recorded, and the results are shown in the following dotplot. (a) Explain what a positive difference indicates in the context of the study.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations. A manufacturer conducted a study to investigate whether a certain dental treat is effective in reducing the accumulation of plaque on the teeth of cats. The manufacturer randomly selected <math alttext=\"30\" overflow=\"scroll\"><mstyle><mrow><mn>30</mn></mrow></mstyle></math> cats from a cat sanctuary for the study. At the beginning of the study, each of the <math alttext=\"30\" overflow=\"scroll\"><mstyle><mrow><mn>30</mn></mrow></mstyle></math> cats had its teeth scored on a scale from <math alttext=\"0\" overflow=\"scroll\"><mstyle><mrow><mn>0</mn></mrow></mstyle></math> to <math alttext=\"10\" overflow=\"scroll\"><mstyle><mrow><mn>10</mn></mrow></mstyle></math>, with lower values indicating less plaque. The cats were then given the treats on a strict schedule, and after one month each cat had its teeth scored again using the same technique. All other variables were held constant over the one month period. The difference in the scores (before treat minus after treat) was recorded, and the results are shown in the following dotplot. (a) Explain what a positive difference indicates in the context of the study.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Statistics/VR252084.g01.png"
+      },
+      {
+        "text": "(b) Based only on the sample data in the dotplot, should the treat be used to reduce the accumulation of plaque on cat teeth? Explain your reasoning in the context of the study. Do not perform an inferential procedure.",
+        "image": null
+      },
+      {
+        "text": "The owner of the sanctuary will purchase the treat for all of her cats if the manufacturer can provide convincing statistical evidence that it is effective in reducing plaque accumulation on cat teeth in one month or less.(c) State, in words, the hypotheses of the appropriate test the manufacturer should use to investigate whether the sample data provide convincing statistical evidence that the treat is effective in reducing plaque accumulation on cat teeth in one month or less.",
+        "image": null
+      },
+      {
+        "text": "(d) Assuming all conditions for the appropriate test are met, the manufacturer reported a <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value very close to <math alttext=\"0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0</mn></mrow></mstyle></math> for the test. Based on the <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value and <math alttext=\"alpha equals 0.05\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>α</mi><mo>=</mo><mn>0.05</mn></mrow></mstyle></math> would the owner of the sanctuary purchase the treat? Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "Consider a scenario in which <math alttext=\"4\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>4</mn></mrow></mstyle></math> cats are randomly selected one at a time, with replacement, from the sample of <math alttext=\"30\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>30</mn></mrow></mstyle></math> cats. Let the random variable <math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>C</mi></mrow></mstyle></math> represent the number of cats out of the <math alttext=\"4\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>4</mn></mrow></mstyle></math> selected with a positive difference in teeth score.(e) Calculate and interpret the value of <math alttext=\"mu sub C\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>μ</mi></mrow><mrow><mi>C</mi></mrow></msub></mrow></mstyle></math> in the context of the scenario.",
+        "image": null
+      },
+      {
+        "text": "(f) Describe how the scenario could be modified to make <math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>C</mi></mrow></mstyle></math> a geometric random variable.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.2",
+    "text": "1.2: The Language of Variation - Variables"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Identify null and alternative hypotheses."
+  }
+}

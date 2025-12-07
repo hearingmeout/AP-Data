@@ -1,0 +1,45 @@
+{
+  "id": "NN892303",
+  "type": "mcq",
+  "title": "Three outcomes",
+  "content": {
+    "description": "",
+    "question": "A certain type of legal proceeding has three possible outcomes: in favor of party A, in favor of party B, or not in favor of either party. The outcomes are expected to be 40 percent, 20 percent, and 40 percent, respectively. A random sample of 40 cases is selected from a certain judge to investigate whether the judge’s outcomes are consistent with the expected outcomes. A chi-square goodness-of-fit test is conducted, and the value of the chi-square test statistic is <math alttext=\"chi square equals 9.19\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>χ</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>9.19</mn></mrow></mstyle></math> with a corresponding <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>–value of 0.01. Assuming the conditions for inference were met, which of the following is the correct interpretation of the <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>–value?",
+    "image": null,
+    "choices": [
+      {
+        "label": "There is a 1 percent chance that the company’s claim is correct.",
+        "image": null
+      },
+      {
+        "label": "If the null hypothesis is true, there is a 1 percent chance that the company’s claim is correct.",
+        "image": null
+      },
+      {
+        "label": "If the null hypothesis is true, there is a 1 percent chance of obtaining a chi-square value of 9.19.",
+        "image": null
+      },
+      {
+        "label": "If the null hypothesis is true, there is a 1 percent chance of obtaining a chi-square value of at least 9.19.",
+        "image": null
+      },
+      {
+        "label": "There is a 1 percent chance of obtaining a chi-square value of at least 9.19.",
+        "image": null
+      }
+    ],
+    "answer": "If the null hypothesis is true, there is a 1 percent chance of obtaining a chi-square value of at least 9.19."
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Inference for Categorical Data-Chi-Square"
+  },
+  "topic": {
+    "code": "8.3",
+    "text": "8.3: Carrying out a Chi-Square Goodness of Fit Test"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CN315926",
+  "type": "mcq",
+  "title": "Compute p-value for one-sided test",
+  "content": {
+    "description": "",
+    "question": "A test of the hypotheses H0 : µ = 0 versus Ha : µ > 0 was conducted using a sample of size 7. The test statistic was t = 1.935. Which of the following is closest to the p-value of the test?",
+    "image": null,
+    "choices": [
+      {
+        "label": "0.0125",
+        "image": null
+      },
+      {
+        "label": "0.0265",
+        "image": null
+      },
+      {
+        "label": "0.0471",
+        "image": null
+      },
+      {
+        "label": "0.0506",
+        "image": null
+      },
+      {
+        "label": "0.1012",
+        "image": null
+      }
+    ],
+    "answer": "0.0506"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.5",
+    "text": "7.5: Carrying Out a Test for a Population Mean"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Calculate a test statistic and find a p-value, provided conditions for inference are met."
+  }
+}

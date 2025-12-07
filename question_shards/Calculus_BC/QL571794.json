@@ -1,0 +1,41 @@
+{
+  "id": "QL571794",
+  "type": "mcq",
+  "title": "Justification - Alternating Series Test",
+  "content": {
+    "description": "",
+    "question": "Consider the series <math alttext=\"the sum from n equals 0 to infinity, of, open parenthesis, negative 1, close parenthesis, to the n power, times a, sub n\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>n</mi><mo>=</mo><mn>0</mn></mrow><mrow><mi>∞</mi></mrow></munderover><msup><mrow><mo>(</mo><mrow><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mrow><mi>n</mi></mrow></msup><msub><mrow><mi>a</mi></mrow><mrow><mi>n</mi></mrow></msub></mrow></mstyle></mrow></math>, where <math alttext=\"a, sub n, is greater than 0\" display=\"inline\" overflow=\"scroll\"><mrow><msub><mrow><mi>a</mi></mrow><mrow><mi>n</mi></mrow></msub><mo>&gt;</mo><mn>0</mn></mrow></math> for all <math alttext=\"n\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi></mrow></mstyle></math> and <math alttext=\"the limit as n approaches infinity, of, a, sub n, equals 0\" display=\"inline\" overflow=\"scroll\"><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder><msub><mrow><mi>a</mi></mrow><mrow><mi>n</mi></mrow></msub><mo>=</mo><mn>0</mn></mrow></math>. Which of the following statements is true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The series converges conditionally.",
+        "image": null
+      },
+      {
+        "label": "The series converges absolutely.",
+        "image": null
+      },
+      {
+        "label": "The series converges, but there is not enough information to determine if the series converges absolutely.",
+        "image": null
+      },
+      {
+        "label": "There is not enough information to determine if the series converges or diverges.",
+        "image": null
+      }
+    ],
+    "answer": "There is not enough information to determine if the series converges or diverges."
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.7",
+    "text": "10.7: (BC ONLY) Alternating Series Test for Convergence"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Confirm whether hypotheses or conditions of a selected definition, theorem, or test have been satisfied."
+  }
+}

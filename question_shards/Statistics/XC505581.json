@@ -1,0 +1,45 @@
+{
+  "id": "XC505581",
+  "type": "mcq",
+  "title": "Apartment rentals",
+  "content": {
+    "description": "Last year the mean cost <math alttext=\"mu\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>μ</mi></mrow></mstyle></math> for a one-bedroom rental in a certain city was $1,200 per month. Eli is looking for a one-bedroom apartment and is investigating whether the mean cost is less now than what it was last year. A random sample of apartments had a sample mean <math alttext=\"x bar\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mover><mrow><mi>x</mi></mrow><mrow><mo>¯</mo></mrow></mover></mrow></mstyle></math> of $1,180 per month. Assuming all conditions for inference are met, Eli will conduct a hypothesis test as part of his investigation.",
+    "question": "Which of the following is the correct set of hypotheses?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"H sub 0: mu equals 1,200. H sub a: mu is greater than 1,200\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtable><mtr><mtd><msub><mrow><mtext>H</mtext></mrow><mrow><mn>0</mn></mrow></msub><mo>:</mo><mi>μ</mi><mo>=</mo><mn>1</mn><mtext>,200</mtext></mtd></mtr><mtr><mtd><msub><mrow><mtext>H</mtext></mrow><mrow><mtext>a</mtext></mrow></msub><mo>:</mo><mi>μ</mi><mo>&gt;</mo><mn>1</mn><mtext>,200</mtext></mtd></mtr></mtable></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"H sub 0: mu equals 1,200. H sub a: mu is less than 1,200\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtable><mtr><mtd><msub><mrow><mtext>H</mtext></mrow><mrow><mn>0</mn></mrow></msub><mo>:</mo><mi>μ</mi><mo>=</mo><mn>1</mn><mtext>,200</mtext></mtd></mtr><mtr><mtd><msub><mrow><mtext>H</mtext></mrow><mrow><mtext>a</mtext></mrow></msub><mo>:</mo><mi>μ</mi><mo>&lt;</mo><mn>1</mn><mtext>,200</mtext></mtd></mtr></mtable></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"H sub 0: x bar equals 1,200. H sub a: x bar is less than 1,200\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtable><mtr><mtd><msub><mrow><mtext>H</mtext></mrow><mrow><mn>0</mn></mrow></msub><mo>:</mo><mover><mrow><mi>x</mi></mrow><mrow><mo>¯</mo></mrow></mover><mo>=</mo><mn>1</mn><mtext>,200</mtext></mtd></mtr><mtr><mtd><msub><mrow><mtext>H</mtext></mrow><mrow><mtext>a</mtext></mrow></msub><mo>:</mo><mover><mrow><mi>x</mi></mrow><mrow><mo>¯</mo></mrow></mover><mo>&lt;</mo><mn>1</mn><mtext>,200</mtext></mtd></mtr></mtable></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"H sub 0: x bar equals 1,180. H sub a: x bar is not equal to 1,180\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtable><mtr><mtd><msub><mrow><mtext>H</mtext></mrow><mrow><mn>0</mn></mrow></msub><mo>:</mo><mover><mrow><mi>x</mi></mrow><mrow><mo>¯</mo></mrow></mover><mo>=</mo><mn>1</mn><mtext>,180</mtext></mtd></mtr><mtr><mtd><msub><mrow><mtext>H</mtext></mrow><mrow><mtext>a</mtext></mrow></msub><mo>:</mo><mover><mrow><mi>x</mi></mrow><mrow><mo>¯</mo></mrow></mover><mo>≠</mo><mn>1</mn><mtext>,180</mtext></mtd></mtr></mtable></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"H sub 0: x bar equals 1,180. H sub a: x bar is less than 1,180\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtable><mtr><mtd><msub><mrow><mtext>H</mtext></mrow><mrow><mn>0</mn></mrow></msub><mo>:</mo><mover><mrow><mi>x</mi></mrow><mrow><mo>¯</mo></mrow></mover><mo>=</mo><mn>1</mn><mtext>,180</mtext></mtd></mtr><mtr><mtd><msub><mrow><mtext>H</mtext></mrow><mrow><mtext>a</mtext></mrow></msub><mo>:</mo><mover><mrow><mi>x</mi></mrow><mrow><mo>¯</mo></mrow></mover><mo>&lt;</mo><mn>1</mn><mtext>,180</mtext></mtd></mtr></mtable></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"H sub 0: mu equals 1,200. H sub a: mu is less than 1,200\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtable><mtr><mtd><msub><mrow><mtext>H</mtext></mrow><mrow><mn>0</mn></mrow></msub><mo>:</mo><mi>μ</mi><mo>=</mo><mn>1</mn><mtext>,200</mtext></mtd></mtr><mtr><mtd><msub><mrow><mtext>H</mtext></mrow><mrow><mtext>a</mtext></mrow></msub><mo>:</mo><mi>μ</mi><mo>&lt;</mo><mn>1</mn><mtext>,200</mtext></mtd></mtr></mtable></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.4",
+    "text": "7.4: Setting Up a Test for a Population Mean"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Identify null and alternative hypotheses."
+  }
+}

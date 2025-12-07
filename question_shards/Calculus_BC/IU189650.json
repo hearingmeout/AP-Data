@@ -1,0 +1,41 @@
+{
+  "id": "IU189650",
+  "type": "mcq",
+  "title": "Representations - Area between Curves",
+  "content": {
+    "description": "",
+    "question": "The regions bounded by the graphs of <math alttext=\"y equals, the negative of the fraction 2 over pi, end fraction, times x, plus 1 \" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mrow><mo>−</mo><mfrac><mrow><mn>2</mn></mrow><mrow><mi>π</mi></mrow></mfrac></mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mstyle></math> and <math alttext=\"y equals, cosine x \" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mi>cos</mi><mo>⁡</mo><mi>x</mi></mrow></mstyle></math> are shaded in the figure above. Which of the following gives the sum of the areas of the shaded regions?",
+    "image": "https://ap.oly.st/images/87f0f54987a2d210c1aa6128fc372ff9.png",
+    "choices": [
+      {
+        "label": "<math alttext=\"the integral from, 0 to pi, of, open parenthesis, cosine x, minus, open parenthesis, the negative of the fraction 2 over pi, end fraction, times x, plus 1, close parenthesis, close parenthesis, d x\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mi>π</mi></mrow></msubsup><mrow><mo>(</mo><mrow><mi>cos</mi><mo>⁡</mo><mi>x</mi><mo>−</mo><mrow><mo>(</mo><mrow><mo>−</mo><mfrac><mrow><mn>2</mn></mrow><mrow><mi>π</mi></mrow></mfrac></mrow><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow></mrow><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the integral from, 0 to pi, of, open parenthesis, open parenthesis, the negative of the fraction 2 over pi, end fraction, times x, plus 1, close parenthesis, minus cosine x, close parenthesis, d x\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mi>π</mi></mrow></msubsup><mrow><mo>(</mo><mrow><mrow><mo>(</mo><mrow><mo>−</mo><mfrac><mrow><mn>2</mn></mrow><mrow><mi>π</mi></mrow></mfrac></mrow><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mo>−</mo><mi>cos</mi><mo>⁡</mo><mi>x</mi></mrow><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the integral from, 0 to, pi over 2, of, open parenthesis, cosine x, minus, open parenthesis, the negative of the fraction 2 over pi, end fraction, times x, plus 1, close parenthesis, close parenthesis, d x, plus, the integral from, pi over 2, to pi, of, open parenthesis, open parenthesis, the negative of the fraction 2 over pi, end fraction, times x, plus 1, close parenthesis, minus cosine x, close parenthesis, d x\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mfrac><mrow><mi>π</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msubsup><mrow><mo>(</mo><mi>cos</mi><mo>⁡</mo><mi>x</mi><mo>−</mo><mrow><mo>(</mo><mrow><mo>−</mo><mfrac><mrow><mn>2</mn></mrow><mrow><mi>π</mi></mrow></mfrac></mrow><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mrow><mo>⁢</mo></mrow><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle><mo>+</mo><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mfrac><mrow><mi>π</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow><mrow><mi>π</mi></mrow></msubsup><mrow><mo>(</mo><mrow><mo>(</mo><mrow><mo>−</mo><mfrac><mrow><mn>2</mn></mrow><mrow><mi>π</mi></mrow></mfrac></mrow><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mo>−</mo><mi>cos</mi><mo>⁡</mo><mi>x</mi><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the integral from, 0 to, pi over 2, of, open parenthesis, open parenthesis, the negative of the fraction 2 over pi, end fraction, times x, plus 1, close parenthesis, minus cosine x, close parenthesis, d x, plus, the integral from, pi over 2, to pi, of, open parenthesis, cosine x, minus, open parenthesis, the negative of the fraction 2 over pi, end fraction, times x, plus 1, close parenthesis, close parenthesis, d x\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mfrac><mrow><mi>π</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msubsup><mrow><mo>(</mo><mo>(</mo><mrow><mo>−</mo><mfrac><mrow><mn>2</mn></mrow><mrow><mi>π</mi></mrow></mfrac></mrow><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo><mrow><mo>−</mo><mi>cos</mi><mo>⁡</mo><mi>x</mi></mrow><mrow><mo>⁢</mo></mrow><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle><mo>+</mo><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mfrac><mrow><mi>π</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow><mrow><mi>π</mi></mrow></msubsup><mrow><mo>(</mo><mi>cos</mi><mo>⁡</mo><mi>x</mi><mo>−</mo><mrow><mo>(</mo><mrow><mo>−</mo><mfrac><mrow><mn>2</mn></mrow><mrow><mi>π</mi></mrow></mfrac></mrow><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the integral from, 0 to, pi over 2, of, open parenthesis, cosine x, minus, open parenthesis, the negative of the fraction 2 over pi, end fraction, times x, plus 1, close parenthesis, close parenthesis, d x, plus, the integral from, pi over 2, to pi, of, open parenthesis, open parenthesis, the negative of the fraction 2 over pi, end fraction, times x, plus 1, close parenthesis, minus cosine x, close parenthesis, d x\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mfrac><mrow><mi>π</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msubsup><mrow><mo>(</mo><mi>cos</mi><mo>⁡</mo><mi>x</mi><mo>−</mo><mrow><mo>(</mo><mrow><mo>−</mo><mfrac><mrow><mn>2</mn></mrow><mrow><mi>π</mi></mrow></mfrac></mrow><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mrow><mo>⁢</mo></mrow><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle><mo>+</mo><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mfrac><mrow><mi>π</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow><mrow><mi>π</mi></mrow></msubsup><mrow><mo>(</mo><mrow><mo>(</mo><mrow><mo>−</mo><mfrac><mrow><mn>2</mn></mrow><mrow><mi>π</mi></mrow></mfrac></mrow><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mo>−</mo><mi>cos</mi><mo>⁡</mo><mi>x</mi><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Applications of Integration"
+  },
+  "topic": {
+    "code": "8.6",
+    "text": "8.6: Finding the Area Between Curves That Intersect at More Than Two Points"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Identify mathematical information from graphical, numerical, analytical, and/or verbal representations."
+  }
+}

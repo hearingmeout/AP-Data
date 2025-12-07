@@ -1,0 +1,41 @@
+{
+  "id": "JO063699",
+  "type": "mcq",
+  "title": "Representations - Asymptotic Behavior",
+  "content": {
+    "description": "The figure shows the graph of a piecewise function <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> with domain <math alttext=\"open bracket, 0 comma infinity, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mrow><mo>[</mo><mn>0</mn><mo>,</mo><mi>∞</mi><mo>)</mo></mrow></math>. The function <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> has a vertical asymptote at <math alttext=\"x equals 2\" display=\"inline\" overflow=\"scroll\"><mrow><mi>x</mi><mo>=</mo><mn>2</mn></mrow></math> and a horizontal asymptote at <math alttext=\"y equals 1\" display=\"inline\" overflow=\"scroll\"><mrow><mi>y</mi><mo>=</mo><mn>1</mn></mrow></math>. Which of the following statements are true?",
+    "question": "<math alttext=\"the limit as x approaches 2 from the left, of, f of x\" display=\"inline\" overflow=\"scroll\"><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><msup><mrow><mn>2</mn></mrow><mrow><mo>−</mo></mrow></msup></mrow></munder><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></math> exists.<math alttext=\"the limit as x approaches 2, of, f of x\" display=\"inline\" overflow=\"scroll\"><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mn>2</mn></mrow></munder><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></math> exists.<math alttext=\"the limit as x approaches infinity, of, f of x, equals infinity\" display=\"inline\" overflow=\"scroll\"><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mi>∞</mi></mrow></munder><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mi>∞</mi></mrow><mspace depth=\"0.0ex\" height=\"3.0ex\" width=\"0.0em\"></mspace></mrow></math>",
+    "image": "https://ap.oly.st/images/0e21165120ea51f9ec018adfd9b77b81.svg",
+    "choices": [
+      {
+        "label": "I only",
+        "image": null
+      },
+      {
+        "label": "I and II only",
+        "image": null
+      },
+      {
+        "label": "I and III only",
+        "image": null
+      },
+      {
+        "label": "II and III only",
+        "image": null
+      }
+    ],
+    "answer": "I only"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: Connecting Limits at Infinity and Horizontal Asymptotes"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Identify how mathematical characteristics or properties of functions are related in different representations."
+  }
+}

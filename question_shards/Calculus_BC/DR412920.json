@@ -1,0 +1,41 @@
+{
+  "id": "DR412920",
+  "type": "mcq",
+  "title": "Processes - Estimate Derivative",
+  "content": {
+    "description": "",
+    "question": "The graph of a function <math alttext=\"f\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> with <math alttext=\"f of b greater than f of a,\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>b</mi><mo>)</mo></mrow><mo>&gt;</mo><mi>f</mi><mrow><mo>(</mo><mi>a</mi><mo>)</mo></mrow></mrow></mstyle></math> is shown above for <math alttext=\"a, less than or equal to x, less than or equal to b\" overflow=\"scroll\"><mstyle><mrow><mi>a</mi><mo>≤</mo><mi>x</mi><mo>≤</mo><mi>b</mi></mrow></mstyle></math>. The derivative of <math alttext=\"f\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> exists for all <math alttext=\"x\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> in the interval <math alttext=\"a, is less than x, is less than b\" overflow=\"scroll\"><mstyle><mrow><mi>a</mi><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mi>b</mi></mrow></mstyle></math> except <math alttext=\"x equals 0\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>0</mn></mrow></mstyle></math>. For how many values of <math alttext=\"c\" overflow=\"scroll\"><mstyle><mrow><mi>c</mi></mrow></mstyle></math>, for <math alttext=\"a, less than c, less than b\" overflow=\"scroll\"><mstyle><mrow><mi>a</mi><mo>&lt;</mo><mi>c</mi><mo>&lt;</mo><mi>b</mi></mrow></mstyle></math>, does <math alttext=\"the limit as x approaches c, of, the fraction with numerator f of x, minus f of c, and denominator x minus c, end fraction, equals, the fraction with numerator f of b, minus f of a, and denominator b minus a, end fraction\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mi>c</mi></mrow></munder><mfrac><mrow><mi>f</mi><mrow><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow><mo>−</mo><mi>f</mi><mrow><mo stretchy=\"false\">(</mo><mi>c</mi><mo stretchy=\"false\">)</mo></mrow></mrow><mrow><mi>x</mi><mo>−</mo><mi>c</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>f</mi><mrow><mo stretchy=\"false\">(</mo><mi>b</mi><mo stretchy=\"false\">)</mo></mrow><mo>−</mo><mi>f</mi><mrow><mo stretchy=\"false\">(</mo><mi>a</mi><mo stretchy=\"false\">)</mo></mrow></mrow><mrow><mi>b</mi><mo>−</mo><mi>a</mi></mrow></mfrac></mrow></mstyle></math> ?",
+    "image": "https://ap.oly.st/images/dc4878689a91a068ce04595a074ff974.png",
+    "choices": [
+      {
+        "label": "Zero",
+        "image": null
+      },
+      {
+        "label": "Two",
+        "image": null
+      },
+      {
+        "label": "Three",
+        "image": null
+      },
+      {
+        "label": "Four",
+        "image": null
+      }
+    ],
+    "answer": "Four"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: Estimating Derivatives of a Function at a Point"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

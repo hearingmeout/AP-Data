@@ -1,0 +1,41 @@
+{
+  "id": "RJ280681",
+  "type": "mcq",
+  "title": "Representations - Logistic Models with Diff Eq",
+  "content": {
+    "description": "",
+    "question": "Information is spreading through a population. The number of people who have the information at time <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math> hours is modeled by an increasing function <math alttext=\"y of t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow></mstyle></math> that satisfies a logistic differential equation. If the information is spreading most rapidly when <math alttext=\"7,500\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>7</mn><mtext>,500</mtext></mrow></mstyle></math> people have the information, which of the following differential equations could represent this model?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the derivative of y, with respect to t, equals, k times, open parenthesis, 7,500 minus y, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mi>k</mi><mrow><mo>(</mo><mn>7</mn><mtext>,</mtext><mn>500</mn><mo>−</mo><mi>y</mi><mo>)</mo></mrow></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the derivative of y, with respect to t, equals, k times, open parenthesis, 15,000 minus y, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mi>k</mi><mrow><mo>(</mo><mn>15</mn><mtext>,</mtext><mn>000</mn><mo>−</mo><mi>y</mi><mo>)</mo></mrow></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the derivative of y, with respect to t, equals, k y times, open parenthesis, 7,500 minus y, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mi>k</mi><mi>y</mi><mrow><mo>(</mo><mn>7</mn><mtext>,</mtext><mn>500</mn><mo>−</mo><mi>y</mi><mo>)</mo></mrow></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the derivative of y, with respect to t, equals, k y times, open parenthesis, 15,000 minus y, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mi>k</mi><mi>y</mi><mrow><mo>(</mo><mn>15</mn><mtext>,</mtext><mn>000</mn><mo>−</mo><mi>y</mi><mo>)</mo></mrow></mrow></mstyle></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the derivative of y, with respect to t, equals, k y times, open parenthesis, 15,000 minus y, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><mi>d</mi><mi>y</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mi>k</mi><mi>y</mi><mrow><mo>(</mo><mn>15</mn><mtext>,</mtext><mn>000</mn><mo>−</mo><mi>y</mi><mo>)</mo></mrow></mrow></mstyle></mrow></math>"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.9",
+    "text": "7.9: (BC ONLY) Logistic Models with Differential Equations"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

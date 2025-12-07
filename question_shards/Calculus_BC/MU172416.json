@@ -1,0 +1,41 @@
+{
+  "id": "MU172416",
+  "type": "mcq",
+  "title": "Processes - Higher-Order Derivatives",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> be the function given by <math alttext=\"g of x, equals, the sine of, open parenthesis, negative x, close parenthesis, plus cosine x, minus 10\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mi>sin</mi><mo>⁡</mo><mrow><mo>(</mo><mrow><mo>−</mo><mi>x</mi></mrow><mo>)</mo></mrow><mo>+</mo><mi>cos</mi><mo>⁡</mo><mi>x</mi><mo>−</mo><mn>10</mn></mrow></mstyle></math>. Which of the following statements is true for <math alttext=\"y equals, g of x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mi>g</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"y plus 10, equals, the fourth derivative of y, with respect to x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>+</mo><mn>10</mn><mo>=</mo><mfrac><mrow><msup><mrow><mi>d</mi></mrow><mrow><mn>4</mn></mrow></msup><mi>y</mi></mrow><mrow><mi>d</mi><msup><mrow><mi>x</mi></mrow><mrow><mn>4</mn></mrow></msup></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fourth derivative of g of x, equals, open parenthesis, g double prime of x, close parenthesis, squared\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>g</mi></mrow><mrow><mo stretchy=\"false\">(</mo><mn>4</mn><mo stretchy=\"false\">)</mo></mrow></msup><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><msup><mrow><mo>(</mo><msup><mrow><mi>g</mi></mrow><mrow><mo>″</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"g double prime of x, minus 10, equals g of x\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>g</mi></mrow><mrow><mo>″</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo><mo>−</mo><mn>10</mn><mo>=</mo><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"y double prime, equals, the sine of, open parenthesis, negative x, close parenthesis, plus cosine x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>y</mi></mrow><mrow><mo>″</mo></mrow></msup><mo>=</mo><mi>sin</mi><mo>⁡</mo><mrow><mo>(</mo><mrow><mo>−</mo><mi>x</mi></mrow><mo>)</mo></mrow><mo>+</mo><mi>cos</mi><mo>⁡</mo><mi>x</mi></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"y plus 10, equals, the fourth derivative of y, with respect to x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>+</mo><mn>10</mn><mo>=</mo><mfrac><mrow><msup><mrow><mi>d</mi></mrow><mrow><mn>4</mn></mrow></msup><mi>y</mi></mrow><mrow><mi>d</mi><msup><mrow><mi>x</mi></mrow><mrow><mn>4</mn></mrow></msup></mrow></mfrac></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.6",
+    "text": "3.6: Calculating Higher-Order Derivatives"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

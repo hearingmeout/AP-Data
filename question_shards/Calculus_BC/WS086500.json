@@ -1,0 +1,36 @@
+{
+  "id": "WS086500",
+  "type": "frq",
+  "title": "Series from f(x)=e^(x/2)",
+  "content": {
+    "description": "",
+    "question": "Let f be the function given by <math> <semantics> <mrow> <mi>f</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <msup> <mi>e</mi> <mrow> <mfrac> <mi>x</mi> <mn>2</mn> </mfrac> </mrow> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaWGMbGaaiikaiaadIhacaGGPaGaeyypa0Jaamyza8aadaahaaWc beqaa8qadaWcaaWdaeaapeGaamiEaaWdaeaapeGaaGOmaaaaaaaaaa@3D9A@ </annotation> </semantics> </math>. (a) Write the first four nonzero terms and the general term for the Taylor series expansion of f(x) about x = 0 .",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Let f be the function given by <math> <semantics> <mrow> <mi>f</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <msup> <mi>e</mi> <mrow> <mfrac> <mi>x</mi> <mn>2</mn> </mfrac> </mrow> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaWGMbGaaiikaiaadIhacaGGPaGaeyypa0Jaamyza8aadaahaaWc beqaa8qadaWcaaWdaeaapeGaamiEaaWdaeaapeGaaGOmaaaaaaaaaa@3D9A@ </annotation> </semantics> </math>. (a) Write the first four nonzero terms and the general term for the Taylor series expansion of f(x) about x = 0 .",
+        "image": null
+      },
+      {
+        "text": "(b) Use the results from part (a) to write the first three nonzero terms and the general term of the series expansion about x = 0 for <math> <semantics> <mrow> <mi>g</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mfrac> <mrow> <msup> <mi>e</mi> <mrow> <mfrac> <mi>x</mi> <mn>2</mn> </mfrac> </mrow> </msup> <mo>−</mo> <mn>1</mn> </mrow> <mi>x</mi> </mfrac> <mo>.</mo> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaai4zaiaacI cacaWG4bGaaiykaiabg2da9maalaaabaGaamyzamaaCaaaleqabaWa aSaaaeaacaWG4baabaGaaGOmaaaaaaGccqGHsislcaaIXaaabaGaam iEaaaacaGGUaaaaa@408E@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "text": "(c) For the function g in part (b), find g'(2) and use it to show that <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>n</mi> <mo>=</mo> <mn>1</mn> </mrow> <mi>∞</mi> </munderover> <mrow> <mfrac> <mi>n</mi> <mrow> <mn>4</mn> <mrow> <mo>(</mo> <mrow> <mi>n</mi> <mo>+</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> <mo>!</mo> </mrow> </mfrac> </mrow> </mstyle> <mo>=</mo> <mfrac> <mn>1</mn> <mn>4</mn> </mfrac> <mo>.</mo> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaabCaeaada Wcaaqaaiaad6gaaeaacaaI0aWaaeWaaeaacaWGUbGaey4kaSIaaGym aaGaayjkaiaawMcaaiaacgcaaaaaleaacaWGUbGaeyypa0JaaGymaa qaaiabg6HiLcqdcqGHris5aOGaeyypa0ZaaSaaaeaacaaIXaaabaGa aGinaaaacaGGUaaaaa@4627@ </annotation> </semantics> </math>",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.9",
+    "text": "2.9: The Quotient Rule"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

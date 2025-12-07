@@ -1,0 +1,45 @@
+{
+  "id": "AG661935",
+  "type": "mcq",
+  "title": "Interpret interval for mean difference in reading",
+  "content": {
+    "description": "",
+    "question": "Ten students were randomly selected from a high school to take part in a program designed to raise their reading comprehension. Each student took a test before and after completing the program. The mean of the differences between the score after the program and the score before the program is 16. It was decided that all students in the school would take part in this program during the next school year. Let µA denote the mean score after the program and µB denote the mean score before the program for all students in the school. The 95 percent confidence interval estimate of the true mean difference for all students in the school is (9, 23). Which of the following statements is a correct interpretation of this confidence interval?",
+    "image": null,
+    "choices": [
+      {
+        "label": "µA > µB with probability 0.95.",
+        "image": null
+      },
+      {
+        "label": "µA < µB with probability 0.95.",
+        "image": null
+      },
+      {
+        "label": "µA is around 23 and µB is around 9.",
+        "image": null
+      },
+      {
+        "label": "For any µA and µB with ( µA - µB) ≥ 14, the sample result is quite likely.",
+        "image": null
+      },
+      {
+        "label": "For any µA and µB with 9 < ( µA - µB) < 23, the sample result is quite likely.",
+        "image": null
+      }
+    ],
+    "answer": "For any µA and µB with 9 < ( µA - µB) < 23, the sample result is quite likely."
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.3",
+    "text": "7.3: Justifying a Claim About a Population Mean Based on a Confidence Interval"
+  },
+  "skill": {
+    "code": "Skill 4.D",
+    "text": "Skill 4.D: Justify a claim based on a confidence interval."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "NE592346",
+  "type": "mcq",
+  "title": "Processes - Fundamental Theorem of Calculus",
+  "content": {
+    "description": "",
+    "question": "A pump allows water to flow into a tank at the rate of <math alttext=\"r of t, equals 3 t\" overflow=\"scroll\"><mstyle><mrow><mi>r</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>3</mn><mi>t</mi></mrow></mstyle></math> liters per minute, where <math alttext=\"t\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math> is the time in minutes since the pump was turned on. Which of the following defines a function that measures the accumulation of water in the tank during the time period from <math alttext=\"t equals 1\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>1</mn></mrow></mstyle></math> to <math alttext=\"t equals x\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mi>x</mi></mrow></mstyle></math> as the variable <math alttext=\"x\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> moves along the <math alttext=\"t\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-axis as shown in the figure above?",
+    "image": "https://ap.oly.st/images/16b135cbc300ffd5f118ae5f4877909c.png",
+    "choices": [
+      {
+        "label": "<math alttext=\"f of x, equals 3 x\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>3</mn><mi>x</mi></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f of x, equals, 1 plus 3 x\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>1</mn><mo>+</mo><mn>3</mn><mi>x</mi></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f of x, equals, the integral from, 0 to x, of, 3 t, d t\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mrow><msubsup><mo>∫</mo><mrow><mn>0</mn></mrow><mrow><mi>x</mi></mrow></msubsup><mrow><mn>3</mn><mi>t</mi></mrow><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow></mrow></mstyle></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f of x, equals, the integral from, 1 to x, of, 3 t, d t\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>1</mn></mrow><mrow><mi>x</mi></mrow></msubsup><mrow><mn>3</mn><mi>t</mi></mrow><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow></mrow></mstyle></mrow></mstyle></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"f of x, equals, the integral from, 1 to x, of, 3 t, d t\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>1</mn></mrow><mrow><mi>x</mi></mrow></msubsup><mrow><mn>3</mn><mi>t</mi></mrow><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow></mrow></mstyle></mrow></mstyle></mrow></math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.4",
+    "text": "6.4: The Fundamental Theorem of Calculus and Accumulation Functions"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

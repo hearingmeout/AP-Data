@@ -1,0 +1,36 @@
+{
+  "id": "BJ798283",
+  "type": "frq",
+  "title": "Rotnl kinematics - cylinder on accelerating disk",
+  "content": {
+    "description": "",
+    "question": "Show all your work for each part of the question. The parts within the question may not have equal weight. A thin disk of mass <math alttext=\"M\" display=\"inline\" overflow=\"scroll\"><mi>M</mi></math>, radius <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math>, and rotational inertia <math alttext=\"I equals, one half M times R squared\" display=\"inline\" overflow=\"scroll\"><mi>I</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>M</mi><msup><mi>R</mi><mn>2</mn></msup></math> can rotate about a vertical axis through its center, as shown in the figure. A small cylinder, also of mass <math alttext=\"M\" display=\"inline\" overflow=\"scroll\"><mi>M</mi></math>, sits on the disk at a distance <math alttext=\"one half R\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>R</mi></math> from the center. A motor (not shown) can spin the disk about its center. Both objects are initially at rest when the motor is turned on at time <math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn></math>. The angular speed of the cylinder is described by the function <math alttext=\"omega equals, omega sub f, end sub, times, open parenthesis, 1 minus, e raised to the negative of the fraction lowercase t over uppercase T, power, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mi>ω</mi><mo>=</mo><msub><mi>ω</mi><mi>f</mi></msub><mrow><mo>(</mo><mn>1</mn><mo>−</mo><msup><mi>e</mi><mrow><mo>−</mo><mfrac><mi>t</mi><mi>T</mi></mfrac></mrow></msup><mo>)</mo></mrow></math> for <math alttext=\"t greater than or equal to 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>≥</mo><mn>0</mn></math>, where <math alttext=\"omega sub f\" display=\"inline\" overflow=\"scroll\"><msub><mi>ω</mi><mi>f</mi></msub></math> and <math alttext=\"uppercase T\" display=\"inline\" overflow=\"scroll\"><mi>T</mi></math> are positive constants. The cylinder does not slide relative to the surface of the disk as the disk rotates. For the following questions, express all algebraic answers in terms of <math alttext=\"M\" display=\"inline\" overflow=\"scroll\"><mi>M</mi></math>, <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math>, <math alttext=\"omega sub f\" display=\"inline\" overflow=\"scroll\"><msub><mi>ω</mi><mi>f</mi></msub></math>, <math alttext=\"uppercase T\" display=\"inline\" overflow=\"scroll\"><mi>T</mi></math>, and physical constants, as appropriate. (a)i. Derive an expression for the maximum net torque exerted on the cylinder-disk system about the disk’s center.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Show all your work for each part of the question. The parts within the question may not have equal weight. A thin disk of mass <math alttext=\"M\" display=\"inline\" overflow=\"scroll\"><mi>M</mi></math>, radius <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math>, and rotational inertia <math alttext=\"I equals, one half M times R squared\" display=\"inline\" overflow=\"scroll\"><mi>I</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>M</mi><msup><mi>R</mi><mn>2</mn></msup></math> can rotate about a vertical axis through its center, as shown in the figure. A small cylinder, also of mass <math alttext=\"M\" display=\"inline\" overflow=\"scroll\"><mi>M</mi></math>, sits on the disk at a distance <math alttext=\"one half R\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>R</mi></math> from the center. A motor (not shown) can spin the disk about its center. Both objects are initially at rest when the motor is turned on at time <math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn></math>. The angular speed of the cylinder is described by the function <math alttext=\"omega equals, omega sub f, end sub, times, open parenthesis, 1 minus, e raised to the negative of the fraction lowercase t over uppercase T, power, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mi>ω</mi><mo>=</mo><msub><mi>ω</mi><mi>f</mi></msub><mrow><mo>(</mo><mn>1</mn><mo>−</mo><msup><mi>e</mi><mrow><mo>−</mo><mfrac><mi>t</mi><mi>T</mi></mfrac></mrow></msup><mo>)</mo></mrow></math> for <math alttext=\"t greater than or equal to 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>≥</mo><mn>0</mn></math>, where <math alttext=\"omega sub f\" display=\"inline\" overflow=\"scroll\"><msub><mi>ω</mi><mi>f</mi></msub></math> and <math alttext=\"uppercase T\" display=\"inline\" overflow=\"scroll\"><mi>T</mi></math> are positive constants. The cylinder does not slide relative to the surface of the disk as the disk rotates. For the following questions, express all algebraic answers in terms of <math alttext=\"M\" display=\"inline\" overflow=\"scroll\"><mi>M</mi></math>, <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mi>R</mi></math>, <math alttext=\"omega sub f\" display=\"inline\" overflow=\"scroll\"><msub><mi>ω</mi><mi>f</mi></msub></math>, <math alttext=\"uppercase T\" display=\"inline\" overflow=\"scroll\"><mi>T</mi></math>, and physical constants, as appropriate. (a)i. Derive an expression for the maximum net torque exerted on the cylinder-disk system about the disk’s center.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_C_Mechanics/VR866838.g02.svg"
+      },
+      {
+        "text": "ii. Consider the frictional force that acts on the cylinder at time <math alttext=\"lowercase t, equals uppercase T\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mi>T</mi></math>. Indicate whether this force has a tangential component only, a radial component only, or both tangential and radial components. Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "(b) Derive an expression for the magnitude of the linear acceleration of the cylinder at the instant when the angular speed of the disk is <math alttext=\"the fraction with numerator omega sub f, and denominator 3\" display=\"inline\" overflow=\"scroll\"><mfrac><msub><mi>ω</mi><mi>f</mi></msub><mn>3</mn></mfrac></math>.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Force and Translational Dynamics"
+  },
+  "topic": {
+    "code": "2.10",
+    "text": "2.10: Circular Motion"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WH959066",
+  "type": "mcq",
+  "title": "Chi-square conclusion on opinion and category",
+  "content": {
+    "description": "A controversial issue in the sport of professional soccer is the use of instant replay for making difficult goal line decisions. Each person in a representative sample of 102 players, fans, coaches, and officials was asked his or her opinion about the use of instant replay for goal-line decisions. The data are summarized in the two-way frequency table below.",
+    "question": "In testing to see whether opinion with respect to the use of instant replay is independent of the category of the person interviewed, a chi-square test statistic of 27.99 and a p-value less than 0.001 were calculated. Which of the following statements is correct?",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Statistics/eeb007f5d16e4a6688ac888a15002d66.png",
+    "choices": [
+      {
+        "label": "The number of degrees of freedom for the test is 8 - 1 = 7.",
+        "image": null
+      },
+      {
+        "label": "The chi-square test should not have been used because two of the counts in the table are less than 5.",
+        "image": null
+      },
+      {
+        "label": "The null hypothesis states that there is an association between category and opinion about the use of instant replay, and the small p-value suggests that the null hypothesis should be rejected.",
+        "image": null
+      },
+      {
+        "label": "The small p-value suggests that there is evidence of an association between category and opinion about the use of instant replay.",
+        "image": null
+      },
+      {
+        "label": "The chi-square test shows that fans favor the use of instant replay.",
+        "image": null
+      }
+    ],
+    "answer": "The small p-value suggests that there is evidence of an association between category and opinion about the use of instant replay."
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Inference for Categorical Data-Chi-Square"
+  },
+  "topic": {
+    "code": "8.6",
+    "text": "8.6: Carrying Out a Chi-Square Test for Homogeneity or Independence"
+  },
+  "skill": {
+    "code": "Skill 4.E",
+    "text": "Skill 4.E: Justify a claim using a decision based on significance tests."
+  }
+}

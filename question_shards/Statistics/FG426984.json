@@ -1,0 +1,45 @@
+{
+  "id": "FG426984",
+  "type": "mcq",
+  "title": "Femur Length",
+  "content": {
+    "description": "A teacher conducted a regression analysis to investigate the relationship between student height and femur length. Computer output from the linear regression analysis is shown in the table. The analysis was performed on a sample of 24 students.",
+    "question": "Term <math alttext=\"coefficient\" display=\"inline\" overflow=\"scroll\"><mstyle mathvariant=\"bold\"><mrow><mtext>Coef</mtext></mrow></mstyle></math> <math alttext=\"standard error of the coefficient\" display=\"inline\" overflow=\"scroll\"><mstyle mathvariant=\"bold\"><mrow><mtext>SE Coef</mtext></mrow></mstyle></math> Constant 28.34 0.945 Femur length 1.73 0.023 Assume that the conditions for inference for the slope of the regression equation have been met. Which of the following defines the margin of error for a 99.5 percent confidence interval for the slope of the least-squares regression equation?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"3.104 times 0.023\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>3.104</mn><mo>(</mo><mn>0.023</mn><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"3.104 times 1.73\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>3.104</mn><mo>(</mo><mn>1.73</mn><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"3.119 times 0.023\" display=\"inline\" overflow=\"scroll\"><mrow><mn>3.119</mn><mrow><mo>(</mo><mn>0.023</mn><mo>)</mo></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"3.119 times 0.945\" display=\"inline\" overflow=\"scroll\"><mrow><mn>3.119</mn><mrow><mo>(</mo><mn>0.945</mn><mo>)</mo></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"3.119 times 1.73\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>3.119</mn><mo>(</mo><mn>1.73</mn><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"3.119 times 0.023\" display=\"inline\" overflow=\"scroll\"><mrow><mn>3.119</mn><mrow><mo>(</mo><mn>0.023</mn><mo>)</mo></mrow></mrow></math>"
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Inference for Quantitative Data-Slopes"
+  },
+  "topic": {
+    "code": "9.2",
+    "text": "9.2: Confidence Intervals for the Slope of a Regression Model"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Construct a confidence interval, provided conditions for inference are met."
+  }
+}

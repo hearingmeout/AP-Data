@@ -1,0 +1,40 @@
+{
+  "id": "RS370741",
+  "type": "frq",
+  "title": "Table of signs",
+  "content": {
+    "description": "",
+    "question": "The twice-differentiable functions f and g are defined for all real numbers x. Values of f, f', g, and g' for various values of x are given in the table above. (a) Find the x-coordinate of each relative minimum of f on the interval [-2, 3]. Justify your answers.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "The twice-differentiable functions f and g are defined for all real numbers x. Values of f, f', g, and g' for various values of x are given in the table above. (a) Find the x-coordinate of each relative minimum of f on the interval [-2, 3]. Justify your answers.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Calculus_BC/original.png"
+      },
+      {
+        "text": "(b) Explain why there must be a value c, for -1 < c < 1, such that f''(c) = 0.",
+        "image": null
+      },
+      {
+        "text": "(c) The function h is defined by h(x) = ln(f(x)). Find h'(3). Show the computations that lead to your answer.",
+        "image": null
+      },
+      {
+        "text": "(d) Evaluate <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mrow> <mo>−</mo> <mn>2</mn> </mrow> <mn>3</mn> </msubsup> <mrow> <msup> <mi>f</mi> <mo>′</mo> </msup> <mo stretchy=\"false\">(</mo> <mi>g</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo stretchy=\"false\">)</mo> <msup> <mi>g</mi> <mo>′</mo> </msup> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mtext>&nbsp;</mtext> <mi>d</mi> <mi>x</mi> </mrow> </mrow> </mstyle> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaa8qmaeaaceWGMbGbauaacaGGOaGaam4zaiaacIcacaWG4bGaaiykaiaacMcaceWGNbGbauaacaGGOaGaamiEaiaacMcacaqGGaGaamizaiaadIhaaSqaaiabgkHiTiaaikdaaeaacaaIZaaaniabgUIiYdaaaa@45EC@</annotation> </semantics> </math>.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: The Chain Rule"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Identify an appropriate mathematical rule or procedure based on the classification of a given expression (e.g., Use the chain rule to find the derivative of a composite function)."
+  }
+}

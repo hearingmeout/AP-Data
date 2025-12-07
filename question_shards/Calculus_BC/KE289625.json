@@ -1,0 +1,41 @@
+{
+  "id": "KE289625",
+  "type": "mcq",
+  "title": "Processes - Arc Length",
+  "content": {
+    "description": "",
+    "question": "The length of the graph of <math alttext=\"y equals, f of x\" display=\"inline\" overflow=\"scroll\"><mrow><mi>y</mi><mo>=</mo><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></math> from <math alttext=\"x equals 0\" display=\"inline\" overflow=\"scroll\"><mrow><mi>x</mi><mo>=</mo><mn>0</mn></mrow></math> to <math alttext=\"x equals 1\" display=\"inline\" overflow=\"scroll\"><mrow><mi>x</mi><mo>=</mo><mn>1</mn></mrow></math> is given by <math alttext=\"the integral from 0 to 1, of, the square root of, 1 plus e raised to the 2 x power, end root, d x\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>1</mn></mrow></msubsup><mrow><msqrt><mrow><mn>1</mn><mo>+</mo><msup><mrow><mi>e</mi></mrow><mrow><mn>2</mn><mi>x</mi></mrow></msup></mrow></msqrt></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></math>. Of the following, which could be <math alttext=\"f of x\" display=\"inline\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"e raised to the negative x power\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>e</mi></mrow><mrow><mrow><mo>−</mo><mi>x</mi></mrow></mrow></msup></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"e raised to the x power\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>e</mi></mrow><mrow><mi>x</mi></mrow></msup></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"e raised to the negative 2 x power\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>e</mi></mrow><mrow><mrow><mo>−</mo><mn>2</mn><mi>x</mi></mrow></mrow></msup></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"e raised to the 2 x power\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>e</mi></mrow><mrow><mn>2</mn><mi>x</mi></mrow></msup></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"e raised to the x power\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>e</mi></mrow><mrow><mi>x</mi></mrow></msup></mrow></math>"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Applications of Integration"
+  },
+  "topic": {
+    "code": "8.13",
+    "text": "8.13: (BC ONLY) The Arc Length of a Smooth, Planar Curve and Distance Traveled"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

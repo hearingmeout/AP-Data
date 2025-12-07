@@ -1,0 +1,45 @@
+{
+  "id": "EG779357",
+  "type": "mcq",
+  "title": "Inference procedure for talkative and quiet study",
+  "content": {
+    "description": "A study compared the language skills and mental development of two groups of 24-month-old children. One group consisted of children identified as talkative, and the other group consisted of children identified as quiet. The scores for the two groups on a test that measured language skills are shown in the table below.",
+    "question": "Assuming that it is reasonable to regard the groups as simple random samples and that the other conditions for inference are met, what statistical test should be used to determine if there is a significant difference in the average test score of talkative and quiet children at the age of 24 months?",
+    "image": "https://ap.oly.st/images/9d00b8d2746bbd4a88f8a82e3ba1c3f5.png",
+    "choices": [
+      {
+        "label": "A chi-square goodness-of-fit test",
+        "image": null
+      },
+      {
+        "label": "A chi-square test of independence",
+        "image": null
+      },
+      {
+        "label": "A matched-pairs t-test for means",
+        "image": null
+      },
+      {
+        "label": "A two-sample t-test for means",
+        "image": null
+      },
+      {
+        "label": "A linear regression t-test",
+        "image": null
+      }
+    ],
+    "answer": "A two-sample t-test for means"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.8",
+    "text": "7.8: Setting Up a Test for the Difference of Two Population Means"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Identify an appropriate inference method for significance tests."
+  }
+}

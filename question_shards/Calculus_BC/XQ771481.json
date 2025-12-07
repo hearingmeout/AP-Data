@@ -1,0 +1,41 @@
+{
+  "id": "XQ771481",
+  "type": "mcq",
+  "title": "Representations - Limits at Infinity",
+  "content": {
+    "description": "Let <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be the function defined by <math alttext=\"f of x, equals, the fraction with numerator 2 x, plus 3, and denominator x plus 1, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfrac></mrow></mstyle></math>. Which of the following statements are true?",
+    "question": "The graph of <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> has a horizontal asymptote at <math alttext=\"y equals 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mn>2</mn></mrow></mstyle></math> because <math alttext=\"the limit as x approaches infinity, of, f of x, equals 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mi>∞</mi></mrow></munder><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn></mrow></mstyle></math>.The graph of <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> has a horizontal asymptote at <math alttext=\"y equals 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mn>2</mn></mrow></mstyle></math> because <math alttext=\"the limit as x approaches, negative infinity, of, f of x, equals 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mrow><mo>−</mo><mi>∞</mi></mrow></mrow></munder><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn></mrow></mstyle></mrow></mstyle></math>.The graph of <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> has a vertical asymptote at <math alttext=\"x equals, negative 1 \" display=\"inline\" overflow=\"scroll\"><mrow><mi>x</mi><mo>=</mo><mrow><mo>−</mo><mn>1</mn></mrow></mrow></math> because <math alttext=\"the limit as x approaches, negative 1 from the right, of, f of x, equals infinity\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mrow><mrow><mo>−</mo><msup><mrow><mn>1</mn></mrow><mrow><mo>+</mo></mrow></msup></mrow></mrow></mrow></munder><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>∞</mi></mrow></mstyle></mrow></mstyle></math>.",
+    "image": null,
+    "choices": [
+      {
+        "label": "I only",
+        "image": null
+      },
+      {
+        "label": "III only",
+        "image": null
+      },
+      {
+        "label": "I and II only",
+        "image": null
+      },
+      {
+        "label": "I, II, and III",
+        "image": null
+      }
+    ],
+    "answer": "I, II, and III"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: Connecting Limits at Infinity and Horizontal Asymptotes"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Identify how mathematical characteristics or properties of functions are related in different representations."
+  }
+}

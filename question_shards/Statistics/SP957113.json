@@ -1,0 +1,45 @@
+{
+  "id": "SP957113",
+  "type": "mcq",
+  "title": "Four TV shows",
+  "content": {
+    "description": "",
+    "question": "A researcher is investigating the claim that the proportion of television viewers who identify one of four shows as their favorite is the same for all four shows. A <math alttext=\"chi square\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>χ</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle></math> goodness-of-fit test at a significance level of <math alttext=\"alpha equals 0.05\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>α</mi><mo>=</mo><mn>0.05</mn></mrow></mstyle></math> produced the test statistic <math alttext=\"chi square equals 8.95\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>χ</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>8.95</mn></mrow></mstyle></math> with a corresponding <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value of 0.03. Which of the following is correct?",
+    "image": null,
+    "choices": [
+      {
+        "label": "There is sufficient evidence to reject the null hypothesis at the 0.05 level since the test statistic is greater than the <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value.",
+        "image": null
+      },
+      {
+        "label": "There is not sufficient evidence to reject the null hypothesis at the 0.05 level since the test statistic is greater than the <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value.",
+        "image": null
+      },
+      {
+        "label": "There is sufficient evidence to reject the null hypothesis at the 0.05 level since the <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value is less than the significance level.",
+        "image": null
+      },
+      {
+        "label": "There is not sufficient evidence to reject the null hypothesis at the 0.05 level since the <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value is less than the significance level.",
+        "image": null
+      },
+      {
+        "label": "There is sufficient evidence to reject the null hypothesis at the 0.05 level since the test statistic is greater than the significance level.",
+        "image": null
+      }
+    ],
+    "answer": "There is sufficient evidence to reject the null hypothesis at the 0.05 level since the <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value is less than the significance level."
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Inference for Categorical Data-Chi-Square"
+  },
+  "topic": {
+    "code": "8.3",
+    "text": "8.3: Carrying out a Chi-Square Goodness of Fit Test"
+  },
+  "skill": {
+    "code": "Skill 4.E",
+    "text": "Skill 4.E: Justify a claim using a decision based on significance tests."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MZ124502",
+  "type": "mcq",
+  "title": "Explain error in test of school make up options",
+  "content": {
+    "description": "Dan selected a random sample of 100 students from the 1,200 at his school to investigate preferences for making up school days lost due to emergency closings. The results are shown in the table below.",
+    "question": "Dan incorrectly performed a large sample test of the difference in two proportions using 58/100 and 42/100 and calculated a p-value of 0.02. Consequently, he concluded that there was a significant difference in preference for the two options. Which of the following best describes his error in the analysis of these data?",
+    "image": "https://ap.oly.st/images/fa59a7be7868ec8f878a4478714d0673.jpg",
+    "choices": [
+      {
+        "label": "No statistical test was necessary because 0.58 is clearly larger than 0.42.",
+        "image": null
+      },
+      {
+        "label": "The results of the test were invalid because less than 10% of the population was sampled.",
+        "image": null
+      },
+      {
+        "label": "Dan performed a two-tailed test and should have performed a one-tailed test.",
+        "image": null
+      },
+      {
+        "label": "A one-sample test for a proportion should have been performed because only one sample was used.",
+        "image": null
+      },
+      {
+        "label": "More options should have been included, and a chi-square test should have been performed.",
+        "image": null
+      }
+    ],
+    "answer": "A one-sample test for a proportion should have been performed because only one sample was used."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.4",
+    "text": "6.4: Setting Up a Test for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Identify an appropriate inference method for significance tests."
+  }
+}

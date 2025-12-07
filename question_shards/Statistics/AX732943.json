@@ -1,0 +1,45 @@
+{
+  "id": "AX732943",
+  "type": "mcq",
+  "title": "Science Success",
+  "content": {
+    "description": "A biomedical scientist from a major research university suggested that students should always ask for help when it is needed. A science teacher decided to investigate whether some students are more likely to ask for help than others. The teacher randomly selected <math alttext=\"200\" overflow=\"scroll\"><mstyle><mrow><mn>200</mn></mrow></mstyle></math> students from a Biology <math alttext=\"2\" overflow=\"scroll\"><mstyle><mrow><mtext>II</mtext></mrow></mstyle></math> course and gave them directions for a short lab procedure that were purposefully unclear. For each student, the teacher recorded whether the student asked for clarification and the grade the student earned, A, B, or C, in the preceding Biology <math alttext=\"1\" overflow=\"scroll\"><mstyle><mrow><mtext>I</mtext></mrow></mstyle></math> course. Results are listed in the following table.",
+    "question": "Asked for Clarification Did Not Ask for Clarification Total Earned an <math alttext=\"A\" overflow=\"scroll\"><mstyle><mrow><mtext>A</mtext></mrow></mstyle></math> in Biology I <math alttext=\"20\" overflow=\"scroll\"><mstyle><mrow><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.4em\"></mspace><mn>20</mn></mrow></mstyle></math> <math alttext=\"6\" overflow=\"scroll\"><mstyle><mrow><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.4em\"></mspace><mn>6</mn></mrow></mstyle></math> <math alttext=\"26\" overflow=\"scroll\"><mstyle><mrow><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.4em\"></mspace><mn>26</mn></mrow></mstyle></math> Earned a <math alttext=\"B\" overflow=\"scroll\"><mstyle><mrow><mtext>B</mtext></mrow></mstyle></math> in Biology I <math alttext=\"71\" overflow=\"scroll\"><mstyle><mrow><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.4em\"></mspace><mn>71</mn></mrow></mstyle></math> <math alttext=\"31\" overflow=\"scroll\"><mstyle><mrow><mn>31</mn></mrow></mstyle></math> <math alttext=\"102\" overflow=\"scroll\"><mstyle><mrow><mn>102</mn></mrow></mstyle></math> Earned a <math alttext=\"C\" overflow=\"scroll\"><mstyle><mrow><mtext>C</mtext></mrow></mstyle></math> in Biology I <math alttext=\"37\" overflow=\"scroll\"><mstyle><mrow><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.4em\"></mspace><mn>37</mn></mrow></mstyle></math> <math alttext=\"35\" overflow=\"scroll\"><mstyle><mrow><mn>35</mn></mrow></mstyle></math> <math alttext=\"72\" overflow=\"scroll\"><mstyle><mrow><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.4em\"></mspace><mn>72</mn></mrow></mstyle></math> Total <math alttext=\"128\" overflow=\"scroll\"><mstyle><mrow><mn>128</mn></mrow></mstyle></math> <math alttext=\"72\" overflow=\"scroll\"><mstyle><mrow><mn>72</mn></mrow></mstyle></math> <math alttext=\"200\" overflow=\"scroll\"><mstyle><mrow><mn>200</mn></mrow></mstyle></math> The value of the test statistic for the appropriate chi-square test is approximately <math alttext=\"8.25\" overflow=\"scroll\"><mstyle><mrow><mn>8.25</mn></mrow></mstyle></math>. Assume the conditions for inference were met. Do the sample data provide convincing statistical evidence of an association between grade in the preceding Biology <math alttext=\"1\" overflow=\"scroll\"><mtext>I</mtext></math> course and whether a student asks for clarification at the <math alttext=\"5\" overflow=\"scroll\"><mn>5</mn></math> percent level of significance?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Yes, because the <math alttext=\"p\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value is greater than <math alttext=\"0.05\" overflow=\"scroll\"><mstyle><mrow><mn>0.05</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "Yes, because the <math alttext=\"p\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value is less than <math alttext=\"0.05\" overflow=\"scroll\"><mstyle><mrow><mn>0.05</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "No, because the <math alttext=\"p\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value is greater than <math alttext=\"0.05\" overflow=\"scroll\"><mstyle><mrow><mn>0.05</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "No, because the <math alttext=\"p\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value is less than <math alttext=\"0.05\" overflow=\"scroll\"><mrow><mn>0.05</mn></mrow></math>.",
+        "image": null
+      },
+      {
+        "label": "No, because the test statistic is greater than <math alttext=\"0.05\" overflow=\"scroll\"><mstyle><mrow><mn>0.05</mn></mrow></mstyle></math>.",
+        "image": null
+      }
+    ],
+    "answer": "Yes, because the <math alttext=\"p\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value is less than <math alttext=\"0.05\" overflow=\"scroll\"><mstyle><mrow><mn>0.05</mn></mrow></mstyle></math>."
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Inference for Categorical Data-Chi-Square"
+  },
+  "topic": {
+    "code": "8.6",
+    "text": "8.6: Carrying Out a Chi-Square Test for Homogeneity or Independence"
+  },
+  "skill": {
+    "code": "Skill 4.E",
+    "text": "Skill 4.E: Justify a claim using a decision based on significance tests."
+  }
+}

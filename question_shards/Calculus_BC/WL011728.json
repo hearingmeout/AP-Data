@@ -1,0 +1,40 @@
+{
+  "id": "WL011728",
+  "type": "frq",
+  "title": "Analysis from g'(x)",
+  "content": {
+    "description": "",
+    "question": "Suppose that the function f has a continuous second derivative for all x, and that f(0) = 2, f'(0) = -3,and f''(0) = 0. Let g be a function whose derivative is given by g'(x) = e-2x(3f(x) + 2f'(x)) for all x. (a) Write an equation of the line tangent to the graph of f at the point where x = 0.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Suppose that the function f has a continuous second derivative for all x, and that f(0) = 2, f'(0) = -3,and f''(0) = 0. Let g be a function whose derivative is given by g'(x) = e-2x(3f(x) + 2f'(x)) for all x. (a) Write an equation of the line tangent to the graph of f at the point where x = 0.",
+        "image": null
+      },
+      {
+        "text": "(b) Is there sufficient information to determine whether or not the graph of f has a point of inflection when x = 0? Explain your answer.",
+        "image": null
+      },
+      {
+        "text": "(c) Given that g(0) = 4, write an equation of the line tangent to the graph of g at the point where x = 0.",
+        "image": null
+      },
+      {
+        "text": "(d) Show that g''(x) = e-2x(-6f(x) - f'(x) + 2f''(x)). Does g have a local maximum at x = 0? Justify your answer.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Defining the Derivative of a Function and Using Derivative Notation"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

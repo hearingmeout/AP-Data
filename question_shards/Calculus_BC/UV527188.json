@@ -1,0 +1,41 @@
+{
+  "id": "UV527188",
+  "type": "mcq",
+  "title": "Processes - Riemann Sums",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be the function given by <math alttext=\"f of x, equals, the sine squared of, open parenthesis, x over 4, close parenthesis, times, e raised to the negative x squared power \" display=\"inline\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mi>sin</mi><mo>⁡</mo></mrow><mrow><mn>2</mn></mrow></msup><mrow><mo>(</mo><mfrac><mrow><mi>x</mi></mrow><mrow><mn>4</mn></mrow></mfrac><mo>)</mo></mrow><msup><mrow><mi>e</mi></mrow><mrow><msup><mrow><mo>−</mo><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></msup></mrow></math>. It is known that <math alttext=\"the integral from, 0 to pi over 2, of, f of x, d x, equals 0.0223 \" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mfrac><mrow><mi>π</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msubsup><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></mstyle><mo>=</mo><mn>0.0223</mn></mrow></math>. If a midpoint Riemann sum with two intervals of equal length is used to approximate <math alttext=\"the integral from, 0 to pi over 2, of, f of x, d x \" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mfrac><mrow><mi>π</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msubsup><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></mstyle></mrow></math>, what is the absolute difference between the approximation and <math alttext=\"the integral from, 0 to pi over 2, of, f of x, d x \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mfrac><mrow><mi>π</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msubsup><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></mstyle></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "0.0007",
+        "image": null
+      },
+      {
+        "label": "0.0013",
+        "image": null
+      },
+      {
+        "label": "0.0100",
+        "image": null
+      },
+      {
+        "label": "0.0107",
+        "image": null
+      }
+    ],
+    "answer": "0.0007"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.2",
+    "text": "6.2: Approximating Areas with Riemann Sums"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Explain how an approximated value relates to the actual value."
+  }
+}

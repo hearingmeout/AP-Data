@@ -1,0 +1,45 @@
+{
+  "id": "BT460681",
+  "type": "mcq",
+  "title": "Euler's method approximation from tabular values",
+  "content": {
+    "description": "",
+    "question": "The table above gives selected values for the derivative of a function g on the interval <math> <semantics> <mrow> <mo>−</mo><mn>1</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>2</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacqGHsislcaaIXaGaeyizImQaamiEaiabgsMiJkaaikdaaaa@3CDF@</annotation> </semantics> </math>. If g(-1) = -2 and Euler’s method with a step-size of 1.5 is used to approximate g(2), what is the resulting approximation?",
+    "image": "https://ap.oly.st/images/fce87b387f4a1781fac635bf5311d80e.png",
+    "choices": [
+      {
+        "label": "–6.5",
+        "image": null
+      },
+      {
+        "label": "–1.5",
+        "image": null
+      },
+      {
+        "label": "1.5",
+        "image": null
+      },
+      {
+        "label": "2.5",
+        "image": null
+      },
+      {
+        "label": "3",
+        "image": null
+      }
+    ],
+    "answer": "2.5"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.5",
+    "text": "7.5: (BC ONLY) Approximating Solutions Using Euler's Method"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

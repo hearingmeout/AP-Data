@@ -1,0 +1,41 @@
+{
+  "id": "NW979921",
+  "type": "mcq",
+  "title": "Integration with inverse trig function",
+  "content": {
+    "description": "",
+    "question": "<math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mrow> <mi>ln</mi> <mn>2</mn> </mrow> </msubsup> <mtext> </mtext> </mrow> </mstyle> <mfrac> <mrow> <msup> <mi>e</mi> <mi>x</mi> </msup> </mrow> <mrow> <mn>1</mn> <mo>+</mo> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <msup> <mi>e</mi> <mi>x</mi> </msup> <mo>−</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mn>2</mn> </msup> </mrow> </mfrac> <mtext> </mtext> <mi>d</mi> <mi>x</mi> <mo>=</mo> </mrow> </math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "arctan(ln 2)",
+        "image": null
+      },
+      {
+        "label": "ln 2",
+        "image": null
+      },
+      {
+        "label": "π/4",
+        "image": null
+      },
+      {
+        "label": "π/2",
+        "image": null
+      }
+    ],
+    "answer": "π/4"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.9",
+    "text": "6.9: Integrating Using Substitution"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

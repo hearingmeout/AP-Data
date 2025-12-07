@@ -1,0 +1,45 @@
+{
+  "id": "SQ650652",
+  "type": "mcq",
+  "title": "Predicted weight of fish",
+  "content": {
+    "description": "",
+    "question": "For a specific species of fish in a pond, a wildlife biologist wants to build a regression equation to predict the weight of a fish based on its length. The biologist collects a random sample of this species of fish and finds that the lengths vary from 0.75 to 1.35 inches. The biologist uses the data from the sample to create a single linear regression model. Would it be appropriate to use this model to predict the weight of a fish of this species that is 3 inches long?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Yes, because 3 inches falls above the maximum value of lengths in the sample.",
+        "image": null
+      },
+      {
+        "label": "Yes, because the regression equation is based on a random sample.",
+        "image": null
+      },
+      {
+        "label": "Yes, because the association between length and weight is positive.",
+        "image": null
+      },
+      {
+        "label": "No, because 3 inches falls above the maximum value of lengths in the sample.",
+        "image": null
+      },
+      {
+        "label": "No, because there may not be any 3-inch fish of this species in the pond.",
+        "image": null
+      }
+    ],
+    "answer": "No, because 3 inches falls above the maximum value of lengths in the sample."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Linear Regression Models"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}

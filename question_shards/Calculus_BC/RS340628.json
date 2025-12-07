@@ -1,0 +1,36 @@
+{
+  "id": "RS340628",
+  "type": "frq",
+  "title": "Wind chill",
+  "content": {
+    "description": "",
+    "question": "The wind chill is the temperature, in degrees Fahrenheit (°F), a human feels based on the air temperature, in degrees Fahrenheit, and the wind velocity v, in miles per hour (mph). If the air temperature is 32°F, then the wind chill is given by W(v) = 55.6 - 22.1v0.16 and is valid for 5 ≤ v ≤ 60. (a) Find W'(20). Using correct units, explain the meaning of W'(20) in terms of the wind chill.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "The wind chill is the temperature, in degrees Fahrenheit (°F), a human feels based on the air temperature, in degrees Fahrenheit, and the wind velocity v, in miles per hour (mph). If the air temperature is 32°F, then the wind chill is given by W(v) = 55.6 - 22.1v0.16 and is valid for 5 ≤ v ≤ 60. (a) Find W'(20). Using correct units, explain the meaning of W'(20) in terms of the wind chill.",
+        "image": null
+      },
+      {
+        "text": "(b) Find the average rate of change of W over the interval 5 ≤ v ≤ 60. Find the value of v at which the instantaneous rate of change of W is equal to the average rate of change of W over the interval 5 ≤ v ≤ 60.",
+        "image": null
+      },
+      {
+        "text": "(c) Over the time interval 0 ≤ t ≤ 4 hours, the air temperature is a constant 32°F. At time t = 0, the wind velocity is v = 20 mph. If the wind velocity increases at a constant rate of 5 mph per hour, what is the rate of change of the wind chill with respect to time at t = 3 hours? Indicate units of measure.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Defining Average and Instantaneous Rates of Change at a Point"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

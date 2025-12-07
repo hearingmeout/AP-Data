@@ -1,0 +1,45 @@
+{
+  "id": "FZ859789",
+  "type": "mcq",
+  "title": "Climate change",
+  "content": {
+    "description": "A random sample of 1,175 people in a certain country were asked whether they thought climate change was a problem. The sample proportion of those who think climate change is a problem was calculated, and a 95 percent confidence interval was constructed as <math alttext=\"0.146 comma 0.214\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>(</mo><mn>0.146</mn><mo>,</mo><mo>⁢</mo><mn>0.214</mn><mo>)</mo></mrow></mstyle></math>.",
+    "question": "Which of the following is a correct interpretation of the interval?",
+    "image": null,
+    "choices": [
+      {
+        "label": "We are 95 percent confident that any sample of 1,175 people will produce a sample proportion between 0.146 and 0.214.",
+        "image": null
+      },
+      {
+        "label": "We are 95 percent confident that the proportion of all people in the country who think climate change is a problem is between 0.146 and 0.214.",
+        "image": null
+      },
+      {
+        "label": "We are 95 percent confident that the proportion of people in the sample who think climate change is a problem is between 0.146 and 0.214.",
+        "image": null
+      },
+      {
+        "label": "The probability that 95 percent of all people in the country who think climate change is a problem is between 0.146 and 0.214.",
+        "image": null
+      },
+      {
+        "label": "The probability is 0.95 that the proportion of all people in the country who think climate change is a problem is between 0.146 and 0.214.",
+        "image": null
+      }
+    ],
+    "answer": "We are 95 percent confident that the proportion of all people in the country who think climate change is a problem is between 0.146 and 0.214."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.3",
+    "text": "6.3: Justifying a Claim Based on a Confidence Interval for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

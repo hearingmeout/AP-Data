@@ -1,0 +1,45 @@
+{
+  "id": "BA666461",
+  "type": "mcq",
+  "title": "Derivative of a function defined as a integral",
+  "content": {
+    "description": "",
+    "question": "Let <math> <mrow> <mi>f</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mo>=</mo><mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </msubsup> <mrow> <mi>sin</mi><mi>t</mi><mtext> </mtext><mtext> </mtext><mi>d</mi><mi>t</mi></mrow> </mrow> </mstyle></mrow> </math>. At how many points in the closed interval <math> <mrow> <mrow> <mo>[</mo> <mrow> <mn>0</mn> <mo>,</mo> <msqrt> <mi>π</mi> </msqrt> </mrow> <mo>]</mo> </mrow> </mrow> </math> does the instantaneous rate of change of f equal the average rate of change of f on that interval?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Zero",
+        "image": null
+      },
+      {
+        "label": "One",
+        "image": null
+      },
+      {
+        "label": "Two",
+        "image": null
+      },
+      {
+        "label": "Three",
+        "image": null
+      },
+      {
+        "label": "Four",
+        "image": null
+      }
+    ],
+    "answer": "Two"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: The Chain Rule"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

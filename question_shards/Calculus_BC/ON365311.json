@@ -1,0 +1,41 @@
+{
+  "id": "ON365311",
+  "type": "mcq",
+  "title": "Justification - Accumulation Functions",
+  "content": {
+    "description": "",
+    "question": "A traffic engineer developed the continuous function <math alttext=\"R\" overflow=\"scroll\"><mstyle><mrow><mi>R</mi></mrow></mstyle></math>, graphed above, to model the rate at which vehicles pass a certain intersection over an <math alttext=\"8\" overflow=\"scroll\"><mstyle><mrow><mn>8</mn></mrow></mstyle></math>-hour time period, where <math alttext=\"R of t\" overflow=\"scroll\"><mstyle><mrow><mi>R</mi><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mstyle></math> is measured in vehicles per hour and <math alttext=\"t\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math> is the number of hours after 6:00 AM. According to the model, how many vehicles pass the intersection between time <math alttext=\"t equals 0\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>0</mn></mrow></mstyle></math> and time <math alttext=\"t equals 8\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>8</mn></mrow></mstyle></math> ?",
+    "image": "https://ap.oly.st/images/b7ecf71425c3b5496a06e55ac40d53a4.png",
+    "choices": [
+      {
+        "label": "1400",
+        "image": null
+      },
+      {
+        "label": "1600",
+        "image": null
+      },
+      {
+        "label": "14,400",
+        "image": null
+      },
+      {
+        "label": "44,800",
+        "image": null
+      }
+    ],
+    "answer": "14,400"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Applications of Integration"
+  },
+  "topic": {
+    "code": "8.3",
+    "text": "8.3: Using Accumulation Functions and Definite Integrals in Applied Contexts"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

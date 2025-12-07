@@ -1,0 +1,41 @@
+{
+  "id": "PC174646",
+  "type": "mcq",
+  "title": "Justification - Polar - Area-Single Curve",
+  "content": {
+    "description": "<math alttext=\"The figure presents a 2 row table, with 5 columns of data. The heading for row 1 is “theta,” and the heading for row 2 is “r.” The data in the table are as follows. Column 1. theta is 0. r is 1. Column 2. theta is one fourth. r is 4. Column 3. theta is one half. r is 3. Column 4. theta is three fourths. r is 5. Column 5. theta is 1. r is 2.\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mtable columnlines=\"solid\" columnspacing=\"0.0em\" columnwidth=\"3em 0.05em 3em 3em 3em 3em 3em\" equalrows=\"true\" frame=\"solid\" framespacing=\"0.0em 0.5ex\" rowlines=\"solid\" rowspacing=\"1ex\" width=\"auto\"><mtr><mtd><mi>θ</mi></mtd><mtd><mspace depth=\"2.0ex\" height=\"3.5ex\" width=\"0.0em\"></mspace></mtd><mtd><mn>0</mn></mtd><mtd><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac></mtd><mtd><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mtd><mtd><mfrac><mrow><mn>3</mn></mrow><mrow><mn>4</mn></mrow></mfrac></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mi>r</mi></mtd><mtd><mspace depth=\"1.0ex\" height=\"2.25ex\" width=\"0.0em\"></mspace></mtd><mtd><mn>1</mn></mtd><mtd><mn>4</mn></mtd><mtd><mn>3</mn></mtd><mtd><mn>5</mn></mtd><mtd><mn>2</mn></mtd></mtr></mtable></mrow></mstyle></mrow></mstyle></math>",
+    "question": "Let <math alttext=\"uppercase R\" overflow=\"scroll\"><mstyle><mrow><mi>R</mi></mrow></mstyle></math> be the region bounded by the graph of the polar curve <math alttext=\"r equals, f of theta\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>r</mi><mo>=</mo><mi>f</mi><mo stretchy=\"false\">(</mo><mi>θ</mi><mo stretchy=\"false\">)</mo></mrow></mrow></mstyle></math> and the lines <math alttext=\"theta equals 0\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>θ</mi><mo>=</mo><mn>0</mn></mrow></mrow></mstyle></math> and <math alttext=\"theta equals 1\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>θ</mi><mo>=</mo><mn>1</mn></mrow></mrow></mstyle></math>, as shaded in the figure above. The table above gives values of the polar function <math alttext=\"r equals, f of theta\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>r</mi><mo>=</mo><mi>f</mi><mo stretchy=\"false\">(</mo><mi>θ</mi><mo stretchy=\"false\">)</mo></mrow></mrow></mstyle></math> at selected values of <math alttext=\"theta\" overflow=\"scroll\"><mstyle><mrow><mi>θ</mi></mrow></mstyle></math>. What is the approximation for the area of region <math alttext=\"uppercase R\" overflow=\"scroll\"><mstyle><mrow><mi>R</mi></mrow></mstyle></math> using a right Riemann sum with the four subintervals indicated by the data in the table?",
+    "image": "https://ap.oly.st/images/76d869df907c0ca53fea8c751507e766.png",
+    "choices": [
+      {
+        "label": "<math alttext=\"one fourth times, open parenthesis, 1 plus 4, plus 3, plus 5, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac><mo stretchy=\"false\">(</mo><mn>1</mn><mo>+</mo><mn>4</mn><mo>+</mo><mn>3</mn><mo>+</mo><mn>5</mn><mo stretchy=\"false\">)</mo></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one fourth times, open parenthesis, 4 plus 3, plus 5, plus 2, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac><mo stretchy=\"false\">(</mo><mn>4</mn><mo>+</mo><mn>3</mn><mo>+</mo><mn>5</mn><mo>+</mo><mn>2</mn><mo stretchy=\"false\">)</mo></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one eighth times, open parenthesis, 1 plus 16, plus 9, plus 25, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>8</mn></mrow></mfrac><mo stretchy=\"false\">(</mo><mn>1</mn><mo>+</mo><mn>16</mn><mo>+</mo><mn>9</mn><mo>+</mo><mn>25</mn><mo stretchy=\"false\">)</mo></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one eighth times, open parenthesis, 16 plus 9, plus 25, plus 4, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mtable><mtr><mtd><mfrac><mrow><mn>1</mn></mrow><mrow><mn>8</mn></mrow></mfrac><mo stretchy=\"false\">(</mo><mn>16</mn><mo>+</mo><mn>9</mn><mo>+</mo><mn>25</mn><mo>+</mo><mn>4</mn><mo stretchy=\"false\">)</mo></mtd></mtr></mtable></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"one eighth times, open parenthesis, 16 plus 9, plus 25, plus 4, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mtable><mtr><mtd><mfrac><mrow><mn>1</mn></mrow><mrow><mn>8</mn></mrow></mfrac><mo stretchy=\"false\">(</mo><mn>16</mn><mo>+</mo><mn>9</mn><mo>+</mo><mn>25</mn><mo>+</mo><mn>4</mn><mo stretchy=\"false\">)</mo></mtd></mtr></mtable></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Parametric Equations, Polar Coordinates, and Vector-Valued Functions"
+  },
+  "topic": {
+    "code": "9.9",
+    "text": "9.9: (BC ONLY) Finding the Area of the Region Bounded by Two Polar Curves"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

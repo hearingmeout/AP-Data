@@ -1,0 +1,45 @@
+{
+  "id": "HY037323",
+  "type": "mcq",
+  "title": "Manual Transmissions",
+  "content": {
+    "description": "A study reported that <math alttext=\"14\" display=\"inline\" overflow=\"scroll\"><mn>14</mn></math> percent of cars registered in <math alttext=\"2015\" display=\"inline\" overflow=\"scroll\"><mn>2015</mn></math> had a manual transmission. An automotive researcher collected data on cars registered in <math alttext=\"2021\" display=\"inline\" overflow=\"scroll\"><mn>2021</mn></math> to investigate whether the proportion of registered cars with a manual transmission is less than <math alttext=\"0.14\" display=\"inline\" overflow=\"scroll\"><mtext>0.14</mtext></math>. The researcher took a random sample of <math alttext=\"150\" display=\"inline\" overflow=\"scroll\"><mn>150</mn></math> cars registered in <math alttext=\"2021\" display=\"inline\" overflow=\"scroll\"><mn>2021</mn></math> and found <math alttext=\"18\" display=\"inline\" overflow=\"scroll\"><mn>18</mn></math> of the cars had a manual transmission.",
+    "question": "After ensuring the conditions for inference were met, the researcher conducted an appropriate hypothesis test and calculated a <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mi>p</mi></math>-value of <math alttext=\"0.24\" display=\"inline\" overflow=\"scroll\"><mn>0.24</mn></math>. At the <math alttext=\"5\" display=\"inline\" overflow=\"scroll\"><mn>5</mn></math> percent level of significance, which of the following conclusions should be made?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The null hypothesis should be rejected. There is significant evidence that the population proportion of registered cars with a manual transmission in <math alttext=\"2021\" display=\"inline\" overflow=\"scroll\"><mn>2021</mn></math> is less than <math alttext=\"0.14\" display=\"inline\" overflow=\"scroll\"><mn>0.14</mn></math>.",
+        "image": null
+      },
+      {
+        "label": "The null hypothesis should be rejected. There is not significant evidence that the population proportion of registered cars with a manual transmission in <math alttext=\"2021\" display=\"inline\" overflow=\"scroll\"><mn>2021</mn></math> is less than <math alttext=\"0.14\" display=\"inline\" overflow=\"scroll\"><mn>0.14</mn></math>.",
+        "image": null
+      },
+      {
+        "label": "The null hypothesis should not be rejected. There is significant evidence that the population proportion of registered cars with a manual transmission in <math alttext=\"2021\" display=\"inline\" overflow=\"scroll\"><mn>2021</mn></math> is not less than <math alttext=\"0.14\" display=\"inline\" overflow=\"scroll\"><mn>0.14</mn></math>.",
+        "image": null
+      },
+      {
+        "label": "The null hypothesis should not be rejected. There is significant evidence that the population proportion of registered cars with a manual transmission in <math alttext=\"2021\" display=\"inline\" overflow=\"scroll\"><mn>2021</mn></math> is equal to <math alttext=\"0.14\" display=\"inline\" overflow=\"scroll\"><mn>0.14</mn></math>.",
+        "image": null
+      },
+      {
+        "label": "The null hypothesis should not be rejected. There is not significant evidence that the population proportion of registered cars with a manual transmission in <math alttext=\"2021\" display=\"inline\" overflow=\"scroll\"><mn>2021</mn></math> is less than <math alttext=\"0.14\" display=\"inline\" overflow=\"scroll\"><mn>0.14</mn></math>.",
+        "image": null
+      }
+    ],
+    "answer": "The null hypothesis should not be rejected. There is not significant evidence that the population proportion of registered cars with a manual transmission in <math alttext=\"2021\" display=\"inline\" overflow=\"scroll\"><mn>2021</mn></math> is less than <math alttext=\"0.14\" display=\"inline\" overflow=\"scroll\"><mn>0.14</mn></math>."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.6",
+    "text": "6.6: Concluding a Test for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 4.E",
+    "text": "Skill 4.E: Justify a claim using a decision based on significance tests."
+  }
+}

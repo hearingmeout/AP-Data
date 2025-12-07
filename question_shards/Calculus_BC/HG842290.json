@@ -1,0 +1,41 @@
+{
+  "id": "HG842290",
+  "type": "mcq",
+  "title": "Justification - Common Series",
+  "content": {
+    "description": "",
+    "question": "Which of the following is the harmonic series?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the sum, from n equals 1, to 20, of, the fraction 1 over n\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mrow><munderover><mo>∑</mo><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mn>20</mn></mrow></munderover><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the sum, from n equals 1, to infinity, of, the fraction 1 over 2 n, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn><mi>n</mi></mrow></mfrac></mrow></mrow></mrow></mstyle></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the sum, from n equals 1, to infinity, of, the fraction 1 over n\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mrow></mrow></mstyle></mrow></mstyle></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the sum, from n equals 1, to infinity, of, the fraction with numerator, open parenthesis, negative 1, close parenthesis, raised to the n plus 1, power, and denominator n\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><mfrac><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msup></mrow></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mrow></mrow></mstyle></mrow></mstyle></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the sum, from n equals 1, to infinity, of, the fraction 1 over n\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mrow></mrow></mstyle></mrow></mstyle></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.5",
+    "text": "10.5: (BC ONLY) Harmonic Series and p-Series"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Identify an appropriate mathematical definition, theorem, or test to apply."
+  }
+}

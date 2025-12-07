@@ -1,0 +1,41 @@
+{
+  "id": "DK471641",
+  "type": "mcq",
+  "title": "Justification - Intermediate Value Theorem",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be a function such that <math alttext=\"f of 3, is less than 4, which is less than, f of 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow><mo>&lt;</mo><mn>4</mn><mo>&lt;</mo><mi>f</mi><mrow><mo>(</mo><mn>5</mn><mo>)</mo></mrow></mrow></mstyle></math>. Which of the following statements provides sufficient additional information to conclude that there is a value <math alttext=\"x equals c \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mi>c</mi></mrow></mstyle></math> in the interval <math alttext=\"open bracket, 3 comma 5, close bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>[</mo><mn>3</mn><mo>,</mo><mn>5</mn><mo>]</mo></mrow></mstyle></math> such that <math alttext=\"f of c, equals 4 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>c</mi><mo>)</mo></mrow><mo>=</mo><mn>4</mn></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is defined for all <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is increasing for all <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is continuous for all <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "There is a value <math alttext=\"x equals c \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mi>c</mi></mrow></mstyle></math> in the interval <math alttext=\"open bracket, 3 comma 5, close bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>[</mo><mn>3</mn><mo>,</mo><mn>5</mn><mo>]</mo></mrow></mstyle></math> such that <math alttext=\"the limit as x approaches c, of, f of x, equals 4\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mi>c</mi></mrow></munder><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>4</mn></mrow></mstyle></math>.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is continuous for all <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math>."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.16",
+    "text": "1.16: Working with the Intermediate Value Theorem (IVT)"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Provide reasons or rationales for solutions and conclusions."
+  }
+}

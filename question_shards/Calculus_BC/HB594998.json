@@ -1,0 +1,41 @@
+{
+  "id": "HB594998",
+  "type": "mcq",
+  "title": "Processes - L Hospitals Rule",
+  "content": {
+    "description": "",
+    "question": "<math alttext=\"the limit as x approaches 0 of, the fraction with numerator, the integral from 0 to x, of, the cosine of open parenthesis, 2 t, close parenthesis, d t, and denominator 5 x, end fraction\" display=\"inline\" overflow=\"scroll\"><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mn>0</mn></mrow></munder><mstyle><mrow><mfrac><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mi>x</mi></mrow></msubsup><mrow><mi>cos</mi><mrow><mo>(</mo><mn>2</mn><mi>t</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow></mstyle></mrow><mrow><mn>5</mn><mi>x</mi></mrow></mfrac></mrow></mstyle></mrow></math> is",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one fifth\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>5</mn></mrow></mfrac></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"two fifths\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle><mrow><mfrac><mrow><mn>2</mn></mrow><mrow><mn>5</mn></mrow></mfrac></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "nonexistent",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"one fifth\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>5</mn></mrow></mfrac></mrow></mstyle></mrow></math>"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Contextual Applications of Differentiation"
+  },
+  "topic": {
+    "code": "4.7",
+    "text": "4.7: Using L'Hospital's Rule for Determining Limits of Indeterminate Forms"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

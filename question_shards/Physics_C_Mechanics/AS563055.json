@@ -1,0 +1,41 @@
+{
+  "id": "AS563055",
+  "type": "mcq",
+  "title": "Rotational inertia - narrow cone hanging from tip",
+  "content": {
+    "description": "",
+    "question": "A narrow cone of height <math alttext=\"h sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>h</mi><mn>0</mn></msub></math> hangs vertically from a pivot point located at the cone’s tip, as shown in the figure. The cone can be modeled as a thin rod with a linear mass density <math alttext=\"lambda equals beta y squared\" display=\"inline\" overflow=\"scroll\"><mi>λ</mi><mo>=</mo><mi>β</mi><msup><mi>y</mi><mn>2</mn></msup></math>, where <math alttext=\"beta\" display=\"inline\" overflow=\"scroll\"><mi>β</mi></math> is a constant with appropriate units, <math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mi>y</mi></math> is the distance from the pivot along the cone’s central axis, and <math alttext=\"y equals 0\" display=\"inline\" overflow=\"scroll\"><mi>y</mi><mo>=</mo><mn>0</mn></math> at the pivot. What is the rotational inertia of the cone about the pivot?",
+    "image": "https://ap.oly.st/images/6328f520a07e1eb3a88152a27bd968b7.svg",
+    "choices": [
+      {
+        "label": "<math alttext=\"one third beta h sub 0, end sub, squared\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>β</mi><msup><msub><mi>h</mi><mn>0</mn></msub><mn>2</mn></msup></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one third beta h sub 0, end sub, cubed\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>β</mi><msup><msub><mi>h</mi><mn>0</mn></msub><mn>3</mn></msup></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one fourth beta h sub 0, end sub, raised to the 4 power\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>1</mn><mn>4</mn></mfrac><mi>β</mi><msup><msub><mi>h</mi><mn>0</mn></msub><mn>4</mn></msup></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one fifth beta h sub 0, end sub, raised to the 5 power\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>1</mn><mn>5</mn></mfrac><mi>β</mi><msup><msub><mi>h</mi><mn>0</mn></msub><mn>5</mn></msup></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"one fifth beta h sub 0, end sub, raised to the 5 power\" display=\"inline\" overflow=\"scroll\"><mfrac><mn>1</mn><mn>5</mn></mfrac><mi>β</mi><msup><msub><mi>h</mi><mn>0</mn></msub><mn>5</mn></msup></math>"
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.4",
+    "text": "5.4: Rotational Inertia"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

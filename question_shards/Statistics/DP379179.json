@@ -1,0 +1,45 @@
+{
+  "id": "DP379179",
+  "type": "mcq",
+  "title": "Ambulance time",
+  "content": {
+    "description": "A certain ambulance service wants its average time to transport a patient to the hospital to be 10 minutes. A random sample of 12 transports yielded a 95 percent confidence interval of <math alttext=\"11.8 plus or minus 1.6\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>11.8</mn><mo>±</mo><mn>1.6</mn></mrow></mstyle></math> minutes.",
+    "question": "Is the claim that the ambulance service takes an average of 10 minutes to transport a patient to the hospital plausible based on the interval?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The claim is not plausible because 10 falls within the interval.",
+        "image": null
+      },
+      {
+        "label": "The claim is not plausible because 10 falls outside of the interval.",
+        "image": null
+      },
+      {
+        "label": "The claim is plausible because 10 falls within the interval.",
+        "image": null
+      },
+      {
+        "label": "The claim is plausible because 10 falls outside of the interval.",
+        "image": null
+      },
+      {
+        "label": "The claim is plausible because 10 falls within 0.95 units of the interval.",
+        "image": null
+      }
+    ],
+    "answer": "The claim is not plausible because 10 falls outside of the interval."
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.3",
+    "text": "7.3: Justifying a Claim About a Population Mean Based on a Confidence Interval"
+  },
+  "skill": {
+    "code": "Skill 4.D",
+    "text": "Skill 4.D: Justify a claim based on a confidence interval."
+  }
+}

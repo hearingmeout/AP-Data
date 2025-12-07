@@ -1,0 +1,45 @@
+{
+  "id": "BC926783",
+  "type": "mcq",
+  "title": "Penalty kicks in soccer",
+  "content": {
+    "description": "A penalty kick in soccer involves two players from different teams, the shooter and the goalie. During the penalty kick the shooter will try to score a goal by kicking a soccer ball to the left or right of the goal area. To prevent the shooter from scoring a goal, the goalie will move to the left or right of the goal area. The following table summarizes the directions taken by the shooter and the goalie for 372 penalty kicks.",
+    "question": "Shooter Kick Left Kick Right Total Goalie Move Left 80 132 212 Move Right 85 75 160 Total 165 207 372 Which of the following indicates an association between the shooter's choice of direction and the goalie’s choice of direction?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The marginal relative frequencies for the shooter and the goalie are equal.",
+        "image": null
+      },
+      {
+        "label": "The marginal relative frequencies for the shooter and the goalie are not equal.",
+        "image": null
+      },
+      {
+        "label": "The row totals are not equal.",
+        "image": null
+      },
+      {
+        "label": "For the goalie, the relative frequency of a direction is equal to the relative frequency conditioned on the shooter’s direction.",
+        "image": null
+      },
+      {
+        "label": "For the goalie, the relative frequency of a direction is not equal to the relative frequency conditioned on the shooter’s direction.",
+        "image": null
+      }
+    ],
+    "answer": "For the goalie, the relative frequency of a direction is not equal to the relative frequency conditioned on the shooter’s direction."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: Statistics for Two Categorical Variables"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Compare distributions or relative positions of points within a distribution."
+  }
+}

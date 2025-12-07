@@ -1,0 +1,28 @@
+{
+  "id": "NB114601",
+  "type": "frq",
+  "title": "Investigative task - house and pool price model",
+  "content": {
+    "description": "",
+    "question": "Directions: Show all your work. Indicate clearly the methods you use, because you will be graded on the correctness of your methods as well as on the accuracy of your results and explanation. A real estate agent is interested in developing a model to estimate the prices of houses in a particular part of a large city. She takes a random sample of 25 recent sales and, for each house, records the price (in thousands of dollars), the size of the house (in square feet), and whether or not the house has a swimming pool. This information, along with regression output for a linear model using size to predict price, is shown below and on the next page. a. Interpret the slope of the least squares regression line in the context of the study. b. The second house in the table has a residual of 49. Interpret this residual value in the context of the study. The real estate agent is interested in investigating the effect of having a swimming pool on the price of a house. c. Use the residuals from all 25 houses to estimate how much greater the price for a house with a swimming pool would be, on average, than the price for a house of the same size without a swimming pool. To further investigate the effect of having a swimming pool on the price of a house, the real estate agent creates two regression models, one for houses with a swimming pool and one for houses without a swimming pool. Regression output for these two models is shown below. d. The conditions for inference have been checked and verified, and a 95 percent confidence interval for the true difference in the two slopes is (−0.099, 0.110) . Based on this interval, is there a significant difference in the two slopes? Explain your answer. e. Use the regression model for houses with a swimming pool and the regression model for houses without a swimming pool to estimate how much greater the price for a house with a swimming pool would be than the price for a house of the same size without a swimming pool. How does this estimate compare with your result from part (c) ?",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Directions: Show all your work. Indicate clearly the methods you use, because you will be graded on the correctness of your methods as well as on the accuracy of your results and explanation. A real estate agent is interested in developing a model to estimate the prices of houses in a particular part of a large city. She takes a random sample of 25 recent sales and, for each house, records the price (in thousands of dollars), the size of the house (in square feet), and whether or not the house has a swimming pool. This information, along with regression output for a linear model using size to predict price, is shown below and on the next page. a. Interpret the slope of the least squares regression line in the context of the study. b. The second house in the table has a residual of 49. Interpret this residual value in the context of the study. The real estate agent is interested in investigating the effect of having a swimming pool on the price of a house. c. Use the residuals from all 25 houses to estimate how much greater the price for a house with a swimming pool would be, on average, than the price for a house of the same size without a swimming pool. To further investigate the effect of having a swimming pool on the price of a house, the real estate agent creates two regression models, one for houses with a swimming pool and one for houses without a swimming pool. Regression output for these two models is shown below. d. The conditions for inference have been checked and verified, and a 95 percent confidence interval for the true difference in the two slopes is (−0.099, 0.110) . Based on this interval, is there a significant difference in the two slopes? Explain your answer. e. Use the regression model for houses with a swimming pool and the regression model for houses without a swimming pool to estimate how much greater the price for a house with a swimming pool would be than the price for a house of the same size without a swimming pool. How does this estimate compare with your result from part (c) ?",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Statistics/original.png"
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.7",
+    "text": "1.7: Summary Statistics for a Quantitative Variable"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Construct numerical or graphical representations of distributions."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "JJ066035",
+  "type": "mcq",
+  "title": "Representations - Limits - Multi Representations",
+  "content": {
+    "description": "<math alttext=\"f of x, equals, the negative of x squared, plus 3 x, plus 3, for x less than 2; f of x, equals 6, for x equals 2; f of x, equals, 6 minus, one half x, for x greater than 2.\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mo>{</mo><mtable columnalign=\"center\" width=\"auto\"><mtr><mtd><mo>−</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>3</mn></mtd><mtd><mrow><mtext>for</mtext><mspace></mspace><mspace width=\"0.45em\"></mspace><mi>x</mi><mo>&lt;</mo><mn>2</mn></mrow></mtd></mtr><mtr><mtd><mn>6</mn></mtd><mtd><mrow><mtext>for</mtext><mspace></mspace><mspace width=\"0.45em\"></mspace><mi>x</mi><mo>=</mo><mn>2</mn></mrow></mtd></mtr><mtr><mtd><mn>6</mn><mo>−</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>x</mi></mtd><mtd><mrow><mtext>for</mtext><mspace></mspace><mspace width=\"0.45em\"></mspace><mi>x</mi><mo>&gt;</mo><mn>2</mn></mrow></mtd></mtr></mtable></mrow></mstyle></math>",
+    "question": "Let <math alttext=\"f\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be the piecewise function defined above. Also shown is a portion of the graph of <math alttext=\"f\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math>. What is the value of <math alttext=\"the limit as x approaches 2, of, f of, open parenthesis, f of x, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mn>2</mn></mrow></munder><mi>f</mi><mrow><mo>(</mo><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow><mo>)</mo></mrow></mrow></mstyle></math> ?",
+    "image": "https://ap.oly.st/images/37cd46e2318096a52a50b04b352509a3.png",
+    "choices": [
+      {
+        "label": "<math alttext=\"negative 15\" overflow=\"scroll\"><mstyle><mrow><mo>−</mo><mn>15</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"negative 7\" overflow=\"scroll\"><mstyle><mrow><mo>−</mo><mn>7</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "3",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"seven halves\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>7</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"seven halves\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>7</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Connecting Multiple Representations of Limits"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

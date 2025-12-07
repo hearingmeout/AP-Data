@@ -1,0 +1,41 @@
+{
+  "id": "KV167258",
+  "type": "mcq",
+  "title": "Representations - Functions-Increasing-Decreasing",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be the function defined by <math alttext=\"f of x, equals, x times the natural log of x \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>x</mi><mi>ln</mi><mo>⁡</mo><mi>x</mi></mrow></mstyle></math> for <math alttext=\"x is greater than 0 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>&gt;</mo><mn>0</mn></mrow></mstyle></math>. On what open interval is <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> decreasing?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"0 is less than x, which is less than 1 over e \" display=\"inline\" overflow=\"scroll\"><mrow><mn>0</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mi>e</mi></mrow></mfrac></mrow></math> only",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"0 is less than x, which is less than 1\" display=\"inline\" overflow=\"scroll\"><mrow><mn>0</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>1</mn></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"x is greater than 1 over e\" display=\"inline\" overflow=\"scroll\"><mrow><mi>x</mi><mo>&gt;</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mi>e</mi></mrow></mfrac></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "There is no such interval.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"0 is less than x, which is less than 1 over e \" display=\"inline\" overflow=\"scroll\"><mrow><mn>0</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mi>e</mi></mrow></mfrac></mrow></math> only"
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.3",
+    "text": "5.3: Determining Intervals on Which a Function Is Increasing or Decreasing"
+  },
+  "skill": {
+    "code": "Skill 2.E",
+    "text": "Skill 2.E: Describe the relationships among different representations of functions and their derivatives."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "GD788135",
+  "type": "frq",
+  "title": "Water in pond",
+  "content": {
+    "description": "",
+    "question": "The temperature, in degrees Celsius (<math> <semantics> <mo>°</mo> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaeyiSaalaaa@37E0@</annotation> </semantics> </math>C), of the water in a pond is a differentiable function W of time t. The table above shows the water temperature as recorded every 3 days over a 15-day period. (a) Use data from the table to find an approximation for W'(12). Show the computations that lead to your answer. Indicate units of measure.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "The temperature, in degrees Celsius (<math> <semantics> <mo>°</mo> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaeyiSaalaaa@37E0@</annotation> </semantics> </math>C), of the water in a pond is a differentiable function W of time t. The table above shows the water temperature as recorded every 3 days over a 15-day period. (a) Use data from the table to find an approximation for W'(12). Show the computations that lead to your answer. Indicate units of measure.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Calculus_BC/original.jpg"
+      },
+      {
+        "text": "(b) Approximate the average temperature, in degrees Celsius, of the water over the time interval <math> <semantics> <mrow> <mn>0</mn> <mo>≤</mo> <mi>t</mi> <mo>≤</mo> <mn>15</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaaIWaGaeyizImQaamiDaiabgsMiJkaaigdacaaI1aaaaa@3CAB@</annotation> </semantics> </math> days by using a trapezoidal approximation with subintervals of length <math> <semantics> <mrow> <mtext>Δ</mtext> <mi>t</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacqqHuoarcaWG0baaaa@3873@</annotation> </semantics> </math> = 3 days.",
+        "image": null
+      },
+      {
+        "text": "(c) A student proposes the function P, given by P(t) = 20 +10te(-t/3), as a model for the temperature of the water in the pond at time t, where t is measured in days and P(t) is measured in degrees Celsius. Find P'(12). Using appropriate units, explain the meaning of your answer in terms of water temperature.",
+        "image": null
+      },
+      {
+        "text": "(d) Use the function P defined in part (c) to find the average value, in degrees Celsius, of P(t) over the time interval <math> <semantics> <mrow> <mn>0</mn> <mo>≤</mo> <mi>t</mi> <mo>≤</mo> <mn>15</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaaIWaGaeyizImQaamiDaiabgsMiJkaaigdacaaI1aaaaa@3CAB@</annotation> </semantics> </math> days.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: Estimating Derivatives of a Function at a Point"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

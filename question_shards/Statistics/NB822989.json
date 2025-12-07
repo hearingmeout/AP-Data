@@ -1,0 +1,45 @@
+{
+  "id": "NB822989",
+  "type": "mcq",
+  "title": "Puppy litters",
+  "content": {
+    "description": "For a certain dog breed, the number of puppies in a litter typically varies from 2 to 6. The following table shows the probability distribution of the random variable <math alttext=\"N\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>N</mi></mrow></mstyle></math>, where <math alttext=\"N\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>N</mi></mrow></mstyle></math> represents the number of puppies in a litter. Also shown are the squared deviations, or distances, from the expected value of 4.5 for the distribution.",
+    "question": "Number of puppies 2 3 4 5 6 Squared deviation 6.25 2.25 0.25 0.25 2.25 Probability 0.05 0.15 0.25 0.35 0.20 What is the variance of the distribution?",
+    "image": null,
+    "choices": [
+      {
+        "label": "1.12",
+        "image": null
+      },
+      {
+        "label": "1.25",
+        "image": null
+      },
+      {
+        "label": "1.41",
+        "image": null
+      },
+      {
+        "label": "1.58",
+        "image": null
+      },
+      {
+        "label": "2.25",
+        "image": null
+      }
+    ],
+    "answer": "1.25"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: Mean and Standard Deviation of Random Variables"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Determine parameters for probability distributions."
+  }
+}

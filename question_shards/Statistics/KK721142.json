@@ -1,0 +1,45 @@
+{
+  "id": "KK721142",
+  "type": "mcq",
+  "title": "Inference procedure for blood pressure proportion",
+  "content": {
+    "description": "",
+    "question": "A national health study reported that the proportion of students with elevated blood pressure is 0.15. The principal of a local high school believes that the proportion of students in the school with elevated blood pressure is greater than 0.15. If a large random sample is used, which of the following is the most appropriate test to investigate the principal’s belief?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A z-test for a proportion",
+        "image": null
+      },
+      {
+        "label": "A z-test for a difference between two proportions",
+        "image": null
+      },
+      {
+        "label": "A chi-square test for homogeneity of proportions",
+        "image": null
+      },
+      {
+        "label": "A t-test for a mean",
+        "image": null
+      },
+      {
+        "label": "A matched-pairs t-test",
+        "image": null
+      }
+    ],
+    "answer": "A z-test for a proportion"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.4",
+    "text": "6.4: Setting Up a Test for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Identify an appropriate inference method for significance tests."
+  }
+}

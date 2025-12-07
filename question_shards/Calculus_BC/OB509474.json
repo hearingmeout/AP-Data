@@ -1,0 +1,41 @@
+{
+  "id": "OB509474",
+  "type": "mcq",
+  "title": "Justification - Modeling with Diff Equations",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"P of t \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>P</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow></mstyle></math> represent the amount of a certain drug, in milligrams, that is in the bloodstream at time <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math> hours. The rate at which the drug leaves the bloodstream is proportional to the amount of the drug in the bloodstream. The amount of the drug in the bloodstream can be modeled by <math alttext=\"the derivative of P, with respect to t, equals, k P\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>d</mi><mi>P</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mi>k</mi><mi>P</mi></mrow></mstyle></math>, where <math alttext=\"k\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>k</mi></mrow></mstyle></math> is a constant and <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math> is time, in hours. At time <math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>0</mn></mrow></mstyle></math>, 500 milligrams of the drug was administered. At the moment when the amount of the drug in the bloodstream is 50 milligrams, the amount is decreasing at a rate of 11.5 milligrams per hour. Which of the following is an expression for <math alttext=\"P of t \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>P</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"P of t, equals, 500 minus 0.23 t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>P</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>500</mn><mo>−</mo><mn>0.23</mn><mi>t</mi></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"P of t, equals, 500 minus the fraction 0.23, over 2, end fraction, times t squared\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>P</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>500</mn><mo>−</mo><mfrac><mrow><mn>0.23</mn></mrow><mrow><mn>2</mn></mrow></mfrac><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"P of t, equals, 500 times e raised to the negative 0.23 t power\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>P</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>500</mn><msup><mrow><mi>e</mi></mrow><mrow><mrow><mo>−</mo><mn>0.23</mn><mi>t</mi></mrow></mrow></msup></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"P of t, equals, e raised to the negative 0.23 t power, plus 499\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>P</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mi>e</mi></mrow><mrow><mo>−</mo><mn>0.23</mn><mi>t</mi></mrow></msup><mo>+</mo><mn>499</mn></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"P of t, equals, 500 times e raised to the negative 0.23 t power\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>P</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>500</mn><msup><mrow><mi>e</mi></mrow><mrow><mrow><mo>−</mo><mn>0.23</mn><mi>t</mi></mrow></mrow></msup></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.8",
+    "text": "7.8: Exponential Models with Differential Equations"
+  },
+  "skill": {
+    "code": "Skill 3.G",
+    "text": "Skill 3.G: Confirm that solutions are accurate and appropriate."
+  }
+}

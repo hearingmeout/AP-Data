@@ -1,0 +1,41 @@
+{
+  "id": "ZE448080",
+  "type": "mcq",
+  "title": "Justification - Second Derivative Test",
+  "content": {
+    "description": "Let <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be a twice-differentiable function. Which of the following statements are individually sufficient to conclude that <math alttext=\"x equals 4\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>4</mn></mrow></mstyle></math> is the location of the absolute maximum of <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> on the interval <math alttext=\"open bracket, 0 comma 10, close bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>[</mo><mn>0</mn><mo>,</mo><mn>10</mn><mo>]</mo></mrow></mrow></mstyle></math> ?",
+    "question": "<math alttext=\"f prime of 4, equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mn>4</mn><mo>)</mo></mrow><mo>=</mo><mn>0</mn></mrow></mstyle></math><math alttext=\"x equals 4\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>4</mn></mrow></mstyle></math> is the only critical point of <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> on the interval <math alttext=\"open bracket, 0 comma 10, close bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>[</mo><mn>0</mn><mo>,</mo><mn>10</mn><mo>]</mo></mrow></mrow></mstyle></math>, and <math alttext=\"f double prime of 4, is less than 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>″</mo></mrow></msup><mrow><mo>(</mo><mn>4</mn><mo>)</mo></mrow><mo>&lt;</mo><mn>0</mn></mrow></mstyle></math>.<math alttext=\"x equals 4\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>4</mn></mrow></mstyle></math> is the only critical point of <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> on the interval <math alttext=\"open bracket, 0 comma 10, close bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>[</mo><mn>0</mn><mo>,</mo><mn>10</mn><mo>]</mo></mrow></mrow></mstyle></math>, and <math alttext=\"f of 10, is less than, f of 0, which is less than, f of 4\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mn>10</mn><mo>)</mo></mrow><mo>&lt;</mo><mi>f</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>&lt;</mo><mi>f</mi><mrow><mo>(</mo><mn>4</mn><mo>)</mo></mrow></mrow></mstyle></math>.",
+    "image": null,
+    "choices": [
+      {
+        "label": "II only",
+        "image": null
+      },
+      {
+        "label": "III only",
+        "image": null
+      },
+      {
+        "label": "I and II only",
+        "image": null
+      },
+      {
+        "label": "II and III only",
+        "image": null
+      }
+    ],
+    "answer": "II and III only"
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.7",
+    "text": "5.7: Using the Second Derivative Test to Determine Extrema"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

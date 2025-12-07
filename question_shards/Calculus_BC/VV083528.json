@@ -1,0 +1,41 @@
+{
+  "id": "VV083528",
+  "type": "mcq",
+  "title": "Justification - Fundamental Theorem of Calculus",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be a differentiable function such that <math alttext=\"f of 1, equals 2 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow><mo>=</mo><mn>2</mn></mrow></mstyle></math> and <math alttext=\"f prime of x, equals, the square root of x squared, plus 2 times cosine x, plus 3, end root \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>2</mn><mi>cos</mi><mo>⁡</mo><mi>x</mi><mo>+</mo><mn>3</mn></mrow></msqrt></mrow></mstyle></math>. What is the value of <math alttext=\"f of 4\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mn>4</mn><mo>)</mo></mrow></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"negative 6.790 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>6.790</mn></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "8.790",
+        "image": null
+      },
+      {
+        "label": "10.790",
+        "image": null
+      },
+      {
+        "label": "12.996",
+        "image": null
+      }
+    ],
+    "answer": "10.790"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.7",
+    "text": "6.7: The Fundamental Theorem of Calculus and Definite Integrals"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "RD165884",
+  "type": "mcq",
+  "title": "CI for difference in proportions",
+  "content": {
+    "description": "",
+    "question": "A researcher calculated sample proportions from two independent random samples. Assuming all conditions for inference are met, which of the following is the best method for the researcher to use to estimate the true difference between the population proportions?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Construct a two-sample <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math>-interval for the difference between population proportions.",
+        "image": null
+      },
+      {
+        "label": "Construct a two-sample <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math>-interval for the difference between sample proportions.",
+        "image": null
+      },
+      {
+        "label": "Perform a <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math>-test for the difference in sample proportions.",
+        "image": null
+      },
+      {
+        "label": "Subtract the proportions and construct a one-sample <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math>-interval for a single population proportion.",
+        "image": null
+      },
+      {
+        "label": "Subtract the proportions and construct a <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math>-interval for a single sample proportion.",
+        "image": null
+      }
+    ],
+    "answer": "Construct a two-sample <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math>-interval for the difference between population proportions."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.8",
+    "text": "6.8: Confidence Intervals for the Difference of Two Proportions"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate inference method for confidence intervals."
+  }
+}

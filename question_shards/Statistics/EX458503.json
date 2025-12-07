@@ -1,0 +1,45 @@
+{
+  "id": "EX458503",
+  "type": "mcq",
+  "title": "Loan defaults and credit score",
+  "content": {
+    "description": "Bankers at a large financial institution created the linear regression model <math alttext=\"d hat equals, 0.37 minus 0.0004 s\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mover><mrow><mi>d</mi></mrow><mrow><mo>^</mo></mrow></mover><mo>=</mo><mn>0.37</mn><mo>−</mo><mn>0.0004</mn><mi>s</mi></mrow></mstyle></math> to predict the proportion of customers who would default on their loans, <math alttext=\"d\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>d</mi></mrow></mstyle></math>, based on the customer’s credit score, <math alttext=\"s\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>s</mi></mrow></mstyle></math>.",
+    "question": "For a customer with a credit score of 700, which of the following is true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The default proportion is predicted to be 0.09.",
+        "image": null
+      },
+      {
+        "label": "The default proportion will be 0.09.",
+        "image": null
+      },
+      {
+        "label": "The default proportion is predicted to be approximately 1.75 million.",
+        "image": null
+      },
+      {
+        "label": "The default proportion will be approximately 1.75 million.",
+        "image": null
+      },
+      {
+        "label": "The default proportion is predicted to be 0.28.",
+        "image": null
+      }
+    ],
+    "answer": "The default proportion is predicted to be 0.09."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Linear Regression Models"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}

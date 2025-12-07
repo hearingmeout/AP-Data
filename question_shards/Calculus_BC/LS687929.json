@@ -1,0 +1,41 @@
+{
+  "id": "LS687929",
+  "type": "mcq",
+  "title": "Processes - Taylor Polynomial Approximation",
+  "content": {
+    "description": "",
+    "question": "The function <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> has derivatives of all orders for all real numbers with <math alttext=\"f of 2, equals, negative 1\" display=\"inline\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow><mo>=</mo><mrow><mo>−</mo><mn>1</mn></mrow></mrow></math>, <math alttext=\"f prime of 2, equals 4\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow><mo>=</mo><mn>4</mn></mrow></math>, <math alttext=\"f double prime of 2, equals 6\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>″</mo></mrow></msup><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow><mo>=</mo><mn>6</mn></mrow></math>, and <math alttext=\"f triple prime of 2, equals 12\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo><mo>′</mo><mo>′</mo></mrow></msup><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow><mo>=</mo><mn>12</mn></mrow></math>. Using the third-degree Taylor polynomial for <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> about <math alttext=\"x equals 2\" display=\"inline\" overflow=\"scroll\"><mrow><mi>x</mi><mo>=</mo><mn>2</mn></mrow></math>, what is the approximation of <math alttext=\"f of 2.1\" display=\"inline\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>2.1</mn><mo>)</mo></mrow></mrow></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"negative 0.570\" display=\"inline\" overflow=\"scroll\"><mrow><mo>−</mo><mn>0.570</mn></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"negative 0.568\" display=\"inline\" overflow=\"scroll\"><mrow><mo>−</mo><mn>0.568</mn></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"negative 0.566\" display=\"inline\" overflow=\"scroll\"><mrow><mo>−</mo><mn>0.566</mn></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"negative 0.528\" display=\"inline\" overflow=\"scroll\"><mrow><mo>−</mo><mn>0.528</mn></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"negative 0.568\" display=\"inline\" overflow=\"scroll\"><mrow><mo>−</mo><mn>0.568</mn></mrow></math>"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.11",
+    "text": "10.11: (BC ONLY) Finding Taylor Polynomial Approximations of Functions"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

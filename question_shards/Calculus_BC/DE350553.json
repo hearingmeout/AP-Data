@@ -1,0 +1,45 @@
+{
+  "id": "DE350553",
+  "type": "mcq",
+  "title": "Removing discontinuity from a function",
+  "content": {
+    "description": "<math> <semantics> <mrow> <mi>f</mi> <mtext> </mtext> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mrow> <mo>{</mo> <mrow> <mtable columnalign=\"left\"> <mtr columnalign=\"left\"> <mtd columnalign=\"left\"> <mrow> <mfrac> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>−</mo> <mn>7</mn> <mi>x</mi> <mo>+</mo> <mn>10</mn> </mrow> <mrow> <mi>b</mi> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>−</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> </mrow> </mfrac> </mrow> </mtd> <mtd columnalign=\"left\"> <mrow> <mtext>for&nbsp;</mtext> <mtext> </mtext> <mi>x</mi> <mo>≠</mo> <mn>2</mn> </mrow> </mtd> </mtr> <mtr columnalign=\"left\"> <mtd columnalign=\"left\"> <mrow> <mtext> </mtext> <mi>b</mi> </mrow> </mtd> <mtd columnalign=\"left\"> <mrow> <mtext>for&nbsp;</mtext> <mtext> </mtext> <mi>x</mi> <mo>=</mo> <mn>2</mn> </mrow> </mtd> </mtr> </mtable> </mrow> </mrow> </mrow> <annotation>MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk 0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr 0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaacaWGMbGaaGjcVp aabmaabaGaamiEaaGaayjkaiaawMcaaiabg2da9maaceaabaqbaeaa biGaaaqaamaalaaabaGaamiEamaaCaaaleqabaGaaGOmaaaakiabgk HiTiaaiEdacaWG4bGaey4kaSIaaGymaiaaicdaaeaacaWGIbWaaeWa aeaacaWG4bGaeyOeI0IaaGOmaaGaayjkaiaawMcaaaaaaeaacaqGMb Gaae4BaiaabkhacaqGGaGaaGjcVlaadIhacqGHGjsUcaaIYaaabaGa aGPaVlaadkgaaeaacaqGMbGaae4BaiaabkhacaqGGaGaaGjcVlaadI hacqGH9aqpcaaIYaaaaaGaay5Eaaaaaa@5F00@</annotation> </semantics> </math>",
+    "question": "Let f be the function defined above. For what value of b is f continuous at <math> <semantics> <mrow> <mi>x</mi> <mo>=</mo> <mn>2</mn> <mo>?</mo> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaacaWG4bGaeyypa0JaaGOmaiaac+daaaa@3C7D@</annotation> </semantics> </math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <semantics> <mrow> <mo>−</mo> <mn>3</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaacqGHsislcaaIZaaaaa@3AA5@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <msqrt> <mn>2</mn> </msqrt> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaakaaapaqaa8qacaaIYaaaleqaaaaa@3A11@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "3",
+        "image": null
+      },
+      {
+        "label": "5",
+        "image": null
+      },
+      {
+        "label": "There is no such value of b.",
+        "image": null
+      }
+    ],
+    "answer": "There is no such value of b."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.13",
+    "text": "1.13: Removing Discontinuities"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

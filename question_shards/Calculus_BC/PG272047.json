@@ -1,0 +1,45 @@
+{
+  "id": "PG272047",
+  "type": "mcq",
+  "title": "Integration using subsitution of variables",
+  "content": {
+    "description": "",
+    "question": "<math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <mo>∫</mo> <mrow> <mfrac> <mrow> <msup> <mi>e</mi> <mrow> <msqrt> <mi>x</mi> </msqrt> </mrow> </msup> </mrow> <mrow> <msqrt> <mi>x</mi> </msqrt> </mrow> </mfrac> </mrow> </mrow> </mstyle> <mi>d</mi> <mi>x</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWdbaWdaeaapeWaaSaaa8aabaWdbiaadwgapaWaaWbaaSqabeaapeWaaOaaa8aabaWdbiaadIhaaWqabaaaaaGcpaqaa8qadaGcaaWdaeaapeGaamiEaaWcbeaaaaaabeqab0Gaey4kIipakiaadsgacaWG4baaaa@3E10@</annotation> </semantics> </math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <semantics> <mrow> <mn>2</mn><msup> <mi>e</mi> <mrow> <msqrt> <mi>x</mi> </msqrt> </mrow> </msup> <mo>+</mo><mi>c</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaaIYaGaamyza8aadaahaaWcbeqaa8qadaGcaaWdaeaapeGaamiEaaadbeaaaaGccqGHRaWkcaWGJbaaaa@3B12@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mi>e</mi><msqrt> <mi>x</mi> </msqrt> <mo>+</mo><mi>c</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWcaaWdaeaapeGaaGymaaWdaeaapeGaaGOmaaaacaWGLbWaaOaaa8aabaWdbiaadIhaaSqabaGccqGHRaWkcaWGJbaaaa@3BCE@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <msup> <mi>e</mi> <mrow> <msqrt> <mi>x</mi> </msqrt> </mrow> </msup> <mo>+</mo><mi>c</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWGLbWdamaaCaaaleqabaWdbmaakaaapaqaa8qacaWG4baameqaaaaakiabgUcaRiaadogaaaa@3A56@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mn>2</mn><msqrt> <mi>x</mi> </msqrt> <msup> <mi>e</mi> <mrow> <msqrt> <mi>x</mi> </msqrt> </mrow> </msup> <mo>+</mo><mi>c</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaaIYaWaaOaaa8aabaWdbiaadIhaaSqabaGccaWGLbWdamaaCaaaleqabaWdbmaakaaapaqaa8qacaWG4baameqaaaaakiabgUcaRiaadogaaaa@3C53@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mfrac> <mrow> <msup> <mi>e</mi> <mrow> <msqrt> <mi>x</mi> </msqrt> </mrow> </msup> </mrow> <mrow> <msqrt> <mi>x</mi> </msqrt> </mrow> </mfrac> <mo>+</mo><mi>c</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWcaaWdaeaapeGaaGymaaWdaeaapeGaaGOmaaaadaWcaaWdaeaapeGaamyza8aadaahaaWcbeqaa8qadaGcaaWdaeaapeGaamiEaaadbeaaaaaak8aabaWdbmaakaaapaqaa8qacaWG4baaleqaaaaakiabgUcaRiaadogaaaa@3DAA@</annotation> </semantics> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <semantics> <mrow> <mn>2</mn><msup> <mi>e</mi> <mrow> <msqrt> <mi>x</mi> </msqrt> </mrow> </msup> <mo>+</mo><mi>c</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaaIYaGaamyza8aadaahaaWcbeqaa8qadaGcaaWdaeaapeGaamiEaaadbeaaaaGccqGHRaWkcaWGJbaaaa@3B12@</annotation> </semantics> </math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.9",
+    "text": "6.9: Integrating Using Substitution"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

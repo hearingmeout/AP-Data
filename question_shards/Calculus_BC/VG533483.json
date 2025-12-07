@@ -1,0 +1,41 @@
+{
+  "id": "VG533483",
+  "type": "mcq",
+  "title": "Processes - Eulers Method",
+  "content": {
+    "description": "<math alttext=\"The figure presents a 2 row table with 3 columns of data. The heading for row 1 is “x.” The heading for row 2 is “f prime of x.” The data are as follows. Column 1. x is 1.4. f prime of x is negative 8. Column 2. x is 1.7. f prime of x is 2. Column 3. x is 2.0. f prime of x is 3.\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mstyle><mrow><mtable columnlines=\"solid\" columnspacing=\"0.0em\" columnwidth=\"3em 0.05em 3em 3em 3em\" equalrows=\"true\" frame=\"solid\" framespacing=\"0.0em 0.5ex\" rowlines=\"solid\" rowspacing=\"1ex\" width=\"auto\"><mtr><mtd><mi>x</mi></mtd><mtd><mspace depth=\"1.0ex\" height=\"2.25ex\" width=\"0.0em\"></mspace></mtd><mtd><mn>1.4</mn></mtd><mtd><mn>1.7</mn></mtd><mtd><mn>2.0</mn></mtd></mtr><mtr><mtd><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mtd><mtd><mspace depth=\"1.0ex\" height=\"2.25ex\" width=\"0.0em\"></mspace></mtd><mtd><mo>−</mo><mn>8</mn></mtd><mtd><mn>2</mn></mtd><mtd><mn>3</mn></mtd></mtr></mtable></mrow></mstyle></mrow></mstyle></mrow></mstyle></math>",
+    "question": "The table above gives values of <math alttext=\"f prime\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup></mrow></mstyle></math>, the derivative of the function <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math>, for selected values of <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math>. If <math alttext=\"f of 2, equals 6\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow><mo>=</mo><mn>6</mn></mrow></mstyle></math>, what is the approximation for <math alttext=\"f of 1.4\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mn>1.4</mn><mo>)</mo></mrow></mrow></mstyle></math> obtained by using Euler’s method, starting at <math alttext=\"x equals 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>2</mn></mrow></mstyle></math> with two steps of equal size?",
+    "image": null,
+    "choices": [
+      {
+        "label": "4.2",
+        "image": null
+      },
+      {
+        "label": "4.5",
+        "image": null
+      },
+      {
+        "label": "6.9",
+        "image": null
+      },
+      {
+        "label": "7.5",
+        "image": null
+      }
+    ],
+    "answer": "4.5"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.5",
+    "text": "7.5: (BC ONLY) Approximating Solutions Using Euler's Method"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

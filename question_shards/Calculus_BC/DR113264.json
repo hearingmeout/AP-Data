@@ -1,0 +1,41 @@
+{
+  "id": "DR113264",
+  "type": "mcq",
+  "title": "Representations - Modeling with Diff Equations",
+  "content": {
+    "description": "",
+    "question": "A scientist is studying the relationship of two quantities <math alttext=\"S\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>S</mi></mrow></mstyle></math> and <math alttext=\"T\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>T</mi></mrow></mstyle></math> in an experiment. The scientist finds that under certain conditions, as the quantity of <math alttext=\"S\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>S</mi></mrow></mstyle></math> increases, the quantity of <math alttext=\"T\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>T</mi></mrow></mstyle></math> decreases. After taking measurements, the scientist determines that the rate of change of the quantity of <math alttext=\"S\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>S</mi></mrow></mstyle></math> with respect to the quantity of <math alttext=\"T\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>T</mi></mrow></mstyle></math> present is inversely proportional to the natural logarithm of the quantity of <math alttext=\"T\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>T</mi></mrow></mstyle></math>. Which of the following is a differential equation that could describe this relationship?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"S equals, the fraction with numerator k, and denominator the natural log of T\" display=\"inline\" overflow=\"scroll\"><mrow><mi>S</mi><mo>=</mo><mfrac><mrow><mi>k</mi></mrow><mrow><mi>ln</mi><mo>⁡</mo><mi>T</mi></mrow></mfrac></mrow></math>, where <math alttext=\"k\" display=\"inline\" overflow=\"scroll\"><mrow><mi>k</mi></mrow></math> is a nonzero constant.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the derivative of S, with respect to T, equals, the fraction with numerator the natural log of t, and denominator k\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mi>d</mi><mi>S</mi></mrow><mrow><mi>d</mi><mi>T</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>ln</mi><mo>⁡</mo><mi>T</mi></mrow><mrow><mi>k</mi></mrow></mfrac></mrow></math>, where <math alttext=\"k\" display=\"inline\" overflow=\"scroll\"><mrow><mi>k</mi></mrow></math> is a nonzero constant.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the derivative of S, with respect to T, equals, the fraction with numerator k, and denominator the natural log of T\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mi>d</mi><mi>S</mi></mrow><mrow><mi>d</mi><mi>T</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>k</mi></mrow><mrow><mi>ln</mi><mo>⁡</mo><mi>T</mi></mrow></mfrac></mrow></math>, where <math alttext=\"k\" display=\"inline\" overflow=\"scroll\"><mrow><mi>k</mi></mrow></math> is a nonzero constant.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the derivative of T, with respect to S, equals, the fraction with numerator k, and denominator the natural log of S\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mi>d</mi><mi>T</mi></mrow><mrow><mi>d</mi><mi>S</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>k</mi></mrow><mrow><mi>ln</mi><mo>⁡</mo><mi>S</mi></mrow></mfrac></mrow></math>, where <math alttext=\"k\" display=\"inline\" overflow=\"scroll\"><mrow><mi>k</mi></mrow></math> is a nonzero constant.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the derivative of S, with respect to T, equals, the fraction with numerator k, and denominator the natural log of T\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mi>d</mi><mi>S</mi></mrow><mrow><mi>d</mi><mi>T</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>k</mi></mrow><mrow><mi>ln</mi><mo>⁡</mo><mi>T</mi></mrow></mfrac></mrow></math>, where <math alttext=\"k\" display=\"inline\" overflow=\"scroll\"><mrow><mi>k</mi></mrow></math> is a nonzero constant."
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.1",
+    "text": "7.1: Modeling Situations with Differential Equations"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

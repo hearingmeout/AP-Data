@@ -1,0 +1,37 @@
+{
+  "id": "XH438817",
+  "type": "mcq",
+  "title": "Representations - Behavior of Accumulation Func",
+  "content": {
+    "description": "The figure shows the graph of the function <math alttext=\"f\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> on the open interval <math alttext=\"open parenthesis, a comma b, close parenthesis\" overflow=\"scroll\"><mrow><mo>(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>)</mo></mrow></math>. Let <math alttext=\"g\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> be the function given by <math alttext=\"g of x equals, the integral from 1 to x, of, f of t, d t\" overflow=\"scroll\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>1</mn></mrow><mrow><mi>x</mi></mrow></msubsup><mrow><mi>f</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow></mstyle></mrow></math>. Which of the following statements must be true?",
+    "question": "<math alttext=\"g\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> is increasing on <math alttext=\"open parenthesis, a comma b, close parenthesis\" overflow=\"scroll\"><mrow><mo>(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>)</mo></mrow></math>.<math alttext=\"g\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> has a relative maximum on <math alttext=\"open parenthesis, a comma b, close parenthesis\" overflow=\"scroll\"><mrow><mo>(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>)</mo></mrow></math>.<math alttext=\"g\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> has exactly one zero on <math alttext=\"open parenthesis, a comma b, close parenthesis\" overflow=\"scroll\"><mrow><mo>(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>)</mo></mrow></math>.",
+    "image": "https://ap.oly.st/images/929d6250ca459e7ec5180dbcd2781c45.svg",
+    "choices": [
+      {
+        "label": "I only",
+        "image": null
+      },
+      {
+        "label": "II only",
+        "image": null
+      },
+      {
+        "label": "I and II only",
+        "image": null
+      },
+      {
+        "label": "I and III only",
+        "image": null
+      }
+    ],
+    "answer": "I and III only"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.5",
+    "text": "6.5: Interpreting the Behavior of Accumulation Functions Involving Area"
+  }
+}

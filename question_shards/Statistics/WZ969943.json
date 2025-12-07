@@ -1,0 +1,45 @@
+{
+  "id": "WZ969943",
+  "type": "mcq",
+  "title": "Dog Parks",
+  "content": {
+    "description": "A county manager selected a random sample of <math alttext=\"200\" overflow=\"scroll\"><mn>200</mn></math> residents from a suburban area of the county and a separate random sample of <math alttext=\"200\" overflow=\"scroll\"><mn>200</mn></math> residents from an urban area of the same county. The residents in the samples were asked whether they thought the county should create dog parks where residents can take their dogs to play. From those who were sampled, <math alttext=\"41\" overflow=\"scroll\"><mn>41</mn></math> percent of the suburban residents and <math alttext=\"35\" overflow=\"scroll\"><mn>35</mn></math> percent of the urban residents thought the county should create dog parks.",
+    "question": "Let <math alttext=\"p sub S\" overflow=\"scroll\"><msub><mi>p</mi><mtext>S</mtext></msub></math> represent the population proportion of suburban residents who think the county should create dog parks, and let <math alttext=\"p sub U\" overflow=\"scroll\"><msub><mi>p</mi><mtext>U</mtext></msub></math> represent the population proportion of urban residents who think the county should create dog parks. The county manager will test the following hypotheses. <math alttext=\"H sub 0, colon, p sub S, equals p sub U\" overflow=\"scroll\"> <msub> <mtext>H</mtext> <mn>0</mn> </msub> <mtext>: </mtext> <msub> <mi>p</mi> <mtext>S</mtext> </msub> <mo>=</mo> <msub> <mi>p</mi> <mtext>U</mtext> </msub> </math> <math alttext=\"H sub a, colon, p sub S, is not equal to p sub U\" overflow=\"scroll\"> <msub> <mtext>H</mtext> <mtext>a</mtext> </msub> <mtext>: </mtext> <msub> <mi>p</mi> <mtext>S</mtext> </msub> <mo>≠</mo> <msub> <mi>p</mi> <mtext>U</mtext> </msub> </math> Assuming the conditions for inference were met, which of the following is closest to the <math alttext=\"p\" overflow=\"scroll\"><mi>p</mi></math>-value of the county manager’s test?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"0.7778\" overflow=\"scroll\"> <mn>0.7778</mn> </math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"0.4444\" overflow=\"scroll\"><mn>0.4444</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"0.2222\" overflow=\"scroll\"><mn>0.2222</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"0.2164\" overflow=\"scroll\"><mn>0.2164</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"0.1082\" overflow=\"scroll\"><mn>0.1082</mn></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"0.2164\" overflow=\"scroll\"><mn>0.2164</mn></math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.11",
+    "text": "6.11: Carrying Out a Test for the Difference of Two Population Proportions"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Calculate a test statistic and find a p-value, provided conditions for inference are met."
+  }
+}

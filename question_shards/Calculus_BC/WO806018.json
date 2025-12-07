@@ -1,0 +1,45 @@
+{
+  "id": "WO806018",
+  "type": "mcq",
+  "title": "Find k for to solve FTC question",
+  "content": {
+    "description": "",
+    "question": "If n is a known positive integer, for what value of k is <math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"the integral from 1 to k of x to the power of open parentheses n minus 1 close parentheses with respect to x equals 1 divided by n\"> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow><munderover> <mo>∫</mo> <mn>1</mn> <mi>k</mi> </munderover> <mrow> <msup> <mi>x</mi> <mrow> <mi>n</mi><mo>−</mo><mn>1</mn></mrow> </msup> </mrow> </mrow> </mstyle><mi>d</mi><mi>x</mi><mo>=</mo><mfrac> <mn>1</mn> <mi>n</mi> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWdXbWdaeaapeGaamiEa8aadaahaaWcbeqaa8qacaWGUbGaeyOe I0IaaGymaaaaa8aabaWdbiaaigdaa8aabaWdbiaadUgaa0Gaey4kIi pakiaadsgacaWG4bGaeyypa0ZaaSaaa8aabaWdbiaaigdaa8aabaWd biaad6gaaaaaaa@4352@ </annotation> </semantics> </math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "0",
+        "image": null
+      },
+      {
+        "label": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"open parentheses 2 divided by n close parentheses to the power of open parentheses 1 divided by n close parentheses\"> <semantics> <mrow> <msup> <mrow> <mo stretchy=\"false\">(</mo><mfrac> <mn>2</mn> <mi>n</mi> </mfrac> <mo stretchy=\"false\">)</mo></mrow> <mrow> <mn>1</mn><mo>/</mo><mi>n</mi></mrow> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaGGOaWaaSaaa8aabaWdbiaaikdaa8aabaWdbiaad6gaaaGaaiyk a8aadaahaaWcbeqaa8qacaaIXaGaai4laiaad6gaaaaaaa@3C19@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"open parentheses open parentheses 2 times n minus 1 close parentheses divided by n close parentheses to the power of open parentheses 1 divided by n close parentheses\"> <semantics> <mrow> <msup> <mrow> <mo stretchy=\"false\">(</mo><mfrac> <mrow> <mn>2</mn><mi>n</mi><mo>−</mo><mn>1</mn></mrow> <mi>n</mi> </mfrac> <mo stretchy=\"false\">)</mo></mrow> <mrow> <mn>1</mn><mo>/</mo><mi>n</mi></mrow> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaGGOaWaaSaaa8aabaWdbiaaikdacaWGUbGaeyOeI0IaaGymaaWd aeaapeGaamOBaaaacaGGPaWdamaaCaaaleqabaWdbiaaigdacaGGVa GaamOBaaaaaaa@3EB4@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"2 to the power of open parentheses 1 divided by n close parentheses\"> <semantics> <mrow> <msup> <mn>2</mn> <mrow> <mn>1</mn><mo>/</mo><mi>n</mi></mrow> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaaIYaWdamaaCaaaleqabaWdbiaaigdacaGGVaGaamOBaaaaaaa@397F@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "2n",
+        "image": null
+      }
+    ],
+    "answer": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"2 to the power of open parentheses 1 divided by n close parentheses\"> <semantics> <mrow> <msup> <mn>2</mn> <mrow> <mn>1</mn><mo>/</mo><mi>n</mi></mrow> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaaIYaWdamaaCaaaleqabaWdbiaaigdacaGGVaGaamOBaaaaaaa@397F@ </annotation> </semantics> </math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.7",
+    "text": "6.7: The Fundamental Theorem of Calculus and Definite Integrals"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

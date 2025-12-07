@@ -1,0 +1,36 @@
+{
+  "id": "VM944109",
+  "type": "frq",
+  "title": "Water from pipe",
+  "content": {
+    "description": "",
+    "question": "The rate at which water flows out of a pipe, in gallons per hour, is given by a differentiable function R of time t. The table above shows the rate as measured every 3 hours for a 24-hour period. (a) Use a midpoint Riemann sum with 4 subdivisions of equal length to approximate <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mrow> <mn>24</mn> </mrow> </msubsup> </mrow> </mstyle> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaa8qmaeaaca qGGaGaamiEaaWcbaGaaGimaaqaaiaaikdacaaI0aaaniabgUIiYdaa aa@3BF3@ </annotation> </semantics> </math>R(t)dt. Using correct units, explain the meaning of your answer in terms of water flow.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "The rate at which water flows out of a pipe, in gallons per hour, is given by a differentiable function R of time t. The table above shows the rate as measured every 3 hours for a 24-hour period. (a) Use a midpoint Riemann sum with 4 subdivisions of equal length to approximate <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mrow> <mn>24</mn> </mrow> </msubsup> </mrow> </mstyle> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaa8qmaeaaca qGGaGaamiEaaWcbaGaaGimaaqaaiaaikdacaaI0aaaniabgUIiYdaa aa@3BF3@ </annotation> </semantics> </math>R(t)dt. Using correct units, explain the meaning of your answer in terms of water flow.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Calculus_BC/original.jpg"
+      },
+      {
+        "text": "(b) Is there some time t, 0 < t < 24, such that R'(t) = 0? Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "(c) The rate of water flow R(t) can be approximated by Q(t) = <math> <semantics> <mrow> <mfrac> <mn>1</mn> <mrow> <mn>79</mn> </mrow> </mfrac> <mrow> <mo>(</mo> <mrow> <mn>768</mn> <mo>+</mo> <mn>23</mn> <mi>t</mi> <mo>−</mo> <msup> <mi>t</mi> <mn>2</mn> </msup> </mrow> <mo>)</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaaGymaaWdaeaapeGaaG4naiaaiMdaaaWaaeWa a8aabaWdbiaaiEdacaaI2aGaaGioaiabgUcaRiaaikdacaaIZaGaam iDaiabgkHiTiaadshapaWaaWbaaSqabeaapeGaaGOmaaaaaOGaayjk aiaawMcaaaaa@42DA@ </annotation> </semantics> </math>. Use Q(t) to approximate the average rate of water flow during the 24-hour time period. Indicate units of measure.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.1",
+    "text": "5.1: Using the Mean Value Theorem"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

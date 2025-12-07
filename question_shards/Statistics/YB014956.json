@@ -1,0 +1,48 @@
+{
+  "id": "YB014956",
+  "type": "frq",
+  "title": "Multi-focus - avocado moth damage stemplot",
+  "content": {
+    "description": "",
+    "question": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations. An agriculturalist on a farm conducted a study to investigate whether ladybugs are effective in reducing damage caused by moths to the fruit of avocado trees. The agriculturalist randomly sampled <math alttext=\"66\" overflow=\"scroll\"><mstyle><mrow><mn>66</mn></mrow></mstyle></math> avocado trees from the farm and paired them based on size. One tree from each pair was randomly assigned to a greenhouse with ladybugs, and the other tree in the pair was assigned to a greenhouse without ladybugs. After one month, the number of damaged avocado fruit on each tree was recorded. All other variables were held constant over the one month period. The difference in the number of damaged avocado fruit per tree pair (without ladybugs minus with ladybugs) was calculated for each of the <math alttext=\"33\" overflow=\"scroll\"><mstyle><mrow><mn>33</mn></mrow></mstyle></math> pairs and is shown in the stemplot. (a) Explain what a positive difference indicates in the context of the study.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations. An agriculturalist on a farm conducted a study to investigate whether ladybugs are effective in reducing damage caused by moths to the fruit of avocado trees. The agriculturalist randomly sampled <math alttext=\"66\" overflow=\"scroll\"><mstyle><mrow><mn>66</mn></mrow></mstyle></math> avocado trees from the farm and paired them based on size. One tree from each pair was randomly assigned to a greenhouse with ladybugs, and the other tree in the pair was assigned to a greenhouse without ladybugs. After one month, the number of damaged avocado fruit on each tree was recorded. All other variables were held constant over the one month period. The difference in the number of damaged avocado fruit per tree pair (without ladybugs minus with ladybugs) was calculated for each of the <math alttext=\"33\" overflow=\"scroll\"><mstyle><mrow><mn>33</mn></mrow></mstyle></math> pairs and is shown in the stemplot. (a) Explain what a positive difference indicates in the context of the study.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Statistics/VR252088.g02.png"
+      },
+      {
+        "text": "(b) Based only on the sample data in the stemplot, should the ladybugs be used to help reduce damage to the fruit? Explain your reasoning in the context of the study. Do not perform an inferential procedure.",
+        "image": null
+      },
+      {
+        "text": "The owner of the farm will introduce ladybugs to all of his avocado trees if the agriculturalist can provide convincing statistical evidence that the ladybugs are effective in reducing the number of damaged avocado fruit over a one-month period.(c) State, in words, the hypotheses of the appropriate test the agriculturalist should use to investigate whether the sample data provide convincing statistical evidence that the ladybugs are effective in reducing the number of damaged avocado fruit over a one-month period.",
+        "image": null
+      },
+      {
+        "text": "(d) Assuming all conditions for the appropriate test are met, the agriculturalist reported a <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value of <math alttext=\"0.072\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.072</mn></mrow></mstyle></math> for the test. Based on the <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value and <math alttext=\"alpha equals 0.05\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>α</mi><mo>=</mo><mn>0.05</mn></mrow></mstyle></math>, would the owner of the farm introduce the ladybugs? Explain your answer.",
+        "image": null
+      },
+      {
+        "text": "Consider a scenario in which <math alttext=\"5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>5</mn></mrow></mstyle></math> tree pairs are randomly selected one at a time, with replacement, from the sample of <math alttext=\"33\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>33</mn></mrow></mstyle></math> tree pairs. Let the random variable <math alttext=\"T\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>T</mi></mrow></mstyle></math> represent the number of tree pairs out of the <math alttext=\"5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>5</mn></mrow></mstyle></math> selected with a positive difference in number of damaged avocado fruit.(e) Calculate and interpret the value of <math alttext=\"mu sub T\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>μ</mi></mrow><mrow><mi>T</mi></mrow></msub></mrow></mstyle></math> in the context of the scenario.",
+        "image": null
+      },
+      {
+        "text": "(f) Describe how the scenario could be modified to make <math alttext=\"T\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>T</mi></mrow></mstyle></math> a geometric random variable.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.2",
+    "text": "1.2: The Language of Variation - Variables"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Identify null and alternative hypotheses."
+  }
+}

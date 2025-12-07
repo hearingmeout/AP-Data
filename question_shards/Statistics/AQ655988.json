@@ -1,0 +1,45 @@
+{
+  "id": "AQ655988",
+  "type": "mcq",
+  "title": "Use interval to conclude test for population mean",
+  "content": {
+    "description": "",
+    "question": "A two-sided t-test for a population mean is conducted of the null hypothesis H0 : μ = 100. If a 90 percent t-interval constructed from the same sample data contains the value of 100, which of the following can be concluded about the test at a significance level of a = 0.10 ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The p-value is less than 0.10, and H0 should be rejected.",
+        "image": null
+      },
+      {
+        "label": "The p-value is less than 0.10, and H0 should not be rejected.",
+        "image": null
+      },
+      {
+        "label": "The p-value is greater than 0.10, and H0 should be rejected.",
+        "image": null
+      },
+      {
+        "label": "The p-value is greater than 0.10, and H0 should not be rejected.",
+        "image": null
+      },
+      {
+        "label": "There is not enough information given to make a conclusion about the p-value and H0.",
+        "image": null
+      }
+    ],
+    "answer": "The p-value is greater than 0.10, and H0 should not be rejected."
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.3",
+    "text": "7.3: Justifying a Claim About a Population Mean Based on a Confidence Interval"
+  },
+  "skill": {
+    "code": "Skill 4.D",
+    "text": "Skill 4.D: Justify a claim based on a confidence interval."
+  }
+}

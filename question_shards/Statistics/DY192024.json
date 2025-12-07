@@ -1,0 +1,45 @@
+{
+  "id": "DY192024",
+  "type": "mcq",
+  "title": "High schools F and G",
+  "content": {
+    "description": "A sociologist studying teen behavior took independent random samples of students from two high schools, F and G. Of the 80 students selected from High School F, 36 indicated they had seen a certain movie. Of the 72 students selected from High School G, 18 indicated they had seen the movie.",
+    "question": "Which of the following is the test statistic for the appropriate test to investigate whether there is a difference in population proportions (High School F minus High School G) ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the fraction 0.45 minus 0.25 over the square root of 0.36 times 0.64, times the fraction 1 over 80 plus 1 over 72, end root\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mfrac><mrow><mn>0.45</mn><mo>−</mo><mn>0.25</mn></mrow><mrow><msqrt><mrow><mo>(</mo><mn>0.36</mn><mo>)</mo><mo>(</mo><mn>0.64</mn><mo>)</mo><mo>(</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>80</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>72</mn></mrow></mfrac><mo>)</mo></mrow></msqrt></mrow></mfrac></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction 0.45 minus 0.25 over the square root of 0.36 times 0.64, times the fraction 1 over 80 plus 72, end fraction, end root\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mfrac><mrow><mn>0.45</mn><mo>−</mo><mn>0.25</mn></mrow><mrow><msqrt><mrow><mo>(</mo><mn>0.36</mn><mo>)</mo><mo>(</mo><mn>0.64</mn><mo>)</mo><mo>(</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>80</mn><mo>+</mo><mn>72</mn></mrow></mfrac><mo>)</mo></mrow></msqrt></mrow></mfrac></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction 0.45 minus 0.25 over the square root of 0.45 times 0.25, times the square root of the fraction 1 over 80, plus the fraction 1 over 72, end root\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mfrac><mrow><mn>0.45</mn><mo>−</mo><mn>0.25</mn></mrow><mrow><mo>(</mo><mn>0.45</mn><mo>)</mo><mo>(</mo><mn>0.25</mn><mo>)</mo><msqrt><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>80</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>72</mn></mrow></mfrac></mrow></msqrt></mrow></mfrac></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction 36 minus 18 over the square root of the fraction 0.45 over 80 plus the fraction 0.25 over 72, end root\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mfrac><mrow><mn>36</mn><mo>−</mo><mn>18</mn></mrow><mrow><msqrt><mrow><mfrac><mrow><mn>0.45</mn></mrow><mrow><mn>80</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>0.25</mn></mrow><mrow><mn>72</mn></mrow></mfrac></mrow></msqrt></mrow></mfrac></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction 36 minus 18 over the square root of the fraction 0.45 plus 0.25 over 80 plus 72, end fraction, end root\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mfrac><mrow><mn>36</mn><mo>−</mo><mn>18</mn></mrow><mrow><msqrt><mrow><mfrac><mrow><mn>0.45</mn><mo>+</mo><mn>0.25</mn></mrow><mrow><mn>80</mn><mo>+</mo><mn>72</mn></mrow></mfrac></mrow></msqrt></mrow></mfrac></mrow></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the fraction 0.45 minus 0.25 over the square root of 0.36 times 0.64, times the fraction 1 over 80 plus 1 over 72, end root\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mfrac><mrow><mn>0.45</mn><mo>−</mo><mn>0.25</mn></mrow><mrow><msqrt><mrow><mo>(</mo><mn>0.36</mn><mo>)</mo><mo>(</mo><mn>0.64</mn><mo>)</mo><mo>(</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>80</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>72</mn></mrow></mfrac><mo>)</mo></mrow></msqrt></mrow></mfrac></mrow></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.11",
+    "text": "6.11: Carrying Out a Test for the Difference of Two Population Proportions"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Calculate a test statistic and find a p-value, provided conditions for inference are met."
+  }
+}

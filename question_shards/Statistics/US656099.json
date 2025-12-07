@@ -1,0 +1,45 @@
+{
+  "id": "US656099",
+  "type": "mcq",
+  "title": "Bitter Chocolate",
+  "content": {
+    "description": "A chocolatier, a person who makes chocolate candy, at a candy company has developed a new dark chocolate candy and believes it will be less bitter than the current dark chocolate candy on the market. The chocolatier hired <math alttext=\"40\" overflow=\"scroll\"><mn>40</mn></math> professional taste testers to participate in an experiment. The chocolatier flipped a coin for each participant. If the coin landed on heads, the participant tasted the new dark chocolate candy first, then tasted the current dark chocolate candy. If the coin landed on tails, the participant tasted the current dark chocolate candy first, then tasted the new dark chocolate candy. The participants rated the bitterness of each dark chocolate candy on a scale of <math alttext=\"1\" overflow=\"scroll\"><mn>1</mn></math> to <math alttext=\"10\" overflow=\"scroll\"><mn>10</mn></math>, with <math alttext=\"1\" overflow=\"scroll\"><mn>1</mn></math> being the least bitter and <math alttext=\"10\" overflow=\"scroll\"><mn>10</mn></math> being the most bitter. Using a paired <math alttext=\"t\" overflow=\"scroll\"><mi>t</mi></math>-test to test the belief, the chocolatier calculated a <math alttext=\"p\" overflow=\"scroll\"><mi>p</mi></math>-value of <math alttext=\"0.274\" overflow=\"scroll\"><mn>0.274</mn></math>.",
+    "question": "Assuming the conditions for inference have been met, which of the following is the best conclusion for the chocolatier’s hypothesis test?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Because the <math alttext=\"p\" overflow=\"scroll\"><mi>p</mi></math>-value is less than any reasonable level of significance, there is convincing statistical evidence to support the belief that the new dark chocolate candy is less bitter than the current dark chocolate candy on average for those similar to the participants in the study.",
+        "image": null
+      },
+      {
+        "label": "Because the <math alttext=\"p\" overflow=\"scroll\"><mi>p</mi></math>-value is less than any reasonable level of significance, there is not convincing statistical evidence to support the belief that the new dark chocolate candy is less bitter than the current dark chocolate candy on average for those similar to the participants in the study.",
+        "image": null
+      },
+      {
+        "label": "Because the <math alttext=\"p\" overflow=\"scroll\"><mi>p</mi></math>-value is greater than any reasonable level of significance, there is convincing statistical evidence to support the belief that the new dark chocolate candy is less bitter than the current dark chocolate candy on average for those similar to the participants in the study.",
+        "image": null
+      },
+      {
+        "label": "Because the <math alttext=\"p\" overflow=\"scroll\"><mi>p</mi></math>-value is greater than any reasonable level of significance, there is not convincing statistical evidence to support the belief that the new dark chocolate candy is less bitter than the current dark chocolate candy on average for those similar to the participants in the study.",
+        "image": null
+      },
+      {
+        "label": "Since the taste testers were not randomly selected, this was not a well-designed experiment and a conclusion about the bitterness of the new dark chocolate candy cannot be made.",
+        "image": null
+      }
+    ],
+    "answer": "Because the <math alttext=\"p\" overflow=\"scroll\"><mi>p</mi></math>-value is greater than any reasonable level of significance, there is not convincing statistical evidence to support the belief that the new dark chocolate candy is less bitter than the current dark chocolate candy on average for those similar to the participants in the study."
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.5",
+    "text": "7.5: Carrying Out a Test for a Population Mean"
+  },
+  "skill": {
+    "code": "Skill 4.E",
+    "text": "Skill 4.E: Justify a claim using a decision based on significance tests."
+  }
+}

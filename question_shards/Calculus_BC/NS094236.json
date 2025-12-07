@@ -1,0 +1,41 @@
+{
+  "id": "NS094236",
+  "type": "mcq",
+  "title": "Processes - Using Integration by Parts",
+  "content": {
+    "description": "",
+    "question": "The function <math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mi>g</mi></math> has a continuous second derivative. If <math alttext=\"g of 0 equals 2\" display=\"inline\" overflow=\"scroll\"><mrow><mi>g</mi><mrow><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>=</mo><mn>2</mn></mrow></mrow></math>, <math alttext=\"g prime of 0 equals 4\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>g</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>=</mo><mn>4</mn></mrow></math>, <math alttext=\"g of 3 equals 5\" display=\"inline\" overflow=\"scroll\"><mrow><mi>g</mi><mrow><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow><mo>=</mo><mn>5</mn></mrow></math>, and <math alttext=\"g prime of 3 equals 6\" display=\"inline\" overflow=\"scroll\"><mrow><mrow><msup><mrow><mi>g</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow><mo>=</mo><mn>6</mn></mrow></mrow></math>, what is the value of <math alttext=\"the integral from 0 to 3, of, x times g double prime of x, d x\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>3</mn></mrow></msubsup><mrow><mi>x</mi><mo largeop=\"true\">⋅</mo><mrow><mi>g</mi><mo>″</mo><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"9\" display=\"inline\" overflow=\"scroll\"><mn>9</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"15\" display=\"inline\" overflow=\"scroll\"><mn>15</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"21\" display=\"inline\" overflow=\"scroll\"><mn>21</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"27\" display=\"inline\" overflow=\"scroll\"><mn>27</mn></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"15\" display=\"inline\" overflow=\"scroll\"><mn>15</mn></math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.11",
+    "text": "6.11: (BC ONLY) Integrating Using Integration by Parts"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

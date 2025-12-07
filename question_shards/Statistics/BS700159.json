@@ -1,0 +1,45 @@
+{
+  "id": "BS700159",
+  "type": "mcq",
+  "title": "Compute p-value for one-sample t-test",
+  "content": {
+    "description": "",
+    "question": "The process of producing pain-reliever tablets yields tablets with varying amounts of the active ingredient. It is claimed that the average amount of active ingredient per tablet is at least 200 milligrams. The Consumer Watchdog Bureau tests a random sample of 70 tablets. The mean content of the active ingredient for this sample is 194.3 milligrams, while the standard deviation is 21 milligrams. What is the approximate p-value for the appropriate test?",
+    "image": null,
+    "choices": [
+      {
+        "label": "0.012",
+        "image": null
+      },
+      {
+        "label": "0.024",
+        "image": null
+      },
+      {
+        "label": "0.050",
+        "image": null
+      },
+      {
+        "label": "0.100",
+        "image": null
+      },
+      {
+        "label": "0.488",
+        "image": null
+      }
+    ],
+    "answer": "0.012"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.5",
+    "text": "7.5: Carrying Out a Test for a Population Mean"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Calculate a test statistic and find a p-value, provided conditions for inference are met."
+  }
+}

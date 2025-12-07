@@ -1,0 +1,41 @@
+{
+  "id": "RD129629",
+  "type": "mcq",
+  "title": "Processes - Parametric Eq - Second Deriv",
+  "content": {
+    "description": "",
+    "question": "A curve is defined by the parametric equations <math alttext=\"x of t, equals, cosine t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mi>cos</mi><mo>⁡</mo><mi>t</mi></mrow></mstyle></math> and <math alttext=\"y of t, equals, sine t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>(</mo><mi>t</mi><mo>)</mo><mo>=</mo><mi>sin</mi><mo>⁡</mo><mi>t</mi></mrow></mstyle></math>. What is <math alttext=\"the second derivative of y, with respect to x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><msup><mrow><mi>d</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>y</mi></mrow><mrow><mi>d</mi><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mstyle></math> in terms of <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the negative of the fraction with numerator 1, and denominator the sine squared of t\" display=\"inline\" overflow=\"scroll\"><mrow><mrow><mo>−</mo><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>sin</mi><mo>⁡</mo></mrow><mrow><mn>2</mn></mrow></msup><mi>t</mi></mrow></mfrac></mrow></mstyle></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator 1, and denominator the sine squared of t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>sin</mi><mo>⁡</mo></mrow><mrow><mn>2</mn></mrow></msup><mi>t</mi></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the negative of the fraction with numerator 1, and denominator the sine cubed of t\" display=\"inline\" overflow=\"scroll\"><mrow><mrow><mo>−</mo><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>sin</mi><mo>⁡</mo></mrow><mrow><mn>3</mn></mrow></msup><mi>t</mi></mrow></mfrac></mrow></mstyle></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator 1, and denominator the sine cubed of t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>sin</mi><mo>⁡</mo></mrow><mrow><mn>3</mn></mrow></msup><mi>t</mi></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the negative of the fraction with numerator 1, and denominator the sine cubed of t\" display=\"inline\" overflow=\"scroll\"><mrow><mrow><mo>−</mo><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>sin</mi><mo>⁡</mo></mrow><mrow><mn>3</mn></mrow></msup><mi>t</mi></mrow></mfrac></mrow></mstyle></mrow></mrow></math>"
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Parametric Equations, Polar Coordinates, and Vector-Valued Functions"
+  },
+  "topic": {
+    "code": "9.2",
+    "text": "9.2: (BC ONLY) Second Derivatives of Parametric Equations"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

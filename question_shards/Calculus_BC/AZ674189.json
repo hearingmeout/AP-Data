@@ -1,0 +1,41 @@
+{
+  "id": "AZ674189",
+  "type": "mcq",
+  "title": "Representations - Limits at Infinity",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be the function defined by <math alttext=\"f of x, equals, the fraction with numerator 3 to the x power, plus 2, and denominator e raised to the 2 x power, plus 1, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo></mrow><mfrac><mrow><msup><mrow><mn>3</mn></mrow><mrow><mi>x</mi></mrow></msup><mo>+</mo><mn>2</mn></mrow><mrow><msup><mrow><mi>e</mi></mrow><mrow><mn>2</mn><mi>x</mi></mrow></msup><mo>+</mo><mn>1</mn></mrow></mfrac></mrow></mstyle></math> for <math alttext=\"x greater than 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>&gt;</mo><mn>0</mn></mrow></mstyle></math>. Which of the following is a horizontal asymptote to the graph of <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"y equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mn>0</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"y equals, the fraction 3 over e squared, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mfrac><mrow><mn>3</mn></mrow><mrow><msup><mrow><mi>e</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"y equals 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mn>1</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "There is no horizontal asymptote to the graph of <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math>.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"y equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mn>0</mn></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: Connecting Limits at Infinity and Horizontal Asymptotes"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Identify how mathematical characteristics or properties of functions are related in different representations."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "LA430228",
+  "type": "mcq",
+  "title": "Definition of derivative",
+  "content": {
+    "description": "",
+    "question": "<math> <semantics> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>h</mi> <mo>→</mo> <mn>0</mn> </mrow> </munder> <mfrac> <mrow> <msup> <mi>e</mi> <mrow> <mo>−</mo> <mn>1</mn> <mo>−</mo> <mi>h</mi> </mrow> </msup> <mo>−</mo> <msup> <mi>e</mi> <mrow> <mo>−</mo> <mn>1</mn> </mrow> </msup> </mrow> <mi>h</mi> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaadaWfqaqaaabaaaaaaaaapeGaciiBaiaacMgacaGGTbaal8aabaWdbiaadIgacqGHsgIRcaaIWaaapaqabaGcpeWaaSaaa8aabaWdbiaadwgapaWaaWbaaSqabeaapeGaeyOeI0IaaGymaiabgkHiTiaadIgaaaGccqGHsislcaWGLbWdamaaCaaaleqabaWdbiabgkHiTiaaigdaaaaak8aabaWdbiaadIgaaaaaaa@49D2@</annotation> </semantics> </math> is",
+    "image": null,
+    "choices": [
+      {
+        "label": "-1",
+        "image": null
+      },
+      {
+        "label": "-1 / e",
+        "image": null
+      },
+      {
+        "label": "0",
+        "image": null
+      },
+      {
+        "label": "1/e",
+        "image": null
+      },
+      {
+        "label": "Nonexistent",
+        "image": null
+      }
+    ],
+    "answer": "-1 / e"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Defining the Derivative of a Function and Using Derivative Notation"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Use appropriate mathematical symbols and notation (e.g., Represent a derivative using ƒ'(x), y', and dy/dx)."
+  }
+}

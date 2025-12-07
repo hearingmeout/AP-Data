@@ -1,0 +1,45 @@
+{
+  "id": "EY326037",
+  "type": "mcq",
+  "title": "Estimate  value of a function with Euler's method",
+  "content": {
+    "description": "",
+    "question": "The table above gives values of <math> <semantics> <msup> <mi>f</mi> <mo>′</mo> </msup> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk 0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr 0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaceWGMbGbauaaaa a@39F4@ </annotation> </semantics> </math>, the derivative of a function f. If <math> <semantics> <mrow> <mi>f</mi><mrow><mo>(</mo> <mn>1</mn> <mo>)</mo></mrow><mo>=</mo><mn>4</mn></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk 0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr 0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbi aadAgadaqadaWdaeaapeGaaGymaaGaayjkaiaawMcaaiabg2da9iaa isdaaaa@3E2F@ </annotation> </semantics> </math>, what is the approximation to <math> <semantics> <mrow> <mi>f</mi><mrow><mo>(</mo> <mn>2</mn> <mo>)</mo></mrow></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk 0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr 0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbi aadAgadaqadaWdaeaapeGaaGOmaaGaayjkaiaawMcaaaaa@3C6C@ </annotation> </semantics> </math> obtained by using Euler’s method with a step size of 0.5 ?",
+    "image": "https://ap.oly.st/images/4640d013e164d0175ca14518dc383050.png",
+    "choices": [
+      {
+        "label": "2.35",
+        "image": null
+      },
+      {
+        "label": "3.65",
+        "image": null
+      },
+      {
+        "label": "4.35",
+        "image": null
+      },
+      {
+        "label": "4.70",
+        "image": null
+      },
+      {
+        "label": "4.80",
+        "image": null
+      }
+    ],
+    "answer": "4.35"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.5",
+    "text": "7.5: (BC ONLY) Approximating Solutions Using Euler's Method"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

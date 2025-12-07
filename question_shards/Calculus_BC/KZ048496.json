@@ -1,0 +1,41 @@
+{
+  "id": "KZ048496",
+  "type": "mcq",
+  "title": "Processes - Straight-Line Motion",
+  "content": {
+    "description": "",
+    "question": "A particle moves along the <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mrow><mi>x</mi></mrow></math>-axis so that at any time <math alttext=\"t is greater than or equal to 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>≥</mo><mn>0</mn></mrow></mstyle></math> its position is given by <math alttext=\"x of t, equals, one half times, open parenthesis, a, minus t, close parenthesis, squared\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mrow><msup><mrow><mo>(</mo><mi>a</mi><mo>−</mo><mi>t</mi><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow></mrow></mstyle></math>, where <math alttext=\"a\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>a</mi></mrow></mstyle></math> is a positive constant. For what values of <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math> is the particle moving to the right?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The particle is moving to the right only if <math alttext=\"0 is less than t, which is less than a\" display=\"inline\" overflow=\"scroll\"><mrow><mn>0</mn><mo>&lt;</mo><mi>t</mi><mo>&lt;</mo><mi>a</mi></mrow></math>.",
+        "image": null
+      },
+      {
+        "label": "The particle is moving to the right only if <math alttext=\"a, is less than t\" display=\"inline\" overflow=\"scroll\"><mrow><mi>a</mi><mo>&lt;</mo><mi>t</mi></mrow></math>.",
+        "image": null
+      },
+      {
+        "label": "The particle is moving to the right only if <math alttext=\"t equals a.\" display=\"inline\" overflow=\"scroll\"><mrow><mi>t</mi><mo>=</mo><mi>a</mi></mrow></math>.",
+        "image": null
+      },
+      {
+        "label": "The particle is not moving to the right.",
+        "image": null
+      }
+    ],
+    "answer": "The particle is moving to the right only if <math alttext=\"a, is less than t\" display=\"inline\" overflow=\"scroll\"><mrow><mi>a</mi><mo>&lt;</mo><mi>t</mi></mrow></math>."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Contextual Applications of Differentiation"
+  },
+  "topic": {
+    "code": "4.2",
+    "text": "4.2: Straight-Line Motion - Connecting Position, Velocity, and Acceleration"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

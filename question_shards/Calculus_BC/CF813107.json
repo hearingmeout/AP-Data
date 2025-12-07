@@ -1,0 +1,45 @@
+{
+  "id": "CF813107",
+  "type": "mcq",
+  "title": "Trapezoidal sum approximation",
+  "content": {
+    "description": "",
+    "question": "x 0 2 4 6 f(x) 4 k 8 12 The function f is continuous on the closed interval [0,6] and has the values given in the table above. The trapezoidal approximation for <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>6</mn> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>d</mi><mi>x</mi></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWdXaWdaeaapeGaamOzaaWcpaqaa8qacaaIWaaapaqaa8qacaaI 2aaaniabgUIiYdGcdaqadaWdaeaapeGaamiEaaGaayjkaiaawMcaai aadsgacaWG4baaaa@3F96@ </annotation> </semantics> </math> found with 3 subintervals of equal length is 52. What is the value of k ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "2",
+        "image": null
+      },
+      {
+        "label": "6",
+        "image": null
+      },
+      {
+        "label": "7",
+        "image": null
+      },
+      {
+        "label": "10",
+        "image": null
+      },
+      {
+        "label": "14",
+        "image": null
+      }
+    ],
+    "answer": "10"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.2",
+    "text": "6.2: Approximating Areas with Riemann Sums"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "XM531328",
+  "type": "frq",
+  "title": "Multi-focus - bench press bias simulation",
+  "content": {
+    "description": "",
+    "question": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations.The athletic director of a large university in the United States is interested in studying the muscle strength of the students at the university. The athletic director attended a practice of the football team and asked the football players to respond to the question, “Can you bench press at least your own weight?”(a) Explain how the athletic director’s sampling method might have introduced bias and describe how the bias might affect the point estimate of <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>, the proportion of all students at the university who would respond “yes” to the question.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations.The athletic director of a large university in the United States is interested in studying the muscle strength of the students at the university. The athletic director attended a practice of the football team and asked the football players to respond to the question, “Can you bench press at least your own weight?”(a) Explain how the athletic director’s sampling method might have introduced bias and describe how the bias might affect the point estimate of <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>, the proportion of all students at the university who would respond “yes” to the question.",
+        "image": null
+      },
+      {
+        "text": "Suppose that <math alttext=\"16%\" overflow=\"scroll\"><mstyle><mrow><mn>16</mn><mo>%</mo></mrow></mstyle></math> of students at the university can bench press at least their own weight. Let <math alttext=\"B\" overflow=\"scroll\"><mstyle><mrow><mi>B</mi></mrow></mstyle></math> represent the number of students in a random sample of twelve students from the university who can bench press at least their own weight. The graph shows the probability distribution of <math alttext=\"B\" overflow=\"scroll\"><mstyle><mrow><mi>B</mi></mrow></mstyle></math>. (b) Calculate and interpret the expected value of <math alttext=\"B\" overflow=\"scroll\"><mstyle><mrow><mi>B</mi></mrow></mstyle></math>.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Statistics/VR252107.g01.png"
+      },
+      {
+        "text": "(c) Describe a simulation process that could be conducted to estimate the value of <math alttext=\"the probability of, open parenthesis, B is greater than 2, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>P</mi><mrow><mo>(</mo><mi>B</mi><mo>&gt;</mo><mn>2</mn><mo>)</mo></mrow></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "text": "A professor in the engineering program at the university is interested in examining whether the <math alttext=\"750\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>750</mn></mrow></mstyle></math> engineering majors at the university have different muscle strength from the overall population of students at the university. A random sample of <math alttext=\"70\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>70</mn></mrow></mstyle></math> engineering majors will be selected from the engineering program at the university and each engineering major will be asked to report whether they can bench press at least their own weight.(d) If the professor uses a stratified random sampling procedure to select the sample, identify an effective variable on which to stratify. Explain your reasoning.",
+        "image": null
+      },
+      {
+        "text": "Assume the conditions for inference are met. A <math alttext=\"99\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>99</mn></mrow></mstyle></math> percent confidence interval for the proportion of all engineering majors at the university who would report that they can bench press at least their own weight was computed to be <math alttext=\"0.143 plus or minus 0.108\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.143</mn><mo>±</mo><mn>0.108</mn></mrow></mstyle></math>.(e) Does the confidence interval provide convincing statistical evidence that the engineering majors at the university have different muscle strength from the overall population of students at the university? Justify your answer.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Collecting Data"
+  },
+  "topic": {
+    "code": "3.3",
+    "text": "3.3: Random Sampling and Data Collection"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Describe an appropriate method for gathering and representing data."
+  }
+}

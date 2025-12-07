@@ -1,0 +1,45 @@
+{
+  "id": "PT994724",
+  "type": "mcq",
+  "title": "Rate of change of balloon",
+  "content": {
+    "description": "",
+    "question": "The rate of change of the altitude of a hot-air balloon is given by r(t) = t3 - 4t2 + 6 for 0 ≤ t ≤ 8. Which of the following expressions gives the change in altitude of the balloon during the time the altitude is decreasing?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mrow> <mn>1.572</mn> </mrow> <mrow> <mn>3.514</mn> </mrow> </msubsup> <mi>r</mi> </mrow> </mstyle> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> <mi>d</mi> <mi>t</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaapedapaqaa8qacaWGYbaal8aabaWdbiaaigdacaGGUaGaaGynaiaaiEdacaaIYaaapaqaa8qacaaIZaGaaiOlaiaaiwdacaaIXaGaaGinaaqdcqGHRiI8aOWaaeWaa8aabaWdbiaadshaaiaawIcacaGLPaaacaWGKbGaamiDaaaa@4875@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>8</mn> </msubsup> <mi>r</mi> </mrow> </mstyle> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> <mi>d</mi> <mi>t</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaapedapaqaa8qacaWGYbaal8aabaWdbiaaicdaa8aabaWdbiaaiIdaa0Gaey4kIipakmaabmaapaqaa8qacaWG0baacaGLOaGaayzkaaGaamizaiaadshaaaa@42A1@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mrow> <mn>2.667</mn> </mrow> </msubsup> <mi>r</mi> </mrow> </mstyle> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> <mi>d</mi> <mi>t</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaapedapaqaa8qacaWGYbaal8aabaWdbiaaicdaa8aabaWdbiaaikdacaGGUaGaaGOnaiaaiAdacaaI3aaaniabgUIiYdGcdaqadaWdaeaapeGaamiDaaGaayjkaiaawMcaaiaadsgacaWG0baaaa@458E@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mrow> <mn>1.572</mn> </mrow> <mrow> <mn>3.514</mn> </mrow> </msubsup> <msup> <mi>r</mi> <mo>′</mo> </msup> </mrow> </mstyle> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> <mi>d</mi> <mi>t</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaapedapaqaa8qaceWGYbGbauaaaSWdaeaapeGaaGymaiaac6cacaaI1aGaaG4naiaaikdaa8aabaWdbiaaiodacaGGUaGaaGynaiaaigdacaaI0aaaniabgUIiYdGcdaqadaWdaeaapeGaamiDaaGaayjkaiaawMcaaiaadsgacaWG0baaaa@4881@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mrow> <mn>2.667</mn> </mrow> </msubsup> <msup> <mi>r</mi> <mo>′</mo> </msup> </mrow> </mstyle> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> <mi>d</mi> <mi>t</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaapedapaqaa8qaceWGYbGbauaaaSWdaeaapeGaaGimaaWdaeaapeGaaGOmaiaac6cacaaI2aGaaGOnaiaaiEdaa0Gaey4kIipakmaabmaapaqaa8qacaWG0baacaGLOaGaayzkaaGaamizaiaadshaaaa@459A@</annotation> </semantics> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mrow> <mn>1.572</mn> </mrow> <mrow> <mn>3.514</mn> </mrow> </msubsup> <mi>r</mi> </mrow> </mstyle> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> <mi>d</mi> <mi>t</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaapedapaqaa8qacaWGYbaal8aabaWdbiaaigdacaGGUaGaaGynaiaaiEdacaaIYaaapaqaa8qacaaIZaGaaiOlaiaaiwdacaaIXaGaaGinaaqdcqGHRiI8aOWaaeWaa8aabaWdbiaadshaaiaawIcacaGLPaaacaWGKbGaamiDaaaa@4875@</annotation> </semantics> </math>"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Applications of Integration"
+  },
+  "topic": {
+    "code": "8.3",
+    "text": "8.3: Using Accumulation Functions and Definite Integrals in Applied Contexts"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

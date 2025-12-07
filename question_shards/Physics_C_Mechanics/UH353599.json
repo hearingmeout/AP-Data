@@ -1,0 +1,45 @@
+{
+  "id": "UH353599",
+  "type": "mcq",
+  "title": "Speed of pilot relative to the ground",
+  "content": {
+    "description": "",
+    "question": "At a particular instant, a stationary observer on the ground sees a package falling with speed v1 at an angle to the vertical. To a pilot flying horizontally at constant speed relative to the ground, the package appears to be falling vertically with a speed v2 at that instant. What is the speed of the pilot relative to the ground?",
+    "image": null,
+    "choices": [
+      {
+        "label": "v1 + v2",
+        "image": null
+      },
+      {
+        "label": "v1 - v2",
+        "image": null
+      },
+      {
+        "label": "v2 - v1",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <msqrt> <mrow> <msubsup> <mi>v</mi> <mn>1</mn> <mn>2</mn> </msubsup> <mo>−</mo> <msubsup> <mi>v</mi> <mn>2</mn> <mn>2</mn> </msubsup> </mrow> </msqrt> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <msqrt> <mrow> <msubsup> <mi>v</mi> <mn>1</mn> <mn>2</mn> </msubsup> <mo>+</mo> <msubsup> <mi>v</mi> <mn>2</mn> <mn>2</mn> </msubsup> </mrow> </msqrt> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <mrow> <msqrt> <mrow> <msubsup> <mi>v</mi> <mn>1</mn> <mn>2</mn> </msubsup> <mo>−</mo> <msubsup> <mi>v</mi> <mn>2</mn> <mn>2</mn> </msubsup> </mrow> </msqrt> </mrow> </math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.4",
+    "text": "1.4: Reference Frames and Relative Motion"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MY161220",
+  "type": "mcq",
+  "title": "Ground beef",
+  "content": {
+    "description": "",
+    "question": "Molly works for a meat producer, and she needs to determine whether containers of ground beef have the correct fat content. She obtains a random sample of 120 containers of ground beef and finds that 84 percent have the correct fat content. Molly then conducts a hypothesis test of <math alttext=\"H sub 0: p equals 0.80\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext>H</mtext></mrow><mrow><mn>0</mn></mrow></msub><mo>:</mo><mi>p</mi><mo>=</mo><mn>0.80</mn></mrow></mstyle></math> versus <math alttext=\"H sub a: p is not equal to 0.80\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><msub><mrow><mtext>H</mtext></mrow><mrow><mtext>a</mtext></mrow></msub><mo>:</mo><mi>p</mi><mo>≠</mo><mn>0.80</mn></mrow></mstyle></mrow></mstyle></math> and calculates a test statistic of 1.10 with a <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value of 0.273. Which of the following best represents the meaning of the <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value?",
+    "image": null,
+    "choices": [
+      {
+        "label": "If the population proportion is 0.84, the probability of observing a sample proportion of 0.80 is 0.273.",
+        "image": null
+      },
+      {
+        "label": "If the population proportion is 0.84, the probability of observing a sample proportion of at least 0.04 less than 0.84 is 0.273.",
+        "image": null
+      },
+      {
+        "label": "If the population proportion is 0.80, the probability of observing a sample proportion within 0.04 of 0.80 is 0.273.",
+        "image": null
+      },
+      {
+        "label": "If the population proportion is 0.80, the probability of observing a sample proportion at least 0.04 greater than 0.80 is 0.273.",
+        "image": null
+      },
+      {
+        "label": "If the population proportion is 0.80, the probability of observing a sample proportion of at least 0.84 or at most 0.76 is 0.273.",
+        "image": null
+      }
+    ],
+    "answer": "If the population proportion is 0.80, the probability of observing a sample proportion of at least 0.84 or at most 0.76 is 0.273."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.5",
+    "text": "6.5: Interpreting P-Values"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MT789917",
+  "type": "mcq",
+  "title": "Senator age",
+  "content": {
+    "description": "In a recent year, the distribution of age for senators in the United States Senate was unimodal and roughly symmetric with mean <math alttext=\"65\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>65</mn></mrow></mstyle></math> years and standard deviation <math alttext=\"10.6\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>10.6</mn></mrow></mstyle></math> years. Consider a simulation with <math alttext=\"200\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>200</mn></mrow></mstyle></math> trials in which, for each trial, a random sample of <math alttext=\"5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>5</mn></mrow></mstyle></math> senators’ ages is selected and the mean age calculated.",
+    "question": "Which of the following best describes the distribution of the <math alttext=\"200\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>200</mn></mrow></mstyle></math> sample mean ages?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Approximately normal with mean <math alttext=\"65\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>65</mn></mrow></mstyle></math> years and standard deviation <math alttext=\"10.6\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>10.6</mn></mrow></mstyle></math> years",
+        "image": null
+      },
+      {
+        "label": "Approximately normal with mean <math alttext=\"65\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>65</mn></mrow></mstyle></math> years and standard deviation <math alttext=\"10.6 over the square root of 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>10.6</mn></mrow><mrow><msqrt><mrow><mn>5</mn></mrow></msqrt></mrow></mfrac></mrow></mstyle></math> years",
+        "image": null
+      },
+      {
+        "label": "Approximately normal with mean <math alttext=\"65\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>65</mn></mrow></mstyle></math> years and standard deviation <math alttext=\"10.6 over the square root of 200\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>10.6</mn></mrow><mrow><msqrt><mrow><mn>200</mn></mrow></msqrt></mrow></mfrac></mrow></mstyle></math> years",
+        "image": null
+      },
+      {
+        "label": "Approximately uniform with mean <math alttext=\"65\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>65</mn></mrow></mstyle></math> years and standard deviation <math alttext=\"10.6 over the square root of 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>10.6</mn></mrow><mrow><msqrt><mrow><mn>5</mn></mrow></msqrt></mrow></mfrac></mrow></mstyle></math> years",
+        "image": null
+      },
+      {
+        "label": "Approximately uniform with mean <math alttext=\"65\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>65</mn></mrow></mstyle></math> years and standard deviation <math alttext=\"10.6 over the square root of 200\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>10.6</mn></mrow><mrow><msqrt><mrow><mn>200</mn></mrow></msqrt></mrow></mfrac></mrow></mstyle></math> years",
+        "image": null
+      }
+    ],
+    "answer": "Approximately normal with mean <math alttext=\"65\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>65</mn></mrow></mstyle></math> years and standard deviation <math alttext=\"10.6 over the square root of 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>10.6</mn></mrow><mrow><msqrt><mrow><mn>5</mn></mrow></msqrt></mrow></mfrac></mrow></mstyle></math> years"
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Sampling Distributions"
+  },
+  "topic": {
+    "code": "5.7",
+    "text": "5.7: Sampling Distributions for Sample Means"
+  },
+  "skill": {
+    "code": "Skill 3.C",
+    "text": "Skill 3.C: Describe probability distributions."
+  }
+}

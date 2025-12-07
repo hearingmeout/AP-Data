@@ -1,0 +1,40 @@
+{
+  "id": "ST537334",
+  "type": "frq",
+  "title": "Implicit Differentiation",
+  "content": {
+    "description": "",
+    "question": "NO CALCULATOR IS ALLOWED FOR THIS QUESTION. Show all of your work, even though the question may not explicitly remind you to do so. Clearly label any functions, graphs, tables, or other objects that you use. Justifications require that you give mathematical reasons, and that you verify the needed conditions under which relevant theorems, properties, definitions, or tests are applied. Your work will be scored on the correctness and completeness of your methods as well as your answers. Answers without supporting work will usually not receive credit. Unless otherwise specified, answers (numeric or algebraic) need not be simplified. If your answer is given as a decimal approximation, it should be correct to three places after the decimal point. Unless otherwise specified, the domain of a function <math alttext=\"f\" overflow=\"scroll\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi></math> is assumed to be the set of all real numbers <math alttext=\"x\" overflow=\"scroll\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math> for which <math alttext=\"f of x\" overflow=\"scroll\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mpadded><mo>(</mo><mpadded><mi>x</mi></mpadded><mo>)</mo></mpadded></math> is a real number. Consider the curve defined by the equation <math alttext=\"x times y equals, x plus y squared, plus 3\" overflow=\"scroll\"> <mstyle> <mrow> <mi>x</mi> <mo>⁢</mo> <mi>y</mi> <mo>=</mo> <mi>x</mi> <mo>+</mo> <msup> <mrow> <mi>y</mi> </mrow> <mrow> <mn>2</mn> </mrow> </msup> <mo>+</mo> <mn>3</mn> </mrow> </mstyle> </math>. (a) Show that <math alttext=\"the derivative of y with respect to x equals, the fraction with numerator 1 minus y, and denominator x minus 2 y, end fraction\" overflow=\"scroll\"> <mfrac> <mrow> <mo>ⅆ</mo> <mi>y</mi> </mrow> <mrow> <mo>ⅆ</mo> <mi>x</mi> </mrow> </mfrac> <mo>=</mo> <mfrac> <mrow> <mn>1</mn> <mo>−</mo> <mi>y</mi> </mrow> <mrow> <mi>x</mi> <mo>−</mo> <mn>2</mn> <mi>y</mi> </mrow> </mfrac> </math>.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "NO CALCULATOR IS ALLOWED FOR THIS QUESTION. Show all of your work, even though the question may not explicitly remind you to do so. Clearly label any functions, graphs, tables, or other objects that you use. Justifications require that you give mathematical reasons, and that you verify the needed conditions under which relevant theorems, properties, definitions, or tests are applied. Your work will be scored on the correctness and completeness of your methods as well as your answers. Answers without supporting work will usually not receive credit. Unless otherwise specified, answers (numeric or algebraic) need not be simplified. If your answer is given as a decimal approximation, it should be correct to three places after the decimal point. Unless otherwise specified, the domain of a function <math alttext=\"f\" overflow=\"scroll\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi></math> is assumed to be the set of all real numbers <math alttext=\"x\" overflow=\"scroll\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math> for which <math alttext=\"f of x\" overflow=\"scroll\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mpadded><mo>(</mo><mpadded><mi>x</mi></mpadded><mo>)</mo></mpadded></math> is a real number. Consider the curve defined by the equation <math alttext=\"x times y equals, x plus y squared, plus 3\" overflow=\"scroll\"> <mstyle> <mrow> <mi>x</mi> <mo>⁢</mo> <mi>y</mi> <mo>=</mo> <mi>x</mi> <mo>+</mo> <msup> <mrow> <mi>y</mi> </mrow> <mrow> <mn>2</mn> </mrow> </msup> <mo>+</mo> <mn>3</mn> </mrow> </mstyle> </math>. (a) Show that <math alttext=\"the derivative of y with respect to x equals, the fraction with numerator 1 minus y, and denominator x minus 2 y, end fraction\" overflow=\"scroll\"> <mfrac> <mrow> <mo>ⅆ</mo> <mi>y</mi> </mrow> <mrow> <mo>ⅆ</mo> <mi>x</mi> </mrow> </mfrac> <mo>=</mo> <mfrac> <mrow> <mn>1</mn> <mo>−</mo> <mi>y</mi> </mrow> <mrow> <mi>x</mi> <mo>−</mo> <mn>2</mn> <mi>y</mi> </mrow> </mfrac> </math>.",
+        "image": null
+      },
+      {
+        "text": "(b) Find the slope of the line tangent to the curve at the point <math alttext=\"with coordinates 7 comma 2\" overflow=\"scroll\"> <mstyle> <mrow> <mrow> <mo>(</mo> <mn>7</mn> <mo>,</mo> <mn>2</mn> <mo>)</mo> </mrow> </mrow> </mstyle> </math>.",
+        "image": null
+      },
+      {
+        "text": "(c) Find an equation for each vertical line tangent to the curve.",
+        "image": null
+      },
+      {
+        "text": "(d) Evaluate <math alttext=\"the second derivative of y with respect to x\" overflow=\"scroll\"> <mfrac> <mrow> <msup> <mo>ⅆ</mo> <mn>2</mn> </msup> <mi>y</mi> </mrow> <mrow> <mo>ⅆ</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mfrac> </math> at the point <math alttext=\"with coordinates 7 comma 2\" overflow=\"scroll\"> <mstyle> <mrow> <mrow> <mo>(</mo> <mn>7</mn> <mo>,</mo> <mn>2</mn> <mo>)</mo> </mrow> </mrow> </mstyle> </math>. Show the work that leads to your answer.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Defining the Derivative of a Function and Using Derivative Notation"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

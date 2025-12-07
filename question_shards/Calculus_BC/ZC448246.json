@@ -1,0 +1,41 @@
+{
+  "id": "ZC448246",
+  "type": "mcq",
+  "title": "Justification - Intermediate Value Theorem",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be the function given by <math alttext=\"f of x, equals, 2 x plus, the tangent of, open parenthesis, x over 5, close parenthesis, minus 15\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mi>tan</mi><mo>⁡</mo><mrow><mo>(</mo><mfrac><mrow><mi>x</mi></mrow><mrow><mn>5</mn></mrow></mfrac><mo>)</mo></mrow><mo>−</mo><mn>15</mn></mrow></mstyle></math>. The Intermediate Value Theorem applied to <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> on the closed interval <math alttext=\"open bracket, 10 comma 15, close bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>[</mo><mn>10</mn><mo>,</mo><mn>15</mn><mo>]</mo></mrow></mstyle></math> guarantees a solution in <math alttext=\"open bracket, 10 comma 15, close bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>[</mo><mn>10</mn><mo>,</mo><mn>15</mn><mo>]</mo></mrow></mstyle></math> to which of the following equations?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"f of x, equals negative 15\" display=\"inline\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mrow><mo>−</mo><mn>15</mn></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f of x, equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>0</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f of x, equals 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>5</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f of x, equals 15\" display=\"inline\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>15</mn></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"f of x, equals 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>5</mn></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.16",
+    "text": "1.16: Working with the Intermediate Value Theorem (IVT)"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Provide reasons or rationales for solutions and conclusions."
+  }
+}

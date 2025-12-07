@@ -1,0 +1,45 @@
+{
+  "id": "WP438742",
+  "type": "mcq",
+  "title": "Derivative of tangent function",
+  "content": {
+    "description": "",
+    "question": "If dy/dx = tan x , then y =",
+    "image": null,
+    "choices": [
+      {
+        "label": "12 tan2 x + C",
+        "image": null
+      },
+      {
+        "label": "sec2 x + C",
+        "image": null
+      },
+      {
+        "label": "ln | secx | + C",
+        "image": null
+      },
+      {
+        "label": "ln | cosx | + C",
+        "image": null
+      },
+      {
+        "label": "sec x tanx + C",
+        "image": null
+      }
+    ],
+    "answer": "ln | secx | + C"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.9",
+    "text": "6.9: Integrating Using Substitution"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "EU239086",
+  "type": "mcq",
+  "title": "Representations - Limits with Tables and Graphs",
+  "content": {
+    "description": "<math alttext=\"The figure presents a 2 row table, with 8 columns of data. The heading for row 1 is “x,” and the heading for row 2 is “f of x.” The data in the table are as follows. Column 1. x is 2.9. f of x is 1.7. Column 2. x is 2.95. f of x is 1.65. Column 3. x is 2.98. f of x is 1.62. Column 4. x is 2.999. f of x is 1.601. Column 5. x is 3.001. f of x is 1.603. Column 6. x is 3.02. f of x is 1.66. Column 7. x is 3.05. f of x is 1.747. Column 8. x is 3.1. f of x is 1.89.\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mtable columnlines=\"solid\" columnspacing=\"0.0em\" columnwidth=\"3em 0.05em 3em 3em 3em 3em 3em 3em 3em 3em\" equalrows=\"true\" frame=\"solid\" framespacing=\"0.0em 0.5ex\" rowlines=\"solid\" rowspacing=\"1ex\" width=\"auto\"><mtr><mtd><mi>x</mi></mtd><mtd><mspace depth=\"1.0ex\" height=\"2.25ex\" width=\"0.0em\"></mspace></mtd><mtd><mn>2.9</mn></mtd><mtd><mn>2.95</mn></mtd><mtd><mn>2.98</mn></mtd><mtd><mn>2.999</mn></mtd><mtd><mn>3.001</mn></mtd><mtd><mn>3.02</mn></mtd><mtd><mn>3.05</mn></mtd><mtd><mn>3.1</mn></mtd></mtr><mtr><mtd><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mtd><mtd><mspace depth=\"1.0ex\" height=\"2.25ex\" width=\"0.0em\"></mspace></mtd><mtd><mn>1.7</mn></mtd><mtd><mn>1.65</mn></mtd><mtd><mn>1.62</mn></mtd><mtd><mn>1.601</mn></mtd><mtd><mn>1.603</mn></mtd><mtd><mn>1.66</mn></mtd><mtd><mn>1.747</mn></mtd><mtd><mn>1.89</mn></mtd></mtr></mtable></mrow></mstyle></mrow></mstyle></math>",
+    "question": "The table above gives selected values for a function <math alttext=\"f\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math>. Also shown is a portion of the graph of <math alttext=\"f\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math>. The graph consists of a line segment for <math alttext=\"x less than 3\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>&lt;</mo><mn>3</mn></mrow></mstyle></math> and part of a parabola for <math alttext=\"x greater than 3\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>&gt;</mo><mn>3</mn></mrow></mstyle></math>. What is <math alttext=\"the limit as x approaches 3, of, f of x\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mn>3</mn></mrow></munder><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow></mstyle></math> ?",
+    "image": "https://ap.oly.st/images/f6b1c39adb95ca1803cc7ca63adbb86b.png",
+    "choices": [
+      {
+        "label": "1.6",
+        "image": null
+      },
+      {
+        "label": "1.602",
+        "image": null
+      },
+      {
+        "label": "2",
+        "image": null
+      },
+      {
+        "label": "The limit does not exist.",
+        "image": null
+      }
+    ],
+    "answer": "1.6"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Connecting Multiple Representations of Limits"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

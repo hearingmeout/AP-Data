@@ -1,0 +1,41 @@
+{
+  "id": "RR917767",
+  "type": "mcq",
+  "title": "Representations - Behavior of a Function",
+  "content": {
+    "description": "",
+    "question": "The function <math alttext=\"h\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>h</mi></mrow></mstyle></math> is given by <math alttext=\"h of x, equals, the integral from, 1 to x, of, the natural log of open parenthesis, t times sine t, plus 5, close parenthesis, d t\" display=\"inline\" overflow=\"scroll\"><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>1</mn></mrow><mrow><mi>x</mi></mrow></msubsup><mrow><mi>ln</mi><mo>(</mo><mi>t</mi><mo>⁢</mo><mi>sin</mi><mo>⁡</mo><mi>t</mi><mo>+</mo><mn>5</mn><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow></mstyle></mrow></mstyle></mrow></math> for <math alttext=\"1 less than or equal to x, less than or equal to 7\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>1</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>7</mn></mrow></mstyle></math>. On what intervals, if any, is <math alttext=\"h\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>h</mi></mrow></mstyle></math> decreasing?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"2.029 is less than or equal to x, is less than or equal to 4.413\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>2.029</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>4.413</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"4.323, is less than or equal to x, is less than or equal to 5.461\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>4.323</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>5.461</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"1 is less than or equal to x, is less than or equal to 4.322\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>1</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>4.322</mn></mrow></mstyle></math> and <math alttext=\"5.461 is less than or equal to x, is less than or equal to 7\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>5.461</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>7</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "There are no intervals on which <math alttext=\"h\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>h</mi></mrow></mstyle></math> is decreasing.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"4.323, is less than or equal to x, is less than or equal to 5.461\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>4.323</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>5.461</mn></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.5",
+    "text": "6.5: Interpreting the Behavior of Accumulation Functions Involving Area"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Identify how mathematical characteristics or properties of functions are related in different representations."
+  }
+}

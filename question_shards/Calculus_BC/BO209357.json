@@ -1,0 +1,36 @@
+{
+  "id": "BO209357",
+  "type": "frq",
+  "title": "Modeling - Differential Equation",
+  "content": {
+    "description": "",
+    "question": "NO CALCULATOR IS ALLOWED FOR THIS QUESTION. Show all of your work, even though the question may not explicitly remind you to do so. Clearly label any functions, graphs, tables, or other objects that you use. Justifications require that you give mathematical reasons, and that you verify the needed conditions under which relevant theorems, properties, definitions, or tests are applied. Your work will be scored on the correctness and completeness of your methods as well as your answers. Answers without supporting work will usually not receive credit. Unless otherwise specified, answers (numeric or algebraic) need not be simplified. If your answer is given as a decimal approximation, it should be correct to three places after the decimal point. Unless otherwise specified, the domain of a function <math alttext=\"f\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is assumed to be the set of all real numbers <math alttext=\"x\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> for which <math alttext=\"f of x\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math> is a real number. On a certain day at a diner, the total number of food orders taken by time <math alttext=\"t\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math> is modeled by the function <math alttext=\"F\"><mstyle><mrow><mi>F</mi></mrow></mstyle></math> that satisfies the differential equation <math alttext=\"the derivative of F, with respect to t, equals, the fraction with numerator 48, and denominator the square root of 3 t, plus 1, end root, end fraction\"><mstyle><mrow><mfrac><mrow><mo>ⅆ</mo><mi>F</mi></mrow><mrow><mo>ⅆ</mo><mi>t</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>48</mn></mrow><mrow><msqrt><mrow><mn>3</mn><mi>t</mi><mo>+</mo><mn>1</mn></mrow></msqrt></mrow></mfrac></mrow></mstyle></math> with <math alttext=\"F of 1, equals 32\"><mstyle><mrow><mi>F</mi><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow><mo>=</mo><mn>32</mn></mrow></mstyle></math>, where <math alttext=\"t\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math> is the number of hours since the diner opened and <math alttext=\"0 is less than or equal to t, which is less than or equal to 8\"><mstyle><mrow><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>8</mn></mrow></mstyle></math>. (a) Write an equation for the line tangent to the graph of <math alttext=\"F\"><mstyle><mrow><mi>F</mi></mrow></mstyle></math> at <math alttext=\"t equals 1\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>1</mn></mrow></mstyle></math>. Use this equation to approximate the total number of food orders taken by time <math alttext=\"t equals 2\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>2</mn></mrow></mstyle></math>.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "NO CALCULATOR IS ALLOWED FOR THIS QUESTION. Show all of your work, even though the question may not explicitly remind you to do so. Clearly label any functions, graphs, tables, or other objects that you use. Justifications require that you give mathematical reasons, and that you verify the needed conditions under which relevant theorems, properties, definitions, or tests are applied. Your work will be scored on the correctness and completeness of your methods as well as your answers. Answers without supporting work will usually not receive credit. Unless otherwise specified, answers (numeric or algebraic) need not be simplified. If your answer is given as a decimal approximation, it should be correct to three places after the decimal point. Unless otherwise specified, the domain of a function <math alttext=\"f\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is assumed to be the set of all real numbers <math alttext=\"x\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> for which <math alttext=\"f of x\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math> is a real number. On a certain day at a diner, the total number of food orders taken by time <math alttext=\"t\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math> is modeled by the function <math alttext=\"F\"><mstyle><mrow><mi>F</mi></mrow></mstyle></math> that satisfies the differential equation <math alttext=\"the derivative of F, with respect to t, equals, the fraction with numerator 48, and denominator the square root of 3 t, plus 1, end root, end fraction\"><mstyle><mrow><mfrac><mrow><mo>ⅆ</mo><mi>F</mi></mrow><mrow><mo>ⅆ</mo><mi>t</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>48</mn></mrow><mrow><msqrt><mrow><mn>3</mn><mi>t</mi><mo>+</mo><mn>1</mn></mrow></msqrt></mrow></mfrac></mrow></mstyle></math> with <math alttext=\"F of 1, equals 32\"><mstyle><mrow><mi>F</mi><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow><mo>=</mo><mn>32</mn></mrow></mstyle></math>, where <math alttext=\"t\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math> is the number of hours since the diner opened and <math alttext=\"0 is less than or equal to t, which is less than or equal to 8\"><mstyle><mrow><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>8</mn></mrow></mstyle></math>. (a) Write an equation for the line tangent to the graph of <math alttext=\"F\"><mstyle><mrow><mi>F</mi></mrow></mstyle></math> at <math alttext=\"t equals 1\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>1</mn></mrow></mstyle></math>. Use this equation to approximate the total number of food orders taken by time <math alttext=\"t equals 2\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>2</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "text": "(b) Find <math alttext=\"F double prime of 5\"><mstyle><mrow><msup><mrow><mi>F</mi></mrow><mrow><mo>″</mo></mrow></msup><mrow><mo>(</mo><mn>5</mn><mo>)</mo></mrow></mrow></mstyle></math>. Using correct units, interpret the meaning of <math alttext=\"F double prime of 5\"><mstyle><mrow><msup><mrow><mi>F</mi></mrow><mrow><mo>″</mo></mrow></msup><mrow><mo>(</mo><mn>5</mn><mo>)</mo></mrow></mrow></mstyle></math> in the context of the problem.",
+        "image": null
+      },
+      {
+        "text": "(c) Find an expression for <math alttext=\"F of t\"><mstyle><mrow><mi>F</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow></mstyle></math>. Based on this model, what is the total number of food orders taken by time <math alttext=\"t equals 8\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>8</mn></mrow></mstyle></math> ?",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Contextual Applications of Differentiation"
+  },
+  "topic": {
+    "code": "4.1",
+    "text": "4.1: Interpreting the Meaning of the Derivative in Context"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

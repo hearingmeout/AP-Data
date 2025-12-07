@@ -1,0 +1,41 @@
+{
+  "id": "PT108151",
+  "type": "mcq",
+  "title": "Processes - Limits at Infinity",
+  "content": {
+    "description": "",
+    "question": "If <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is a function such that <math alttext=\"the limit as x approaches infinity, of, f of x, equals 0\" display=\"inline\" overflow=\"scroll\"><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mi>∞</mi></mrow></munder><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>0</mn></mrow></math>, which of the following could be an expression for <math alttext=\"f of x\" display=\"inline\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the fraction with numerator x squared, and denominator x squared, plus 4, end fraction\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>4</mn></mrow></mfrac></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction the sine of x, over x\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><mi>sin</mi><mo>⁡</mo><mi>x</mi></mrow><mrow><mi>x</mi></mrow></mfrac></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the cosine of x\" display=\"inline\" overflow=\"scroll\"><mrow><mi>cos</mi><mo>⁡</mo><mi>x</mi></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"e to the x power\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>e</mi></mrow><mrow><mi>x</mi></mrow></msup></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the fraction the sine of x, over x\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><mi>sin</mi><mo>⁡</mo><mi>x</mi></mrow><mrow><mi>x</mi></mrow></mfrac></mrow></mstyle></mrow></math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: Connecting Limits at Infinity and Horizontal Asymptotes"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

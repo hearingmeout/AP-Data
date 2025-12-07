@@ -1,0 +1,41 @@
+{
+  "id": "AV668159",
+  "type": "mcq",
+  "title": "Justification - Alternating Series Test",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"f\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be the function defined by <math alttext=\"f of x, equals, the fraction with numerator 2 plus cosine x, and denominator x squared, end fraction\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>2</mn><mo>+</mo><mi>cos</mi><mo>⁡</mo><mi>x</mi></mrow><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mstyle></math>. The derivative of <math alttext=\"f\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is <math alttext=\"f prime of x, equals, the negative of the fraction with numerator x squared times sine x, plus 2 x, times, open parenthesis, 2 plus cosine x, close parenthesis, and denominator x to the fourth power, end fraction\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mrow><mo>−</mo><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>sin</mi><mo>⁡</mo><mi>x</mi><mo>+</mo><mn>2</mn><mi>x</mi><mrow><mo>(</mo><mn>2</mn><mo>+</mo><mi>cos</mi><mo>⁡</mo><mi>x</mi><mo>)</mo></mrow></mrow><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>4</mn></mrow></msup></mrow></mfrac></mrow></mrow></mstyle></math>. The graph of the function <math alttext=\"g\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> defined by <math alttext=\"g of x, equals, x squared times sine x, plus 2 x, times, open parenthesis, 2 plus cosine x, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>sin</mi><mo>⁡</mo><mi>x</mi><mo>+</mo><mn>2</mn><mi>x</mi><mrow><mo>(</mo><mn>2</mn><mo>+</mo><mi>cos</mi><mo>⁡</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></math> is shown above for <math alttext=\"0 less than or equal to x, less than or equal to 100\" overflow=\"scroll\"><mstyle><mrow><mn>0</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>100</mn></mrow></mstyle></math>. Let <math alttext=\"b sub n, equal, f of n\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>b</mi></mrow><mrow><mi>n</mi></mrow></msub><mo>=</mo><mi>f</mi><mrow><mo>(</mo><mi>n</mi><mo>)</mo></mrow></mrow></mstyle></math> for all integers <math alttext=\"n greater than or equal to 1\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi><mo>≥</mo><mn>1</mn></mrow></mstyle></math>. Which of the following statements about the series <math alttext=\"the sum, from n equals 1, to infinity, of, open parenthesis, negative 1, close parenthesis, raised to the n plus 1 power, times b sub n\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><munderover><mo>∑</mo><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><mstyle><mrow><msup><mrow><mo>(</mo><mrow><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msup><msub><mrow><mi>b</mi></mrow><mrow><mi>n</mi></mrow></msub></mrow></mstyle></mrow></mrow></mstyle></mrow></math> is true?",
+    "image": "https://ap.oly.st/images/346ed64fc3b6f2dbb56b10bd24563d13.png",
+    "choices": [
+      {
+        "label": "The series converges by the alternating series test.",
+        "image": null
+      },
+      {
+        "label": "The alternating series test cannot be used to determine convergence because the series is not alternating.",
+        "image": null
+      },
+      {
+        "label": "The alternating series test cannot be used to determine convergence because <math alttext=\"the limit as n approaches infinity, of b sub n, is not equal to 0\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>n</mi><mo>→</mo><mi>∞</mi></mrow></munder><msub><mrow><mi>b</mi></mrow><mrow><mi>n</mi></mrow></msub><mo>≠</mo><mn>0</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "The alternating series test cannot be used to determine convergence because the terms <math alttext=\"b sub n\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>b</mi></mrow><mrow><mi>n</mi></mrow></msub></mrow></mstyle></math> are not decreasing.",
+        "image": null
+      }
+    ],
+    "answer": "The alternating series test cannot be used to determine convergence because the terms <math alttext=\"b sub n\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>b</mi></mrow><mrow><mi>n</mi></mrow></msub></mrow></mstyle></math> are not decreasing."
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.7",
+    "text": "10.7: (BC ONLY) Alternating Series Test for Convergence"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

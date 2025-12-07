@@ -1,0 +1,40 @@
+{
+  "id": "EC195467",
+  "type": "frq",
+  "title": "Implicit function: Find and apply deriv., MVT",
+  "content": {
+    "description": "",
+    "question": "(a) Show that <math> <semantics> <mrow> <mfrac> <mrow> <mi>d</mi> <mi>y</mi> </mrow> <mrow> <mi>d</mi> <mi>x</mi> </mrow> </mfrac> <mo>=</mo> <mfrac> <mn>2</mn> <mrow> <mn>2</mn> <mo>−</mo> <mi>sin</mi> <mi>y</mi> </mrow> </mfrac> </mrow> <annotation>MathType@MTEF@5@5@+= feaahmart1ev3aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaamizaiaadMhaa8aabaWdbiaadsgacaWG4baa aiabg2da9maalaaapaqaa8qacaaIYaaapaqaa8qacaaIYaGaeyOeI0 Iaci4CaiaacMgacaGGUbGaamyEaaaaaaa@41BC@</annotation> </semantics> </math>.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "(a) Show that <math> <semantics> <mrow> <mfrac> <mrow> <mi>d</mi> <mi>y</mi> </mrow> <mrow> <mi>d</mi> <mi>x</mi> </mrow> </mfrac> <mo>=</mo> <mfrac> <mn>2</mn> <mrow> <mn>2</mn> <mo>−</mo> <mi>sin</mi> <mi>y</mi> </mrow> </mfrac> </mrow> <annotation>MathType@MTEF@5@5@+= feaahmart1ev3aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaamizaiaadMhaa8aabaWdbiaadsgacaWG4baa aiabg2da9maalaaapaqaa8qacaaIYaaapaqaa8qacaaIYaGaeyOeI0 Iaci4CaiaacMgacaGGUbGaamyEaaaaaaa@41BC@</annotation> </semantics> </math>.",
+        "image": null
+      },
+      {
+        "text": "(b) For <math><semantics><mrow><mo>−</mo><mfrac><mi>π</mi><mn>2</mn></mfrac><mo>&lt;</mo><mi>y</mi><mo>&lt;</mo><mfrac><mi>π</mi><mn>2</mn></mfrac></mrow><annotation>MathType@MTEF@5@5@+= feaahmart1ev3aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacqGHsisldaWcaaWdaeaapeGaeqiWdahapaqaa8qacaaIYaaaaiab gYda8iaadMhacqGH8aapdaWcaaWdaeaapeGaeqiWdahapaqaa8qaca aIYaaaaaaa@3F93@</annotation></semantics></math>, there is a point P on the curve through which the line tangent to the curve has slope 1. Find the coordinates of the point P.",
+        "image": null
+      },
+      {
+        "text": "(c) Determine the concavity of the curve at points for which <math><semantics><mrow><mo>−</mo><mfrac><mi>π</mi><mn>2</mn></mfrac><mo>&lt;</mo><mi>y</mi><mo>&lt;</mo><mfrac><mi>π</mi><mn>2</mn></mfrac></mrow><annotation>MathType@MTEF@5@5@+= feaahmart1ev3aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacqGHsisldaWcaaWdaeaapeGaeqiWdahapaqaa8qacaaIYaaaaiab gYda8iaadMhacqGH8aapdaWcaaWdaeaapeGaeqiWdahapaqaa8qaca aIYaaaaaaa@3F93@</annotation></semantics></math>. Give a reason for your answer.",
+        "image": null
+      },
+      {
+        "text": "(d) Let <math> <semantics> <mrow> <mi>y</mi> <mo>=</mo> <mi>f</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaamyEaiabg2 da9iaadAgacaGGOaGaamiEaiaacMcaaaa@3B3B@ </annotation> </semantics> </math> be a function, defined implicitly by <math> <semantics> <mrow> <mn>2</mn> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo>−</mo> <mi>y</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mn>3</mn> <mo>+</mo> <mi>cos</mi> <mi>y</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaGOmaiaacI cacaWG4bGaeyOeI0IaamyEaiaacMcacqGH9aqpcaaIZaGaey4kaSIa ci4yaiaac+gacaGGZbGaamyEaaaa@4169@ </annotation> </semantics> </math>, that is continuous on the closed interval <math> <semantics> <mrow> <mrow> <mo>[</mo> <mrow> <mn>2</mn> <mo>,</mo> <mtext>&nbsp;</mtext> <mn>2.1</mn> </mrow> <mo>]</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaamWaaeaaqa aaaaaaaaWdbiaaikdacaGGSaGaaeiiaiaaikdacaGGUaGaaGymaaWd aiaawUfacaGLDbaaaaa@3C4F@ </annotation> </semantics> </math> and differentiable on the open interval <math> <semantics> <mrow> <mrow> <mo>(</mo> <mrow> <mn>2</mn> <mo>,</mo> <mtext>&nbsp;</mtext> <mn>2.1</mn> </mrow> <mo>)</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaeWaaeaaqa aaaaaaaaWdbiaaikdacaGGSaGaaeiiaiaaikdacaGGUaGaaGymaaWd aiaawIcacaGLPaaaaaa@3BE6@ </annotation> </semantics> </math>. Use the Mean Value Theorem on the interval <math> <semantics> <mrow> <mrow> <mo>[</mo> <mrow> <mn>2</mn> <mo>,</mo> <mtext>&nbsp;</mtext> <mn>2.1</mn> </mrow> <mo>]</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaamWaaeaaqa aaaaaaaaWdbiaaikdacaGGSaGaaeiiaiaaikdacaGGUaGaaGymaaWd aiaawUfacaGLDbaaaaa@3C4F@ </annotation> </semantics> </math> to show that <math><semantics><mrow><mfrac><mn>1</mn><mrow><mn>15</mn></mrow></mfrac><mo>≤</mo><mi>f</mi><mo stretchy=\"false\">(</mo><mn>2.1</mn><mo stretchy=\"false\">)</mo><mo>−</mo><mi>f</mi><mo stretchy=\"false\">(</mo><mn>2</mn><mo stretchy=\"false\">)</mo><mo>≤</mo><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow><annotation>MathType@MTEF@5@5@+= feaahmart1ev3aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaaGymaaWdaeaapeGaaGymaiaaiwdaaaGaeyiz ImQaamOzaiaacIcacaaIYaGaaiOlaiaaigdacaGGPaGaeyOeI0Iaam OzaiaacIcacaaIYaGaaiykaiabgsMiJoaalaaapaqaa8qacaaIXaaa paqaa8qacaaI1aaaaaaa@4621@</annotation></semantics></math>.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.2",
+    "text": "2.2: Defining the Derivative of a Function and Using Derivative Notation"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Identify an appropriate mathematical rule or procedure based on the classification of a given expression (e.g., Use the chain rule to find the derivative of a composite function)."
+  }
+}

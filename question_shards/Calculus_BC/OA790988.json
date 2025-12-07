@@ -1,0 +1,36 @@
+{
+  "id": "OA790988",
+  "type": "frq",
+  "title": "Oil Slick",
+  "content": {
+    "description": "",
+    "question": "Oil is leaking from a pipeline on the surface of a lake and forms an oil slick whose volume increases at a constant rate of 2000 cubic centimeters per minute. The oil slick takes the form of a right circular cylinder with both its radius and height changing with time.(Note: The volume V of a right circular cylinder with radius r and height h is given by <math> <semantics> <mrow> <mi>V</mi> <mo>=</mo> <mi>π</mi> <msup> <mi>r</mi> <mn>2</mn> </msup> <mi>h</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaacaWGwbGaeyypa0JaeqiWdaNaamOCamaaCaaaleqabaGaaGOmaaaakiaadIgaaaa@3F71@</annotation> </semantics> </math>.) (a) At the instant when the radius of the oil slick is 100 centimeters and the height is 0.5 centimeter, the radius is increasing at the rate of 2.5 centimeters per minute. At this instant, what is the rate of change of the height of the oil slick with respect to time, in centimeters per minute?",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Oil is leaking from a pipeline on the surface of a lake and forms an oil slick whose volume increases at a constant rate of 2000 cubic centimeters per minute. The oil slick takes the form of a right circular cylinder with both its radius and height changing with time.(Note: The volume V of a right circular cylinder with radius r and height h is given by <math> <semantics> <mrow> <mi>V</mi> <mo>=</mo> <mi>π</mi> <msup> <mi>r</mi> <mn>2</mn> </msup> <mi>h</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaacaWGwbGaeyypa0JaeqiWdaNaamOCamaaCaaaleqabaGaaGOmaaaakiaadIgaaaa@3F71@</annotation> </semantics> </math>.) (a) At the instant when the radius of the oil slick is 100 centimeters and the height is 0.5 centimeter, the radius is increasing at the rate of 2.5 centimeters per minute. At this instant, what is the rate of change of the height of the oil slick with respect to time, in centimeters per minute?",
+        "image": null
+      },
+      {
+        "text": "(b) A recovery device arrives on the scene and begins removing oil. The rate at which oil is removed is <math> <semantics> <mrow> <mi>R</mi> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mn>400</mn> <msqrt> <mi>t</mi> </msqrt> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaacaWGsbGaaiikaiaadshacaGGPaGaeyypa0JaaGinaiaaicdacaaIWaWaaOaaaeaacaWG0baaleqaaaaa@4071@</annotation> </semantics> </math> cubic centimeters per minute, where t is the time in minutes since the device began working. Oil continues to leak at the rate of 2000 cubic centimeters per minute. Find the time t when the oil slick reaches its maximum volume. Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "(c) By the time the recovery device began removing oil, 60,000 cubic centimeters of oil had already leaked. Write, but do not evaluate, an expression involving an integral that gives the volume of oil at the time found in part (b).",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Contextual Applications of Differentiation"
+  },
+  "topic": {
+    "code": "4.5",
+    "text": "4.5: Solving Related Rates Problems"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

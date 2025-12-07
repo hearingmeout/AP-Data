@@ -1,0 +1,41 @@
+{
+  "id": "MP553551",
+  "type": "mcq",
+  "title": "Processes - Fundemental Theorm of Calculus",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be the function defined by <math alttext=\"f of x, equals, 4 plus, the integral from 1 to x, of, the fraction with numerator 1 and denominator 1 plus t, end fraction, d t\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>4</mn><mo>+</mo><mrow><msubsup><mrow><mo stretchy=\"true\">∫</mo></mrow><mrow><mn>1</mn></mrow><mrow><mi>x</mi></mrow></msubsup><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>1</mn><mo>+</mo><mi>t</mi></mrow></mfrac></mrow></mstyle><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow></mrow></mstyle></mrow></math>. Which of the following is an equation for the line tangent to the graph of <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> at <math alttext=\"x equals 1\" display=\"inline\" overflow=\"scroll\"><mrow><mi>x</mi><mo>=</mo><mn>1</mn></mrow></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"y equals 4\" display=\"inline\" overflow=\"scroll\"><mrow><mi>y</mi><mo>=</mo><mn>4</mn></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"y minus 4 equals, one half times, open parenthesis, x minus 1, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mrow><mi>y</mi><mo>−</mo><mn>4</mn><mo>=</mo><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mrow><mo>(</mo><mi>x</mi><mo>−</mo><mn>1</mn><mo>)</mo></mrow></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"y minus 4 equals, one fourth times, open parenthesis, x minus 1, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mrow><mi>y</mi><mo>−</mo><mn>4</mn><mo>=</mo><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac><mrow><mo>(</mo><mi>x</mi><mo>−</mo><mn>1</mn><mo>)</mo></mrow></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"y minus 4 equals, the fraction 9 over 2, end fraction, times, open parenthesis, x minus 1, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mrow><mi>y</mi><mo>−</mo><mn>4</mn><mo>=</mo><mstyle><mrow><mfrac><mrow><mn>9</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mrow><mo>(</mo><mi>x</mi><mo>−</mo><mn>1</mn><mo>)</mo></mrow></mrow></mstyle></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"y minus 4 equals, one half times, open parenthesis, x minus 1, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mrow><mi>y</mi><mo>−</mo><mn>4</mn><mo>=</mo><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mrow><mo>(</mo><mi>x</mi><mo>−</mo><mn>1</mn><mo>)</mo></mrow></mrow></mstyle></mrow></math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.4",
+    "text": "6.4: The Fundamental Theorem of Calculus and Accumulation Functions"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

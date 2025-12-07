@@ -1,0 +1,45 @@
+{
+  "id": "KN670476",
+  "type": "mcq",
+  "title": "Inference procedure for shoppers going to a movie",
+  "content": {
+    "description": "",
+    "question": "In a random sample of 60 shoppers chosen from the shoppers at a large suburban mall, 36 indicated that they had been to a movie in the past month. In an independent random sample of 50 shoppers chosen from the shoppers in a large downtown shopping area, 31 indicated that they had been to a movie in the past month. What significance test should be used to determine whether these data provide sufficient evidence to reject the hypothesis that the proportion of shoppers at the suburban mall who had been to a movie in the past month is the same as the proportion of shoppers in the large downtown shopping area who had been to a movie in the past month?",
+    "image": null,
+    "choices": [
+      {
+        "label": "One proportion z-test",
+        "image": null
+      },
+      {
+        "label": "One sample z-test for a mean",
+        "image": null
+      },
+      {
+        "label": "One sample t-test for a mean",
+        "image": null
+      },
+      {
+        "label": "Two proportion z-test",
+        "image": null
+      },
+      {
+        "label": "Two sample t-test for means",
+        "image": null
+      }
+    ],
+    "answer": "Two proportion z-test"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.10",
+    "text": "6.10: Setting Up a Test for the Difference of Two Population Proportions"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Identify an appropriate inference method for significance tests."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "QT459667",
+  "type": "mcq",
+  "title": "Representations - Power Series",
+  "content": {
+    "description": "",
+    "question": "Which of the following is the Maclaurin series for <math alttext=\"x times the, cosine of, open parenthesis, x squared, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mrow><mi>x</mi><mrow><mi>cos</mi><mrow><mo>(</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mspace depth=\"0.0ex\" height=\"2.4ex\" width=\"0.0em\"></mspace><mo>)</mo></mrow></mrow></mrow></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"x minus the fraction, x to the fifth power over 2 factorial, end fraction, plus the fraction, x to the ninth power over 4 factorial, end fraction, minus the fraction, x to the thirteenth power over 6 factorial, end fraction, plus, dot dot dot\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mi>x</mi><mo>−</mo><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>5</mn></mrow></msup></mrow><mrow><mn>2</mn><mo>!</mo></mrow></mfrac></mrow></mstyle><mo>+</mo><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>9</mn></mrow></msup></mrow><mrow><mn>4</mn><mo>!</mo></mrow></mfrac></mrow></mstyle><mo>−</mo><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>13</mn></mrow></msup></mrow><mrow><mn>6</mn><mo>!</mo></mrow></mfrac></mrow></mstyle><mo>+</mo><mo>⋯</mo></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"x minus the fraction, x cubed over 2 factorial, end fraction, plus the fraction, x to the fifth power over 4 factorial, end fraction, minus the fraction, x to the seventh power over 6 factorial, end fraction, plus, dot dot dot\" display=\"inline\" overflow=\"scroll\"><mrow><mi>x</mi><mo>−</mo><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow><mrow><mn>2</mn><mo>!</mo></mrow></mfrac></mrow></mstyle><mo>+</mo><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>5</mn></mrow></msup></mrow><mrow><mn>4</mn><mo>!</mo></mrow></mfrac></mrow></mstyle><mo>−</mo><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>7</mn></mrow></msup></mrow><mrow><mn>6</mn><mo>!</mo></mrow></mfrac></mrow></mstyle><mo>+</mo><mo>⋯</mo></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"x cubed, minus the fraction, x to the seventh power over 3 factorial, end fraction, plus the fraction, x to the eleventh power over 5 factorial, end fraction, minus the fraction, x to the fifteenth power over 7 factorial, end fraction, plus, dot dot dot\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>−</mo><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>7</mn></mrow></msup></mrow><mrow><mn>3</mn><mo>!</mo></mrow></mfrac></mrow></mstyle><mo>+</mo><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>11</mn></mrow></msup></mrow><mrow><mn>5</mn><mo>!</mo></mrow></mfrac></mrow></mstyle><mo>−</mo><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>15</mn></mrow></msup></mrow><mrow><mn>7</mn><mo>!</mo></mrow></mfrac></mrow></mstyle><mo>+</mo><mo>⋯</mo></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"x cubed, minus the fraction x to the fifth power over 3 factorial, end fraction, plus the fraction, x to the seventh power over 5 factorial, end fraction, minus the fraction, x to the ninth power over 7 factorial, end fraction, plus, dot dot dot\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>−</mo><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>5</mn></mrow></msup></mrow><mrow><mn>3</mn><mo>!</mo></mrow></mfrac></mrow></mstyle><mo>+</mo><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>7</mn></mrow></msup></mrow><mrow><mn>5</mn><mo>!</mo></mrow></mfrac></mrow></mstyle><mo>−</mo><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>9</mn></mrow></msup></mrow><mrow><mn>7</mn><mo>!</mo></mrow></mfrac></mrow></mstyle><mo>+</mo><mo>⋯</mo></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"x minus the fraction, x to the fifth power over 2 factorial, end fraction, plus the fraction, x to the ninth power over 4 factorial, end fraction, minus the fraction, x to the thirteenth power over 6 factorial, end fraction, plus, dot dot dot\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mi>x</mi><mo>−</mo><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>5</mn></mrow></msup></mrow><mrow><mn>2</mn><mo>!</mo></mrow></mfrac></mrow></mstyle><mo>+</mo><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>9</mn></mrow></msup></mrow><mrow><mn>4</mn><mo>!</mo></mrow></mfrac></mrow></mstyle><mo>−</mo><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>13</mn></mrow></msup></mrow><mrow><mn>6</mn><mo>!</mo></mrow></mfrac></mrow></mstyle><mo>+</mo><mo>⋯</mo></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.15",
+    "text": "10.15: (BC ONLY) Representing Functions as Power Series"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

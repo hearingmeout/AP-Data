@@ -1,0 +1,45 @@
+{
+  "id": "JA742913",
+  "type": "mcq",
+  "title": "Implicit differentiation with exponential",
+  "content": {
+    "description": "",
+    "question": "A particle moves along the x-axis so that at any time <math> <semantics> <mrow> <mi>t</mi><mo>≥</mo><mn>0</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWG0bGaeyyzImRaaGimaaaa@398D@</annotation> </semantics> </math> the acceleration of the particle is <math> <semantics> <mrow> <mi>a</mi> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <msup> <mi>e</mi> <mrow> <mo>−</mo> <mn>2</mn> <mi>t</mi> </mrow> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaahqart1ev3aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaamyyaiaacI cacaWG0bGaaiykaiabg2da9iaadwgadaahaaWcbeqaaiabgkHiTiaa ikdacaWG0baaaaaa@3DEA@ </annotation> </semantics> </math>. If at t=0 the velocity of the particle is <math> <semantics> <mrow> <mfrac> <mn>5</mn> <mn>2</mn> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWcaaWdaeaapeGaaGynaaWdaeaapeGaaGOmaaaaaaa@37DD@</annotation> </semantics> </math> and its position is <math> <semantics> <mrow> <mfrac> <mrow> <mn>17</mn> </mrow> <mn>4</mn> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWcaaWdaeaapeGaaGymaiaaiEdaa8aabaWdbiaaisdaaaaaaa@389C@</annotation> </semantics> </math>, then its position at any time t>0 is x(t)=",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <semantics> <mrow> <mo>−</mo><mfrac> <mrow> <msup> <mi>e</mi> <mrow> <mo>−</mo><mn>2</mn><mi>t</mi> </mrow> </msup> </mrow> <mn>2</mn> </mfrac> <mo>+</mo><mn>3</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacqGHsisldaWcaaWdaeaapeGaamyza8aadaahaaWcbeqaa8qacqGHsislcaaIYaGaamiDaaaaaOWdaeaapeGaaGOmaaaacqGHRaWkcaaIZaaaaa@3D8C@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mrow> <msup> <mi>e</mi> <mrow> <mo>−</mo><mn>2</mn><mi>t</mi> </mrow> </msup> </mrow> <mn>4</mn> </mfrac> <mo>+</mo><mn>4</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWcaaWdaeaapeGaamyza8aadaahaaWcbeqaa8qacqGHsislcaaIYaGaamiDaaaaaOWdaeaapeGaaGinaaaacqGHRaWkcaaI0aaaaa@3CA2@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mn>4</mn><msup> <mi>e</mi> <mrow> <mo>−</mo><mn>2</mn><mi>t</mi> </mrow> </msup> <mo>+</mo><mfrac> <mn>9</mn> <mn>2</mn> </mfrac> <mi>t</mi><mo>+</mo><mfrac> <mn>1</mn> <mn>4</mn> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaaI0aGaamyza8aadaahaaWcbeqaa8qacqGHsislcaaIYaGaamiDaaaakiabgUcaRmaalaaapaqaa8qacaaI5aaapaqaa8qacaaIYaaaaiaadshacqGHRaWkdaWcaaWdaeaapeGaaGymaaWdaeaapeGaaGinaaaaaaa@4105@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mrow> <msup> <mi>e</mi> <mrow> <mo>−</mo> <mn>2</mn> <mi>t</mi> </mrow> </msup> </mrow> <mn>2</mn> </mfrac> <mo>+</mo> <mn>3</mn> <mi>t</mi> <mo>+</mo> <mfrac> <mrow> <mn>15</mn> </mrow> <mn>4</mn> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWcaaWdaeaapeGaamyza8aadaahaaWcbeqaa8qacqGHsislcaaIYaGaamiDaaaaaOWdaeaapeGaaGOmaaaacqGHRaWkcaaIZaGaamiDaiabgUcaRmaalaaapaqaa8qacaaIXaGaaGynaaWdaeaapeGaaGinaaaaaaa@4100@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mrow> <msup> <mi>e</mi> <mrow> <mo>−</mo> <mn>2</mn> <mi>t</mi> </mrow> </msup> </mrow> <mn>4</mn> </mfrac> <mo>+</mo> <mn>3</mn> <mi>t</mi> <mo>+</mo> <mn>4</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWcaaWdaeaapeGaamyza8aadaahaaWcbeqaa8qacqGHsislcaaIYaGaamiDaaaaaOWdaeaapeGaaGinaaaacqGHRaWkcaaIZaGaamiDaiabgUcaRiaaisdaaaa@3F3A@</annotation> </semantics> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <semantics> <mrow> <mfrac> <mrow> <msup> <mi>e</mi> <mrow> <mo>−</mo> <mn>2</mn> <mi>t</mi> </mrow> </msup> </mrow> <mn>4</mn> </mfrac> <mo>+</mo> <mn>3</mn> <mi>t</mi> <mo>+</mo> <mn>4</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWcaaWdaeaapeGaamyza8aadaahaaWcbeqaa8qacqGHsislcaaIYaGaamiDaaaaaOWdaeaapeGaaGinaaaacqGHRaWkcaaIZaGaamiDaiabgUcaRiaaisdaaaa@3F3A@</annotation> </semantics> </math>"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Applications of Integration"
+  },
+  "topic": {
+    "code": "8.2",
+    "text": "8.2: Connecting Position, Velocity, and Acceleration Functions Using Integrals"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

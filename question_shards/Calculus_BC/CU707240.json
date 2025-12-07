@@ -1,0 +1,41 @@
+{
+  "id": "CU707240",
+  "type": "mcq",
+  "title": "Processes - Limits at Infinity",
+  "content": {
+    "description": "",
+    "question": "<math alttext=\"the limit as x approaches infinity, of, the fraction with numerator, the square root of, 4 times x squared, plus 27, end root, and denominator, the square root of, x squared, plus 27 x, plus 3, end root, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mi>∞</mi></mrow></munder><mfrac><mrow><msqrt><mrow><mn>4</mn><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>27</mn></mrow></msqrt></mrow><mrow><msqrt><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>27</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow></msqrt></mrow></mfrac></mrow></mstyle></math> is",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>3</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"4\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>4</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "infinite",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>2</mn></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.15",
+    "text": "1.15: Connecting Limits at Infinity and Horizontal Asymptotes"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

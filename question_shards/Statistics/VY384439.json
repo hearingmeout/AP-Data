@@ -1,0 +1,45 @@
+{
+  "id": "VY384439",
+  "type": "mcq",
+  "title": "Cell phones and age",
+  "content": {
+    "description": "A random sample of 500 people were classified by their ages into 3 age-groups: 29 years and younger, 30 to 64 years, and 65 years and older. Each person from the sample was surveyed about which of 4 major brands of cell phone they used. Their responses were compiled and displayed in a 3-by-4 contingency table. A researcher will use the data to investigate whether there is an association between cell phone brand and age-group.",
+    "question": "Which of the following is the appropriate test for the investigation?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A one-sample <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-test for a population mean",
+        "image": null
+      },
+      {
+        "label": "A two-sample <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-test for a difference between means",
+        "image": null
+      },
+      {
+        "label": "A chi-square goodness-of-fit test",
+        "image": null
+      },
+      {
+        "label": "A chi-square test of homogeneity",
+        "image": null
+      },
+      {
+        "label": "A chi-square test of independence",
+        "image": null
+      }
+    ],
+    "answer": "A chi-square test of independence"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Inference for Categorical Data-Chi-Square"
+  },
+  "topic": {
+    "code": "8.5",
+    "text": "8.5: Setting Up a Chi-Square Test for Homogeneity or Independence"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Identify an appropriate inference method for significance tests."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "UV163968",
+  "type": "mcq",
+  "title": "Comparing rates of change of people",
+  "content": {
+    "description": "",
+    "question": "People are entering a building at a rate modeled by f (t) people per hour and exiting the building at a rate modeled by g(t) people per hour, where t is measured in hours. The functions f and g are nonnegative and differentiable for all times t. Which of the following inequalities indicates that the rate of change of the number of people in the building is increasing at time t ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "f (t) > 0",
+        "image": null
+      },
+      {
+        "label": "f'(t) > 0",
+        "image": null
+      },
+      {
+        "label": "f (t) − g(t) > 0",
+        "image": null
+      },
+      {
+        "label": "f'(t) − g'(t) > 0",
+        "image": null
+      }
+    ],
+    "answer": "f'(t) − g'(t) > 0"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Contextual Applications of Differentiation"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Rates of Change in Applied Contexts Other Than Motion"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Identify common underlying structures in problems involving different contextual situations."
+  }
+}

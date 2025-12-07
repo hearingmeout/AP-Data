@@ -1,0 +1,40 @@
+{
+  "id": "HN149802",
+  "type": "frq",
+  "title": "Func. def. by int.m semicircle and segments",
+  "content": {
+    "description": "",
+    "question": "Let f be the continuous function defined on [-4, 3] whose graph, consisting of three line segments and a semicircle centered at the origin, is given above. Let g be the function given by <math> <mi>g</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>1</mn> <mi>x</mi> </msubsup> <mrow> <mi>f</mi> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo> <mi>d</mi> <mi>t</mi> </mrow> </mrow> </mstyle> </math>. (a) Find the values of g(2) and g(-2).",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Let f be the continuous function defined on [-4, 3] whose graph, consisting of three line segments and a semicircle centered at the origin, is given above. Let g be the function given by <math> <mi>g</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>1</mn> <mi>x</mi> </msubsup> <mrow> <mi>f</mi> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo> <mi>d</mi> <mi>t</mi> </mrow> </mrow> </mstyle> </math>. (a) Find the values of g(2) and g(-2).",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Calculus_BC/original.jpg"
+      },
+      {
+        "text": "(b) For each of g'(-3) and g''(-3), find the value or state that it does not exist.",
+        "image": null
+      },
+      {
+        "text": "(c) Find the x-coordinate of each point at which the graph of g has a horizontal tangent line. For each of these points, determine whether g has a relative minimum, relative maximum, or neither a minimum nor a maximum at the point. Justify your answers.",
+        "image": null
+      },
+      {
+        "text": "(d) For -4 < x < 3, find all values of x for which the graph of g has a point of inflection. Explain your reasoning.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.4",
+    "text": "5.4: Using the First Derivative Test to Determine Relative (Local) Extrema"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

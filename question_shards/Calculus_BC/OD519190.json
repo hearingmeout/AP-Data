@@ -1,0 +1,41 @@
+{
+  "id": "OD519190",
+  "type": "mcq",
+  "title": "Justification - Intermediate Value Theorem",
+  "content": {
+    "description": "<math alttext=\"The figure shows a two row table with three columns of data. The heading for row 1 is “x.” The heading for row 2 is “g of x.” The data in the table are as follows. Column 1. x is 2. g of x is negative 2. Column 2. x is 3. g of x is 1. Column 3. x is 4. g of x is negative 4.\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtable columnlines=\"solid\" equalcolumns=\"true\" equalrows=\"true\" frame=\"solid\" rowlines=\"solid\" width=\"auto\"><mtr><mtd><mi>x</mi></mtd><mtd><mn>2</mn></mtd><mtd><mn>3</mn></mtd><mtd><mn>4</mn></mtd></mtr><mtr><mtd><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mtd><mtd><mrow><mo>−</mo><mn>2</mn></mrow></mtd><mtd><mn>1</mn></mtd><mtd><mrow><mo>−</mo><mn>4</mn></mrow></mtd></mtr></mtable></mrow></mstyle></math>",
+    "question": "Selected values of the continuous function <math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> are given in the table above. Which of the following statements must be true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The minimum value of <math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> on the interval <math alttext=\"open bracket, 2 comma 4, close bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>[</mo><mn>2</mn><mo>,</mo><mn>4</mn><mo>]</mo></mrow></mrow></mstyle></math> is <math alttext=\"negative 4\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>4</mn></mrow></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"g prime of x equals negative 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>g</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mrow><mo>−</mo><mn>1</mn></mrow></mrow></mstyle></math> has at least one solution in the interval <math alttext=\"open bracket, 2 comma 4, close bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>[</mo><mn>2</mn><mo>,</mo><mn>4</mn><mo>]</mo></mrow></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"g prime of x equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>g</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>0</mn></mrow></mstyle></math> has at least two solutions in the interval <math alttext=\"open bracket, 2 comma 4, close bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>[</mo><mn>2</mn><mo>,</mo><mn>4</mn><mo>]</mo></mrow></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"g of x equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>0</mn></mrow></mstyle></math> has at least two solutions in the interval <math alttext=\"open bracket, 2 comma 4, close bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>[</mo><mn>2</mn><mo>,</mo><mn>4</mn><mo>]</mo></mrow></mrow></mstyle></math>.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"g of x equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>0</mn></mrow></mstyle></math> has at least two solutions in the interval <math alttext=\"open bracket, 2 comma 4, close bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>[</mo><mn>2</mn><mo>,</mo><mn>4</mn><mo>]</mo></mrow></mrow></mstyle></math>."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.16",
+    "text": "1.16: Working with the Intermediate Value Theorem (IVT)"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

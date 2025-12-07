@@ -1,0 +1,45 @@
+{
+  "id": "JH888345",
+  "type": "mcq",
+  "title": "Table independence",
+  "content": {
+    "description": "The following table shows the joint distribution of random variables <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>X</mi></mrow></mstyle></math> and <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>Y</mi></mrow></mstyle></math>.",
+    "question": "<math alttext=\"Y equals 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>Y</mi><mo>=</mo><mn>1</mn></mrow></mstyle></math> <math alttext=\"Y equals 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>Y</mi><mo>=</mo><mn>2</mn></mrow></mstyle></math> <math alttext=\"Y equals 3\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>Y</mi><mo>=</mo><mn>3</mn></mrow></mstyle></math> <math alttext=\"Y equals 4\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>Y</mi><mo>=</mo><mn>4</mn></mrow></mstyle></math> <math alttext=\"X equals 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>X</mi><mo>=</mo><mn>1</mn></mrow></mstyle></math> 0.04 0.03 0.02 0.01 <math alttext=\"X equals 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>X</mi><mo>=</mo><mn>2</mn></mrow></mstyle></math> 0.08 0.06 0.04 0.02 <math alttext=\"X equals 3\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>X</mi><mo>=</mo><mn>3</mn></mrow></mstyle></math> 0.12 0.09 0.06 0.03 <math alttext=\"X equals 4\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>X</mi><mo>=</mo><mn>4</mn></mrow></mstyle></math> 0.16 0.12 0.08 0.04 Which of the following statements about the random variables <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>X</mi></mrow></mstyle></math> and <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>Y</mi></mrow></mstyle></math> is correct?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mrow><mi>X</mi></mrow></math> and <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mrow><mi>Y</mi></mrow></math> are independent because knowing the value of <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>X</mi></mrow></mstyle></math> does not change the probability distribution of <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mrow><mi>Y</mi></mrow></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mrow><mi>X</mi></mrow></math> and <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mrow><mi>Y</mi></mrow></math> are independent because knowing the value of <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mrow><mi>X</mi></mrow></math> changes the probability distribution of <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mrow><mi>Y</mi></mrow></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mrow><mi>X</mi></mrow></math> and <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mrow><mi>Y</mi></mrow></math> are not independent because knowing the value of <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mrow><mi>X</mi></mrow></math> does not change the probability distribution of <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mrow><mi>Y</mi></mrow></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mrow><mi>X</mi></mrow></math> and <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mrow><mi>Y</mi></mrow></math> are not independent because knowing the value of <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mrow><mi>X</mi></mrow></math> changes the probability distribution of <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mrow><mi>Y</mi></mrow></math>.",
+        "image": null
+      },
+      {
+        "label": "The independence of <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mrow><mi>X</mi></mrow></math> and <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mrow><mi>Y</mi></mrow></math> cannot be determined from the table.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mrow><mi>X</mi></mrow></math> and <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mrow><mi>Y</mi></mrow></math> are independent because knowing the value of <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>X</mi></mrow></mstyle></math> does not change the probability distribution of <math alttext=\"Y\" display=\"inline\" overflow=\"scroll\"><mrow><mi>Y</mi></mrow></math>."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.9",
+    "text": "4.9: Combining Random Variables"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Determine parameters for probability distributions."
+  }
+}

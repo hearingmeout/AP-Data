@@ -1,0 +1,41 @@
+{
+  "id": "YD475087",
+  "type": "mcq",
+  "title": "Processes - Integration by Substitution",
+  "content": {
+    "description": "",
+    "question": "The function <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is continuous, and <math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> is a function such that <math alttext=\"g prime of x, equals f of x\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>g</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></math>. Which of the following is equal to <math alttext=\"the integral from 6 to 10, of, f of, open parenthesis, one half x, close parenthesis, d x \" display=\"inline\" overflow=\"scroll\"><mrow><mstyle><mrow><msubsup><mrow><mo stretchy=\"true\">∫</mo></mrow><mrow><mn>6</mn></mrow><mrow><mn>10</mn></mrow></msubsup><mrow><mi>f</mi><mrow><mo>(</mo><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>x</mi></mrow><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></math> in terms of <math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"one half times g of 5, minus, one half times g of 3\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>g</mi></mrow></mstyle><mrow><mo>(</mo><mn>5</mn><mo>)</mo></mrow><mo>−</mo><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>g</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></mstyle><mspace depth=\"0.0ex\" height=\"4.0ex\" width=\"0.0em\"></mspace></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one half times g of 10, minus, one half times g of 6\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>g</mi><mrow><mo>(</mo><mn>10</mn><mo>)</mo></mrow></mrow></mstyle><mo>−</mo><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>g</mi><mrow><mo>(</mo><mn>6</mn><mo>)</mo><mo>⁢</mo></mrow></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2 times g of 5, minus, 2 times g of 3\" display=\"inline\" overflow=\"scroll\"><mrow><mn>2</mn><mi>g</mi><mrow><mo>(</mo><mn>5</mn><mo>)</mo></mrow><mo>−</mo><mn>2</mn><mrow><mi>g</mi><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2 times g of 10, minus, 2 times g of 6\" display=\"inline\" overflow=\"scroll\"><mrow><mn>2</mn><mi>g</mi><mrow><mo>(</mo><mn>10</mn><mo>)</mo></mrow><mo>−</mo><mn>2</mn><mi>g</mi><mrow><mo>(</mo><mn>6</mn><mo>)</mo></mrow></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"2 times g of 5, minus, 2 times g of 3\" display=\"inline\" overflow=\"scroll\"><mrow><mn>2</mn><mi>g</mi><mrow><mo>(</mo><mn>5</mn><mo>)</mo></mrow><mo>−</mo><mn>2</mn><mrow><mi>g</mi><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.9",
+    "text": "6.9: Integrating Using Substitution"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "HQ935010",
+  "type": "mcq",
+  "title": "Independence check",
+  "content": {
+    "description": "",
+    "question": "A one-sample <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mrow><mi>z</mi></mrow></math>-test for a population proportion will be conducted using a simple random sample selected without replacement from a population. Which of the following is a check for independence?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"n times p sub 0 is greater than or equal to 10\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>n</mi><mi>p</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>≥</mo><mtext>10</mtext></mrow></mstyle></math> and <math alttext=\"n times, open parenthesis, 1 minus p sub 0, close parenthesis, is greater than or equal to 10\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi><mo>(</mo><mtext>1</mtext><mo>−</mo><msub><mrow><mi>p</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>)</mo><mo>≥</mo><mtext>10</mtext></mrow></mstyle></math> for sample size <math alttext=\"n\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi></mrow></mstyle></math> and population proportion <math alttext=\"p sub 0\" display=\"inline\" overflow=\"scroll\"><mrow><msub><mrow><mstyle><mrow><mi>p</mi></mrow></mstyle></mrow><mrow><mn>0</mn></mrow></msub></mrow></math>.",
+        "image": null
+      },
+      {
+        "label": "Each sample proportion value is less than or equal to 0.5.",
+        "image": null
+      },
+      {
+        "label": "The sample size is more than 10 times the population size.",
+        "image": null
+      },
+      {
+        "label": "The population size is more than 10 times the sample size.",
+        "image": null
+      },
+      {
+        "label": "The population distribution is approximately normal.",
+        "image": null
+      }
+    ],
+    "answer": "The population size is more than 10 times the sample size."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.4",
+    "text": "6.4: Setting Up a Test for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Verify that inference procedures apply in a given situation."
+  }
+}

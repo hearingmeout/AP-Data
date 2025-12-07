@@ -1,0 +1,41 @@
+{
+  "id": "LZ280409",
+  "type": "mcq",
+  "title": "Justification - Convergence Tests",
+  "content": {
+    "description": "",
+    "question": "Which of the following statements about the series <math alttext=\"the sum, from n equals 1, to infinity, of the fraction with numerator open parenthesis, negative 1, close parenthesis, to the n power, times n, and denominator n squared plus 1, end fraction\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mfrac><mrow><msup><mrow><mo>(</mo><mrow><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mrow><mi>n</mi></mrow></msup><mi>n</mi></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>1</mn></mrow></mfrac></mrow></mstyle></mrow></math> is true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The series can be shown to diverge by comparison with <math alttext=\"the sum, from n equals 1, to infinity, of, the fraction 1 over n\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><munderover><mo>∑</mo><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mrow></mstyle></mrow></math>.",
+        "image": null
+      },
+      {
+        "label": "The series can be shown to diverge by limit comparison with <math alttext=\"the sum, from n equals 1, to infinity, of, the fraction 1 over n\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><munderover><mo>∑</mo><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mrow></mstyle></mrow></math>.",
+        "image": null
+      },
+      {
+        "label": "The series can be shown to converge by comparison with <math alttext=\"the sum, from n equals 1, to infinity, of, the fraction 1 over n squared, end fraction\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><munderover><mo>∑</mo><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mrow></mstyle></mrow></math>.",
+        "image": null
+      },
+      {
+        "label": "The series can be shown to converge by the alternating series test.",
+        "image": null
+      }
+    ],
+    "answer": "The series can be shown to converge by the alternating series test."
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.7",
+    "text": "10.7: (BC ONLY) Alternating Series Test for Convergence"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Identify an appropriate mathematical definition, theorem, or test to apply."
+  }
+}

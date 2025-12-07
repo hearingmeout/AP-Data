@@ -1,0 +1,45 @@
+{
+  "id": "ZB604026",
+  "type": "mcq",
+  "title": "Second Derivative Test",
+  "content": {
+    "description": "Let f be a function defined and continuous on the closed interval [a,b]. If f has a relative maximum at c and a<c<b, which of the following statements must be true?",
+    "question": "I. f'(c) exists. II. If f'(c) exists, then f'(c)=0 III. If f''(c) exists, then <math> <mrow> <msup> <mi>f</mi> <mo>″</mo> </msup> <mrow> <mo>(</mo> <mi>c</mi> <mo>)</mo> </mrow> <mo>≤</mo> <mn>0</mn> </mrow> </math>.",
+    "image": null,
+    "choices": [
+      {
+        "label": "II only",
+        "image": null
+      },
+      {
+        "label": "III only",
+        "image": null
+      },
+      {
+        "label": "I and II only",
+        "image": null
+      },
+      {
+        "label": "I and III only",
+        "image": null
+      },
+      {
+        "label": "II and III only",
+        "image": null
+      }
+    ],
+    "answer": "II and III only"
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.7",
+    "text": "5.7: Using the Second Derivative Test to Determine Extrema"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

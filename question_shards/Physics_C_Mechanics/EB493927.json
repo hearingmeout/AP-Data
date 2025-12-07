@@ -1,0 +1,45 @@
+{
+  "id": "EB493927",
+  "type": "mcq",
+  "title": "Static equilibrium",
+  "content": {
+    "description": "",
+    "question": "The diagram shows an object of mass <math alttext=\"m\" overflow=\"scroll\"><mstyle><mrow><mstyle mathvariant=\"italic\"><mrow><mi>m</mi></mrow></mstyle><mtext></mtext></mrow></mstyle></math> attached to a bar of length <math alttext=\"L\" overflow=\"scroll\"><mstyle><mrow><mstyle mathvariant=\"italic\"><mrow><mi>L</mi></mrow></mstyle></mrow></mstyle></math> by a short cable. The left end of the bar is held up by a hinge, attached to the wall. The bar is maintained in its horizontal orientation by a longer cable, attached from the end of the rod to the wall. The long cable makes an angle <math alttext=\"theta\" overflow=\"scroll\"><mstyle><mrow><mi>θ</mi></mrow></mstyle></math> with the bar and has tension <math alttext=\"F sub T\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>F</mi></mrow><mrow><mi>T</mi></mrow></msub></mrow></mstyle></math>. The mass of the bar is not negligible. The cables are assumed to have uniform linear density, the hinge is assumed to be frictionless and to have negligible radius, and the mass of the bar is assumed to be uniformly distributed along the length of the bar. Students calculate the theoretical tension in the long cable and then measure the actual tension in the cable. The measured tension is more than the theoretical tension. If the measurement is correct, which of the following could account for the discrepancy?",
+    "image": "https://ap.oly.st/images/7eb154c73b12cf83548c4928ab0b7909.png",
+    "choices": [
+      {
+        "label": "The radius of the hinge is not negligible.",
+        "image": null
+      },
+      {
+        "label": "The linear density of the short cable increases vertically.",
+        "image": null
+      },
+      {
+        "label": "The linear density of the bar decreases with distance from the wall.",
+        "image": null
+      },
+      {
+        "label": "The rotational inertia of the bar about the hinge is less than <math alttext=\"one third times uppercase M, times L squared\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac><msup><mrow><mi>M</mi><mi>L</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "The rotational inertia of the bar about the hinge is greater than <math alttext=\"one third times uppercase M, times L squared\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac><msup><mrow><mi>M</mi><mi>L</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle></math>.",
+        "image": null
+      }
+    ],
+    "answer": "The rotational inertia of the bar about the hinge is greater than <math alttext=\"one third times uppercase M, times L squared\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac><msup><mrow><mi>M</mi><mi>L</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle></math>."
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.4",
+    "text": "5.4: Rotational Inertia"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

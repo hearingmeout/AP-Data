@@ -1,0 +1,45 @@
+{
+  "id": "AN362118",
+  "type": "mcq",
+  "title": "Health plans",
+  "content": {
+    "description": "A manufacturing company with 350 employees is changing the employee health insurance plan to either plan A or plan B. The company wants to know if employees have a preference between the two plans and whether or not preference differs between those employees who have family members covered under the current plan (group 1) and those who do not (group 2). The human resources office takes a simple random sample from each of the two groups, sends information about both plans to the employees in each sample, and asks them whether they prefer plan A or plan B. The table summarizes the responses received, with expected cell counts in parentheses.",
+    "question": "Plan A Plan B Total Yes (group 1) 40 (32.5) 20 (27.5) 60 No (group 2) 6 (13.5) 19 (11.5) 25 Total 46 39 85 Which statement is true about whether the conditions for the chi-square test for homogeneity have been met?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A simple random sample should have been taken from all the employees, and then each employee in the sample should have been asked their plan preference and whether or not they have family members covered under the current health insurance plan.",
+        "image": null
+      },
+      {
+        "label": "The expected cell counts are not large enough to apply the chi-square test for homogeneity.",
+        "image": null
+      },
+      {
+        "label": "The total sample size is not large enough to apply the chi-square test for homogeneity.",
+        "image": null
+      },
+      {
+        "label": "The total sample size is too large to apply the chi-square test for homogeneity.",
+        "image": null
+      },
+      {
+        "label": "All conditions necessary to apply the chi-square test for homogeneity are satisfied here.",
+        "image": null
+      }
+    ],
+    "answer": "The total sample size is too large to apply the chi-square test for homogeneity."
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Inference for Categorical Data-Chi-Square"
+  },
+  "topic": {
+    "code": "8.5",
+    "text": "8.5: Setting Up a Chi-Square Test for Homogeneity or Independence"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Verify that inference procedures apply in a given situation."
+  }
+}

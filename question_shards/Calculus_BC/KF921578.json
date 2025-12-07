@@ -1,0 +1,41 @@
+{
+  "id": "KF921578",
+  "type": "mcq",
+  "title": "Justification - Extreme Value Theorem",
+  "content": {
+    "description": "",
+    "question": "Which of the following functions of <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> is guaranteed by the Extreme Value Theorem to have an absolute maximum on the interval <math alttext=\"open bracket, 0 comma 4, close bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>[</mo><mn>0</mn><mo>,</mo><mn>4</mn><mo>]</mo></mrow></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"y equals, tangent x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mi>tan</mi><mo>⁡</mo><mi>x</mi></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"y equals, the inverse tangent of x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><msup><mrow><mi>tan</mi></mrow><mrow><mrow><mo>−</mo><mn>1</mn></mrow></mrow></msup><mo>⁡</mo><mi>x</mi></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"y equals, the fraction with numerator x squared, minus 16, and denominator x squared, plus x, minus 20, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><mn>16</mn></mrow><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mi>x</mi><mo>−</mo><mn>20</mn></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"y equals, the fraction with numerator 1, and denominator e raised to the x power, minus 1, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>e</mi></mrow><mrow><mi>x</mi></mrow></msup><mo>−</mo><mn>1</mn></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"y equals, the inverse tangent of x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><msup><mrow><mi>tan</mi></mrow><mrow><mrow><mo>−</mo><mn>1</mn></mrow></mrow></msup><mo>⁡</mo><mi>x</mi></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.2",
+    "text": "5.2: Extreme Value Theorem, Global Versus Local Extrema, and Critical Points"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Provide reasons or rationales for solutions and conclusions."
+  }
+}

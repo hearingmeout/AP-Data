@@ -1,0 +1,36 @@
+{
+  "id": "HR663451",
+  "type": "frq",
+  "title": "Forces and 1D motion - box friction and F-applied",
+  "content": {
+    "description": "",
+    "question": "Show all your work for each part of the question. The parts within the question may not have equal weight. A box of mass <math alttext=\"M\" display=\"inline\" overflow=\"scroll\"><mi>M</mi></math> is sliding in a straight line on a rough, horizontal surface, as shown in the figure. The box has an initial velocity of <math alttext=\"v sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>v</mi><mn>0</mn></msub></math> in the positive direction, and the coefficient of kinetic friction between the box and the surface is <math alttext=\"mu sub k\" display=\"inline\" overflow=\"scroll\"><msub><mi>μ</mi><mi>k</mi></msub></math>. Starting at time <math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn></math>, the box is subject to a time-varying, horizontal applied force <math alttext=\"F sub a\" display=\"inline\" overflow=\"scroll\"><msub><mi>F</mi><mtext>a</mtext></msub></math> exerted in the positive direction. The applied force varies with time according to the equation <math alttext=\"F sub a, end sub, of t equals, F sub 0, end sub, times e to the negative B times t power\" display=\"inline\" overflow=\"scroll\"><msub><mi>F</mi><mtext>a</mtext></msub><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><msub><mi>F</mi><mn>0</mn></msub><msup><mi>e</mi><mrow><mo>−</mo><mi>B</mi><mi>t</mi></mrow></msup></math>, where <math alttext=\"F sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>F</mi><mn>0</mn></msub></math> and <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mi>B</mi></math> are positive constants. (a) If the rough surface could extend as far as necessary, would the box come to a complete stop in a finite amount of time? Justify your answer using qualitative reasoning beyond equations, though you may refer to the given equation for <math alttext=\"F sub a, end sub, of t\" display=\"inline\" overflow=\"scroll\"><msub><mi>F</mi><mtext>a</mtext></msub><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></math>.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Show all your work for each part of the question. The parts within the question may not have equal weight. A box of mass <math alttext=\"M\" display=\"inline\" overflow=\"scroll\"><mi>M</mi></math> is sliding in a straight line on a rough, horizontal surface, as shown in the figure. The box has an initial velocity of <math alttext=\"v sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>v</mi><mn>0</mn></msub></math> in the positive direction, and the coefficient of kinetic friction between the box and the surface is <math alttext=\"mu sub k\" display=\"inline\" overflow=\"scroll\"><msub><mi>μ</mi><mi>k</mi></msub></math>. Starting at time <math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mi>t</mi><mo>=</mo><mn>0</mn></math>, the box is subject to a time-varying, horizontal applied force <math alttext=\"F sub a\" display=\"inline\" overflow=\"scroll\"><msub><mi>F</mi><mtext>a</mtext></msub></math> exerted in the positive direction. The applied force varies with time according to the equation <math alttext=\"F sub a, end sub, of t equals, F sub 0, end sub, times e to the negative B times t power\" display=\"inline\" overflow=\"scroll\"><msub><mi>F</mi><mtext>a</mtext></msub><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><msub><mi>F</mi><mn>0</mn></msub><msup><mi>e</mi><mrow><mo>−</mo><mi>B</mi><mi>t</mi></mrow></msup></math>, where <math alttext=\"F sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>F</mi><mn>0</mn></msub></math> and <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mi>B</mi></math> are positive constants. (a) If the rough surface could extend as far as necessary, would the box come to a complete stop in a finite amount of time? Justify your answer using qualitative reasoning beyond equations, though you may refer to the given equation for <math alttext=\"F sub a, end sub, of t\" display=\"inline\" overflow=\"scroll\"><msub><mi>F</mi><mtext>a</mtext></msub><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></math>.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Physics_C_Mechanics/VR830028.g02.svg"
+      },
+      {
+        "text": "(b) Derive an equation for the velocity <math alttext=\"v\" display=\"inline\" overflow=\"scroll\"><mi>v</mi></math> of the box as a function of time <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mi>t</mi></math> by solving a differential equation. Express your equation for <math alttext=\"v of t\" display=\"inline\" overflow=\"scroll\"><mi>v</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></math> in terms of <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mi>B</mi></math>, <math alttext=\"F sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>F</mi><mn>0</mn></msub></math>, <math alttext=\"M\" display=\"inline\" overflow=\"scroll\"><mi>M</mi></math>, <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mi>t</mi></math>, <math alttext=\"v sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>v</mi><mn>0</mn></msub></math>, <math alttext=\"mu sub k\" display=\"inline\" overflow=\"scroll\"><msub><mi>μ</mi><mi>k</mi></msub></math>, and physical constants, as appropriate.",
+        "image": null
+      },
+      {
+        "text": "(c) Justify if the equation for the velocity that you derived in part (b) is either consistent or not consistent with your reasoning in part (a).",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Kinematics"
+  },
+  "topic": {
+    "code": "1.2",
+    "text": "1.2: Displacement, Velocity, and Acceleration"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

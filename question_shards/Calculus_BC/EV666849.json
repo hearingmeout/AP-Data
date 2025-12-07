@@ -1,0 +1,45 @@
+{
+  "id": "EV666849",
+  "type": "mcq",
+  "title": "Sum of an infinite series",
+  "content": {
+    "description": "",
+    "question": "The infinite series <math> <mrow> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>k</mi><mo>=</mo><mn>1</mn></mrow> <mi>∞</mi> </munderover> <mrow> <msub> <mi>a</mi> <mi>k</mi> </msub> </mrow> </mstyle></mrow> </math> has nth partial sum <math> <mrow> <msub> <mi>S</mi> <mi>n</mi> </msub> <mo>=</mo><mfrac> <mi>n</mi> <mrow> <mn>3</mn><mi>n</mi><mo>+</mo><mn>1</mn></mrow> </mfrac> </mrow> </math> for <math> <mrow> <mi>n</mi><mo>≥</mo><mn>1</mn></mrow> </math>. What is the sum of the series <math> <mrow> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>k</mi><mo>=</mo><mn>1</mn></mrow> <mi>∞</mi> </munderover> <mrow> <msub> <mi>a</mi> <mi>k</mi> </msub> </mrow> </mstyle></mrow> </math>?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <mrow> <mfrac> <mn>1</mn> <mn>3</mn> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "1",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mfrac> <mn>3</mn> <mn>2</mn> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "The series diverges",
+        "image": null
+      }
+    ],
+    "answer": "<math> <mrow> <mfrac> <mn>1</mn> <mn>3</mn> </mfrac> </mrow> </math>"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.1",
+    "text": "10.1: (BC ONLY) Defining Convergent and Divergent Infinite Series"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

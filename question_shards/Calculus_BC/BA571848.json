@@ -1,0 +1,41 @@
+{
+  "id": "BA571848",
+  "type": "mcq",
+  "title": "Processes - Integration by Substitution",
+  "content": {
+    "description": "",
+    "question": "Using the substitution <math alttext=\"u equals, 5 x, minus 2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>u</mi><mo>=</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>2</mn></mrow></mstyle></math>, <math alttext=\"the indefinite integral of, x times, the square root of 5 x, minus 2, end root, d x\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mo>∫</mo><mrow><mi>x</mi><mrow><msqrt><mrow><mn>5</mn><mi>x</mi><mo>−</mo><mn>2</mn></mrow></msqrt></mrow></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></math> is equivalent to which of the following?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the indefinite integral of, u raised to the one half power, d u\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mo>∫</mo><mrow><msup><mrow><mi>u</mi></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup></mrow><mo>ⅆ</mo><mrow><mi>u</mi></mrow></mrow></mstyle></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one fifth times, the indefinite integral of, u raised to the one half power, d u\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>5</mn></mrow></mfrac><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mo>∫</mo><mrow><msup><mrow><mi>u</mi></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup></mrow><mo>ⅆ</mo><mrow><mi>u</mi></mrow></mrow></mstyle></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one fifth times, the indefinite integral of, open parenthesis, u raised to the three halves power, plus, 2 times u raised to the one half power, close parenthesis, d u\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>5</mn></mrow></mfrac><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mo>∫</mo><mrow><mo>(</mo><msup><mrow><mi>u</mi></mrow><mrow><mfrac><mrow><mn>3</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup><mo>+</mo><mn>2</mn><msup><mrow><mi>u</mi></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>u</mi></mrow></mrow></mstyle></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction 1 over 25, end fraction, times the indefinite integral of, open parenthesis, u raised to the three halves power, plus, 2 times u raised to the one half power, close parenthesis, d u\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>25</mn></mrow></mfrac><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mo>∫</mo><mrow><mo>(</mo><msup><mrow><mi>u</mi></mrow><mrow><mfrac><mrow><mn>3</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup><mo>+</mo><mn>2</mn><msup><mrow><mi>u</mi></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>u</mi></mrow></mrow></mstyle></mrow></mstyle></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the fraction 1 over 25, end fraction, times the indefinite integral of, open parenthesis, u raised to the three halves power, plus, 2 times u raised to the one half power, close parenthesis, d u\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>25</mn></mrow></mfrac><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mo>∫</mo><mrow><mo>(</mo><msup><mrow><mi>u</mi></mrow><mrow><mfrac><mrow><mn>3</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup><mo>+</mo><mn>2</mn><msup><mrow><mi>u</mi></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>u</mi></mrow></mrow></mstyle></mrow></mstyle></mrow></math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.9",
+    "text": "6.9: Integrating Using Substitution"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GK118345",
+  "type": "mcq",
+  "title": "Video game hours",
+  "content": {
+    "description": "Random samples of players for two types of video games were selected, and the mean number of hours per week spent playing the games was calculated for each group. The sample means were used to construct the 90 percent confidence interval <math alttext=\"1.5 comma 3.8\" display=\"inline\" overflow=\"scroll\"><mrow><mo>(</mo><mrow><mn>1.5</mn></mrow><mo>,</mo><mrow><mn>3.8</mn></mrow><mo>)</mo></mrow></math> for the difference in the mean number of hours per week spent playing the games.",
+    "question": "The maker of one of the video games claims that there is a difference in the population mean number of hours per week spent playing the two games. Is the claim supported by the interval?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Yes, because 0 is not contained in the interval.",
+        "image": null
+      },
+      {
+        "label": "Yes, because the midpoint of the interval is greater than 1.",
+        "image": null
+      },
+      {
+        "label": "Yes, because the margin of error for the estimate is less than 1.",
+        "image": null
+      },
+      {
+        "label": "No, because the margin of error for the estimate is greater than 1.",
+        "image": null
+      },
+      {
+        "label": "No, because 0 is not contained in the interval.",
+        "image": null
+      }
+    ],
+    "answer": "Yes, because 0 is not contained in the interval."
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.7",
+    "text": "7.7: Justifying a Claim About the Difference of Two Means Based on a Confidence Interval"
+  },
+  "skill": {
+    "code": "Skill 4.D",
+    "text": "Skill 4.D: Justify a claim based on a confidence interval."
+  }
+}

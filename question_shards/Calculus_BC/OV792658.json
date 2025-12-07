@@ -1,0 +1,40 @@
+{
+  "id": "OV792658",
+  "type": "frq",
+  "title": "Entering/Leaving a Rock Concert",
+  "content": {
+    "description": "",
+    "question": "The rate at which people enter an auditorium for a rock concert is modeled by the function R given by <math> <semantics> <mrow> <mi>R</mi> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mn>1380</mn> <msup> <mi>t</mi> <mn>2</mn> </msup> <mo>−</mo> <mn>675</mn> <msup> <mi>t</mi> <mn>3</mn> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWGsbGaaiikaiaadshacaGGPaGaeyypa0JaaGymaiaaiodacaaI4aGaaGimaiaadshapaWaaWbaaSqabeaapeGaaGOmaaaakiabgkHiTiaaiAdacaaI3aGaaGynaiaadshapaWaaWbaaSqabeaapeGaaG4maaaaaaa@4471@</annotation> </semantics> </math> for <math> <semantics> <mrow> <mn>0</mn> <mo>≤</mo> <mi>t</mi> <mo>≤</mo> <mn>2</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaaIWaGaeyizImQaamiDaiabgsMiJkaaikdaaaa@3BED@</annotation> </semantics> </math> hours; R(t) is measured in people per hour. No one is in the auditorium at time t = 0, when the doors open. The doors close and the concert begins at time t = 2. (a) How many people are in the auditorium when the concert begins?",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "The rate at which people enter an auditorium for a rock concert is modeled by the function R given by <math> <semantics> <mrow> <mi>R</mi> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mn>1380</mn> <msup> <mi>t</mi> <mn>2</mn> </msup> <mo>−</mo> <mn>675</mn> <msup> <mi>t</mi> <mn>3</mn> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWGsbGaaiikaiaadshacaGGPaGaeyypa0JaaGymaiaaiodacaaI4aGaaGimaiaadshapaWaaWbaaSqabeaapeGaaGOmaaaakiabgkHiTiaaiAdacaaI3aGaaGynaiaadshapaWaaWbaaSqabeaapeGaaG4maaaaaaa@4471@</annotation> </semantics> </math> for <math> <semantics> <mrow> <mn>0</mn> <mo>≤</mo> <mi>t</mi> <mo>≤</mo> <mn>2</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaaIWaGaeyizImQaamiDaiabgsMiJkaaikdaaaa@3BED@</annotation> </semantics> </math> hours; R(t) is measured in people per hour. No one is in the auditorium at time t = 0, when the doors open. The doors close and the concert begins at time t = 2. (a) How many people are in the auditorium when the concert begins?",
+        "image": null
+      },
+      {
+        "text": "(b) Find the time when the rate at which people enter the auditorium is a maximum. Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "(c) The total wait time for all the people in the auditorium is found by adding the time each person waits, starting at the time the person enters the auditorium and ending when the concert begins. The function w models the total wait time for all the people who enter the auditorium before time t. The derivative of w is given by w'(t) = (2 -t)R(t). Find w(2) - w(1), the total wait time for those who enter the auditorium after time t = 1.",
+        "image": null
+      },
+      {
+        "text": "(d) On average, how long does a person wait in the auditorium for the concert to begin? Consider all people who enter the auditorium after the doors open, and use the model for total wait time from part (c).",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Contextual Applications of Differentiation"
+  },
+  "topic": {
+    "code": "4.3",
+    "text": "4.3: Rates of Change in Applied Contexts Other Than Motion"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

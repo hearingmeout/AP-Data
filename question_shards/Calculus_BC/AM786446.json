@@ -1,0 +1,41 @@
+{
+  "id": "AM786446",
+  "type": "mcq",
+  "title": "Processes - Integrating Using Alg Manipulation",
+  "content": {
+    "description": "",
+    "question": "<math alttext=\"the indefinite integral of, open parenthesis, x cubed, plus 2, close parenthesis, squared, d x, equals\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle><mrow><mo stretchy=\"true\">∫</mo><msup><mrow><mo>(</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>+</mo><mn>2</mn><mspace depth=\"0.0ex\" height=\"2.4ex\" width=\"0.0em\"></mspace><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle><mo>=</mo></mrow></math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the fraction with numerator, open parenthesis, x cubed, plus 2, close parenthesis, cubed, and denominator 9 times x squared, end fraction, plus C\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle><mrow><mfrac><mrow><msup><mrow><mo>(</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>+</mo><mn>2</mn><mspace depth=\"0.0ex\" height=\"2.4ex\" width=\"0.0em\"></mspace><mo>)</mo></mrow><mrow><mn>3</mn></mrow></msup></mrow><mrow><msup><mrow><mn>9</mn><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>+</mo><mi>C</mi></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one third times, open parenthesis, x cubed, plus 2, close parenthesis, cubed, plus C\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac><msup><mrow><mo>(</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>+</mo><mn>2</mn><mspace depth=\"0.0ex\" height=\"2.4ex\" width=\"0.0em\"></mspace><mo>)</mo></mrow><mrow><mn>3</mn></mrow></msup><mo>+</mo><mi>C</mi></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"6 times x squared times, open parenthesis, x cubed, plus 2, close parenthesis, plus C\" display=\"inline\" overflow=\"scroll\"><mrow><mn>6</mn><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>(</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>+</mo><mn>2</mn><mspace depth=\"0.0ex\" height=\"2.4ex\" width=\"0.0em\"></mspace><mo>)</mo><mo>+</mo><mi>C</mi></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one seventh times x to the seventh power, plus x to the fourth power, plus 4 x, plus C\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>7</mn></mrow></mfrac><msup><mrow><mi>x</mi></mrow><mrow><mn>7</mn></mrow></msup><mo>+</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>4</mn></mrow></msup><mo>+</mo><mn>4</mn><mi>x</mi><mo>+</mo><mi>C</mi></mrow></mstyle></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"one seventh times x to the seventh power, plus x to the fourth power, plus 4 x, plus C\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>7</mn></mrow></mfrac><msup><mrow><mi>x</mi></mrow><mrow><mn>7</mn></mrow></msup><mo>+</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>4</mn></mrow></msup><mo>+</mo><mn>4</mn><mi>x</mi><mo>+</mo><mi>C</mi></mrow></mstyle></mrow></math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.10",
+    "text": "6.10: Integrating Functions Using Long Division and Completing the Square"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

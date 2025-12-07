@@ -1,0 +1,45 @@
+{
+  "id": "YQ120505",
+  "type": "mcq",
+  "title": "Use p-value to support alternative hypothesis",
+  "content": {
+    "description": "",
+    "question": "In a test of the null hypothesis H0: µ = 10 against the alternative hypothesis Ha: µ > 10, a sample from a normal population produces a mean of 13.4. The z-score for the sample is 2.12 and the p-value is 0.017. Based on these statistics, which of the following conclusions could be drawn?",
+    "image": null,
+    "choices": [
+      {
+        "label": "There is reason to conclude that µ > 10.",
+        "image": null
+      },
+      {
+        "label": "Due to random fluctuation, 48.3 percent of the time a sample produces a mean larger than 10.",
+        "image": null
+      },
+      {
+        "label": "1.7 percent of the time, rejecting the alternative hypothesis is in error.",
+        "image": null
+      },
+      {
+        "label": "1.7 percent of the time, the mean is above 10.",
+        "image": null
+      },
+      {
+        "label": "98.3 percent of the time, the mean is below 10.",
+        "image": null
+      }
+    ],
+    "answer": "There is reason to conclude that µ > 10."
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.5",
+    "text": "7.5: Carrying Out a Test for a Population Mean"
+  },
+  "skill": {
+    "code": "Skill 4.E",
+    "text": "Skill 4.E: Justify a claim using a decision based on significance tests."
+  }
+}

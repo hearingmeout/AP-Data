@@ -1,0 +1,45 @@
+{
+  "id": "QL044536",
+  "type": "mcq",
+  "title": "Traffic Lights",
+  "content": {
+    "description": "The driving route between a student’s home and the student’s high school has two traffic lights. The distribution of total time spent driving has mean <math alttext=\"5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>5</mn></mrow></mstyle></math> minutes and standard deviation <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>1</mn></mrow></mstyle></math> minute. The distribution of time spent waiting at a light has mean <math alttext=\"0.75\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.75</mn></mrow></mstyle></math> minute and standard deviation <math alttext=\"0.25\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.25</mn></mrow></mstyle></math> minute. The total time spent driving and the time spent waiting at a light are independent. The total travel time from the student’s home to the student’s high school consists of the total time spent driving and the time spent waiting at two lights.",
+    "question": "What are the mean and the standard deviation of the total travel time?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The mean is <math alttext=\"5.75\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>5.75</mn></mrow></mstyle></math> minutes and the standard deviation is about <math alttext=\"1.03\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>1.03</mn></mrow></mstyle></math> minutes.",
+        "image": null
+      },
+      {
+        "label": "The mean is <math alttext=\"5.75\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>5.75</mn></mrow></mstyle></math> minutes and the standard deviation is about <math alttext=\"1.06\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>1.06</mn></mrow></mstyle></math> minutes.",
+        "image": null
+      },
+      {
+        "label": "The mean is <math alttext=\"6.5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>6.5</mn></mrow></mstyle></math> minutes and the standard deviation is about <math alttext=\"1.06\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>1.06</mn></mrow></mstyle></math> minutes.",
+        "image": null
+      },
+      {
+        "label": "The mean is <math alttext=\"6.5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>6.5</mn></mrow></mstyle></math> minutes and the standard deviation is about <math alttext=\"1.12\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>1.12</mn></mrow></mstyle></math> minutes.",
+        "image": null
+      },
+      {
+        "label": "The mean is <math alttext=\"6.5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>6.5</mn></mrow></mstyle></math> minutes and the standard deviation is about <math alttext=\"1.5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>1.5</mn></mrow></mstyle></math> minutes.",
+        "image": null
+      }
+    ],
+    "answer": "The mean is <math alttext=\"6.5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>6.5</mn></mrow></mstyle></math> minutes and the standard deviation is about <math alttext=\"1.06\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>1.06</mn></mrow></mstyle></math> minutes."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.9",
+    "text": "4.9: Combining Random Variables"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Determine parameters for probability distributions."
+  }
+}

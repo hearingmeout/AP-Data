@@ -1,0 +1,41 @@
+{
+  "id": "TH672628",
+  "type": "mcq",
+  "title": "Intermediate Value Theorem",
+  "content": {
+    "description": "",
+    "question": "Let f be a function such that f (1) = − 2 and f (5) = 7. Which of the following conditions ensures that f(c) = 0 for some value c in the open interval (1,5)?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math aria-label=\"undefined\"> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>1</mn> <mn>5</mn> </msubsup> <mi>f</mi> </mrow> </mstyle> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mi>d</mi> <mi>x</mi> <mtext>&nbsp;exists</mtext> <mtext>.&nbsp;</mtext> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaahmart1ev3aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWdXaWdaeaapeGaamOzaaWcpaqaa8qacaaIXaaapaqaa8qacaaI 1aaaniabgUIiYdGccaGGOaGaamiEaiaacMcacaWGKbGaamiEaiaabc cacaqGLbGaaeiEaiaabMgacaqGZbGaaeiDaiaabohacaqGUaGaaeii aaaa@46EC@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "f is increasing on the closed interval [1, 5].",
+        "image": null
+      },
+      {
+        "label": "f is continuous on the closed interval [1, 5].",
+        "image": null
+      },
+      {
+        "label": "f is defined for all values of x in the closed interval [1, 5].",
+        "image": null
+      }
+    ],
+    "answer": "f is continuous on the closed interval [1, 5]."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.16",
+    "text": "1.16: Working with the Intermediate Value Theorem (IVT)"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

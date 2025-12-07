@@ -1,0 +1,41 @@
+{
+  "id": "SI175761",
+  "type": "mcq",
+  "title": "Representations - Behavior of Functions",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> be the function defined by <math alttext=\"g of x, equals, the integral from, 0 to x, of, open parenthesis, negative three fourths, plus t, plus the cosine of, open parenthesis, the fraction pi over 4, end fraction, times t squared, plus t, close parenthesis, close parenthesis, d t \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mi>x</mi></mrow></msubsup><mrow><mo>(</mo><mrow><mrow><mo>−</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>4</mn></mrow></mfrac></mrow><mo>+</mo><mi>t</mi><mo>+</mo><mi>cos</mi><mo>⁡</mo><mrow><mo>(</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>4</mn></mrow></mfrac><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mi>t</mi><mo>)</mo></mrow></mrow><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow></mstyle></mrow></mstyle></math> for <math alttext=\"0 less than x, less than 3 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>3</mn></mrow></mstyle></math>. At what value of <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> does <math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> attain a relative maximum?",
+    "image": null,
+    "choices": [
+      {
+        "label": "1.025",
+        "image": null
+      },
+      {
+        "label": "1.361",
+        "image": null
+      },
+      {
+        "label": "1.616",
+        "image": null
+      },
+      {
+        "label": "2.310",
+        "image": null
+      }
+    ],
+    "answer": "1.025"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.5",
+    "text": "6.5: Interpreting the Behavior of Accumulation Functions Involving Area"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Identify how mathematical characteristics or properties of functions are related in different representations."
+  }
+}

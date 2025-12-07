@@ -1,0 +1,1410 @@
+{
+  "lookupData": {
+    "units": [
+      {
+        "unitCd": "1",
+        "unitText": "1: Exploring One-Variable Data",
+        "topics": [
+          {
+            "topicCd": "1.10",
+            "topicText": "1.10: The Normal Distribution",
+            "skills": [
+              {
+                "skillCd": "Skill 1.B",
+                "skillText": "Skill 1.B: Identify key and relevant information to answer a question or solve a problem."
+              },
+              {
+                "skillCd": "Skill 2.B",
+                "skillText": "Skill 2.B: Construct numerical or graphical representations of distributions."
+              },
+              {
+                "skillCd": "Skill 2.D",
+                "skillText": "Skill 2.D: Compare distributions or relative positions of points within a distribution."
+              },
+              {
+                "skillCd": "Skill 3.A",
+                "skillText": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+              },
+              {
+                "skillCd": "Skill 3.B",
+                "skillText": "Skill 3.B: Determine parameters for probability distributions."
+              },
+              {
+                "skillCd": "Skill 3.D",
+                "skillText": "Skill 3.D: Construct a confidence interval, provided conditions for inference are met."
+              }
+            ]
+          },
+          {
+            "topicCd": "1.2",
+            "topicText": "1.2: The Language of Variation - Variables",
+            "skills": [
+              {
+                "skillCd": "Skill 1.C",
+                "skillText": "Skill 1.C: Describe an appropriate method for gathering and representing data."
+              },
+              {
+                "skillCd": "Skill 1.F",
+                "skillText": "Skill 1.F: Identify null and alternative hypotheses."
+              },
+              {
+                "skillCd": "Skill 2.A",
+                "skillText": "Skill 2.A: Describe data presented numerically or graphically."
+              }
+            ]
+          },
+          {
+            "topicCd": "1.3",
+            "topicText": "1.3: Representing a Categorical Variable with Tables",
+            "skills": [
+              {
+                "skillCd": "Skill 1.E",
+                "skillText": "Skill 1.E: Identify an appropriate inference method for significance tests."
+              },
+              {
+                "skillCd": "Skill 1.F",
+                "skillText": "Skill 1.F: Identify null and alternative hypotheses."
+              },
+              {
+                "skillCd": "Skill 2.A",
+                "skillText": "Skill 2.A: Describe data presented numerically or graphically."
+              },
+              {
+                "skillCd": "Skill 2.C",
+                "skillText": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+              }
+            ]
+          },
+          {
+            "topicCd": "1.4",
+            "topicText": "1.4: Representing a Categorical Variable with Graphs",
+            "skills": [
+              {
+                "skillCd": "Skill 1.B",
+                "skillText": "Skill 1.B: Identify key and relevant information to answer a question or solve a problem."
+              },
+              {
+                "skillCd": "Skill 1.C",
+                "skillText": "Skill 1.C: Describe an appropriate method for gathering and representing data."
+              },
+              {
+                "skillCd": "Skill 1.E",
+                "skillText": "Skill 1.E: Identify an appropriate inference method for significance tests."
+              },
+              {
+                "skillCd": "Skill 1.F",
+                "skillText": "Skill 1.F: Identify null and alternative hypotheses."
+              },
+              {
+                "skillCd": "Skill 2.A",
+                "skillText": "Skill 2.A: Describe data presented numerically or graphically."
+              },
+              {
+                "skillCd": "Skill 2.B",
+                "skillText": "Skill 2.B: Construct numerical or graphical representations of distributions."
+              },
+              {
+                "skillCd": "Skill 2.D",
+                "skillText": "Skill 2.D: Compare distributions or relative positions of points within a distribution."
+              }
+            ]
+          },
+          {
+            "topicCd": "1.5",
+            "topicText": "1.5: Representing a Quantitative Variable with Graphs",
+            "skills": [
+              {
+                "skillCd": "Skill 1.C",
+                "skillText": "Skill 1.C: Describe an appropriate method for gathering and representing data."
+              },
+              {
+                "skillCd": "Skill 1.D",
+                "skillText": "Skill 1.D: Identify an appropriate inference method for confidence intervals."
+              },
+              {
+                "skillCd": "Skill 2.A",
+                "skillText": "Skill 2.A: Describe data presented numerically or graphically."
+              },
+              {
+                "skillCd": "Skill 2.B",
+                "skillText": "Skill 2.B: Construct numerical or graphical representations of distributions."
+              },
+              {
+                "skillCd": "Skill 2.C",
+                "skillText": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+              },
+              {
+                "skillCd": "Skill 2.D",
+                "skillText": "Skill 2.D: Compare distributions or relative positions of points within a distribution."
+              }
+            ]
+          },
+          {
+            "topicCd": "1.6",
+            "topicText": "1.6: Describing the Distribution of a Quantitative Variable",
+            "skills": [
+              {
+                "skillCd": "Skill 1.C",
+                "skillText": "Skill 1.C: Describe an appropriate method for gathering and representing data."
+              },
+              {
+                "skillCd": "Skill 1.E",
+                "skillText": "Skill 1.E: Identify an appropriate inference method for significance tests."
+              },
+              {
+                "skillCd": "Skill 2.A",
+                "skillText": "Skill 2.A: Describe data presented numerically or graphically."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              }
+            ]
+          },
+          {
+            "topicCd": "1.7",
+            "topicText": "1.7: Summary Statistics for a Quantitative Variable",
+            "skills": [
+              {
+                "skillCd": "Skill 1.C",
+                "skillText": "Skill 1.C: Describe an appropriate method for gathering and representing data."
+              },
+              {
+                "skillCd": "Skill 1.F",
+                "skillText": "Skill 1.F: Identify null and alternative hypotheses."
+              },
+              {
+                "skillCd": "Skill 2.A",
+                "skillText": "Skill 2.A: Describe data presented numerically or graphically."
+              },
+              {
+                "skillCd": "Skill 2.B",
+                "skillText": "Skill 2.B: Construct numerical or graphical representations of distributions."
+              },
+              {
+                "skillCd": "Skill 2.C",
+                "skillText": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+              },
+              {
+                "skillCd": "Skill 2.D",
+                "skillText": "Skill 2.D: Compare distributions or relative positions of points within a distribution."
+              },
+              {
+                "skillCd": "Skill 3.A",
+                "skillText": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+              },
+              {
+                "skillCd": "Skill 3.B",
+                "skillText": "Skill 3.B: Determine parameters for probability distributions."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              }
+            ]
+          },
+          {
+            "topicCd": "1.8",
+            "topicText": "1.8: Graphical Representations of Summary Statistics",
+            "skills": [
+              {
+                "skillCd": "Skill 1.F",
+                "skillText": "Skill 1.F: Identify null and alternative hypotheses."
+              },
+              {
+                "skillCd": "Skill 2.A",
+                "skillText": "Skill 2.A: Describe data presented numerically or graphically."
+              },
+              {
+                "skillCd": "Skill 2.D",
+                "skillText": "Skill 2.D: Compare distributions or relative positions of points within a distribution."
+              }
+            ]
+          },
+          {
+            "topicCd": "1.9",
+            "topicText": "1.9: Comparing Distributions of a Quantitative Variable",
+            "skills": [
+              {
+                "skillCd": "Skill 1.C",
+                "skillText": "Skill 1.C: Describe an appropriate method for gathering and representing data."
+              },
+              {
+                "skillCd": "Skill 1.E",
+                "skillText": "Skill 1.E: Identify an appropriate inference method for significance tests."
+              },
+              {
+                "skillCd": "Skill 1.F",
+                "skillText": "Skill 1.F: Identify null and alternative hypotheses."
+              },
+              {
+                "skillCd": "Skill 2.A",
+                "skillText": "Skill 2.A: Describe data presented numerically or graphically."
+              },
+              {
+                "skillCd": "Skill 2.C",
+                "skillText": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+              },
+              {
+                "skillCd": "Skill 2.D",
+                "skillText": "Skill 2.D: Compare distributions or relative positions of points within a distribution."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unitCd": "2",
+        "unitText": "2: Exploring Two-Variable Data",
+        "topics": [
+          {
+            "topicCd": "2.2",
+            "topicText": "2.2: Representing Two Categorical Variables",
+            "skills": [
+              {
+                "skillCd": "Skill 1.C",
+                "skillText": "Skill 1.C: Describe an appropriate method for gathering and representing data."
+              },
+              {
+                "skillCd": "Skill 1.E",
+                "skillText": "Skill 1.E: Identify an appropriate inference method for significance tests."
+              },
+              {
+                "skillCd": "Skill 2.B",
+                "skillText": "Skill 2.B: Construct numerical or graphical representations of distributions."
+              },
+              {
+                "skillCd": "Skill 2.D",
+                "skillText": "Skill 2.D: Compare distributions or relative positions of points within a distribution."
+              }
+            ]
+          },
+          {
+            "topicCd": "2.3",
+            "topicText": "2.3: Statistics for Two Categorical Variables",
+            "skills": [
+              {
+                "skillCd": "Skill 1.B",
+                "skillText": "Skill 1.B: Identify key and relevant information to answer a question or solve a problem."
+              },
+              {
+                "skillCd": "Skill 1.E",
+                "skillText": "Skill 1.E: Identify an appropriate inference method for significance tests."
+              },
+              {
+                "skillCd": "Skill 2.A",
+                "skillText": "Skill 2.A: Describe data presented numerically or graphically."
+              },
+              {
+                "skillCd": "Skill 2.C",
+                "skillText": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+              },
+              {
+                "skillCd": "Skill 2.D",
+                "skillText": "Skill 2.D: Compare distributions or relative positions of points within a distribution."
+              }
+            ]
+          },
+          {
+            "topicCd": "2.4",
+            "topicText": "2.4: Representing the Relationship Between Two Quantitative Variables",
+            "skills": [
+              {
+                "skillCd": "Skill 1.C",
+                "skillText": "Skill 1.C: Describe an appropriate method for gathering and representing data."
+              },
+              {
+                "skillCd": "Skill 1.F",
+                "skillText": "Skill 1.F: Identify null and alternative hypotheses."
+              },
+              {
+                "skillCd": "Skill 2.A",
+                "skillText": "Skill 2.A: Describe data presented numerically or graphically."
+              }
+            ]
+          },
+          {
+            "topicCd": "2.5",
+            "topicText": "2.5: Correlation",
+            "skills": [
+              {
+                "skillCd": "Skill 2.A",
+                "skillText": "Skill 2.A: Describe data presented numerically or graphically."
+              },
+              {
+                "skillCd": "Skill 2.C",
+                "skillText": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+              },
+              {
+                "skillCd": "Skill 3.D",
+                "skillText": "Skill 3.D: Construct a confidence interval, provided conditions for inference are met."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              }
+            ]
+          },
+          {
+            "topicCd": "2.6",
+            "topicText": "2.6: Linear Regression Models",
+            "skills": [
+              {
+                "skillCd": "Skill 1.D",
+                "skillText": "Skill 1.D: Identify an appropriate inference method for confidence intervals."
+              },
+              {
+                "skillCd": "Skill 2.A",
+                "skillText": "Skill 2.A: Describe data presented numerically or graphically."
+              },
+              {
+                "skillCd": "Skill 2.C",
+                "skillText": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+              }
+            ]
+          },
+          {
+            "topicCd": "2.7",
+            "topicText": "2.7: Residuals",
+            "skills": [
+              {
+                "skillCd": "Skill 2.A",
+                "skillText": "Skill 2.A: Describe data presented numerically or graphically."
+              },
+              {
+                "skillCd": "Skill 2.B",
+                "skillText": "Skill 2.B: Construct numerical or graphical representations of distributions."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              }
+            ]
+          },
+          {
+            "topicCd": "2.8",
+            "topicText": "2.8: Least Squares Regression",
+            "skills": [
+              {
+                "skillCd": "Skill 2.A",
+                "skillText": "Skill 2.A: Describe data presented numerically or graphically."
+              },
+              {
+                "skillCd": "Skill 2.C",
+                "skillText": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              }
+            ]
+          },
+          {
+            "topicCd": "2.9",
+            "topicText": "2.9: Analyzing Departures from Linearity",
+            "skills": [
+              {
+                "skillCd": "Skill 2.A",
+                "skillText": "Skill 2.A: Describe data presented numerically or graphically."
+              },
+              {
+                "skillCd": "Skill 2.C",
+                "skillText": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unitCd": "3",
+        "unitText": "3: Collecting Data",
+        "topics": [
+          {
+            "topicCd": "3.2",
+            "topicText": "3.2: Introduction to Planning a Study",
+            "skills": [
+              {
+                "skillCd": "Skill 1.B",
+                "skillText": "Skill 1.B: Identify key and relevant information to answer a question or solve a problem."
+              },
+              {
+                "skillCd": "Skill 1.C",
+                "skillText": "Skill 1.C: Describe an appropriate method for gathering and representing data."
+              },
+              {
+                "skillCd": "Skill 1.D",
+                "skillText": "Skill 1.D: Identify an appropriate inference method for confidence intervals."
+              },
+              {
+                "skillCd": "Skill 1.E",
+                "skillText": "Skill 1.E: Identify an appropriate inference method for significance tests."
+              },
+              {
+                "skillCd": "Skill 3.A",
+                "skillText": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+              },
+              {
+                "skillCd": "Skill 4.A",
+                "skillText": "Skill 4.A: Make an appropriate claim or draw an appropriate conclusion."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              }
+            ]
+          },
+          {
+            "topicCd": "3.3",
+            "topicText": "3.3: Random Sampling and Data Collection",
+            "skills": [
+              {
+                "skillCd": "Skill 1.C",
+                "skillText": "Skill 1.C: Describe an appropriate method for gathering and representing data."
+              }
+            ]
+          },
+          {
+            "topicCd": "3.4",
+            "topicText": "3.4: Potential Problems with Sampling",
+            "skills": [
+              {
+                "skillCd": "Skill 1.B",
+                "skillText": "Skill 1.B: Identify key and relevant information to answer a question or solve a problem."
+              },
+              {
+                "skillCd": "Skill 1.C",
+                "skillText": "Skill 1.C: Describe an appropriate method for gathering and representing data."
+              }
+            ]
+          },
+          {
+            "topicCd": "3.5",
+            "topicText": "3.5: Introduction to Experimental Design",
+            "skills": [
+              {
+                "skillCd": "Skill 1.B",
+                "skillText": "Skill 1.B: Identify key and relevant information to answer a question or solve a problem."
+              },
+              {
+                "skillCd": "Skill 1.C",
+                "skillText": "Skill 1.C: Describe an appropriate method for gathering and representing data."
+              },
+              {
+                "skillCd": "Skill 1.D",
+                "skillText": "Skill 1.D: Identify an appropriate inference method for confidence intervals."
+              },
+              {
+                "skillCd": "Skill 1.E",
+                "skillText": "Skill 1.E: Identify an appropriate inference method for significance tests."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              }
+            ]
+          },
+          {
+            "topicCd": "3.6",
+            "topicText": "3.6: Selecting an Experimental Design",
+            "skills": [
+              {
+                "skillCd": "Skill 1.C",
+                "skillText": "Skill 1.C: Describe an appropriate method for gathering and representing data."
+              }
+            ]
+          },
+          {
+            "topicCd": "3.7",
+            "topicText": "3.7: Inference and Experiments",
+            "skills": [
+              {
+                "skillCd": "Skill 1.E",
+                "skillText": "Skill 1.E: Identify an appropriate inference method for significance tests."
+              },
+              {
+                "skillCd": "Skill 3.A",
+                "skillText": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unitCd": "4",
+        "unitText": "4: Probability, Random Variables, and Probability Distributions",
+        "topics": [
+          {
+            "topicCd": "4.10",
+            "topicText": "4.10: Introduction to the Binomial Distribution",
+            "skills": [
+              {
+                "skillCd": "Skill 3.A",
+                "skillText": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+              }
+            ]
+          },
+          {
+            "topicCd": "4.11",
+            "topicText": "4.11: Parameters for a Binomial Distribution",
+            "skills": [
+              {
+                "skillCd": "Skill 3.B",
+                "skillText": "Skill 3.B: Determine parameters for probability distributions."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              }
+            ]
+          },
+          {
+            "topicCd": "4.12",
+            "topicText": "4.12: The Geometric Distribution",
+            "skills": [
+              {
+                "skillCd": "Skill 3.A",
+                "skillText": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+              },
+              {
+                "skillCd": "Skill 3.B",
+                "skillText": "Skill 3.B: Determine parameters for probability distributions."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              }
+            ]
+          },
+          {
+            "topicCd": "4.2",
+            "topicText": "4.2: Estimating Probabilities Using Simulation",
+            "skills": [
+              {
+                "skillCd": "Skill 1.E",
+                "skillText": "Skill 1.E: Identify an appropriate inference method for significance tests."
+              },
+              {
+                "skillCd": "Skill 3.A",
+                "skillText": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+              },
+              {
+                "skillCd": "Skill 4.E",
+                "skillText": "Skill 4.E: Justify a claim using a decision based on significance tests."
+              }
+            ]
+          },
+          {
+            "topicCd": "4.3",
+            "topicText": "4.3: Introduction to Probability",
+            "skills": [
+              {
+                "skillCd": "Skill 1.B",
+                "skillText": "Skill 1.B: Identify key and relevant information to answer a question or solve a problem."
+              },
+              {
+                "skillCd": "Skill 2.B",
+                "skillText": "Skill 2.B: Construct numerical or graphical representations of distributions."
+              },
+              {
+                "skillCd": "Skill 3.A",
+                "skillText": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              }
+            ]
+          },
+          {
+            "topicCd": "4.4",
+            "topicText": "4.4: Mutually Exclusive Events",
+            "skills": [
+              {
+                "skillCd": "Skill 3.A",
+                "skillText": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              }
+            ]
+          },
+          {
+            "topicCd": "4.5",
+            "topicText": "4.5: Conditional Probability",
+            "skills": [
+              {
+                "skillCd": "Skill 2.B",
+                "skillText": "Skill 2.B: Construct numerical or graphical representations of distributions."
+              },
+              {
+                "skillCd": "Skill 3.A",
+                "skillText": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+              }
+            ]
+          },
+          {
+            "topicCd": "4.6",
+            "topicText": "4.6: Independent Events and Unions of Events",
+            "skills": [
+              {
+                "skillCd": "Skill 1.E",
+                "skillText": "Skill 1.E: Identify an appropriate inference method for significance tests."
+              },
+              {
+                "skillCd": "Skill 1.F",
+                "skillText": "Skill 1.F: Identify null and alternative hypotheses."
+              },
+              {
+                "skillCd": "Skill 2.B",
+                "skillText": "Skill 2.B: Construct numerical or graphical representations of distributions."
+              },
+              {
+                "skillCd": "Skill 3.A",
+                "skillText": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+              }
+            ]
+          },
+          {
+            "topicCd": "4.7",
+            "topicText": "4.7: Introduction to Random Variables and Probability Distributions",
+            "skills": [
+              {
+                "skillCd": "Skill 2.B",
+                "skillText": "Skill 2.B: Construct numerical or graphical representations of distributions."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              }
+            ]
+          },
+          {
+            "topicCd": "4.8",
+            "topicText": "4.8: Mean and Standard Deviation of Random Variables",
+            "skills": [
+              {
+                "skillCd": "Skill 3.B",
+                "skillText": "Skill 3.B: Determine parameters for probability distributions."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              }
+            ]
+          },
+          {
+            "topicCd": "4.9",
+            "topicText": "4.9: Combining Random Variables",
+            "skills": [
+              {
+                "skillCd": "Skill 1.B",
+                "skillText": "Skill 1.B: Identify key and relevant information to answer a question or solve a problem."
+              },
+              {
+                "skillCd": "Skill 2.C",
+                "skillText": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+              },
+              {
+                "skillCd": "Skill 3.A",
+                "skillText": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+              },
+              {
+                "skillCd": "Skill 3.B",
+                "skillText": "Skill 3.B: Determine parameters for probability distributions."
+              },
+              {
+                "skillCd": "Skill 3.C",
+                "skillText": "Skill 3.C: Describe probability distributions."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unitCd": "5",
+        "unitText": "5: Sampling Distributions",
+        "topics": [
+          {
+            "topicCd": "5.1",
+            "topicText": "5.1: Introducing Statistics - Why Is My Sample Not Like Yours?",
+            "skills": [
+              {
+                "skillCd": "Skill 3.B",
+                "skillText": "Skill 3.B: Determine parameters for probability distributions."
+              }
+            ]
+          },
+          {
+            "topicCd": "5.2",
+            "topicText": "5.2: The Normal Distribution, Revisited",
+            "skills": [
+              {
+                "skillCd": "Skill 3.A",
+                "skillText": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+              },
+              {
+                "skillCd": "Skill 3.B",
+                "skillText": "Skill 3.B: Determine parameters for probability distributions."
+              },
+              {
+                "skillCd": "Skill 3.C",
+                "skillText": "Skill 3.C: Describe probability distributions."
+              }
+            ]
+          },
+          {
+            "topicCd": "5.3",
+            "topicText": "5.3: The Central Limit Theorem",
+            "skills": [
+              {
+                "skillCd": "Skill 3.B",
+                "skillText": "Skill 3.B: Determine parameters for probability distributions."
+              },
+              {
+                "skillCd": "Skill 3.C",
+                "skillText": "Skill 3.C: Describe probability distributions."
+              }
+            ]
+          },
+          {
+            "topicCd": "5.4",
+            "topicText": "5.4: Biased and Unbiased Point Estimates",
+            "skills": [
+              {
+                "skillCd": "Skill 1.E",
+                "skillText": "Skill 1.E: Identify an appropriate inference method for significance tests."
+              },
+              {
+                "skillCd": "Skill 3.B",
+                "skillText": "Skill 3.B: Determine parameters for probability distributions."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              }
+            ]
+          },
+          {
+            "topicCd": "5.5",
+            "topicText": "5.5: Sampling Distributions for Sample Proportions",
+            "skills": [
+              {
+                "skillCd": "Skill 3.B",
+                "skillText": "Skill 3.B: Determine parameters for probability distributions."
+              },
+              {
+                "skillCd": "Skill 3.C",
+                "skillText": "Skill 3.C: Describe probability distributions."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              }
+            ]
+          },
+          {
+            "topicCd": "5.6",
+            "topicText": "5.6: Sampling Distributions for Differences in Sample Proportions",
+            "skills": [
+              {
+                "skillCd": "Skill 3.B",
+                "skillText": "Skill 3.B: Determine parameters for probability distributions."
+              },
+              {
+                "skillCd": "Skill 3.C",
+                "skillText": "Skill 3.C: Describe probability distributions."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              }
+            ]
+          },
+          {
+            "topicCd": "5.7",
+            "topicText": "5.7: Sampling Distributions for Sample Means",
+            "skills": [
+              {
+                "skillCd": "Skill 3.B",
+                "skillText": "Skill 3.B: Determine parameters for probability distributions."
+              },
+              {
+                "skillCd": "Skill 3.C",
+                "skillText": "Skill 3.C: Describe probability distributions."
+              },
+              {
+                "skillCd": "Skill 3.D",
+                "skillText": "Skill 3.D: Construct a confidence interval, provided conditions for inference are met."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              }
+            ]
+          },
+          {
+            "topicCd": "5.8",
+            "topicText": "5.8: Sampling Distributions for Differences in Sample Means",
+            "skills": [
+              {
+                "skillCd": "Skill 3.B",
+                "skillText": "Skill 3.B: Determine parameters for probability distributions."
+              },
+              {
+                "skillCd": "Skill 3.C",
+                "skillText": "Skill 3.C: Describe probability distributions."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unitCd": "6",
+        "unitText": "6: Inference for Categorical Data-Proportions",
+        "topics": [
+          {
+            "topicCd": "6.10",
+            "topicText": "6.10: Setting Up a Test for the Difference of Two Population Proportions",
+            "skills": [
+              {
+                "skillCd": "Skill 1.E",
+                "skillText": "Skill 1.E: Identify an appropriate inference method for significance tests."
+              },
+              {
+                "skillCd": "Skill 1.F",
+                "skillText": "Skill 1.F: Identify null and alternative hypotheses."
+              },
+              {
+                "skillCd": "Skill 4.C",
+                "skillText": "Skill 4.C: Verify that inference procedures apply in a given situation."
+              }
+            ]
+          },
+          {
+            "topicCd": "6.11",
+            "topicText": "6.11: Carrying Out a Test for the Difference of Two Population Proportions",
+            "skills": [
+              {
+                "skillCd": "Skill 3.E",
+                "skillText": "Skill 3.E: Calculate a test statistic and find a p-value, provided conditions for inference are met."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              },
+              {
+                "skillCd": "Skill 4.E",
+                "skillText": "Skill 4.E: Justify a claim using a decision based on significance tests."
+              }
+            ]
+          },
+          {
+            "topicCd": "6.2",
+            "topicText": "6.2: Constructing a Confidence Interval for a Population Proportion",
+            "skills": [
+              {
+                "skillCd": "Skill 1.D",
+                "skillText": "Skill 1.D: Identify an appropriate inference method for confidence intervals."
+              },
+              {
+                "skillCd": "Skill 2.B",
+                "skillText": "Skill 2.B: Construct numerical or graphical representations of distributions."
+              },
+              {
+                "skillCd": "Skill 3.D",
+                "skillText": "Skill 3.D: Construct a confidence interval, provided conditions for inference are met."
+              },
+              {
+                "skillCd": "Skill 4.C",
+                "skillText": "Skill 4.C: Verify that inference procedures apply in a given situation."
+              },
+              {
+                "skillCd": "Skill 4.D",
+                "skillText": "Skill 4.D: Justify a claim based on a confidence interval."
+              }
+            ]
+          },
+          {
+            "topicCd": "6.3",
+            "topicText": "6.3: Justifying a Claim Based on a Confidence Interval for a Population Proportion",
+            "skills": [
+              {
+                "skillCd": "Skill 4.A",
+                "skillText": "Skill 4.A: Make an appropriate claim or draw an appropriate conclusion."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              },
+              {
+                "skillCd": "Skill 4.D",
+                "skillText": "Skill 4.D: Justify a claim based on a confidence interval."
+              }
+            ]
+          },
+          {
+            "topicCd": "6.4",
+            "topicText": "6.4: Setting Up a Test for a Population Proportion",
+            "skills": [
+              {
+                "skillCd": "Skill 1.B",
+                "skillText": "Skill 1.B: Identify key and relevant information to answer a question or solve a problem."
+              },
+              {
+                "skillCd": "Skill 1.E",
+                "skillText": "Skill 1.E: Identify an appropriate inference method for significance tests."
+              },
+              {
+                "skillCd": "Skill 1.F",
+                "skillText": "Skill 1.F: Identify null and alternative hypotheses."
+              },
+              {
+                "skillCd": "Skill 4.C",
+                "skillText": "Skill 4.C: Verify that inference procedures apply in a given situation."
+              }
+            ]
+          },
+          {
+            "topicCd": "6.5",
+            "topicText": "6.5: Interpreting P-Values",
+            "skills": [
+              {
+                "skillCd": "Skill 3.E",
+                "skillText": "Skill 3.E: Calculate a test statistic and find a p-value, provided conditions for inference are met."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              },
+              {
+                "skillCd": "Skill 4.E",
+                "skillText": "Skill 4.E: Justify a claim using a decision based on significance tests."
+              }
+            ]
+          },
+          {
+            "topicCd": "6.6",
+            "topicText": "6.6: Concluding a Test for a Population Proportion",
+            "skills": [
+              {
+                "skillCd": "Skill 4.E",
+                "skillText": "Skill 4.E: Justify a claim using a decision based on significance tests."
+              }
+            ]
+          },
+          {
+            "topicCd": "6.7",
+            "topicText": "6.7: Potential Errors When Performing Tests",
+            "skills": [
+              {
+                "skillCd": "Skill 1.B",
+                "skillText": "Skill 1.B: Identify key and relevant information to answer a question or solve a problem."
+              },
+              {
+                "skillCd": "Skill 1.E",
+                "skillText": "Skill 1.E: Identify an appropriate inference method for significance tests."
+              },
+              {
+                "skillCd": "Skill 3.A",
+                "skillText": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+              },
+              {
+                "skillCd": "Skill 4.A",
+                "skillText": "Skill 4.A: Make an appropriate claim or draw an appropriate conclusion."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              }
+            ]
+          },
+          {
+            "topicCd": "6.8",
+            "topicText": "6.8: Confidence Intervals for the Difference of Two Proportions",
+            "skills": [
+              {
+                "skillCd": "Skill 1.D",
+                "skillText": "Skill 1.D: Identify an appropriate inference method for confidence intervals."
+              },
+              {
+                "skillCd": "Skill 3.D",
+                "skillText": "Skill 3.D: Construct a confidence interval, provided conditions for inference are met."
+              },
+              {
+                "skillCd": "Skill 4.C",
+                "skillText": "Skill 4.C: Verify that inference procedures apply in a given situation."
+              }
+            ]
+          },
+          {
+            "topicCd": "6.9",
+            "topicText": "6.9: Justifying a Claim Based on a Confidence Interval for a Difference Between Population Proportions",
+            "skills": [
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              },
+              {
+                "skillCd": "Skill 4.D",
+                "skillText": "Skill 4.D: Justify a claim based on a confidence interval."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unitCd": "7",
+        "unitText": "7: Inference for Quantitative Data-Means",
+        "topics": [
+          {
+            "topicCd": "7.2",
+            "topicText": "7.2: Constructing a Confidence Interval for a Population Mean",
+            "skills": [
+              {
+                "skillCd": "Skill 1.D",
+                "skillText": "Skill 1.D: Identify an appropriate inference method for confidence intervals."
+              },
+              {
+                "skillCd": "Skill 3.C",
+                "skillText": "Skill 3.C: Describe probability distributions."
+              },
+              {
+                "skillCd": "Skill 3.D",
+                "skillText": "Skill 3.D: Construct a confidence interval, provided conditions for inference are met."
+              },
+              {
+                "skillCd": "Skill 4.A",
+                "skillText": "Skill 4.A: Make an appropriate claim or draw an appropriate conclusion."
+              },
+              {
+                "skillCd": "Skill 4.C",
+                "skillText": "Skill 4.C: Verify that inference procedures apply in a given situation."
+              }
+            ]
+          },
+          {
+            "topicCd": "7.3",
+            "topicText": "7.3: Justifying a Claim About a Population Mean Based on a Confidence Interval",
+            "skills": [
+              {
+                "skillCd": "Skill 4.A",
+                "skillText": "Skill 4.A: Make an appropriate claim or draw an appropriate conclusion."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              },
+              {
+                "skillCd": "Skill 4.D",
+                "skillText": "Skill 4.D: Justify a claim based on a confidence interval."
+              }
+            ]
+          },
+          {
+            "topicCd": "7.4",
+            "topicText": "7.4: Setting Up a Test for a Population Mean",
+            "skills": [
+              {
+                "skillCd": "Skill 1.E",
+                "skillText": "Skill 1.E: Identify an appropriate inference method for significance tests."
+              },
+              {
+                "skillCd": "Skill 1.F",
+                "skillText": "Skill 1.F: Identify null and alternative hypotheses."
+              },
+              {
+                "skillCd": "Skill 3.E",
+                "skillText": "Skill 3.E: Calculate a test statistic and find a p-value, provided conditions for inference are met."
+              },
+              {
+                "skillCd": "Skill 4.C",
+                "skillText": "Skill 4.C: Verify that inference procedures apply in a given situation."
+              },
+              {
+                "skillCd": "Skill 4.E",
+                "skillText": "Skill 4.E: Justify a claim using a decision based on significance tests."
+              }
+            ]
+          },
+          {
+            "topicCd": "7.5",
+            "topicText": "7.5: Carrying Out a Test for a Population Mean",
+            "skills": [
+              {
+                "skillCd": "Skill 3.E",
+                "skillText": "Skill 3.E: Calculate a test statistic and find a p-value, provided conditions for inference are met."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              },
+              {
+                "skillCd": "Skill 4.E",
+                "skillText": "Skill 4.E: Justify a claim using a decision based on significance tests."
+              }
+            ]
+          },
+          {
+            "topicCd": "7.6",
+            "topicText": "7.6: Confidence Intervals for the Difference of Two Means",
+            "skills": [
+              {
+                "skillCd": "Skill 1.D",
+                "skillText": "Skill 1.D: Identify an appropriate inference method for confidence intervals."
+              },
+              {
+                "skillCd": "Skill 3.D",
+                "skillText": "Skill 3.D: Construct a confidence interval, provided conditions for inference are met."
+              },
+              {
+                "skillCd": "Skill 4.C",
+                "skillText": "Skill 4.C: Verify that inference procedures apply in a given situation."
+              }
+            ]
+          },
+          {
+            "topicCd": "7.7",
+            "topicText": "7.7: Justifying a Claim About the Difference of Two Means Based on a Confidence Interval",
+            "skills": [
+              {
+                "skillCd": "Skill 4.A",
+                "skillText": "Skill 4.A: Make an appropriate claim or draw an appropriate conclusion."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              },
+              {
+                "skillCd": "Skill 4.D",
+                "skillText": "Skill 4.D: Justify a claim based on a confidence interval."
+              },
+              {
+                "skillCd": "Skill 4.E",
+                "skillText": "Skill 4.E: Justify a claim using a decision based on significance tests."
+              }
+            ]
+          },
+          {
+            "topicCd": "7.8",
+            "topicText": "7.8: Setting Up a Test for the Difference of Two Population Means",
+            "skills": [
+              {
+                "skillCd": "Skill 1.E",
+                "skillText": "Skill 1.E: Identify an appropriate inference method for significance tests."
+              },
+              {
+                "skillCd": "Skill 1.F",
+                "skillText": "Skill 1.F: Identify null and alternative hypotheses."
+              },
+              {
+                "skillCd": "Skill 4.C",
+                "skillText": "Skill 4.C: Verify that inference procedures apply in a given situation."
+              }
+            ]
+          },
+          {
+            "topicCd": "7.9",
+            "topicText": "7.9: Carrying Out a Test for the Difference of Two Population Means",
+            "skills": [
+              {
+                "skillCd": "Skill 3.E",
+                "skillText": "Skill 3.E: Calculate a test statistic and find a p-value, provided conditions for inference are met."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              },
+              {
+                "skillCd": "Skill 4.E",
+                "skillText": "Skill 4.E: Justify a claim using a decision based on significance tests."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unitCd": "8",
+        "unitText": "8: Inference for Categorical Data-Chi-Square",
+        "topics": [
+          {
+            "topicCd": "8.2",
+            "topicText": "8.2: Setting up a Chi-Square Goodness of Fit Test",
+            "skills": [
+              {
+                "skillCd": "Skill 1.E",
+                "skillText": "Skill 1.E: Identify an appropriate inference method for significance tests."
+              },
+              {
+                "skillCd": "Skill 1.F",
+                "skillText": "Skill 1.F: Identify null and alternative hypotheses."
+              },
+              {
+                "skillCd": "Skill 3.A",
+                "skillText": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+              },
+              {
+                "skillCd": "Skill 3.C",
+                "skillText": "Skill 3.C: Describe probability distributions."
+              },
+              {
+                "skillCd": "Skill 4.C",
+                "skillText": "Skill 4.C: Verify that inference procedures apply in a given situation."
+              }
+            ]
+          },
+          {
+            "topicCd": "8.3",
+            "topicText": "8.3: Carrying out a Chi-Square Goodness of Fit Test",
+            "skills": [
+              {
+                "skillCd": "Skill 3.E",
+                "skillText": "Skill 3.E: Calculate a test statistic and find a p-value, provided conditions for inference are met."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              },
+              {
+                "skillCd": "Skill 4.E",
+                "skillText": "Skill 4.E: Justify a claim using a decision based on significance tests."
+              }
+            ]
+          },
+          {
+            "topicCd": "8.4",
+            "topicText": "8.4: Expected Counts in Two-Way Tables",
+            "skills": [
+              {
+                "skillCd": "Skill 3.A",
+                "skillText": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+              }
+            ]
+          },
+          {
+            "topicCd": "8.5",
+            "topicText": "8.5: Setting Up a Chi-Square Test for Homogeneity or Independence",
+            "skills": [
+              {
+                "skillCd": "Skill 1.E",
+                "skillText": "Skill 1.E: Identify an appropriate inference method for significance tests."
+              },
+              {
+                "skillCd": "Skill 1.F",
+                "skillText": "Skill 1.F: Identify null and alternative hypotheses."
+              },
+              {
+                "skillCd": "Skill 4.C",
+                "skillText": "Skill 4.C: Verify that inference procedures apply in a given situation."
+              }
+            ]
+          },
+          {
+            "topicCd": "8.6",
+            "topicText": "8.6: Carrying Out a Chi-Square Test for Homogeneity or Independence",
+            "skills": [
+              {
+                "skillCd": "Skill 3.E",
+                "skillText": "Skill 3.E: Calculate a test statistic and find a p-value, provided conditions for inference are met."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              },
+              {
+                "skillCd": "Skill 4.E",
+                "skillText": "Skill 4.E: Justify a claim using a decision based on significance tests."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unitCd": "9",
+        "unitText": "9: Inference for Quantitative Data-Slopes",
+        "topics": [
+          {
+            "topicCd": "9.2",
+            "topicText": "9.2: Confidence Intervals for the Slope of a Regression Model",
+            "skills": [
+              {
+                "skillCd": "Skill 1.D",
+                "skillText": "Skill 1.D: Identify an appropriate inference method for confidence intervals."
+              },
+              {
+                "skillCd": "Skill 3.D",
+                "skillText": "Skill 3.D: Construct a confidence interval, provided conditions for inference are met."
+              },
+              {
+                "skillCd": "Skill 4.C",
+                "skillText": "Skill 4.C: Verify that inference procedures apply in a given situation."
+              }
+            ]
+          },
+          {
+            "topicCd": "9.3",
+            "topicText": "9.3: Justifying a Claim About the Slope of a Regression Model Based on a Confidence Interval",
+            "skills": [
+              {
+                "skillCd": "Skill 4.A",
+                "skillText": "Skill 4.A: Make an appropriate claim or draw an appropriate conclusion."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              },
+              {
+                "skillCd": "Skill 4.D",
+                "skillText": "Skill 4.D: Justify a claim based on a confidence interval."
+              }
+            ]
+          },
+          {
+            "topicCd": "9.4",
+            "topicText": "9.4: Setting Up a Test for the Slope of a Regression Model",
+            "skills": [
+              {
+                "skillCd": "Skill 1.E",
+                "skillText": "Skill 1.E: Identify an appropriate inference method for significance tests."
+              },
+              {
+                "skillCd": "Skill 1.F",
+                "skillText": "Skill 1.F: Identify null and alternative hypotheses."
+              },
+              {
+                "skillCd": "Skill 4.C",
+                "skillText": "Skill 4.C: Verify that inference procedures apply in a given situation."
+              }
+            ]
+          },
+          {
+            "topicCd": "9.5",
+            "topicText": "9.5: Carrying Out a Test for the Slope of a Regression Model",
+            "skills": [
+              {
+                "skillCd": "Skill 3.E",
+                "skillText": "Skill 3.E: Calculate a test statistic and find a p-value, provided conditions for inference are met."
+              },
+              {
+                "skillCd": "Skill 4.B",
+                "skillText": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+              },
+              {
+                "skillCd": "Skill 4.E",
+                "skillText": "Skill 4.E: Justify a claim using a decision based on significance tests."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

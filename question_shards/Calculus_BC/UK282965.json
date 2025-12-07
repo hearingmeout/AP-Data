@@ -1,0 +1,41 @@
+{
+  "id": "UK282965",
+  "type": "mcq",
+  "title": "Processes - Antidifferentiation Techniques",
+  "content": {
+    "description": "",
+    "question": "Which of the following is equivalent to <math alttext=\"the indefinite integral of, x times e raised to the fraction x over 2, power, d x\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mrow><mo>∫</mo><mrow><mi>x</mi><msup><mrow><mi>e</mi></mrow><mrow><mfrac><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"x times e raised to the fraction x over 2, power, minus, the indefinite integral of, e raised to the fraction x over 2, power, d x\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mi>x</mi><msup><mrow><mi>e</mi></mrow><mrow><mfrac><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup><mo>−</mo><mrow><mo>∫</mo><mrow><msup><mrow><mi>e</mi></mrow><mrow><mfrac><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2 x times e raised to the fraction x over 2, power, minus, the indefinite integral of, 2 times e raised to the fraction x over 2, power, d x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><mn>2</mn><mi>x</mi><msup><mrow><mi>e</mi></mrow><mrow><mfrac><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup><mo>−</mo><mrow><mo>∫</mo><mn>2</mn><mrow><msup><mrow><mi>e</mi></mrow><mrow><mfrac><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mrow></mstyle></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2 x times e raised to the fraction x over 2, power, plus, the indefinite integral of, 2 times e raised to the fraction x over 2, power, d x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><mn>2</mn><mi>x</mi><msup><mrow><mi>e</mi></mrow><mrow><mfrac><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup><mo>+</mo><mrow><mo>∫</mo><mn>2</mn><mrow><msup><mrow><mi>e</mi></mrow><mrow><mfrac><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mrow></mstyle></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the indefinite integral of x, d x, times, the indefinite integral of, e raised to the fraction x over 2, power, d x\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mrow><mo>∫</mo><mrow><mi>x</mi></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow><mo>⋅</mo><mrow><mo>∫</mo><mrow><msup><mrow><mi>e</mi></mrow><mrow><mfrac><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mrow></mstyle></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"2 x times e raised to the fraction x over 2, power, minus, the indefinite integral of, 2 times e raised to the fraction x over 2, power, d x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><mn>2</mn><mi>x</mi><msup><mrow><mi>e</mi></mrow><mrow><mfrac><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup><mo>−</mo><mrow><mo>∫</mo><mn>2</mn><mrow><msup><mrow><mi>e</mi></mrow><mrow><mfrac><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mrow></mstyle></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.14",
+    "text": "6.14: Selecting Techniques for Antidifferentiation"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Identify an appropriate mathematical rule or procedure based on the classification of a given expression (e.g., Use the chain rule to find the derivative of a composite function)."
+  }
+}

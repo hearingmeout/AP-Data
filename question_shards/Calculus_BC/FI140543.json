@@ -1,0 +1,45 @@
+{
+  "id": "FI140543",
+  "type": "mcq",
+  "title": "Riemann sum with table",
+  "content": {
+    "description": "x 0 25 30 50 f(x) 4 6 8 12",
+    "question": "The values of a continuous function f for selected values of x are given in the table above. What is the value of the left Riemann sum approximation to <math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mrow> <mn>50</mn></mrow> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>d</mi><mi>x</mi></mrow> </math>using the subintervals [0, 25] [25, 30 ,] and [30, 50 ] ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "290",
+        "image": null
+      },
+      {
+        "label": "360",
+        "image": null
+      },
+      {
+        "label": "380",
+        "image": null
+      },
+      {
+        "label": "390",
+        "image": null
+      },
+      {
+        "label": "430",
+        "image": null
+      }
+    ],
+    "answer": "290"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.2",
+    "text": "6.2: Approximating Areas with Riemann Sums"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Explain how an approximated value relates to the actual value."
+  }
+}

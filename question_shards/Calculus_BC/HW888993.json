@@ -1,0 +1,36 @@
+{
+  "id": "HW888993",
+  "type": "frq",
+  "title": "Trapezoidal sum of accumulation function",
+  "content": {
+    "description": "",
+    "question": "Let <math> <mrow> <mi>F</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mi>x</mi> </msubsup> <mrow> <mi>sin</mi> </mrow> </mrow> </mstyle> <mrow> <mo>(</mo> <mrow> <msup> <mi>t</mi> <mn>2</mn> </msup> </mrow> <mo>)</mo> </mrow> <mi>d</mi> <mi>t</mi> </mrow> </math> for 0 ≤ x ≤ 3. (a) Use the trapezoidal rule with four equal subdivisions of the closed interval [0,1] to approximate F(1).",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Let <math> <mrow> <mi>F</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mi>x</mi> </msubsup> <mrow> <mi>sin</mi> </mrow> </mrow> </mstyle> <mrow> <mo>(</mo> <mrow> <msup> <mi>t</mi> <mn>2</mn> </msup> </mrow> <mo>)</mo> </mrow> <mi>d</mi> <mi>t</mi> </mrow> </math> for 0 ≤ x ≤ 3. (a) Use the trapezoidal rule with four equal subdivisions of the closed interval [0,1] to approximate F(1).",
+        "image": null
+      },
+      {
+        "text": "(b) On what intervals is F increasing?",
+        "image": null
+      },
+      {
+        "text": "(c) If the average rate of change of F on the closed interval [1,3] is k, find <math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>1</mn> <mn>3</mn> </msubsup> <mrow> <mi>sin</mi> </mrow> </mrow> </mstyle> <mrow> <mo>(</mo> <mrow> <msup> <mi>t</mi> <mn>2</mn> </msup> </mrow> <mo>)</mo> </mrow> <mi>d</mi> <mi>t</mi> </mrow> </math> in terms of k.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.1",
+    "text": "2.1: Defining Average and Instantaneous Rates of Change at a Point"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

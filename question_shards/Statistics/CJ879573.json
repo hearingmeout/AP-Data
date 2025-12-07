@@ -1,0 +1,45 @@
+{
+  "id": "CJ879573",
+  "type": "mcq",
+  "title": "Use mean and standard deviation to compute LSRL",
+  "content": {
+    "description": "",
+    "question": "Consider n pairs of numbers (x1,y1), (x2,y2), ..., and (xn, yn). The mean and standard deviation of the x-values are x̄ =5 and sx = 4, respectively. The mean and standard deviation of the y-values are ȳ = 10 and sy = 10 respectively. Of the following, which could be the least squares regression line?",
+    "image": null,
+    "choices": [
+      {
+        "label": "ŷ = -5.0 + 3.0x",
+        "image": null
+      },
+      {
+        "label": "ŷ = 3.0x",
+        "image": null
+      },
+      {
+        "label": "ŷ = 5.0 + 2.5x",
+        "image": null
+      },
+      {
+        "label": "ŷ = 8.5 + 0.3x",
+        "image": null
+      },
+      {
+        "label": "ŷ = 10.0 + 0.4x",
+        "image": null
+      }
+    ],
+    "answer": "ŷ = 8.5 + 0.3x"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: Least Squares Regression"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}

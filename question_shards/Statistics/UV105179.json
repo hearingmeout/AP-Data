@@ -1,0 +1,45 @@
+{
+  "id": "UV105179",
+  "type": "mcq",
+  "title": "Adaptive Practice Exercises",
+  "content": {
+    "description": "Students in an online course are each randomly assigned to receive either standard practice exercises or adaptive practice exercises. For the adaptive practice exercises, the next question asked is determined by whether the student got the previous question correct. The teacher of the course wants to determine whether there is a difference between the two practice exercise types by comparing the proportion of students who pass the course from each group. The teacher plans to test the null hypothesis that <math alttext=\"p sub S, end sub, equals p sub A\" overflow=\"scroll\"><msub><mi>p</mi><mi mathvariant=\"normal\">S</mi></msub><mo>=</mo><msub><mi>p</mi><mi mathvariant=\"normal\">A</mi></msub></math> versus the alternative hypothesis <math alttext=\"p sub S, end sub, is not equal to p sub A\" overflow=\"scroll\"><msub><mi>p</mi><mi mathvariant=\"normal\">S</mi></msub><mo>≠</mo><msub><mi>p</mi><mi mathvariant=\"normal\">A</mi></msub></math>, where <math alttext=\"p sub S\" overflow=\"scroll\"><msub><mi>p</mi><mi mathvariant=\"normal\">S</mi></msub></math> represents the proportion of students who would pass the course using standard practice exercises and <math alttext=\"p sub A\" overflow=\"scroll\"><msub><mi>p</mi><mi mathvariant=\"normal\">A</mi></msub></math> represents the proportion of students who would pass the course using adaptive practice exercises.",
+    "question": "The teacher knows that the <math alttext=\"99\" overflow=\"scroll\"><mn>99</mn></math> percent confidence interval for the difference in proportion of students passing the course for the two practice exercise types (standard minus adaptive) is <math alttext=\"open parenthesis, 0.03 comma 0.24, close parenthesis\" overflow=\"scroll\"><mpadded><mo>(</mo><mpadded><mn>0.03</mn></mpadded><mo>,</mo><mpadded><mn>0.24</mn></mpadded><mo>)</mo></mpadded></math> and the <math alttext=\"90\" overflow=\"scroll\"><mn>90</mn></math> percent confidence interval for the difference in the proportion of students passing the course for the two practice exercise types (standard minus adaptive) is <math alttext=\"open parenthesis, 0.06 comma 0.21, close parenthesis\" overflow=\"scroll\"><mpadded><mo>(</mo><mpadded><mn>0.06</mn></mpadded><mo>,</mo><mpadded><mn>0.21</mn></mpadded><mo>)</mo></mpadded></math>. Which of the following is the most reasonable conclusion for the teacher’s hypothesis test at the <math alttext=\"alpha equals 0.05\" overflow=\"scroll\"><mi>α</mi><mo>=</mo><mn>0.05</mn></math> level?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The <math alttext=\"p\" overflow=\"scroll\"><mi>p</mi></math>-value is less than <math alttext=\"0.01\" overflow=\"scroll\"><mn>0.01</mn></math>, so there is convincing statistical evidence that the proportion of students who would pass the course for the two practice exercise types differs at the <math alttext=\"5%\" overflow=\"scroll\"><mn>5</mn><mo>%</mo></math> level.",
+        "image": null
+      },
+      {
+        "label": "The <math alttext=\"p\" overflow=\"scroll\"><mi>p</mi></math>-value is between <math alttext=\"0.01\" overflow=\"scroll\"><mn>0.01</mn></math> and <math alttext=\"0.10\" overflow=\"scroll\"><mn>0.10</mn></math>, so there is convincing statistical evidence that the proportion of students who would pass the course for the two practice exercise types differs at the <math alttext=\"5%\" overflow=\"scroll\"><mn>5</mn><mo>%</mo></math> level.",
+        "image": null
+      },
+      {
+        "label": "The <math alttext=\"p\" overflow=\"scroll\"><mi>p</mi></math>-value is between <math alttext=\"0.01\" overflow=\"scroll\"><mn>0.01</mn></math> and <math alttext=\"0.10\" overflow=\"scroll\"><mn>0.10</mn></math>, so the researchers cannot determine whether the proportion of students who would pass the course for the two practice exercise types differs at the <math alttext=\"5%\" overflow=\"scroll\"><mn>5</mn><mo>%</mo></math> level.",
+        "image": null
+      },
+      {
+        "label": "The <math alttext=\"p\" overflow=\"scroll\"><mi>p</mi></math>-value is between <math alttext=\"0.01\" overflow=\"scroll\"><mn>0.01</mn></math> and <math alttext=\"0.10\" overflow=\"scroll\"><mn>0.10</mn></math>, so there is not convincing statistical evidence that the proportion of students who would pass the course for the two practice exercise types differs at the <math alttext=\"5%\" overflow=\"scroll\"><mn>5</mn><mo>%</mo></math> level.",
+        "image": null
+      },
+      {
+        "label": "The <math alttext=\"p\" overflow=\"scroll\"><mi>p</mi></math>-value is greater than <math alttext=\"0.10\" overflow=\"scroll\"><mn>0.10</mn></math>, so there is not convincing statistical evidence that the proportion of students who would pass the course for the two practice exercise types differs at the <math alttext=\"5%\" overflow=\"scroll\"><mn>5</mn><mo>%</mo></math> level.",
+        "image": null
+      }
+    ],
+    "answer": "The <math alttext=\"p\" overflow=\"scroll\"><mi>p</mi></math>-value is less than <math alttext=\"0.01\" overflow=\"scroll\"><mn>0.01</mn></math>, so there is convincing statistical evidence that the proportion of students who would pass the course for the two practice exercise types differs at the <math alttext=\"5%\" overflow=\"scroll\"><mn>5</mn><mo>%</mo></math> level."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.9",
+    "text": "6.9: Justifying a Claim Based on a Confidence Interval for a Difference Between Population Proportions"
+  },
+  "skill": {
+    "code": "Skill 4.D",
+    "text": "Skill 4.D: Justify a claim based on a confidence interval."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "WO747012",
+  "type": "mcq",
+  "title": "Gray Tree Frogs",
+  "content": {
+    "description": "Biologists are interested in how temperature changes might affect the frequency of mating calls of frogs. Twenty gray tree frogs are randomly chosen for a study. For each frog, the temperature of its habitat (in degrees Celsius) and the frequency of its mating call (in tones per second) are recorded.",
+    "question": "The 96 percent confidence interval for estimating the population slope of the linear regression line predicting mating call frequency based on habitat temperature is given by <math alttext=\"2.341 plus or minus 0.768\" display=\"inline\" overflow=\"scroll\"><mrow><mn>2.341</mn><mo>±</mo><mn>0.768</mn></mrow></math>. Assume that the conditions for inference for the slope of the regression line have been met. Which of the following is the correct interpretation of the calculated confidence interval?",
+    "image": null,
+    "choices": [
+      {
+        "label": "We are 96 percent confident that the increase in mating call frequency of an individual frog when its habitat temperature increases by 1 degree Celsius is between 1.573 and 3.109 tones per second.",
+        "image": null
+      },
+      {
+        "label": "We are 96 percent confident that the average increase in mating call frequency in the sample of frogs when habitat temperature increases by 1 degree Celsius is between 1.573 and 3.109 tones per second.",
+        "image": null
+      },
+      {
+        "label": "We are 96 percent confident that the average increase in mating call frequency in the population of frogs when habitat temperature increases by 1 degree Celsius is between 1.573 and 3.109 tones per second.",
+        "image": null
+      },
+      {
+        "label": "We are 96 percent confident that the average increase in habitat temperature in the sample of frogs when mating call frequency increases by one tone per second is between 1.573 and 3.109 degrees Celsius.",
+        "image": null
+      },
+      {
+        "label": "We are 96 percent confident that the average increase in habitat temperature in the population of frogs when mating call frequency increases by one tone per second is between 1.573 and 3.109 degrees Celsius.",
+        "image": null
+      }
+    ],
+    "answer": "We are 96 percent confident that the average increase in mating call frequency in the population of frogs when habitat temperature increases by 1 degree Celsius is between 1.573 and 3.109 tones per second."
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Inference for Quantitative Data-Slopes"
+  },
+  "topic": {
+    "code": "9.3",
+    "text": "9.3: Justifying a Claim About the Slope of a Regression Model Based on a Confidence Interval"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

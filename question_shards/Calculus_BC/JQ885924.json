@@ -1,0 +1,40 @@
+{
+  "id": "JQ885924",
+  "type": "frq",
+  "title": "Analysis of Function-Derivatives with MVT",
+  "content": {
+    "description": "",
+    "question": "A GRAPHING CALCULATOR IS REQUIRED FOR THIS QUESTION. You are permitted to use your calculator to solve an equation, find the derivative of a function at a point, or calculate the value of a definite integral. However, you must clearly indicate the setup of your question, namely the equation, function, or integral you are using. If you use other built-in features or programs, you must show the mathematical steps necessary to produce your results. Your work must be expressed in standard mathematical notation rather than calculator syntax. Show all of your work, even though the question may not explicitly remind you to do so. Clearly label any functions, graphs, tables, or other objects that you use. Justifications require that you give mathematical reasons, and that you verify the needed conditions under which relevant theorems, properties, definitions, or tests are applied. Your work will be scored on the correctness and completeness of your methods as well as your answers. Answers without supporting work will usually not receive credit. Unless otherwise specified, answers (numeric or algebraic) need not be simplified. If your answer is given as a decimal approximation, it should be correct to three places after the decimal point. Unless otherwise specified, the domain of a function <math alttext=\"f\"><mstyle><mrow><mstyle><mrow><mi>f</mi></mrow></mstyle></mrow></mstyle></math> is assumed to be the set of all real numbers <math alttext=\"x\"><mstyle><mrow><mstyle><mrow><mi>x</mi></mrow></mstyle></mrow></mstyle></math> for which <math alttext=\"f of x\"><mstyle><mrow><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></mrow></mstyle></math> is a real number. Let <math alttext=\"f\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be a twice-differentiable function such that <math alttext=\"f prime of 2, equals 0\"><mstyle><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow><mo>=</mo><mn>0</mn></mrow></mstyle></math>. The second derivative of <math alttext=\"f\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is given by <math alttext=\"f double prime of x, equals, x squared, times e raised to the 2 minus x, power, minus 1\"><mstyle><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>″</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>e</mi></mrow><mrow><mn>2</mn><mo>−</mo><mi>x</mi></mrow></msup><mo>−</mo><mn>1</mn></mrow></mstyle></math> for <math alttext=\"0 less than or equal to x, less than or equal to 6\"><mstyle><mrow><mrow><mn>0</mn></mrow><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>6</mn></mrow></mstyle></math>. (a) On what open intervals contained in <math alttext=\"0 less than x, is less than 6 \"><mstyle><mrow><mn>0</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>6</mn></mrow></mstyle></math> is the graph of <math alttext=\"f\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> concave down? Give a reason for your answer.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "A GRAPHING CALCULATOR IS REQUIRED FOR THIS QUESTION. You are permitted to use your calculator to solve an equation, find the derivative of a function at a point, or calculate the value of a definite integral. However, you must clearly indicate the setup of your question, namely the equation, function, or integral you are using. If you use other built-in features or programs, you must show the mathematical steps necessary to produce your results. Your work must be expressed in standard mathematical notation rather than calculator syntax. Show all of your work, even though the question may not explicitly remind you to do so. Clearly label any functions, graphs, tables, or other objects that you use. Justifications require that you give mathematical reasons, and that you verify the needed conditions under which relevant theorems, properties, definitions, or tests are applied. Your work will be scored on the correctness and completeness of your methods as well as your answers. Answers without supporting work will usually not receive credit. Unless otherwise specified, answers (numeric or algebraic) need not be simplified. If your answer is given as a decimal approximation, it should be correct to three places after the decimal point. Unless otherwise specified, the domain of a function <math alttext=\"f\"><mstyle><mrow><mstyle><mrow><mi>f</mi></mrow></mstyle></mrow></mstyle></math> is assumed to be the set of all real numbers <math alttext=\"x\"><mstyle><mrow><mstyle><mrow><mi>x</mi></mrow></mstyle></mrow></mstyle></math> for which <math alttext=\"f of x\"><mstyle><mrow><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></mrow></mstyle></math> is a real number. Let <math alttext=\"f\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be a twice-differentiable function such that <math alttext=\"f prime of 2, equals 0\"><mstyle><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow><mo>=</mo><mn>0</mn></mrow></mstyle></math>. The second derivative of <math alttext=\"f\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is given by <math alttext=\"f double prime of x, equals, x squared, times e raised to the 2 minus x, power, minus 1\"><mstyle><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>″</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>e</mi></mrow><mrow><mn>2</mn><mo>−</mo><mi>x</mi></mrow></msup><mo>−</mo><mn>1</mn></mrow></mstyle></math> for <math alttext=\"0 less than or equal to x, less than or equal to 6\"><mstyle><mrow><mrow><mn>0</mn></mrow><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>6</mn></mrow></mstyle></math>. (a) On what open intervals contained in <math alttext=\"0 less than x, is less than 6 \"><mstyle><mrow><mn>0</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>6</mn></mrow></mstyle></math> is the graph of <math alttext=\"f\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> concave down? Give a reason for your answer.",
+        "image": null
+      },
+      {
+        "text": "(b) Does <math alttext=\"f\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> have a relative minimum, a relative maximum, or neither at <math alttext=\"x equals 2 \"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>2</mn></mrow></mstyle></math> ? Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "(c) Use the Mean Value Theorem on the closed interval <math alttext=\"open bracket, 2 comma 4, close bracket \"><mstyle><mrow><mo>[</mo><mrow><mn>2</mn><mo>,</mo><mn>4</mn></mrow><mo>]</mo></mrow></mstyle></math> to show that <math alttext=\"f prime of 4 \"><mstyle><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mn>4</mn><mo>)</mo></mrow></mrow></mstyle></math> cannot equal 8.5.",
+        "image": null
+      },
+      {
+        "text": "(d) Does the graph of <math alttext=\"f\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> have a point of inflection at <math alttext=\"x equals 5\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>5</mn></mrow></mstyle></math> ? Give a reason for your answer.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.1",
+    "text": "5.1: Using the Mean Value Theorem"
+  },
+  "skill": {
+    "code": "Skill 2.E",
+    "text": "Skill 2.E: Describe the relationships among different representations of functions and their derivatives."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "JQ747797",
+  "type": "mcq",
+  "title": "Herbal Knee Pain",
+  "content": {
+    "description": "To determine whether an herbal supplement helps relieve knee pain, researchers will select <math alttext=\"50\" overflow=\"scroll\"><mn>50</mn></math> patients with knee pain to participate in a study. The participants will be randomly assigned to one of two groups, with <math alttext=\"25\" overflow=\"scroll\"><mn>25</mn></math> participants in each group. The first group will receive the herbal supplement daily for one week, and the second group will receive a placebo daily for one week. Patients will continue to take their current pain medication during the week. At the end of the week, the patients will record their pain score on a scale of <math alttext=\"1\" overflow=\"scroll\"><mn>1</mn></math> to <math alttext=\"10\" overflow=\"scroll\"><mn>10</mn></math>, where <math alttext=\"1\" overflow=\"scroll\"><mn>1</mn></math> represents no pain and <math alttext=\"10\" overflow=\"scroll\"><mn>10</mn></math> represents extreme pain.",
+    "question": "Assuming the conditions for inference are met, which of the following would be the most appropriate statistical method to estimate the difference in mean pain score between the herbal supplement and the placebo for all patients with knee pain who are similar to the participants in the study?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A one-sample <math alttext=\"z\" overflow=\"scroll\"><mi>z</mi></math>-interval for estimating a population proportion",
+        "image": null
+      },
+      {
+        "label": "A one-sample <math alttext=\"t\" overflow=\"scroll\"><mi>t</mi></math>-interval for estimating a population mean",
+        "image": null
+      },
+      {
+        "label": "A matched-pairs <math alttext=\"t\" overflow=\"scroll\"><mi>t</mi></math>-interval for estimating a population mean difference",
+        "image": null
+      },
+      {
+        "label": "A two-sample <math alttext=\"z\" overflow=\"scroll\"><mi>z</mi></math>-interval for estimating a difference between population proportions",
+        "image": null
+      },
+      {
+        "label": "A two-sample <math alttext=\"t\" overflow=\"scroll\"><mi>t</mi></math>-interval for estimating a difference between population means",
+        "image": null
+      }
+    ],
+    "answer": "A two-sample <math alttext=\"t\" overflow=\"scroll\"><mi>t</mi></math>-interval for estimating a difference between population means"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.6",
+    "text": "7.6: Confidence Intervals for the Difference of Two Means"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate inference method for confidence intervals."
+  }
+}

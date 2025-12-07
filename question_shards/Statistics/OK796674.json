@@ -1,0 +1,45 @@
+{
+  "id": "OK796674",
+  "type": "mcq",
+  "title": "Housing Price per Size",
+  "content": {
+    "description": "A realtor collected data from a random sample of <math alttext=\"29\" overflow=\"scroll\"><mstyle><mrow><mn>29</mn></mrow></mstyle></math> houses for sale in a certain town. The scatterplot shows the size of each house, in square feet, and the asking price, in thousands of dollars. The least-squares regression line is also shown.",
+    "question": "Based on the recorded data, the realtor created the following regression equation to predict asking price, in thousands of dollars, based on the size, in square feet, of the house. <math alttext=\"predicted asking price, equals 35.050 plus 0.096 (size of house)\" overflow=\"scroll\"><mstyle><mrow><mtext>predicted asking price</mtext><mo>=</mo><mn>35.050</mn><mo>+</mo><mn>0.096</mn><mrow><mo>(</mo><mtext>size of house</mtext><mo>)</mo></mrow></mrow></mstyle></math> Which of the following provides the best interpretation of the slope of the regression line?",
+    "image": "https://ap.oly.st/images/bfd711e670f6003a9269a00f27868798.png",
+    "choices": [
+      {
+        "label": "For each additional square foot, the predicted asking price of a house in this town increases by <math alttext=\"$96\" overflow=\"scroll\"><mstyle><mrow><mi>$</mi><mn>96</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "For each additional square foot, the predicted asking price of a house in this town increases by <math alttext=\"$35\" overflow=\"scroll\"><mstyle><mrow><mi>$</mi><mn>35</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "For each additional square foot, the predicted asking price of a house in this town increases by <math alttext=\"$0.096\" overflow=\"scroll\"><mstyle><mrow><mi>$</mi><mn>0.096</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "For each additional <math alttext=\"$1,000\" overflow=\"scroll\"><mstyle><mrow><mi>$</mi><mn>1</mn><mtext>,000</mtext></mrow></mstyle></math> of asking price, the predicted size of a house increases by <math alttext=\"35\" overflow=\"scroll\"><mstyle><mrow><mn>35</mn></mrow></mstyle></math> square feet.",
+        "image": null
+      },
+      {
+        "label": "For each additional <math alttext=\"$1,000\" overflow=\"scroll\"><mstyle><mrow><mi>$</mi><mn>1</mn><mtext>,000</mtext></mrow></mstyle></math> of asking price, the predicted size of a house increases by <math alttext=\"0.096\" overflow=\"scroll\"><mstyle><mrow><mn>0.096</mn></mrow></mstyle></math> square feet.",
+        "image": null
+      }
+    ],
+    "answer": "For each additional square foot, the predicted asking price of a house in this town increases by <math alttext=\"$96\" overflow=\"scroll\"><mstyle><mrow><mi>$</mi><mn>96</mn></mrow></mstyle></math>."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: Least Squares Regression"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

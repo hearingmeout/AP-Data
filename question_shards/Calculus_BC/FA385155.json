@@ -1,0 +1,45 @@
+{
+  "id": "FA385155",
+  "type": "mcq",
+  "title": "Area between curves",
+  "content": {
+    "description": "",
+    "question": "If 0 < c < 1, what is the area of the region enclosed by the graphs of y = 0, y = 1/x , x = c and x = 1?",
+    "image": null,
+    "choices": [
+      {
+        "label": "ln (1-c)",
+        "image": null
+      },
+      {
+        "label": "ln (1/c)",
+        "image": null
+      },
+      {
+        "label": "ln c",
+        "image": null
+      },
+      {
+        "label": "(1/c2)-1",
+        "image": null
+      },
+      {
+        "label": "1-(1/c2)",
+        "image": null
+      }
+    ],
+    "answer": "ln (1/c)"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Applications of Integration"
+  },
+  "topic": {
+    "code": "8.4",
+    "text": "8.4: Finding the Area Between Curves Expressed as Functions of x"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Use appropriate mathematical symbols and notation (e.g., Represent a derivative using ƒ'(x), y', and dy/dx)."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "AJ152510",
+  "type": "frq",
+  "title": "Modeling-Derivatives - Analytic",
+  "content": {
+    "description": "",
+    "question": "NO CALCULATOR IS ALLOWED FOR THIS QUESTION. Show all of your work, even though the question may not explicitly remind you to do so. Clearly label any functions, graphs, tables, or other objects that you use. Justifications require that you give mathematical reasons, and that you verify the needed conditions under which relevant theorems, properties, definitions, or tests are applied. Your work will be scored on the correctness and completeness of your methods as well as your answers. Answers without supporting work will usually not receive credit. Unless otherwise specified, answers (numeric or algebraic) need not be simplified. If your answer is given as a decimal approximation, it should be correct to three places after the decimal point. Unless otherwise specified, the domain of a function <math alttext=\"f\"><mstyle><mrow><mstyle><mrow><mi>f</mi></mrow></mstyle></mrow></mstyle></math> is assumed to be the set of all real numbers <math alttext=\"x\"><mstyle><mrow><mstyle><mrow><mi>x</mi></mrow></mstyle></mrow></mstyle></math> for which <math alttext=\"f of x\"><mstyle><mrow><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></mrow></mstyle></math> is a real number. The number of mosquitoes in a field after a major rainfall is modeled by the function <math alttext=\"M\"><mstyle><mrow><mi>M</mi></mrow></mstyle></math> defined by <math alttext=\"M of t equals, negative, t cubed, plus, 12 times t squared, plus 144 t\"><mstyle><mrow><mi>M</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mrow><mo>−</mo><msup><mrow><mi>t</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow><mo>+</mo><mn>12</mn><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>144</mn><mi>t</mi></mrow></mstyle></math>, where <math alttext=\"t\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math> is the number of days after the rainfall ended and <math alttext=\"0 is less than or equal to t, which is less than or equal to 18\"><mstyle><mrow><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>18</mn></mrow></mstyle></math>. (a) Using correct units, interpret the meaning of <math alttext=\"M prime of 15, equals negative 171 \"><mstyle><mrow><msup><mrow><mi>M</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mn>15</mn><mo>)</mo></mrow><mo>=</mo><mrow><mo>−</mo><mn>171</mn></mrow></mrow></mstyle></math> in the context of the problem.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "NO CALCULATOR IS ALLOWED FOR THIS QUESTION. Show all of your work, even though the question may not explicitly remind you to do so. Clearly label any functions, graphs, tables, or other objects that you use. Justifications require that you give mathematical reasons, and that you verify the needed conditions under which relevant theorems, properties, definitions, or tests are applied. Your work will be scored on the correctness and completeness of your methods as well as your answers. Answers without supporting work will usually not receive credit. Unless otherwise specified, answers (numeric or algebraic) need not be simplified. If your answer is given as a decimal approximation, it should be correct to three places after the decimal point. Unless otherwise specified, the domain of a function <math alttext=\"f\"><mstyle><mrow><mstyle><mrow><mi>f</mi></mrow></mstyle></mrow></mstyle></math> is assumed to be the set of all real numbers <math alttext=\"x\"><mstyle><mrow><mstyle><mrow><mi>x</mi></mrow></mstyle></mrow></mstyle></math> for which <math alttext=\"f of x\"><mstyle><mrow><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mstyle></mrow></mstyle></math> is a real number. The number of mosquitoes in a field after a major rainfall is modeled by the function <math alttext=\"M\"><mstyle><mrow><mi>M</mi></mrow></mstyle></math> defined by <math alttext=\"M of t equals, negative, t cubed, plus, 12 times t squared, plus 144 t\"><mstyle><mrow><mi>M</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mrow><mo>−</mo><msup><mrow><mi>t</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow><mo>+</mo><mn>12</mn><msup><mrow><mi>t</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>144</mn><mi>t</mi></mrow></mstyle></math>, where <math alttext=\"t\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math> is the number of days after the rainfall ended and <math alttext=\"0 is less than or equal to t, which is less than or equal to 18\"><mstyle><mrow><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>18</mn></mrow></mstyle></math>. (a) Using correct units, interpret the meaning of <math alttext=\"M prime of 15, equals negative 171 \"><mstyle><mrow><msup><mrow><mi>M</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mn>15</mn><mo>)</mo></mrow><mo>=</mo><mrow><mo>−</mo><mn>171</mn></mrow></mrow></mstyle></math> in the context of the problem.",
+        "image": null
+      },
+      {
+        "text": "(b) Based on the model, what is the absolute maximum number of mosquitoes in the field over the time interval <math alttext=\"0 is less than or equal to t, which is less than or equal to 18 \"><mstyle><mrow><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>18</mn></mrow></mstyle></math> ? Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "(c) For what values of <math alttext=\"t\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math> is the rate of change of the number of mosquitoes in the field increasing?",
+        "image": null
+      },
+      {
+        "text": "(d) For <math alttext=\"0 less than or equal to t, less than or equal to 18\"><mstyle><mrow><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>18</mn></mrow></mstyle></math>, the number of bats in the field is modeled by the differentiable function <math alttext=\"B\"><mstyle><mrow><mi>B</mi></mrow></mstyle></math>, where <math alttext=\"B\"><mstyle><mrow><mi>B</mi></mrow></mstyle></math> is a function of the number of mosquitoes in the field. Based on the models, write an expression for the rate of change of the number of bats in the field at time <math alttext=\"t equals a\"><mstyle><mrow><mi>t</mi><mo>=</mo><mi>a</mi></mrow></mstyle></math>.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: The Chain Rule"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

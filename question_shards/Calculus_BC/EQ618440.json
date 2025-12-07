@@ -1,0 +1,41 @@
+{
+  "id": "EQ618440",
+  "type": "mcq",
+  "title": "Average value of a function on an interval",
+  "content": {
+    "description": "",
+    "question": "Which of the following is true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>h</mi> <mo>→</mo> <mn>0</mn> </mrow> </munder> <mfrac> <mrow> <mi>f</mi> <mrow> <mo>(</mo> <mrow> <mi>a</mi> <mo>+</mo> <mi>h</mi> </mrow> <mo>)</mo> </mrow> <mo>−</mo> <mi>f</mi> <mrow> <mo>(</mo> <mi>a</mi> <mo>)</mo> </mrow> </mrow> <mi>h</mi> </mfrac> </mrow> </math> exists.",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>x</mi> <mo>→</mo> <msup> <mi>a</mi> <mo>+</mo> </msup> </mrow> </munder> <mi>f</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>≠</mo> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>x</mi> <mo>→</mo> <msup> <mi>a</mi> <mo>−</mo> </msup> </mrow> </munder> <mi>f</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <munder> <mrow> <mi>lim</mi></mrow> <mrow> <mi>x</mi><mo>→</mo><mi>a</mi></mrow> </munder> <mi>f</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mo>≠</mo><mi>f</mi><mrow><mo>(</mo> <mi>a</mi> <mo>)</mo></mrow></mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <munder> <mrow> <mi>lim</mi></mrow> <mrow> <mi>x</mi><mo>→</mo><mi>a</mi></mrow> </munder> <mi>f</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow></mrow> </math> does not exist.",
+        "image": null
+      }
+    ],
+    "answer": "<math> <mrow> <munder> <mrow> <mi>lim</mi></mrow> <mrow> <mi>x</mi><mo>→</mo><mi>a</mi></mrow> </munder> <mi>f</mi><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mo>≠</mo><mi>f</mi><mrow><mo>(</mo> <mi>a</mi> <mo>)</mo></mrow></mrow> </math>"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.3",
+    "text": "1.3: Estimating Limit Values from Graphs"
+  },
+  "skill": {
+    "code": "Skill 2.B",
+    "text": "Skill 2.B: Identify mathematical information from graphical, numerical, analytical, and/or verbal representations."
+  }
+}

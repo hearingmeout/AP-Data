@@ -1,0 +1,45 @@
+{
+  "id": "IB743425",
+  "type": "mcq",
+  "title": "Meaning of alpha",
+  "content": {
+    "description": "",
+    "question": "Is the significance level of a hypothesis test equivalent to the probability that the null hypothesis is true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "No, the significance level is the probability of rejecting the null hypothesis when the null hypothesis is actually true.",
+        "image": null
+      },
+      {
+        "label": "No, the significance level is the probability of rejecting the null hypothesis when the null hypothesis is actually false.",
+        "image": null
+      },
+      {
+        "label": "No, the significance level is the probability of failing to reject the null hypothesis when the null hypothesis is actually true.",
+        "image": null
+      },
+      {
+        "label": "No, the significance level is the probability that the null hypothesis is actually false.",
+        "image": null
+      },
+      {
+        "label": "Yes, the significance level is the probability that the null hypothesis is actually true.",
+        "image": null
+      }
+    ],
+    "answer": "No, the significance level is the probability of rejecting the null hypothesis when the null hypothesis is actually true."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.6",
+    "text": "6.6: Concluding a Test for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 4.E",
+    "text": "Skill 4.E: Justify a claim using a decision based on significance tests."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "BG671451",
+  "type": "frq",
+  "title": "Table of values of derivative, no context",
+  "content": {
+    "description": "",
+    "question": "x 2 3 5 8 13 f(x) 1 4 -2 3 6 Let f be a function that is twice differentiable for all real numbers. The table above gives values of f for selected points in the closed interval 2 ≤ x ≤ 13. (a) Estimate f′(4). Show the work that leads to your answer.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "x 2 3 5 8 13 f(x) 1 4 -2 3 6 Let f be a function that is twice differentiable for all real numbers. The table above gives values of f for selected points in the closed interval 2 ≤ x ≤ 13. (a) Estimate f′(4). Show the work that leads to your answer.",
+        "image": null
+      },
+      {
+        "text": "(b) Evaluate <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>2</mn> <mrow> <mn>13</mn> </mrow> </msubsup> <mrow> <mrow> <mo>(</mo> <mrow> <mn>3</mn> <mo>−</mo> <mn>5</mn> <msup> <mi>f</mi> <mo>′</mo> </msup> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> </mstyle> <mi>d</mi> <mi>x</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWdXaWdaeaapeWaaeWaa8aabaWdbiaaiodacqGHsislcaaI1aGabmOzayaafaWaaeWaa8aabaWdbiaadIhaaiaawIcacaGLPaaaaiaawIcacaGLPaaaaSWdaeaapeGaaGOmaaWdaeaapeGaaGymaiaaiodaa0Gaey4kIipakiaadsgacaWG4baaaa@446B@</annotation> </semantics> </math>. Show the work that leads to your answer.",
+        "image": null
+      },
+      {
+        "text": "(c) Use a left Riemann sum with subintervals indicated by the data in the table to approximate <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>2</mn> <mrow> <mn>13</mn> </mrow> </msubsup> <mi>f</mi> </mrow> </mstyle> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mi>d</mi> <mi>x</mi> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWdXaWdaeaapeGaamOzaaWcpaqaa8qacaaIYaaapaqaa8qacaaIXaGaaG4maaqdcqGHRiI8aOWaaeWaa8aabaWdbiaadIhaaiaawIcacaGLPaaacaWGKbGaamiEaaaa@404E@</annotation> </semantics> </math>. Show the work that leads to your answer.",
+        "image": null
+      },
+      {
+        "text": "(d) Suppose f'(5) = 3 and f''(x) < 0 for all x in the closed interval 5 ≤ x ≤ 8. Use the line tangent to the graph of f at x = 5 to show that f(7) ≤ 4. Use the secant line for the graph of f on 5 ≤ x ≤ 8 to show that f(7) ≥ 4/3.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: Estimating Derivatives of a Function at a Point"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

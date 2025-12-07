@@ -1,0 +1,41 @@
+{
+  "id": "KX383390",
+  "type": "mcq",
+  "title": "Justification - Behaviors Implicit Relations",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>C</mi></mrow></mstyle></math> be the curve defined by <math alttext=\"x squared, minus y squared, equals 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>1</mn></mrow></mstyle></math>. Consider all points <math alttext=\"x comma y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mrow><mi>x</mi></mrow><mo>,</mo><mrow><mi>y</mi></mrow><mo>)</mo></mrow></mrow></mstyle></math> on curve <math alttext=\"C\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>C</mi></mrow></mstyle></math> where <math alttext=\"x is greater than 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>&gt;</mo><mn>1</mn></mrow></mstyle></math> and <math alttext=\"y is greater than 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>&gt;</mo><mn>0</mn></mrow></mstyle></math>. Which of the following statements provides a justification for the concavity of the curve?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The curve is concave down because <math alttext=\"y double prime, equals, the negative of the fraction with numerator x, and denominator y squared, which is less than 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>y</mi></mrow><mrow><mo>″</mo></mrow></msup><mo>=</mo><mrow><mo>−</mo><mfrac><mrow><mi>x</mi></mrow><mrow><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow><mo>&lt;</mo><mn>0</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "The curve is concave up because <math alttext=\"y double prime, equals, the fraction with numerator 1, and denominator y squared, which is greater than 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>y</mi></mrow><mrow><mo>″</mo></mrow></msup><mo>=</mo><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow><mo>&gt;</mo><mn>0</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "The curve is concave down because <math alttext=\"y double prime, equals, the negative of the fraction with numerator 1, and denominator y cubed, which is less than 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>y</mi></mrow><mrow><mo>″</mo></mrow></msup><mo>=</mo><mrow><mo>−</mo><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>y</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac></mrow></mrow><mo>&lt;</mo><mn>0</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "The curve is concave up because <math alttext=\"y double prime, equals, the fraction with numerator 1, and denominator y cubed, which is greater than 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>y</mi></mrow><mrow><mo>″</mo></mrow></msup><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>y</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac><mo>&gt;</mo><mn>0</mn></mrow></mstyle></math>.",
+        "image": null
+      }
+    ],
+    "answer": "The curve is concave down because <math alttext=\"y double prime, equals, the negative of the fraction with numerator 1, and denominator y cubed, which is less than 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>y</mi></mrow><mrow><mo>″</mo></mrow></msup><mo>=</mo><mrow><mo>−</mo><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>y</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac></mrow></mrow><mo>&lt;</mo><mn>0</mn></mrow></mstyle></math>."
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.12",
+    "text": "5.12: Exploring Behaviors of Implicit Relations"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Provide reasons or rationales for solutions and conclusions."
+  }
+}

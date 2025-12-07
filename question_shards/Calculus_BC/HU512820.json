@@ -1,0 +1,40 @@
+{
+  "id": "HU512820",
+  "type": "frq",
+  "title": "River",
+  "content": {
+    "description": "",
+    "question": "Distance from the river's edge (feet) 0 8 14 22 24 Depth of the water (feet) 0 7 8 2 0 A scientist measures the depth of the Doe River at Picnic Point. The river is 24 feet wide at this location. The measurements are taken in a straight line perpendicular to the edge of the river. The data are shown in the table above. The velocity of the water at Picnic Point, in feet per minute, is modeled by <math> <semantics> <mrow> <mi>v</mi><mrow><mo>(</mo> <mi>t</mi> <mo>)</mo></mrow><mo>=</mo><mn>16</mn><mo>+</mo><mn>2</mn><mi>sin</mi><mrow><mo>(</mo> <mrow> <msqrt> <mrow> <mi>t</mi><mo>+</mo><mn>10</mn> </mrow> </msqrt> </mrow> <mo>)</mo></mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWG2bWaaeWaa8aabaWdbiaadshaaiaawIcacaGLPaaacqGH9aqpcaaIXaGaaGOnaiabgUcaRiaaikdaciGGZbGaaiyAaiaac6gadaqadaWdaeaapeWaaOaaa8aabaWdbiaadshacqGHRaWkcaaIXaGaaGimaaWcbeaaaOGaayjkaiaawMcaaaaa@45E3@</annotation> </semantics> </math> for 0 ≤ t ≤ 120 minutes. (a) Use a trapezoidal sum with the four subintervals indicated by the data in the table to approximate the area of the cross section of the river at Picnic Point, in square feet. Show the computations that lead to your answer.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Distance from the river's edge (feet) 0 8 14 22 24 Depth of the water (feet) 0 7 8 2 0 A scientist measures the depth of the Doe River at Picnic Point. The river is 24 feet wide at this location. The measurements are taken in a straight line perpendicular to the edge of the river. The data are shown in the table above. The velocity of the water at Picnic Point, in feet per minute, is modeled by <math> <semantics> <mrow> <mi>v</mi><mrow><mo>(</mo> <mi>t</mi> <mo>)</mo></mrow><mo>=</mo><mn>16</mn><mo>+</mo><mn>2</mn><mi>sin</mi><mrow><mo>(</mo> <mrow> <msqrt> <mrow> <mi>t</mi><mo>+</mo><mn>10</mn> </mrow> </msqrt> </mrow> <mo>)</mo></mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWG2bWaaeWaa8aabaWdbiaadshaaiaawIcacaGLPaaacqGH9aqpcaaIXaGaaGOnaiabgUcaRiaaikdaciGGZbGaaiyAaiaac6gadaqadaWdaeaapeWaaOaaa8aabaWdbiaadshacqGHRaWkcaaIXaGaaGimaaWcbeaaaOGaayjkaiaawMcaaaaa@45E3@</annotation> </semantics> </math> for 0 ≤ t ≤ 120 minutes. (a) Use a trapezoidal sum with the four subintervals indicated by the data in the table to approximate the area of the cross section of the river at Picnic Point, in square feet. Show the computations that lead to your answer.",
+        "image": null
+      },
+      {
+        "text": "(b) The volumetric flow at a location along the river is the product of the cross-sectional area and the velocity of the water at that location. Use your approximation from part (a) to estimate the average value of the volumetric flow at Picnic Point, in cubic feet per minute, from t = 0 to t = 120 minutes.",
+        "image": null
+      },
+      {
+        "text": "(c) The scientist proposes the function f, given by f (x) = 8sin(πx/24), as a model for the depth of the water, in feet, at Picnic Point x feet from the river's edge. Find the area of the cross section of the river at Picnic Point based on this model.",
+        "image": null
+      },
+      {
+        "text": "(d) Recall that the volumetric flow is the product of the cross-sectional area and the velocity of the water at a location. To prevent flooding, water must be diverted if the average value of the volumetric flow at Picnic Point exceeds 2100 cubic feet per minute for a 20-minute period. Using your answer from part (c), find the average value of the volumetric flow during the time interval 40 ≤ t ≤ 60 minutes. Does this value indicate that the water must be diverted?",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.2",
+    "text": "6.2: Approximating Areas with Riemann Sums"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

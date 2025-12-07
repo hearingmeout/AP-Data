@@ -1,0 +1,45 @@
+{
+  "id": "LD896558",
+  "type": "mcq",
+  "title": "Concrete strength",
+  "content": {
+    "description": "A civil engineer tested concrete samples to investigate the difference in strength, in newtons per square millimeter <math alttext=\"open parenthesis, N backslash m m squared, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mrow><mo>(</mo><mstyle><mrow><mtext>N/</mtext><msup><mrow><mtext>mm</mtext></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle><mo>)</mo></mrow></math>, between concrete hardened for 21 days and concrete hardened for 28 days. The engineer measured the strength from each sample, calculated the difference in the mean strength between the samples, and then constructed the 95 percent confidence interval, <math alttext=\"open parenthesis, 2.9 comma 3.1, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mn>2.9</mn><mo>,</mo><mn>3.1</mn><mo>)</mo></mrow></mrow></mstyle></math>, for the difference in mean strengths.",
+    "question": "Assuming all conditions for inference were met, which of the following is a correct interpretation of the 95 percent confidence level?",
+    "image": null,
+    "choices": [
+      {
+        "label": "In repeated samples of the same size, approximately 95 percent of the samples will yield the interval 2.9 <math alttext=\"newtons per square millimeter\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mtext>N/mm</mtext></mrow><mrow><mn>2</mn></mrow></msup></mrow></math> to 3.1 <math alttext=\"newtons per square millimeter\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mtext>N/mm</mtext></mrow><mrow><mn>2</mn></mrow></msup></mrow></math>.",
+        "image": null
+      },
+      {
+        "label": "In repeated samples of the same size, approximately 95 percent of the sample means will fall between 2.9 <math alttext=\"newtons per square millimeter\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mtext>N/mm</mtext></mrow><mrow><mn>2</mn></mrow></msup></mrow></math> and 3.1 <math alttext=\"newtons per square millimeter\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mtext>N/mm</mtext></mrow><mrow><mn>2</mn></mrow></msup></mrow></math>.",
+        "image": null
+      },
+      {
+        "label": "In repeated samples of the same size, approximately 95 percent of the intervals constructed from the samples will extend from 2.9 <math alttext=\"newtons per square millimeter\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mtext>N/mm</mtext></mrow><mrow><mn>2</mn></mrow></msup></mrow></math> to 3.1 <math alttext=\"newtons per square millimeter\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mtext>N/mm</mtext></mrow><mrow><mn>2</mn></mrow></msup></mrow></math>.",
+        "image": null
+      },
+      {
+        "label": "In repeated samples of the same size, approximately 95 percent of the intervals constructed from the samples will capture the population difference in means.",
+        "image": null
+      },
+      {
+        "label": "In repeated samples of the same size, approximately 95 percent of the intervals constructed from the samples will capture the sample difference in means.",
+        "image": null
+      }
+    ],
+    "answer": "In repeated samples of the same size, approximately 95 percent of the intervals constructed from the samples will capture the population difference in means."
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.7",
+    "text": "7.7: Justifying a Claim About the Difference of Two Means Based on a Confidence Interval"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

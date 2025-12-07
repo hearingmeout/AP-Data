@@ -1,0 +1,41 @@
+{
+  "id": "VH824371",
+  "type": "mcq",
+  "title": "Taylor series expansion of exponential functions",
+  "content": {
+    "description": "",
+    "question": "Which of the following is a power series expansion of <math> <mrow> <mfrac> <mrow> <msup> <mi>e</mi> <mi>x</mi> </msup> <mo>+</mo> <msup> <mi>e</mi> <mrow> <mo>−</mo> <mi>x</mi> </mrow> </msup> </mrow> <mn>2</mn> </mfrac> </mrow> </math>?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <mrow> <mn>1</mn><mo>+</mo><mfrac> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mrow> <mn>2</mn><mo>!</mo></mrow> </mfrac> <mo>+</mo><mfrac> <mrow> <msup> <mi>x</mi> <mn>4</mn> </msup> </mrow> <mrow> <mn>4</mn><mo>!</mo></mrow> </mfrac> <mo>+</mo><mfrac> <mrow> <msup> <mi>x</mi> <mn>6</mn> </msup> </mrow> <mrow> <mn>6</mn><mo>!</mo></mrow> </mfrac> <mo>+</mo><mo>⋯</mo><mo>+</mo><mfrac> <mrow> <msup> <mi>x</mi> <mrow> <mn>2</mn><mi>n</mi></mrow> </msup> </mrow> <mrow> <mrow><mo>(</mo> <mrow> <mn>2</mn><mi>n</mi></mrow> <mo>)</mo></mrow><mo>!</mo></mrow> </mfrac> <mo>+</mo><mo>⋯</mo></mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mn>1</mn> <mo>−</mo> <mfrac> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mrow> <mn>2</mn> <mo>!</mo> </mrow> </mfrac> <mo>+</mo> <mfrac> <mrow> <msup> <mi>x</mi> <mn>4</mn> </msup> </mrow> <mrow> <mn>4</mn> <mo>!</mo> </mrow> </mfrac> <mo>−</mo> <mfrac> <mrow> <msup> <mi>x</mi> <mn>6</mn> </msup> </mrow> <mrow> <mn>6</mn> <mo>!</mo> </mrow> </mfrac> <mo>+</mo> <mo>⋯</mo> <mo>+</mo> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <mo>−</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mi>n</mi> </msup> <mfrac> <mrow> <msup> <mi>x</mi> <mrow> <mn>2</mn> <mi>n</mi> </mrow> </msup> </mrow> <mrow> <mrow> <mo>(</mo> <mrow> <mn>2</mn> <mi>n</mi> </mrow> <mo>)</mo> </mrow> <mo>!</mo> </mrow> </mfrac> <mo>+</mo> <mo>⋯</mo> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mi>x</mi> <mo>+</mo> <mfrac> <mrow> <msup> <mi>x</mi> <mn>3</mn> </msup> </mrow> <mrow> <mn>3</mn> <mo>!</mo> </mrow> </mfrac> <mo>+</mo> <mfrac> <mrow> <msup> <mi>x</mi> <mn>5</mn> </msup> </mrow> <mrow> <mn>5</mn> <mo>!</mo> </mrow> </mfrac> <mo>+</mo> <mfrac> <mrow> <msup> <mi>x</mi> <mn>7</mn> </msup> </mrow> <mrow> <mn>7</mn> <mo>!</mo> </mrow> </mfrac> <mo>+</mo> <mo>⋯</mo> <mo>+</mo> <mfrac> <mrow> <msup> <mi>x</mi> <mrow> <mn>2</mn> <mi>n</mi> <mo>+</mo> <mn>1</mn> </mrow> </msup> </mrow> <mrow> <mrow> <mo>(</mo> <mrow> <mn>2</mn> <mi>n</mi> <mo>+</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> <mo>!</mo> </mrow> </mfrac> <mo>+</mo> <mo>⋯</mo> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mi>x</mi> <mo>−</mo> <mfrac> <mrow> <msup> <mi>x</mi> <mn>3</mn> </msup> </mrow> <mrow> <mn>3</mn> <mo>!</mo> </mrow> </mfrac> <mo>+</mo> <mfrac> <mrow> <msup> <mi>x</mi> <mn>5</mn> </msup> </mrow> <mrow> <mn>5</mn> <mo>!</mo> </mrow> </mfrac> <mo>−</mo> <mfrac> <mrow> <msup> <mi>x</mi> <mn>7</mn> </msup> </mrow> <mrow> <mn>7</mn> <mo>!</mo> </mrow> </mfrac> <mo>+</mo> <mo>⋯</mo> <mo>+</mo> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <mo>−</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mi>n</mi> </msup> <mfrac> <mrow> <msup> <mi>x</mi> <mrow> <mn>2</mn> <mi>n</mi> <mo>+</mo> <mn>1</mn> </mrow> </msup> </mrow> <mrow> <mrow> <mo>(</mo> <mrow> <mn>2</mn> <mi>n</mi> <mo>+</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> <mo>!</mo> </mrow> </mfrac> <mo>+</mo> <mo>⋯</mo> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <mrow> <mn>1</mn><mo>+</mo><mfrac> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mrow> <mn>2</mn><mo>!</mo></mrow> </mfrac> <mo>+</mo><mfrac> <mrow> <msup> <mi>x</mi> <mn>4</mn> </msup> </mrow> <mrow> <mn>4</mn><mo>!</mo></mrow> </mfrac> <mo>+</mo><mfrac> <mrow> <msup> <mi>x</mi> <mn>6</mn> </msup> </mrow> <mrow> <mn>6</mn><mo>!</mo></mrow> </mfrac> <mo>+</mo><mo>⋯</mo><mo>+</mo><mfrac> <mrow> <msup> <mi>x</mi> <mrow> <mn>2</mn><mi>n</mi></mrow> </msup> </mrow> <mrow> <mrow><mo>(</mo> <mrow> <mn>2</mn><mi>n</mi></mrow> <mo>)</mo></mrow><mo>!</mo></mrow> </mfrac> <mo>+</mo><mo>⋯</mo></mrow> </math>"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.14",
+    "text": "10.14: (BC ONLY) Finding Taylor or Maclaurin Series for a Function"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

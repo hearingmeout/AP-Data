@@ -1,0 +1,41 @@
+{
+  "id": "HD373831",
+  "type": "mcq",
+  "title": "Justification - Extreme Value Theorem",
+  "content": {
+    "description": "",
+    "question": "Which of the following functions of <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> is guaranteed by the Extreme Value Theorem to have an absolute maximum on the interval <math alttext=\"open bracket, 0 comma 2 pi, close bracket \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>[</mo><mn>0</mn><mo>,</mo><mn>2</mn><mi>π</mi><mo>]</mo></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"y equals, the fraction with numerator 1, and denominator 1 plus sine x, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>1</mn><mo>+</mo><mi>sin</mi><mo>⁡</mo><mi>x</mi></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"y equals, the fraction with numerator 1, and denominator x squared plus pi, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mi>π</mi></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"y equals, the fraction with numerator x squared, minus 2 pi times x, plus pi squared, and denominator x minus pi, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><mn>2</mn><mi>π</mi><mi>x</mi><mo>+</mo><msup><mrow><mi>π</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mi>x</mi><mo>−</mo><mi>π</mi></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"y equals, the fraction with numerator the absolute value of, x minus pi, end absolute value, and denominator x minus pi, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mfrac><mrow><mrow><mo>|</mo><mi>x</mi><mo>−</mo><mi>π</mi><mo>|</mo></mrow></mrow><mrow><mi>x</mi><mo>−</mo><mi>π</mi></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"y equals, the fraction with numerator 1, and denominator x squared plus pi, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mi>π</mi></mrow></mfrac></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.2",
+    "text": "5.2: Extreme Value Theorem, Global Versus Local Extrema, and Critical Points"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Provide reasons or rationales for solutions and conclusions."
+  }
+}

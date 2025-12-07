@@ -1,0 +1,45 @@
+{
+  "id": "HK604008",
+  "type": "mcq",
+  "title": "Analyzing behavior of functions",
+  "content": {
+    "description": "Let f and g have continuous first and second derivatives everywhere. If <math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"f of x is less than or equal to g of x\"> <semantics> <mrow> <mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>≤</mo><mi>g</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaWGMbGaaiikaiaadIhacaGGPaGaeyizImQaam4zaiaacIcacaWG 4bGaaiykaaaa@3E4E@ </annotation> </semantics> </math> for all real x, which of the following must be true?",
+    "question": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"i. f prime of x is less than or equal to g prime of x\"> <semantics> <mrow> <mi>I</mi><mo>.</mo><msup> <mi>f</mi> <mo>′</mo> </msup> <mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>≤</mo><msup> <mi>g</mi> <mo>′</mo> </msup> <mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaWGjbGaaiOlaiqadAgagaqbaiaacIcacaWG4bGaaiykaiabgsMi JkqadEgagaqbaiaacIcacaWG4bGaaiykaaaa@3FE6@ </annotation> </semantics> </math> for all real x<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"ii. f double prime of x is less than or equal to g double prime of x\"> <semantics> <mrow> <mi>I</mi><mi>I</mi><mo>.</mo><msup> <mi>f</mi> <mo>″</mo> </msup> <mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>≤</mo><msup> <mi>g</mi> <mo>″</mo> </msup> <mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaWGjbGaamysaiaac6caceWGMbGbayaacaGGOaGaamiEaiaacMca cqGHKjYOceWGNbGbayaacaGGOaGaamiEaiaacMcaaaa@40B6@ </annotation> </semantics> </math> for all real x.<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"iii. the integral from 0 to 1 of f of x with respect to x is less than or equal to the integral from 0 to 1 of g of x with respect to x\"> <semantics> <mrow> <mi>I</mi><mi>I</mi><mi>I</mi><mo>.</mo><mstyle displaystyle=\"true\"> <mrow><munderover> <mo>∫</mo> <mn>0</mn> <mn>1</mn> </munderover> <mi>f</mi> </mrow> </mstyle><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mi>d</mi><mi>x</mi><mo>≤</mo><mstyle displaystyle=\"true\"> <mrow><munderover> <mo>∫</mo> <mn>0</mn> <mn>1</mn> </munderover> <mi>g</mi> </mrow> </mstyle><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mi>d</mi><mi>x</mi></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaWGjbGaamysaiaadMeacaGGUaWaa8qCa8aabaWdbiaadAgaaSWd aeaapeGaaGimaaWdaeaapeGaaGymaaqdcqGHRiI8aOGaaiikaiaadI hacaGGPaGaamizaiaadIhacqGHKjYOdaWdXbWdaeaapeGaam4zaaWc paqaa8qacaaIWaaapaqaa8qacaaIXaaaniabgUIiYdGccaGGOaGaam iEaiaacMcacaWGKbGaamiEaaaa@4DC0@ </annotation> </semantics> </math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "none",
+        "image": null
+      },
+      {
+        "label": "I only",
+        "image": null
+      },
+      {
+        "label": "III only",
+        "image": null
+      },
+      {
+        "label": "I and II only",
+        "image": null
+      },
+      {
+        "label": "I, II, and III",
+        "image": null
+      }
+    ],
+    "answer": "III only"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.6",
+    "text": "6.6: Applying Properties of Definite Integrals"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

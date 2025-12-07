@@ -1,0 +1,41 @@
+{
+  "id": "NP775029",
+  "type": "mcq",
+  "title": "Processes - Local Linear Approximation",
+  "content": {
+    "description": "",
+    "question": "The derivative of the function <math alttext=\"B\" display=\"inline\" overflow=\"scroll\"><mrow><mi>B</mi></mrow></math> is given by <math alttext=\"B prime of t, equals, 8 times e raised to the 0.2 times cosine t, power\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>B</mi></mrow><mrow><mo>′</mo></mrow></msup><mo stretchy=\"false\">(</mo><mi>t</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>8</mn><msup><mrow><mi>e</mi></mrow><mrow><mn>0.2</mn><mi>cos</mi><mo>⁡</mo><mi>t</mi></mrow></msup></mrow></math>, and <math alttext=\"B of 2.2, equals 4.5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>B</mi><mo>(</mo><mn>2.2</mn><mo>)</mo><mo>=</mo><mn>4.5</mn></mrow></mstyle></math>. If the linear approximation to <math alttext=\"B of t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>B</mi><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mstyle></math> at <math alttext=\"t equals 2.2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>2.2</mn></mrow></mstyle></math> is used to estimate <math alttext=\"B of t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>B</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow></mstyle></math>, at what value of <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math> does the linear approximation estimate that <math alttext=\"B of t, equals 9\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>B</mi><mo>(</mo><mi>t</mi><mo>)</mo><mo>=</mo><mn>9</mn></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "0.633",
+        "image": null
+      },
+      {
+        "label": "0.941",
+        "image": null
+      },
+      {
+        "label": "2.833",
+        "image": null
+      },
+      {
+        "label": "4.400",
+        "image": null
+      }
+    ],
+    "answer": "2.833"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Contextual Applications of Differentiation"
+  },
+  "topic": {
+    "code": "4.6",
+    "text": "4.6: Approximating Values of a Function Using Local Linearity and Linearization"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Explain how an approximated value relates to the actual value."
+  }
+}

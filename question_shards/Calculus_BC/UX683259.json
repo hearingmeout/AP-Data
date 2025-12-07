@@ -1,0 +1,41 @@
+{
+  "id": "UX683259",
+  "type": "mcq",
+  "title": "Justification - Fundamental Theorem of Calculus",
+  "content": {
+    "description": "",
+    "question": "The graph of the function <math alttext=\"g\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> on the closed interval <math alttext=\"open bracket, 0 comma 10, close bracket\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>[</mo><mn>0</mn><mo>,</mo><mn>10</mn><mo>]</mo></mrow></mrow></mstyle></math> consists of four line segments, as shown above. Let <math alttext=\"f\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be the function defined by <math alttext=\"f of x, equals, the integral from, 4 to x squared, of, g of t, d t\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>4</mn></mrow><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></msubsup><mrow><mi>g</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow></mstyle></mrow></mstyle></math>. What is the value of <math alttext=\"f prime of 3\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></mstyle></math> ?",
+    "image": "https://ap.oly.st/images/43be20ee0f595e25faa5a4fb7e8dbe39.png",
+    "choices": [
+      {
+        "label": "<math alttext=\"negative 6\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>6</mn></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "4",
+        "image": null
+      },
+      {
+        "label": "12",
+        "image": null
+      },
+      {
+        "label": "24",
+        "image": null
+      }
+    ],
+    "answer": "24"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.7",
+    "text": "6.7: The Fundamental Theorem of Calculus and Definite Integrals"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

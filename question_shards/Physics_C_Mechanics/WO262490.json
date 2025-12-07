@@ -1,0 +1,41 @@
+{
+  "id": "WO262490",
+  "type": "mcq",
+  "title": "Collisions - elastic collision of two objects",
+  "content": {
+    "description": "",
+    "question": "Object <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> of mass <math alttext=\"m\" display=\"inline\" overflow=\"scroll\"><mi>m</mi></math> and Object <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> of mass <math alttext=\"3 m\" display=\"inline\" overflow=\"scroll\"><mn>3</mn><mi>m</mi></math> can slide along a straight, horizontal track with negligible friction. Object <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> initially moves to the right with speed <math alttext=\"v\" display=\"inline\" overflow=\"scroll\"><mi>v</mi></math> toward Object <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>, which is initially at rest, and the two objects collide. Immediately after the collision, Object <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> moves to the left with speed <math alttext=\"the fraction v over 2\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mi>v</mi><mn>2</mn></mfrac></mstyle></math>. Is this information sufficient to determine whether the collision was elastic? Why or why not?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Yes, because the fact that the velocity of Object <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> changed direction during the collision means that the collision was not elastic.",
+        "image": null
+      },
+      {
+        "label": "Yes, because conservation of momentum can be used to determine the final speed of Object <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>, and the total kinetic energy of the two-object system after the collision can be calculated.",
+        "image": null
+      },
+      {
+        "label": "No, because the final speed of Object <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> cannot be determined without knowing whether the collision was elastic or inelastic.",
+        "image": null
+      },
+      {
+        "label": "No, because the collision can be elastic for many different values of the final speed of Object <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>.",
+        "image": null
+      }
+    ],
+    "answer": "Yes, because conservation of momentum can be used to determine the final speed of Object <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math>, and the total kinetic energy of the two-object system after the collision can be calculated."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Linear Momentum"
+  },
+  "topic": {
+    "code": "4.4",
+    "text": "4.4: Elastic and Inelastic Collisions"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

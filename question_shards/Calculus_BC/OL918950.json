@@ -1,0 +1,41 @@
+{
+  "id": "OL918950",
+  "type": "mcq",
+  "title": "Justification - Diff Eq - Logistic Models",
+  "content": {
+    "description": "",
+    "question": "The size of a population is modeled by the function <math alttext=\"P\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>P</mi></mrow></mstyle></math> that satisfies the logistic differential equation <math alttext=\"the derivative of P, with respect to t, equals, one tenth times P, minus the fraction 1 over 5000, end fraction, times P squared\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>d</mi><mi>P</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>10</mn></mrow></mfrac><mi>P</mi><mo>−</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>5000</mn></mrow></mfrac><msup><mrow><mi>P</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle></math>, where <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math> is measured in months and <math alttext=\"P of 0, equals 50 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>P</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>=</mo><mn>50</mn></mrow></mstyle></math>. What is the size of the population at the moment when the population is growing most rapidly?",
+    "image": null,
+    "choices": [
+      {
+        "label": "50",
+        "image": null
+      },
+      {
+        "label": "250",
+        "image": null
+      },
+      {
+        "label": "500",
+        "image": null
+      },
+      {
+        "label": "2500",
+        "image": null
+      }
+    ],
+    "answer": "250"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.9",
+    "text": "7.9: (BC ONLY) Logistic Models with Differential Equations"
+  },
+  "skill": {
+    "code": "Skill 3.F",
+    "text": "Skill 3.F: Explain the meaning of mathematical solutions in context."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CJ511734",
+  "type": "mcq",
+  "title": "Regression line and residuals",
+  "content": {
+    "description": "",
+    "question": "A set of bivariate data was used to create a least-squares regression line. Which of the following is minimized by the line?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The sum of the residuals",
+        "image": null
+      },
+      {
+        "label": "The sum of the squared residuals",
+        "image": null
+      },
+      {
+        "label": "The sum of the absolute values of the residuals",
+        "image": null
+      },
+      {
+        "label": "The influence of outliers",
+        "image": null
+      },
+      {
+        "label": "The slope",
+        "image": null
+      }
+    ],
+    "answer": "The sum of the squared residuals"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: Least Squares Regression"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}

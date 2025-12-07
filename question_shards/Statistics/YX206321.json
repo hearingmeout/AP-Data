@@ -1,0 +1,45 @@
+{
+  "id": "YX206321",
+  "type": "mcq",
+  "title": "Candidate R",
+  "content": {
+    "description": "From a random sample of potential voters in an upcoming election, 47% indicated they intended to vote for Candidate R. A 95 percent confidence interval was constructed from the sample, and the margin of error for the estimate was 5%.",
+    "question": "Which of the following is the best interpretation of the interval?",
+    "image": null,
+    "choices": [
+      {
+        "label": "We are 95% confident that the proportion who intend to vote for Candidate R from the random sample is between 42% and 52%.",
+        "image": null
+      },
+      {
+        "label": "We are 95% confident that the proportion who intend to vote for Candidate R from the population is between 42% and 52%.",
+        "image": null
+      },
+      {
+        "label": "We are 95% confident that the proportion who intend to vote for Candidate R from the random sample is 47%.",
+        "image": null
+      },
+      {
+        "label": "We are 95% confident that the proportion who intend to vote for Candidate R from the population is 47%.",
+        "image": null
+      },
+      {
+        "label": "We are confident that 95% of the population intend to vote for Candidate R.",
+        "image": null
+      }
+    ],
+    "answer": "We are 95% confident that the proportion who intend to vote for Candidate R from the population is between 42% and 52%."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.3",
+    "text": "6.3: Justifying a Claim Based on a Confidence Interval for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

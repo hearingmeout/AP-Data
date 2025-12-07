@@ -1,0 +1,37 @@
+{
+  "id": "NJ510725",
+  "type": "mcq",
+  "title": "Processes - Functions-Concavity",
+  "content": {
+    "description": "",
+    "question": "On the interval <math alttext=\"negative 3 less than x, less than 3\" display=\"inline\" overflow=\"scroll\"><mrow><mo>−</mo><mn>3</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>3</mn></mrow></math>, the first derivative of the function <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is given by <math alttext=\"f prime of x equals, the fraction with numerator x squared minus 4, and denominator open parenthesis, x plus 3, close parenthesis, squared, end fraction\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><mn>4</mn></mrow><mrow><msup><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mn>3</mn><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></math>, and the second derivative of <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is given by <math alttext=\"f double prime of x equals, the fraction with numerator 6 x plus 8, and denominator open parenthesis, x plus 3, close parenthesis, cubed, end fraction\" display=\"inline\" overflow=\"scroll\"><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>″</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>6</mn><mi>x</mi><mo>+</mo><mn>8</mn></mrow><mrow><msup><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mn>3</mn><mo>)</mo></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac></mrow></math>. On which of the following intervals is the graph of <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> concave down?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"negative 3 less than x, less than negative four thirds\" display=\"inline\" overflow=\"scroll\"><mrow><mrow><mo>−</mo><mn>3</mn></mrow><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mrow><mo>−</mo><mfrac><mrow><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"negative four thirds less than x, less than 3\" display=\"inline\" overflow=\"scroll\"><mrow><mrow><mo>−</mo><mfrac><mrow><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>3</mn></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"negative 3 less than x, less than negative 2\" display=\"inline\" overflow=\"scroll\"><mrow><mrow><mo>−</mo><mn>3</mn></mrow><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mrow><mo>−</mo><mn>2</mn></mrow></mrow></math> and <math alttext=\"2 less than x, less than 3\" display=\"inline\" overflow=\"scroll\"><mrow><mn>2</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>3</mn></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"negative 2 less than x, less than 2\" display=\"inline\" overflow=\"scroll\"><mrow><mrow><mo>−</mo><mn>2</mn></mrow><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>2</mn></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"negative 3 less than x, less than negative four thirds\" display=\"inline\" overflow=\"scroll\"><mrow><mrow><mo>−</mo><mn>3</mn></mrow><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mrow><mo>−</mo><mfrac><mrow><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mrow></math>"
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.6",
+    "text": "5.6: Determining Concavity of Functions over Their Domains"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "JY349156",
+  "type": "frq",
+  "title": "Accum Func FTC: graphical line segments",
+  "content": {
+    "description": "",
+    "question": "The continuous function f is defined on the interval −5 ≤ x ≤ 8. The graph of f , which consists of four line segments, is shown in the figure above. Let g be the function given by <math> <semantics> <mrow> <mi> g </mi> <mrow> <mo> ( </mo> <mi> x </mi> <mo> ) </mo> </mrow> <mo> = </mo> <mn> 2 </mn> <mi> x </mi> <mo> + </mo> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo> ∫ </mo> <mrow> <mo> − </mo> <mn> 2 </mn> </mrow> <mi> x </mi> </msubsup> <mi> f </mi> </mrow> </mstyle> <mrow> <mo> ( </mo> <mi> t </mi> <mo> ) </mo> </mrow> <mtext> &nbsp; </mtext> <mi> d </mi> <mi> t </mi> </mrow> <annotation encoding=\"MathType-MTEF\"> MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbiaadEgadaqadaWdaeaapeGaamiEaaGaayjkaiaawMcaaiabg2da9iaaikdacaWG4bGaey4kaSYaa8qma8aabaWdbiaadAgaaSWdaeaapeGaeyOeI0IaaGOmaaWdaeaapeGaamiEaaqdcqGHRiI8aOWaaeWaa8aabaWdbiaadshaaiaawIcacaGLPaaacaqGGaGaamizaiaadshaaaa@4B95@ </annotation> </semantics> </math> . (a) Find <math> </math> g ( 0 ) and <math> </math> g ( − 5 ) .",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "The continuous function f is defined on the interval −5 ≤ x ≤ 8. The graph of f , which consists of four line segments, is shown in the figure above. Let g be the function given by <math> <semantics> <mrow> <mi> g </mi> <mrow> <mo> ( </mo> <mi> x </mi> <mo> ) </mo> </mrow> <mo> = </mo> <mn> 2 </mn> <mi> x </mi> <mo> + </mo> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo> ∫ </mo> <mrow> <mo> − </mo> <mn> 2 </mn> </mrow> <mi> x </mi> </msubsup> <mi> f </mi> </mrow> </mstyle> <mrow> <mo> ( </mo> <mi> t </mi> <mo> ) </mo> </mrow> <mtext> &nbsp; </mtext> <mi> d </mi> <mi> t </mi> </mrow> <annotation encoding=\"MathType-MTEF\"> MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbiaadEgadaqadaWdaeaapeGaamiEaaGaayjkaiaawMcaaiabg2da9iaaikdacaWG4bGaey4kaSYaa8qma8aabaWdbiaadAgaaSWdaeaapeGaeyOeI0IaaGOmaaWdaeaapeGaamiEaaqdcqGHRiI8aOWaaeWaa8aabaWdbiaadshaaiaawIcacaGLPaaacaqGGaGaamizaiaadshaaaa@4B95@ </annotation> </semantics> </math> . (a) Find <math> </math> g ( 0 ) and <math> </math> g ( − 5 ) .",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Calculus_BC/original.png"
+      },
+      {
+        "text": "(b) Find g′(x) in terms of f(x). For each of g″(4) and g″(−2), find the value or state that it does not exist.",
+        "image": null
+      },
+      {
+        "text": "(c) On what intervals, if any, is the graph of g concave down? Give a reason for your answer.",
+        "image": null
+      },
+      {
+        "text": "(d) The function h is given by h(x) = g(x3 + 1). Find h′(1). Show the work that leads to your answer.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: The Chain Rule"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Identify an appropriate mathematical rule or procedure based on the classification of a given expression (e.g., Use the chain rule to find the derivative of a composite function)."
+  }
+}

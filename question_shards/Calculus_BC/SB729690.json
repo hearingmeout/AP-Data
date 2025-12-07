@@ -1,0 +1,41 @@
+{
+  "id": "SB729690",
+  "type": "mcq",
+  "title": "Justification - Modeling with Diff Equations",
+  "content": {
+    "description": "",
+    "question": "The value of a car <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math> years after it is purchased is given by the decreasing function <math alttext=\"V\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>V</mi></mrow></mstyle></math>, where <math alttext=\"V of t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>V</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow></mstyle></math> is measured in dollars. The rate of change of the car’s value in dollars per year is proportional to the car’s value. Which of the following differential equations could be used to model the value of the car, where <math alttext=\"k\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>k</mi></mrow></mstyle></math> is a constant?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the derivative of V, with respect to t, equals, k t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>d</mi><mi>V</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mi>k</mi><mi>t</mi></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the derivative of V, with respect to t, equals, k V\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>d</mi><mi>V</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mi>k</mi><mi>V</mi></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the derivative of V, with respect to t, equals, k over t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>d</mi><mi>V</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>k</mi></mrow><mrow><mi>t</mi></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the derivative of V, with respect to t, equals, k over V\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>d</mi><mi>V</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>k</mi></mrow><mrow><mi>V</mi></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the derivative of V, with respect to t, equals, k V\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mi>d</mi><mi>V</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mi>k</mi><mi>V</mi></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.8",
+    "text": "7.8: Exponential Models with Differential Equations"
+  },
+  "skill": {
+    "code": "Skill 3.G",
+    "text": "Skill 3.G: Confirm that solutions are accurate and appropriate."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "JP187821",
+  "type": "mcq",
+  "title": "Expected error in period of pendulum",
+  "content": {
+    "description": "",
+    "question": "The period T of a pendulum of length L is measured to determine g at the surface of Earth. The equation used is <math> <semantics> <mrow> <mi>T</mi><mo>=</mo><mn>2</mn><mi>π</mi><msqrt> <mrow> <mi>L</mi><mo>/</mo><mi>g</mi> </mrow> </msqrt> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaWGubGaeyypa0JaaGOmaiabec8aWnaakaaapaqaa8qacaWGmbGaai4laiaadEgaaSqabaaaaa@3D16@</annotation> </semantics> </math>. The mass of the pendulum bob is 10.0 kg, and the length of the pendulum is 1.00 m. Which of the following would contribute most to the expected error in the result?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A 10% uncertainty in the measurement of the mass",
+        "image": null
+      },
+      {
+        "label": "Approximating the value of π as 3.14",
+        "image": null
+      },
+      {
+        "label": "Variation in the value of g as the pendulum bob moves along its arc",
+        "image": null
+      },
+      {
+        "label": "Using the average period of 10 timed oscillations instead of the period of 1 timed oscillation",
+        "image": null
+      },
+      {
+        "label": "Starting the pendulum swinging by releasing it from a horizontal position",
+        "image": null
+      }
+    ],
+    "answer": "Starting the pendulum swinging by releasing it from a horizontal position"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Oscillations"
+  },
+  "topic": {
+    "code": "7.2",
+    "text": "7.2: Frequency and Period of SHM"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

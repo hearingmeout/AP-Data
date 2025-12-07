@@ -1,0 +1,45 @@
+{
+  "id": "RY995444",
+  "type": "mcq",
+  "title": "Chemical Processes",
+  "content": {
+    "description": "A research scientist is conducting an experiment to determine whether a new chemical process creates less toxic byproduct compared to the current chemical process. The scientist took a random sample of products made with the current chemical process and calculated the sample mean amount of toxic byproduct created. The scientist then took a random sample of products made with the new chemical process and calculated the sample mean amount of toxic byproduct created. The difference in the sample means (current minus new) was <math alttext=\"2.31\" overflow=\"scroll\"><mn>2.31</mn></math> liters of toxic byproduct. A hypothesis test was conducted using the following hypotheses.",
+    "question": "<math alttext=\"H sub 0, colon, mu sub current, end sub, minus mu sub new, end sub, equals 0; and H sub a, colon, mu sub current, end sub, minus mu sub new, end sub, is greater than 0\" overflow=\"scroll\"> <mpadded> <mtable columnalign=\"left\"> <mtr> <mtd> <msub> <mtext>H</mtext> <mn>0</mn> </msub> <mo>:</mo> <mo> </mo> <msub> <mi>μ</mi> <mrow> <mi>c</mi> <mi>u</mi> <mi>r</mi> <mi>r</mi> <mi>e</mi> <mi>n</mi> <mi>t</mi> </mrow> </msub> <mo>-</mo> <msub> <mi>μ</mi> <mrow> <mi>n</mi> <mi>e</mi> <mi>w</mi> </mrow> </msub> <mo>=</mo> <mn>0</mn> </mtd> </mtr> <mtr> <mtd> <msub> <mtext>H</mtext> <mtext>a</mtext> </msub> <mo>:</mo> <mo> </mo> <msub> <mi>μ</mi> <mrow> <mi>c</mi> <mi>u</mi> <mi>r</mi> <mi>r</mi> <mi>e</mi> <mi>n</mi> <mi>t</mi> </mrow> </msub> <mo>-</mo> <msub> <mi>μ</mi> <mrow> <mi>n</mi> <mi>e</mi> <mi>w</mi> </mrow> </msub> <mo>&gt;</mo> <mn>0</mn> </mtd> </mtr> </mtable> </mpadded> </math> Assuming the conditions for inference were met, the scientist calculated the <math alttext=\"p\" overflow=\"scroll\"><mi>p</mi></math>-value of the test to be <math alttext=\"0.072\" overflow=\"scroll\"><mn>0.072</mn></math>. Which of the following statements is the best interpretation of the <math alttext=\"p\" overflow=\"scroll\"><mi>p</mi></math>-value?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The probability that the null hypothesis is true is <math alttext=\"0.072\" overflow=\"scroll\"><mn>0.072</mn></math>.",
+        "image": null
+      },
+      {
+        "label": "The probability that the alternative hypothesis is true is <math alttext=\"0.072\" overflow=\"scroll\"><mn>0.072</mn></math>.",
+        "image": null
+      },
+      {
+        "label": "The probability of observing a difference in means of <math alttext=\"2.31\" overflow=\"scroll\"><mn>2.31</mn></math> liters of toxic byproduct is <math alttext=\"0.072\" overflow=\"scroll\"><mn>0.072</mn></math>.",
+        "image": null
+      },
+      {
+        "label": "If the null hypothesis is true, the probability of observing a difference in means of at least <math alttext=\"2.31\" overflow=\"scroll\"><mn>2.31</mn></math> liters of toxic byproduct is <math alttext=\"0.072\" overflow=\"scroll\"><mn>0.072</mn></math>.",
+        "image": null
+      },
+      {
+        "label": "If the null hypothesis is true, the probability of observing a difference in means of at most <math alttext=\"2.31\" overflow=\"scroll\"><mn>2.31</mn></math> liters of toxic byproduct is <math alttext=\"0.072\" overflow=\"scroll\"><mn>0.072</mn></math>.",
+        "image": null
+      }
+    ],
+    "answer": "If the null hypothesis is true, the probability of observing a difference in means of at least <math alttext=\"2.31\" overflow=\"scroll\"><mn>2.31</mn></math> liters of toxic byproduct is <math alttext=\"0.072\" overflow=\"scroll\"><mn>0.072</mn></math>."
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.9",
+    "text": "7.9: Carrying Out a Test for the Difference of Two Population Means"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

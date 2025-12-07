@@ -1,0 +1,45 @@
+{
+  "id": "NE514592",
+  "type": "mcq",
+  "title": "Conclude chi-square test for customers in store",
+  "content": {
+    "description": "The table below shows historical data for the distribution of the number of customers, in half-hour time periods, who visit the electronics department of a retail store. For example, in 25 percent of the time periods for which data were collected, no customers were observed in the electronics department of the store.",
+    "question": "To investigate if the distribution has changed, the number of customers who visited the electronics department of the store was recorded for each of 50 randomly selected time periods. The results are shown in the table below. A chi-square goodness-of-fit test was conducted to determine whether the data provide convincing evidence that the distribution has changed. The test statistic was 10.13 with a p-value of 0.0175. Which of the following statements is true?",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Statistics/6b88d98543616a8402cc9bb90ecf86a7.png",
+    "choices": [
+      {
+        "label": "At the significance level α​ = 0.05, the data provide convincing evidence that the current distribution is different from the historical distribution.",
+        "image": null
+      },
+      {
+        "label": "At the significance level α = 0.10, the data do not provide convincing evidence that the current distribution is different from the historical distribution.",
+        "image": null
+      },
+      {
+        "label": "The mean number of customers in a randomly selected time period is 12.5.",
+        "image": null
+      },
+      {
+        "label": "No valid conclusion can be made because the observed frequency for one cell is less than 5.",
+        "image": null
+      },
+      {
+        "label": "The chi-square statistic has 50 - 1 = 49 degrees of freedom.",
+        "image": null
+      }
+    ],
+    "answer": "At the significance level α​ = 0.05, the data provide convincing evidence that the current distribution is different from the historical distribution."
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Inference for Categorical Data-Chi-Square"
+  },
+  "topic": {
+    "code": "8.3",
+    "text": "8.3: Carrying out a Chi-Square Goodness of Fit Test"
+  },
+  "skill": {
+    "code": "Skill 4.E",
+    "text": "Skill 4.E: Justify a claim using a decision based on significance tests."
+  }
+}

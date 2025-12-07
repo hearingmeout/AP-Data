@@ -1,0 +1,41 @@
+{
+  "id": "IH432084",
+  "type": "mcq",
+  "title": "Processes - Integration by Parts",
+  "content": {
+    "description": "",
+    "question": "The function <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> has a continuous derivative. If <math alttext=\"f of 0, equals 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>=</mo><mn>1</mn></mrow></mstyle></math>, <math alttext=\"f of 2, equals 5\" display=\"inline\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow><mo>=</mo><mn>5</mn></mrow></math>, and <math alttext=\"the integral from, 0 to 2, of, f of x, d x, equals 7\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle><mo>=</mo><mn>7</mn></mrow></math>, what is <math alttext=\"the integral from, 0 to 2, of x, times f prime of x, d x\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup><mrow><mi>x</mi><mo largeop=\"true\">⋅</mo><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mi>x</mi></mrow></mstyle></mrow></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>3</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"6\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>6</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"10\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>10</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"17\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>17</mn></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"3\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>3</mn></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.11",
+    "text": "6.11: (BC ONLY) Integrating Using Integration by Parts"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

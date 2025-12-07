@@ -1,0 +1,41 @@
+{
+  "id": "IW860087",
+  "type": "mcq",
+  "title": "Processes - Chain Rule",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be the function defined by <math alttext=\"f of x, equals, e raised to the h of x, power\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><msup><mrow><mi>e</mi></mrow><mrow><mi>h</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow></msup></mrow></mrow></mstyle></math>, where <math alttext=\"h\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>h</mi></mrow></mstyle></math> is a differentiable function. Which of the following is equivalent to the derivative of <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> with respect to <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"e raised to the h of x, power\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><msup><mrow><mi>e</mi></mrow><mrow><mi>h</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow></msup></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"e raised to the h prime of x, power\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><msup><mrow><mi>e</mi></mrow><mrow><msup><mrow><mi>h</mi></mrow><mrow><mo>′</mo></mrow></msup><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow></msup></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"h prime of x, times e raised to the h of x, power\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><msup><mrow><mi>h</mi></mrow><mrow><mo>′</mo></mrow></msup><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><msup><mrow><mi>e</mi></mrow><mrow><mi>h</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow></msup></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"h of x, times e raised to the h of x, minus 1, power\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>h</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><msup><mrow><mi>e</mi></mrow><mrow><mi>h</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>−</mo><mn>1</mn></mrow></msup></mrow></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"h prime of x, times e raised to the h of x, power\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><msup><mrow><mi>h</mi></mrow><mrow><mo>′</mo></mrow></msup><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><msup><mrow><mi>e</mi></mrow><mrow><mi>h</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow></msup></mrow></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: The Chain Rule"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Identify an appropriate mathematical rule or procedure based on the classification of a given expression (e.g., Use the chain rule to find the derivative of a composite function)."
+  }
+}

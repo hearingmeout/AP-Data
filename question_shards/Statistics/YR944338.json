@@ -1,0 +1,45 @@
+{
+  "id": "YR944338",
+  "type": "mcq",
+  "title": "Residual plot",
+  "content": {
+    "description": "The following is a residual plot for a linear regression of <math alttext=\"y\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi></mrow></mstyle></math> versus <math alttext=\"x\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math>.",
+    "question": "What is indicated by the plot?",
+    "image": "https://ap.oly.st/images/81e145be534176e9aac7aa0f330d24c9.png",
+    "choices": [
+      {
+        "label": "A linear model is appropriate.",
+        "image": null
+      },
+      {
+        "label": "A linear model is not appropriate.",
+        "image": null
+      },
+      {
+        "label": "Variability in <math alttext=\"y\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi></mrow></mstyle></math> is constant for all values <math alttext=\"x\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "At least one point is influential with respect to the regression.",
+        "image": null
+      },
+      {
+        "label": "At least one point is an outlier with respect to the regression.",
+        "image": null
+      }
+    ],
+    "answer": "A linear model is not appropriate."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.7",
+    "text": "2.7: Residuals"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Describe data presented numerically or graphically."
+  }
+}

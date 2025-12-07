@@ -1,0 +1,41 @@
+{
+  "id": "PG677834",
+  "type": "mcq",
+  "title": "Representations - Radius of Convergence",
+  "content": {
+    "description": "",
+    "question": "For what values of <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> does the series <math alttext=\"the sum, from n equals 0, to infinity, of, the fraction with numerator, open parenthesis, 2 x minus 3, close parenthesis, to the n power, and denominator n factorial \" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>n</mi><mo>=</mo><mn>0</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><mfrac><mrow><msup><mrow><mo>(</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn><mo>)</mo></mrow><mrow><mi>n</mi></mrow></msup></mrow><mrow><mi>n</mi><mo>!</mo></mrow></mfrac></mrow></mrow></mstyle></math> converge?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"x equals, three halves \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math> only",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"1 is less than x, which is less than 2 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>1</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>2</mn></mrow></mstyle></math> only",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"1 is less than or equal to x, which is less than or equal to 2 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>1</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>2</mn></mrow></mstyle></math> only",
+        "image": null
+      },
+      {
+        "label": "The series converges for all real numbers <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math>.",
+        "image": null
+      }
+    ],
+    "answer": "The series converges for all real numbers <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math>."
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.13",
+    "text": "10.13: (BC ONLY) Radius and Interval of Convergence of Power Series"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GR972394",
+  "type": "mcq",
+  "title": "Height vs diameter of trees",
+  "content": {
+    "description": "A researcher studying a specific type of tree creates a least-squares regression line for relating the height and the diameter, both in meters, of a fully grown tree. The results are shown in the following computer output.",
+    "question": "Variable <math alttext=\"D F \" display=\"inline\" overflow=\"scroll\"><mstyle mathvariant=\"bold\"><mrow><mtext mathvariant=\"bold\">DF</mtext></mrow></mstyle></math> Estimate <math alttext=\"S E \" display=\"inline\" overflow=\"scroll\"><mstyle mathvariant=\"bold\"><mrow><mtext mathvariant=\"bold\">SE</mtext></mrow></mstyle></math> T Intercept 1 5 4.00 2.50 Diameter 1 30 2.50 13.20 Which of the following values represents the predicted change in the height of the tree for each one-meter increase in the diameter of the tree?",
+    "image": null,
+    "choices": [
+      {
+        "label": "30",
+        "image": null
+      },
+      {
+        "label": "5",
+        "image": null
+      },
+      {
+        "label": "4",
+        "image": null
+      },
+      {
+        "label": "2.5",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction 1, over 30\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>30</mn></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "30"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: Least Squares Regression"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "JR353931",
+  "type": "mcq",
+  "title": "Chain rule with an exponential function",
+  "content": {
+    "description": "",
+    "question": "If <math> <semantics> <mrow> <mi>f</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <msup> <mi>e</mi> <mrow> <mrow> <mo>(</mo> <mrow> <mn>2</mn> <mo>/</mo> <mi>x</mi> </mrow> <mo>)</mo> </mrow> </mrow> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaWGMbWaaeWaa8aabaWdbiaadIhaaiaawIcacaGLPaaacqGH9aqp caWGLbWdamaaCaaaleqabaWdbmaabmaapaqaa8qacaaIYaGaai4lai aadIhaaiaawIcacaGLPaaaaaaaaa@3FF6@ </annotation> </semantics> </math>, then <math> <semantics> <mrow> <msup> <mi>f</mi> <mo>′</mo> </msup> <mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mo>=</mo></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qaceWGMbGbauaadaqadaWdaeaapeGaamiEaaGaayjkaiaawMcaaiab g2da9aaa@3AB8@ </annotation> </semantics> </math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <semantics> <mrow> <mn>2</mn><msup> <mi>e</mi> <mrow> <mrow><mo>(</mo> <mrow> <mn>2</mn><mo>/</mo><mi>x</mi></mrow> <mo>)</mo></mrow></mrow> </msup> <mi>ln</mi><mi>x</mi></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaaIYaGaamyza8aadaahaaWcbeqaa8qadaqadaWdaeaapeGaaGOm aiaac+cacaWG4baacaGLOaGaayzkaaaaaOGaciiBaiaac6gacaWG4b aaaa@3F07@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <msup> <mi>e</mi> <mrow> <mrow> <mo>(</mo> <mrow> <mn>2</mn> <mo>/</mo> <mi>x</mi> </mrow> <mo>)</mo> </mrow> </mrow> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaWGLbWdamaaCaaaleqabaWdbmaabmaapaqaa8qacaaIYaGaai4l aiaadIhaaiaawIcacaGLPaaaaaaaaa@3B60@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <msup> <mi>e</mi> <mrow> <mrow><mo>(</mo> <mrow> <mo>−</mo><mn>2</mn><mo>/</mo><msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>)</mo></mrow></mrow> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaWGLbWdamaaCaaaleqabaWdbmaabmaapaqaa8qacqGHsislcaaI YaGaai4laiaadIhapaWaaWbaaWqabeaapeGaaGOmaaaaaSGaayjkai aawMcaaaaaaaa@3D61@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mo>−</mo> <mfrac> <mn>2</mn> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mfrac> <msup> <mi>e</mi> <mrow> <mrow> <mo>(</mo> <mrow> <mn>2</mn> <mo>/</mo> <mi>x</mi> </mrow> <mo>)</mo> </mrow> </mrow> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacqGHsisldaWcaaWdaeaapeGaaGOmaaWdaeaapeGaamiEa8aadaah aaWcbeqaa8qacaaIYaaaaaaakiaadwgapaWaaWbaaSqabeaapeWaae Waa8aabaWdbiaaikdacaGGVaGaamiEaaGaayjkaiaawMcaaaaaaaa@3F66@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mo>−</mo><mn>2</mn><msup> <mi>x</mi> <mn>2</mn> </msup> <msup> <mi>e</mi> <mrow> <mrow><mo>(</mo> <mrow> <mn>2</mn><mo>/</mo><mi>x</mi></mrow> <mo>)</mo></mrow></mrow> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacqGHsislcaaIYaGaamiEa8aadaahaaWcbeqaa8qacaaIYaaaaOGa amyza8aadaahaaWcbeqaa8qadaqadaWdaeaapeGaaGOmaiaac+caca WG4baacaGLOaGaayzkaaaaaaaa@3F18@ </annotation> </semantics> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <semantics> <mrow> <mo>−</mo> <mfrac> <mn>2</mn> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mfrac> <msup> <mi>e</mi> <mrow> <mrow> <mo>(</mo> <mrow> <mn>2</mn> <mo>/</mo> <mi>x</mi> </mrow> <mo>)</mo> </mrow> </mrow> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacqGHsisldaWcaaWdaeaapeGaaGOmaaWdaeaapeGaamiEa8aadaah aaWcbeqaa8qacaaIYaaaaaaakiaadwgapaWaaWbaaSqabeaapeWaae Waa8aabaWdbiaaikdacaGGVaGaamiEaaGaayjkaiaawMcaaaaaaaa@3F66@ </annotation> </semantics> </math>"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: The Chain Rule"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Identify an appropriate mathematical rule or procedure based on the classification of a given expression (e.g., Use the chain rule to find the derivative of a composite function)."
+  }
+}

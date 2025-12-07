@@ -1,0 +1,41 @@
+{
+  "id": "XT699221",
+  "type": "mcq",
+  "title": "Processes - Alternating Series Error Bound",
+  "content": {
+    "description": "",
+    "question": "The alternating series <math alttext=\"the sum from n equals 1 to infinity, of, the fraction with numerator, open parenthesis, negative 1, close parenthesis, raised to the n plus 1, power, and denominator 2 n plus 2, end fraction\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><mfrac><mrow><msup><mrow><mo>(</mo><mrow><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msup></mrow><mrow><mn>2</mn><mi>n</mi><mo>+</mo><mn>2</mn></mrow></mfrac></mrow></mrow></mrow></mstyle></mrow></mstyle></mrow></math> converges to <math alttext=\"S\" display=\"inline\" overflow=\"scroll\"><mi>S</mi></math>. If the sum of the first six terms of the series is used to approximate <math alttext=\"S\" display=\"inline\" overflow=\"scroll\"><mi>S</mi></math>, what is the alternating series error bound?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"one sixth\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>6</mn></mrow></mfrac></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one seventh\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>7</mn></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one fourteenth\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>14</mn></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one sixteenth\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>16</mn></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"one sixteenth\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>16</mn></mrow></mfrac></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.10",
+    "text": "10.10: (BC ONLY) Alternating Series Error Bound"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

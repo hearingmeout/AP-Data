@@ -1,0 +1,41 @@
+{
+  "id": "GY092000",
+  "type": "mcq",
+  "title": "Representations - Interval of Convergence",
+  "content": {
+    "description": "",
+    "question": "The interval of convergence for the series <math alttext=\"the sum, from n equals 1, to infinity of, the fraction with numerator open parenthesis, x plus 3, close parenthesis, raised to the 3 n power, and denominator n times, 8 to the n power, end fraction \" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>∞</mi></mrow></munderover><mrow><mfrac><mrow><msup><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mn>3</mn><mo>)</mo></mrow><mrow><mn>3</mn><mi>n</mi></mrow></msup></mrow><mrow><mi>n</mi><mo>⋅</mo><msup><mrow><mn>8</mn></mrow><mrow><mi>n</mi></mrow></msup></mrow></mfrac></mrow></mrow></mstyle></mrow></mstyle></mrow></math> is",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"negative 5 is less than x, is less than negative 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>5</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mrow><mo>−</mo><mn>1</mn></mrow></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"negative 5 is less than or equal to x, is less than negative 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>−</mo><mn>5</mn><mo>≤</mo><mi>x</mi><mo>&lt;</mo><mrow><mo>−</mo><mn>1</mn></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"negative 11 is less than x, is less than 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>11</mn></mrow><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>5</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"negative 11 is less than or equal to x, is less than 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>−</mo><mn>11</mn><mo>≤</mo><mi>x</mi><mo>&lt;</mo><mn>5</mn></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"negative 5 is less than or equal to x, is less than negative 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>−</mo><mn>5</mn><mo>≤</mo><mi>x</mi><mo>&lt;</mo><mrow><mo>−</mo><mn>1</mn></mrow></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.13",
+    "text": "10.13: (BC ONLY) Radius and Interval of Convergence of Power Series"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

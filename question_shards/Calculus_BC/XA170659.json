@@ -1,0 +1,41 @@
+{
+  "id": "XA170659",
+  "type": "mcq",
+  "title": "Processes - Particle Motion",
+  "content": {
+    "description": "",
+    "question": "For time <math alttext=\"t is greater than or equal to 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>≥</mo><mn>0</mn></mrow></mstyle></math>, the velocity of a particle moving along the <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math>-axis is given by <math alttext=\"v of t, equals, the sine of t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>v</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mi>sin</mi><mo>⁡</mo><mi>t</mi></mrow></mstyle></math>. The initial position of the particle at time <math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>0</mn></mrow></mstyle></math> is <math alttext=\"x equals 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>5</mn></mrow></mstyle></math>. Which of the following gives the total distance the particle travels from time <math alttext=\"t equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>0</mn></mrow></mstyle></math> to time <math alttext=\"t equals, 3 pi\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>3</mn><mi>π</mi></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the integral from, 0 to 3 pi, of, the sine of t, d t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mstyle><mrow><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>3</mn><mi>π</mi></mrow></msubsup><mrow><mrow><mi>sin</mi><mo>⁡</mo><mi>t</mi></mrow><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow></mrow></mstyle></mrow></mstyle></mrow></mstyle></mrow></mstyle></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"5 plus the integral from, 0 to 3 pi, of, the absolute value of, the sine of t, end absolute value, d t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mn>5</mn><mo>+</mo><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>3</mn><mi>π</mi></mrow></msubsup><mrow><mrow><mo>|</mo><mi>sin</mi><mo>⁡</mo><mi>t</mi><mo>|</mo></mrow><mtext> </mtext><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow></mrow></mstyle></mrow></mstyle></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the integral from, 0 to 3 pi, of, the absolute value of, the sine of t, end absolute value, d t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>3</mn><mi>π</mi></mrow></msubsup><mrow><mrow><mo>|</mo><mi>sin</mi><mo>⁡</mo><mi>t</mi><mo>|</mo></mrow><mtext> </mtext><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow></mrow></mstyle></mrow></mstyle></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"5 plus the integral from, 0 to 3 pi, of, the sine of t, d t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mstyle><mrow><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mn>5</mn><mo>+</mo><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>3</mn><mi>π</mi></mrow></msubsup><mrow><mrow><mi>sin</mi><mo>⁡</mo><mi>t</mi></mrow><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow></mrow></mstyle></mrow></mstyle></mrow></mstyle></mrow></mstyle></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the integral from, 0 to 3 pi, of, the absolute value of, the sine of t, end absolute value, d t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>3</mn><mi>π</mi></mrow></msubsup><mrow><mrow><mo>|</mo><mi>sin</mi><mo>⁡</mo><mi>t</mi><mo>|</mo></mrow><mtext> </mtext><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow></mrow></mstyle></mrow></mstyle></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Applications of Integration"
+  },
+  "topic": {
+    "code": "8.2",
+    "text": "8.2: Connecting Position, Velocity, and Acceleration Functions Using Integrals"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

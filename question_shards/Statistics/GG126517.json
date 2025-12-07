@@ -1,0 +1,45 @@
+{
+  "id": "GG126517",
+  "type": "mcq",
+  "title": "School movie night",
+  "content": {
+    "description": "",
+    "question": "In high school X, approximately 9 percent of the students saw a certain movie on opening night. From a random sample of 200 students from high school Y, 22 saw the movie on opening night. Consider a hypothesis test to investigate whether the proportion of all students in high school Y who saw the movie on opening night is greater than that of high school X. Which of the following is the standard deviation used to calculate the test statistic for the one-sample <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math>-test?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the square root of the fraction 0.11 times 0.89 over 200\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msqrt><mrow><mfrac><mrow><mo>(</mo><mn>0.11</mn><mo>)</mo><mo>(</mo><mn>0.89</mn><mo>)</mo></mrow><mrow><mn>200</mn></mrow></mfrac></mrow></msqrt></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the square root of the fraction 0.09 times 0.91 over 200\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msqrt><mrow><mfrac><mrow><mo>(</mo><mn>0.09</mn><mo>)</mo><mo>(</mo><mn>0.91</mn><mo>)</mo></mrow><mrow><mn>200</mn></mrow></mfrac></mrow></msqrt></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the square root of the fraction 22 times 178 over 200\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msqrt><mrow><mfrac><mrow><mo>(</mo><mn>22</mn><mo>)</mo><mo>(</mo><mn>178</mn><mo>)</mo></mrow><mrow><mn>200</mn></mrow></mfrac></mrow></msqrt></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction 0.11 times 0.89 over the square root of 200\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mo>(</mo><mn>0.11</mn><mo>)</mo><mo>(</mo><mn>0.89</mn><mo>)</mo></mrow><mrow><msqrt><mrow><mn>200</mn></mrow></msqrt></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction 0.09 times 0.91 over the square root of 200\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mo>(</mo><mn>0.09</mn><mo>)</mo><mo>(</mo><mn>0.91</mn><mo>)</mo></mrow><mrow><msqrt><mrow><mn>200</mn></mrow></msqrt></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the square root of the fraction 0.09 times 0.91 over 200\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msqrt><mrow><mfrac><mrow><mo>(</mo><mn>0.09</mn><mo>)</mo><mo>(</mo><mn>0.91</mn><mo>)</mo></mrow><mrow><mn>200</mn></mrow></mfrac></mrow></msqrt></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.5",
+    "text": "6.5: Interpreting P-Values"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Calculate a test statistic and find a p-value, provided conditions for inference are met."
+  }
+}

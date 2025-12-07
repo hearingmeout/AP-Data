@@ -1,0 +1,45 @@
+{
+  "id": "QD284799",
+  "type": "mcq",
+  "title": "Residual Plot Conditions",
+  "content": {
+    "description": "",
+    "question": "When computing a confidence interval for the slope of a regression line, a plot of the residuals versus the fitted values can be used to check which of the following conditions?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The variables <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> and <math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi></mrow></mstyle></math> are inversely related.",
+        "image": null
+      },
+      {
+        "label": "The standard deviation of <math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi></mrow></mstyle></math> does not vary as <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mi>x</mi></mrow></mstyle></mrow></mstyle></math> varies.",
+        "image": null
+      },
+      {
+        "label": "The correlation is not equal to zero.",
+        "image": null
+      },
+      {
+        "label": "The observations are independent.",
+        "image": null
+      },
+      {
+        "label": "The confidence interval contains zero.",
+        "image": null
+      }
+    ],
+    "answer": "The standard deviation of <math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi></mrow></mstyle></math> does not vary as <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mi>x</mi></mrow></mstyle></mrow></mstyle></math> varies."
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Inference for Quantitative Data-Slopes"
+  },
+  "topic": {
+    "code": "9.2",
+    "text": "9.2: Confidence Intervals for the Slope of a Regression Model"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Verify that inference procedures apply in a given situation."
+  }
+}

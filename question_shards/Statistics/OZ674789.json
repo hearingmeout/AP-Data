@@ -1,0 +1,45 @@
+{
+  "id": "OZ674789",
+  "type": "mcq",
+  "title": "Interpret confidence level for median home value",
+  "content": {
+    "description": "",
+    "question": "A statistician proposed a new method for constructing a 90 percent confidence interval to estimate the median of assessed home values for homes in a large community. To test the method, the statistician will conduct a simulation by selecting 10,000 random samples of the same size from the population. For each sample, a confidence interval will be constructed using the new method. If the confidence level associated with the new method is actually 90 percent, which of the following will be captured by approximately 9,000 of the confidence intervals constructed from the simulation?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The sample mean",
+        "image": null
+      },
+      {
+        "label": "The sample median",
+        "image": null
+      },
+      {
+        "label": "The sample standard deviation",
+        "image": null
+      },
+      {
+        "label": "The population mean",
+        "image": null
+      },
+      {
+        "label": "The population median",
+        "image": null
+      }
+    ],
+    "answer": "The population median"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.3",
+    "text": "7.3: Justifying a Claim About a Population Mean Based on a Confidence Interval"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

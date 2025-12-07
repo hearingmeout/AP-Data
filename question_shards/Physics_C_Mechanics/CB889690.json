@@ -1,0 +1,41 @@
+{
+  "id": "CB889690",
+  "type": "mcq",
+  "title": "Torque - two students discuss the torque on a bar",
+  "content": {
+    "description": "The figure shows a bar of length <math alttext=\"L sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>L</mi><mn>0</mn></msub></math> connected to a pivot at its left end. A force of magnitude <math alttext=\"F sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>F</mi><mn>0</mn></msub></math> is exerted on the right end of the rod at an angle <math alttext=\"theta sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>θ</mi><mn>0</mn></msub></math> above the horizontal, holding the bar horizontally in place. Also shown in the diagram is the line of action for the force and the perpendicular distance <math alttext=\"r sub perpendicular\" display=\"inline\" overflow=\"scroll\"><msub><mi>r</mi><mo>⊥</mo></msub></math> from the pivot to the line of action. Two students are discussing how to determine the torque about the pivot resulting from <math alttext=\"F sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>F</mi><mn>0</mn></msub></math>.",
+    "question": "Student <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> says that the torque is <math alttext=\"tau equals L sub 0, end sub, F sub 0, end sub, the sine of theta sub 0\" display=\"inline\" overflow=\"scroll\"><mi>τ</mi><mo>=</mo><msub><mi>L</mi><mn>0</mn></msub><msub><mi>F</mi><mn>0</mn></msub><mspace width=\"0.2em\"></mspace><mi>sin</mi><mspace width=\"0.2em\"></mspace><msub><mi>θ</mi><mn>0</mn></msub></math>.Student <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> says that the torque is <math alttext=\"tau equals r sub perpendicular, end sub, F sub 0\" display=\"inline\" overflow=\"scroll\"><mi>τ</mi><mo>=</mo><msub><mi>r</mi><mo>⊥</mo></msub><msub><mi>F</mi><mn>0</mn></msub></math>.Which of the following provides valid reasoning to justify which student or students is (are) correct?",
+    "image": "https://ap.oly.st/images/7535f631fc46122b9f9eaf0ef437c6f9.svg",
+    "choices": [
+      {
+        "label": "Only Student <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> is correct. Student <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mn>2</mn></math> does not account for the angle of the force.",
+        "image": null
+      },
+      {
+        "label": "Only Student <math alttext=\"1\" display=\"inline\" overflow=\"scroll\"><mn>1</mn></math> is correct. The force is exerted at a distance <math alttext=\"L sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>L</mi><mn>0</mn></msub></math>, not <math alttext=\"r sub perpendicular\" display=\"inline\" overflow=\"scroll\"><msub><mi>r</mi><mo>⊥</mo></msub></math>, from the pivot.",
+        "image": null
+      },
+      {
+        "label": "Both students are correct. The line of action is parallel to the force.",
+        "image": null
+      },
+      {
+        "label": "Both students are correct. The perpendicular distance <math alttext=\"r sub perpendicular\" display=\"inline\" overflow=\"scroll\"><msub><mi>r</mi><mo>⊥</mo></msub></math> is equivalent to <math alttext=\"L sub 0, end sub, the sine of theta sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>L</mi><mn>0</mn></msub><mspace width=\"0.2em\"></mspace><mi>sin</mi><mspace width=\"0.2em\"></mspace><msub><mi>θ</mi><mn>0</mn></msub></math>.",
+        "image": null
+      }
+    ],
+    "answer": "Both students are correct. The perpendicular distance <math alttext=\"r sub perpendicular\" display=\"inline\" overflow=\"scroll\"><msub><mi>r</mi><mo>⊥</mo></msub></math> is equivalent to <math alttext=\"L sub 0, end sub, the sine of theta sub 0\" display=\"inline\" overflow=\"scroll\"><msub><mi>L</mi><mn>0</mn></msub><mspace width=\"0.2em\"></mspace><mi>sin</mi><mspace width=\"0.2em\"></mspace><msub><mi>θ</mi><mn>0</mn></msub></math>."
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.3",
+    "text": "5.3: Torque"
+  },
+  "skill": {
+    "code": "3.C",
+    "text": "3.C: Justify or support a claim using evidence from experimental data, physical representations, or physical principles or laws."
+  }
+}

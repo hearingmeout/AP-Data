@@ -1,0 +1,45 @@
+{
+  "id": "CH528219",
+  "type": "mcq",
+  "title": "Comparing estimates using Riemann sums",
+  "content": {
+    "description": "",
+    "question": "A left Riemann sum, a right Riemann sum, and a trapezoidal sum are used to approximate the value of <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>1</mn> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mtext> </mtext><mi>d</mi><mi>x</mi></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWdXaWdaeaapeGaamOzaaWcpaqaa8qacaaIWaaapaqaa8qacaaI XaaaniabgUIiYdGcdaqadaWdaeaapeGaamiEaaGaayjkaiaawMcaa8 aacaaMe8+dbiaadsgacaWG4baaaa@413D@ </annotation> </semantics> </math>, each using the same number of sub intervals. The graph of the function f is shown in the figure above. Which of the sums give an underestimate of the value of <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>1</mn> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mtext> </mtext><mi>d</mi><mi>x</mi></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWdXaWdaeaapeGaamOzaaWcpaqaa8qacaaIWaaapaqaa8qacaaI XaaaniabgUIiYdGcdaqadaWdaeaapeGaamiEaaGaayjkaiaawMcaa8 aacaaMe8+dbiaadsgacaWG4baaaa@413D@ </annotation> </semantics> </math>? Left sum Right sum Trapezoidal sum",
+    "image": "https://ap.oly.st/images/9b05fbf215ccb4cc26d6ce27b493250e.png",
+    "choices": [
+      {
+        "label": "I only",
+        "image": null
+      },
+      {
+        "label": "II only",
+        "image": null
+      },
+      {
+        "label": "III only",
+        "image": null
+      },
+      {
+        "label": "I and III only",
+        "image": null
+      },
+      {
+        "label": "II and III only",
+        "image": null
+      }
+    ],
+    "answer": "I and III only"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.2",
+    "text": "6.2: Approximating Areas with Riemann Sums"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Explain how an approximated value relates to the actual value."
+  }
+}

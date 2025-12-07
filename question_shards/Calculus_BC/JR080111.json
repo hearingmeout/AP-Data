@@ -1,0 +1,45 @@
+{
+  "id": "JR080111",
+  "type": "mcq",
+  "title": "Derivative with chain rule",
+  "content": {
+    "description": "",
+    "question": "If <math> <mrow> <mi>f</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mi>ln</mi> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>+</mo> <mn>4</mn> <mo>+</mo> <msup> <mi>e</mi> <mrow> <mo>−</mo> <mn>3</mn> <mi>x</mi> </mrow> </msup> </mrow> <mo>)</mo> </mrow> <mo>,</mo> </mrow> </math> then f’(0) is",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <mrow> <mo>−</mo> <mfrac> <mn>2</mn> <mn>5</mn> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mfrac> <mn>1</mn> <mn>5</mn> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mfrac> <mn>1</mn> <mn>4</mn> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mfrac> <mn>2</mn> <mn>5</mn> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "nonexistent",
+        "image": null
+      }
+    ],
+    "answer": "<math> <mrow> <mo>−</mo> <mfrac> <mn>2</mn> <mn>5</mn> </mfrac> </mrow> </math>"
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.1",
+    "text": "3.1: The Chain Rule"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Identify an appropriate mathematical rule or procedure based on the classification of a given expression (e.g., Use the chain rule to find the derivative of a composite function)."
+  }
+}

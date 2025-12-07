@@ -1,0 +1,45 @@
+{
+  "id": "TA136159",
+  "type": "mcq",
+  "title": "More fizz",
+  "content": {
+    "description": "",
+    "question": "A soda manufacturer claims that its Cherry Fizz soda has more carbonation than a competitor’s Cherry Eclipse soda. Bottles of both types of soda are opened, covered with a balloon, and then shaken. The diameter of each balloon is then measured. The mean balloon diameters are 2.3 inches for the Cherry Fizz soda and 2.1 inches for the Cherry Eclipse soda. A 90 percent confidence interval to estimate the difference in mean diameters, in inches, is <math alttext=\"negative 0.8 comma 1.2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mrow><mrow><mo>−</mo><mn>0.8</mn></mrow></mrow><mo>,</mo><mrow><mn>1.2</mn></mrow><mo>)</mo></mrow></mrow></mstyle></math>. Which of the following claims is supported by the interval?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Because 2.3 inches is larger than 2.1 inches, the manufacturer is correct, and Cherry Fizz has more carbonation.",
+        "image": null
+      },
+      {
+        "label": "Because the interval has more positive values than negative values, Cherry Fizz has more carbonation.",
+        "image": null
+      },
+      {
+        "label": "Because 2.3 and 2.1 are very similar, there is no difference in the mean carbonation levels.",
+        "image": null
+      },
+      {
+        "label": "The interval cannot be interpreted because negative measurements are not possible.",
+        "image": null
+      },
+      {
+        "label": "Because the interval contains 0, it is possible that there is no difference in mean carbonation levels.",
+        "image": null
+      }
+    ],
+    "answer": "Because the interval contains 0, it is possible that there is no difference in mean carbonation levels."
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.7",
+    "text": "7.7: Justifying a Claim About the Difference of Two Means Based on a Confidence Interval"
+  },
+  "skill": {
+    "code": "Skill 4.D",
+    "text": "Skill 4.D: Justify a claim based on a confidence interval."
+  }
+}

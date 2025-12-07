@@ -1,0 +1,45 @@
+{
+  "id": "EO067062",
+  "type": "mcq",
+  "title": "Convergence of an alternating series",
+  "content": {
+    "description": "For a series S, let <math> <semantics> <mrow> <mi>S</mi> <mo>=</mo> <mn>1</mn> <mo>−</mo> <mfrac> <mn>1</mn> <mn>9</mn> </mfrac> <mo>+</mo> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mo>−</mo> <mfrac> <mn>1</mn> <mrow> <mn>25</mn> </mrow> </mfrac> <mo>+</mo> <mfrac> <mn>1</mn> <mn>4</mn> </mfrac> <mo>−</mo> <mfrac> <mn>1</mn> <mrow> <mn>49</mn> </mrow> </mfrac> <mo>+</mo> <mfrac> <mn>1</mn> <mn>8</mn> </mfrac> <mo>−</mo> <mfrac> <mn>1</mn> <mrow> <mn>81</mn> </mrow> </mfrac> <mo>+</mo> <mfrac> <mn>1</mn> <mrow> <mn>16</mn> </mrow> </mfrac> <mo>−</mo> <mfrac> <mn>1</mn> <mrow> <mn>121</mn> </mrow> </mfrac> <mo>+</mo> <mo>⋯</mo> <mo>+</mo> <msub> <mi>a</mi> <mi>n</mi> </msub> <mo>+</mo> <mo>⋯</mo> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbiaadofacqGH9aqpcaaIXaGaeyOeI0YaaSaaa8aabaWdbiaaigdaa8aabaWdbiaaiMdaaaGaey4kaSYaaSaaa8aabaWdbiaaigdaa8aabaWdbiaaikdaaaGaeyOeI0YaaSaaa8aabaWdbiaaigdaa8aabaWdbiaaikdacaaI1aaaaiabgUcaRmaalaaapaqaa8qacaaIXaaapaqaa8qacaaI0aaaaiabgkHiTmaalaaapaqaa8qacaaIXaaapaqaa8qacaaI0aGaaGyoaaaacqGHRaWkdaWcaaWdaeaapeGaaGymaaWdaeaapeGaaGioaaaacqGHsisldaWcaaWdaeaapeGaaGymaaWdaeaapeGaaGioaiaaigdaaaGaey4kaSYaaSaaa8aabaWdbiaaigdaa8aabaWdbiaaigdacaaI2aaaaiabgkHiTmaalaaapaqaa8qacaaIXaaapaqaa8qacaaIXaGaaGOmaiaaigdaaaGaey4kaSIaeS47IWKaey4kaSIaamyya8aadaWgaaWcbaWdbiaad6gaa8aabeaak8qacqGHRaWkcqWIVlctaaa@6123@</annotation> </semantics> </math>, where",
+    "question": "Which of the following statements are true? I. S converges because the terms of S alternate and <math> <semantics> <mrow> <munder> <mrow> <mi>lim</mi> </mrow> <mrow> <mi>n</mi> <mo>→</mo> <mi>∞</mi> </mrow> </munder> <msub> <mi>a</mi> <mi>n</mi> </msub> <mo>=</mo> <mn>0</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaadaWfqaqaaabaaaaaaaaapeGaciiBaiaacMgacaGGTbaal8aabaWdbiaad6gacqGHsgIRcqGHEisPa8aabeaak8qacaWGHbWdamaaBaaaleaapeGaamOBaaWdaeqaaOWdbiabg2da9iaaicdaaaa@44CB@</annotation> </semantics> </math>. II. S diverges because it is not true that <math> <semantics> <mrow> <mrow> <mo>|</mo> <mrow> <msub> <mi>a</mi> <mrow> <mtext>n+1</mtext> </mrow> </msub> </mrow> <mo>|</mo> </mrow> <mo>&lt;</mo> <mrow> <mo>|</mo> <mrow> <msub> <mi>a</mi> <mtext>n</mtext> </msub> </mrow> <mo>|</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaadaabdaqaaiaadggadaWgaaWcbaGaaeOBaiaabUcacaqGXaaabeaaaOGaay5bSlaawIa7aiabgYda8maaemaabaGaamyyamaaBaaaleaacaqGUbaabeaaaOGaay5bSlaawIa7aaaa@45BF@</annotation> </semantics> </math> for all n. III. S converges although it is not true that <math> <semantics> <mrow> <mrow> <mo>|</mo> <mrow> <msub> <mi>a</mi> <mrow> <mtext>n+1</mtext> </mrow> </msub> </mrow> <mo>|</mo> </mrow> <mo>&lt;</mo> <mrow> <mo>|</mo> <mrow> <msub> <mi>a</mi> <mtext>n</mtext> </msub> </mrow> <mo>|</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaadaabdaqaaiaadggadaWgaaWcbaGaaeOBaiaabUcacaqGXaaabeaaaOGaay5bSlaawIa7aiabgYda8maaemaabaGaamyyamaaBaaaleaacaqGUbaabeaaaOGaay5bSlaawIa7aaaa@45BF@</annotation> </semantics> </math> for all n.",
+    "image": "https://ap.oly.st/images/159d6ce5eafca34892d65a5f227a4e05.png",
+    "choices": [
+      {
+        "label": "None",
+        "image": null
+      },
+      {
+        "label": "I only",
+        "image": null
+      },
+      {
+        "label": "II only",
+        "image": null
+      },
+      {
+        "label": "III only",
+        "image": null
+      },
+      {
+        "label": "I and III only",
+        "image": null
+      }
+    ],
+    "answer": "III only"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.1",
+    "text": "10.1: (BC ONLY) Defining Convergent and Divergent Infinite Series"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Identify an appropriate mathematical definition, theorem, or test to apply."
+  }
+}

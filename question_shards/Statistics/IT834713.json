@@ -1,0 +1,45 @@
+{
+  "id": "IT834713",
+  "type": "mcq",
+  "title": "Free throws",
+  "content": {
+    "description": "",
+    "question": "Mateo plays on his school basketball team. From past history, he knows that his probability of making a basket on a free throw is 0.8. Suppose he wants to create a simulation using random numbers to estimate the probability of making at least 3 baskets on his next 5 free throw attempts. Which of the following assignments of the digits 0 to 9 could be used for the simulation?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Let the even digits represent making a basket and the odd digits represent not making a basket.",
+        "image": null
+      },
+      {
+        "label": "Let the digits 0 and 1 represent making a basket and the digits from 2 to 9 represent not making a basket.",
+        "image": null
+      },
+      {
+        "label": "Let the digits from 0 to 3 represent making a basket and the digits from 4 to 9 represent not making a basket.",
+        "image": null
+      },
+      {
+        "label": "Let the digits from 0 to 6 represent making a basket and the digits from 7 to 9 represent not making a basket.",
+        "image": null
+      },
+      {
+        "label": "Let the digits from 0 to 7 represent making a basket and the digits 8 and 9 represent not making a basket.",
+        "image": null
+      }
+    ],
+    "answer": "Let the digits from 0 to 7 represent making a basket and the digits 8 and 9 represent not making a basket."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.2",
+    "text": "4.2: Estimating Probabilities Using Simulation"
+  },
+  "skill": {
+    "code": "Skill 3.A",
+    "text": "Skill 3.A: Determine relative frequencies, proportions, or probabilities using simulation or calculations."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "RI264256",
+  "type": "frq",
+  "title": "Basketball visualization - Investigative Task",
+  "content": {
+    "description": "",
+    "question": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations. A team of psychologists studied the concept of visualization in basketball, where players visualize making a basket before shooting the ball. They conducted an experiment in which 20 basketball players with similar abilities were randomly assigned to two groups. The 10 players in group 1 received visualization training, and the 10 players in group 2 did not. Each player stood 22 feet from the basket at the same location on the basketball court. Each player was then instructed to attempt to make the basket until two consecutive baskets were made. The players who received visualization training were instructed to use visualization techniques before attempting to make the basket. The total number of attempts, including the last two attempts, were recorded for each player. The total number of attempts for each of the 20 players are summarized in the following boxplots. (a) Based on the boxplots, did basketball players who received visualization training tend to need fewer attempts to make two consecutive baskets from a distance of 22 feet than players who did not receive the training? Explain your reasoning.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations. A team of psychologists studied the concept of visualization in basketball, where players visualize making a basket before shooting the ball. They conducted an experiment in which 20 basketball players with similar abilities were randomly assigned to two groups. The 10 players in group 1 received visualization training, and the 10 players in group 2 did not. Each player stood 22 feet from the basket at the same location on the basketball court. Each player was then instructed to attempt to make the basket until two consecutive baskets were made. The players who received visualization training were instructed to use visualization techniques before attempting to make the basket. The total number of attempts, including the last two attempts, were recorded for each player. The total number of attempts for each of the 20 players are summarized in the following boxplots. (a) Based on the boxplots, did basketball players who received visualization training tend to need fewer attempts to make two consecutive baskets from a distance of 22 feet than players who did not receive the training? Explain your reasoning.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Statistics/VR037923.g01.png"
+      },
+      {
+        "text": "(b) State and check conditions for conducting a two-sample <math alttext=\"t\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-test for a difference in means.",
+        "image": null
+      },
+      {
+        "text": "Because both distributions, visualization <math alttext=\"V\"><mstyle><mrow><mrow><mo>(</mo><mi mathvariant=\"normal\">V</mi><mo>)</mo></mrow></mrow></mstyle></math> and no visualization <math alttext=\"N V\"><mstyle><mrow><mrow><mo>(</mo><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">V</mi><mo>)</mo></mrow></mrow></mstyle></math>, are skewed, the psychologists conducted a simulation to test for a difference in medians rather than means. For each trial of the simulation, the 20 values of the total number of attempts observed in the experiment were combined into one group and then randomly split into two groups of 10. The difference in the medians <math alttext=\"V minus N V\"><mstyle><mrow><mrow><mo>(</mo><mi mathvariant=\"normal\">V</mi><mo>−</mo><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">V</mi><mo>)</mo></mrow></mrow></mstyle></math> of the groups was calculated for each trial. The following dotplot shows the difference in the medians for 100 trials of the simulation. (c) Using the observed difference in medians <math alttext=\"V minus N V\"><mstyle><mrow><mrow><mo>(</mo><mi mathvariant=\"normal\">V</mi><mo>−</mo><mi mathvariant=\"normal\">N</mi><mi mathvariant=\"normal\">V</mi><mo>)</mo></mrow></mrow></mstyle></math> and the results of the simulation, estimate a <math alttext=\"p\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value for a test for the difference in medians. Show the work needed to calculate this <math alttext=\"p\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Statistics/VR037923.g02.png"
+      },
+      {
+        "text": "(d) Based on the <math alttext=\"p\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value in part (c), is there convincing statistical evidence that basketball players similar to the ones in this study who receive visualization training need fewer attempts to make two consecutive baskets from a distance of 22 feet than those who do not receive such training? Justify your answer.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.9",
+    "text": "1.9: Comparing Distributions of a Quantitative Variable"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Compare distributions or relative positions of points within a distribution."
+  }
+}

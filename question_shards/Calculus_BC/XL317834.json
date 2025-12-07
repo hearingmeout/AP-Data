@@ -1,0 +1,45 @@
+{
+  "id": "XL317834",
+  "type": "mcq",
+  "title": "Differentiablity of a piecewise function",
+  "content": {
+    "description": "<math> <mrow> <mi>f</mi> <mtext> </mtext> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mrow> <mo>{</mo> <mtable columnalign=\"left\"> <mtr> <mtd> <mi>c</mi> <mi>x</mi> <mo>+</mo> <mi>d</mi> <mtext> </mtext> <mtext> </mtext> <mtext> </mtext> <mtext> </mtext> <mtext> </mtext> <mtext> </mtext> <mtext> </mtext> <mtext>&nbsp;for&nbsp;</mtext> <mtext> </mtext> <mtext> </mtext> <mi>x</mi> <mo>≤</mo> <mn>2</mn> </mtd> </mtr> <mtr> <mtd> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>−</mo> <mi>c</mi> <mi>x</mi> <mtext> </mtext> <mtext> </mtext> <mtext> </mtext> <mtext> </mtext> <mtext>&nbsp;for&nbsp;</mtext> <mtext> </mtext> <mtext> </mtext> <mi>x</mi> <mo>&gt;</mo> <mn>2</mn> </mtd> </mtr> </mtable> </mrow> </mrow> </math>",
+    "question": "Let f be the function defined above, where c and d are constants. If f is differentiable at <math> <mrow> <mi>x</mi> <mo>=</mo> <mn>2</mn> <mo>,</mo> </mrow> </math> what is the value of <math> <mrow> <mi>c</mi> <mo>+</mo> <mi>d</mi> <mo>?</mo> </mrow> </math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "−4",
+        "image": null
+      },
+      {
+        "label": "−2",
+        "image": null
+      },
+      {
+        "label": "0",
+        "image": null
+      },
+      {
+        "label": "2",
+        "image": null
+      },
+      {
+        "label": "4",
+        "image": null
+      }
+    ],
+    "answer": "−2"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Connecting Differentiability and Continuity - Determining When Derivatives Do and Do Not Exist"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Provide reasons or rationales for solutions and conclusions."
+  }
+}

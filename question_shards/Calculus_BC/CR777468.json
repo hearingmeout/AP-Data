@@ -1,0 +1,37 @@
+{
+  "id": "CR777468",
+  "type": "mcq",
+  "title": "Processes - Product Rule",
+  "content": {
+    "description": "",
+    "question": "If <math alttext=\"f of x equals, the natural log of x, times the cosine of 4 x\" display=\"inline\" overflow=\"scroll\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>ln</mi><mo>⁡</mo><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mi>cos</mi><mo>⁡</mo><mrow><mo>(</mo><mn>4</mn><mi>x</mi><mo>)</mo></mrow></mrow></math>, then <math alttext=\"f prime of x equals\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo></mrow></mstyle></math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the negative of the fraction with numerator 4 times the sine of 4 x, and denominator x\" display=\"inline\" overflow=\"scroll\"><mrow><mrow><mo>−</mo><mfrac><mrow><mn>4</mn><mi>sin</mi><mo>⁡</mo><mrow><mo>(</mo><mn>4</mn><mi>x</mi><mo>)</mo></mrow></mrow><mrow><mi>x</mi></mrow></mfrac></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator the cosine of 4 x, and denominator x, end fraction, minus the natural log of x, times the sine of 4 x\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mi>cos</mi><mo>⁡</mo><mrow><mo>(</mo><mn>4</mn><mi>x</mi><mo>)</mo></mrow></mrow><mrow><mi>x</mi></mrow></mfrac><mo>−</mo><mi>ln</mi><mo>⁡</mo><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mi>sin</mi><mo>⁡</mo><mrow><mo>(</mo><mn>4</mn><mi>x</mi><mo>)</mo></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator the cosine of 4 x, and denominator x, end fraction, minus 4 times the natural log of x, times the sine of 4 x\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mi>cos</mi><mo>⁡</mo><mrow><mo>(</mo><mn>4</mn><mi>x</mi><mo>)</mo></mrow></mrow><mrow><mi>x</mi></mrow></mfrac><mo>−</mo><mn>4</mn><mi>ln</mi><mo>⁡</mo><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mi>sin</mi><mo>⁡</mo><mrow><mo>(</mo><mn>4</mn><mi>x</mi><mo>)</mo></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the fraction with numerator the cosine of 4 x, and denominator x, end fraction, plus 4 times the natural log of x, times the sine of 4 x\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mi>cos</mi><mo>⁡</mo><mrow><mo>(</mo><mn>4</mn><mi>x</mi><mo>)</mo></mrow></mrow><mrow><mi>x</mi></mrow></mfrac><mo>+</mo><mn>4</mn><mi>ln</mi><mo>⁡</mo><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mi>sin</mi><mo>⁡</mo><mrow><mo>(</mo><mn>4</mn><mi>x</mi><mo>)</mo></mrow></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the fraction with numerator the cosine of 4 x, and denominator x, end fraction, minus 4 times the natural log of x, times the sine of 4 x\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mi>cos</mi><mo>⁡</mo><mrow><mo>(</mo><mn>4</mn><mi>x</mi><mo>)</mo></mrow></mrow><mrow><mi>x</mi></mrow></mfrac><mo>−</mo><mn>4</mn><mi>ln</mi><mo>⁡</mo><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mi>sin</mi><mo>⁡</mo><mrow><mo>(</mo><mn>4</mn><mi>x</mi><mo>)</mo></mrow></mrow></math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: The Product Rule"
+  }
+}

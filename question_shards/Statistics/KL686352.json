@@ -1,0 +1,45 @@
+{
+  "id": "KL686352",
+  "type": "mcq",
+  "title": "Company Holiday Party",
+  "content": {
+    "description": "A technology company has <math alttext=\"1,200\" overflow=\"scroll\"><mn>1</mn><mtext>,</mtext><mn>200</mn></math> employees. The director of human resources at the company selects <math alttext=\"250\" overflow=\"scroll\"><mstyle><mrow><mn>250</mn></mrow></mstyle></math> of the employees at random, without replacement, and asks them to fill out an anonymous survey asking whether they plan to attend the company’s holiday party. The proportion of employees in the sample who plan to attend the party is <math alttext=\"0.816\" overflow=\"scroll\"><mstyle><mrow><mn>0.816</mn></mrow></mstyle></math>. Based on this proportion, the director calculates a <math alttext=\"95\" overflow=\"scroll\"><mstyle><mrow><mn>95</mn></mrow></mstyle></math> percent confidence interval for the proportion of all employees who plan to attend the holiday party as <math alttext=\"0.816 plus or minus 1.96 times the square root of, the fraction with numerator, 0.816 times open parenthesis, 1 minus 0.816, close parenthesis, and denominator 250, end root\" overflow=\"scroll\"><mstyle><mrow><mn>0.816</mn><mo>±</mo><mn>1.96</mn><msqrt><mrow><mfrac><mrow><mn>0.816</mn><mo>(</mo><mn>1</mn><mo>−</mo><mn>0.816</mn><mo>)</mo></mrow><mrow><mn>250</mn></mrow></mfrac></mrow></msqrt></mrow></mstyle></math>.",
+    "question": "Which of the following is true concerning whether it is appropriate to use the confidence interval to estimate the proportion of all employees who plan to attend the holiday party?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The confidence interval is appropriate to use because the employees were randomly selected.",
+        "image": null
+      },
+      {
+        "label": "The confidence interval is not appropriate to use because one of the values <math alttext=\"n times p hat\" overflow=\"scroll\"><mi>n</mi><mover><mi>p</mi><mo>^</mo></mover></math> and <math alttext=\"n times open parenthesis, 1 minus p hat, close parenthesis\" overflow=\"scroll\"><mi>n</mi><mpadded><mo>(</mo><mpadded><mn>1</mn><mo>-</mo><mover><mi>p</mi><mo>^</mo></mover></mpadded><mo>)</mo></mpadded></math> is less than than <math alttext=\"10\" overflow=\"scroll\"><mn>10</mn></math>.",
+        "image": null
+      },
+      {
+        "label": "The confidence interval is not appropriate to use because <math alttext=\"250\" overflow=\"scroll\"><mn>250</mn></math> employees is more than <math alttext=\"10%\" overflow=\"scroll\"><mn>10</mn><mo>%</mo></math> of all employees at the company.",
+        "image": null
+      },
+      {
+        "label": "The confidence interval is appropriate to use because <math alttext=\"n times p hat\" overflow=\"scroll\"><mi>n</mi><mover><mi>p</mi><mo>^</mo></mover></math> and <math alttext=\"n times open parenthesis, 1 minus p hat, close parenthesis\" overflow=\"scroll\"><mi>n</mi><mpadded><mo>(</mo><mpadded><mn>1</mn><mo>-</mo><mover><mi>p</mi><mo>^</mo></mover></mpadded><mo>)</mo></mpadded></math> are greater than <math alttext=\"10\" overflow=\"scroll\"><mn>10</mn></math>.",
+        "image": null
+      },
+      {
+        "label": "The confidence interval is appropriate to use because <math alttext=\"n is greater than 30\" overflow=\"scroll\"><mi>n</mi><mo>&gt;</mo><mn>30</mn></math>.",
+        "image": null
+      }
+    ],
+    "answer": "The confidence interval is not appropriate to use because <math alttext=\"250\" overflow=\"scroll\"><mn>250</mn></math> employees is more than <math alttext=\"10%\" overflow=\"scroll\"><mn>10</mn><mo>%</mo></math> of all employees at the company."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.2",
+    "text": "6.2: Constructing a Confidence Interval for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Verify that inference procedures apply in a given situation."
+  }
+}

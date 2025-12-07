@@ -1,0 +1,40 @@
+{
+  "id": "DO397311",
+  "type": "frq",
+  "title": "Bathwater",
+  "content": {
+    "description": "",
+    "question": "The temperature of water in a tub at time t is modeled by a strictly increasing, twice-differentiable function W, where W(t) is measured in degrees Fahrenheit and t is measured in minutes. At time t = 0, the temperature of the water is 55°F. The water is heated for 30 minutes, beginning at time t = 0. Values of W(t) at selected times t for the first 20 minutes are given in the table above. (a) Use the data in the table to estimate W'(12). Show the computations that lead to your answer. Using correct units, interpret the meaning of your answer in the context of this problem.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "The temperature of water in a tub at time t is modeled by a strictly increasing, twice-differentiable function W, where W(t) is measured in degrees Fahrenheit and t is measured in minutes. At time t = 0, the temperature of the water is 55°F. The water is heated for 30 minutes, beginning at time t = 0. Values of W(t) at selected times t for the first 20 minutes are given in the table above. (a) Use the data in the table to estimate W'(12). Show the computations that lead to your answer. Using correct units, interpret the meaning of your answer in the context of this problem.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Calculus_BC/original.jpg"
+      },
+      {
+        "text": "(b) Use the data in the table to evaluate <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mrow> <mn>20</mn> </mrow> </msubsup> <mrow> <msup> <mi>W</mi> <mo>′</mo> </msup> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo> <mi>d</mi> <mi>t</mi> </mrow> </mrow> </mstyle> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaa8qmaeaaqaaaaaaaaaWdbiqadEfagaqbaiaacIcacaWG0bGaaiykaiaadsgacaWG0baal8aabaGaaGimaaqaaiaaikdacaaIWaaaniabgUIiYdaaaa@3F99@</annotation> </semantics> </math>. Using correct units, interpret the meaning of <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mrow> <mn>20</mn> </mrow> </msubsup> <mrow> <msup> <mi>W</mi> <mo>′</mo> </msup> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo> <mi>d</mi> <mi>t</mi> </mrow> </mrow> </mstyle> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaa8qmaeaaqaaaaaaaaaWdbiqadEfagaqbaiaacIcacaWG0bGaaiykaiaadsgacaWG0baal8aabaGaaGimaaqaaiaaikdacaaIWaaaniabgUIiYdaaaa@3F99@</annotation> </semantics> </math> in the context of this problem.",
+        "image": null
+      },
+      {
+        "text": "(c) For <math> <semantics> <mrow> <mn>0</mn> <mo>≤</mo> <mi>t</mi> <mo>≤</mo> <mn>20</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaaIWaGaeyizImQaamiDaiabgsMiJkaaikdacaaIWaaaaa@3CA7@</annotation> </semantics> </math>, the average temperature of the water in the tub is <math> <semantics> <mrow> <mfrac> <mn>1</mn> <mrow> <mn>20</mn> </mrow> </mfrac> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mrow> <mn>20</mn> </mrow> </msubsup> <mrow> <mi>W</mi> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo> <mi>d</mi> <mi>t</mi> </mrow> </mrow> </mstyle> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaSaaaeaacaaIXaaabaGaaGOmaiaaicdaaaWaa8qmaeaaqaaaaaaaaaWdbiaadEfacaGGOaGaamiDaiaacMcacaWGKbGaamiDaaWcpaqaaiaaicdaaeaacaaIYaGaaGimaaqdcqGHRiI8aaaa@41CE@</annotation> </semantics> </math>. Use a left Riemann sum with the four subintervals indicated by the data in the table to approximate <math> <semantics> <mrow> <mfrac> <mn>1</mn> <mrow> <mn>20</mn> </mrow> </mfrac> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mrow> <mn>20</mn> </mrow> </msubsup> <mrow> <mi>W</mi> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo> <mi>d</mi> <mi>t</mi> </mrow> </mrow> </mstyle> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaWaaSaaaeaacaaIXaaabaGaaGOmaiaaicdaaaWaa8qmaeaaqaaaaaaaaaWdbiaadEfacaGGOaGaamiDaiaacMcacaWGKbGaamiDaaWcpaqaaiaaicdaaeaacaaIYaGaaGimaaqdcqGHRiI8aaaa@41CE@</annotation> </semantics> </math>. Does this approximation overestimate or underestimate the average temperature of the water over these 20 minutes? Explain your reasoning.",
+        "image": null
+      },
+      {
+        "text": "(d) For <math> <semantics> <mrow> <mn>20</mn> <mo>≤</mo> <mi>t</mi> <mo>≤</mo> <mn>25</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaGOmaiaaicdacqGHKjYOcaWG0bGaeyizImQaaGOmaiaaiwdaaaa@3D48@</annotation> </semantics> </math>, the function W that models the water temperature has first derivative given by <math> <semantics> <mrow> <msup> <mi>W</mi> <mo>′</mo> </msup> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mn>0.4</mn> <msqrt> <mi>t</mi> </msqrt> <mi>cos</mi> <mo stretchy=\"false\">(</mo> <mn>0.06</mn> <mi>t</mi> <mo stretchy=\"false\">)</mo> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGabm4vayaafaGaaiikaiaadshacaGGPaGaeyypa0JaaGimaiaac6cacaaI0aWaaOaaaeaacaWG0baaleqaaOGaci4yaiaac+gacaGGZbGaaiikaiaaicdacaGGUaGaaGimaiaaiAdacaWG0bGaaiykaaaa@4587@</annotation> </semantics> </math>. Based on the model, what is the temperature of the water at time t = 25?",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: Estimating Derivatives of a Function at a Point"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

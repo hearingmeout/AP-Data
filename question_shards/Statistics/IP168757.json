@@ -1,0 +1,45 @@
+{
+  "id": "IP168757",
+  "type": "mcq",
+  "title": "Bench press weights",
+  "content": {
+    "description": "A two-sample <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-test for a difference in means was conducted to investigate whether defensive players on a football team can bench-press more weight, on average, than offensive players. The conditions for inference were met, and the test produced a test statistic of <math alttext=\"t equals 1.083\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>1.083</mn></mrow></mstyle></math> and a <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value of 0.15.",
+    "question": "Based on the <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value and a significance level of <math alttext=\"alpha equals 0.05\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>α</mi><mo>=</mo><mn>0.05</mn></mrow></mstyle></math>, which of the following is the correct conclusion?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Reject the null hypothesis because <math alttext=\"0.15 is greater than 0.05\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.15</mn><mo>&gt;</mo><mn>0.05</mn></mrow></mstyle></math>. There is not convincing evidence that defensive players can bench-press more weight, on average, than offensive players.",
+        "image": null
+      },
+      {
+        "label": "Reject the null hypothesis because <math alttext=\"0.15 is greater than 0.05\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.15</mn><mo>&gt;</mo><mn>0.05</mn></mrow></mstyle></math>. There is convincing evidence that defensive players can bench-press more weight, on average, than offensive players.",
+        "image": null
+      },
+      {
+        "label": "Fail to reject the null hypothesis because <math alttext=\"0.15 is greater than 0.05\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.15</mn><mo>&gt;</mo><mn>0.05</mn></mrow></mstyle></math>. There is not convincing evidence that defensive players can bench-press more weight, on average, than offensive players.",
+        "image": null
+      },
+      {
+        "label": "Fail to reject the null hypothesis because <math alttext=\"0.15 is greater than 0.05\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.15</mn><mo>&gt;</mo><mn>0.05</mn></mrow></mstyle></math>. There is convincing evidence that defensive players can bench-press more weight, on average, than offensive players.",
+        "image": null
+      },
+      {
+        "label": "Fail to reject the null hypothesis because <math alttext=\"0.15 is greater than 0.05\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.15</mn><mo>&gt;</mo><mn>0.05</mn></mrow></mstyle></math>. There is convincing evidence that defensive players can bench-press the same amount of weight, on average, as offensive players.",
+        "image": null
+      }
+    ],
+    "answer": "Fail to reject the null hypothesis because <math alttext=\"0.15 is greater than 0.05\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.15</mn><mo>&gt;</mo><mn>0.05</mn></mrow></mstyle></math>. There is not convincing evidence that defensive players can bench-press more weight, on average, than offensive players."
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.9",
+    "text": "7.9: Carrying Out a Test for the Difference of Two Population Means"
+  },
+  "skill": {
+    "code": "Skill 4.E",
+    "text": "Skill 4.E: Justify a claim using a decision based on significance tests."
+  }
+}

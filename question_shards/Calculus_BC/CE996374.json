@@ -1,0 +1,41 @@
+{
+  "id": "CE996374",
+  "type": "mcq",
+  "title": "Representations - Sums as Integrals",
+  "content": {
+    "description": "",
+    "question": "Which of the following is a left Riemann sum approximation of <math alttext=\"the integral from, 1 to 7, of, open parenthesis, 4 times the natural log of x, plus 2, close parenthesis, d x\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>1</mn></mrow><mrow><mn>7</mn></mrow></msubsup><mrow><mo>(</mo><mn>4</mn><mi>ln</mi><mo>⁡</mo><mi>x</mi><mo>+</mo><mn>2</mn><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mrow></mstyle></mrow></mstyle></mrow></math> with <math alttext=\"n\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>n</mi></mrow></mstyle></math> subintervals of equal length?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the sum, from k equals 1, to n, of, open parenthesis, 4 times the natural log of, open parenthesis, 1 plus, the fraction with numerator k minus 1, and denominator n, close parenthesis, plus 2, close parenthesis, times, the fraction 1 over n, end fraction\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>n</mi></mrow></munderover><mrow><mo>(</mo><mn>4</mn><mi>ln</mi><mo>⁡</mo><mrow><mo>(</mo><mn>1</mn><mo>+</mo><mfrac><mrow><mi>k</mi><mo>−</mo><mn>1</mn></mrow><mrow><mi>n</mi></mrow></mfrac><mo>)</mo></mrow><mo>+</mo><mn>2</mn><mo>)</mo></mrow></mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mstyle></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the sum, from k equals 1, to n, of, open parenthesis, 4 times the natural log of, open parenthesis, the fraction with numerator 6 k, and denominator n, close parenthesis, plus 2, close parenthesis, times, the fraction 6 over n, end fraction\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>n</mi></mrow></munderover><mrow><mo>(</mo><mn>4</mn><mi>ln</mi><mo>⁡</mo><mrow><mo>(</mo><mfrac><mrow><mn>6</mn><mi>k</mi></mrow><mrow><mi>n</mi></mrow></mfrac><mo>)</mo></mrow><mo>+</mo><mn>2</mn><mo>)</mo></mrow></mrow><mfrac><mrow><mn>6</mn></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mstyle></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the sum, from k equals 1, to n, of, open parenthesis, 4 times the natural log of, open parenthesis, 1 plus, the fraction with numerator 6 times, open parenthesis, k minus 1, close parenthesis, and denominator n, close parenthesis, plus 2, close parenthesis, times, the fraction 6 over n, end fraction\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>n</mi></mrow></munderover><mrow><mo>(</mo><mn>4</mn><mi>ln</mi><mo>⁡</mo><mrow><mo>(</mo><mn>1</mn><mo>+</mo><mfrac><mrow><mn>6</mn><mrow><mo>(</mo><mi>k</mi><mo>−</mo><mn>1</mn><mo>)</mo></mrow></mrow><mrow><mi>n</mi></mrow></mfrac><mo>)</mo></mrow><mo>+</mo><mn>2</mn><mo>)</mo></mrow></mrow><mfrac><mrow><mn>6</mn></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mstyle></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the sum, from k equals 1, to n, of, open parenthesis, 4 times the natural log of, open parenthesis, 1 plus, the fraction with numerator 6 k, and denominator n, close parenthesis, plus 2, close parenthesis, times, the fraction 6 over n, end fraction\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>n</mi></mrow></munderover><mrow><mo>(</mo><mn>4</mn><mi>ln</mi><mo>⁡</mo><mrow><mo>(</mo><mn>1</mn><mo>+</mo><mfrac><mrow><mn>6</mn><mi>k</mi></mrow><mrow><mi>n</mi></mrow></mfrac><mo>)</mo></mrow><mo>+</mo><mn>2</mn><mo>)</mo></mrow></mrow><mfrac><mrow><mn>6</mn></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mstyle></mrow></mstyle></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the sum, from k equals 1, to n, of, open parenthesis, 4 times the natural log of, open parenthesis, 1 plus, the fraction with numerator 6 times, open parenthesis, k minus 1, close parenthesis, and denominator n, close parenthesis, plus 2, close parenthesis, times, the fraction 6 over n, end fraction\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><mstyle><mrow><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>n</mi></mrow></munderover><mrow><mo>(</mo><mn>4</mn><mi>ln</mi><mo>⁡</mo><mrow><mo>(</mo><mn>1</mn><mo>+</mo><mfrac><mrow><mn>6</mn><mrow><mo>(</mo><mi>k</mi><mo>−</mo><mn>1</mn><mo>)</mo></mrow></mrow><mrow><mi>n</mi></mrow></mfrac><mo>)</mo></mrow><mo>+</mo><mn>2</mn><mo>)</mo></mrow></mrow><mfrac><mrow><mn>6</mn></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></mstyle></mrow></mstyle></mrow></math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.3",
+    "text": "6.3: Riemann Sums, Summation Notation, and Definite Integral Notation"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

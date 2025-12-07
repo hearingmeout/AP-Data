@@ -1,0 +1,40 @@
+{
+  "id": "EA328461",
+  "type": "frq",
+  "title": "Analysis of f from Taylor Polynomial",
+  "content": {
+    "description": "",
+    "question": "Let P(x) = 7 − 3(x−4) + 5(x−4)2 − 2(x−4)3 + 6(x−4)4 be the fourth-degree Taylor polynomial for the function f about 4. Assume f has derivatives of all orders for all real numbers. (a) Find f(4) and f‴(4).",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Let P(x) = 7 − 3(x−4) + 5(x−4)2 − 2(x−4)3 + 6(x−4)4 be the fourth-degree Taylor polynomial for the function f about 4. Assume f has derivatives of all orders for all real numbers. (a) Find f(4) and f‴(4).",
+        "image": null
+      },
+      {
+        "text": "(b) Write the second-degree Taylor polynomial for f′ about 4 and use it to approximate f′(4.3).",
+        "image": null
+      },
+      {
+        "text": "(c) Write the fourth-degree Taylor polynomial for <math> <semantics> <mrow> <mi>g</mi> <mo stretchy=\"false\">(</mo> <mi>x</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>4</mn> <mi>x</mi> </msubsup> <mrow> <mi>f</mi> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo> <mi>d</mi> <mi>t</mi> </mrow> </mrow> </mstyle> </mrow> <annotation>MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaam4zaiaacI cacaWG4bGaaiykaiabg2da9maapedabaGaamOzaiaacIcacaWG0bGa aiykaiaadsgacaWG0baaleaacaaI0aaabaGaamiEaaqdcqGHRiI8aa aa@4341@</annotation> </semantics> </math> about 4.",
+        "image": null
+      },
+      {
+        "text": "(d) Can f(3) be determined from the information given? Justify your answer.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.11",
+    "text": "10.11: (BC ONLY) Finding Taylor Polynomial Approximations of Functions"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

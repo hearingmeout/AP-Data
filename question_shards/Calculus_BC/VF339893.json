@@ -1,0 +1,41 @@
+{
+  "id": "VF339893",
+  "type": "mcq",
+  "title": "Processes - Improper Integral",
+  "content": {
+    "description": "",
+    "question": "<math alttext=\"the integral from 3 to infinity, of, the fraction 1 over x cubed, end fraction, d x\" display=\"inline\" overflow=\"scroll\"><mrow><msubsup><mrow><mo stretchy=\"true\">∫</mo></mrow><mrow><mn>3</mn></mrow><mrow><mi>∞</mi></mrow></msubsup><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></math> is",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"one eighteenth\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>18</mn></mrow></mfrac></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one ninth\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>9</mn></mrow></mfrac></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"two ninths\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>2</mn></mrow><mrow><mn>9</mn></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "divergent",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"one eighteenth\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>18</mn></mrow></mfrac></mrow></math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.13",
+    "text": "6.13: (BC ONLY) Evaluating Improper Integrals"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

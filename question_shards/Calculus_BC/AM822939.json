@@ -1,0 +1,41 @@
+{
+  "id": "AM822939",
+  "type": "mcq",
+  "title": "Justification - Differentiability and Continuity",
+  "content": {
+    "description": "<math alttext=\"f of x equals, 2, for x less than 5; f of x equals, 2 x minus 4, for x greater than or equal to 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mo>{</mo><mtable columnalign=\"left\"><mtr><mtd><mn>2</mn></mtd><mtd><mrow><mtext>for</mtext><mspace></mspace><mspace width=\"0.45em\"></mspace><mi>x</mi><mo>&lt;</mo><mn>5</mn></mrow></mtd></mtr><mtr><mtd><mn>2</mn><mi>x</mi><mo>−</mo><mn>4</mn></mtd><mtd><mrow><mtext>for</mtext><mspace></mspace><mspace width=\"0.45em\"></mspace><mi>x</mi><mo>≥</mo><mn>5</mn></mrow></mtd></mtr></mtable></mrow></mstyle></math>",
+    "question": "Let <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be the function defined above. Which of the following statements is true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is not differentiable at <math alttext=\"x equals 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>5</mn></mrow></mstyle></math> because <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is not continuous at <math alttext=\"x equals 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>5</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is not differentiable at <math alttext=\"x equals 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>5</mn></mrow></mstyle></math> because the graph of <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> has a sharp corner at <math alttext=\"x equals 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>5</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is not differentiable at <math alttext=\"x equals 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>5</mn></mrow></mstyle></math> because the graph of <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> has a vertical tangent at <math alttext=\"x equals 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>5</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is not differentiable at <math alttext=\"x equals 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>5</mn></mrow></mstyle></math> because <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is not defined at <math alttext=\"x equals 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>5</mn></mrow></mstyle></math>.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is not differentiable at <math alttext=\"x equals 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>5</mn></mrow></mstyle></math> because <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is not continuous at <math alttext=\"x equals 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>5</mn></mrow></mstyle></math>."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Connecting Differentiability and Continuity - Determining When Derivatives Do and Do Not Exist"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Provide reasons or rationales for solutions and conclusions."
+  }
+}

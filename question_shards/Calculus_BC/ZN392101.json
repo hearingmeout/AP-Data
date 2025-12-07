@@ -1,0 +1,40 @@
+{
+  "id": "ZN392101",
+  "type": "frq",
+  "title": "Logistic Differential Equation",
+  "content": {
+    "description": "",
+    "question": "Consider the logistic differential equation <math> <semantics> <mrow> <mfrac> <mrow> <mi>d</mi> <mi>y</mi> </mrow> <mrow> <mi>d</mi> <mi>t</mi> </mrow> </mfrac> <mo>=</mo> <mfrac> <mi>y</mi> <mn>8</mn> </mfrac> <mo stretchy=\"false\">(</mo> <mn>6</mn> <mo>−</mo> <mi>y</mi> <mo stretchy=\"false\">)</mo> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaadaWcaaqaaiaadsgacaWG5baabaGaamizaiaadshaaaGaeyypa0ZaaSaaaeaacaWG5baabaGaaGioaaaacaGGOaGaaGOnaiabgkHiTiaadMhacaGGPaaaaa@43AF@</annotation> </semantics> </math>. Let y = f(t) be the particular solution to the differential equation with f(0) = 8. (a) A slope field for this differential equation is given below. Sketch possible solution curves through the points (3, 2) and (0, 8).",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Consider the logistic differential equation <math> <semantics> <mrow> <mfrac> <mrow> <mi>d</mi> <mi>y</mi> </mrow> <mrow> <mi>d</mi> <mi>t</mi> </mrow> </mfrac> <mo>=</mo> <mfrac> <mi>y</mi> <mn>8</mn> </mfrac> <mo stretchy=\"false\">(</mo> <mn>6</mn> <mo>−</mo> <mi>y</mi> <mo stretchy=\"false\">)</mo> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaadaWcaaqaaiaadsgacaWG5baabaGaamizaiaadshaaaGaeyypa0ZaaSaaaeaacaWG5baabaGaaGioaaaacaGGOaGaaGOnaiabgkHiTiaadMhacaGGPaaaaa@43AF@</annotation> </semantics> </math>. Let y = f(t) be the particular solution to the differential equation with f(0) = 8. (a) A slope field for this differential equation is given below. Sketch possible solution curves through the points (3, 2) and (0, 8).",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Calculus_BC/original.png"
+      },
+      {
+        "text": "(b) Use Euler’s method, starting at t = 0 with two steps of equal size, to approximate f(1).",
+        "image": null
+      },
+      {
+        "text": "(c) Write the second-degree Taylor polynomial for f about t = 0, and use it to approximate f(1).",
+        "image": null
+      },
+      {
+        "text": "(d) What is the range of f for t ≥ 0 ?",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.3",
+    "text": "7.3: Sketching Slope Fields"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

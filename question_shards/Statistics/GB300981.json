@@ -1,0 +1,45 @@
+{
+  "id": "GB300981",
+  "type": "mcq",
+  "title": "Cell phone drop",
+  "content": {
+    "description": "To test the durability of cell phone screens, phones are dropped from a height of 1 meter until they break. A random sample of 40 phones was selected from each of two manufacturers. The phones in the samples were dropped until the screens broke. The difference in the mean number of drops was recorded and used to construct the 90 percent confidence interval <math alttext=\"0.46 comma 1.82\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mn>0.46</mn><mo>,</mo><mo>⁢</mo><mn>1.82</mn><mo>)</mo></mrow></mrow></mstyle></math> to estimate the population difference in means.",
+    "question": "Consider the sampling procedure taking place repeatedly. Each time samples are selected, the phones are dropped and the statistics are used to construct a 90 percent confidence interval for the difference in means. Which of the following statements is a correct interpretation of the intervals?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Approximately 90 percent of the intervals will extend from 0.46 to 1.82.",
+        "image": null
+      },
+      {
+        "label": "Approximately 90 percent of the intervals constructed will capture the difference in sample means.",
+        "image": null
+      },
+      {
+        "label": "Approximately 90 percent of the intervals constructed will capture the difference in population means.",
+        "image": null
+      },
+      {
+        "label": "Approximately 90 percent of the intervals constructed will capture at least one of the sample means.",
+        "image": null
+      },
+      {
+        "label": "Approximately 90 percent of the intervals constructed will capture at least one of the population means.",
+        "image": null
+      }
+    ],
+    "answer": "Approximately 90 percent of the intervals constructed will capture the difference in population means."
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.7",
+    "text": "7.7: Justifying a Claim About the Difference of Two Means Based on a Confidence Interval"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

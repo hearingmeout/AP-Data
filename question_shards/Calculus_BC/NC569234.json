@@ -1,0 +1,36 @@
+{
+  "id": "NC569234",
+  "type": "frq",
+  "title": "Series associated with a function defined as an integral",
+  "content": {
+    "description": "",
+    "question": "Let f be the function given by \\(f\\left(t\\right)=\\frac{4}{1+t^2}\\) and G be the function given by \\(G\\left(x\\right)=\\int_0^xf\\left(t\\right)dt\\). (a) Find the first four nonzero terms and the general term for the power series expansion of f(t) about t = 0.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Let f be the function given by \\(f\\left(t\\right)=\\frac{4}{1+t^2}\\) and G be the function given by \\(G\\left(x\\right)=\\int_0^xf\\left(t\\right)dt\\). (a) Find the first four nonzero terms and the general term for the power series expansion of f(t) about t = 0.",
+        "image": null
+      },
+      {
+        "text": "(b) Find the first four nonzero terms and the general term for the power series expansion of G(x) about x = 0.",
+        "image": null
+      },
+      {
+        "text": "(c) Find the interval of convergence of the power series in part (b). (Your solution must include an analysis that justifies your answer.)",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.13",
+    "text": "10.13: (BC ONLY) Radius and Interval of Convergence of Power Series"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

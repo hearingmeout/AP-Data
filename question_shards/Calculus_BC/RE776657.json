@@ -1,0 +1,41 @@
+{
+  "id": "RE776657",
+  "type": "mcq",
+  "title": "Find interval for alternating series error bound",
+  "content": {
+    "description": "",
+    "question": "If the infinite series <math> <mrow> <mi>S</mi><mo>=</mo><mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>n</mi><mo>=</mo><mn>1</mn></mrow> <mi>∞</mi> </munderover> <mrow> <msup> <mrow> <mrow><mo>(</mo> <mrow> <mo>−</mo><mn>1</mn></mrow> <mo>)</mo></mrow></mrow> <mrow> <mi>n</mi><mo>+</mo><mn>1</mn></mrow> </msup> </mrow> </mstyle><mfrac> <mn>2</mn> <mi>n</mi> </mfrac> </mrow> </math> is approxiately by <math> <mrow> <msub> <mi>P</mi> <mi>k</mi> </msub> <mo>=</mo> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>n</mi> <mo>=</mo> <mn>1</mn> </mrow> <mi>k</mi> </munderover> <mrow> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <mo>−</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mrow> <mi>n</mi> <mo>+</mo> <mn>1</mn> </mrow> </msup> </mrow> </mstyle> <mfrac> <mn>2</mn> <mi>n</mi> </mfrac> </mrow> </math>, what is the least value of k for which the alternating series error bound guarantees that <math> <mrow> <mrow> <mo>|</mo> <mrow> <mi>S</mi> <mo>−</mo> <msub> <mi>P</mi> <mi>k</mi> </msub> </mrow> <mo>|</mo> </mrow> <mo>&lt;</mo> <mfrac> <mn>3</mn> <mrow> <mn>100</mn> </mrow> </mfrac> </mrow> </math>?",
+    "image": null,
+    "choices": [
+      {
+        "label": "64",
+        "image": null
+      },
+      {
+        "label": "66",
+        "image": null
+      },
+      {
+        "label": "68",
+        "image": null
+      },
+      {
+        "label": "70",
+        "image": null
+      }
+    ],
+    "answer": "66"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.10",
+    "text": "10.10: (BC ONLY) Alternating Series Error Bound"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

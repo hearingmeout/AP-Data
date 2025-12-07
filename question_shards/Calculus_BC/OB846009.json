@@ -1,0 +1,41 @@
+{
+  "id": "OB846009",
+  "type": "mcq",
+  "title": "Value of a convergent geometric series",
+  "content": {
+    "description": "",
+    "question": "To what number does the series <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>k</mi><mo>=</mo><mn>0</mn> </mrow> <mi>∞</mi> </munderover> <mrow> <msup> <mrow> <mrow><mo>(</mo> <mrow> <mfrac> <mrow> <mo>−</mo><mi>e</mi> </mrow> <mi>π</mi> </mfrac> </mrow> <mo>)</mo></mrow> </mrow> <mi>k</mi> </msup> </mrow> </mstyle> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaaeWbWdaeaapeWaaeWaa8aabaWdbmaalaaapaqaa8qacqGHsislcaWGLbaapaqaa8qacqaHapaCaaaacaGLOaGaayzkaaWdamaaCaaaleqabaWdbiaadUgaaaaapaqaa8qacaWGRbGaeyypa0JaaGimaaWdaeaapeGaeyOhIukaniabggHiLdaaaa@438F@</annotation> </semantics> </math> converge?",
+    "image": null,
+    "choices": [
+      {
+        "label": "0",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mrow> <mo>−</mo><mi>e</mi> </mrow> <mrow> <mi>π</mi><mo>+</mo><mi>e</mi> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWcaaWdaeaapeGaeyOeI0IaamyzaaWdaeaapeGaeqiWdaNaey4kaSIaamyzaaaaaaa@3BC2@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mi>π</mi> <mrow> <mi>π</mi> <mo>+</mo> <mi>e</mi> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWcaaWdaeaapeGaeqiWdahapaqaa8qacqaHapaCcqGHRaWkcaWGLbaaaaaa@3BA8@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "The series does not converge.",
+        "image": null
+      }
+    ],
+    "answer": "<math> <semantics> <mrow> <mfrac> <mi>π</mi> <mrow> <mi>π</mi> <mo>+</mo> <mi>e</mi> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWcaaWdaeaapeGaeqiWdahapaqaa8qacqaHapaCcqGHRaWkcaWGLbaaaaaa@3BA8@</annotation> </semantics> </math>"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.2",
+    "text": "10.2: (BC ONLY) Working with Geometric Series"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

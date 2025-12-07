@@ -1,0 +1,48 @@
+{
+  "id": "AP976654",
+  "type": "frq",
+  "title": "Multi-focus - difference in cat plaque table",
+  "content": {
+    "description": "",
+    "question": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations.The accumulation of plaque on the teeth of cats can be evaluated using a fluorescent light technique (<math alttext=\"F L T\" display=\"inline\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mi>F</mi><mi>L</mi><mi>T</mi></mrow></mstyle></math>), where an evaluator reviews images of the teeth and assigns an overall rating from <math alttext=\"0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0</mn></mrow></mstyle></math> to <math alttext=\"50\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>50</mn></mrow></mstyle></math>, with lower values indicating less plaque.Suppose that the probability is <math alttext=\"0.58\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.58</mn></mrow></mstyle></math> that a stray cat in a certain city has an <math alttext=\"F L T\" display=\"inline\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mi>F</mi><mi>L</mi><mi>T</mi></mrow></mstyle></math> rating of at least <math alttext=\"28\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>28</mn></mrow></mstyle></math>. Brian, a veterinarian, selected a random sample of <math alttext=\"40\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>40</mn></mrow></mstyle></math> cats from the large population of stray cats in the city and recorded the <math alttext=\"F L T\" display=\"inline\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mi>F</mi><mi>L</mi><mi>T</mi></mrow></mstyle></math> rating for each cat in the sample.(a) In the context of Brian’s sample, interpret the meaning of the value computed by <math alttext=\"0.58 to the 40 power\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mrow><mo>(</mo><mn>0.58</mn><mo>)</mo></mrow></mrow><mrow><mn>40</mn></mrow></msup></mrow></mstyle></math>.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness of your methods as well as on the accuracy and completeness of your results and explanations.The accumulation of plaque on the teeth of cats can be evaluated using a fluorescent light technique (<math alttext=\"F L T\" display=\"inline\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mi>F</mi><mi>L</mi><mi>T</mi></mrow></mstyle></math>), where an evaluator reviews images of the teeth and assigns an overall rating from <math alttext=\"0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0</mn></mrow></mstyle></math> to <math alttext=\"50\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>50</mn></mrow></mstyle></math>, with lower values indicating less plaque.Suppose that the probability is <math alttext=\"0.58\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.58</mn></mrow></mstyle></math> that a stray cat in a certain city has an <math alttext=\"F L T\" display=\"inline\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mi>F</mi><mi>L</mi><mi>T</mi></mrow></mstyle></math> rating of at least <math alttext=\"28\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>28</mn></mrow></mstyle></math>. Brian, a veterinarian, selected a random sample of <math alttext=\"40\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>40</mn></mrow></mstyle></math> cats from the large population of stray cats in the city and recorded the <math alttext=\"F L T\" display=\"inline\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mi>F</mi><mi>L</mi><mi>T</mi></mrow></mstyle></math> rating for each cat in the sample.(a) In the context of Brian’s sample, interpret the meaning of the value computed by <math alttext=\"0.58 to the 40 power\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mrow><mo>(</mo><mn>0.58</mn><mo>)</mo></mrow></mrow><mrow><mn>40</mn></mrow></msup></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "text": "The computer output below provides the summary statistics of the <math alttext=\"F L T\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mi>F</mi><mi>L</mi><mi>T</mi></mrow></mstyle></math> rating for each of the <math alttext=\"40\" overflow=\"scroll\"><mstyle><mrow><mn>40</mn></mrow></mstyle></math> cats in Brian’s sample. Mean Standard Deviation Min <math alttext=\"Q 1\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mi>Q</mi><mn>1</mn></mrow></mstyle></math> Median <math alttext=\"Q 3\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mi>Q</mi><mn>3</mn></mrow></mstyle></math> Max <math alttext=\"32\" overflow=\"scroll\"><mstyle><mrow><mn>32</mn></mrow></mstyle></math> <math alttext=\"10\" overflow=\"scroll\"><mstyle><mrow><mn>10</mn></mrow></mstyle></math> <math alttext=\"12\" overflow=\"scroll\"><mstyle><mrow><mn>12</mn></mrow></mstyle></math> <math alttext=\"25\" overflow=\"scroll\"><mstyle><mrow><mn>25</mn></mrow></mstyle></math> <math alttext=\"33\" overflow=\"scroll\"><mstyle><mrow><mn>33</mn></mrow></mstyle></math> <math alttext=\"41\" overflow=\"scroll\"><mstyle><mrow><mn>41</mn></mrow></mstyle></math> <math alttext=\"49\" overflow=\"scroll\"><mstyle><mrow><mn>49</mn></mrow></mstyle></math> (b) Would it be unusual for a cat from Brian’s sample to have an <math alttext=\"F L T\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mi>F</mi><mi>L</mi><mi>T</mi></mrow></mstyle></math> rating of <math alttext=\"14\" overflow=\"scroll\"><mstyle><mrow><mn>14</mn></mrow></mstyle></math>? Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "(c) Consider the situation where the maximum value was incorrectly recorded as <math alttext=\"49\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>49</mn></mrow></mstyle></math> and is actually <math alttext=\"46\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>46</mn></mrow></mstyle></math>. Describe the effect that a decrease in an <math alttext=\"F L T\" display=\"inline\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mi>F</mi><mi>L</mi><mi>T</mi></mrow></mstyle></math> rating from <math alttext=\"49\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>49</mn></mrow></mstyle></math> to <math alttext=\"46\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>46</mn></mrow></mstyle></math> would have on the mean and median of Brian’s sample. Explain your reasoning.",
+        "image": null
+      },
+      {
+        "text": "Brian plans to use the sample data to investigate whether there is convincing statistical evidence that all stray cats in the city have a mean <math alttext=\"F L T\" display=\"inline\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mi>F</mi><mi>L</mi><mi>T</mi></mrow></mstyle></math> rating greater than <math alttext=\"28\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>28</mn></mrow></mstyle></math>.(d) State, in words, the hypotheses for the appropriate test.",
+        "image": null
+      },
+      {
+        "text": "Assume all conditions for inference are met. The <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value of Brian’s test was approximately <math alttext=\"0.008\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.008</mn></mrow></mstyle></math>.(e) Interpret what the value <math alttext=\"0.008\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.008</mn></mrow></mstyle></math> measures in the context of the study.",
+        "image": null
+      },
+      {
+        "text": "Roy, another veterinarian, selected a new random sample from the population of all stray cats in the city and also obtained a sample mean of <math alttext=\"32\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>32</mn></mrow></mstyle></math>. He then conducted the same inference procedure as Brian had in order to investigate whether there is convincing statistical evidence that all stray cats in the city have a mean <math alttext=\"F L T\" display=\"inline\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mi>F</mi><mi>L</mi><mi>T</mi></mrow></mstyle></math> rating of greater than <math alttext=\"28\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>28</mn></mrow></mstyle></math>. The <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value of Roy’s test was approximately <math alttext=\"0.151\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0.151</mn></mrow></mstyle></math>.(f) Identify one possible difference between Brian’s and Roy’s samples that resulted in Roy’s test having a greater <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value. Explain how this difference results in a greater <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value for Roy’s test.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.7",
+    "text": "1.7: Summary Statistics for a Quantitative Variable"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Identify null and alternative hypotheses."
+  }
+}

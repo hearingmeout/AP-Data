@@ -1,0 +1,45 @@
+{
+  "id": "HC482646",
+  "type": "mcq",
+  "title": "Definite integral with rearrangements",
+  "content": {
+    "description": "",
+    "question": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\". the integral from 1 to 2 of open parentheses x minus 4 close parentheses divided by x squared with respect to x\"> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow><munderover> <mo>∫</mo> <mn>1</mn> <mn>2</mn> </munderover> <mrow> <mfrac> <mrow> <mi>x</mi><mo>−</mo><mn>4</mn></mrow> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mfrac> </mrow> </mrow> </mstyle><mi>d</mi><mi>x</mi></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWdXbWdaeaapeWaaSaaa8aabaWdbiaadIhacqGHsislcaaI0aaa paqaa8qacaWG4bWdamaaCaaaleqabaWdbiaaikdaaaaaaaWdaeaape GaaGymaaWdaeaapeGaaGOmaaqdcqGHRiI8aOGaamizaiaadIhaaaa@4133@ </annotation> </semantics> </math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" aria-label=\"negative one half\"> <semantics> <mrow> <mo>−</mo><mfrac> <mn>1</mn> <mn>2</mn> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacqGHsisldaWcaaWdaeaapeGaaGymaaWdaeaapeGaaGOmaaaaaaa@38C8@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "ln2-2",
+        "image": null
+      },
+      {
+        "label": "ln2",
+        "image": null
+      },
+      {
+        "label": "2",
+        "image": null
+      },
+      {
+        "label": "ln2+2",
+        "image": null
+      }
+    ],
+    "answer": "ln2-2"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.7",
+    "text": "6.7: The Fundamental Theorem of Calculus and Definite Integrals"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

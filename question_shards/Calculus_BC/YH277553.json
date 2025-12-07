@@ -1,0 +1,41 @@
+{
+  "id": "YH277553",
+  "type": "mcq",
+  "title": "Processes - Antidifferentiation Techniques",
+  "content": {
+    "description": "Which of the following are equivalent to <math alttext=\"the integral from, 0 to 5, of, the fraction with numerator 3 x, plus 11, and denominator x plus 2, end fraction, d x\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>5</mn></mrow></msubsup><mrow><mfrac><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mn>11</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></math> ?",
+    "question": "<math alttext=\"the fraction with numerator the integral from, 0 to 5, of, open parenthesis, 3 x, plus 11, close parenthesis, d x, and denominator the integral from, 0 to 5, of, open parenthesis, x plus 2, close parenthesis, d x, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>5</mn></mrow></msubsup><mrow><mo>(</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>11</mn><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>5</mn></mrow></msubsup><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mn>2</mn><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></mfrac></mrow></mstyle></math><math alttext=\"the integral from, 0 to 5, of, open parenthesis, 3 plus, the fraction with numerator 5, and denominator x plus 2, end fraction, close parenthesis, d x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>5</mn></mrow></msubsup><mrow><mo>(</mo><mn>3</mn><mo>+</mo><mfrac><mrow><mn>5</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></mstyle></math><math alttext=\"the integral from, 2 to 7, of, open parenthesis, 3 plus, the fraction 5 over u, close parenthesis, d u\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>2</mn></mrow><mrow><mn>7</mn></mrow></msubsup><mrow><mo>(</mo><mn>3</mn><mo>+</mo><mrow><mfrac><mrow><mn>5</mn></mrow><mrow><mi>u</mi></mrow></mfrac></mrow><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>u</mi></mrow></mrow></mstyle></mrow></mstyle></math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "I only",
+        "image": null
+      },
+      {
+        "label": "II only",
+        "image": null
+      },
+      {
+        "label": "III only",
+        "image": null
+      },
+      {
+        "label": "II and III only",
+        "image": null
+      }
+    ],
+    "answer": "II and III only"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.14",
+    "text": "6.14: Selecting Techniques for Antidifferentiation"
+  },
+  "skill": {
+    "code": "Skill 1.C",
+    "text": "Skill 1.C: Identify an appropriate mathematical rule or procedure based on the classification of a given expression (e.g., Use the chain rule to find the derivative of a composite function)."
+  }
+}

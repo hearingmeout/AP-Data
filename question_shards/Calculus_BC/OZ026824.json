@@ -1,0 +1,41 @@
+{
+  "id": "OZ026824",
+  "type": "mcq",
+  "title": "Increasing or decreasing behavior",
+  "content": {
+    "description": "",
+    "question": "The first derivative of the function f is defined by <math> <mrow> <msup> <mi>f</mi> <mo>′</mo> </msup> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mfrac> <mrow> <mi>x</mi> <mo>+</mo> <mn>2</mn> <msup> <mi>e</mi> <mrow> <mo>−</mo> <mi>x</mi> </mrow> </msup> </mrow> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>+</mo> <mn>0.7</mn> </mrow> </mfrac> </mrow> </math>. On what intervals is f increasing?",
+    "image": null,
+    "choices": [
+      {
+        "label": "−1.384 < x < −0.264 only",
+        "image": null
+      },
+      {
+        "label": "x < −0.633 and x > 0.319 only",
+        "image": null
+      },
+      {
+        "label": "−∞ < x < ∞",
+        "image": null
+      },
+      {
+        "label": "There are no intervals on which f is increasing.",
+        "image": null
+      }
+    ],
+    "answer": "−∞ < x < ∞"
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.3",
+    "text": "5.3: Determining Intervals on Which a Function Is Increasing or Decreasing"
+  },
+  "skill": {
+    "code": "Skill 2.E",
+    "text": "Skill 2.E: Describe the relationships among different representations of functions and their derivatives."
+  }
+}

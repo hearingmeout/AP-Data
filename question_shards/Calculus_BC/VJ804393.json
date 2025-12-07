@@ -1,0 +1,41 @@
+{
+  "id": "VJ804393",
+  "type": "mcq",
+  "title": "Processes - Parametric-Vector Motion",
+  "content": {
+    "description": "",
+    "question": "For time <math alttext=\"t is greater than or equal to 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>≥</mo><mn>0</mn></mrow></mstyle></math>, a particle moves with velocity vector given by <math alttext=\"v of, t, equals, open angled bracket, f of t, comma g of t, close angled bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>v</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mrow><mo>⟨</mo><mi>f</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>,</mo><mi>g</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>⟩</mo></mrow></mrow></mstyle></math>, where <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> and <math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> are continuous functions of <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>. At time <math alttext=\"t equals 3\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>3</mn></mrow></mstyle></math>, the particle is at position <math alttext=\"open parenthesis, negative 4, comma 5, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mrow><mrow><mo>−</mo><mn>4</mn></mrow></mrow><mo>,</mo><mrow><mn>5</mn></mrow><mo>)</mo></mrow></mrow></mstyle></math>. Which of the following expressions gives the particle’s position at time <math alttext=\"t equals 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>1</mn></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"open parenthesis, negative 2 times f of 3, comma negative 2 times g of 3, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mrow><mo>(</mo><mrow><mrow><mo>−</mo><mn>2</mn><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></mrow><mo>,</mo><mrow><mrow><mo>−</mo><mn>2</mn><mi>g</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></mrow><mo>)</mo></mrow></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open parenthesis, negative 4 minus 2 times f of 3, comma 5 minus 2 times g of 3, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mrow><mo>(</mo><mrow><mrow><mo>−</mo><mn>4</mn></mrow><mo>−</mo><mrow><mn>2</mn><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></mrow><mo>,</mo><mrow><mn>5</mn><mo>−</mo><mn>2</mn><mi>g</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow><mo>)</mo></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open parenthesis, the integral from, 1 to 3, of, f of t, d t, comma the integral from, 1 to 3, of, g of t, d t, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mstyle displaystyle=\"true\"><mrow><mrow><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></msubsup><mrow><mi>f</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow></mrow><mo>,</mo><mrow><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></msubsup><mrow><mi>g</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow></mrow></mrow></mstyle><mo>)</mo></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open parenthesis, negative 4, minus the integral from, 1 to 3, of, f of t, d t, comma 5 minus the integral from, 1 to 3, of, g of t, d t, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>(</mo><mrow><mo>−</mo><mn>4</mn></mrow><mo>−</mo><mstyle displaystyle=\"true\"><mrow><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></msubsup><mrow><mi>f</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow><mo>,</mo><mrow><mn>5</mn><mo>−</mo><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></msubsup><mrow><mi>g</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow></mrow></mstyle><mo>)</mo></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"open parenthesis, negative 4, minus the integral from, 1 to 3, of, f of t, d t, comma 5 minus the integral from, 1 to 3, of, g of t, d t, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>(</mo><mrow><mo>−</mo><mn>4</mn></mrow><mo>−</mo><mstyle displaystyle=\"true\"><mrow><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></msubsup><mrow><mi>f</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow><mo>,</mo><mrow><mn>5</mn><mo>−</mo><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></msubsup><mrow><mi>g</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow></mrow></mstyle><mo>)</mo></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Parametric Equations, Polar Coordinates, and Vector-Valued Functions"
+  },
+  "topic": {
+    "code": "9.6",
+    "text": "9.6: (BC ONLY) Solving Motion Problems Using Parametric and Vector-Valued Functions"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

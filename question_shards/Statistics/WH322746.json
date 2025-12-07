@@ -1,0 +1,45 @@
+{
+  "id": "WH322746",
+  "type": "mcq",
+  "title": "Social media",
+  "content": {
+    "description": "",
+    "question": "A newspaper article claims that 92 percent of teens use social media. To investigate the claim, a polling organization selected a random sample of 100 teens, and 96 teens in the sample indicated that they use social media. Given the data, why is it not appropriate to use a one-sample <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mrow><mi>z</mi></mrow></math>-test for a proportion to test the newspaper’s claim?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The random sample condition is not met.",
+        "image": null
+      },
+      {
+        "label": "The sample is more than 10% of the population.",
+        "image": null
+      },
+      {
+        "label": "The observed number of teens in the sample who do not use social media is less than 10.",
+        "image": null
+      },
+      {
+        "label": "The expected number of teens in the sample who do not use social media is less than 10.",
+        "image": null
+      },
+      {
+        "label": "The distribution of the population is not approximately normal.",
+        "image": null
+      }
+    ],
+    "answer": "The expected number of teens in the sample who do not use social media is less than 10."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.4",
+    "text": "6.4: Setting Up a Test for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Verify that inference procedures apply in a given situation."
+  }
+}

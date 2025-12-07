@@ -1,0 +1,45 @@
+{
+  "id": "IT150455",
+  "type": "mcq",
+  "title": "Watermelons",
+  "content": {
+    "description": "The distribution of weight of a small watermelon is known to have a mean of <math alttext=\"5 pounds\" display=\"inline\" overflow=\"scroll\"><mn>5</mn><mo> </mo><mtext>pounds</mtext></math> and a standard deviation of <math alttext=\"1.2 pounds\" display=\"inline\" overflow=\"scroll\"><mn>1.2</mn><mo> </mo><mtext>pounds</mtext></math>. Six small watermelons fit in a crate, and the crate weighs exactly <math alttext=\"1 pound\" display=\"inline\" overflow=\"scroll\"><mn>1</mn><mo> </mo><mtext>pound</mtext></math>.",
+    "question": "Assuming the weights of small watermelons are independent, what is the standard deviation of the total weight of a random sample of <math alttext=\"6\" display=\"inline\" overflow=\"scroll\"><mn>6</mn></math> small watermelons and the crate?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the square root of, 6 squared, times open parenthesis, 1.2, close parenthesis, squared, end root\" display=\"inline\" overflow=\"scroll\"><mrow><msqrt><mrow><msup><mrow><mn>6</mn></mrow><mrow><mn>2</mn></mrow></msup><mrow><mo>(</mo><mn>1.2</mn><msup><mrow><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow></mrow></msqrt></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"1 plus the square root of, 6 squared, times open parenthesis, 1.2, close parenthesis, squared, end root\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>1</mn><mo>+</mo><msqrt><mrow><msup><mrow><mn>6</mn></mrow><mrow><mn>2</mn></mrow></msup><mrow><mo>(</mo><mn>1.2</mn><msup><mrow><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow></mrow></msqrt></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"1 plus 6 squared, times open parenthesis, 1.2, close parenthesis, squared\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>1</mn><mo>+</mo><msup><mrow><mn>6</mn></mrow><mrow><mn>2</mn></mrow></msup><mrow><mo>(</mo><mn>1.2</mn><msup><mrow><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the square root of, 6 times open parenthesis, 1.2, close parenthesis, squared, end root\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msqrt><mrow><mn>6</mn><mrow><mo>(</mo><mn>1.2</mn><msup><mrow><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow></mrow></msqrt></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"1 plus the square root of, 6 times open parenthesis, 1.2, close parenthesis, squared, end root\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>1</mn><mo>+</mo><msqrt><mrow><mn>6</mn><mrow><mo>(</mo><mn>1.2</mn><msup><mrow><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow></mrow></msqrt></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the square root of, 6 times open parenthesis, 1.2, close parenthesis, squared, end root\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msqrt><mrow><mn>6</mn><mrow><mo>(</mo><mn>1.2</mn><msup><mrow><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow></mrow></msqrt></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.9",
+    "text": "4.9: Combining Random Variables"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Determine parameters for probability distributions."
+  }
+}

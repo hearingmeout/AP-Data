@@ -1,0 +1,45 @@
+{
+  "id": "EK081678",
+  "type": "mcq",
+  "title": "Integration of a function using partial fractions",
+  "content": {
+    "description": "",
+    "question": "<math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow><mo>∫</mo> <mrow> <mfrac> <mrow> <mn>7</mn><mi>x</mi></mrow> <mrow> <mrow><mo>(</mo> <mrow> <mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow> <mo>)</mo></mrow><mrow><mo>(</mo> <mrow> <mi>x</mi><mo>+</mo><mn>2</mn></mrow> <mo>)</mo></mrow></mrow> </mfrac> </mrow> </mrow> </mstyle><mi>d</mi><mi>x</mi><mo>=</mo></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWdbaWdaeaapeWaaSaaa8aabaWdbiaaiEdacaWG4baapaqaa8qa daqadaWdaeaapeGaaGOmaiaadIhacqGHsislcaaIZaaacaGLOaGaay zkaaWaaeWaa8aabaWdbiaadIhacqGHRaWkcaaIYaaacaGLOaGaayzk aaaaaaWcbeqab0Gaey4kIipakiaadsgacaWG4bGaeyypa0daaa@4680@ </annotation> </semantics> </math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <semantics> <mrow> <mfrac> <mn>3</mn> <mn>2</mn> </mfrac> <mi>ln</mi><mrow><mo>|</mo> <mrow> <mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow> <mo>|</mo></mrow><mo>+</mo><mn>2</mn><mi>ln</mi><mrow><mo>|</mo> <mrow> <mi>x</mi><mo>+</mo><mn>2</mn></mrow> <mo>|</mo></mrow><mo>+</mo><mi>C</mi></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaaG4maaWdaeaapeGaaGOmaaaaciGGSbGaaiOB amaaemaabaGaaGOmaiaadIhacqGHsislcaaIZaaacaGLhWUaayjcSd Gaey4kaSIaaGOmaiGacYgacaGGUbWaaqWaaeaacaWG4bGaey4kaSIa aGOmaaGaay5bSlaawIa7aiabgUcaRiaadoeaaaa@4B2F@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mn>3</mn><mi>ln</mi><mrow><mo>|</mo> <mrow> <mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow> <mo>|</mo></mrow><mo>+</mo><mn>2</mn><mi>ln</mi><mrow><mo>|</mo> <mrow> <mi>x</mi><mo>+</mo><mn>2</mn></mrow> <mo>|</mo></mrow><mo>+</mo><mi>C</mi></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaaIZaGaciiBaiaac6gadaabdaqaaiaaikdacaWG4bGaeyOeI0Ia aG4maaGaay5bSlaawIa7aiabgUcaRiaaikdaciGGSbGaaiOBamaaem aabaGaamiEaiabgUcaRiaaikdaaiaawEa7caGLiWoacqGHRaWkcaWG dbaaaa@4A25@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mn>3</mn><mi>ln</mi><mrow><mo>|</mo> <mrow> <mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow> <mo>|</mo></mrow><mo>−</mo><mn>2</mn><mi>ln</mi><mrow><mo>|</mo> <mrow> <mi>x</mi><mo>+</mo><mn>2</mn></mrow> <mo>|</mo></mrow><mo>+</mo><mi>C</mi></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaaIZaGaciiBaiaac6gadaabdaqaaiaaikdacaWG4bGaeyOeI0Ia aG4maaGaay5bSlaawIa7aiabgkHiTiaaikdaciGGSbGaaiOBamaaem aabaGaamiEaiabgUcaRiaaikdaaiaawEa7caGLiWoacqGHRaWkcaWG dbaaaa@4A30@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mo>−</mo><mfrac> <mn>6</mn> <mrow> <msup> <mrow> <mrow><mo>(</mo> <mrow> <mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow> <mo>)</mo></mrow></mrow> <mn>2</mn> </msup> </mrow> </mfrac> <mo>−</mo><mfrac> <mn>2</mn> <mrow> <msup> <mrow> <mrow><mo>(</mo> <mrow> <mi>x</mi><mo>+</mo><mn>2</mn></mrow> <mo>)</mo></mrow></mrow> <mn>2</mn> </msup> </mrow> </mfrac> <mo>+</mo><mi>C</mi></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacqGHsisldaWcaaWdaeaapeGaaGOnaaWdaeaapeWaaeWaa8aabaWd biaaikdacaWG4bGaeyOeI0IaaG4maaGaayjkaiaawMcaa8aadaahaa Wcbeqaa8qacaaIYaaaaaaakiabgkHiTmaalaaapaqaa8qacaaIYaaa paqaa8qadaqadaWdaeaapeGaamiEaiabgUcaRiaaikdaaiaawIcaca GLPaaapaWaaWbaaSqabeaapeGaaGOmaaaaaaGccqGHRaWkcaWGdbaa aa@4724@ </annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mo>−</mo><mfrac> <mn>3</mn> <mrow> <msup> <mrow> <mrow><mo>(</mo> <mrow> <mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow> <mo>)</mo></mrow></mrow> <mn>2</mn> </msup> </mrow> </mfrac> <mo>−</mo><mfrac> <mn>2</mn> <mrow> <msup> <mrow> <mrow><mo>(</mo> <mrow> <mi>x</mi><mo>+</mo><mn>2</mn></mrow> <mo>)</mo></mrow></mrow> <mn>2</mn> </msup> </mrow> </mfrac> <mo>+</mo><mi>C</mi></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacqGHsisldaWcaaWdaeaapeGaaG4maaWdaeaapeWaaeWaa8aabaWd biaaikdacaWG4bGaeyOeI0IaaG4maaGaayjkaiaawMcaa8aadaahaa Wcbeqaa8qacaaIYaaaaaaakiabgkHiTmaalaaapaqaa8qacaaIYaaa paqaa8qadaqadaWdaeaapeGaamiEaiabgUcaRiaaikdaaiaawIcaca GLPaaapaWaaWbaaSqabeaapeGaaGOmaaaaaaGccqGHRaWkcaWGdbaa aa@4721@ </annotation> </semantics> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <semantics> <mrow> <mfrac> <mn>3</mn> <mn>2</mn> </mfrac> <mi>ln</mi><mrow><mo>|</mo> <mrow> <mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow> <mo>|</mo></mrow><mo>+</mo><mn>2</mn><mi>ln</mi><mrow><mo>|</mo> <mrow> <mi>x</mi><mo>+</mo><mn>2</mn></mrow> <mo>|</mo></mrow><mo>+</mo><mi>C</mi></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWcaaWdaeaapeGaaG4maaWdaeaapeGaaGOmaaaaciGGSbGaaiOB amaaemaabaGaaGOmaiaadIhacqGHsislcaaIZaaacaGLhWUaayjcSd Gaey4kaSIaaGOmaiGacYgacaGGUbWaaqWaaeaacaWG4bGaey4kaSIa aGOmaaGaay5bSlaawIa7aiabgUcaRiaadoeaaaa@4B2F@ </annotation> </semantics> </math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.12",
+    "text": "6.12: (BC ONLY) Integrating Using Linear Partial Fractions"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

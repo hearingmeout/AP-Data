@@ -1,0 +1,41 @@
+{
+  "id": "WD739599",
+  "type": "mcq",
+  "title": "Processes - Evaluate Limits",
+  "content": {
+    "description": "",
+    "question": "<math alttext=\"the limit as x approaches 0, of, the fraction with numerator cosine x, plus, 3 times, e to the x power, and denominator 2 times, e to the x power, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>x</mi><mo>→</mo><mn>0</mn></mrow></munder><mfrac><mrow><mi>cos</mi><mo>⁡</mo><mi>x</mi><mo>+</mo><mn>3</mn><msup><mrow><mi>e</mi></mrow><mrow><mi>x</mi></mrow></msup></mrow><mrow><mn>2</mn><msup><mrow><mi>e</mi></mrow><mrow><mi>x</mi></mrow></msup></mrow></mfrac></mrow></mstyle></math> is",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"one half\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"three halves\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>3</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "2",
+        "image": null
+      },
+      {
+        "label": "nonexistent",
+        "image": null
+      }
+    ],
+    "answer": "2"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.5",
+    "text": "1.5: Determining Limits Using Algebraic Properties of Limits"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

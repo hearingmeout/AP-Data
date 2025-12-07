@@ -1,0 +1,45 @@
+{
+  "id": "GB408183",
+  "type": "mcq",
+  "title": "Limit of a piecewise function",
+  "content": {
+    "description": "<math> <semantics> <mrow> <mi> f </mi> <mtext> </mtext> <mrow> <mo> ( </mo> <mi> x </mi> <mo> ) </mo> </mrow> <mo> = </mo> <mrow> <mo> { </mo> <mrow> <mtext> </mtext> <mtable columnalign=\"left\"> <mtr columnalign=\"left\"> <mtd columnalign=\"left\"> <mrow> <mfrac> <mrow> <msup> <mi> x </mi> <mn> 2 </mn> </msup> <mo> − </mo> <mn> 4 </mn> </mrow> <mrow> <mi> x </mi> <mo> − </mo> <mn> 2 </mn> </mrow> </mfrac> </mrow> </mtd> <mtd columnalign=\"left\"> <mrow> <mtext> if&nbsp; </mtext> <mtext> </mtext> <mi> x </mi> <mo> ≠ </mo> <mn> 2 </mn> </mrow> </mtd> </mtr> <mtr columnalign=\"left\"> <mtd columnalign=\"left\"> <mrow> <mtext> </mtext> <mn> 1 </mn> </mrow> </mtd> <mtd columnalign=\"left\"> <mrow> <mtext> if&nbsp; </mtext> <mtext> </mtext> <mi> x </mi> <mo> = </mo> <mn> 2 </mn> </mrow> </mtd> </mtr> </mtable> </mrow> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\"> MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbWexLMBbXgBd9gzLbvyNv2CaeHbl7mZLdGeaGqiFC0pg9uqGr pepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=J arFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaae qabaWaaeaaeaqbaOqaaiaadAgacaaMi8+aaeWaaeaacaWG4baacaGL OaGaayzkaaGaeyypa0ZaaiqabeaacaaMc8EbaeaabiGaaaqaamaala aabaGaamiEamaaCaaaleqabaGaaGOmaaaakiabgkHiTiaaisdaaeaa caWG4bGaeyOeI0IaaGOmaaaaaeaacaqGPbGaaeOzaiaabccacaaMi8 UaamiEaiabgcMi5kaaikdaaeaacaaMc8UaaGymaaqaaiaabMgacaqG MbGaaeiiaiaayIW7caWG4bGaeyypa0JaaGOmaaaaaiaawUhaaaaa@61CD@ </annotation> </semantics> </math>",
+    "question": "Let f be the function defined above. Which of the following statements about f are true? I. f has a limit at <math> <mrow> <mi> x </mi> <mo> = </mo> <mn> 2 </mn> </mrow> </math> . II. f is continuous at <math> <mrow> <mi> x </mi> <mo> = </mo> <mn> 2 </mn> </mrow> </math> . III. f is differentiable at <math> <mrow> <mi> x </mi> <mo> = </mo> <mn> 2 </mn> </mrow> </math> .",
+    "image": null,
+    "choices": [
+      {
+        "label": "I only",
+        "image": null
+      },
+      {
+        "label": "II only",
+        "image": null
+      },
+      {
+        "label": "III only",
+        "image": null
+      },
+      {
+        "label": "I and II only",
+        "image": null
+      },
+      {
+        "label": "I, II, and III",
+        "image": null
+      }
+    ],
+    "answer": "I only"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.4",
+    "text": "2.4: Connecting Differentiability and Continuity - Determining When Derivatives Do and Do Not Exist"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Provide reasons or rationales for solutions and conclusions."
+  }
+}

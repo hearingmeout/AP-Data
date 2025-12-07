@@ -1,0 +1,45 @@
+{
+  "id": "RP254230",
+  "type": "mcq",
+  "title": "Maclaurin series for known functions",
+  "content": {
+    "description": "",
+    "question": "A function f has Maclaurin series given by <math> <semantics> <mrow> <mfrac> <mrow> <msup> <mi>x</mi> <mn>4</mn> </msup> </mrow> <mrow> <mn>2</mn> <mo>!</mo> </mrow> </mfrac> <mo>+</mo> <mfrac> <mrow> <msup> <mi>x</mi> <mn>5</mn> </msup> </mrow> <mrow> <mn>3</mn> <mo>!</mo> </mrow> </mfrac> <mo>+</mo> <mfrac> <mrow> <msup> <mi>x</mi> <mn>6</mn> </msup> </mrow> <mrow> <mn>4</mn> <mo>!</mo> </mrow> </mfrac> <mo>+</mo> <mo>⋯</mo> <mo>+</mo> <mfrac> <mrow> <msup> <mi>x</mi> <mrow> <mi>n</mi> <mo>+</mo> <mn>3</mn> </mrow> </msup> </mrow> <mrow> <mrow> <mo>(</mo> <mrow> <mi>n</mi> <mo>+</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> <mo>!</mo> </mrow> </mfrac> <mo>+</mo> <mo>⋯</mo> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbmaalaaapaqaa8qacaWG4bWdamaaCaaaleqabaWdbiaaisdaaaaak8aabaWdbiaaikdacaGGHaaaaiabgUcaRmaalaaapaqaa8qacaWG4bWdamaaCaaaleqabaWdbiaaiwdaaaaak8aabaWdbiaaiodacaGGHaaaaiabgUcaRmaalaaapaqaa8qacaWG4bWdamaaCaaaleqabaWdbiaaiAdaaaaak8aabaWdbiaaisdacaGGHaaaaiabgUcaRiabl+UimjabgUcaRmaalaaapaqaa8qacaWG4bWdamaaCaaaleqabaWdbiaad6gacqGHRaWkcaaIZaaaaaGcpaqaa8qadaqadaWdaeaapeGaamOBaiabgUcaRiaaigdaaiaawIcacaGLPaaacaGGHaaaaiabgUcaRiabl+Uimbaa@55B7@</annotation> </semantics> </math>. Which of the following is an expression for <math> <semantics> <mrow> <mi>f</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>?</mo> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbiaadAgadaqadaWdaeaapeGaamiEaaGaayjkaiaawMcaaiaac+daaaa@3D6E@</annotation> </semantics> </math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <semantics> <mrow> <mo>−</mo> <mn>3</mn> <mi>x</mi> <mi>sin</mi> <mi>x</mi> <mo>+</mo> <mn>3</mn> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbiabgkHiTiaaiodacaWG4bGaci4CaiaacMgacaGGUbGaamiEaiabgUcaRiaaiodacaWG4bWdamaaCaaaleqabaWdbiaaikdaaaaaaa@433B@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mo>−</mo> <mi>cos</mi> <mrow> <mo>(</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>)</mo> </mrow> <mo>+</mo> <mn>1</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbiabgkHiTiGacogacaGGVbGaai4Camaabmaapaqaa8qacaWG4bWdamaaCaaaleqabaWdbiaaikdaaaaakiaawIcacaGLPaaacqGHRaWkcaaIXaaaaa@422F@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mo>−</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> <mi>cos</mi> <mi>x</mi> <mo>+</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbiabgkHiTiaadIhapaWaaWbaaSqabeaapeGaaGOmaaaakiGacogacaGGVbGaai4CaiaadIhacqGHRaWkcaWG4bWdamaaCaaaleqabaWdbiaaikdaaaaaaa@42CE@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <msup> <mi>e</mi> <mi>x</mi> </msup> <mo>−</mo> <msup> <mi>x</mi> <mn>3</mn> </msup> <mo>−</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbiaadIhapaWaaWbaaSqabeaapeGaaGOmaaaakiaadwgapaWaaWbaaSqabeaapeGaamiEaaaakiabgkHiTiaadIhapaWaaWbaaSqabeaapeGaaG4maaaakiabgkHiTiaadIhapaWaaWbaaSqabeaapeGaaGOmaaaaaaa@4356@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <msup> <mi>e</mi> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </msup> <mo>−</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>−</mo> <mn>1</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbiaadwgapaWaaWbaaSqabeaapeGaamiEa8aadaahaaadbeqaa8qacaaIYaaaaaaakiabgkHiTiaadIhapaWaaWbaaSqabeaapeGaaGOmaaaakiabgkHiTiaaigdaaaa@4105@</annotation> </semantics> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <semantics> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <msup> <mi>e</mi> <mi>x</mi> </msup> <mo>−</mo> <msup> <mi>x</mi> <mn>3</mn> </msup> <mo>−</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbiaadIhapaWaaWbaaSqabeaapeGaaGOmaaaakiaadwgapaWaaWbaaSqabeaapeGaamiEaaaakiabgkHiTiaadIhapaWaaWbaaSqabeaapeGaaG4maaaakiabgkHiTiaadIhapaWaaWbaaSqabeaapeGaaGOmaaaaaaa@4356@</annotation> </semantics> </math>"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.14",
+    "text": "10.14: (BC ONLY) Finding Taylor or Maclaurin Series for a Function"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

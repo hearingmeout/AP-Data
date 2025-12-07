@@ -1,0 +1,45 @@
+{
+  "id": "EA610969",
+  "type": "mcq",
+  "title": "Syrup dropped on a turntable",
+  "content": {
+    "description": "",
+    "question": "A turntable with rotational inertia <math alttext=\"I\" overflow=\"scroll\"><mstyle><mrow><mi>I</mi></mrow></mstyle></math> is spinning on a frictionless axis at an initial angular speed of <math alttext=\"omega sub 0\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext></mtext><mi>ω</mi></mrow><mrow><mtext>o</mtext></mrow></msub></mrow></mstyle></math>. A funnel is positioned above the turntable and drops syrup in a circle onto the turntable at a radius of <math alttext=\"R\" overflow=\"scroll\"><mstyle><mrow><mi>R</mi></mrow></mstyle></math>. If the funnel drops the syrup at a rate of <math alttext=\"the fraction S k g over s\" overflow=\"scroll\"><mstyle><mrow><mi>S</mi><mtext> </mtext><mtext> kg/s</mtext></mrow></mstyle></math>, what is the speed of the turntable as a function of time?",
+    "image": "https://ap.oly.st/images/bb94dec1d7296728061e56ef484ceebf.png",
+    "choices": [
+      {
+        "label": "<math alttext=\"omega sub f equals, open parenthesis, the fraction with numerator I, and denominator I plus S t R, close parenthesis, end fraction, times omega sub 0\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mtext></mtext><mi>ω</mi></mrow><mrow><mtext>f</mtext></mrow></msub><mo>=</mo><mrow><mo>(</mo><mfrac><mrow><mi>I</mi></mrow><mrow><mi>I</mi><mo>+</mo><mi>S</mi><mi>t</mi><mi>R</mi></mrow></mfrac><mo>)</mo><mtext></mtext><msub><mrow><mi>ω</mi></mrow><mrow><mtext>o</mtext></mrow></msub></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"omega sub f equals, open parenthesis, the fraction with numerator I, and denominator I plus S R, close parenthesis, end fraction, times omega sub 0\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>ω</mi></mrow><mrow><mi>f</mi></mrow></msub><mo>=</mo><mrow><mo>(</mo><mfrac><mrow><mi>I</mi></mrow><mrow><mi>I</mi><mo>+</mo><mi>S</mi><mi>R</mi></mrow></mfrac><mo>)</mo><msub><mrow><mtext></mtext><mi>ω</mi></mrow><mrow><mtext>o</mtext></mrow></msub></mrow><mtext></mtext></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"omega sub f equals, the fraction with numerator I, and denominator, open parenthesis, I plus S t R squared, close parenthesis, end fraction, times omega sub 0\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>ω</mi></mrow><mrow><mi>f</mi></mrow></msub><mo>=</mo><mfrac><mrow><mi>I</mi></mrow><mrow><mo>(</mo><mi>I</mi><mo>+</mo><mi>S</mi><mi>t</mi><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>)</mo></mrow></mfrac><msub><mrow><mi>ω</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"omega sub f equals, the fraction with numerator 2 I, and denominator, open parenthesis, I plus S t R squared, close parenthesis, end fraction, times, open parenthesis, omega sub 0, end sub, times t, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>ω</mi></mrow><mrow><mi>f</mi></mrow></msub><mo>=</mo><mfrac><mrow><mn>2</mn><mi>I</mi></mrow><mrow><mo>(</mo><mi>I</mi><mo>+</mo><mi>S</mi><mi>t</mi><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>)</mo></mrow></mfrac><mrow><mo>(</mo><msub><mrow><mi>ω</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>t</mi><mo>)</mo></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"omega sub f equals, the fraction with numerator 2 I, and denominator, open parenthesis, I plus S t R squared, close parenthesis, times t, end fraction, times omega sub 0\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>ω</mi></mrow><mrow><mi>f</mi></mrow></msub><mo>=</mo><mfrac><mrow><mn>2</mn><mi>I</mi></mrow><mrow><mrow><mo>(</mo><mi>I</mi><mo>+</mo><mi>S</mi><mi>t</mi><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>)</mo><mi>t</mi></mrow></mrow></mfrac><msub><mrow><mi>ω</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"omega sub f equals, the fraction with numerator I, and denominator, open parenthesis, I plus S t R squared, close parenthesis, end fraction, times omega sub 0\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>ω</mi></mrow><mrow><mi>f</mi></mrow></msub><mo>=</mo><mfrac><mrow><mi>I</mi></mrow><mrow><mo>(</mo><mi>I</mi><mo>+</mo><mi>S</mi><mi>t</mi><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>)</mo></mrow></mfrac><msub><mrow><mi>ω</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.4",
+    "text": "5.4: Rotational Inertia"
+  },
+  "skill": {
+    "code": "2.A",
+    "text": "2.A: Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway."
+  }
+}

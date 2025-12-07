@@ -1,0 +1,41 @@
+{
+  "id": "GH702835",
+  "type": "mcq",
+  "title": "Representations - Behavior of Functions",
+  "content": {
+    "description": "",
+    "question": "The graph of the function <math alttext=\"f\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> defined on the closed interval <math alttext=\"open bracket, negative 2 comma 2, close bracket\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>[</mo><mrow><mo>−</mo><mn>2</mn></mrow><mo>,</mo><mn>2</mn><mo>]</mo></mrow></mrow></mstyle></math> is shown above. Let <math alttext=\"g\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> be defined by <math alttext=\"g of x, equals, the integral from, 0 to x, of, f of t, d t\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mrow><msubsup><mo>∫</mo><mrow><mn>0</mn></mrow><mrow><mi>x</mi></mrow></msubsup><mrow><mi>f</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow></mrow></mstyle></math>. On which of the following intervals is the graph of <math alttext=\"g\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> both decreasing and concave up?",
+    "image": "https://ap.oly.st/images/a66170684f6fb4241069af945e1dd5eb.png",
+    "choices": [
+      {
+        "label": "<math alttext=\"open parenthesis, negative 2 comma negative 1, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mrow><mo>−</mo><mn>2</mn></mrow><mo>,</mo><mrow><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open parenthesis, negative 1 comma 0, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mrow><mo>−</mo><mn>1</mn></mrow><mo>,</mo><mn>0</mn><mo>)</mo></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open parenthesis, 0 comma 1, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo>)</mo></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"open parenthesis, 1 comma 2, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>)</mo></mrow></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"open parenthesis, 1 comma 2, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>)</mo></mrow></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.5",
+    "text": "6.5: Interpreting the Behavior of Accumulation Functions Involving Area"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Identify how mathematical characteristics or properties of functions are related in different representations."
+  }
+}

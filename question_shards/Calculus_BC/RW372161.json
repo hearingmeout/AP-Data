@@ -1,0 +1,40 @@
+{
+  "id": "RW372161",
+  "type": "frq",
+  "title": "Graphical Analysis - Maximum-Minimum",
+  "content": {
+    "description": "",
+    "question": "NO CALCULATOR IS ALLOWED FOR THIS QUESTION.Show all of your work, even though the question may not explicitly remind you to do so. Clearly label any functions, graphs, tables, or other objects that you use. Justifications require that you give mathematical reasons, and that you verify the needed conditions under which relevant theorems, properties, definitions, or tests are applied. Your work will be scored on the correctness and completeness of your methods as well as your answers. Answers without supporting work will usually not receive credit.Unless otherwise specified, answers (numeric or algebraic) need not be simplified. If your answer is given as a decimal approximation, it should be correct to three places after the decimal point.Unless otherwise specified, the domain of a function <math alttext=\"f\" display=\"inline\" overflow=\"scroll\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi></math> is assumed to be the set of all real numbers <math alttext=\"x\" display=\"inline\" overflow=\"scroll\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math> for which <math alttext=\"f of x\" display=\"inline\" overflow=\"scroll\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mpadded><mo>(</mo><mpadded><mi>x</mi></mpadded><mo>)</mo></mpadded></math> is a real number. Let <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be the continuous function defined on the closed interval <math alttext=\"open bracket, negative 1 comma 3, close bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>[</mo><mrow><mo>−</mo><mn>1</mn></mrow><mo>,</mo><mn>3</mn><mo>]</mo></mrow></mrow></mstyle></math> whose graph, consisting of three line segments, is shown. Let <math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> be the function given by <math alttext=\"g of x equals, the integral from 0 to x, of, f of t, d t\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mrow><msubsup><mo>∫</mo><mrow><mn>0</mn></mrow><mrow><mi>x</mi></mrow></msubsup><mrow><mi>f</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow></mrow></mstyle></math>. (a) On what intervals, if any, is <math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> decreasing? Give a reason for your answer.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "NO CALCULATOR IS ALLOWED FOR THIS QUESTION.Show all of your work, even though the question may not explicitly remind you to do so. Clearly label any functions, graphs, tables, or other objects that you use. Justifications require that you give mathematical reasons, and that you verify the needed conditions under which relevant theorems, properties, definitions, or tests are applied. Your work will be scored on the correctness and completeness of your methods as well as your answers. Answers without supporting work will usually not receive credit.Unless otherwise specified, answers (numeric or algebraic) need not be simplified. If your answer is given as a decimal approximation, it should be correct to three places after the decimal point.Unless otherwise specified, the domain of a function <math alttext=\"f\" display=\"inline\" overflow=\"scroll\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi></math> is assumed to be the set of all real numbers <math alttext=\"x\" display=\"inline\" overflow=\"scroll\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math> for which <math alttext=\"f of x\" display=\"inline\" overflow=\"scroll\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>f</mi><mpadded><mo>(</mo><mpadded><mi>x</mi></mpadded><mo>)</mo></mpadded></math> is a real number. Let <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> be the continuous function defined on the closed interval <math alttext=\"open bracket, negative 1 comma 3, close bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>[</mo><mrow><mo>−</mo><mn>1</mn></mrow><mo>,</mo><mn>3</mn><mo>]</mo></mrow></mrow></mstyle></math> whose graph, consisting of three line segments, is shown. Let <math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> be the function given by <math alttext=\"g of x equals, the integral from 0 to x, of, f of t, d t\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mrow><msubsup><mo>∫</mo><mrow><mn>0</mn></mrow><mrow><mi>x</mi></mrow></msubsup><mrow><mi>f</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow><mo>ⅆ</mo><mrow><mi>t</mi></mrow></mrow></mrow></mstyle></math>. (a) On what intervals, if any, is <math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> decreasing? Give a reason for your answer.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Calculus_BC/VR595074.g09.svg"
+      },
+      {
+        "text": "(b) Find <math alttext=\"g double prime of negative one half\" display=\"inline\" overflow=\"scroll\"><msup><mi>g</mi><mrow><mo>′</mo><mo>′</mo></mrow></msup><mpadded><mo>(</mo><mpadded><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mpadded><mo>)</mo></mpadded></math>, or explain why it does not exist.",
+        "image": null
+      },
+      {
+        "text": "(c) What is the absolute minimum value of <math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> on the closed interval <math alttext=\"open bracket, negative 1 comma 3, close bracket\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>[</mo><mrow><mo>−</mo><mn>1</mn></mrow><mo>,</mo><mn>3</mn><mo>]</mo></mrow></mrow></mstyle></math> ? Justify your answer.",
+        "image": null
+      },
+      {
+        "text": "(d) Let <math alttext=\"h\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>h</mi></mrow></mstyle></math> be the function defined by <math alttext=\"h of x equals, the natural log of, open parenthesis, g of x, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>ln</mi><mo>⁡</mo><mrow><mo>(</mo><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>)</mo></mrow></mrow></mstyle></math> for <math alttext=\"0 less than x, less than 2\" display=\"inline\" overflow=\"scroll\"><mn>0</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>2</mn></math>. Find <math alttext=\"h prime of three halves\" display=\"inline\" overflow=\"scroll\"><msup><mi>h</mi><mo>′</mo></msup><mpadded><mo>(</mo><mpadded><mfrac><mn>3</mn><mn>2</mn></mfrac></mpadded><mo>)</mo></mpadded></math>.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "3",
+    "text": "3: Differentiation: Composite, Implicit, and Inverse Functions"
+  },
+  "topic": {
+    "code": "3.6",
+    "text": "3.6: Calculating Higher-Order Derivatives"
+  },
+  "skill": {
+    "code": "Skill 2.A",
+    "text": "Skill 2.A: Identify common underlying structures in problems involving different contextual situations."
+  }
+}

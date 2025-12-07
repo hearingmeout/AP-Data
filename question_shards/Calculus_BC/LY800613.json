@@ -1,0 +1,41 @@
+{
+  "id": "LY800613",
+  "type": "mcq",
+  "title": "Representations - Taylor Polynomial",
+  "content": {
+    "description": "<math alttext=\"The figure shows a 5 column table with 2 rows of data. The heading for column 1 is x. The heading for column 2 is f of x. The heading for column 3 is f prime of x. The heading for column 4 is f double prime of x. The heading for column 5 is f triple prime of x. The data in the table are as follows. Row 1. x is 0; f of x is 2; f prime of x is negative 1; f double prime of x is 3; f triple prime of x is 5. Row 2. x is 2; f of x is 3; f prime of x is negative 2; f double prime of x is 7; f triple prime of x is negative 1. \" display=\"inline\" overflow=\"scroll\"><mtable columnlines=\"solid solid solid solid none\" equalcolumns=\"true\" equalrows=\"true\" frame=\"solid\" rowlines=\"solid solid none\"><mtr><mtd><mi>x</mi></mtd><mtd><mi>f</mi><mpadded><mo>(</mo><mpadded><mi>x</mi></mpadded><mo>)</mo></mpadded></mtd><mtd><msup><mi>f</mi><mo>′</mo></msup><mpadded><mo>(</mo><mpadded><mi>x</mi></mpadded><mo>)</mo></mpadded></mtd><mtd><msup><mi>f</mi><mrow><mo>′</mo><mo>′</mo></mrow></msup><mpadded><mo>(</mo><mpadded><mi>x</mi></mpadded><mo>)</mo></mpadded></mtd><mtd><msup><mi>f</mi><mrow><mo>′</mo><mo>′</mo><mo>′</mo></mrow></msup><mpadded><mo>(</mo><mpadded><mi>x</mi></mpadded><mo>)</mo></mpadded></mtd></mtr><mtr><mtd><mn>0</mn></mtd><mtd><mn>2</mn></mtd><mtd><mo>-</mo><mn>1</mn></mtd><mtd><mn>3</mn></mtd><mtd><mn>5</mn></mtd></mtr><mtr><mtd><mn>2</mn></mtd><mtd><mn>3</mn></mtd><mtd><mo>-</mo><mn>2</mn></mtd><mtd><mn>7</mn></mtd><mtd><mo>-</mo><mn>1</mn></mtd></mtr></mtable></math>",
+    "question": "The table above gives values of a function <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> and its derivatives at selected values of <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math>. Which of the following is the third-degree Taylor polynomial for <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> about <math alttext=\"x equals 2\" display=\"inline\" overflow=\"scroll\"><mrow><mi>x</mi><mo>=</mo><mn>2</mn></mrow></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"2 minus x, plus three halves times x squared, plus five sixths times x cubed\" display=\"inline\" overflow=\"scroll\"><mrow><mn>2</mn><mo>−</mo><mi>x</mi><mo>+</mo><mstyle><mrow><mfrac><mrow><mn>3</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mstyle><mrow><mfrac><mrow><mn>5</mn></mrow><mrow><mn>6</mn></mrow></mfrac></mrow></mstyle><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"2 minus x, plus three halves times x squared, plus five thirds times x cubed\" display=\"inline\" overflow=\"scroll\"><mrow><mn>2</mn><mo>−</mo><mi>x</mi><mo>+</mo><mstyle><mrow><mfrac><mrow><mn>3</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mstyle><mrow><mfrac><mrow><mn>5</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mstyle><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"3 minus, 2 times, open parenthesis, x minus 2, close parenthesis, plus seven halves times, open parenthesis, x minus 2, close parenthesis, squared, minus one sixth times, open parenthesis, x minus 2, close parenthesis, cubed\" display=\"inline\" overflow=\"scroll\"><mrow><mn>3</mn><mo>−</mo><mn>2</mn><mrow><mo>(</mo><mi>x</mi><mo>−</mo><mn>2</mn><mo>)</mo></mrow><mo>+</mo><mstyle><mrow><mfrac><mrow><mn>7</mn></mrow><mrow><mn>2</mn></mrow></mfrac><msup><mrow><mo>(</mo><mi>x</mi><mo>−</mo><mn>2</mn><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle><mo>−</mo><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>6</mn></mrow></mfrac><msup><mrow><mo>(</mo><mi>x</mi><mo>−</mo><mn>2</mn><mo>)</mo></mrow><mrow><mn>3</mn></mrow></msup></mrow></mstyle></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"3 minus, 2 times, open parenthesis, x minus 2, close parenthesis, plus seven halves times, open parenthesis, x minus 2, close parenthesis, squared, minus one third times, open parenthesis, x minus 2, close parenthesis, cubed\" display=\"inline\" overflow=\"scroll\"><mrow><mn>3</mn><mo>−</mo><mn>2</mn><mrow><mo>(</mo><mi>x</mi><mo>−</mo><mn>2</mn><mo>)</mo></mrow><mo>+</mo><mstyle><mrow><mfrac><mrow><mn>7</mn></mrow><mrow><mn>2</mn></mrow></mfrac><msup><mrow><mo>(</mo><mi>x</mi><mo>−</mo><mn>2</mn><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle><mo>−</mo><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac><msup><mrow><mo>(</mo><mi>x</mi><mo>−</mo><mn>2</mn><mo>)</mo></mrow><mrow><mn>3</mn></mrow></msup></mrow></mstyle></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"3 minus, 2 times, open parenthesis, x minus 2, close parenthesis, plus seven halves times, open parenthesis, x minus 2, close parenthesis, squared, minus one sixth times, open parenthesis, x minus 2, close parenthesis, cubed\" display=\"inline\" overflow=\"scroll\"><mrow><mn>3</mn><mo>−</mo><mn>2</mn><mrow><mo>(</mo><mi>x</mi><mo>−</mo><mn>2</mn><mo>)</mo></mrow><mo>+</mo><mstyle><mrow><mfrac><mrow><mn>7</mn></mrow><mrow><mn>2</mn></mrow></mfrac><msup><mrow><mo>(</mo><mi>x</mi><mo>−</mo><mn>2</mn><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle><mo>−</mo><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>6</mn></mrow></mfrac><msup><mrow><mo>(</mo><mi>x</mi><mo>−</mo><mn>2</mn><mo>)</mo></mrow><mrow><mn>3</mn></mrow></msup></mrow></mstyle></mrow></math>"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.11",
+    "text": "10.11: (BC ONLY) Finding Taylor Polynomial Approximations of Functions"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "IY002076",
+  "type": "mcq",
+  "title": "Extreme Value Theorem",
+  "content": {
+    "description": "",
+    "question": "If f is a continuous function on the closed interval [a, b], which of the following must be true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "There is a number c in the open interval (a, b) such that f (c) = 0.",
+        "image": null
+      },
+      {
+        "label": "There is a number c in the open interval (a, b) such that f (a) < f (c) < f (b).",
+        "image": null
+      },
+      {
+        "label": "There is a number c in the closed interval [a, b] such that f (c) ≥ f (x) for all x in [a, b].",
+        "image": null
+      },
+      {
+        "label": "There is a number c in the open interval (a, b) such that <math> <semantics> <mrow> <msup> <mi>f</mi> <mo>′</mo> </msup> <mrow> <mo>(</mo> <mi>c</mi> <mo>)</mo> </mrow> <mo>=</mo> <mn>0</mn> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbiqadAgagaqbamaabmaapaqaa8qacaWGJbaacaGLOaGaayzkaaGaeyypa0JaaGimaaaa@3E63@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "There is a number c in the open interval (a b) such that <math> <semantics> <mrow> <msup> <mi>f</mi> <mo>′</mo> </msup> <mrow> <mo>(</mo> <mi>c</mi> <mo>)</mo> </mrow> <mo>=</mo> <mfrac> <mrow> <mi>f</mi> <mrow> <mo>(</mo> <mi>b</mi> <mo>)</mo> </mrow> <mo>−</mo> <mi>f</mi> <mrow> <mo>(</mo> <mi>a</mi> <mo>)</mo> </mrow> </mrow> <mrow> <mi>b</mi> <mo>−</mo> <mi>a</mi> </mrow> </mfrac> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiFC0pg9uqGrpepeea0dXdHaVhbbe9u8qqaqFr0xc9pk0xj9qqaqFj0dh9qq=xfr=JarFfpeea0=as0=fs0di9uqFr0=vr0=vr0db8meaabaqaciGacaGaaeqabaWaaeaaeaaakeaaqaaaaaaaaaWdbiqadAgagaqbamaabmaapaqaa8qacaWGJbaacaGLOaGaayzkaaGaeyypa0ZaaSaaa8aabaWdbiaadAgadaqadaWdaeaapeGaamOyaaGaayjkaiaawMcaaiabgkHiTiaadAgadaqadaWdaeaapeGaamyyaaGaayjkaiaawMcaaaWdaeaapeGaamOyaiabgkHiTiaadggaaaaaaa@4891@</annotation> </semantics> </math>.",
+        "image": null
+      }
+    ],
+    "answer": "There is a number c in the closed interval [a, b] such that f (c) ≥ f (x) for all x in [a, b]."
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.2",
+    "text": "5.2: Extreme Value Theorem, Global Versus Local Extrema, and Critical Points"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Provide reasons or rationales for solutions and conclusions."
+  }
+}

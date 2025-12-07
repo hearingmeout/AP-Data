@@ -1,0 +1,45 @@
+{
+  "id": "ZM261484",
+  "type": "mcq",
+  "title": "Alternating series error bound",
+  "content": {
+    "description": "",
+    "question": "The Taylor series for ln x, centered at x=1, is <math> <mrow> <mstyle displaystyle=\"true\"> <munderover> <mo>∑</mo> <mrow> <mi>n</mi> <mo>=</mo> <mn>1</mn> </mrow> <mi>∞</mi> </munderover> <mrow> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <mo>−</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mrow> <mi>n</mi> <mo>+</mo> <mn>1</mn> </mrow> </msup> </mrow> </mstyle> <mfrac> <mrow> <msup> <mrow> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>−</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mi>n</mi> </msup> </mrow> <mi>n</mi> </mfrac> </mrow> </math>. Let f be the function given by the sum of the first three nonzero terms of this series. The maximum value of <math> <mrow> <mrow> <mo>|</mo> <mrow> <mi>ln</mi> <mtext> </mtext> <mi>x</mi> <mo>−</mo> <mi>f</mi> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>|</mo> </mrow> </mrow> </math> for <math> <mrow> <mn>0.3</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>1.7</mn></mrow> </math> is",
+    "image": null,
+    "choices": [
+      {
+        "label": "0.030",
+        "image": null
+      },
+      {
+        "label": "0.039",
+        "image": null
+      },
+      {
+        "label": "0.145",
+        "image": null
+      },
+      {
+        "label": "0.153",
+        "image": null
+      },
+      {
+        "label": "0.529",
+        "image": null
+      }
+    ],
+    "answer": "0.145"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.10",
+    "text": "10.10: (BC ONLY) Alternating Series Error Bound"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

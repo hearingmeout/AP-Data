@@ -1,0 +1,45 @@
+{
+  "id": "NL326885",
+  "type": "mcq",
+  "title": "Calculate escape speed",
+  "content": {
+    "description": "",
+    "question": "The estimated mass and radius of Planet <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mi>X</mi></mrow></mstyle></math> are used to calculate the minimum escape speed, <math alttext=\"v sub c\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>v</mi></mrow><mrow><mi>c</mi></mrow></msub></mrow></mstyle></math>, for an object launched from the surface of the planet. If the actual mass and/or radius of the planet are slightly different from the estimated values, how will the actual escape speed <math alttext=\"v sub a\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>v</mi></mrow><mrow><mi>a</mi></mrow></msub></mrow></mstyle></math> for the surface of Planet <math alttext=\"X\" display=\"inline\" overflow=\"scroll\"><mstyle mathvariant=\"normal\"><mrow><mi>X</mi></mrow></mstyle></math> compare to <math alttext=\"v sub c\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>v</mi></mrow><mrow><mi>c</mi></mrow></msub></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"v sub a equals v sub c\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>v</mi></mrow><mrow><mi>a</mi></mrow></msub><mo>=</mo><msub><mrow><mi>v</mi></mrow><mrow><mi>c</mi></mrow></msub></mrow></mstyle></math> regardless of any difference in mass or radius.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"v sub a is greater than v sub c\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>v</mi></mrow><mrow><mi>a</mi></mrow></msub><mo>&gt;</mo><msub><mrow><mi>v</mi></mrow><mrow><mi>c</mi></mrow></msub></mrow></mstyle></math> if the actual mass is greater and the actual radius is less than their estimated values.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"v sub a is greater than v sub c\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>v</mi></mrow><mrow><mi>a</mi></mrow></msub><mo>&gt;</mo><msub><mrow><mi>v</mi></mrow><mrow><mi>c</mi></mrow></msub></mrow></mstyle></math> if the actual mass is less and the actual radius is greater than their estimated values.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"v sub a is less than v sub c\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>v</mi></mrow><mrow><mi>a</mi></mrow></msub><mo>&lt;</mo><msub><mrow><mi>v</mi></mrow><mrow><mi>c</mi></mrow></msub></mrow></mstyle></math> if the actual mass is greater and the actual radius is the same as their estimated values.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"v sub a is less than v sub c\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>v</mi></mrow><mrow><mi>a</mi></mrow></msub><mo>&lt;</mo><msub><mrow><mi>v</mi></mrow><mrow><mi>c</mi></mrow></msub></mrow></mstyle></math> if the actual mass is the same as and the actual radius is less than their estimated values.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"v sub a is greater than v sub c\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msub><mrow><mi>v</mi></mrow><mrow><mi>a</mi></mrow></msub><mo>&gt;</mo><msub><mrow><mi>v</mi></mrow><mrow><mi>c</mi></mrow></msub></mrow></mstyle></math> if the actual mass is greater and the actual radius is less than their estimated values."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Energy and Momentum of Rotating Systems"
+  },
+  "topic": {
+    "code": "6.6",
+    "text": "6.6: Motion of Orbiting Satellites"
+  },
+  "skill": {
+    "code": "2.C",
+    "text": "2.C: Compare physical quantities between two or more scenarios or at different times and locations in a single scenario."
+  }
+}

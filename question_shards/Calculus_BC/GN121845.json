@@ -1,0 +1,45 @@
+{
+  "id": "GN121845",
+  "type": "mcq",
+  "title": "Integration by parts",
+  "content": {
+    "description": "",
+    "question": "If ∫ f(x)sin x dx = −f(x)cos x + ∫ 3x2cosx dx, then f(x) could be",
+    "image": null,
+    "choices": [
+      {
+        "label": "3x2",
+        "image": null
+      },
+      {
+        "label": "x3",
+        "image": null
+      },
+      {
+        "label": "-x3",
+        "image": null
+      },
+      {
+        "label": "sin x",
+        "image": null
+      },
+      {
+        "label": "cos x",
+        "image": null
+      }
+    ],
+    "answer": "x3"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.11",
+    "text": "6.11: (BC ONLY) Integrating Using Integration by Parts"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

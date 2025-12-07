@@ -1,0 +1,40 @@
+{
+  "id": "DH111278",
+  "type": "frq",
+  "title": "Caren and Larry's bike trips",
+  "content": {
+    "description": "",
+    "question": "Caren rides her bicycle along a straight road from home to school, starting at home at time t = 0 minutes and arriving at school at time t = 12 minutes. During the time interval 0 ≤ t ≤ 12 minutes, her velocity v(t), in miles per minute, is modeled by the piecewise-linear function whose graph is shown above. (a) Find the acceleration of Caren's bicycle at time t = 7.5 minutes. Indicate units of measure.",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "Caren rides her bicycle along a straight road from home to school, starting at home at time t = 0 minutes and arriving at school at time t = 12 minutes. During the time interval 0 ≤ t ≤ 12 minutes, her velocity v(t), in miles per minute, is modeled by the piecewise-linear function whose graph is shown above. (a) Find the acceleration of Caren's bicycle at time t = 7.5 minutes. Indicate units of measure.",
+        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Calculus_BC/original.png"
+      },
+      {
+        "text": "(b) Using correct units, explain the meaning of <math> <mrow> <munderover> </munderover> </mrow> </math> <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo> &int; </mo> <mn> 0 </mn> <mrow> <mn> 12 </mn> </mrow> </msubsup> <mrow> <mrow> <mo> | </mo> <mrow> <mi> v </mi> <mo stretchy=\"false\"> ( </mo> <mi> t </mi> <mo stretchy=\"false\"> ) </mo> </mrow> <mo> | </mo> </mrow> </mrow> </mrow> </mstyle> <mi> d </mi> <mi> t </mi> <mtext> &thinsp; </mtext> </mrow> <annotation encoding=\"MathType-MTEF\"> MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWdXaWdaeaadaabdaqaaiaadAhacaGGOaGaamiDaiaacMcaaiaa wEa7caGLiWoaaSqaaiaaicdaaeaacaaIXaGaaGOmaaqdpeGaey4kIi pakiaadsgacaWG0bWdaiaaysW7aaa@4486@ </annotation> </semantics> </math> in terms of Caren's trip. Find the value of <math> <mrow> <munderover> </munderover> </mrow> </math> <math> <semantics> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo> &int; </mo> <mn> 0 </mn> <mrow> <mn> 12 </mn> </mrow> </msubsup> <mrow> <mrow> <mo> | </mo> <mrow> <mi> v </mi> <mo stretchy=\"false\"> ( </mo> <mi> t </mi> <mo stretchy=\"false\"> ) </mo> </mrow> <mo> | </mo> </mrow> </mrow> </mrow> </mstyle> <mi> d </mi> <mi> t </mi> <mtext> &thinsp; </mtext> </mrow> <annotation encoding=\"MathType-MTEF\"> MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qadaWdXaWdaeaadaabdaqaaiaadAhacaGGOaGaamiDaiaacMcaaiaa wEa7caGLiWoaaSqaaiaaicdaaeaacaaIXaGaaGOmaaqdpeGaey4kIi pakiaadsgacaWG0bWdaiaaysW7aaa@4486@ </annotation> </semantics> </math> .",
+        "image": null
+      },
+      {
+        "text": "(c) Shortly after leaving home, Caren realizes she left her calculus homework at home, and she returns to get it. At what time does she turn around to go back home? Give a reason for your answer.",
+        "image": null
+      },
+      {
+        "text": "(d) Larry also rides his bicycle along a straight road from home to school in 12 minutes. His velocity is modeled by the function w given by <math> <semantics> <mrow> <mi>w</mi> <mo stretchy=\"false\">(</mo> <mi>t</mi> <mo stretchy=\"false\">)</mo> <mo>=</mo> <mfrac> <mi>π</mi> <mrow> <mn>15</mn> </mrow> </mfrac> <mtext>&nbsp;sin</mtext> <mrow> <mo>(</mo> <mrow> <mfrac> <mi>π</mi> <mrow> <mn>12</mn> </mrow> </mfrac> <mi>t</mi> </mrow> <mo>)</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaam4DaiaacIcacaWG0bGaaiykaiabg2da9maalaaabaGaeqiWdahabaGaaGymaiaaiwdaaaGaaeiiaiaabohacaqGPbGaaeOBamaabmaabaWaaSaaaeaacqaHapaCaeaacaaIXaGaaGOmaaaacaWG0baacaGLOaGaayzkaaaaaa@46CB@</annotation> </semantics> </math>, where w(t) is in miles per minute for 0 ≤ t ≤ 12 minutes. Who lives closer to school: Caren or Larry? Show the work that leads to your answer.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.3",
+    "text": "2.3: Estimating Derivatives of a Function at a Point"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

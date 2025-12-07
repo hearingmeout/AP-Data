@@ -1,0 +1,45 @@
+{
+  "id": "KC592655",
+  "type": "mcq",
+  "title": "River depth",
+  "content": {
+    "description": "",
+    "question": "The least-squares regression line <math alttext=\"y hat equals 1.8 minus 0.2 times x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mover><mrow><mi>y</mi></mrow><mrow><mo>^</mo></mrow></mover><mo>⁢</mo><mo>=</mo><mn>1.8</mn><mo>−</mo><mn>0.2</mn><mi>x</mi></mrow></mstyle></math> summarizes the relationship between velocity, in feet per second, and depth, in feet, in measurements taken for a certain river, where <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> represents velocity and <math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi></mrow></mstyle></math> represents the depth of the river. What is the predicted value of <math alttext=\"y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi></mrow></mstyle></math>, in feet, when <math alttext=\"x equals 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>5</mn></mrow></mstyle></math>?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"negative 16\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>16</mn></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"negative 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>1</mn></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"negative 0.2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>0.2</mn></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "0.8",
+        "image": null
+      },
+      {
+        "label": "1.8",
+        "image": null
+      }
+    ],
+    "answer": "0.8"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.6",
+    "text": "2.6: Linear Regression Models"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}

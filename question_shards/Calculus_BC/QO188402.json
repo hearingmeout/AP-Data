@@ -1,0 +1,45 @@
+{
+  "id": "QO188402",
+  "type": "mcq",
+  "title": "Fundamental Theorem with derivative of integral",
+  "content": {
+    "description": "",
+    "question": "<math> <semantics> <mrow> <mfrac> <mi>d</mi> <mrow> <mi>d</mi> <mi>x</mi> </mrow> </mfrac> <mrow> <mo>(</mo> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </msubsup> <mrow> <mi>sin</mi> </mrow> </mrow> </mstyle> <mrow> <mo>(</mo> <mrow> <msup> <mi>t</mi> <mn>3</mn> </msup> </mrow> <mo>)</mo> </mrow> <mi>d</mi> <mi>t</mi> </mrow> <mo>)</mo> </mrow> <mo>=</mo> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qadaWcaaWdaeaapeGaamizaaWdaeaapeGaamizaiaadIhaaaWaaeWaa8aabaWdbmaapedapaqaa8qaciGGZbGaaiyAaiaac6gaaSWdaeaapeGaaGimaaWdaeaapeGaamiEa8aadaahaaadbeqaa8qacaaIYaaaaaqdcqGHRiI8aOWaaeWaa8aabaWdbiaadshapaWaaWbaaSqabeaapeGaaG4maaaaaOGaayjkaiaawMcaaiaadsgacaWG0baacaGLOaGaayzkaaGaeyypa0daaa@499D@</annotation> </semantics> </math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <semantics> <mrow> <mo>−</mo> <mi>cos</mi> <mrow> <mo>(</mo> <mrow> <msup> <mi>x</mi> <mn>6</mn> </msup> </mrow> <mo>)</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacqGHsislciGGJbGaai4BaiaacohadaqadaWdaeaapeGaamiEa8aadaahaaWcbeqaa8qacaaI2aaaaaGccaGLOaGaayzkaaaaaa@3D8F@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mi>sin</mi> <mrow> <mo>(</mo> <mrow> <msup> <mi>x</mi> <mn>3</mn> </msup> </mrow> <mo>)</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qaciGGZbGaaiyAaiaac6gadaqadaWdaeaapeGaamiEa8aadaahaaWcbeqaa8qacaaIZaaaaaGccaGLOaGaayzkaaaaaa@3CA4@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mi>sin</mi> <mrow> <mo>(</mo> <mrow> <msup> <mi>x</mi> <mn>6</mn> </msup> </mrow> <mo>)</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qaciGGZbGaaiyAaiaac6gadaqadaWdaeaapeGaamiEa8aadaahaaWcbeqaa8qacaaI2aaaaaGccaGLOaGaayzkaaaaaa@3CA7@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mn>2</mn><mi>x</mi><mi>sin</mi><mrow><mo>(</mo> <mrow> <msup> <mi>x</mi> <mn>3</mn> </msup> </mrow> <mo>)</mo></mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaaIYaGaamiEaiGacohacaGGPbGaaiOBamaabmaapaqaa8qacaWG4bWdamaaCaaaleqabaWdbiaaiodaaaaakiaawIcacaGLPaaaaaa@3E5D@</annotation> </semantics> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <semantics> <mrow> <mn>2</mn> <mi>x</mi> <mi>sin</mi> <mrow> <mo>(</mo> <mrow> <msup> <mi>x</mi> <mn>6</mn> </msup> </mrow> <mo>)</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaaIYaGaamiEaiGacohacaGGPbGaaiOBamaabmaapaqaa8qacaWG4bWdamaaCaaaleqabaWdbiaaiAdaaaaakiaawIcacaGLPaaaaaa@3E60@</annotation> </semantics> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <semantics> <mrow> <mn>2</mn> <mi>x</mi> <mi>sin</mi> <mrow> <mo>(</mo> <mrow> <msup> <mi>x</mi> <mn>6</mn> </msup> </mrow> <mo>)</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+=feaagCart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8qacaaIYaGaamiEaiGacohacaGGPbGaaiOBamaabmaapaqaa8qacaWG4bWdamaaCaaaleqabaWdbiaaiAdaaaaakiaawIcacaGLPaaaaaa@3E60@</annotation> </semantics> </math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.4",
+    "text": "6.4: The Fundamental Theorem of Calculus and Accumulation Functions"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "OS191697",
+  "type": "frq",
+  "title": "Camp Neton",
+  "content": {
+    "description": "",
+    "question": "A water tank at Camp Newton holds 1200 gallons of water at time t = 0. During the time interval 0 ≤ t ≤ 18 hours, water is pumped into the tank at the rate <math> <semantics> <mrow> <mi>W</mi><mrow><mo>(</mo> <mi>t</mi> <mo>)</mo></mrow><mo>=</mo><mn>95</mn><msqrt> <mi>t</mi> </msqrt> <mtext>&nbsp;</mtext><msup> <mrow> <mi>sin</mi></mrow> <mn>2</mn> </msup> <mrow><mo>(</mo> <mrow> <mfrac> <mi>t</mi> <mn>6</mn> </mfrac> </mrow> <mo>)</mo></mrow></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaWGxbWaaeWaa8aabaWdbiaadshaaiaawIcacaGLPaaacqGH9aqp caaI5aGaaGynamaakaaapaqaa8qacaWG0baaleqaaOGaaeiiaiGaco hacaGGPbGaaiOBa8aadaahaaWcbeqaa8qacaaIYaaaaOWaaeWaa8aa baWdbmaalaaapaqaa8qacaWG0baapaqaa8qacaaI2aaaaaGaayjkai aawMcaaaaa@4595@ </annotation> </semantics> </math> gallons per hour. During the same time interval, water is removed from the tank at the rate <math> <semantics> <mrow> <mi>R</mi> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> <mo>=</mo> <mn>275</mn> <mtext>&nbsp;</mtext> <msup> <mrow> <mi>sin</mi> </mrow> <mn>2</mn> </msup> <mrow> <mo>(</mo> <mrow> <mfrac> <mi>t</mi> <mn>3</mn> </mfrac> </mrow> <mo>)</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaWGsbWaaeWaa8aabaWdbiaadshaaiaawIcacaGLPaaacqGH9aqp caaIYaGaaG4naiaaiwdacaqGGaGaci4CaiaacMgacaGGUbWdamaaCa aaleqabaWdbiaaikdaaaGcdaqadaWdaeaapeWaaSaaa8aabaWdbiaa dshaa8aabaWdbiaaiodaaaaacaGLOaGaayzkaaaaaa@450A@ </annotation> </semantics> </math> gallons per hour. (a) Is the amount of water in the tank increasing at time t = 15? Why or why not?",
+    "image": null,
+    "frqParts": [
+      {
+        "text": "A water tank at Camp Newton holds 1200 gallons of water at time t = 0. During the time interval 0 ≤ t ≤ 18 hours, water is pumped into the tank at the rate <math> <semantics> <mrow> <mi>W</mi><mrow><mo>(</mo> <mi>t</mi> <mo>)</mo></mrow><mo>=</mo><mn>95</mn><msqrt> <mi>t</mi> </msqrt> <mtext>&nbsp;</mtext><msup> <mrow> <mi>sin</mi></mrow> <mn>2</mn> </msup> <mrow><mo>(</mo> <mrow> <mfrac> <mi>t</mi> <mn>6</mn> </mfrac> </mrow> <mo>)</mo></mrow></mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaWGxbWaaeWaa8aabaWdbiaadshaaiaawIcacaGLPaaacqGH9aqp caaI5aGaaGynamaakaaapaqaa8qacaWG0baaleqaaOGaaeiiaiGaco hacaGGPbGaaiOBa8aadaahaaWcbeqaa8qacaaIYaaaaOWaaeWaa8aa baWdbmaalaaapaqaa8qacaWG0baapaqaa8qacaaI2aaaaaGaayjkai aawMcaaaaa@4595@ </annotation> </semantics> </math> gallons per hour. During the same time interval, water is removed from the tank at the rate <math> <semantics> <mrow> <mi>R</mi> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> <mo>=</mo> <mn>275</mn> <mtext>&nbsp;</mtext> <msup> <mrow> <mi>sin</mi> </mrow> <mn>2</mn> </msup> <mrow> <mo>(</mo> <mrow> <mfrac> <mi>t</mi> <mn>3</mn> </mfrac> </mrow> <mo>)</mo> </mrow> </mrow> <annotation encoding=\"MathType-MTEF\">MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9 vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x fr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaaeaaaaaaaaa8 qacaWGsbWaaeWaa8aabaWdbiaadshaaiaawIcacaGLPaaacqGH9aqp caaIYaGaaG4naiaaiwdacaqGGaGaci4CaiaacMgacaGGUbWdamaaCa aaleqabaWdbiaaikdaaaGcdaqadaWdaeaapeWaaSaaa8aabaWdbiaa dshaa8aabaWdbiaaiodaaaaacaGLOaGaayzkaaaaaa@450A@ </annotation> </semantics> </math> gallons per hour. (a) Is the amount of water in the tank increasing at time t = 15? Why or why not?",
+        "image": null
+      },
+      {
+        "text": "(b) To the nearest whole number, how many gallons of water are in the tank at time t = 18?",
+        "image": null
+      },
+      {
+        "text": "(c) At what time t, 0 ≤ t ≤ 18, is the amount of water in the tank at an absolute minimum? Show the work that leads to your conclusion.",
+        "image": null
+      },
+      {
+        "text": "(d) For t > 18, no water is pumped into the tank, but water continues to be removed at the rate R(t) until the tank becomes empty. Let k be the time at which the tank becomes empty. Write, but do not solve, an equation involving an integral expression that can be used to find the value of k.",
+        "image": null
+      }
+    ]
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.3",
+    "text": "5.3: Determining Intervals on Which a Function Is Increasing or Decreasing"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

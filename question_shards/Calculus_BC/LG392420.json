@@ -1,0 +1,41 @@
+{
+  "id": "LG392420",
+  "type": "mcq",
+  "title": "Processes - Derivative Trig Functions",
+  "content": {
+    "description": "Below is an attempt to derive the derivative of <math alttext=\"the secant of x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>sec</mi><mo>⁡</mo><mi>x</mi></mrow></mstyle></math> using the product rule, where <math alttext=\"x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi></mrow></mstyle></math> is in the domain of <math alttext=\"the secant of x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>sec</mi><mo>⁡</mo><mi>x</mi></mrow></mstyle></math>. In which step, if any, does an error first appear?",
+    "question": "Step 1: <math alttext=\"the secant of x, times the cosine of x, equals 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>sec</mi><mo>⁡</mo><mi>x</mi><mo>⋅</mo><mi>cos</mi><mo>⁡</mo><mi>x</mi><mo>=</mo><mn>1</mn></mrow></mstyle></math>Step 2: <math alttext=\"the derivative, with respect to x, of, open parenthesis, the secant of x, times the cosine of x, close parenthesis, equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mfrac><mrow><mo>ⅆ</mo></mrow><mrow><mo>ⅆ</mo><mi>x</mi></mrow></mfrac></mrow><mrow><mo>(</mo><mi>sec</mi><mo>⁡</mo><mi>x</mi><mo>⋅</mo><mi>cos</mi><mo>⁡</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>0</mn></mrow></mstyle></math>Step 3: <math alttext=\"the derivative, with respect to x, of, open parenthesis, the secant of x, close parenthesis, times, the cosine of x, minus the secant of x, times the sine of x, equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mfrac><mrow><mo>ⅆ</mo></mrow><mrow><mo>ⅆ</mo><mi>x</mi></mrow></mfrac></mrow><mrow><mo>(</mo><mi>sec</mi><mo>⁡</mo><mi>x</mi><mo>)</mo></mrow><mo>⋅</mo><mi>cos</mi><mo>⁡</mo><mi>x</mi><mo>−</mo><mi>sec</mi><mo>⁡</mo><mi>x</mi><mo>⋅</mo><mi>sin</mi><mo>⁡</mo><mi>x</mi><mo>=</mo><mn>0</mn></mrow></mstyle></math>Step 4: <math alttext=\"the derivative, with respect to x, of the secant of x, equals, the fraction with numerator, the secant of x, times the sine of x, and denominator the cosine of x, which equals, the secant of x times the fraction, the sine of x, over the cosine of x, which equals, the secant of x, times the tangent of x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mfrac><mrow><mo>ⅆ</mo></mrow><mrow><mo>ⅆ</mo><mi>x</mi></mrow></mfrac></mrow><mrow><mo>(</mo><mi>sec</mi><mo>⁡</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>sec</mi><mo>⁡</mo><mi>x</mi><mo>⋅</mo><mi>sin</mi><mo>⁡</mo><mi>x</mi></mrow><mrow><mi>cos</mi><mo>⁡</mo><mi>x</mi></mrow></mfrac><mo>=</mo><mi>sec</mi><mo>⁡</mo><mi>x</mi><mo>⋅</mo><mfrac><mrow><mi>sin</mi><mo>⁡</mo><mi>x</mi></mrow><mrow><mi>cos</mi><mo>⁡</mo><mi>x</mi></mrow></mfrac><mo>=</mo><mi>sec</mi><mo>⁡</mo><mi>x</mi><mo>⋅</mo><mi>tan</mi><mo>⁡</mo><mi>x</mi></mrow></mstyle></math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "Step 1",
+        "image": null
+      },
+      {
+        "label": "Step 2",
+        "image": null
+      },
+      {
+        "label": "Step 3",
+        "image": null
+      },
+      {
+        "label": "There is no error.",
+        "image": null
+      }
+    ],
+    "answer": "There is no error."
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.10",
+    "text": "2.10: Finding the Derivatives of Tangent, Cotangent, Secant, and/or Cosecant Functions"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "YO470963",
+  "type": "mcq",
+  "title": "Charity Fundraiser",
+  "content": {
+    "description": "A raffle for a charity fund-raiser is being planned. Each of <math alttext=\"2000\" display=\"inline\" overflow=\"scroll\"><mn>2000</mn></math> raffle tickets will be sold for <math alttext=\"$1.00\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>$</mi><mn>1.00</mn></mrow></mstyle></math>. The holders of <math alttext=\"32\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>32</mn></mrow></mstyle></math> winning tickets will each win a prize. The table shows the prize values and the number of prizes for each value.",
+    "question": "Prize Value Number of Prizes <math alttext=\"$25\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.4em\"></mspace><mtext>$</mtext><mn>25</mn></mrow></mstyle></math> <math alttext=\"20\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>20</mn></mrow></mstyle></math> <math alttext=\"$50\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.4em\"></mspace><mtext>$50</mtext></mrow></mstyle></math> <math alttext=\"10\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>10</mn></mrow></mstyle></math> <math alttext=\"$300\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>$</mtext><mn>300</mn></mrow></mstyle></math> <math alttext=\"2\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.4em\"></mspace><mn>2</mn></mrow></mstyle></math> The random variable <math alttext=\"W\" display=\"inline\" overflow=\"scroll\"><mi>W</mi></math> represents the value of the prize won for a single ticket minus the cost of the ticket. What is the expected value of <math alttext=\"W\" display=\"inline\" overflow=\"scroll\"><mi>W</mi></math>?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"negative $1.00\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mi>$</mi><mn>1.00</mn></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"negative $0.20\" display=\"inline\" overflow=\"scroll\"><mo>−</mo><mi>$</mi><mn>0.20</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"$0.80\" display=\"inline\" overflow=\"scroll\"><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.8em\"></mspace><mi>$</mi><mn>0.80</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"$49.00\" display=\"inline\" overflow=\"scroll\"><mspace depth=\"0.0ex\" height=\"0.0ex\" width=\"0.4em\"></mspace><mi>$</mi><mn>49.00</mn></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"$124.00\" display=\"inline\" overflow=\"scroll\"><mi>$</mi><mn>124.00</mn></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"negative $0.20\" display=\"inline\" overflow=\"scroll\"><mo>−</mo><mi>$</mi><mn>0.20</mn></math>"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.8",
+    "text": "4.8: Mean and Standard Deviation of Random Variables"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Determine parameters for probability distributions."
+  }
+}

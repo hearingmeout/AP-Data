@@ -1,0 +1,45 @@
+{
+  "id": "OQ327420",
+  "type": "mcq",
+  "title": "Population of a city based on density rate",
+  "content": {
+    "description": "",
+    "question": "A city located beside a river has a rectangular boundary as shown in the figure above. The population density of the city at any point along a strip x miles from the river’s edge is f(x) persons per square mile. Which of the following expressions gives the population of the city?",
+    "image": "https://ap.oly.st/images/1e3fe54bbb1bf737c7169ff9e7d6466f.png",
+    "choices": [
+      {
+        "label": "<math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>4</mn> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>d</mi><mi>x</mi></mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mn>7</mn><mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>4</mn> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>d</mi><mi>x</mi></mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mn>28</mn><mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>4</mn> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>d</mi><mi>x</mi></mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>7</mn> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>d</mi><mi>x</mi></mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mn>4</mn><mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>7</mn> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>d</mi><mi>x</mi></mrow> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <mrow> <mn>7</mn><mstyle displaystyle=\"true\"> <mrow> <msubsup> <mo>∫</mo> <mn>0</mn> <mn>4</mn> </msubsup> <mi>f</mi> </mrow> </mstyle><mrow><mo>(</mo> <mi>x</mi> <mo>)</mo></mrow><mi>d</mi><mi>x</mi></mrow> </math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.4",
+    "text": "6.4: The Fundamental Theorem of Calculus and Accumulation Functions"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate mathematical rule or procedure based on the relationship between concepts (e.g., rate of change and accumulation) or processes (e.g., differentiation and its inverse process, anti-differentiation) to solve problems."
+  }
+}

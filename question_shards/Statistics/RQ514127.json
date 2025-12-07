@@ -1,0 +1,45 @@
+{
+  "id": "RQ514127",
+  "type": "mcq",
+  "title": "Driver education test",
+  "content": {
+    "description": "",
+    "question": "A driving instructor is investigating whether the time a driver spends in a driver’s education course improves their score on the driver’s test. The instructor randomly selected 10 drivers from a driver’s education course and recorded the number of hours each driver attended the driver’s education course and their corresponding score on the driver’s test. Assuming all conditions for inference are met, which of the following significance tests should be used for the investigation?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A chi-square test of independence",
+        "image": null
+      },
+      {
+        "label": "A two-sample <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-test for a difference between means",
+        "image": null
+      },
+      {
+        "label": "A two-sample <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math>-test for a difference between proportions",
+        "image": null
+      },
+      {
+        "label": "A linear regression <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-test for slope",
+        "image": null
+      },
+      {
+        "label": "A matched pairs <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-test for a mean difference",
+        "image": null
+      }
+    ],
+    "answer": "A linear regression <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>-test for slope"
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Inference for Quantitative Data-Slopes"
+  },
+  "topic": {
+    "code": "9.4",
+    "text": "9.4: Setting Up a Test for the Slope of a Regression Model"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Identify an appropriate inference method for significance tests."
+  }
+}

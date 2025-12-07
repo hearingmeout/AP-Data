@@ -1,0 +1,45 @@
+{
+  "id": "BL884102",
+  "type": "mcq",
+  "title": "Stopping Distance",
+  "content": {
+    "description": "An engineer wanted to investigate the relationship between total stopping distance required (reaction distance and actual breaking distance) and speed of a car. The engineer completed an experiment measuring the total stopping distance of the car at <math alttext=\"5\" overflow=\"scroll\"><mstyle><mrow><mn>5</mn></mrow></mstyle></math> different speeds, and the resulting regression output is shown below.",
+    "question": "Predictor <math alttext=\"Coefficient\" overflow=\"scroll\"><mstyle><mrow><mtext>Coef</mtext></mrow></mstyle></math> <math alttext=\"Standard Error\" overflow=\"scroll\"><mstyle><mrow><mtext>SE</mtext></mrow></mstyle></math><math alttext=\"Coefficient\" overflow=\"scroll\"><mstyle><mrow><mtext>Coef</mtext></mrow></mstyle></math> <math alttext=\"T\" overflow=\"scroll\"><mstyle><mrow><mtext>T</mtext></mrow></mstyle></math> <math alttext=\"P\" overflow=\"scroll\"><mstyle><mrow><mtext>P</mtext></mrow></mstyle></math> Constant <math alttext=\"negative 284.29\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>284.29</mn></mrow></mrow></mstyle></math> <math alttext=\"63.032\" overflow=\"scroll\"><mstyle><mrow><mn>63.032</mn></mrow></mstyle></math> <math alttext=\"negative 4.51\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>−</mo><mn>4.51</mn></mrow></mrow></mstyle></math> <math alttext=\"0.0204\" overflow=\"scroll\"><mstyle><mrow><mn>0.0204</mn></mrow></mstyle></math> Speed <math alttext=\"11.905\" overflow=\"scroll\"><mstyle><mrow><mn>11.905</mn></mrow></mstyle></math> <math alttext=\"1.220\" overflow=\"scroll\"><mstyle><mrow><mn>1.220</mn></mrow></mstyle></math> <math alttext=\"9.76\" overflow=\"scroll\"><mstyle><mrow><mn>9.76</mn></mrow></mstyle></math> <math alttext=\"0.0023\" overflow=\"scroll\"><mstyle><mrow><mn>0.0023</mn></mrow></mstyle></math> <math alttext=\"S equals 35.56\" overflow=\"scroll\"><mstyle><mrow><mtext>S</mtext><mo>=</mo><mn>35.56</mn></mrow></mstyle></math> <math alttext=\"R square equals 96.9%\" overflow=\"scroll\"><mstyle><mrow><mtext>R-sq</mtext><mo>=</mo><mn>96.9</mn><mo>%</mo></mrow></mstyle></math> <math alttext=\"R square, adjusted, equals 95.9%\" overflow=\"scroll\"><mstyle><mrow><mtext>R-sq (adj)</mtext><mo>=</mo><mn>95.9</mn><mo>%</mo></mrow></mstyle></math> Assume the conditions for inference are met. Which of the following represents a <math alttext=\"95\" overflow=\"scroll\"><mstyle><mrow><mn>95</mn></mrow></mstyle></math> percent confidence interval for the slope of the regression line?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"11.905 plus or minus, 3.182 times 1.220\" overflow=\"scroll\"><mstyle><mrow><mn>11.905</mn><mo>±</mo><mn>3.182</mn><mrow><mo>(</mo><mn>1.220</mn><mo>)</mo></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"11.905 plus or minus, 3.182 times the fraction 1.220 over the square root of 5\" overflow=\"scroll\"><mstyle><mrow><mn>11.905</mn><mo>±</mo><mn>3.182</mn><mrow><mo>(</mo><mfrac><mrow><mn>1.220</mn></mrow><mrow><msqrt><mrow><mn>5</mn></mrow></msqrt></mrow></mfrac><mo>)</mo></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"11.905 plus or minus, 3.182 times the fraction 1.220 over the square root of 4\" overflow=\"scroll\"><mstyle><mrow><mn>11.905</mn><mo>±</mo><mn>3.182</mn><mrow><mo>(</mo><mfrac><mrow><mn>1.220</mn></mrow><mrow><msqrt><mrow><mn>4</mn></mrow></msqrt></mrow></mfrac><mo>)</mo></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"11.905 plus or minus, 2.776 times 1.220\" overflow=\"scroll\"><mstyle><mrow><mn>11.905</mn><mo>±</mo><mn>2.776</mn><mrow><mo>(</mo><mn>1.220</mn><mo>)</mo></mrow></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"11.905 plus or minus, 2.776 times the fraction 1.220, over the square root of 5\" overflow=\"scroll\"><mstyle><mrow><mn>11.905</mn><mo>±</mo><mn>2.776</mn><mrow><mo>(</mo><mfrac><mrow><mn>1.220</mn></mrow><mrow><msqrt><mrow><mn>5</mn></mrow></msqrt></mrow></mfrac><mo>)</mo></mrow></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"11.905 plus or minus, 3.182 times 1.220\" overflow=\"scroll\"><mstyle><mrow><mn>11.905</mn><mo>±</mo><mn>3.182</mn><mrow><mo>(</mo><mn>1.220</mn><mo>)</mo></mrow></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "9",
+    "text": "9: Inference for Quantitative Data-Slopes"
+  },
+  "topic": {
+    "code": "9.2",
+    "text": "9.2: Confidence Intervals for the Slope of a Regression Model"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Construct a confidence interval, provided conditions for inference are met."
+  }
+}

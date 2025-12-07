@@ -1,0 +1,45 @@
+{
+  "id": "EY053428",
+  "type": "mcq",
+  "title": "Effect of addition on home area data variability",
+  "content": {
+    "description": "Data on homes recently sold in a certain town included the area of the home, reported in square feet. The table below shows summary statistics of the reported areas, in square feet.",
+    "question": "An auditor determined that an error was made in the reported areas and that all of the areas should have been 100 square feet greater than what was reported. The areas were corrected and new summary statistics were reported. What are the interquartile range (IQR) and the standard deviation of the corrected areas?",
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Statistics/a8e376df103a346d51182beee9bef492.png",
+    "choices": [
+      {
+        "label": "IQR 102, standard deviation 61.0723",
+        "image": null
+      },
+      {
+        "label": "IQR 102, standard deviation 161.0723",
+        "image": null
+      },
+      {
+        "label": "IQR 202, standard deviation 61.0723",
+        "image": null
+      },
+      {
+        "label": "IQR 202, standard deviation 161.0723",
+        "image": null
+      },
+      {
+        "label": "IQR 187, standard deviation 61.0723",
+        "image": null
+      }
+    ],
+    "answer": "IQR 102, standard deviation 61.0723"
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Exploring One-Variable Data"
+  },
+  "topic": {
+    "code": "1.7",
+    "text": "1.7: Summary Statistics for a Quantitative Variable"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "DS981917",
+  "type": "mcq",
+  "title": "Representations - Maclaurin Series",
+  "content": {
+    "description": "",
+    "question": "The series <math alttext=\"x plus, x cubed, plus the fraction with numerator x raised to the fifth power, and denominator 2 factorial, end fraction, plus the fraction with numerator x to the seventh power, and denominator 3 factorial, end fraction, plus dot dot dot, plus the fraction with numerator x raised to the 2 n plus 1 power, and denominator n factorial, end fraction, plus dot dot dot\" display=\"inline\" overflow=\"scroll\"><mrow><mi>x</mi><mo>+</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup><mo>+</mo><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>5</mn></mrow></msup></mrow><mrow><mn>2</mn><mo>!</mo></mrow></mfrac><mo>+</mo><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>7</mn></mrow></msup></mrow><mrow><mn>3</mn><mo>!</mo></mrow></mfrac><mo>+</mo><mo>⋯</mo><mo>+</mo><mstyle displaystyle=\"true\"><mrow><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msup></mrow><mrow><mi>n</mi><mo>!</mo></mrow></mfrac><mo>+</mo><mo>⋯</mo></mrow></mstyle></mrow></mstyle></mrow></mstyle></mrow></math> is the Maclaurin series for what function?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"sine x\" display=\"inline\" overflow=\"scroll\"><mrow><mi>sin</mi><mo>⁡</mo><mi>x</mi></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the sine of negative x\" display=\"inline\" overflow=\"scroll\"><mrow><mi>sin</mi><mo>⁡</mo><mrow><mo>(</mo><mrow><mo>−</mo><mi>x</mi></mrow><mo>)</mo></mrow></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"x times, e raised to the x squared power\" display=\"inline\" overflow=\"scroll\"><mrow><mi>x</mi><mo>⁢</mo><msup><mrow><mi>e</mi></mrow><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></msup></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"x times, cosine x\" display=\"inline\" overflow=\"scroll\"><mrow><mi>x</mi><mi>cos</mi><mo>⁡</mo><mi>x</mi></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"x times, e raised to the x squared power\" display=\"inline\" overflow=\"scroll\"><mrow><mi>x</mi><mo>⁢</mo><msup><mrow><mi>e</mi></mrow><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></msup></mrow></math>"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.14",
+    "text": "10.14: (BC ONLY) Finding Taylor or Maclaurin Series for a Function"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "EO090510",
+  "type": "mcq",
+  "title": "Internet Connectivity Problems",
+  "content": {
+    "description": "It is known that <math alttext=\"75\" overflow=\"scroll\"><mn>75</mn></math> percent of all households in the United States have intermittent Internet connectivity problems.",
+    "question": "For random samples of <math alttext=\"450\" overflow=\"scroll\"><mn>450</mn></math> independent households in the United States, what are the mean, <math alttext=\"mu\" overflow=\"scroll\"><mi>μ</mi></math>, and standard deviation, <math alttext=\"sigma\" overflow=\"scroll\"><mi>σ</mi></math>, of the distribution of the number of households that have intermittent Internet connectivity problems?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"mu equals, 450 times 0.25\" overflow=\"scroll\"> <mi>μ</mi> <mo>=</mo> <mn>450</mn> <mpadded> <mo>(</mo> <mn>0.25</mn> <mo>)</mo> </mpadded> </math>, <math alttext=\"sigma equals, the square root of, 450 times 0.25, times 0.75, end root\" overflow=\"scroll\"> <mi>σ</mi> <mo>=</mo> <msqrt> <mn>450</mn> <mpadded> <mo>(</mo> <mn>0.25</mn> <mo>)</mo> <mpadded> <mo>(</mo> <mn>0.75</mn> <mo>)</mo> </mpadded> </mpadded> </msqrt> </math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"mu equals, 450 times 0.75\" overflow=\"scroll\"> <mi>μ</mi> <mo>=</mo> <mn>450</mn> <mpadded> <mo>(</mo> <mn>0.75</mn> <mo>)</mo> </mpadded> </math>, <math alttext=\"sigma equals, the square root of, 450 times 0.75, times 0.25, end root\" overflow=\"scroll\"> <mi>σ</mi> <mo>=</mo> <msqrt> <mn>450</mn> <mpadded> <mo>(</mo> <mn>0.75</mn> <mo>)</mo> <mpadded> <mo>(</mo> <mn>0.25</mn> <mo>)</mo> </mpadded> </mpadded> </msqrt> </math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"mu equals, 450 times 0.25, times 0.75\" overflow=\"scroll\"> <mi>μ</mi> <mo>=</mo> <mn>450</mn> <mpadded> <mo>(</mo> <mn>0.25</mn> <mo>)</mo> </mpadded> <mpadded> <mo>(</mo> <mpadded> <mn>0.75</mn> </mpadded> <mo>)</mo> </mpadded> </math>, <math alttext=\"sigma equals, the square root of, the fraction with numerator, 0.25 times 0.75, and denominator 450, end fraction, end root\" overflow=\"scroll\"> <mi>σ</mi> <mo>=</mo> <msqrt> <mfrac> <mpadded> <mo>(</mo> <mpadded> <mn>0.25</mn> </mpadded> <mo>)</mo> <mpadded> <mo>(</mo> <mpadded> <mn>0.75</mn> </mpadded> <mo>)</mo> </mpadded> </mpadded> <mn>450</mn> </mfrac> </msqrt> </math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"mu equals, 450 times 0.25, times 0.75\" overflow=\"scroll\"><mi>μ</mi><mo>=</mo><mn>450</mn><mpadded><mo>(</mo><mn>0.25</mn><mo>)</mo></mpadded><mpadded><mo>(</mo><mpadded><mn>0.75</mn></mpadded><mo>)</mo></mpadded></math>, <math alttext=\"sigma equals, the square root of, 450 times 0.25, times 0.75, end root\" overflow=\"scroll\"><mi>σ</mi><mo>=</mo><msqrt><mn>450</mn><mpadded><mo>(</mo><mn>0.25</mn><mo>)</mo><mpadded><mo>(</mo><mn>0.75</mn><mo>)</mo></mpadded></mpadded></msqrt></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"mu equals 0.75\" overflow=\"scroll\"><mi>μ</mi><mo>=</mo><mn>0.75</mn></math>, <math alttext=\"sigma equals, the square root of, the fraction with numerator, 0.75 times 0.25, and denominator 450, end fraction, end root\" overflow=\"scroll\"><mi>σ</mi><mo>=</mo><msqrt><mfrac><mpadded><mo>(</mo><mpadded><mn>0.75</mn></mpadded><mo>)</mo><mpadded><mo>(</mo><mpadded><mn>0.25</mn></mpadded><mo>)</mo></mpadded></mpadded><mn>450</mn></mfrac></msqrt></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"mu equals, 450 times 0.75\" overflow=\"scroll\"> <mi>μ</mi> <mo>=</mo> <mn>450</mn> <mpadded> <mo>(</mo> <mn>0.75</mn> <mo>)</mo> </mpadded> </math>, <math alttext=\"sigma equals, the square root of, 450 times 0.75, times 0.25, end root\" overflow=\"scroll\"> <mi>σ</mi> <mo>=</mo> <msqrt> <mn>450</mn> <mpadded> <mo>(</mo> <mn>0.75</mn> <mo>)</mo> <mpadded> <mo>(</mo> <mn>0.25</mn> <mo>)</mo> </mpadded> </mpadded> </msqrt> </math>"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Probability, Random Variables, and Probability Distributions"
+  },
+  "topic": {
+    "code": "4.11",
+    "text": "4.11: Parameters for a Binomial Distribution"
+  },
+  "skill": {
+    "code": "Skill 3.B",
+    "text": "Skill 3.B: Determine parameters for probability distributions."
+  }
+}
