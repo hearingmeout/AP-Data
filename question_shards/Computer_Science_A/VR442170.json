@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "numbers array arithmetic",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "int[] numbers = new int[5]; numbers[0] = 2; numbers[1] = numbers[0] + 1; numbers[numbers[0]] = numbers[1]; for (int x = 3; x < numbers.length; x++) { numbers[x] = numbers[x - 1] * 2; } Which of the following represents the contents of the array numbers after the code segment is executed?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nint[] numbers = new int[5];\n\nnumbers[0] = 2;\n\nnumbers[1] = numbers[0] + 1;\n\nnumbers[numbers[0]] = numbers[1];\n\nfor (int x = 3; x < numbers.length; x++)\n\n{\n\nnumbers[x] = numbers[x - 1] * 2;\n\n}\n\nWhich of the following represents the contents of the array numbers after the code segment is executed?",
     "image": null,
     "choices": [
       {

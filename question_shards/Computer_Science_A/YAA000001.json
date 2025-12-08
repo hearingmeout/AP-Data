@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Substrings within while loop - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment. \n String str = \"lookout\";\nString target = \"o\";\nint j = str.indexOf(target);\nwhile (j >= 0)\n{ \n str = str.substring(j);\n System.out.print(str + \" \");\n\nstr = str.substring(1);\n j = str.indexOf(target);\n}",
     "question": "What is printed as a result of executing this code segment?",
     "image": null,
     "choices": [

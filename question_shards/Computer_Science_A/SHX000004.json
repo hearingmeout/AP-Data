@@ -3,20 +3,20 @@
   "type": "mcq",
   "title": "doWhat method return value- describe behavior",
   "content": {
-    "description": "",
-    "question": "Which of the following best describes the value, if any, returned from a call to doWhat?",
+    "description": "Consider the following method.\n /** Precondition: num > 0 */\npublic static int doWhat(int num)\n{\n int var = 0;\n for (int loop = 1; loop <= num; loop = loop + 2)\n {\n var += loop;\n }\n return var;\n}",
+    "question": "Which of the following best describes the value, if any, returned from a call to  doWhat?",
     "image": null,
     "choices": [
       {
-        "label": "The sum of all integers between 1 and num, inclusive",
+        "label": "The sum of all integers between  1  and  num,  inclusive",
         "image": null
       },
       {
-        "label": "The sum of all even integers between 1 and num, inclusive",
+        "label": "The sum of all even integers between  1  and  num,  inclusive",
         "image": null
       },
       {
-        "label": "The sum of all odd integers between 1 and num, inclusive",
+        "label": "The sum of all odd integers between  1  and  num,  inclusive",
         "image": null
       },
       {
@@ -24,7 +24,7 @@
         "image": null
       }
     ],
-    "answer": "The sum of all odd integers between 1 and num, inclusive"
+    "answer": "The sum of all odd integers between  1  and  num,  inclusive"
   },
   "unit": {
     "code": "2",

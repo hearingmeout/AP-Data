@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Date class - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following replacements for /* missing code */ is the most appropriate implementation of the class?",
+    "description": "Consider the design of a  Date  class that will contain three  int  attributes (representing day, month, and year), and a constructor. The class will also contain a method  setDate  that can be accessed outside the class. A partial definition of the  Date  class is shown.\n public class Date \n{ \n   /* missing code */ \n}",
+    "question": "Which of the following replacements for  /* missing code */  is the most appropriate implementation of the class?",
     "image": null,
     "choices": [
       {
-        "label": "private int day; private int month; private int year; public Date() { /* implementation not shown */ } private void setDate(int d, int m, int y) { /* implementation not shown */ }",
+        "label": "private int day; \nprivate int month; \nprivate int year; \n\npublic Date() \n{ /* implementation not shown */ } \n\nprivate void setDate(int d, int m, int y) \n{ /* implementation not shown */ }",
         "image": null
       },
       {
-        "label": "private int day; private int month; private int year; public Date() { /* implementation not shown */ } public void setDate(int d, int m, int y) { /* implementation not shown */ }",
+        "label": "private int day; \nprivate int month; \nprivate int year; \n\npublic Date() \n{ /* implementation not shown */ } \n\npublic void setDate(int d, int m, int y) \n{ /* implementation not shown */ }",
         "image": null
       },
       {
-        "label": "public int day; public int month; public int year; private Date() { /* implementation not shown */ } private void setDate(int d, int m, int y) { /* implementation not shown */ }",
+        "label": "public int day; \npublic int month; \npublic int year; \n\nprivate Date() \n{ /* implementation not shown */ } \n\nprivate void setDate(int d, int m, int y) \n{ /* implementation not shown */ }",
         "image": null
       },
       {
-        "label": "public int day; public int month; public int year; public Date() { /* implementation not shown */ } public void setDate(int d, int m, int y) { /* implementation not shown */ }",
+        "label": "public int day; \npublic int month; \npublic int year; \n\npublic Date() \n{ /* implementation not shown */ } \n\npublic void setDate(int d, int m, int y) \n{ /* implementation not shown */ }",
         "image": null
       }
     ],
-    "answer": "private int day; private int month; private int year; public Date() { /* implementation not shown */ } public void setDate(int d, int m, int y) { /* implementation not shown */ }"
+    "answer": "private int day; \nprivate int month; \nprivate int year; \n\npublic Date() \n{ /* implementation not shown */ } \n\npublic void setDate(int d, int m, int y) \n{ /* implementation not shown */ }"
   },
   "unit": {
     "code": "3",

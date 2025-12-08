@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "MagicNumber class",
   "content": {
-    "description": "Consider the following description of the MagicNumber class which includes one constructor and two methods.",
-    "question": "public MagicNumber()– Constructs a MagicNumber object that represents a number public void displayNumber()– Displays the number to the screen public void add_2()– Increases the number by 2 When located in a method in a class other than MagicNumber, which of the following code segments will compile without error? MagicNumber.add_2();MagicNumber.displayNumber(); MagicNumber n1 = new MagicNumber();n1.add_2();n1.displayNumber(); n2.add_2();n2.displayNumber();",
+    "description": "",
+    "question": "Consider the following description of the MagicNumber class which includes one constructor and two methods.\n\npublic MagicNumber()– Constructs a MagicNumber object that represents a number\n\npublic void displayNumber()– Displays the number to the screen\n\npublic void add_2()– Increases the number by 2\n\nWhen located in a method in a class other than MagicNumber, which of the following code segments will compile without error?\n\nMagicNumber.add_2();MagicNumber.displayNumber();\n\nMagicNumber n1 = new MagicNumber();n1.add_2();n1.displayNumber();\n\nn2.add_2();n2.displayNumber();",
     "image": null,
     "choices": [
       {

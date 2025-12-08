@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Algorithm to simulate flipping a coin",
   "content": {
-    "description": "The algorithm below is used to simulate the results of flipping a coin 4 times. Consider the goal of determining whether the simulation resulted in an equal number of heads and tails.",
-    "question": "Step 1: Initialize the variables heads_counter and ﬂip_counter to 0. Step 2: A variable coin_ﬂip is randomly assigned a value of either 0 or 1. If coin_ﬂip has the value 0, the coin flip result is heads, so heads_counter is incremented by 1. Step 3: Increment the value of ﬂip_counter by 1. Step 4: Repeat steps 2 and 3 until ﬂip_counter equals 4. Following execution of the algorithm, which of the following expressions indicates that the simulation resulted in an equal number of heads and tails?",
+    "description": "",
+    "question": "The algorithm below is used to simulate the results of flipping a coin 4 times. Consider the goal of determining whether the simulation resulted in an equal number of heads and tails.\n\nStep 1: Initialize the variables heads_counter and ﬂip_counter to 0.\n\nStep 2: A variable coin_ﬂip is randomly assigned a value of either 0 or 1. If coin_ﬂip has the value 0, the coin flip result is heads, so heads_counter is incremented by 1.\n\nStep 3: Increment the value of ﬂip_counter by 1.\n\nStep 4: Repeat steps 2 and 3 until ﬂip_counter equals 4.\n\nFollowing execution of the algorithm, which of the following expressions indicates that the simulation resulted in an equal number of heads and tails?",
     "image": null,
     "choices": [
       {

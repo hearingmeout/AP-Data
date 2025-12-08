@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Algorithm to move a robot around a black region",
   "content": {
-    "description": "The figure below shows four grids, each containing a robot represented as a triangle. The robot cannot move to a black square or move beyond the edge of the grid.",
-    "question": "Which of the following algorithms will allow the robot to make a single circuit around the rectangular region of black squares, finishing in the exact location and direction that it started in each of the four grids?",
-    "image": "https://ap.oly.st/images/d3332c18bd7279b0b61c45802f917eb7.png",
+    "description": "",
+    "question": "The figure below shows four grids, each containing a robot represented as a triangle. The robot cannot move to a black square or move beyond the edge of the grid.\n\nWhich of the following algorithms will allow the robot to make a single circuit around the rectangular region of black squares, finishing in the exact location and direction that it started in each of the four grids?",
+    "image": null,
     "choices": [
       {
-        "label": "Step 1: Keep moving forward, one square at a time, until the square to the right of the robot is black. Step 2: Turn right and move one square forward. Step 3: Repeat steps 1 and 2 three more times.",
+        "label": "Step 1:\n Keep moving forward, one square at a time, until the square  to the right of the robot is black.\n Step 2:\n Turn right and move one  square forward.\n Step 3:\n Repeat steps 1 and 2 three more times.",
         "image": null
       },
       {
-        "label": "Step 1: Keep moving forward, one square at a time, until the square to the right of the robot is no longer black. Step 2: Turn right and move one square forward. Step 3: Repeat steps 1 and 2 three more times.",
+        "label": "Step 1:\n Keep moving forward, one square at a time, until  the square to   the right of the robot is no longer black.\n Step 2:\n Turn right and move one      square forward.\n   Step 3: Repeat steps 1 and 2 three more times.",
         "image": null
       },
       {
-        "label": "Step 1: Move forward three squares. Step 2: Turn right and move one square forward. Step 3: If the square to the right of the robot is black, repeat steps 1 and 2.",
+        "label": "Step 1:\n Move forward three squares.\n Step 2:\n Turn right and move one square forward.\n Step 3: If the square to the right of the robot is black, repeat steps 1 and 2.",
         "image": null
       },
       {
-        "label": "Step 1: Move forward three squares. Step 2: Turn right and move one square forward. Step 3: If the square to the right of the robot is not black, repeat steps 1 and 2.",
+        "label": "Step 1:\n Move forward three squares.\n Step 2:\n Turn right and move one square forward.\n Step 3:\n If the square to the right of the robot is not black, repeat steps 1 and 2.",
         "image": null
       }
     ],
-    "answer": "Step 1: Keep moving forward, one square at a time, until the square to the right of the robot is no longer black. Step 2: Turn right and move one square forward. Step 3: Repeat steps 1 and 2 three more times."
+    "answer": "Step 1:\n Keep moving forward, one square at a time, until  the square to   the right of the robot is no longer black.\n Step 2:\n Turn right and move one      square forward.\n   Step 3: Repeat steps 1 and 2 three more times."
   },
   "topic": {
     "code": "3.9",

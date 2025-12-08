@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Change arr with for loop - describe result",
   "content": {
-    "description": "",
-    "question": "Which of the following represents the contents of arr after the code segment has been executed?",
+    "description": "Consider the following code segment.\n int[] arr = {10, 20, 30, 40, 50};\nfor (int x = 1; x < arr.length - 1; x++)\n{\n arr[x + 1] = arr[x] + arr[x + 1];\n}",
+    "question": "Which of the following represents the contents of arr after the code segment has been executed?",
     "image": null,
     "choices": [
       {

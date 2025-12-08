@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Math abs - determine conditions",
   "content": {
-    "description": "",
-    "question": "Which of the following statements about the variable x is true?",
+    "description": "Consider the following code segment. \n double result = Math.abs(x);",
+    "question": "Which of the following statements about the variable x is true?",
     "image": null,
     "choices": [
       {
-        "label": "x may hold any numerical value.",
+        "label": "x may hold any numerical value.",
         "image": null
       },
       {
-        "label": "x must be equal to 0.",
+        "label": "x must be equal to 0.",
         "image": null
       },
       {
-        "label": "x must have a value greater than 0.",
+        "label": "x must have a value greater than 0.",
         "image": null
       },
       {
-        "label": "x must have a value less than 0.",
+        "label": "x must have a value less than 0.",
         "image": null
       }
     ],
-    "answer": "x may hold any numerical value."
+    "answer": "x may hold any numerical value."
   },
   "unit": {
     "code": "1",

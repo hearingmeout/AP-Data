@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "reverse array method - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following statements can be used to replace /* missing statement */ so that the method works as intended?",
+    "description": "Consider the following method, which is intended to return an array of integers that contains the elements of the parameter  arr  arranged in reverse order. For example, if  arr  contains  {7, 2, 3, -5},  then a new array containing  {-5, 3, 2, 7}  should be returned and the parameter  arr  should be left unchanged.\n public static int[] reverse(int[] arr) \n{ \n   int[] newArray = new int[arr.length]; \n   for (int k = 0; k < arr.length; k++) \n   { \n      /* missing statement */ \n   } \n   return newArray; \n}",
+    "question": "Which of the following statements can be used to replace   /* missing statement */  so that the method works as intended?",
     "image": null,
     "choices": [
       {

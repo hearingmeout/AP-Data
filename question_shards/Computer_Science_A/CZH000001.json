@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Instantiate Date object ",
   "content": {
-    "description": "",
-    "question": "Which of the following code segments, appearing in a class other than Date, will correctly create an instance of a Date object?",
+    "description": "Consider the following Date class. \n public class Date\n{\n private String month;\n private int day;\n\npublic Date(String m, int d)\n { /* implementation not shown */ }\n\n// Class contains no other constructors. Other methods are not shown.\n }",
+    "question": "Which of the following code segments, appearing in a class other than Date, will correctly create an instance of a Date object?",
     "image": null,
     "choices": [
       {
@@ -20,7 +20,7 @@
         "image": null
       },
       {
-        "label": "Date birthday = new Date(); birthday.month = \"September\"; birthday.day = 5;",
+        "label": "Date birthday = new Date();\nbirthday.month = \"September\";\nbirthday.day = 5;",
         "image": null
       }
     ],

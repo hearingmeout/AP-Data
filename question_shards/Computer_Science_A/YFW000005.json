@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Modify myA outside SomeClass - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following methods can be added to SomeClass to allow other classes to modify the value of myA?",
+    "description": "Consider the following partial class definition.\n public class SomeClass\n{\n private int myA;\n\n// Constructor(s) not shown\n\npublic int getA()\n {\n return myA;\n }\n}",
+    "question": "Which of the following methods can be added to  SomeClass  to allow other classes to modify the value of  myA?",
     "image": null,
     "choices": [
       {
-        "label": "public void setA(int newA) { myA = newA; }",
+        "label": "public void setA(int newA)\n{\n myA = newA;\n}",
         "image": null
       },
       {
-        "label": "private void setA(int newA) { myA = newA; }",
+        "label": "private void setA(int newA)\n{\n myA = newA;\n}",
         "image": null
       },
       {
-        "label": "public void setA(int newA) { newA = myA; }",
+        "label": "public void setA(int newA)\n{\n newA = myA;\n}",
         "image": null
       },
       {
-        "label": "private void setA(int newA) { newA = myA; }",
+        "label": "private void setA(int newA)\n{\n newA = myA;\n}",
         "image": null
       }
     ],
-    "answer": "public void setA(int newA) { myA = newA; }"
+    "answer": "public void setA(int newA)\n{\n myA = newA;\n}"
   },
   "unit": {
     "code": "3",

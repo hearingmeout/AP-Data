@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Equivalent dog cat expressions - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following code segments produces the same output as the given code segment for all values of a, b, c, and d?",
+    "description": "In the following code segment, the  int  variables  a,  b,  c,  and  d  have been properly declared and initialized. \n if (a < b || c != d) \n{ \n System.out.println(\"dog\"); \n} \nelse \n{\n System.out.println(\"cat\"); \n}",
+    "question": "Which of the following code segments produces the same output as the given code segment for all values of  a,  b,  c,  and  d?",
     "image": null,
     "choices": [
       {
-        "label": "if (a < b && c != d) { System.out.println(\"dog\"); } else { System.out.println(\"cat\"); }",
+        "label": "if (a < b && c != d) \n{ \n   System.out.println(\"dog\"); \n} \nelse \n{ \n   System.out.println(\"cat\"); \n}",
         "image": null
       },
       {
-        "label": "if (a > b && c == d) { System.out.println(\"cat\"); } else { System.out.println(\"dog\"); }",
+        "label": "if (a > b && c == d) \n{ \n   System.out.println(\"cat\"); \n} \nelse \n{ \n   System.out.println(\"dog\"); \n}",
         "image": null
       },
       {
-        "label": "if (a >= b || c == d) { System.out.println(\"cat\"); } else { System.out.println(\"dog\"); }",
+        "label": "if (a >= b || c == d) \n{ \n   System.out.println(\"cat\"); \n} \nelse \n{ \n   System.out.println(\"dog\"); \n}",
         "image": null
       },
       {
-        "label": "if (a >= b && c == d) { System.out.println(\"cat\"); } else { System.out.println(\"dog\"); }",
+        "label": "if (a >= b && c == d) \n{ \n   System.out.println(\"cat\"); \n} \nelse \n{ \n   System.out.println(\"dog\"); \n}",
         "image": null
       }
     ],
-    "answer": "if (a >= b && c == d) { System.out.println(\"cat\"); } else { System.out.println(\"dog\"); }"
+    "answer": "if (a >= b && c == d) \n{ \n   System.out.println(\"cat\"); \n} \nelse \n{ \n   System.out.println(\"dog\"); \n}"
   },
   "unit": {
     "code": "2",

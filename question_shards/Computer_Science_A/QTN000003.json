@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Relational operators - output of boolean segment",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n boolean a = true;\nboolean b = true;\nSystem.out.print((b || (!a || b)) + \" \");\nSystem.out.print(((!b || !a) && a) + \" \");\nSystem.out.println(!(a && b) && b);",
     "question": "What output is produced when this code segment is executed?",
     "image": null,
     "choices": [

@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Parse method with text file - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can replace /* missing expression */ so that the code segment works as intended?",
+    "description": "A text file named  grades.txt  has the following contents.\n 89 92 90 88 79 85 77 \n\nIn the following code segment, a valid  Scanner  object named  scan  is created to read from the text file. The code segment is intended to store the values from  grades.txt  into an  int  array.\n File gradeFile = new File(\"grades.txt\"); \nScanner scan = new Scanner(gradeFile); \n\nint[] reportCard = new int[7]; \nfor (int i = 0; i < reportCard.length; i++) \n{ \n int currentGrade = /* missing expression */ ; \n reportCard[i] = currentGrade; \n}",
+    "question": "Which of the following can replace  /* missing expression */  so that the code segment works as intended?",
     "image": null,
     "choices": [
       {

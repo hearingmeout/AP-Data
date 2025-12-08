@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Move robot to gray square",
   "content": {
-    "description": "The following grid contains a robot represented as a triangle, which is initially facing toward the top of the grid. The robot can move into a white or gray square but cannot move into a black region.",
-    "question": "Which of the following code segments can be used to move the robot to the gray square?",
-    "image": "https://ap.oly.st/images/7a44a0f63bd7a59a5d096bad5a65e64b.png",
+    "description": "",
+    "question": "The following grid contains a robot represented as a triangle, which is initially facing toward the top of the grid. The robot can move into a white or gray square but cannot move into a black region.\n\nWhich of the following code segments can be used to move the robot to the gray square?",
+    "image": null,
     "choices": [
       {
-        "label": "REPEAT 3 TIMES{MOVE_FORWARD()}REPEAT 2 TIMES{MOVE_FORWARD()}REPEAT 3 TIMES{MOVE_FORWARD()}",
+        "label": "REPEAT 3 TIMES\n{\nMOVE_FORWARD()\n}\nREPEAT 2 TIMES\n{\nMOVE_FORWARD()\n}\nREPEAT 3 TIMES\n{\nMOVE_FORWARD()\n}",
         "image": null
       },
       {
-        "label": "REPEAT 8 TIMES{MOVE_FORWARD()}",
+        "label": "REPEAT 8 TIMES\n{\nMOVE_FORWARD()\n}",
         "image": null
       },
       {
-        "label": "REPEAT 3 TIMES{MOVE_FORWARD()}ROTATE_LEFT()REPEAT 2 TIMES{MOVE_FORWARD()}ROTATE_LEFT()REPEAT 3 TIMES{MOVE_FORWARD()}",
+        "label": "REPEAT 3 TIMES\n{\nMOVE_FORWARD()\n}\nROTATE_LEFT()\nREPEAT 2 TIMES\n{\nMOVE_FORWARD()\n}\nROTATE_LEFT()\nREPEAT 3 TIMES\n{\nMOVE_FORWARD()\n}",
         "image": null
       },
       {
-        "label": "REPEAT 3 TIMES{MOVE_FORWARD()}ROTATE_LEFT()REPEAT 2 TIMES{MOVE_FORWARD()}ROTATE_RIGHT()REPEAT 3 TIMES{MOVE_FORWARD()}",
+        "label": "REPEAT 3 TIMES\n{\nMOVE_FORWARD()\n}\nROTATE_LEFT()\nREPEAT 2 TIMES\n{\nMOVE_FORWARD()\n}\nROTATE_RIGHT()\nREPEAT 3 TIMES\n{\nMOVE_FORWARD()\n}",
         "image": null
       }
     ],
-    "answer": "REPEAT 3 TIMES{MOVE_FORWARD()}ROTATE_LEFT()REPEAT 2 TIMES{MOVE_FORWARD()}ROTATE_RIGHT()REPEAT 3 TIMES{MOVE_FORWARD()}"
+    "answer": "REPEAT 3 TIMES\n{\nMOVE_FORWARD()\n}\nROTATE_LEFT()\nREPEAT 2 TIMES\n{\nMOVE_FORWARD()\n}\nROTATE_RIGHT()\nREPEAT 3 TIMES\n{\nMOVE_FORWARD()\n}"
   },
   "topic": {
     "code": "3.8",

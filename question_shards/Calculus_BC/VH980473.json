@@ -1,0 +1,41 @@
+{
+  "id": "VH980473",
+  "type": "mcq",
+  "title": "Justification - First Derivative Test",
+  "content": {
+    "description": "",
+    "question": "The concentration of a certain element in the water supply of a town is modeled by the function <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math>, where <math alttext=\"f of t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow></mstyle></math> is measured in parts per billion and <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math> is measured in years. The first derivative of <math alttext=\"f\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi></mrow></mstyle></math> is given by <math alttext=\"f prime of t, equals, 1 minus the natural log of t, minus sine t \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>1</mn><mo>−</mo><mi>ln</mi><mo>⁡</mo><mi>t</mi><mo>−</mo><mi>sin</mi><mo>⁡</mo><mi>t</mi></mrow></mstyle></math>. At what times <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi></mrow></mstyle></math>, for <math alttext=\"0 less than t, less than 5\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>0</mn><mo>&lt;</mo><mi>t</mi><mo>&lt;</mo><mn>5</mn></mrow></mstyle></math>, does the concentration attain a local minimum?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"t equals, 1.110 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>1.110</mn></mrow></mstyle></math> only",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"t equals, 2.074\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>2.074</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"t equals, 3.353 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>3.353</mn></mrow></mstyle></math> only",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"t equals, 1.110 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>1.110</mn></mrow></mstyle></math> and <math alttext=\"t equals, 3.353\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>3.353</mn></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"t equals, 3.353 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>t</mi><mo>=</mo><mn>3.353</mn></mrow></mstyle></math> only"
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.4",
+    "text": "5.4: Using the First Derivative Test to Determine Relative (Local) Extrema"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

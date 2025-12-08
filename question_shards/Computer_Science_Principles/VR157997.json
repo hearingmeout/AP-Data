@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Move element from end of list to beginning",
   "content": {
-    "description": "",
+    "description": "A code segment is intended to transform the list utensils so that the last element of the list is moved to the beginning of the list.\n\nFor example, if utensils initially contains  [\"fork\", \"spoon\", \"tongs\", \"spatula\", \"whisk\"], it should contain [\"whisk\", \"fork\", \"spoon\", \"tongs\", \"spatula\"] after executing the code segment.",
     "question": "Which of the following code segments transforms the list as intended?",
     "image": null,
     "choices": [
       {
-        "label": "len <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH(utensils)temp <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> utensils[len]REMOVE(utensils, len)APPEND(utensils, temp)",
+        "label": "len <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH(utensils)\ntemp <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> utensils[len]\nREMOVE(utensils, len)\nAPPEND(utensils, temp)",
         "image": null
       },
       {
-        "label": "len <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH(utensils)REMOVE(utensils, len)temp <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> utensils[len]APPEND(utensils, temp)",
+        "label": "len <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH(utensils)\nREMOVE(utensils, len)\ntemp <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> utensils[len]\nAPPEND(utensils, temp)",
         "image": null
       },
       {
-        "label": "len <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH(utensils)temp <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> utensils[len]REMOVE(utensils, len)INSERT(utensils, 1, temp)",
+        "label": "len <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH(utensils)\ntemp <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> utensils[len]\nREMOVE(utensils, len)\nINSERT(utensils, 1, temp)",
         "image": null
       },
       {
-        "label": "len <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH(utensils)REMOVE(utensils, len)temp <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> utensils[len]INSERT(utensils, 1, temp)",
+        "label": "len <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH(utensils)\nREMOVE(utensils, len)\ntemp <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> utensils[len]\nINSERT(utensils, 1, temp)",
         "image": null
       }
     ],
-    "answer": "len <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH(utensils)temp <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> utensils[len]REMOVE(utensils, len)INSERT(utensils, 1, temp)"
+    "answer": "len <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH(utensils)\ntemp <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> utensils[len]\nREMOVE(utensils, len)\nINSERT(utensils, 1, temp)"
   },
   "topic": {
     "code": "3.10",

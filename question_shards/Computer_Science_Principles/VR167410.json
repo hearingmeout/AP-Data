@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Produce string with concat and reverse procedures",
   "content": {
-    "description": "Consider the following procedures for string manipulation.",
-    "question": "Procedure Call Explanation concat(str1, str2) Returns a single string consisting of str1 followed by str2. For example, concat(\"key\", \"board\") returns \"keyboard\". reverse(str) Returns the reverse of the string str. For example, reverse(\"abcd\") returns \"dcba\". Which of the following code segments can be used to store \"noon\" in the string variable word ?",
+    "description": "",
+    "question": "Consider the following procedures for string manipulation.\n\nProcedure Call\nExplanation\n\nconcat(str1, str2)\nReturns a single string consisting of str1 followed by str2. For example, concat(\"key\", \"board\") returns \"keyboard\".\n\nreverse(str)\nReturns the reverse of the string str. For example, reverse(\"abcd\") returns \"dcba\".\n\nWhich of the following code segments can be used to store \"noon\" in the string variable word ?",
     "image": null,
     "choices": [
       {
-        "label": "word <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> \"no\"word <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> concat(reverse(word), word)",
+        "label": "word <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> \"no\"\nword <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> concat(reverse(word), word)",
         "image": null
       },
       {
-        "label": "word <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> \"no\"word <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> concat(reverse(word), reverse(word))",
+        "label": "word <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> \"no\"\nword <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> concat(reverse(word), reverse(word))",
         "image": null
       },
       {
-        "label": "word <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> \"on\"word <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> concat(reverse(word), word)",
+        "label": "word <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> \"on\"\nword <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> concat(reverse(word), word)",
         "image": null
       },
       {
-        "label": "word <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> \"on\"word <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> concat(reverse(word), reverse(word))",
+        "label": "word <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> \"on\"\nword <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> concat(reverse(word), reverse(word))",
         "image": null
       }
     ],
-    "answer": "word <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> \"on\"word <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> concat(reverse(word), word)"
+    "answer": "word <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> \"on\"\nword <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> concat(reverse(word), word)"
   },
   "topic": {
     "code": "3.4",

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Bugs class error - explain error",
   "content": {
-    "description": "",
-    "question": "Which of the following best explains why the Bugs class does not compile?",
+    "description": "Consider the following  Bugs  class, which is intended to simulate variations in a population of bugs. The population is stored in the method’s  int  attribute. The  getPopulation  method is intended to allow methods in other classes to access a  Bugs  object’s population value. However, the class does not compile.\n public class Bugs \n{ \n   private int population; \n\npublic Bugs(int p) \n   { \n      population = p; \n   } \n\npublic int getPopulation() \n   { \n      return p; \n   }\n\n/* There may be instance variables, constructors,\n   and methods that are not shown. */\n}",
+    "question": "Which of the following best explains why the  Bugs  class does not compile?",
     "image": null,
     "choices": [
       {
-        "label": "The return type of the getPopulation method should be void.",
+        "label": "The return type of the  getPopulation  method should be  void.",
         "image": null
       },
       {
-        "label": "The getPopulation method should have at least one parameter.",
+        "label": "The  getPopulation  method should have at least one parameter.",
         "image": null
       },
       {
-        "label": "The variable population is not declared inside the getPopulation method.",
+        "label": "The variable  population  is not declared inside the  getPopulation  method.",
         "image": null
       },
       {
-        "label": "In the getPopulation method, the variable population should be returned instead of p.",
+        "label": "In the  getPopulation  method, the variable  population  should be returned instead of  p.",
         "image": null
       }
     ],
-    "answer": "In the getPopulation method, the variable population should be returned instead of p."
+    "answer": "In the  getPopulation  method, the variable  population  should be returned instead of  p."
   },
   "unit": {
     "code": "3",

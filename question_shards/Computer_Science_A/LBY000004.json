@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "averageAgeInMajor ArrayList traversal - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can be used to replace /* missing code */ so that averageAgeInMajor will work as intended?",
+    "description": "Consider the following class definition.\n public class StudentInfo\n{\n private String major;\n private int age;\n\npublic String getMajor()\n { return major; }\n\npublic int getAge()\n { return age; }\n\n/* There may be instance variables, constructors,\n and methods that are not shown. */\n}\n\nThe following instance variable and method appear in another class. The  averageAgeInMajor  method is intended to return the average age of the  StudentInfo  objects in  StudentList  whose major is equal to  theMajor,  or  -1  if there are no  StudentInfo  objects in  studentList  with a major that is equal to  theMajor.\n private ArrayList<StudentInfo> studentList;\n\npublic double averageAgeInMajor(String theMajor)\n{\n double sum = 0.0;\n int count = 0;\n\nfor (StudentInfo k : studentList)\n {\n /* missing code */\n }\n if (count > 0)\n {\n return sum / count;\n }\n else\n {\n return -1.0;\n }\n}",
+    "question": "Which of the following can be used to replace  /* missing code */  so that  averageAgeInMajor  will work as intended?",
     "image": null,
     "choices": [
       {
-        "label": "if (theMajor.equals(k.getMajor())) { count++; } sum += k.getAge();",
+        "label": "if (theMajor.equals(k.getMajor()))\n{\n count++;\n}\nsum += k.getAge();",
         "image": null
       },
       {
-        "label": "if (theMajor.equals(k.getMajor())) { sum += k.getAge(); count++; }",
+        "label": "if (theMajor.equals(k.getMajor()))\n{\n sum += k.getAge();\n count++;\n}",
         "image": null
       },
       {
-        "label": "if (theMajor.equals(k.getMajor())) { sum = k.getAge(); count++; }",
+        "label": "if (theMajor.equals(k.getMajor()))\n{\n sum = k.getAge();\n count++;\n}",
         "image": null
       },
       {
-        "label": "if (theMajor.equals(k.getMajor())) { sum += k.getAge(); } count++;",
+        "label": "if (theMajor.equals(k.getMajor()))\n{\n sum += k.getAge();\n}\ncount++;",
         "image": null
       }
     ],
-    "answer": "if (theMajor.equals(k.getMajor())) { sum += k.getAge(); count++; }"
+    "answer": "if (theMajor.equals(k.getMajor()))\n{\n sum += k.getAge();\n count++;\n}"
   },
   "unit": {
     "code": "3",

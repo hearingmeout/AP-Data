@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "behavior of WordClass - Describe behavior",
   "content": {
-    "description": "",
-    "question": "Which of the following is a true statement about the behavior of WordClass objects?",
+    "description": "Consider the following class definition.\n public class WordClass \n{\n   private final String word;\n   private static String maxWord = \"\";\n\npublic WordClass(String s)\n   {\n      word = s;\n\nif (word.length() > maxWord.length())\n      {\n         maxWord = word;\n      }\n }\n}",
+    "question": "Which of the following is a true statement about the behavior of  WordClass  objects?",
     "image": null,
     "choices": [
       {
-        "label": "Every time a WordClass object is created, the maxWord variable is referenced.",
+        "label": "Every time a  WordClass  object is created, the  maxWord  variable is referenced.",
         "image": null
       },
       {
-        "label": "Every time a WordClass object is created, the value of the maxWord variable changes.",
+        "label": "Every time a  WordClass  object is created, the value of the  maxWord  variable changes.",
         "image": null
       },
       {
-        "label": "No two WordClass objects can have their word length equal to the length of maxWord.",
+        "label": "No two  WordClass  objects can have their  word  length equal to the length of  maxWord.",
         "image": null
       },
       {
-        "label": "The value of the maxWord variable cannot be changed once it has been initialized.",
+        "label": "The value of the  maxWord  variable cannot be changed once it has been initialized.",
         "image": null
       }
     ],
-    "answer": "Every time a WordClass object is created, the maxWord variable is referenced."
+    "answer": "Every time a  WordClass  object is created, the  maxWord  variable is referenced."
   },
   "unit": {
     "code": "3",

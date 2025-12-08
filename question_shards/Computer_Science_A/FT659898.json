@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Loop with a, b, and r",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "int a = 24; int b = 30; while (b != 0) { int r = a % b; a = b; b = r; } System.out.println(a); What is printed as a result of executing the code segment?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nint a = 24;\n\nint b = 30;\n\nwhile (b != 0)\n\n{\n\nint r = a % b;\n\na = b;\n\nb = r;\n\n}\n\nSystem.out.println(a);\n\nWhat is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {

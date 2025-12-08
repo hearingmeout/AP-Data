@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "missing while loop header",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "int k = 0;/* missing loop header */{k++;System.out.print(k + \" \");}Which of the following can be used as a replacement for /* missing loop header */ so that the code segment prints out the string \"1 2 3 4 \"?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nint k = 0;\n/* missing loop header */\n{\nk++;\nSystem.out.print(k + \" \");\n}\nWhich of the following can be used as a replacement for /* missing loop header */ so that the code segment prints out the string \"1 2 3 4 \"?",
     "image": null,
     "choices": [
       {

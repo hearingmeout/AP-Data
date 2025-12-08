@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Nested loop - determine result",
   "content": {
-    "description": "",
-    "question": "How many times will Math.random() be called as a result of executing this code segment?",
+    "description": "Consider the following code segment.\n double sum = 0.0;\nfor (int outer = 1; outer <= 4; outer++)\n{\n for (int inner = 0; inner <= 4; inner++)\n {\n sum += Math.random();\n }\n}",
+    "question": "How many times will  Math.random()  be called as a result of executing this code segment?",
     "image": null,
     "choices": [
       {

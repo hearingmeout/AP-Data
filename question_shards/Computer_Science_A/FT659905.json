@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "recur method with int parameter",
   "content": {
-    "description": "Consider the following recursive method.",
-    "question": "public static String recur(int val) { String dig = \"\" + (val % 3); if (val / 3 > 0) return dig + recur(val / 3); return dig; } What is printed as a result of executing the following statement? System.out.println(recur(32));",
+    "description": "",
+    "question": "Consider the following recursive method.\n\npublic static String recur(int val)\n\n{\n\nString dig = \"\" + (val % 3);\n\nif (val / 3 > 0)\n\nreturn dig + recur(val / 3);\n\nreturn dig;\n\n}\n\nWhat is printed as a result of executing the following statement?\n\nSystem.out.println(recur(32));",
     "image": null,
     "choices": [
       {

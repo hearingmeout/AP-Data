@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "selectionSort - determine result",
   "content": {
-    "description": "",
-    "question": "How many times is the statement in line 11 of the method executed as a result of the call to selectionSort?",
+    "description": "The following method is a correct implementation of the selection sort algorithm. The method correctly sorts the elements of  data  so that they appear in order from least to greatest.\n public static void selectionSort(int[] data) \n{ \n   for (int j = 0; j < data.length - 1; j++) \n   { \n      int minIndex = j; \n\nfor (int k = j + 1; k < data.length; k++) \n      { \n         if (data[k] < data[minIndex]) \n         { \n            minIndex = k;     // Line 11 \n         } \n      } \n\nif (j != minIndex) \n      { \n         int temp = data[j]; \n         data[j] = data[minIndex]; \n         data[minIndex] = temp; \n      } \n   } \n} \n\nThe following code segment appears in a method in the same class as  selectionSort.\n int[] vals = {5, 10, 2, 1, 12}; \nselectionSort(vals);",
+    "question": "How many times is the statement in line 11 of the method executed as a result of the call to  selectionSort?",
     "image": null,
     "choices": [
       {

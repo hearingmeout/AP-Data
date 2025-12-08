@@ -4,27 +4,27 @@
   "title": "Loop to print 987654321 - write code",
   "content": {
     "description": "",
-    "question": "Which of the following code segments produces the output \"987654321\"?",
+    "question": "Which of the following code segments produces the output  \"987654321\"?",
     "image": null,
     "choices": [
       {
-        "label": "int num = 10; while (num > 0) { System.out.print(num); num--; }",
+        "label": "int num = 10;\nwhile (num > 0)\n{\n System.out.print(num);\n num--;\n}",
         "image": null
       },
       {
-        "label": "int num = 10; while (num > 1) { System.out.print(num); num--; }",
+        "label": "int num = 10;\nwhile (num > 1)\n{\n System.out.print(num);\n num--;\n}",
         "image": null
       },
       {
-        "label": "int num = 10; while (num > 1) { num--; System.out.print(num); }",
+        "label": "int num = 10;\nwhile (num > 1)\n{\n num--;\n System.out.print(num);\n}",
         "image": null
       },
       {
-        "label": "int num = 10; while (num >= 1) { num--; System.out.print(num); }",
+        "label": "int num = 10;\nwhile (num >= 1)\n{\n num--;\n System.out.print(num);\n}",
         "image": null
       }
     ],
-    "answer": "int num = 10; while (num > 1) { num--; System.out.print(num); }"
+    "answer": "int num = 10;\nwhile (num > 1)\n{\n num--;\n System.out.print(num);\n}"
   },
   "unit": {
     "code": "2",

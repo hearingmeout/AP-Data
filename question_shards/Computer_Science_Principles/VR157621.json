@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Determine if target appears in list multiple times",
   "content": {
-    "description": "",
+    "description": "A list of numbers has n elements, indexed from 1 to n. The following algorithm is intended to display true if the value target appears in the list more than once and to display false otherwise. The algorithm uses the variables position and count. Steps 4 and 5 are missing.\n\nStep 1:\nSet count to 0 and position to 1.\nStep 2:\nIf the value of the element at index position is equal to target, increase the value of count by 1.\nStep 3:\nIncrease the value of position by 1.\nStep 4:\n(missing step)\nStep 5:\n(missing step)",
     "question": "Which of the following could be used to replace steps 4 and 5 so that the algorithm works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "Step 4Repeat steps 2 and 3 until the value of position is greater than n.Step 5If count is greater than or equal to 2, display true. Otherwise, display false.",
+        "label": "Step 4Repeat steps 2 and 3 until the value of position is greater than n.Step 5If count is greater than or equal to 2, display true. Otherwise, display false.",
         "image": null
       },
       {
-        "label": "Step 4Repeat steps 2 and 3 until the value of position is greater than n.Step 5If count is greater than or equal to position, display true. Otherwise, display false.",
+        "label": "Step 4Repeat steps 2 and 3 until the value of position is greater than n.Step 5If count is greater than or equal to position, display true. Otherwise, display false.",
         "image": null
       },
       {
-        "label": "Step 4Repeat steps 2 and 3 until the value of count is greater than 2.Step 5If position is greater than or equal to n, display true. Otherwise, display false.",
+        "label": "Step 4Repeat steps 2 and 3 until the value of count is greater than 2.Step 5If position is greater than or equal to n, display true. Otherwise, display false.",
         "image": null
       },
       {
-        "label": "Step 4Repeat steps 2 and 3 until the value of count is greater than n.Step 5If count is greater than or equal to 2, display true. Otherwise, display false.",
+        "label": "Step 4Repeat steps 2 and 3 until the value of count is greater than n.Step 5If count is greater than or equal to 2, display true. Otherwise, display false.",
         "image": null
       }
     ],
-    "answer": "Step 4Repeat steps 2 and 3 until the value of position is greater than n.Step 5If count is greater than or equal to 2, display true. Otherwise, display false."
+    "answer": "Step 4Repeat steps 2 and 3 until the value of position is greater than n.Step 5If count is greater than or equal to 2, display true. Otherwise, display false."
   },
   "topic": {
     "code": "3.3",

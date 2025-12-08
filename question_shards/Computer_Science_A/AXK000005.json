@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Access to methods in Apartment and Duplex classes",
   "content": {
-    "description": "",
-    "question": "Which of the following replacements for /* missing code */ will compile without error?",
+    "description": "The following class declarations are used to represent information about an apartment and a duplex, which is a building containing two apartments.\n public class Apartment\n{\n public int calculateRent()\n { /* implementation not shown */ }\n\nprivate String getTenant()\n { /* implementation not shown */ }\n\n/* There may be instance variables, methods, and constructors\n that are not shown. */\n}\n public class Duplex\n{\n private Apartment unitOne;\n private Apartment unitTwo; \n\npublic void printInfo()\n {\n System.out.println( /* missing code */ );\n }\n\n/* There may be instance variables, methods, and constructors\n that are not shown. */\n}",
+    "question": "Which of the following replacements for /* missing code */ will compile without error?",
     "image": null,
     "choices": [
       {

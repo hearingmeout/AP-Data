@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "reverseArray method - correct error",
   "content": {
-    "description": "",
+    "description": "The following method is intended to return an array with the values of the parameter  letters  in reverse order. The method does not work as intended.\n public static String[] reverseArray(String[] letters) \n{ \n   String[] revLetters = new String[letters.length]; // Line 3 \n   for (int x = 0; x < letters.length; x++) // Line 4\n   { \n      revLetters[x] = letters[letters.length - x]; // Line 6 \n   }\n   return revLetters;\n}",
     "question": "Which of the following changes can be made so the method returns the intended value?",
     "image": null,
     "choices": [
       {
-        "label": "Changing line 3 to String[] revLetters = new String[letters.length - 1];",
+        "label": "Changing line 3 to  String[] revLetters = new String[letters.length - 1];",
         "image": null
       },
       {
-        "label": "Changing line 4 to for (int x = 0; x < letters.length - 1; x++)",
+        "label": "Changing line 4 to  for (int x = 0; x < letters.length - 1; x++)",
         "image": null
       },
       {
-        "label": "Changing line 6 to revLetters[x] = letters[letters.length - x - 1];",
+        "label": "Changing line 6 to  revLetters[x] = letters[letters.length - x - 1];",
         "image": null
       },
       {
-        "label": "Changing line 6 to letters[x] = revLetters[letters.length - x];",
+        "label": "Changing line 6 to  letters[x] = revLetters[letters.length - x];",
         "image": null
       }
     ],
-    "answer": "Changing line 6 to revLetters[x] = letters[letters.length - x - 1];"
+    "answer": "Changing line 6 to  revLetters[x] = letters[letters.length - x - 1];"
   },
   "unit": {
     "code": "4",

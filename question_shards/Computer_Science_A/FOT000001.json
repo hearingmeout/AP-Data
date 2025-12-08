@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "If statements to print based on score - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following code segments will print the correct message for any valid value of score?",
+    "description": "A computer game should print different messages based on a player’s score.\n\n\"Great!\" is printed for scores greater than  500.\n\n\"Good!\" is printed for scores between  250  and  500,  inclusive.\n\n\"Try again.\" is printed for scores less than  250.\n\nAssume that score is a properly declared and initialized  int  that represents a player’s score.",
+    "question": "Which of the following code segments will print the correct message for any valid value of score?",
     "image": null,
     "choices": [
       {
-        "label": "String message = \"\"; if (score < 250) { message = \"Try again.\"; } else if (score <= 500) { message = \"Good!\"; } else { message = \"Great!\"; } System.out.println(message);",
+        "label": "String message = \"\";\nif (score < 250)\n{\n message = \"Try again.\";\n}\nelse if (score <= 500)\n{\n message = \"Good!\";\n}\nelse \n{\n message = \"Great!\";\n}\nSystem.out.println(message);",
         "image": null
       },
       {
-        "label": "String message = \"\"; if (score < 250) { message = \"Try again.\"; } if (score <= 500) { message = \"Good!\"; } else { message = \"Great!\"; } System.out.println(message);",
+        "label": "String message = \"\";\nif (score < 250)\n{\n message = \"Try again.\";\n}\n\nif (score <= 500)\n{\n   message = \"Good!\";\n}\nelse \n{\n message = \"Great!\";\n}\nSystem.out.println(message);",
         "image": null
       },
       {
-        "label": "String message = \"\"; if (score >= 250) { message = \"Good!\"; } else if (score > 500) { message = \"Great!\"; } else { message = \"Try again.\"; } System.out.println(message);",
+        "label": "String message = \"\";\nif (score >= 250)\n{\n message = \"Good!\";\n}\nelse if (score > 500)\n{\n   message = \"Great!\";\n}\nelse \n{\n message = \"Try again.\";\n}\nSystem.out.println(message);",
         "image": null
       },
       {
-        "label": "String message = \"\"; if (score > 500) { message = \"Great!\"; } else if (score <= 500) { message = \"Good!\"; } else { message = \"Try again.\"; } System.out.println(message);",
+        "label": "String message = \"\";\nif (score > 500)\n{\n message = \"Great!\";\n}\nelse if (score <= 500)\n{\n message = \"Good!\";\n}\nelse \n{\n message = \"Try again.\";\n}\nSystem.out.println(message);",
         "image": null
       }
     ],
-    "answer": "String message = \"\"; if (score < 250) { message = \"Try again.\"; } else if (score <= 500) { message = \"Good!\"; } else { message = \"Great!\"; } System.out.println(message);"
+    "answer": "String message = \"\";\nif (score < 250)\n{\n message = \"Try again.\";\n}\nelse if (score <= 500)\n{\n message = \"Good!\";\n}\nelse \n{\n message = \"Great!\";\n}\nSystem.out.println(message);"
   },
   "unit": {
     "code": "2",

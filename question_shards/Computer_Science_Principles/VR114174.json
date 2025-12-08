@@ -3,16 +3,16 @@
   "type": "mcq",
   "title": "Error in countNumOccurences procedure",
   "content": {
-    "description": "The following procedure is intended to return the number of times the value val appears in the list myList. The procedure does not work as intended.",
-    "question": "Line 01: PROCEDURE countNumOccurences(myList, val) Line 02: { Line 03: FOR EACH item IN myList Line 04: { Line 05: count <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0 Line 06: IF(item = val) Line 07: { Line 08: count <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> count + 1 Line 09: } Line 10: } Line 11: RETURN(count) Line 12: } Which of the following changes can be made so that the procedure will work as intended?",
+    "description": "",
+    "question": "The following procedure is intended to return the number of times the value val appears in the list myList. The procedure does not work as intended.\n\nLine 01: PROCEDURE countNumOccurences(myList, val)\n\nLine 02: {\n\nLine 03:    FOR EACH item IN myList\n\nLine 04:    {\n\nLine 05:          count <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0\n\nLine 06:          IF(item = val)\n\nLine 07:          {\n\nLine 08:               count <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> count + 1\n\nLine 09:          }\n\nLine 10:   }\n\nLine 11:   RETURN(count)\n\nLine 12: }\n\nWhich of the following changes can be made so that the procedure will work as intended?",
     "image": null,
     "choices": [
       {
-        "label": "Changing line 6 to IF(item = count)",
+        "label": "Changing line 6 to IF(item = count)",
         "image": null
       },
       {
-        "label": "Changing line 6 to IF(myList[item] = val)",
+        "label": "Changing line 6 to IF(myList[item] = val)",
         "image": null
       },
       {

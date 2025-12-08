@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "While loop that prints nothing - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following replacements for /* missing code */ will cause the code segment to print nothing?",
+    "description": "Consider the following code segment.\n int x = 1;\nwhile (x < 10)\n{\n if (x % 2 == 0)\n {\n System.out.print(x + \" \");\n }\n /* missing code */\n}",
+    "question": "Which of the following replacements for  /* missing code */  will cause the code segment to print nothing?",
     "image": null,
     "choices": [
       {

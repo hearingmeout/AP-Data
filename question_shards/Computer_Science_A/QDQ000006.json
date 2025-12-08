@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Create and initialize int array - describe error",
   "content": {
-    "description": "",
+    "description": "The following code segment is intended to create an  int  array named  nums  and set its contents to  {3, 1, 0, 2}.  The code segment does not work as intended.\n int[] nums = new int[3];\n\nnums[1] = 0;\nnums[1] = 1;\nnums[0] = 3;\n\nnums.length++;\n\nnums[3] = 2;",
     "question": "Which of the following best explains why the code segment does not work as intended?",
     "image": null,
     "choices": [
@@ -16,11 +16,11 @@
         "image": null
       },
       {
-        "label": "The element nums[1] is assigned two different values.",
+        "label": "The element  nums[1]  is assigned two different values.",
         "image": null
       },
       {
-        "label": "The element nums[2] is never set to 0.",
+        "label": "The element  nums[2]  is never set to  0.",
         "image": null
       }
     ],

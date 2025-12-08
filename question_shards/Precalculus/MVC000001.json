@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Function Models - Regressions and Residuals",
   "content": {
-    "description": "",
+    "description": "<math alttext=\"x\"><mi>x</mi></math>\n <math alttext=\"y\"><mi>y</mi></math>\n\n<math alttext=\"1\"><mn>1</mn></math>\n <math alttext=\"3\"><mn>3</mn></math>\n\n<math alttext=\"2\"><mn>2</mn></math>\n <math alttext=\"9 over 2\"><mfrac><mn>9</mn><mn>2</mn></mfrac></math>\n\n<math alttext=\"3\"><mn>3</mn></math>\n <math alttext=\"27 over 4\"><mfrac><mn>27</mn><mn>4</mn></mfrac></math>\n\n<math alttext=\"4\"><mn>4</mn></math>\n <math alttext=\"81 over 8\"><mfrac><mn>81</mn><mn>8</mn></mfrac></math>\n\nThe two residual plots are stacked vertically. The upper plot is labeled \"Residual Plot 1\". The lower plot is labeled \"Residual Plot 2\".\n\nThe horizontal axis on both plots is not labeled.\n\nThe vertical axis on both plots has labels of negative 1, 0, and 1.\n\nResidual Plot 1 shows four plotted points that are equally spaced relative to the horizontal axis.\n\nThe values of the four plotted points, from left to right, are approximately 0.45, negative 0.41, negative 0.53, and 0.49.\n\nResidual Plot 2 shows four plotted points that are equally spaced relative to the horizontal axis.\n\nThe values of the four plotted points, from left to right, are 0, 0, 0, and 0.\n\nA table of values is given for a data set that can be modeled with <math alttext=\"y\"><mi>y</mi></math> as a function of <math alttext=\"x\"> <mi>x</mi> </math>. Two function models, linear and exponential, are constructed using regressions. Residual plots for the two regressions are shown.",
     "question": "Which of the following statements is true?",
     "image": null,
     "choices": [
       {
-        "label": "A linear model is more appropriate for these data, and Residual Plot <math alttext=\"1\"><mn>1</mn></math> corresponds to the linear regression.",
+        "label": "A linear model is more appropriate for these data, and Residual Plot <math alttext=\"1\"><mn>1</mn></math> corresponds to the linear regression.",
         "image": null
       },
       {
-        "label": "A linear model is more appropriate for these data, and Residual Plot <math alttext=\"2\"><mn>2</mn></math> corresponds to the linear regression.",
+        "label": "A linear model is more appropriate for these data, and Residual Plot <math alttext=\"2\"><mn>2</mn></math> corresponds to the linear regression.",
         "image": null
       },
       {
-        "label": "An exponential model is more appropriate for these data, and Residual Plot <math alttext=\"1\"><mn>1</mn></math> corresponds to the exponential regression.",
+        "label": "An exponential model is more appropriate for these data, and Residual Plot <math alttext=\"1\"><mn>1</mn></math> corresponds to the exponential regression.",
         "image": null
       },
       {
-        "label": "An exponential model is more appropriate for these data, and Residual Plot <math alttext=\"2\"><mn>2</mn></math> corresponds to the exponential regression.",
+        "label": "An exponential model is more appropriate for these data, and Residual Plot <math alttext=\"2\"><mn>2</mn></math> corresponds to the exponential regression.",
         "image": null
       }
     ],
-    "answer": "An exponential model is more appropriate for these data, and Residual Plot <math alttext=\"2\"><mn>2</mn></math> corresponds to the exponential regression."
+    "answer": "An exponential model is more appropriate for these data, and Residual Plot <math alttext=\"2\"><mn>2</mn></math> corresponds to the exponential regression."
   },
   "unit": {
     "code": "2",

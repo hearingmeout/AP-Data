@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Use drawLine procedure to draw figure",
   "content": {
-    "description": "",
+    "description": "Consider the following procedure.\n\nProcedure Call\nExplanation\n\ndrawLine(x1, y1, x2, y2)\nDraws a line segment on a coordinate grid with endpoints at coordinates (x1, y1) and (x2, y2)\n\nThe drawLine procedure is to be used to draw the following figure on a coordinate grid.",
     "question": "Which of the following code segments can be used to draw the figure?",
     "image": null,
     "choices": [
       {
-        "label": "xVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 1yVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0len <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 1REPEAT 5 TIMES{drawLine(xVal, yVal, xVal, yVal + len)xVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> xVal + 1len <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> len + 1}",
+        "label": "xVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 1\nyVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0\nlen <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 1\nREPEAT 5 TIMES\n{\ndrawLine(xVal, yVal, xVal, yVal + len)\nxVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> xVal + 1\nlen <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> len + 1\n}",
         "image": null
       },
       {
-        "label": "xVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 1yVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0len <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 1REPEAT 5 TIMES{drawLine(xVal, yVal, xVal + len, yVal)yVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> yVal + 1len <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> len + 1}",
+        "label": "xVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 1\nyVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0\nlen <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 1\nREPEAT 5 TIMES\n{\ndrawLine(xVal, yVal, xVal + len, yVal)\nyVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> yVal + 1\nlen <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> len + 1\n}",
         "image": null
       },
       {
-        "label": "xVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 5yVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0len <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 5REPEAT 5 TIMES{drawLine(xVal, yVal, xVal, yVal + len)xVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> xVal - 1}",
+        "label": "xVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 5\nyVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0\nlen <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 5\nREPEAT 5 TIMES\n{\ndrawLine(xVal, yVal, xVal, yVal + len)\nxVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> xVal - 1\n}",
         "image": null
       },
       {
-        "label": "xVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 5yVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0len <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 5REPEAT 5 TIMES{drawLine(xVal, yVal, xVal + len, yVal)yVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> yVal - 1len <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> len - 1}",
+        "label": "xVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 5\nyVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0\nlen <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 5\nREPEAT 5 TIMES\n{\ndrawLine(xVal, yVal, xVal + len, yVal)\nyVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> yVal - 1\nlen <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> len - 1\n}",
         "image": null
       }
     ],
-    "answer": "xVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 1yVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0len <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 1REPEAT 5 TIMES{drawLine(xVal, yVal, xVal, yVal + len)xVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> xVal + 1len <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> len + 1}"
+    "answer": "xVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 1\nyVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0\nlen <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 1\nREPEAT 5 TIMES\n{\ndrawLine(xVal, yVal, xVal, yVal + len)\nxVal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> xVal + 1\nlen <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> len + 1\n}"
   },
   "topic": {
     "code": "3.8",

@@ -3,25 +3,25 @@
   "type": "mcq",
   "title": "Robot in maze procedure MoveAndTurn",
   "content": {
-    "description": "The figure below shows a robot in a grid of squares. The robot is represented as a triangle, which is initially facing upward. The robot can move into a white or gray square but cannot move into a black region.",
-    "question": "Consider the procedure MoveAndTurn below. Which of the following code segments will move the robot to the gray square?",
-    "image": "https://ap.oly.st/images/a852b77b06fca067f60d77e33919ab2b.png",
+    "description": "",
+    "question": "The figure below shows a robot in a grid of squares. The robot is represented as a triangle, which is initially facing upward. The robot can move into a white or gray square but cannot move into a black region.\n\nConsider the procedure MoveAndTurn below.\n\nWhich of the following code segments will move the robot to the gray square?",
+    "image": null,
     "choices": [
       {
         "label": "Choice A has three boxes in a column. In choice A the top box reads MoveAndTurn, then 1,2 in a rectangle. The middle box reads MoveAndTurn, then 3, 4 in a rectangle. The bottom box reads MoveAndTurn, then 0, 2 in a rectangle.",
-        "image": "https://ap.oly.st/images/b680094c7416f929fef9b60571cd5a00.png"
+        "image": null
       },
       {
         "label": "Choice B has three boxes in a column. In choice B the top box reads MoveAndTurn, then 2,1 in a rectangle. The middle box reads MoveAndTurn, then 4, 1 in a rectangle. The bottom box reads MoveAndTurn, then 2, 0 in a rectangle.",
-        "image": "https://ap.oly.st/images/daaf62698178fa94e78526f1819a9743.png"
+        "image": null
       },
       {
         "label": "Choice C has three boxes in a column. In choice C the top box reads MoveAndTurn, then 2,1 in a rectangle. The middle box reads MoveAndTurn, then 4, 3 in a rectangle. The bottom box reads MoveAndTurn, then 2, 0 in a rectangle.",
-        "image": "https://ap.oly.st/images/737cfb53fefa29b22f918c4abf1d2400.png"
+        "image": null
       },
       {
         "label": "Choice D has three boxes in a column. In choice D the top box reads MoveAndTurn, then 3,1 in a rectangle. The middle box reads MoveAndTurn, then 5, 3 in a rectangle. The bottom box reads MoveAndTurn, then 3, 0 in a rectangle.",
-        "image": "https://ap.oly.st/images/a94005eb77ddfb86e9a77a53615633fc.png"
+        "image": null
       }
     ],
     "answer": "Choice C has three boxes in a column. In choice C the top box reads MoveAndTurn, then 2,1 in a rectangle. The middle box reads MoveAndTurn, then 4, 3 in a rectangle. The bottom box reads MoveAndTurn, then 2, 0 in a rectangle."

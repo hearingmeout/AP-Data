@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Hello System-out-println",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "System.out.print(\"Hello System.out.println\");System.out.print(\"!!!\");What is printed as a result of executing the code segment?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nSystem.out.print(\"Hello System.out.println\");\nSystem.out.print(\"!!!\");\nWhat is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {
@@ -16,11 +16,11 @@
         "image": null
       },
       {
-        "label": "Hello!!!",
+        "label": "Hello\n!!!",
         "image": null
       },
       {
-        "label": "Hello System.out.println!!!",
+        "label": "Hello System.out.println\n!!!",
         "image": null
       }
     ],

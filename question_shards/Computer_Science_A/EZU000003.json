@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Method traversing an ArrayList - determine result",
   "content": {
-    "description": "",
-    "question": "What are the contents of numbers after executing the code segment?",
+    "description": "Consider the following method.\n public static void transform(ArrayList<Integer> items)\n{ \n    for (int i = items.size() - 1; i >= 0; i--)\n    {\n    items.add(i, items.get(i)); \n    }\n} \n\nThe following code segment appears in a method in the same class as  transform. \n ArrayList<Integer> numbers = new ArrayList<Integer>();\nnumbers.add(15);\nnumbers.add(4);\nnumbers.add(19);\nnumbers.add(7);\n\ntransform(numbers);",
+    "question": "What are the contents of  numbers  after executing the code segment?",
     "image": null,
     "choices": [
       {

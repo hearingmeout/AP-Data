@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "plus plus and minus minus",
   "content": {
-    "description": "Consider the following code segment, where k and count are properly declared and initialized int variables.",
-    "question": "k++;k++;count++;k--;count++;k--;Which of the following best describes the behavior of the code segment?",
+    "description": "",
+    "question": "Consider the following code segment, where k and count are properly declared and initialized int variables.\n\nk++;\nk++;\ncount++;\nk--;\ncount++;\nk--;\nWhich of the following best describes the behavior of the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "The code segment leaves both k and count unchanged.",
+        "label": "The code segment leaves both k and count unchanged.",
         "image": null
       },
       {
-        "label": "The code segment increases both k and count by 2.",
+        "label": "The code segment increases both k and count by 2.",
         "image": null
       },
       {
-        "label": "The code segment increases k by 4 and count by 2.",
+        "label": "The code segment increases k by 4 and count by 2.",
         "image": null
       },
       {
-        "label": "The code segment leaves k unchanged and increases count by 2.",
+        "label": "The code segment leaves k unchanged and increases count by 2.",
         "image": null
       }
     ],
-    "answer": "The code segment leaves k unchanged and increases count by 2."
+    "answer": "The code segment leaves k unchanged and increases count by 2."
   },
   "unit": {
     "code": "1",

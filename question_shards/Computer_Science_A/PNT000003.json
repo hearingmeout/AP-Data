@@ -4,27 +4,27 @@
   "title": "Three numbers in order - determine design",
   "content": {
     "description": "",
-    "question": "The variables x, y, and z are integers. Which of the following algorithms can be used to swap the values of the variables so that they are ordered from least to greatest (i.e., x ≤ y ≤ z)?",
+    "question": "The variables  x,  y,  and  z  are integers. Which of the following algorithms can be used to swap the values of the variables so that they are ordered from least to greatest (i.e.,  x ≤ y ≤ z)?",
     "image": null,
     "choices": [
       {
-        "label": "Step 1:If x is greater than y, swap the values of x and y.Step 2:If y is greater than z, swap the values of y and z.",
+        "label": "Step 1:If  x  is greater than  y,  swap the values of  x  and  y.Step 2:If  y  is greater than  z,  swap the values of  y  and  z.",
         "image": null
       },
       {
-        "label": "Step 1:If x is greater than z, swap the values of x and z.Step 2:If y is greater than z, swap the values of y and z.",
+        "label": "Step 1:If  x  is greater than  z,  swap the values of  x  and  z.Step 2:If  y  is greater than  z,  swap the values of  y  and  z.",
         "image": null
       },
       {
-        "label": "Step 1:If x is greater than y, swap the values of x and y.Step 2:If y is greater than z, swap the values of y and z.Step 3:If x is greater than y, swap the values of x and y.",
+        "label": "Step 1:If  x  is greater than  y,  swap the values of  x  and  y.Step 2:If  y  is greater than  z,  swap the values of  y  and  z.Step 3:If  x  is greater than  y,  swap the values of  x  and  y.",
         "image": null
       },
       {
-        "label": "Step 1:If x is greater than y, swap the values of x and y.Step 2:If y is greater than z, swap the values of y and z.Step 3:If x is greater than z, swap the values of x and z.",
+        "label": "Step 1:If  x  is greater than  y,  swap the values of  x  and  y.Step 2:If  y  is greater than  z,  swap the values of  y  and  z.Step 3:If  x  is greater than  z,  swap the values of  x  and  z.",
         "image": null
       }
     ],
-    "answer": "Step 1:If x is greater than y, swap the values of x and y.Step 2:If y is greater than z, swap the values of y and z.Step 3:If x is greater than y, swap the values of x and y."
+    "answer": "Step 1:If  x  is greater than  y,  swap the values of  x  and  y.Step 2:If  y  is greater than  z,  swap the values of  y  and  z.Step 3:If  x  is greater than  y,  swap the values of  x  and  y."
   },
   "unit": {
     "code": "2",

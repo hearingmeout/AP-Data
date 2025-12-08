@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Method to find mode of array - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can replace /* missing condition 1 */ and /* missing condition 2 */ so the method works as intended?",
+    "description": "Consider the following  mode  method, which is intended to return the most frequently occurring value (mode) in its  int[]  parameter  arr.  If there is more than one mode, the method is intended to return the first mode that appears in the array. For example, if the parameter of the method has the contents  {6, 5, 1, 5, 2, 6, 5},  then the method is intended to return  5.  As another example, if the parameter has the contents  {3, 8, 4, 8, 4, 6, 5},  then the method is intended to return  8.\n /** Precondition: arr.length >= 1 */\npublic static int mode(int[] arr)\n{\n int modeCount = 1;\n int mode = arr[0];\n\nfor (int j = 0; j < arr.length; j++)\n {\n int valCount = 0;\n for (int k = 0; k < arr.length; k++)\n {\n if ( /* missing condition 1 */ )\n {\n valCount++;\n }\n }\n if ( /* missing condition 2 */ )\n {\n modeCount = valCount;\n mode = arr[j];\n }\n }\n return mode;\n}",
+    "question": "Which of the following can replace  /* missing condition 1 */  and  /* missing condition 2 */  so the method works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "/* missing condition 1 *//* missing condition 2 */arr[j] == arr[k]valCount > modeCount",
+        "label": "/* missing condition 1 */\n/* missing condition 2 */\narr[j] == arr[k]\nvalCount > modeCount",
         "image": null
       },
       {
-        "label": "/* missing condition 1 *//* missing condition 2 */arr[j] == arr[k]modeCount > valCount",
+        "label": "/* missing condition 1 */\n/* missing condition 2 */\narr[j] == arr[k]\nmodeCount > valCount",
         "image": null
       },
       {
-        "label": "/* missing condition 1 *//* missing condition 2 */arr[j] != arr[k]valCount > modeCount",
+        "label": "/* missing condition 1 */\n/* missing condition 2 */\narr[j] != arr[k]\nvalCount > modeCount",
         "image": null
       },
       {
-        "label": "/* missing condition 1 *//* missing condition 2 */arr[j] != arr[k]modeCount > valCount",
+        "label": "/* missing condition 1 */\n/* missing condition 2 */\narr[j] != arr[k]\nmodeCount > valCount",
         "image": null
       }
     ],
-    "answer": "/* missing condition 1 *//* missing condition 2 */arr[j] == arr[k]valCount > modeCount"
+    "answer": "/* missing condition 1 */\n/* missing condition 2 */\narr[j] == arr[k]\nvalCount > modeCount"
   },
   "unit": {
     "code": "4",

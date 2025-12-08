@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "lenIncreasing of int array",
   "content": {
-    "description": "Consider the following data field and method.",
-    "question": "private int[] seq; // precondition: seq.length > 0 public int lenIncreasing() { int k = 1; while ((k < seq.length) && (seq[k - 1] < seq[k])) { k++; } // assertion return k; } Which of the following assertions is true when execution reaches the line // assertion in lenIncreasing?",
+    "description": "",
+    "question": "Consider the following data field and method.\n\nprivate int[] seq;\n\n// precondition: seq.length > 0\n\npublic int lenIncreasing()\n\n{\n\nint k = 1;\n\nwhile ((k < seq.length) && (seq[k - 1] < seq[k]))\n\n{\n\nk++;\n\n}\n\n// assertion\n\nreturn k;\n\n}\nWhich of the following assertions is true when execution reaches the line // assertion in lenIncreasing?",
     "image": null,
     "choices": [
       {

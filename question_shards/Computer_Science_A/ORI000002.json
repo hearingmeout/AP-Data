@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "AnimalPrinter class - write code",
   "content": {
-    "description": "",
-    "question": "Assume that an AnimalPrinter object myPrinter has been properly declared and initialized inside myMethod. Which of the following code segments, if located in myMethod, will produce the intended output?",
+    "description": "The  AnimalPrinter  class includes the following two methods.\n\nMethod Signature\nExplanationpublic void printDog()Prints the word  \"dog\"  and then moves the cursor to a new line.public void printCat() Prints the word  \"cat\"  and then moves the cursor to a new line.\n\nThe method  myMethod  appears in a class other than  AnimalPrinter.  The method is intended to produce the following output.\n dog\ncat",
+    "question": "Assume that an  AnimalPrinter  object  myPrinter  has been properly declared and initialized inside  myMethod.  Which of the following code segments, if located in  myMethod,  will produce the intended output?",
     "image": null,
     "choices": [
       {
-        "label": "printDog(); printCat();",
+        "label": "printDog();\nprintCat();",
         "image": null
       },
       {
-        "label": "printDog(AnimalPrinter); printCat(AnimalPrinter);",
+        "label": "printDog(AnimalPrinter);\nprintCat(AnimalPrinter);",
         "image": null
       },
       {
-        "label": "AnimalPrinter.printDog(); AnimalPrinter.printCat();",
+        "label": "AnimalPrinter.printDog();\nAnimalPrinter.printCat();",
         "image": null
       },
       {
-        "label": "myPrinter.printDog(); myPrinter.printCat();",
+        "label": "myPrinter.printDog();\nmyPrinter.printCat();",
         "image": null
       }
     ],
-    "answer": "myPrinter.printDog(); myPrinter.printCat();"
+    "answer": "myPrinter.printDog();\nmyPrinter.printCat();"
   },
   "unit": {
     "code": "1",

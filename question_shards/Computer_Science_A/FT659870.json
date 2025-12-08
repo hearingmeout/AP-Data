@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "add and remove letters from ArrayList",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "ArrayList<String> items = new ArrayList<String>(); items.add(\"A\"); items.add(\"B\"); items.add(\"C\"); items.add(0, \"D\"); items.remove(3); items.add(0, \"E\"); System.out.println(items); What is printed as a result of executing the code segment?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nArrayList<String> items = new ArrayList<String>();\n\nitems.add(\"A\");\n\nitems.add(\"B\");\n\nitems.add(\"C\");\n\nitems.add(0, \"D\");\n\nitems.remove(3);\n\nitems.add(0, \"E\");\n\nSystem.out.println(items);\n\nWhat is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {

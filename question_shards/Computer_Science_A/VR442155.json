@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "print values of k",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "for (int k = 0; k < 9; k = k + 2) { if ((k % 2) != 0) { System.out.print(k + \" \"); } } What, if anything, is printed as a result of executing the code segment?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nfor (int k = 0; k < 9; k = k + 2)\n\n{\n\nif ((k % 2) != 0)\n\n{\n\nSystem.out.print(k + \" \");\n\n}\n\n}\n\nWhat, if anything, is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {

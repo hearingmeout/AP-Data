@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Traversing nums array - determine result",
   "content": {
-    "description": "",
-    "question": "What are the contents of nums after executing the code segment?",
+    "description": "Consider the following code segment.\n int[] nums = {5, 10, 15, 20, 25, 30};\nfor (int k = 0; k < nums.length - 1; k += 2)\n{\n nums[k] = nums[k + 1];\n}",
+    "question": "What are the contents of  nums  after executing the code segment?",
     "image": null,
     "choices": [
       {

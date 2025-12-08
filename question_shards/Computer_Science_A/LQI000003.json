@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Instance vs class - describe relationship",
   "content": {
-    "description": "",
+    "description": "A student has created a  Car  class. The class contains the following attributes. \n\nA  String  variable named  color  to represent the color of the car\n\nAn  int  variable named  year  to represent the year the car was made\n\nA  String  variable named  make  to represent the manufacturer of the car\n\nA  String  variable named  model  to represent the model of the car\n\nAssume that  vehicle  is a variable of type  Car  that has been properly declared and initialized.",
     "question": "Which of the following best describes a valid relationship?",
     "image": null,
     "choices": [
       {
-        "label": "An instance of the vehicle class is Car.",
+        "label": "An instance of the  vehicle  class is  Car.",
         "image": null
       },
       {
-        "label": "An instance of the Car object is vehicle.",
+        "label": "An instance of the  Car  object is  vehicle.",
         "image": null
       },
       {
-        "label": "An attribute of the year object is int.",
+        "label": "An attribute of the  year  object is  int.",
         "image": null
       },
       {
-        "label": "An attribute of the vehicle object is color.",
+        "label": "An attribute of the  vehicle  object is  color.",
         "image": null
       }
     ],
-    "answer": "An attribute of the vehicle object is color."
+    "answer": "An attribute of the  vehicle  object is  color."
   },
   "unit": {
     "code": "1",

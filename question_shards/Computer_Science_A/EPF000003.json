@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "for loop array - determine behavior",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n int[] arr1 = {2, 4, 6, 8, 10};\nint num = 0;\nfor (int val : arr1)\n{\n num += 10;\n}",
     "question": "Which of the following best describes the behavior of the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "The loop adds 10 to each element in arr1.",
+        "label": "The loop adds 10 to each element in  arr1.",
         "image": null
       },
       {
-        "label": "The loop adds 10 to num once for each element in arr1.",
+        "label": "The loop adds 10 to  num  once for each element in  arr1.",
         "image": null
       },
       {
-        "label": "The loop adds the value of each element in arr1 to num.",
+        "label": "The loop adds the value of each element in  arr1  to num.",
         "image": null
       },
       {
-        "label": "The loop does not change the value of num because it uses an enhanced for loop.",
+        "label": "The loop does not change the value of  num  because it uses an enhanced  for  loop.",
         "image": null
       }
     ],
-    "answer": "The loop adds 10 to num once for each element in arr1."
+    "answer": "The loop adds 10 to  num  once for each element in  arr1."
   },
   "unit": {
     "code": "4",

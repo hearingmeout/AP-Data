@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Algorithm to move robot to goal",
   "content": {
-    "description": "",
-    "question": "Which of the following replacements for <MISSING CODE> can be used to move the robot to the gray square?",
+    "description": "The grid below contains a robot represented as a triangle, initially facing right. The robot can move into a white or gray square but cannot move into a black region.\n\nThe code segment below uses the procedure GoalReached, which evaluates to true if the robot is in the gray square and evaluates to false otherwise.\n\nREPEAT UNTIL (GoalReached ())\n\n{\n\n<MISSING CODE>\n\n}",
+    "question": "Which of the following replacements for <MISSING CODE> can be used to move the robot to the gray square?",
     "image": null,
     "choices": [
       {
-        "label": "REPEAT UNTIL (CAN_MOVE (forward) = false){ROTATE_RIGHT ()}MOVE_FORWARD ()",
+        "label": "REPEAT UNTIL (CAN_MOVE (forward) = false)\n{\nROTATE_RIGHT ()\n}\nMOVE_FORWARD ()",
         "image": null
       },
       {
-        "label": "REPEAT UNTIL (CAN_MOVE (forward) = false){MOVE_FORWARD ()}ROTATE_RIGHT ()",
+        "label": "REPEAT UNTIL (CAN_MOVE (forward) = false)\n{\nMOVE_FORWARD ()\n}\nROTATE_RIGHT ()",
         "image": null
       },
       {
-        "label": "REPEAT UNTIL (CAN_MOVE (right)){ROTATE_RIGHT ()}MOVE_FORWARD ()",
+        "label": "REPEAT UNTIL (CAN_MOVE (right))\n{\nROTATE_RIGHT ()\n}\nMOVE_FORWARD ()",
         "image": null
       },
       {
-        "label": "REPEAT UNTIL (CAN_MOVE (right)){MOVE_FORWARD ()}ROTATE_RIGHT ()",
+        "label": "REPEAT UNTIL (CAN_MOVE (right))\n{\nMOVE_FORWARD ()\n}\nROTATE_RIGHT ()",
         "image": null
       }
     ],
-    "answer": "REPEAT UNTIL (CAN_MOVE (forward) = false){MOVE_FORWARD ()}ROTATE_RIGHT ()"
+    "answer": "REPEAT UNTIL (CAN_MOVE (forward) = false)\n{\nMOVE_FORWARD ()\n}\nROTATE_RIGHT ()"
   },
   "topic": {
     "code": "3.8",

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "ArrayList algorithm - describe behavior",
   "content": {
-    "description": "",
-    "question": "Which of the following best describes the value assigned to count as a result of executing the code segment?",
+    "description": "In the following code segment,  words  is an  ArrayList  of two or more  String  objects.\n int prev = words.get(0).length(); \nint count = 0; \n\nfor (int j = 1; j < words.size(); j++) \n{ \n   int curr = words.get(j).length(); \n   if (curr == prev)\n   { \n      count += 1; \n   } \n   prev = curr; \n}",
+    "question": "Which of the following best describes the value assigned to  count  as a result of executing the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "The number of elements in words whose length is the same length as the first element",
+        "label": "The number of elements in  words  whose length is the same length as the first element",
         "image": null
       },
       {
-        "label": "The number of elements in words whose length is the same length as the element immediately preceding it",
+        "label": "The number of elements in  words  whose length is the same length as the element immediately preceding it",
         "image": null
       },
       {
-        "label": "The number of elements in words whose value is equal to the first element",
+        "label": "The number of elements in  words  whose value is equal to the first element",
         "image": null
       },
       {
-        "label": "The number of elements in words whose value is equal to the element immediately preceding it",
+        "label": "The number of elements in  words  whose value is equal to the element immediately preceding it",
         "image": null
       }
     ],
-    "answer": "The number of elements in words whose length is the same length as the element immediately preceding it"
+    "answer": "The number of elements in  words  whose length is the same length as the element immediately preceding it"
   },
   "unit": {
     "code": "4",

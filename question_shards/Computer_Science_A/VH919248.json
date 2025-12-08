@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "create array to pass to changeIt method",
   "content": {
-    "description": "Consider the following method.",
-    "question": "public void changeIt(int[] arr, int index, int newValue){arr[index] += newValue;}Which of the following code segments, if located in a method in the same class as changeIt, will cause the array myArray to contain {0, 5, 0, 0} ?",
+    "description": "",
+    "question": "Consider the following method.\n\npublic void changeIt(int[] arr, int index, int newValue)\n{\narr[index] += newValue;\n}\nWhich of the following code segments, if located in a method in the same class as changeIt, will cause the array myArray to contain {0, 5, 0, 0} ?",
     "image": null,
     "choices": [
       {
-        "label": "int[] myArray = new int[4];changeIt(myArray, 1, 5);",
+        "label": "int[] myArray = new int[4];\nchangeIt(myArray, 1, 5);",
         "image": null
       },
       {
-        "label": "int[] myArray = new int[4];changeIt(myArray, 2, 5);",
+        "label": "int[] myArray = new int[4];\nchangeIt(myArray, 2, 5);",
         "image": null
       },
       {
-        "label": "int[] myArray = new int[5];changeIt(myArray, 1, 4);",
+        "label": "int[] myArray = new int[5];\nchangeIt(myArray, 1, 4);",
         "image": null
       },
       {
-        "label": "int[] myArray = new int[5];changeIt(myArray, 1, 5);",
+        "label": "int[] myArray = new int[5];\nchangeIt(myArray, 1, 5);",
         "image": null
       }
     ],
-    "answer": "int[] myArray = new int[4];changeIt(myArray, 1, 5);"
+    "answer": "int[] myArray = new int[4];\nchangeIt(myArray, 1, 5);"
   },
   "unit": {
     "code": "3",

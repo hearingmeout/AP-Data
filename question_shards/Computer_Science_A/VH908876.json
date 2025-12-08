@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Sequence of if statements",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "int x = 7;if (x < 7){x = 2 * x;}if (x % 3 == 1){x = x + 2;}System.out.print(3 * x);What is printed as a result of executing the code segment?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nint x = 7;\nif (x < 7)\n{\nx = 2 * x;\n}\nif (x % 3 == 1)\n{\nx = x + 2;\n}\nSystem.out.print(3 * x);\nWhat is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {

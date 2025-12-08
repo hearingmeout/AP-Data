@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Song class - describe behavior",
   "content": {
-    "description": "",
+    "description": "A student has created a  Song  class. The class contains the following three variables.\n\nA  String  variable named  artist  to represent the artist name \n\nA  String  variable named  title  to represent the song title \n\nA  String  variable named  album  to represent the album title\n\nThe object  happyBirthday  will be declared as type  Song.",
     "question": "Which of the following statements is true?",
     "image": null,
     "choices": [
       {
-        "label": "artist, title, and album are instances of the Song class.",
+        "label": "artist,  title,  and  album  are instances of the  Song  class.",
         "image": null
       },
       {
-        "label": "happyBirthday is an instance of three String objects.",
+        "label": "happyBirthday  is an instance of three  String  objects.",
         "image": null
       },
       {
-        "label": "happyBirthday is an instance of the Song class.",
+        "label": "happyBirthday  is an instance of the  Song  class.",
         "image": null
       },
       {
-        "label": "Song is an instance of the happyBirthday object.",
+        "label": "Song  is an instance of the  happyBirthday  object.",
         "image": null
       }
     ],
-    "answer": "happyBirthday is an instance of the Song class."
+    "answer": "happyBirthday  is an instance of the  Song  class."
   },
   "unit": {
     "code": "1",

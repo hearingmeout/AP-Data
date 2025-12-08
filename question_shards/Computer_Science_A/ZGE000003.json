@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Recursive letterRun - determine output",
   "content": {
-    "description": "",
-    "question": "What is returned as a result of the method call mystery(5)?",
+    "description": "Consider the following recursive method.\n public static int mystery(int x)\n{\n   if (x <= 0)\n   {\n     return 5;\n   }\n   else\n   {\n      return x + mystery(x - 2);\n   }\n}",
+    "question": "What is returned as a result of the method call  mystery(5)?",
     "image": null,
     "choices": [
       {

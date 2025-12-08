@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Modify string argument - describe behavior",
   "content": {
-    "description": "",
+    "description": "Consider the following method.\n public String mystery(String message, int x) \n{ \n message = message.substring(x); \n return message; \n}\n\nThe following code segment appears in a method in the same class as  mystery.\n String str1 = \"abcde\";\nString str2 = mystery(str1, 3);",
     "question": "Which of the following best describes the behavior of this code segment?",
     "image": null,
     "choices": [
       {
-        "label": "str1 is modified by the call to mystery; str1 and str2 are equal in value after executing the code segment.",
+        "label": "str1  is modified by the call to  mystery;  str1  and  str2  are equal in value after executing the code segment.",
         "image": null
       },
       {
-        "label": "str1 is modified by the call to mystery; str1 and str2 have differing values after executing the code segment.",
+        "label": "str1  is modified by the call to  mystery;  str1  and  str2  have differing values after executing the code segment.",
         "image": null
       },
       {
-        "label": "str1 is not modified by the call to mystery; str1 and str2 are equal in value after executing the code segment.",
+        "label": "str1  is not modified by the call to  mystery;  str1  and  str2  are equal in value after executing the code segment.",
         "image": null
       },
       {
-        "label": "str1 is not modified by the call to mystery; str1 and str2 have differing values after executing the code segment.",
+        "label": "str1  is not modified by the call to  mystery;  str1  and  str2  have differing values after executing the code segment.",
         "image": null
       }
     ],
-    "answer": "str1 is not modified by the call to mystery; str1 and str2 have differing values after executing the code segment."
+    "answer": "str1  is not modified by the call to  mystery;  str1  and  str2  have differing values after executing the code segment."
   },
   "unit": {
     "code": "3",

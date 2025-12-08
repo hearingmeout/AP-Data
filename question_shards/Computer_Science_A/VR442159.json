@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "mystery method on array",
   "content": {
-    "description": "Consider the following method.",
-    "question": "public static int mystery(int[] arr) { int count = 0; int curr = arr[arr.length - 1]; for (int value : arr) { if (value > curr) { count = count + 1; } else { count = count – 1; } curr = value; } return count; } The following code segment appears in another method of the same class. int[] arr = {4, 14, 15, 3, 14, 18, 19}; System.out.println(mystery(arr)); What is printed as a result of executing the code segment?",
+    "description": "",
+    "question": "Consider the following method.\n\npublic static int mystery(int[] arr)\n\n{\n\nint count = 0;\n\nint curr = arr[arr.length - 1];\n\nfor (int value : arr)\n\n{\n\nif (value > curr)\n\n{\n\ncount = count + 1;\n\n}\n\nelse\n\n{\n\ncount = count – 1;\n\n}\n\ncurr = value;\n\n}\n\nreturn count;\n\n}\n\nThe following code segment appears in another method of the same class.\n\nint[] arr = {4, 14, 15, 3, 14, 18, 19};\n\nSystem.out.println(mystery(arr));\n\nWhat is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {

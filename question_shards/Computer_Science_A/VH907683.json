@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "dot equals vs equals equals alpha beta delta",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "String alpha = new String(\"APCS\");String beta = new String(\"APCS\");String delta = alpha;System.out.println(alpha.equals(beta));System.out.println(alpha == beta);System.out.println(alpha == delta);What is printed as a result of executing the code segment?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nString alpha = new String(\"APCS\");\nString beta = new String(\"APCS\");\nString delta = alpha;\n\nSystem.out.println(alpha.equals(beta));\nSystem.out.println(alpha == beta);\nSystem.out.println(alpha == delta);\nWhat is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "falsefalsetrue",
+        "label": "false\nfalse\ntrue",
         "image": null
       },
       {
-        "label": "truefalsefalse",
+        "label": "true\nfalse\nfalse",
         "image": null
       },
       {
-        "label": "truefalsetrue",
+        "label": "true\nfalse\ntrue",
         "image": null
       },
       {
-        "label": "truetruetrue",
+        "label": "true\ntrue\ntrue",
         "image": null
       }
     ],
-    "answer": "truefalsetrue"
+    "answer": "true\nfalse\ntrue"
   },
   "unit": {
     "code": "2",

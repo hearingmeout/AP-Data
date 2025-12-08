@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Traverse colors array - determine result",
   "content": {
-    "description": "",
-    "question": "What is the value of result after executing this code segment?",
+    "description": "Consider the following code segment.\n String[] colors = {\"red\", \"green\", \"orange\", \"black\", \"yellow\", \"brown\"};\nint result = -1;\nfor (int j = 0; j < colors.length; j++)\n{\n for (int k = j + 1; k < colors.length; k++)\n {\n if (colors[j].length() == colors[k].length())\n {\n result = k;\n }\n }\n}",
+    "question": "What is the value of result after executing this code segment?",
     "image": null,
     "choices": [
       {

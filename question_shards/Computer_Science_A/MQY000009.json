@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "count words in ArrayList - determine output",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment. \n int count = 0; \nfor (String word : wordList) \n{ \n   if (word.indexOf(\"a\") >= 0) \n   { \n      count++; \n   } \n} \nSystem.out.println(count); \n\nAssume that the  ArrayList  wordList  has been initialized to contain the  String  values  [\"apple\", \"banana\", \"coconut\", \"lemon\", \"orange\", \"pear\"].",
     "question": "What is printed as a result of executing the code segment?",
     "image": null,
     "choices": [

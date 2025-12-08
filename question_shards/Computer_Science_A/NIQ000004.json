@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "change findValue method - describe behavior",
   "content": {
-    "description": "",
-    "question": "Suppose the for loop initialization int j = 0 in line 4 of the method is replaced with int j = 1. Which of the following best explains the effect of this change?",
+    "description": "Consider the following method  findValue,  which returns  true  if  key  is found in the  ArrayList  words  and returns  false  otherwise. \n public static boolean findValue(ArrayList<String> words,\n String key)\n{\n for (int j = 0; j < words.size(); j++) // Line 4\n {\n if (words.get(j).equals(key))\n {\n return true;\n }\n }\n return false;\n}",
+    "question": "Suppose the  for  loop initialization  int j = 0  in line 4 of the method is replaced with  int j = 1. Which of the following best explains the effect of this change?",
     "image": null,
     "choices": [
       {
@@ -12,19 +12,19 @@
         "image": null
       },
       {
-        "label": "It will cause the method to return a different result when key is not in words.",
+        "label": "It will cause the method to return a different result when  key  is not in  words.",
         "image": null
       },
       {
-        "label": "It will cause the method to return a different result when key is found only at the first index in words.",
+        "label": "It will cause the method to return a different result when  key  is found only at the first index in  words.",
         "image": null
       },
       {
-        "label": "It will cause the method to return a different result when key is found only at the last index in the list.",
+        "label": "It will cause the method to return a different result when  key  is found only at the last index in the list.",
         "image": null
       }
     ],
-    "answer": "It will cause the method to return a different result when key is found only at the first index in words."
+    "answer": "It will cause the method to return a different result when  key  is found only at the first index in  words."
   },
   "unit": {
     "code": "4",

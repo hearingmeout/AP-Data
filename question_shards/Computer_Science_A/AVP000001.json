@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "methodA and methodB - determine result",
   "content": {
-    "description": "",
-    "question": "Consider the call methodA(4), which appears in a method in the same class. What, if anything, is printed as a result of the call methodA(4)?",
+    "description": "Consider the following descriptions of two methods that appear in the same class.\n\nMethod Signature\nExplanationpublic void methodA(int arg)Calls methodB with the value of arg * 10public void methodB(int arg)Displays the value of arg + 10",
+    "question": "Consider the call methodA(4), which appears in a method in the same class. What, if anything, is printed as a result of the call methodA(4)?",
     "image": null,
     "choices": [
       {

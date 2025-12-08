@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Print leftmost digit of n - fix error",
   "content": {
-    "description": "",
-    "question": "This code segment is intended to print the leftmost digit of n. For example, if n is 302, this code segment should print 3. However, this code segment is not working as intended. Which of the following changes can be made so that this code segment works as intended?",
+    "description": "In the following code segment,  n  is a properly declared and initialized  int  variable whose value is positive.\n while (n > 0) // Line 1\n{ // Line 2\n n /= 10; // Line 3\n} // Line 4 \nSystem.out.println(n); // Line 5",
+    "question": "This code segment is intended to print the leftmost digit of  n.  For example, if  n  is  302,  this code segment should print  3.  However, this code segment is not working as intended. Which of the following changes can be made so that this code segment works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "In line 1, changing the condition n > 0 to n / 10 > 0",
+        "label": "In line 1, changing the condition  n > 0  to  n / 10 > 0",
         "image": null
       },
       {
-        "label": "In line 1, changing the condition n > 0 to n % 10 > 0",
+        "label": "In line 1, changing the condition  n > 0  to  n % 10 > 0",
         "image": null
       },
       {
-        "label": "In line 3, changing the statement n /= 10 to n -= 10",
+        "label": "In line 3, changing the statement  n /= 10  to  n -= 10",
         "image": null
       },
       {
-        "label": "In line 3, changing the statement n /= 10 to n %= 10",
+        "label": "In line 3, changing the statement  n /= 10  to  n %= 10",
         "image": null
       }
     ],
-    "answer": "In line 1, changing the condition n > 0 to n / 10 > 0"
+    "answer": "In line 1, changing the condition  n > 0  to  n / 10 > 0"
   },
   "unit": {
     "code": "2",

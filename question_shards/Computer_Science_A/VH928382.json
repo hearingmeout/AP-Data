@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "for loops that produce the same output",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "int count = 0;for (int k = 0; k < 10; k++){count++;}System.out.println(count);Which of the following code segments will produce the same output as the code segment above?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nint count = 0;\nfor (int k = 0; k < 10; k++)\n{\ncount++;\n}\nSystem.out.println(count);\nWhich of the following code segments will produce the same output as the code segment above?",
     "image": null,
     "choices": [
       {
-        "label": "int count = 0;for (int k = 1; k < 10; k++){count++;}System.out.println(count);",
+        "label": "int count = 0;\nfor (int k = 1; k < 10; k++)\n{\ncount++;\n}\nSystem.out.println(count);",
         "image": null
       },
       {
-        "label": "int count = 1;for (int k = 1; k <= 10; k++){count++;}System.out.println(count);",
+        "label": "int count = 1;\nfor (int k = 1; k <= 10; k++)\n{\ncount++;\n}\nSystem.out.println(count);",
         "image": null
       },
       {
-        "label": "int count = 1;for (int k = 0; k <= 9; k++){count++;}System.out.println(count);",
+        "label": "int count = 1;\nfor (int k = 0; k <= 9; k++)\n{\ncount++;\n}\nSystem.out.println(count);",
         "image": null
       },
       {
-        "label": "int count = 0;for (int k = 9; k >= 0; k--){count++;}System.out.println(count);",
+        "label": "int count = 0;\nfor (int k = 9; k >= 0; k--)\n{\ncount++;\n}\nSystem.out.println(count);",
         "image": null
       }
     ],
-    "answer": "int count = 0;for (int k = 9; k >= 0; k--){count++;}System.out.println(count);"
+    "answer": "int count = 0;\nfor (int k = 9; k >= 0; k--)\n{\ncount++;\n}\nSystem.out.println(count);"
   },
   "unit": {
     "code": "2",

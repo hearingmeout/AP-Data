@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Division with int casting - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n double w = 2.0;\ndouble x = 5.0;\ndouble y = (int) w / x;\ndouble z = (int) (w / x);\n\nSystem.out.println(y + \", \" + z);",
     "question": "What is printed as a result of executing this code segment?",
     "image": null,
     "choices": [

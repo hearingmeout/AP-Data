@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Error in ageGroup procedure",
   "content": {
-    "description": "Removing which two lines of code will cause the procedure to work as intended?",
-    "question": "Select two answers.",
+    "description": "In the following procedure, the parameter age represents a person’s age. The procedure is intended to return the name of the age group associated with age. People who are under 18 are considered minors, people who are 65 and older are considered senior citizens, and all other people are considered adults. The procedure does not work as intended.\n\nLine 1:  PROCEDURE ageGroup(age)\n\nLine 2:  {\n\nLine 3:     result <math alttext=\"←\" overflow=\"scroll\"><mrow><mo>←</mo></mrow></math> \"adult\"\n\nLine 4:     IF(age ≥ 65)\n\nLine 5:     {\n\nLine 6:        result <math alttext=\"←\" overflow=\"scroll\"><mrow><mo>←</mo></mrow></math> \"senior citizen\"\n\nLine 7:     }\n\nLine 8:     RETURN(result)\n\nLine 9:\n\nLine 10:    result <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> \"adult\"\n\nLine 11:    IF(age < 18)\n\nLine 12:    {\n\nLine 13:       result <math alttext=\"←\" overflow=\"scroll\"> <mstyle> <mrow> <mo>←</mo> </mrow> </mstyle> </math> \"minor\"\n\nLine 14:    }\n\nLine 15:    RETURN(result)\n\nLine 16: }",
+    "question": "Removing which two lines of code will cause the procedure to work as intended?\n\nSelect two answers.",
     "image": null,
     "choices": [
       {

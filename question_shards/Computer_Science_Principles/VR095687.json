@@ -3,16 +3,16 @@
   "type": "mcq",
   "title": "Error in isIncreasing procedure",
   "content": {
-    "description": "",
+    "description": "A list of numbers is considered increasing if each value after the first is greater than or equal to the preceding value. The following procedure is intended to return true if numberList is increasing and return false otherwise. Assume that numberList contains at least two elements.\n\nLine 1:  PROCEDURE isIncreasing(numberList)\n\nLine 2:  {\n\nLine 3:     count <math alttext=\"←\" overflow=\"scroll\"><mrow><mo>←</mo></mrow></math> 2\n\nLine 4:     REPEAT UNTIL(count > LENGTH(numberList))\n\nLine 5:     {\n\nLine 6:        IF(numberList[count] < numberList[count - 1])\n\nLine 7:        {\n\nLine 8:           RETURN(true)\n\nLine 9:        }\n\nLine 10:       count <math alttext=\"←\" overflow=\"scroll\"> <mrow> <mo>←</mo> </mrow> </math> count + 1\n\nLine 11:    }\n\nLine 12:    RETURN(false)\n\nLine 13: }",
     "question": "Which of the following changes is needed for the program to work as intended?",
     "image": null,
     "choices": [
       {
-        "label": "In line 3, 2 should be changed to 1.",
+        "label": "In line 3, 2 should be changed to 1.",
         "image": null
       },
       {
-        "label": "In line 6, < should be changed to ≥.",
+        "label": "In line 6, < should be changed to ≥.",
         "image": null
       },
       {

@@ -3,20 +3,20 @@
   "type": "mcq",
   "title": "Error in assignment statements - explain error",
   "content": {
-    "description": "",
+    "description": "The following code segment contains an error.\n double pi = 3.14; // line 1\npi = 3.14159; // line 2\ndouble other = null; // line 3\ndouble example; // line 4\nexample = pi; // line 5",
     "question": "Which of the following best describes the error in this code segment?",
     "image": null,
     "choices": [
       {
-        "label": "In line 2, pi is assigned a value after it was already assigned a value in line 1.",
+        "label": "In line 2,  pi  is assigned a value after it was already assigned a value in line 1.",
         "image": null
       },
       {
-        "label": "In line 3, null cannot be assigned to a non-reference type.",
+        "label": "In line 3,  null  cannot be assigned to a non-reference type.",
         "image": null
       },
       {
-        "label": "In line 4, example should be assigned a value.",
+        "label": "In line 4,  example  should be assigned a value.",
         "image": null
       },
       {
@@ -24,7 +24,7 @@
         "image": null
       }
     ],
-    "answer": "In line 3, null cannot be assigned to a non-reference type."
+    "answer": "In line 3,  null  cannot be assigned to a non-reference type."
   },
   "unit": {
     "code": "1",

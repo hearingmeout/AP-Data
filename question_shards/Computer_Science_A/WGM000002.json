@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "While loop - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n int num = 245;\nint temp = num;\n\nwhile (temp > 0)\n{\n System.out.print(temp % 10 + \" \");\n temp /= 10;\n}",
     "question": "What is printed as a result of executing this code segment?",
     "image": null,
     "choices": [

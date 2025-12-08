@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Calculating sales tax - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following expressions can be used to replace /* missing code */ so that this method works as intended?",
+    "description": "Consider the following class definition.\n public class Item\n{\n // maintains the price of an item\n private int price;\n\npublic int getPrice()\n {\n return price;\n }\n\n/* There may be instance variables, constructors,\n and other methods not shown. */\n}\n\nThe following method appears in a class other than  Item.  The method is intended to calculate and return the sales tax of the item specified by the parameter  myItem.  The sales tax will be calculated as the cost of the item times the value of the parameter  taxRate.\n public double getTax(Item myItem, double taxRate) \n{\n double cost = /* missing code */ ;\n return cost * taxRate; \n}",
+    "question": "Which of the following expressions can be used to replace  /* missing code */  so that this method works as intended?",
     "image": null,
     "choices": [
       {

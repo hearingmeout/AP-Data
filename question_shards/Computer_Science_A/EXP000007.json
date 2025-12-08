@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "recursive mystery method - describe result",
   "content": {
-    "description": "",
+    "description": "Consider the following method.\n /** Precondition: num > 0 */\npublic static int mystery(int num)\n{\n if (num / 10 == 0)\n { \n return 2;\n }\n else\n {\n return 2 + mystery(num / 10);\n }\n}",
     "question": "Which of the following best describes the value returned by the method?",
     "image": null,
     "choices": [
       {
-        "label": "It returns 2 more than the number of digits in num.",
+        "label": "It returns  2  more than the number of digits in  num.",
         "image": null
       },
       {
-        "label": "It returns 2 more than the sum of the digits in num.",
+        "label": "It returns  2  more than the sum of the digits in  num.",
         "image": null
       },
       {
-        "label": "It returns 2 times the number of digits in num.",
+        "label": "It returns  2  times the number of digits in  num.",
         "image": null
       },
       {
-        "label": "It returns 2 times the sum of the digits in num.",
+        "label": "It returns  2  times the sum of the digits in  num.",
         "image": null
       }
     ],
-    "answer": "It returns 2 times the number of digits in num."
+    "answer": "It returns  2  times the number of digits in  num."
   },
   "unit": {
     "code": "4",

@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Insertion sort - determine the result",
   "content": {
-    "description": "",
-    "question": "How many times is the statement in line 10 of the method executed as a result of the call to insertionSort?",
+    "description": "The following method is a correct implementation of the insertion sort algorithm. The method correctly sorts the elements of  arr  so that they appear in order from least to greatest.\n public static void insertionSort(int[] arr)\n{\n for (int j = 1; j < arr.length; j++) \n {\n int temp = arr[j]; \n int possibleIndex = j; \n while (possibleIndex > 0 && temp < arr[possibleIndex - 1])\n { \n arr[possibleIndex] = arr[possibleIndex - 1]; \n possibleIndex--; // Line 10 \n } \n arr[possibleIndex] = temp; \n } \n} \n\nThe following code segment appears in a method in the same class as  insertionSort.\n int[] numbers = {4, 12, 4, 7, 19, 6}; \ninsertionSort(numbers);",
+    "question": "How many times is the statement in line 10 of the method executed as a result of the call to  insertionSort?",
     "image": null,
     "choices": [
       {

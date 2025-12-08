@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "If statement code that produces the same result",
   "content": {
-    "description": "Consider the following code segment with an integer variable num.",
-    "question": "IF(num > 0){DISPLAY(\"positive\")}IF(num < 0){DISPLAY(\"negative\")}IF(num = 0){DISPLAY(\"zero\")}Which of the following code segments is equivalent to the code segment above?",
+    "description": "",
+    "question": "Consider the following code segment with an integer variable num.\n\nIF(num > 0)\n{\nDISPLAY(\"positive\")\n}\nIF(num < 0)\n{\nDISPLAY(\"negative\")\n}\nIF(num = 0)\n{\nDISPLAY(\"zero\")\n}\nWhich of the following code segments is equivalent to the code segment above?",
     "image": null,
     "choices": [
       {
-        "label": "IF(num < 0){DISPLAY(\"negative\")}ELSE{DISPLAY(\"positive\")}IF(num = 0){DISPLAY(\"zero\")}",
+        "label": "IF(num < 0)\n{\nDISPLAY(\"negative\")\n}\nELSE\n{\nDISPLAY(\"positive\")\n}\nIF(num = 0)\n{\nDISPLAY(\"zero\")\n}",
         "image": null
       },
       {
-        "label": "IF(num < 0){DISPLAY(\"negative\")}ELSE{IF(num = 0){DISPLAY(\"zero\")}ELSE{DISPLAY(\"positive\")}}",
+        "label": "IF(num < 0)\n{\nDISPLAY(\"negative\")\n}\nELSE\n{\nIF(num = 0)\n{\nDISPLAY(\"zero\")\n}\nELSE\n{\nDISPLAY(\"positive\")\n}\n}",
         "image": null
       },
       {
-        "label": "IF(num ≤ 0){DISPLAY(\"negative\")}ELSE{IF(num = 0){DISPLAY(\"zero\")}ELSE{DISPLAY(\"positive\")}}",
+        "label": "IF(num ≤ 0)\n{\nDISPLAY(\"negative\")\n}\nELSE\n{\nIF(num = 0)\n{\nDISPLAY(\"zero\")\n}\nELSE\n{\nDISPLAY(\"positive\")\n}\n}",
         "image": null
       },
       {
-        "label": "IF(num ≤ 0){DISPLAY(\"negative\")}IF(num = 0){DISPLAY(\"zero\")}ELSE{DISPLAY(\"positive\")}",
+        "label": "IF(num ≤ 0)\n{\nDISPLAY(\"negative\")\n}\nIF(num = 0)\n{\nDISPLAY(\"zero\")\n}\nELSE\n{\nDISPLAY(\"positive\")\n}",
         "image": null
       }
     ],
-    "answer": "IF(num < 0){DISPLAY(\"negative\")}ELSE{IF(num = 0){DISPLAY(\"zero\")}ELSE{DISPLAY(\"positive\")}}"
+    "answer": "IF(num < 0)\n{\nDISPLAY(\"negative\")\n}\nELSE\n{\nIF(num = 0)\n{\nDISPLAY(\"zero\")\n}\nELSE\n{\nDISPLAY(\"positive\")\n}\n}"
   },
   "topic": {
     "code": "3.9",

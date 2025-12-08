@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "allEven with missing expression and loop body",
   "content": {
-    "description": "Consider the following method. Method allEven is intended to return true if all elements in array arr are even numbers; otherwise, it should return false.",
-    "question": "public boolean allEven(int[] arr) { boolean isEven = /* expression */ ; for (int k = 0; k < arr.length; k++) { /* loop body */ } return isEven; } Which of the following replacements for /* expression */ and /* loop body */ should be used so that method allEven will work as intended?",
+    "description": "",
+    "question": "Consider the following method. Method allEven is intended to return true if all elements in array arr are even numbers; otherwise, it should return false.\n\npublic boolean allEven(int[] arr)\n\n{\n\nboolean isEven = /* expression */ ;\n\nfor (int k = 0; k < arr.length; k++)\n\n{\n\n/* loop body */\n\n}\n\nreturn isEven;\n\n}\n\nWhich of the following replacements for /* expression */ and /* loop body */ should be used so that method allEven will work as intended?",
     "image": null,
     "choices": [
       {
-        "label": "/* expression */ /* loop body */ false if ((arr[k] % 2) == 0) isEven = true;",
+        "label": "/* expression */\n/* loop body */\n\nfalse\n\nif ((arr[k] % 2) == 0)\n\nisEven = true;",
         "image": null
       },
       {
-        "label": "/* expression */ /* loop body */ false if ((arr[k] % 2) != 0) isEven = false; else isEven = true;",
+        "label": "/* expression */\n/* loop body */\n\nfalse\n\nif ((arr[k] % 2) != 0)\n\nisEven = false;\n\nelse\n\nisEven = true;",
         "image": null
       },
       {
-        "label": "/* expression */ /* loop body */ true if ((arr[k] % 2) != 0) isEven = false;",
+        "label": "/* expression */\n/* loop body */\n\ntrue\n\nif ((arr[k] % 2) != 0)\n\nisEven = false;",
         "image": null
       },
       {
-        "label": "/* expression */ /* loop body */ true if ((arr[k] % 2) != 0) isEven = false; else isEven = true;",
+        "label": "/* expression */\n/* loop body */\n\ntrue\n\nif ((arr[k] % 2) != 0)\n\nisEven = false;\n\nelse\n\nisEven = true;",
         "image": null
       }
     ],
-    "answer": "/* expression */ /* loop body */ true if ((arr[k] % 2) != 0) isEven = false;"
+    "answer": "/* expression */\n/* loop body */\n\ntrue\n\nif ((arr[k] % 2) != 0)\n\nisEven = false;"
   },
   "unit": {
     "code": "4",

@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Scanning from bookInfo file - determine result",
   "content": {
-    "description": "",
+    "description": "A text file named  bookInfo.txt  has the following contents. Assume that the file contains no spaces.\n Persuasion,Austen_1818\nTarzan,Burroughs_1912\nFrankenstein,Shelley_1818\nDracula,Stoker_1897\n\nIn the following code segment, a valid  Scanner  object named  sc  is created to read from the text file. \n File bookData = new File(\"bookInfo.txt\");\nScanner sc = new Scanner(bookData);\n\nArrayList<String> aList = new ArrayList<String>();\nArrayList<String> bList = new ArrayList<String>();\nArrayList<String> cList = new ArrayList<String>();\n\nwhile (sc.hasNext())\n{\n String temp = sc.next();\n int j = temp.indexOf(\",\");\n int k = temp.indexOf(\"_\");\n\naList.add(temp.substring(0, j));\n bList.add(temp.substring(j + 1, k));\n cList.add(temp.substring(k + 1));\n}\n\nSystem.out.println(cList.get(1));",
     "question": "What is printed as a result of executing the code segment?",
     "image": null,
     "choices": [

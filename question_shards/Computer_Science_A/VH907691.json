@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "dot equals vs equals equals one two three",
   "content": {
-    "description": "Assume that object references one, two, and three have been declared and instantiated to be of the same type. Assume also that one == two evaluates to true and that two.equals(three) evaluates to false.",
-    "question": "Consider the following code segment.if (one.equals(two)){System.out.println(\"one dot equals two\");}if (one.equals(three)){System.out.println(\"one dot equals three\");}if (two == three){System.out.println(\"two equals equals three\");}What, if anything, is printed as a result of executing the code segment?",
+    "description": "",
+    "question": "Assume that object references one, two, and three have been declared and instantiated to be of the same type. Assume also that one == two evaluates to true and that two.equals(three) evaluates to false.\nConsider the following code segment.\n\nif (one.equals(two))\n{\nSystem.out.println(\"one dot equals two\");\n}\nif (one.equals(three))\n{\nSystem.out.println(\"one dot equals three\");\n}\nif (two == three)\n{\nSystem.out.println(\"two equals equals three\");\n}\nWhat, if anything, is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {
@@ -12,11 +12,11 @@
         "image": null
       },
       {
-        "label": "one dot equals twoone dot equals three",
+        "label": "one dot equals two\none dot equals three",
         "image": null
       },
       {
-        "label": "one dot equals threetwo equals equals three",
+        "label": "one dot equals three\ntwo equals equals three",
         "image": null
       },
       {

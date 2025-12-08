@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Conditionals to set year category",
   "content": {
-    "description": "",
-    "question": "Which of the following code segments can replace /* missing code */ so that the getCategory method works as intended?",
+    "description": "The following method is intended to return \"Renaissance\" for years from 1400 to 1600, inclusive, \"Medieval\" for years from 400 to 1399, inclusive, or \"Other\" for any other year. In the method, the parameter represents a year.\n public static String getCategory(int year)\n{\n String category = \"\";\n /* missing code */\n return category;\n}",
+    "question": "Which of the following code segments can replace /* missing code */ so that the getCategory method works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "if (year > 1600 || year < 400) { category = \"Other\"; } else if (year >= 1400) { category = \"Renaissance\"; } else if (year >= 400) { category = \"Medieval\"; }",
+        "label": "if (year > 1600 || year < 400)\n{\n category = \"Other\";\n}\nelse if (year >= 1400)\n{\n category = \"Renaissance\";\n}\nelse if (year >= 400)\n{\n category = \"Medieval\";\n}",
         "image": null
       },
       {
-        "label": "if (year > 1600 || year < 400) { category = \"Other\"; } if (year >= 1400) { category = \"Renaissance\"; } if (year >= 400) { category = \"Medieval\"; }",
+        "label": "if (year > 1600 || year < 400)\n{\n category = \"Other\";\n}\nif (year >= 1400)\n{\n category = \"Renaissance\";\n}\nif (year >= 400)\n{\n category = \"Medieval\";\n}",
         "image": null
       },
       {
-        "label": "if (year >= 1400) { category = \"Renaissance\"; } else if (year >= 400) { category = \"Medieval\"; } else { category = \"Other\"; }",
+        "label": "if (year >= 1400)\n{\n category = \"Renaissance\";\n}\nelse if (year >= 400)\n{\n category = \"Medieval\";\n}\nelse\n{\n category = \"Other\";\n}",
         "image": null
       },
       {
-        "label": "if (year >= 1400) { category = \"Renaissance\"; } if (year >= 400) { category = \"Medieval\"; } else { category = \"Other\"; }",
+        "label": "if (year >= 1400)\n{\n category = \"Renaissance\";\n}\nif (year >= 400)\n{\n category = \"Medieval\";\n}\nelse\n{\n category = \"Other\";\n}",
         "image": null
       }
     ],
-    "answer": "if (year > 1600 || year < 400) { category = \"Other\"; } else if (year >= 1400) { category = \"Renaissance\"; } else if (year >= 400) { category = \"Medieval\"; }"
+    "answer": "if (year > 1600 || year < 400)\n{\n category = \"Other\";\n}\nelse if (year >= 1400)\n{\n category = \"Renaissance\";\n}\nelse if (year >= 400)\n{\n category = \"Medieval\";\n}"
   },
   "unit": {
     "code": "2",

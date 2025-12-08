@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "declare avgScore and count",
   "content": {
-    "description": "A code segment (not shown) is intended to determine the number of players whose average score in a game exceeds 0.5. A player’s average score is stored in avgScore, and the number of players who meet the criterion is stored in the variable count.",
-    "question": "Which of the following pairs of declarations is most appropriate for the code segment described?",
+    "description": "",
+    "question": "A code segment (not shown) is intended to determine the number of players whose average score in a game exceeds 0.5. A player’s average score is stored in avgScore, and the number of players who meet the criterion is stored in the variable count.\nWhich of the following pairs of declarations is most appropriate for the code segment described?",
     "image": null,
     "choices": [
       {
-        "label": "double avgScore;boolean count;",
+        "label": "double avgScore;\nboolean count;",
         "image": null
       },
       {
-        "label": "double avgScore;int count;",
+        "label": "double avgScore;\nint count;",
         "image": null
       },
       {
-        "label": "int avgScore;boolean count;",
+        "label": "int avgScore;\nboolean count;",
         "image": null
       },
       {
-        "label": "int avgScore;int count;",
+        "label": "int avgScore;\nint count;",
         "image": null
       }
     ],
-    "answer": "double avgScore;int count;"
+    "answer": "double avgScore;\nint count;"
   },
   "unit": {
     "code": "1",

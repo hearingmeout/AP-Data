@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Create Student object - write code",
   "content": {
-    "description": "",
+    "description": "Consider the following class definition.\n public class Student\n{\n private String myName;\n private int myAge;\n\npublic Student()\n { /* implementation not shown */ }\n\npublic Student(String name)\n { /* implementation not shown */ }\n\npublic Student(String name, int age)\n { /* implementation not shown */ }\n\n// There are no other constructors.\n}",
     "question": "Which of the following statements will cause a compilation error?",
     "image": null,
     "choices": [

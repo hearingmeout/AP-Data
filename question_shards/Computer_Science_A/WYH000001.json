@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "2D Array Traversal - describe behavior",
   "content": {
-    "description": "",
-    "question": "Which of the following best describes the value of total as a result of executing the code segment?",
+    "description": "Consider the following code segment.\n int[][] board = new int[5][4]; \n\n/* code to initialize board */\n\nint total = 0; \nfor (int r = 1; r < board.length; r += 2) \n{ \n   for (int c = 0; c < board[0].length; c++) \n   { \n      total += board[r][c]; \n   } \n}",
+    "question": "Which of the following best describes the value of  total  as a result of executing the code segment?",
     "image": null,
     "choices": [
       {

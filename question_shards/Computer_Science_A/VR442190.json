@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "print array values recursively",
   "content": {
-    "description": "Consider the following method.",
-    "question": "public static void mystery(int[] a, int index) { if (index < a.length) { mystery(a, index + 1); } if (index > 0) { System.out.print(a[index - 1]); } } What is printed as a result of executing the following code segment?int[] array = {6, 8, 7, 9, 5};mystery(array, 0);",
+    "description": "",
+    "question": "Consider the following method.\n\npublic static void mystery(int[] a, int index)\n\n{\n\nif (index < a.length)\n\n{\n\nmystery(a, index + 1);\n\n}\n\nif (index > 0)\n\n{\n\nSystem.out.print(a[index - 1]);\n\n}\n\n}\n\nWhat is printed as a result of executing the following code segment?\n\nint[] array = {6, 8, 7, 9, 5};\nmystery(array, 0);",
     "image": null,
     "choices": [
       {

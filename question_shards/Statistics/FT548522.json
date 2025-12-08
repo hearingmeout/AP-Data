@@ -1,0 +1,45 @@
+{
+  "id": "FT548522",
+  "type": "mcq",
+  "title": "Explain interval method for mean maple leaf area",
+  "content": {
+    "description": "",
+    "question": "A botanist collected one leaf at random from each of 10 randomly selected mature maple trees of the same species. The mean and the standard deviation of the surface areas for the 10 leaves in the sample were computed.Assume the distribution of surface areas of maple leaves is normal. What is the appropriate method for constructing a one-sample confidence interval to estimate the population mean surface area of the species of maple leaves, and why is the method appropriate?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The t-interval is appropriate, because the population standard deviation is not known.",
+        "image": null
+      },
+      {
+        "label": "The t-interval is appropriate, because the t-interval is narrower than the z-interval.",
+        "image": null
+      },
+      {
+        "label": "The z-interval is appropriate, because the z-interval is narrower than the t-interval.",
+        "image": null
+      },
+      {
+        "label": "The z-interval is appropriate, because the central limit theorem applies.",
+        "image": null
+      },
+      {
+        "label": "The z-interval is appropriate, because the sample standard deviation is known.",
+        "image": null
+      }
+    ],
+    "answer": "The t-interval is appropriate, because the population standard deviation is not known."
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.2",
+    "text": "7.2: Constructing a Confidence Interval for a Population Mean"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate inference method for confidence intervals."
+  }
+}

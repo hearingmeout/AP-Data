@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "recursive mystery method",
   "content": {
-    "description": "Consider the following two methods, which are intended to return the same values when they are called with the same positive integer parameter n.",
-    "question": "public static int mystery1(int n){if (n > 1){return 5 + mystery1(n - 1);}else{return 1;}}public static int mystery2(int n){int total = 0;int x = 1;while (x < n){total += 5;x++;}return total;}Which, if any, of the following changes to mystery2 is required so that the two methods work as intended?",
+    "description": "",
+    "question": "Consider the following two methods, which are intended to return the same values when they are called with the same positive integer parameter n.\n\npublic static int mystery1(int n)\n{\nif (n > 1)\n{\nreturn 5 + mystery1(n - 1);\n}\nelse\n{\nreturn 1;\n}\n}\n\npublic static int mystery2(int n)\n{\nint total = 0;\nint x = 1;\nwhile (x < n)\n{\ntotal += 5;\nx++;\n}\nreturn total;\n}\nWhich, if any, of the following changes to mystery2 is required so that the two methods work as intended?",
     "image": null,
     "choices": [
       {
-        "label": "The variable total should be initialized to 1.",
+        "label": "The variable total should be initialized to 1.",
         "image": null
       },
       {
-        "label": "The variable x should be initialized to 0.",
+        "label": "The variable x should be initialized to 0.",
         "image": null
       },
       {
-        "label": "The condition in the while loop header should be x < n - 1.",
+        "label": "The condition in the while loop header should be x < n - 1.",
         "image": null
       },
       {
-        "label": "The condition in the while loop header should be x <= n.",
+        "label": "The condition in the while loop header should be x <= n.",
         "image": null
       }
     ],
-    "answer": "The variable total should be initialized to 1."
+    "answer": "The variable total should be initialized to 1."
   },
   "unit": {
     "code": "4",

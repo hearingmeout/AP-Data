@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Draw figure using drawCircle procedure",
   "content": {
-    "description": "Consider the following procedure.",
-    "question": "Procedure Call Explanation drawCircle(xPos, yPos, rad) Draws a circle on a coordinate grid with center (xPos, yPos) and radius rad The drawCircle procedure is to be used to draw the following figure on a coordinate grid. Let the value of the variable x be 2, the value of the variable y be 2, and the value of the variable r be 1. Which of the following code segments can be used to draw the figure?",
-    "image": "https://ap.oly.st/images/e6f48f8dbfb8b83b337f7673973b34dd.png",
+    "description": "",
+    "question": "Consider the following procedure.\n\nProcedure Call\nExplanation\n\ndrawCircle(xPos, yPos, rad)\nDraws a circle on a coordinate grid with center (xPos, yPos) and radius rad\n\nThe drawCircle procedure is to be used to draw the following figure on a coordinate grid.\n\nLet the value of the variable x be 2, the value of the variable y be 2, and the value of the variable r be 1. Which of the following code segments can be used to draw the figure?",
+    "image": null,
     "choices": [
       {
-        "label": "drawCircle(x, y, r)drawCircle(x, y + 2, r)drawCircle(x + 2, y, r)drawCircle(x + 2, y + 2, r)",
+        "label": "drawCircle(x, y, r)\ndrawCircle(x, y + 2, r)\ndrawCircle(x + 2, y, r)\ndrawCircle(x + 2, y + 2, r)",
         "image": null
       },
       {
-        "label": "drawCircle(x, y, r)drawCircle(x, y + 3, r)drawCircle(x + 3, y, r)drawCircle(x + 3, y + 3, r)",
+        "label": "drawCircle(x, y, r)\ndrawCircle(x, y + 3, r)\ndrawCircle(x + 3, y, r)\ndrawCircle(x + 3, y + 3, r)",
         "image": null
       },
       {
-        "label": "drawCircle(x, y, r + 2)drawCircle(x, y + 2, r + 2)drawCircle(x + 2, y, r + 2)drawCircle(x + 2, y + 2, r + 2)",
+        "label": "drawCircle(x, y, r + 2)\ndrawCircle(x, y + 2, r + 2)\ndrawCircle(x + 2, y, r + 2)\ndrawCircle(x + 2, y + 2, r + 2)",
         "image": null
       },
       {
-        "label": "drawCircle(x, y, r + 3)drawCircle(x, y + 3, r + 3)drawCircle(x + 3, y, r + 3)drawCircle(x + 3, y + 3, r + 3)",
+        "label": "drawCircle(x, y, r + 3)\ndrawCircle(x, y + 3, r + 3)\ndrawCircle(x + 3, y, r + 3)\ndrawCircle(x + 3, y + 3, r + 3)",
         "image": null
       }
     ],
-    "answer": "drawCircle(x, y, r)drawCircle(x, y + 3, r)drawCircle(x + 3, y, r)drawCircle(x + 3, y + 3, r)"
+    "answer": "drawCircle(x, y, r)\ndrawCircle(x, y + 3, r)\ndrawCircle(x + 3, y, r)\ndrawCircle(x + 3, y + 3, r)"
   },
   "topic": {
     "code": "3.12",

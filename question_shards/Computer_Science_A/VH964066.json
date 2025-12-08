@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "how many values printed in traversal of array2D",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "int[][] array2D = {{1, 2, 3, 4},{5, 6, 7, 8},{9, 10, 11, 12},{13, 14, 15, 16}};for (int[] i : array2D){for (int x : i){System.out.print(x + \" \");}System.out.println(\" \");}How many times will the statement System.out.print(x + \" \") be executed?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nint[][] array2D = {{1, 2, 3, 4},\n{5, 6, 7, 8},\n{9, 10, 11, 12},\n{13, 14, 15, 16}};\n\nfor (int[] i : array2D)\n{\nfor (int x : i)\n{\nSystem.out.print(x + \" \");\n}\nSystem.out.println(\" \");\n}\nHow many times will the statement System.out.print(x + \" \") be executed?",
     "image": null,
     "choices": [
       {

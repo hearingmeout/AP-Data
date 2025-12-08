@@ -4,27 +4,27 @@
   "title": "Matrices as Functions - inverses",
   "content": {
     "description": "",
-    "question": "The linear transformation function <math alttext=\"L\"><mi>L</mi></math> is given by <math alttext=\"L open parentheses vector v close parentheses equals A times vector v\"><mi>L</mi><mfenced><mover><mi>v</mi><mo>→</mo></mover></mfenced><mo>=</mo><mi>A</mi><mover><mi>v</mi><mo>→</mo></mover></math>, where <math alttext=\"A\"><mi>A</mi></math> is a <math alttext=\"2 by 2\"><mn>2</mn><mo>×</mo><mn>2</mn></math> matrix and <math alttext=\"vector v\"><mover><mi>v</mi><mo>→</mo></mover></math> is a column vector. The linear transformation function <math alttext=\"K\"><mi>K</mi></math> is given by <math alttext=\"K open parentheses vector v close parentheses equals B times vector v\"><mi>K</mi><mfenced><mover><mi>v</mi><mo>→</mo></mover></mfenced><mo>=</mo><mi>B</mi><mover><mi>v</mi><mo>→</mo></mover></math>, where <math alttext=\"B\"><mi>B</mi></math> is a <math alttext=\"2 by 2\"><mn>2</mn><mo>×</mo><mn>2</mn></math> matrix and <math alttext=\"vector v\"><mover><mi>v</mi><mo>→</mo></mover></math> is a column vector. If the composition function <math alttext=\"K open parentheses L open parentheses vector v close parentheses close parentheses equals C times vector v\"><mi>K</mi><mfenced><mrow><mi>L</mi><mfenced><mover><mi>v</mi><mo>→</mo></mover></mfenced></mrow></mfenced><mo>=</mo><mi>C</mi><mover><mi>v</mi><mo>→</mo></mover></math> maps every vector to itself, which of the following describes <math alttext=\"A\"><mi>A</mi></math> and <math alttext=\"B\"><mi>B</mi></math> ?",
+    "question": "The linear transformation function <math alttext=\"L\"><mi>L</mi></math> is given by <math alttext=\"L open parentheses vector v close parentheses equals A times vector v\"><mi>L</mi><mfenced><mover><mi>v</mi><mo>→</mo></mover></mfenced><mo>=</mo><mi>A</mi><mover><mi>v</mi><mo>→</mo></mover></math>, where <math alttext=\"A\"><mi>A</mi></math> is a <math alttext=\"2 by 2\"><mn>2</mn><mo>×</mo><mn>2</mn></math> matrix and <math alttext=\"vector v\"><mover><mi>v</mi><mo>→</mo></mover></math> is a column vector. The linear transformation function <math alttext=\"K\"><mi>K</mi></math> is given by <math alttext=\"K open parentheses vector v close parentheses equals B times vector v\"><mi>K</mi><mfenced><mover><mi>v</mi><mo>→</mo></mover></mfenced><mo>=</mo><mi>B</mi><mover><mi>v</mi><mo>→</mo></mover></math>, where <math alttext=\"B\"><mi>B</mi></math> is a <math alttext=\"2 by 2\"><mn>2</mn><mo>×</mo><mn>2</mn></math> matrix and <math alttext=\"vector v\"><mover><mi>v</mi><mo>→</mo></mover></math> is a column vector. If the composition function <math alttext=\"K open parentheses L open parentheses vector v close parentheses close parentheses equals C times vector v\"><mi>K</mi><mfenced><mrow><mi>L</mi><mfenced><mover><mi>v</mi><mo>→</mo></mover></mfenced></mrow></mfenced><mo>=</mo><mi>C</mi><mover><mi>v</mi><mo>→</mo></mover></math> maps every vector to itself, which of the following describes <math alttext=\"A\"><mi>A</mi></math> and <math alttext=\"B\"><mi>B</mi></math> ?",
     "image": null,
     "choices": [
       {
-        "label": "<math alttext=\"A\"><mi>A</mi></math> and <math alttext=\"B\"><mi>B</mi></math> must both be rotation matrices.",
+        "label": "<math alttext=\"A\"><mi>A</mi></math> and <math alttext=\"B\"><mi>B</mi></math> must both be rotation matrices.",
         "image": null
       },
       {
-        "label": "<math alttext=\"A\"><mi>A</mi></math> and <math alttext=\"B\"><mi>B</mi></math> must have the same determinant.",
+        "label": "<math alttext=\"A\"><mi>A</mi></math> and <math alttext=\"B\"><mi>B</mi></math> must have the same determinant.",
         "image": null
       },
       {
-        "label": "<math alttext=\"A\"><mi>A</mi></math> and <math alttext=\"B\"><mi>B</mi></math> must be inverses of each other.",
+        "label": "<math alttext=\"A\"><mi>A</mi></math> and <math alttext=\"B\"><mi>B</mi></math> must be inverses of each other.",
         "image": null
       },
       {
-        "label": "<math alttext=\"A\"><mi>A</mi></math> and <math alttext=\"B\"><mi>B</mi></math> must both be the identity matrix.",
+        "label": "<math alttext=\"A\"><mi>A</mi></math> and <math alttext=\"B\"><mi>B</mi></math> must both be the identity matrix.",
         "image": null
       }
     ],
-    "answer": "<math alttext=\"A\"><mi>A</mi></math> and <math alttext=\"B\"><mi>B</mi></math> must be inverses of each other."
+    "answer": "<math alttext=\"A\"><mi>A</mi></math> and <math alttext=\"B\"><mi>B</mi></math> must be inverses of each other."
   },
   "unit": {
     "code": "4",

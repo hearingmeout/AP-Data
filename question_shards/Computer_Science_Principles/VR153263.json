@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Initial values that cause infinite loop",
   "content": {
-    "description": "",
-    "question": "Which of the following initial values of j and k will cause the algorithm represented in the flowchart to result in an infinite loop?",
+    "description": "A flowchart provides a way to visually represent an algorithm and uses the following building blocks.\n\nBlock\nExplanation\n\nOval\nThe start or end of the algorithm\n\nRectangle\nOne or more processing steps, such as a statement that assigns a value to a variable\n\nDiamond\nA conditional or decision step, where execution proceeds to the side labeled true if the condition is true and to the side labeled false otherwise\n\nParallelogram\nDisplays a message\n\nIn the flowchart below, assume that j and k are assigned integer values.",
+    "question": "Which of the following initial values of j and k will cause the algorithm represented in the flowchart to result in an infinite loop?",
     "image": null,
     "choices": [
       {
-        "label": "j = -5, k = 5",
+        "label": "j = -5, k = 5",
         "image": null
       },
       {
-        "label": "j = 0, k = 5",
+        "label": "j = 0, k = 5",
         "image": null
       },
       {
-        "label": "j = 5, k = 0",
+        "label": "j = 5, k = 0",
         "image": null
       },
       {
-        "label": "j = 5, k = -5",
+        "label": "j = 5, k = -5",
         "image": null
       }
     ],
-    "answer": "j = 5, k = -5"
+    "answer": "j = 5, k = -5"
   },
   "topic": {
     "code": "3.8",

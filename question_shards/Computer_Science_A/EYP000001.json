@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Nested two-way-selection - value of result",
   "content": {
-    "description": "",
-    "question": "What is the value of result after the code segment is executed if x has the value 15 and y has the value 5?",
+    "description": "Consider the following code segment, which uses properly declared and initialized int  variables x and y and the String variable result.\n String result = \"\";\nif (x < 5)\n{\n if (y > 0)\n {\n result += \"a\";\n }\n else\n {\n result += \"b\";\n }\n}\nelse if (x > 10)\n{\n if (y < 0)\n {\n result += \"c\";\n }\n else if (y < 10)\n {\n result += \"d\";\n }\n result += \"e\";\n}\nresult += \"f\";",
+    "question": "What is the value of result after the code segment is executed if x has the value 15 and y has the value 5?",
     "image": null,
     "choices": [
       {

@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "printSomething method - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following description of method printSomething.\n\nMethod Signature\nExplanationpublic void printSomething(int num, boolean val)Prints the value of val  immediately followed by the value of num - 1.\n\nConsider the following code segment, which appears in the same class as printSomething.\n printSomething(1, true);\nprintSomething(2, true);",
     "question": "What is printed as a result of executing the code segment?",
     "image": null,
     "choices": [

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "animals array",
   "content": {
-    "description": "In the following code segment, assume that the string str has been properly declared and initialized. The code segment is intended to print the number of strings in the array animals that have str as a substring.",
-    "question": "String[] animals = {\"horse\", \"cow\", \"goat\", \"dog\", \"cat\", \"mouse\"};int count = 0;for (int i = 0; i <= animals.length; i++){if (animals[i].indexOf(str) >= 0){count++;}}System.out.println(count);The code segment does not work as intended. Which of the following changes should be made so the code segment works as intended?",
+    "description": "",
+    "question": "In the following code segment, assume that the string str has been properly declared and initialized. The code segment is intended to print the number of strings in the array animals that have str as a substring.\n\nString[] animals = {\"horse\", \"cow\", \"goat\", \"dog\", \"cat\", \"mouse\"};\nint count = 0;\nfor (int i = 0; i <= animals.length; i++)\n{\nif (animals[i].indexOf(str) >= 0)\n{\ncount++;\n}\n}\nSystem.out.println(count);\nThe code segment does not work as intended. Which of the following changes should be made so the code segment works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "The Boolean expression in the for loop header should be changed to i < animals.length.",
+        "label": "The Boolean expression in the for loop header should be changed to i < animals.length.",
         "image": null
       },
       {
-        "label": "The Boolean expression in the for loop header should be changed to i < animals.length - 1.",
+        "label": "The Boolean expression in the for loop header should be changed to i < animals.length - 1.",
         "image": null
       },
       {
-        "label": "The Boolean expression in the for loop header should be changed to i < animals[i].length.",
+        "label": "The Boolean expression in the for loop header should be changed to i < animals[i].length.",
         "image": null
       },
       {
-        "label": "The condition in the if statement should be changed to animals[i].equals(str).",
+        "label": "The condition in the if statement should be changed to animals[i].equals(str).",
         "image": null
       }
     ],
-    "answer": "The Boolean expression in the for loop header should be changed to i < animals.length."
+    "answer": "The Boolean expression in the for loop header should be changed to i < animals.length."
   },
   "unit": {
     "code": "4",

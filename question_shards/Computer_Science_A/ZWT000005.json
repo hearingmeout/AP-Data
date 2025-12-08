@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "For and while loop comparison - correct error",
   "content": {
-    "description": "",
+    "description": "Consider the following two code segments, which are intended to produce identical outputs. \n\nCode Segment 1for (int i = 0; i < 10; i++) \n{ \n   System.out.println(\"counting \" + i); \n}\n\nCode Segment 2int x = 0; \nwhile (x < 10) \n{ \n   x = x + 1; \n   System.out.println(\"counting \" + x); \n}",
     "question": "Which of the following changes can be made to Code Segment 2 so that the outputs of the two code segments are identical as intended?",
     "image": null,
     "choices": [
       {
-        "label": "Move the statement x = x + 1; so that it follows the print statement inside the loop body.",
+        "label": "Move the statement  x = x + 1;  so that it follows the print statement inside the loop body.",
         "image": null
       },
       {
-        "label": "Rename the variable x to be i so that it is the same variable name as in Code Segment 1.",
+        "label": "Rename the variable  x  to be  i  so that it is the same variable name as in Code Segment 1.",
         "image": null
       },
       {
-        "label": "Remove the statement x = x + 1; because this statement is not in the loop body in Code Segment 1.",
+        "label": "Remove the statement  x = x + 1;  because this statement is not in the loop body in Code Segment 1.",
         "image": null
       },
       {
-        "label": "Change the statement x = x + 1; to be x++; so that the increment of the loop control variable is the same in both code segments.",
+        "label": "Change the statement  x = x + 1;  to be  x++;  so that the increment of the loop control variable is the same in both code segments.",
         "image": null
       }
     ],
-    "answer": "Move the statement x = x + 1; so that it follows the print statement inside the loop body."
+    "answer": "Move the statement  x = x + 1;  so that it follows the print statement inside the loop body."
   },
   "unit": {
     "code": "2",

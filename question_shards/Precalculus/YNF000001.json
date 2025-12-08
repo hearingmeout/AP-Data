@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Graph of Polynomial - Multiplicity of Zeros",
   "content": {
-    "description": "",
-    "question": "Which of the following statements gives the multiplicity of the zero at <math alttext=\"C\"> <mi>C</mi> </math> with correct reasoning?",
+    "description": "Neither axis shows tick marks or a scale. Moving from left to right:\n\nThe curve enters the window in the third quadrant.\n\nThe curve increases, intersecting the negative x axis at point A and reaching a relative maximum in the second quadrant.\n\nThe curve decreases from its relative maximum, passes through the y axis, and intersects the positive x axis at point B.\n\nThe curve decreases from point B and reaches a relative minimum in the fourth quadrant before increasing to a relative maximum at point C on the positive x axis.\n\nThe curve decreases from point C and exits the window in the bottom right of the fourth quadrant.\n\nThe figure shows the graph of a quartic polynomial function with zeros at <math alttext=\"A\"><mi>A</mi></math>, <math alttext=\"B\"><mi>B</mi></math>, and <math alttext=\"C\"> <mi>C</mi> </math>.",
+    "question": "Which of the following statements gives the multiplicity of the zero at <math alttext=\"C\"> <mi>C</mi> </math> with correct reasoning?",
     "image": null,
     "choices": [
       {
-        "label": "<math alttext=\"1\"><mn>1</mn></math>, because the graph of the function intersects the <math alttext=\"x\"><mi>x</mi></math>-axis once at <math alttext=\"C\"><mi>C</mi></math>.",
+        "label": "<math alttext=\"1\"><mn>1</mn></math>, because the graph of the function intersects the <math alttext=\"x\"><mi>x</mi></math>-axis once at <math alttext=\"C\"><mi>C</mi></math>.",
         "image": null
       },
       {
-        "label": "<math alttext=\"1\"><mn>1</mn></math>, because the quartic polynomial function has four zeros: exactly one at <math alttext=\"A\"><mi>A</mi></math>, one at <math alttext=\"B\"><mi>B</mi></math>, one at <math alttext=\"C\"><mi>C</mi></math>, and a non-real zero.",
+        "label": "<math alttext=\"1\"><mn>1</mn></math>, because the quartic polynomial function has four zeros: exactly one at <math alttext=\"A\"><mi>A</mi></math>, one at <math alttext=\"B\"><mi>B</mi></math>, one at <math alttext=\"C\"><mi>C</mi></math>, and a non-real zero.",
         "image": null
       },
       {
-        "label": "<math alttext=\"2\"><mn>2</mn></math>, because the quartic polynomial function has three real zeros, one of which must have a multiplicity of <math alttext=\"2\"><mn>2</mn></math>, and the polynomial does not change signs at <math alttext=\"C\"><mi>C</mi></math>.",
+        "label": "<math alttext=\"2\"><mn>2</mn></math>, because the quartic polynomial function has three real zeros, one of which must have a multiplicity of <math alttext=\"2\"><mn>2</mn></math>, and the polynomial does not change signs at <math alttext=\"C\"><mi>C</mi></math>.",
         "image": null
       },
       {
-        "label": "<math alttext=\"2\"><mn>2</mn></math>, because <math alttext=\"C\"><mi>C</mi></math> is the second zero to the right of the origin, and there are more zeros to the right than to the left of the origin.",
+        "label": "<math alttext=\"2\"><mn>2</mn></math>, because <math alttext=\"C\"><mi>C</mi></math> is the second zero to the right of the origin, and there are more zeros to the right than to the left of the origin.",
         "image": null
       }
     ],
-    "answer": "<math alttext=\"2\"><mn>2</mn></math>, because the quartic polynomial function has three real zeros, one of which must have a multiplicity of <math alttext=\"2\"><mn>2</mn></math>, and the polynomial does not change signs at <math alttext=\"C\"><mi>C</mi></math>."
+    "answer": "<math alttext=\"2\"><mn>2</mn></math>, because the quartic polynomial function has three real zeros, one of which must have a multiplicity of <math alttext=\"2\"><mn>2</mn></math>, and the polynomial does not change signs at <math alttext=\"C\"><mi>C</mi></math>."
   },
   "unit": {
     "code": "1",

@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "error in ItemInventory class",
   "content": {
-    "description": "Consider the following class definition.",
-    "question": "public class ItemInventory{private int numItems;public ItemInventory(int num){numItems = num;}public updateItems(int newNum){numItems = newNum;}}Which of the following best identifies the reason the class does not compile?",
+    "description": "",
+    "question": "Consider the following class definition.\n\npublic class ItemInventory\n{\nprivate int numItems;\n\npublic ItemInventory(int num)\n{\nnumItems = num;\n}\n\npublic updateItems(int newNum)\n{\nnumItems = newNum;\n}\n}\nWhich of the following best identifies the reason the class does not compile?",
     "image": null,
     "choices": [
       {
@@ -12,19 +12,19 @@
         "image": null
       },
       {
-        "label": "The updateItems method is missing a return type.",
+        "label": "The updateItems method is missing a return type.",
         "image": null
       },
       {
-        "label": "The updateItems method should not have a parameter.",
+        "label": "The updateItems method should not have a parameter.",
         "image": null
       },
       {
-        "label": "The instance variable numItems should be public instead of private.",
+        "label": "The instance variable numItems should be public instead of private.",
         "image": null
       }
     ],
-    "answer": "The updateItems method is missing a return type."
+    "answer": "The updateItems method is missing a return type."
   },
   "unit": {
     "code": "3",

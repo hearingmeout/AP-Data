@@ -3,12 +3,12 @@
   "type": "frq",
   "title": "Bead sequence - write code_Part_A",
   "content": {
-    "description": "",
-    "question": "Write a code segment that creates a boolean variable named lengthGood and assigns it true if beadSequence meets rule 1 and assigns it false otherwise.",
+    "description": "This question involves processing a  String  that represents a sequence of beads.\n\nThe  String  variable  beadSequence  represents a bead sequence. It contains a sequence of letters in which each letter represents the color of a bead.\n\nA bead sequence is considered acceptable if it adheres to the following rules. Otherwise, it is not considered acceptable.\n\nRule 1: The number of beads in the sequence is between  5  and 10,  inclusive.\n\nRule 2: The sequence contains at least one blue bead (represented by  \"B\") and at least one white bead (represented by  \"W\"). \n\nRule 3: The sequence starts and ends with the same color.\n\nYou will create three  boolean  variables to help determine whether the sequence is acceptable, and then print a message indicating the result. The following table illustrates the intended behavior for different values of  beadSequence.\n\nValue of\nbeadSequence\nMeets Rule 1\nMeets Rule 2\nMeets Rule 3\nPrinted Output\n\"OBWO\"\nfalse\ntrue\ntrue\n\"Not acceptable\"\n\"BWBGOGWBB\"\ntrue\ntrue\ntrue\n\"Acceptable\"\n\"ROYGBIVW\"\ntrue\ntrue\nfalse\n\"Not acceptable\"\n\"BOBOBOBO\"\ntrue\nfalse\nfalse\n\"Not acceptable\"\n\"WBWRWBWRWBWR\"\nfalse\ntrue\nfalse\n\"Not acceptable\"\n\"BWWWBBWWWB\"\ntrue\ntrue\ntrue\n\"Acceptable\"",
+    "question": "Write a code segment that creates a  boolean  variable named  lengthGood  and assigns it  true  if  beadSequence  meets rule 1 and assigns it  false  otherwise.",
     "image": null,
     "frqParts": [
       {
-        "text": "Write a code segment that creates a boolean variable named lengthGood and assigns it true if beadSequence meets rule 1 and assigns it false otherwise.",
+        "text": "Write a code segment that creates a  boolean  variable named  lengthGood  and assigns it  true  if  beadSequence  meets rule 1 and assigns it  false  otherwise.",
         "image": null
       }
     ]

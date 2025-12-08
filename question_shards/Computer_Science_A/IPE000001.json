@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Scan usernames from text file",
   "content": {
-    "description": "",
-    "question": "Which of the following can replace /* missing code */ so that this code segment works as intended?",
+    "description": "A text file named roster.txt has the following contents. Assume that the file contains no spaces.\n Cohen-Isabel\nLee-Cindy\nPatel-Anisha\nSanchez-Michael\n\nIn the following code segment, a valid Scanner object named scan has been created to read from the text file.\n File myText = new File(\"roster.txt\");\nScanner scan = new Scanner(myText);\n\nArrayList<String> usernames = new ArrayList<String>();\n\n/* missing code */\n\nThis code segment is intended to assign [\"ICohen\", \"CLee\", \"APatel\", \"MSanchez\"] to usernames.",
+    "question": "Which of the following can replace /* missing code */ so that this code segment works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "while (scan.hasNext()) { String temp = scan.next().substring(0, 1); usernames.add(temp + scan.next()); }",
+        "label": "while (scan.hasNext())\n{\n String temp = scan.next().substring(0, 1);\n usernames.add(temp + scan.next());\n}",
         "image": null
       },
       {
-        "label": "while (scan.hasNext()) { String one = scan.next(); String two = scan.next(); usernames.add(two.substring(0, 1) + one); }",
+        "label": "while (scan.hasNext())\n{\n String one = scan.next();\n String two = scan.next();\n usernames.add(two.substring(0, 1) + one);\n}",
         "image": null
       },
       {
-        "label": "while (scan.hasNext()) { String[] temp = scan.next().split(\"-\"); usernames.add(temp[1].substring(0, 1) + temp[0]); }",
+        "label": "while (scan.hasNext())\n{\n String[] temp = scan.next().split(\"-\");\n usernames.add(temp[1].substring(0, 1) + temp[0]);\n}",
         "image": null
       },
       {
-        "label": "while (scan.hasNext()) { String[] temp = scan.next().split(\"-\"); usernames.add(temp[0].substring(0, 1) + temp[1]); }",
+        "label": "while (scan.hasNext())\n{\n String[] temp = scan.next().split(\"-\");\n usernames.add(temp[0].substring(0, 1) + temp[1]);\n}",
         "image": null
       }
     ],
-    "answer": "while (scan.hasNext()) { String[] temp = scan.next().split(\"-\"); usernames.add(temp[1].substring(0, 1) + temp[0]); }"
+    "answer": "while (scan.hasNext())\n{\n String[] temp = scan.next().split(\"-\");\n usernames.add(temp[1].substring(0, 1) + temp[0]);\n}"
   },
   "unit": {
     "code": "1",

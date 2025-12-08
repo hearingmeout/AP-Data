@@ -3,20 +3,20 @@
   "type": "mcq",
   "title": "precondition for findAvg method",
   "content": {
-    "description": "Consider the following method, which is intended to return the average (arithmetic mean) of the values in an integer array. Assume the array contains at least one element.",
-    "question": "public static double findAvg(double[] values){double sum = 0.0;for (double val : values){sum += val;}return sum / values.length;}Which of the following preconditions, if any, must be true about the array values so that the method works as intended?",
+    "description": "",
+    "question": "Consider the following method, which is intended to return the average (arithmetic mean) of the values in an integer array. Assume the array contains at least one element.\n\npublic static double findAvg(double[] values)\n{\ndouble sum = 0.0;\nfor (double val : values)\n{\nsum += val;\n}\nreturn sum / values.length;\n}\nWhich of the following preconditions, if any, must be true about the array values so that the method works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "The array values must be sorted in ascending order.",
+        "label": "The array values must be sorted in ascending order.",
         "image": null
       },
       {
-        "label": "The array values must be sorted in descending order.",
+        "label": "The array values must be sorted in descending order.",
         "image": null
       },
       {
-        "label": "The array values must not contain values whose sum is not 0.",
+        "label": "The array values must not contain values whose sum is not 0.",
         "image": null
       },
       {

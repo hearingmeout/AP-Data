@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Exponential Decay - Modeling Population",
   "content": {
-    "description": "",
-    "question": "Which of the following describes the relationship between model <math alttext=\"Q\"><mi>Q</mi></math> and model <math alttext=\"P\"> <mi>P</mi> </math> ?",
+    "description": "The population of people in a community is decreasing over time. The population can be modeled by the exponential decay function <math alttext=\"P\"><mi>P</mi></math> given by <math alttext=\"P open parentheses t close parentheses equals 20000 open parentheses 0.92 close parentheses to the power of t\"> <mi>P</mi> <mfenced> <mi>t</mi> </mfenced> <mo>=</mo> <mn>20,000</mn> <msup> <mfenced> <mn>0.92</mn> </mfenced> <mi>t</mi> </msup> </math>, where <math alttext=\"t\"><mi>t</mi></math> is measured in years since <math alttext=\"2020\"><mn>2020</mn></math>. Based on updated data, a new exponential decay function model for the population was constructed. The new model <math alttext=\"Q\"><mi>Q</mi></math> is given by <math alttext=\"Q open parentheses t close parentheses equals 20000 open parentheses open parentheses 0.9 close parentheses open parentheses 0.92 close parentheses close parentheses to the power of t\"><mi>Q</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mn>20,000</mn><msup><mfenced><mrow><mfenced><mn>0.9</mn></mfenced><mfenced><mn>0.92</mn></mfenced></mrow></mfenced><mi>t</mi></msup></math>.",
+    "question": "Which of the following describes the relationship between model <math alttext=\"Q\"><mi>Q</mi></math> and model <math alttext=\"P\"> <mi>P</mi> </math> ?",
     "image": null,
     "choices": [
       {
-        "label": "In model <math alttext=\"Q\"><mi>Q</mi></math> the new growth factor is reduced by <math alttext=\"0.9\"><mn>0.9</mn></math> times the growth factor in model <math alttext=\"P\"><mi>P</mi></math>.",
+        "label": "In model <math alttext=\"Q\"><mi>Q</mi></math> the new growth factor is reduced by <math alttext=\"0.9\"><mn>0.9</mn></math> times the growth factor in model <math alttext=\"P\"><mi>P</mi></math>.",
         "image": null
       },
       {
-        "label": "In model <math alttext=\"Q\"><mi>Q</mi></math> the new initial value is reduced by <math alttext=\"0.9\"><mn>0.9</mn></math> times the initial value in model <math alttext=\"P\"><mi>P</mi></math>.",
+        "label": "In model <math alttext=\"Q\"><mi>Q</mi></math> the new initial value is reduced by <math alttext=\"0.9\"><mn>0.9</mn></math> times the initial value in model <math alttext=\"P\"><mi>P</mi></math>.",
         "image": null
       },
       {
-        "label": "In model <math alttext=\"Q\"><mi>Q</mi></math> the new growth factor is <math alttext=\"0.9\"><mn>0.9</mn></math> times as large as the growth factor in model <math alttext=\"P\"><mi>P</mi></math>.",
+        "label": "In model <math alttext=\"Q\"><mi>Q</mi></math> the new growth factor is <math alttext=\"0.9\"><mn>0.9</mn></math> times as large as the growth factor in model <math alttext=\"P\"><mi>P</mi></math>.",
         "image": null
       },
       {
-        "label": "In model <math alttext=\"Q\"><mi>Q</mi></math> the new initial value is <math alttext=\"0.9\"><mn>0.9</mn></math> times as large as the initial value in model <math alttext=\"P\"><mi>P</mi></math>.",
+        "label": "In model <math alttext=\"Q\"><mi>Q</mi></math> the new initial value is <math alttext=\"0.9\"><mn>0.9</mn></math> times as large as the initial value in model <math alttext=\"P\"><mi>P</mi></math>.",
         "image": null
       }
     ],
-    "answer": "In model <math alttext=\"Q\"><mi>Q</mi></math> the new growth factor is <math alttext=\"0.9\"><mn>0.9</mn></math> times as large as the growth factor in model <math alttext=\"P\"><mi>P</mi></math>."
+    "answer": "In model <math alttext=\"Q\"><mi>Q</mi></math> the new growth factor is <math alttext=\"0.9\"><mn>0.9</mn></math> times as large as the growth factor in model <math alttext=\"P\"><mi>P</mi></math>."
   },
   "unit": {
     "code": "2",

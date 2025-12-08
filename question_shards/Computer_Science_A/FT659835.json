@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "someCode methd with parameters a, b, and c",
   "content": {
-    "description": "Consider the following method.",
-    "question": "public int someCode(int a, int b, int c) { if ((a < b) && (b < c)) return a; if ((a >= b) && (b >= c)) return b; if ((a == b) || (a == c) || (b == c)) return c; } Which of the following best describes why this method does not compile?",
+    "description": "",
+    "question": "Consider the following method.\n\npublic int someCode(int a, int b, int c)\n\n{\n\nif ((a < b) && (b < c))\n\nreturn a;\n\nif ((a >= b) && (b >= c))\n\nreturn b;\n\nif ((a == b) || (a == c) || (b == c))\n\nreturn c;\n\n}\n\nWhich of the following best describes why this method does not compile?",
     "image": null,
     "choices": [
       {

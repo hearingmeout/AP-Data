@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Expression equivalent to nested ifs - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following statements always assigns the same value to b2 as the code segment assigns to b1?",
+    "description": "In the following code segment,  num  is a properly declared and initialized  int  variable.\n boolean b1 = true;\nif (num > 0)\n{\n if (num >= 100)\n {\n b1 = false;\n }\n}\nelse\n{\n if (num >= -100)\n {\n b1 = false;\n }\n}",
+    "question": "Which of the following statements always assigns the same value to  b2  as the code segment assigns to  b1?",
     "image": null,
     "choices": [
       {

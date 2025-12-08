@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Loop to processes digits of num- describe behavior",
   "content": {
-    "description": "",
+    "description": "In the following code segment,  num  has been assigned a positive  int  value.\n int x = 0; \nint temp = num;\n\nwhile (temp > 0) \n{ \n x += temp % 10; \n   temp /= 10; \n} \n\nSystem.out.println(x);",
     "question": "Which of the following best describes the value printed by this code segment?",
     "image": null,
     "choices": [
       {
-        "label": "A count of the number of digits in num",
+        "label": "A count of the number of digits in  num",
         "image": null
       },
       {
-        "label": "The average of the digits in num",
+        "label": "The average of the digits in  num",
         "image": null
       },
       {
-        "label": "The sum of the digits in num",
+        "label": "The sum of the digits in  num",
         "image": null
       },
       {
-        "label": "Whether num is evenly divisible by 10",
+        "label": "Whether  num  is evenly divisible by 10",
         "image": null
       }
     ],
-    "answer": "The sum of the digits in num"
+    "answer": "The sum of the digits in  num"
   },
   "unit": {
     "code": "2",

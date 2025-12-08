@@ -1,0 +1,41 @@
+{
+  "id": "VH971983",
+  "type": "mcq",
+  "title": "Justification - L Hospitals Rule",
+  "content": {
+    "description": "",
+    "question": "<math alttext=\"the limit as t approaches 0, of, the fraction with numerator sine t, and denominator the natural log of, open parenthesis, 2 times e raised to the t power, minus 1, close parenthesis, end fraction, equals\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><munder><mrow><mi>lim</mi></mrow><mrow><mi>t</mi><mo>→</mo><mn>0</mn></mrow></munder><mfrac><mrow><mi>sin</mi><mo>⁡</mo><mi>t</mi></mrow><mrow><mi>ln</mi><mo>⁡</mo><mrow><mo>(</mo><mn>2</mn><msup><mrow><mi>e</mi></mrow><mrow><mi>t</mi></mrow></msup><mo>−</mo><mn>1</mn><mo>)</mo></mrow></mrow></mfrac><mo>=</mo></mrow></mstyle></math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"negative 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>−</mo><mn>1</mn></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "0",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"one half\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "1",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"one half\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Contextual Applications of Differentiation"
+  },
+  "topic": {
+    "code": "4.7",
+    "text": "4.7: Using L'Hospital's Rule for Determining Limits of Indeterminate Forms"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "SomeClass object - write code",
   "content": {
-    "description": "",
-    "question": "Assume that SomeClass object obj has been properly declared and instantiated in a class other than SomeClass. Which of the following statements will compile without error?",
+    "description": "Consider the following partial class definition.\n public class SomeClass\n{\n private int myA;\n\n// Constructor(s) not shown\n\npublic int getA()\n {\n return myA;\n }\n}",
+    "question": "Assume that  SomeClass  object  obj  has been properly declared and instantiated in a class other than  SomeClass.  Which of the following statements will compile without error?",
     "image": null,
     "choices": [
       {

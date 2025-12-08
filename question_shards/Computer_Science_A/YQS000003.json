@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "math expr with pos value - determine preconditions",
   "content": {
-    "description": "",
+    "description": "The following code segment appears in a method. In the code segment,  x  and  y  are properly declared and initialized  int  variables.\n System.out.println(x * x * y);",
     "question": "Which of the following preconditions for the method is most appropriate to ensure that the value printed by the code segment is always greater than zero?",
     "image": null,
     "choices": [
       {
-        "label": "/** * Preconditions: x is greater than zero. * y is not equal to zero. */",
+        "label": "/**\n * Preconditions: x is greater than zero.\n * y is not equal to zero.\n */",
         "image": null
       },
       {
-        "label": "/** * Preconditions: x is not equal to zero. * y is greater than zero. */",
+        "label": "/**\n * Preconditions: x is not equal to zero.\n * y is greater than zero.\n */",
         "image": null
       },
       {
-        "label": "/** * Preconditions: x is even and is not equal to zero. * y is not equal to zero. */",
+        "label": "/**\n * Preconditions: x is even and is not equal to zero.\n * y is not equal to zero.\n */",
         "image": null
       },
       {
-        "label": "/** * Preconditions: x is not equal to zero. * y is even and is not equal to zero. */",
+        "label": "/**\n * Preconditions: x is not equal to zero.\n * y is even and is not equal to zero.\n */",
         "image": null
       }
     ],
-    "answer": "/** * Preconditions: x is not equal to zero. * y is greater than zero. */"
+    "answer": "/**\n * Preconditions: x is not equal to zero.\n * y is greater than zero.\n */"
   },
   "unit": {
     "code": "1",

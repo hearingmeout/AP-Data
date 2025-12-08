@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "dataValues ArrayList methods - determine result",
   "content": {
-    "description": "",
-    "question": "Which of the following represents the contents of dataValues after executing the code segment?",
+    "description": "Consider the following code segment.\n ArrayList<Double> dataValues = new ArrayList<Double>();\ndataValues.add(9.84);\ndataValues.add(8.93);\ndataValues.add(7.65);\ndataValues.add(6.24);\ndataValues.remove(2);\ndataValues.set(2, 7.63);",
+    "question": "Which of the following represents the contents of  dataValues  after executing the code segment?",
     "image": null,
     "choices": [
       {

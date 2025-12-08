@@ -3,12 +3,12 @@
   "type": "mcq",
   "title": "error calling method in Password class",
   "content": {
-    "description": "Consider the following class definition.",
-    "question": "public class Password{private String password;public Password (String pwd){password = pwd;}public void reset(String new_pwd){password = new_pwd;}}Consider the following code segment, which appears in a method in a class other than Password. The code segment does not compile.Password p = new Password(\"password\");System.out.println(\"The new password is \" + p.reset(\"password\"));Which of the following best identifies the reason the code segment does not compile?",
+    "description": "",
+    "question": "Consider the following class definition.\n\npublic class Password\n{\nprivate String password;\n\npublic Password (String pwd)\n{\npassword = pwd;\n}\n\npublic void reset(String new_pwd)\n{\npassword = new_pwd;\n}\n}\nConsider the following code segment, which appears in a method in a class other than Password. The code segment does not compile.\n\nPassword p = new Password(\"password\");\nSystem.out.println(\"The new password is \" + p.reset(\"password\"));\nWhich of the following best identifies the reason the code segment does not compile?",
     "image": null,
     "choices": [
       {
-        "label": "The code segment attempts to access the private variable password from outside the Password class.",
+        "label": "The code segment attempts to access the private variable password from outside the Password class.",
         "image": null
       },
       {
@@ -16,15 +16,15 @@
         "image": null
       },
       {
-        "label": "The Password class constructor is invoked incorrectly.",
+        "label": "The Password class constructor is invoked incorrectly.",
         "image": null
       },
       {
-        "label": "The reset method does not return a value that can be printed.",
+        "label": "The reset method does not return a value that can be printed.",
         "image": null
       }
     ],
-    "answer": "The reset method does not return a value that can be printed."
+    "answer": "The reset method does not return a value that can be printed."
   },
   "unit": {
     "code": "3",

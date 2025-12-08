@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "change initial value of j before while loops",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "int j = 1;while (j < 5){int k = 1;while (k < 5){System.out.println(k);k++;}j++;}Which of the following best explains the effect, if any, of changing the first line of code to int j = 0; ?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nint j = 1;\nwhile (j < 5)\n{\nint k = 1;\nwhile (k < 5)\n{\nSystem.out.println(k);\nk++;\n}\nj++;\n}\nWhich of the following best explains the effect, if any, of changing the first line of code to int j = 0; ?",
     "image": null,
     "choices": [
       {

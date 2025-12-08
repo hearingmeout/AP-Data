@@ -3,20 +3,20 @@
   "type": "mcq",
   "title": "error in countTarget method",
   "content": {
-    "description": "The method countTarget below is intended to return the number of times the value target appears in the array arr. The method may not work as intended.",
-    "question": "public int countTarget(int[] arr, int target){int count = 0;for (int j = 0; j <= arr.length; j++) // line 4{if (arr[j] == target){count++;}}return count;}Which of the following changes, if any, can be made to line 4 so that the method will work as intended?",
+    "description": "",
+    "question": "The method countTarget below is intended to return the number of times the value target appears in the array arr. The method may not work as intended.\n\npublic int countTarget(int[] arr, int target)\n{\nint count = 0;\nfor (int j = 0; j <= arr.length; j++)  // line 4\n{\nif (arr[j] == target)\n{\ncount++;\n}\n}\nreturn count;\n}\nWhich of the following changes, if any, can be made to line 4 so that the method will work as intended?",
     "image": null,
     "choices": [
       {
-        "label": "Changing j <= arr.length; to j < arr.length;",
+        "label": "Changing j <= arr.length; to j < arr.length;",
         "image": null
       },
       {
-        "label": "Changing j <= arr.length; to j < arr.length - 1;",
+        "label": "Changing j <= arr.length; to j < arr.length - 1;",
         "image": null
       },
       {
-        "label": "Changing j <= arr.length; to j < arr.length + 1;",
+        "label": "Changing j <= arr.length; to j < arr.length + 1;",
         "image": null
       },
       {
@@ -24,7 +24,7 @@
         "image": null
       }
     ],
-    "answer": "Changing j <= arr.length; to j < arr.length;"
+    "answer": "Changing j <= arr.length; to j < arr.length;"
   },
   "unit": {
     "code": "4",

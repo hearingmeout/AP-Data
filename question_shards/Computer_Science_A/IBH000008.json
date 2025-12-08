@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "static var in Something class - describe behavior",
   "content": {
-    "description": "",
+    "description": "Consider the following class definition.\n public class Something \n{\n private static int count = 0;\n\npublic Something()\n {\n count += 5;\n }\n\npublic static void increment()\n {\n count++;\n }\n}\n\nThe following code segment appears in a method in a class other than  Something.\n Something s = new Something(); \nSomething.increment();",
     "question": "Which of the following best describes the behavior of the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "The code segment does not compile because the increment method should be called on an object of the class Something, not on the class itself.",
+        "label": "The code segment does not compile because the  increment  method should be called on an object of the class  Something,  not on the class itself.",
         "image": null
       },
       {
-        "label": "The code segment creates a Something object s. The Something class’s static variable count is initially 0, then is increased by 1.",
+        "label": "The code segment creates a  Something  object  s.  The  Something  class’s  static  variable  count  is initially  0,  then is increased by  1.",
         "image": null
       },
       {
-        "label": "The code segment creates a Something object s. The Something class’s static variable count is initially 0, then is increased by 5, then is increased by 1.",
+        "label": "The code segment creates a  Something  object  s.  The  Something  class’s  static  variable  count  is initially  0,  then is increased by  5,  then is increased by  1.",
         "image": null
       },
       {
-        "label": "The code segment creates a Something object s. The Something class’s static variable count does not change after it is initially set to 0.",
+        "label": "The code segment creates a  Something  object  s.  The  Something  class’s  static  variable  count  does not change after it is initially set to  0.",
         "image": null
       }
     ],
-    "answer": "The code segment creates a Something object s. The Something class’s static variable count is initially 0, then is increased by 5, then is increased by 1."
+    "answer": "The code segment creates a  Something  object  s.  The  Something  class’s  static  variable  count  is initially  0,  then is increased by  5,  then is increased by  1."
   },
   "unit": {
     "code": "1",

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Remove negative numbers from ArrayList - condition",
   "content": {
-    "description": "",
-    "question": "The code segment is intended to remove all negative values from numbers. Which of the following best describes the conditions in which the code segment works as intended?",
+    "description": "In the following code segment,  numbers  is a properly declared and initialized  ArrayList<Integer>  variable. \n for (int i = 0; i < numbers.size(); i++)\n{\n if (numbers.get(i) < 0)\n {\n numbers.remove(i);\n }\n}",
+    "question": "The code segment is intended to remove all negative values from  numbers.  Which of the following best describes the conditions in which the code segment works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "The code segment works as intended for all possible contents of numbers.",
+        "label": "The code segment works as intended for all possible contents of  numbers.",
         "image": null
       },
       {
-        "label": "The code segment works as intended only when negative numbers are not in adjacent positions in numbers.",
+        "label": "The code segment works as intended only when negative numbers are not in adjacent positions in  numbers.",
         "image": null
       },
       {
-        "label": "The code segment works as intended only when numbers is sorted.",
+        "label": "The code segment works as intended only when  numbers is sorted.",
         "image": null
       },
       {
-        "label": "The code segment works as intended only when there are no duplicate values in numbers.",
+        "label": "The code segment works as intended only when there are no duplicate values in  numbers.",
         "image": null
       }
     ],
-    "answer": "The code segment works as intended only when negative numbers are not in adjacent positions in numbers."
+    "answer": "The code segment works as intended only when negative numbers are not in adjacent positions in  numbers."
   },
   "unit": {
     "code": "4",

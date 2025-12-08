@@ -3,12 +3,12 @@
   "type": "mcq",
   "title": "Rope lengths - describe behavior ",
   "content": {
-    "description": "",
+    "description": "A store sells rope only in whole-foot increments. Given three lengths of rope, in feet, the following code segment is intended to display the minimum length of rope, in feet, that must be purchased so that the rope is long enough to be cut into the three lengths.\nFor example, for lengths of 2.8 feet, 3 feet, and 5 feet, the minimum length of rope that must be purchased is 11 feet. For these values, the code segment should display 11. As another example, for lengths of 1.1 feet, 3.2 feet, and 2 feet, the minimum length of rope that must be purchased is 7 feet. For these values, the code segment should display 7.\nIn the following code segment, len1, len2, and len3 are properly declared and initialized double variables representing the three lengths of rope.\n double total = len1 + len2 + len3;\nint minLength = (int) (total + 0.5);\nSystem.out.print(minLength);",
     "question": "Which of the following best describes the behavior of the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "The code segment works as intended for all nonnegative values of len1, len2, and len3.",
+        "label": "The code segment works as intended for all nonnegative values of len1, len2, and len3.",
         "image": null
       },
       {
@@ -16,11 +16,11 @@
         "image": null
       },
       {
-        "label": "The code segment does not work as intended for some values of len1, len2, and len3 because these values must be cast to int before they are added together.",
+        "label": "The code segment does not work as intended for some values of len1, len2, and len3 because these values must be cast to int  before they are added together.",
         "image": null
       },
       {
-        "label": "The code segment does not work as intended for some values of len1, len2, and len3 because minLength should be declared as a double and then cast to an int in the print statement.",
+        "label": "The code segment does not work as intended for some values of len1, len2,  and len3 because minLength should be declared as a double and then cast to an int in the print statement.",
         "image": null
       }
     ],

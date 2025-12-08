@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "ArrayList of colors",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "ArrayList<String> colors = new ArrayList<String>(); colors.add(\"Red\"); colors.add(\"Orange\"); colors.set(1, \"Yellow\"); colors.add(1, \"Green\"); colors.set(colors.size() - 1, \"Blue\"); colors.remove(0); System.out.println(colors); What is printed as a result of executing the code segment?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nArrayList<String> colors = new ArrayList<String>();\n\ncolors.add(\"Red\");\n\ncolors.add(\"Orange\");\n\ncolors.set(1, \"Yellow\");\n\ncolors.add(1, \"Green\");\n\ncolors.set(colors.size() - 1, \"Blue\");\n\ncolors.remove(0);\n\nSystem.out.println(colors);\n\nWhat is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {

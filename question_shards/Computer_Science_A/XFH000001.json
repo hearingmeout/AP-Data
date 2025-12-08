@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "call add set remove on ArrayList- determine result",
   "content": {
-    "description": "",
-    "question": "Which of the following represents the contents of nums after the code segment is executed?",
+    "description": "Consider the following code segment.\n ArrayList<Integer> nums = new ArrayList<Integer>();\n\nnums.add(3);\nnums.add(2);\nnums.add(1);\nnums.add(0);\nnums.add(0, 4);\nnums.set(3, 2);\nnums.remove(3);\nnums.add(2, 0);",
+    "question": "Which of the following represents the contents of nums after the code segment is executed?",
     "image": null,
     "choices": [
       {

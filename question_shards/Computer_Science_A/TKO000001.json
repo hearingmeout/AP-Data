@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Compound Boolean expression - describe behavior",
   "content": {
-    "description": "",
-    "question": "Which of the following best describes the conditions in which result is assigned the value true?",
+    "description": "In the following statement, j and k are properly declared and initialized int variables.\n boolean result = ((j > 0) && (k > 0)) || ((j < 0) && (k < 0));",
+    "question": "Which of the following best describes the conditions in which result is assigned the value true?",
     "image": null,
     "choices": [
       {
-        "label": "When j and k are both equal to 0",
+        "label": "When j and k are both equal to 0",
         "image": null
       },
       {
-        "label": "When j and k are both positive or both negative",
+        "label": "When j and k are both positive or both negative",
         "image": null
       },
       {
-        "label": "When j is greater than k",
+        "label": "When j is greater than k",
         "image": null
       },
       {
-        "label": "When j is positive and k is negative or when j is negative and k is positive",
+        "label": "When j is positive and k is negative or when j is negative and k is positive",
         "image": null
       }
     ],
-    "answer": "When j and k are both positive or both negative"
+    "answer": "When j and k are both positive or both negative"
   },
   "unit": {
     "code": "2",

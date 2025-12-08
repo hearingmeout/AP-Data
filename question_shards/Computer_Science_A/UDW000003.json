@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "MenuItem and Combo using this - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following class definitions.\n\npublic class MenuItem \n{ \n   private double price;\n\npublic MenuItem(double p) \n   { \n      price = p; \n   }\n\npublic double getPrice()\n   {\n   return price;\n   }\n\npublic void makeItAMeal() \n   { \n      Combo meal = new Combo(this); \n      price = meal.getComboPrice(); \n   } \n} \n\npublic class Combo\n{\n   private double comboPrice;\n\npublic Combo(MenuItem item)\n   {\n      comboPrice = item.getPrice() + 1.5;\n   }\n\npublic double getComboPrice()\n   {\n      return comboPrice;\n   }\n} \n\nThe following code segment appears in a class other than  MenuItem  or  Combo.\n MenuItem one = new MenuItem(5.0); \none.makeItAMeal(); \nSystem.out.println(one.getPrice());",
     "question": "What, if anything, is printed as a result of executing the code segment?",
     "image": null,
     "choices": [

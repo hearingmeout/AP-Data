@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "maxHelper with int array instance variable",
   "content": {
-    "description": "The following question refer to the following information.",
-    "question": "Consider the following data field and method. Method maxHelper is intended to return the largest value among the first numVals values in an array; however, maxHelper does not work as intended. private int[] nums; // precondition: 0 < numVals <= nums.length private int maxHelper(int numVals) { Line 1: int max = maxHelper(numVals - 1); Line 2: if (max > nums[numVals - 1]) return max; else return nums[numVals - 1]; } Which of the following best describes the conditions under which maxHelper does not work as intended?",
+    "description": "",
+    "question": "The following question refer to the following information.\n\nConsider the following data field and method. Method maxHelper is intended to return the largest value among the first numVals values in an array; however, maxHelper does not work as intended.\n\nprivate int[] nums;\n\n// precondition: 0 < numVals <= nums.length\n\nprivate int maxHelper(int numVals)\n\n{\n\nLine 1:   int max = maxHelper(numVals - 1);\n\nLine 2:   if (max > nums[numVals - 1])\n\nreturn max;\n\nelse\n\nreturn nums[numVals - 1];\n\n}\nWhich of the following best describes the conditions under which maxHelper does not work as intended?",
     "image": null,
     "choices": [
       {

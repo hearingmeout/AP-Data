@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Alpha and Beta classes",
   "content": {
-    "description": "Consider the following class declarations.",
-    "question": "public class Alpha { private int answer() { return 10; } } public class Beta { public double sample() { Alpha item = new Alpha(); double temp = item.answer(); return temp * 2.0; } } Which of the following best describes why an error occurs when the classes are compiled?",
+    "description": "",
+    "question": "Consider the following class declarations.\n\npublic class Alpha\n\n{\n\nprivate int answer()\n\n{\n\nreturn 10;\n\n}\n\n}\n\npublic class Beta\n\n{\n\npublic double sample()\n\n{\n\nAlpha item = new Alpha();\n\ndouble temp = item.answer();\n\nreturn temp * 2.0;\n\n}\n\n}\n\nWhich of the following best describes why an error occurs when the classes are compiled?",
     "image": null,
     "choices": [
       {
-        "label": "The class Alpha does not have a defined constructor.",
+        "label": "The class Alpha does not have a defined constructor.",
         "image": null
       },
       {
-        "label": "The class Beta must be declared as a subclass of Alpha.",
+        "label": "The class Beta must be declared as a subclass of Alpha.",
         "image": null
       },
       {
-        "label": "The answer method cannot be accessed from a class other than Alpha.",
+        "label": "The answer method cannot be accessed from a class other than Alpha.",
         "image": null
       },
       {
-        "label": "The result of the method call item.answer() cannot be assigned to a variable of type double.",
+        "label": "The result of the method call item.answer() cannot be assigned to a variable of type double.",
         "image": null
       }
     ],
-    "answer": "The answer method cannot be accessed from a class other than Alpha."
+    "answer": "The answer method cannot be accessed from a class other than Alpha."
   },
   "unit": {
     "code": "1",

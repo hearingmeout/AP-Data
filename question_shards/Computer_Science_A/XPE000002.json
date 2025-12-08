@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Print cloudy and foggy - initial conditions",
   "content": {
-    "description": "",
-    "question": "For which of the following values of mon and tue will the code segment print \"cloudy and foggy\"?",
+    "description": "In the following code segment,  mon  and  tue  are properly declared  String  variables.\n String str1 = mon.substring(0, mon.indexOf(\" \"));\nString str2 = tue.substring(tue.indexOf(\" \") + 1);\nSystem.out.println(str1 + \" and \" + str2);",
+    "question": "For which of the following values of  mon  and  tue  will the code segment print  \"cloudy and foggy\"?",
     "image": null,
     "choices": [
       {
-        "label": "montue\"cloudy today\"\"foggy tomorrow\"",
+        "label": "mon\ntue\n\"cloudy today\"\n\"foggy tomorrow\"",
         "image": null
       },
       {
-        "label": "montue\"cloudy today\"\"tomorrow foggy\"",
+        "label": "mon\ntue\n\"cloudy today\"\n\"tomorrow foggy\"",
         "image": null
       },
       {
-        "label": "montue\"today cloudy\"\"foggy tomorrow\"",
+        "label": "mon\ntue\n\"today cloudy\"\n\"foggy tomorrow\"",
         "image": null
       },
       {
-        "label": "montue\"today cloudy\"\"tomorrow foggy\"",
+        "label": "mon\ntue\n\"today cloudy\"\n\"tomorrow foggy\"",
         "image": null
       }
     ],
-    "answer": "montue\"cloudy today\"\"tomorrow foggy\""
+    "answer": "mon\ntue\n\"cloudy today\"\n\"tomorrow foggy\""
   },
   "unit": {
     "code": "1",

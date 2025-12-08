@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "ArrayList methods - describe behavior",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n ArrayList<Integer> nums = new ArrayList<Integer>();\n\nnums.add(12);\nnums.add(13);\nnums.add(15);\nnums.add(10);\n\nif (nums.get(0) > nums.get(nums.size() - 1))\n{ \n int x = nums.get(0); \n nums.set(0, nums.get(nums.size() - 1)); \n nums.set(nums.size() - 1, x); \n}",
     "question": "Which of the following best describes the behavior of the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "It compares all values in nums and places nums in order from smallest to largest.",
+        "label": "It compares all values in nums and places nums in order from smallest to largest.",
         "image": null
       },
       {
-        "label": "It compares all values in nums and places nums in order from largest to smallest.",
+        "label": "It compares all values in nums and places nums in order from largest to smallest.",
         "image": null
       },
       {
-        "label": "It compares the first and last elements in nums and swaps them if the first element is larger than the last.",
+        "label": "It compares the first and last elements in nums and swaps them if the first element is larger than the last.",
         "image": null
       },
       {
-        "label": "It compares the first and last elements in nums and swaps them if the first element is smaller than the last.",
+        "label": "It compares the first and last elements in nums and swaps them if the first element is smaller than the last.",
         "image": null
       }
     ],
-    "answer": "It compares the first and last elements in nums and swaps them if the first element is larger than the last."
+    "answer": "It compares the first and last elements in nums and swaps them if the first element is larger than the last."
   },
   "unit": {
     "code": "4",

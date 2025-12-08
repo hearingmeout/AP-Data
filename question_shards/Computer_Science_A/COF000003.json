@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Add up numbers in 2D array - determine result",
   "content": {
-    "description": "",
-    "question": "What is the value of x after executing the code segment?",
+    "description": "Consider the following code segment.\n int[][] values = {{1, 2, 3},\n {4, 5, 6}};\nint x = 0;\n\nfor (int j = 0; j < values.length; j++)\n{\n for (int k = 0; k < values[0].length; k++)\n {\n if (k == 0)\n {\n values[j][k] *= 2;\n }\n x += values[j][k];\n }\n}",
+    "question": "What is the value of  x  after executing the code segment?",
     "image": null,
     "choices": [
       {

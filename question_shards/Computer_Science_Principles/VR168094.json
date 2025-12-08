@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Store even numbers in evenList",
   "content": {
-    "description": "Consider the following code segment, which is intended to store ten consecutive even integers, beginning with 2, in the list evenList. Assume that evenList is initially empty.",
-    "question": "i <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 1REPEAT 10 TIMES{<MISSING CODE>}Which of the following can be used to replace <MISSING CODE> so that the code segment works as intended?",
+    "description": "",
+    "question": "Consider the following code segment, which is intended to store ten consecutive even integers, beginning with 2, in the list evenList. Assume that evenList is initially empty.\n\ni <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 1\nREPEAT 10 TIMES\n{\n<MISSING CODE>\n}\nWhich of the following can be used to replace <MISSING CODE> so that the code segment works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "APPEND(evenList, i)i <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> i + 2",
+        "label": "APPEND(evenList, i)\ni <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> i + 2",
         "image": null
       },
       {
-        "label": "i <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> i + 2APPEND(evenList, i)",
+        "label": "i <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> i + 2\nAPPEND(evenList, i)",
         "image": null
       },
       {
-        "label": "APPEND(evenList, 2 * i)i <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> i + 1",
+        "label": "APPEND(evenList, 2 * i)\ni <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> i + 1",
         "image": null
       },
       {
-        "label": "i <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> i + 1APPEND(evenList, 2 * i)",
+        "label": "i <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> i + 1\nAPPEND(evenList, 2 * i)",
         "image": null
       }
     ],
-    "answer": "APPEND(evenList, 2 * i)i <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> i + 1"
+    "answer": "APPEND(evenList, 2 * i)\ni <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> i + 1"
   },
   "topic": {
     "code": "3.10",

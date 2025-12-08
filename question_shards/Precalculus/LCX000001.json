@@ -4,27 +4,27 @@
   "title": "Particle Motion - position relative to an axis",
   "content": {
     "description": "",
-    "question": "In the <math alttext=\"x y\"><mi>x</mi><mi>y</mi></math>-plane, the position of a particle at time <math alttext=\"t\"><mi>t</mi></math> is given by the parametric function <math alttext=\"f\"><mi>f</mi></math> defined by <math alttext=\"f open parentheses t close parentheses equals open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses\"><mi>f</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced></math> for <math alttext=\"0 less or equal than t less or equal than 8\"><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>8</mn></math> seconds. If <math alttext=\"x open parentheses t close parentheses equals ln open parentheses t squared plus 1 close parentheses plus sin t minus 2.2\"><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mi>ln</mi><mfenced><mrow><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn></mrow></mfenced><mo>+</mo><mi>sin</mi><mi>t</mi><mo>-</mo><mn>2.2</mn></math> and <math alttext=\"y open parentheses t close parentheses equals t cubed minus 9 t plus e to the power of t minus 2\"><mi>y</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><msup><mi>t</mi><mn>3</mn></msup><mo>-</mo><mn>9</mn><mi>t</mi><mo>+</mo><msup><mi>e</mi><mi>t</mi></msup><mo>-</mo><mn>2</mn></math>, which of the following describes the position of the particle with respect to the <math alttext=\"y\"><mi>y</mi></math>-axis?",
+    "question": "In the <math alttext=\"x y\"><mi>x</mi><mi>y</mi></math>-plane, the position of a particle at time <math alttext=\"t\"><mi>t</mi></math> is given by the parametric function <math alttext=\"f\"><mi>f</mi></math> defined by <math alttext=\"f open parentheses t close parentheses equals open parentheses x open parentheses t close parentheses comma y open parentheses t close parentheses close parentheses\"><mi>f</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mfenced><mrow><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>,</mo><mi>y</mi><mfenced><mi>t</mi></mfenced></mrow></mfenced></math> for <math alttext=\"0 less or equal than t less or equal than 8\"><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>8</mn></math> seconds. If <math alttext=\"x open parentheses t close parentheses equals ln open parentheses t squared plus 1 close parentheses plus sin t minus 2.2\"><mi>x</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><mi>ln</mi><mfenced><mrow><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn></mrow></mfenced><mo>+</mo><mi>sin</mi><mi>t</mi><mo>-</mo><mn>2.2</mn></math> and <math alttext=\"y open parentheses t close parentheses equals t cubed minus 9 t plus e to the power of t minus 2\"><mi>y</mi><mfenced><mi>t</mi></mfenced><mo>=</mo><msup><mi>t</mi><mn>3</mn></msup><mo>-</mo><mn>9</mn><mi>t</mi><mo>+</mo><msup><mi>e</mi><mi>t</mi></msup><mo>-</mo><mn>2</mn></math>, which of the following describes the position of the particle with respect to the <math alttext=\"y\"><mi>y</mi></math>-axis?",
     "image": null,
     "choices": [
       {
-        "label": "The particle is to the left of the <math alttext=\"y\"><mi>y</mi></math>-axis on the interval <math alttext=\"0 less or equal than t less or equal than 1.524\"><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>1.524</mn></math> only.",
+        "label": "The particle is to the left of the <math alttext=\"y\"><mi>y</mi></math>-axis on the interval <math alttext=\"0 less or equal than t less or equal than 1.524\"><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>1.524</mn></math> only.",
         "image": null
       },
       {
-        "label": "The particle is to the left of the <math alttext=\"y\"><mi>y</mi></math>-axis on the intervals <math alttext=\"0 less or equal than t less or equal than 1.524\"><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>1.524</mn></math> and <math alttext=\"3.584 less or equal than t less or equal than 4.833\"><mn>3.584</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>4.833</mn></math>.",
+        "label": "The particle is to the left of the <math alttext=\"y\"><mi>y</mi></math>-axis on the intervals <math alttext=\"0 less or equal than t less or equal than 1.524\"><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>1.524</mn></math> and <math alttext=\"3.584 less or equal than t less or equal than 4.833\"><mn>3.584</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>4.833</mn></math>.",
         "image": null
       },
       {
-        "label": "The particle is to the left of the <math alttext=\"y\"><mi>y</mi></math>-axis on the interval <math alttext=\"2.332 less or equal than t less or equal than 8\"><mn>2.332</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>8</mn></math>.",
+        "label": "The particle is to the left of the <math alttext=\"y\"><mi>y</mi></math>-axis on the interval <math alttext=\"2.332 less or equal than t less or equal than 8\"><mn>2.332</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>8</mn></math>.",
         "image": null
       },
       {
-        "label": "The particle is to the left of the <math alttext=\"y\"><mi>y</mi></math>-axis on the interval <math alttext=\"4.833 less or equal than t less or equal than 8\"><mn>4.833</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>8</mn></math> only.",
+        "label": "The particle is to the left of the <math alttext=\"y\"><mi>y</mi></math>-axis on the interval <math alttext=\"4.833 less or equal than t less or equal than 8\"><mn>4.833</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>8</mn></math> only.",
         "image": null
       }
     ],
-    "answer": "The particle is to the left of the <math alttext=\"y\"><mi>y</mi></math>-axis on the intervals <math alttext=\"0 less or equal than t less or equal than 1.524\"><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>1.524</mn></math> and <math alttext=\"3.584 less or equal than t less or equal than 4.833\"><mn>3.584</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>4.833</mn></math>."
+    "answer": "The particle is to the left of the <math alttext=\"y\"><mi>y</mi></math>-axis on the intervals <math alttext=\"0 less or equal than t less or equal than 1.524\"><mn>0</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>1.524</mn></math> and <math alttext=\"3.584 less or equal than t less or equal than 4.833\"><mn>3.584</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>4.833</mn></math>."
   },
   "unit": {
     "code": "4",

@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Recursive bSearch - determine num of calls",
   "content": {
-    "description": "",
-    "question": "How many times will the bSearch method be called as a result of executing the code segment, including the initial call?",
+    "description": "Consider the following method, which correctly implements a recursive binary search.\n /**\n * Returns an index in arr where the value x appears if x appears\n *   in arr between arr[left] and arr[right], inclusive;\n *   otherwise returns -1.\n *   Preconditions: arr is sorted in ascending order.\n * left >= 0, right < arr.length, arr.length > 0\n */\npublic static int bSearch(int[] arr, int left, int right, int x)\n{\n   if (right >= left)\n   {\n      int mid = (left + right) / 2;\n      if (arr[mid] == x)\n      {\n         return mid;\n      }\n      else if (arr[mid] > x)\n      {\n         return bSearch(arr, left, mid - 1, x);\n      }\n      else\n      {\n         return bSearch(arr, mid + 1, right, x);\n      }\n   }\n   return -1;\n}\n\nThe following code segment appears in a method in the same class as   bSearch.\n int[] nums = {10, 20, 30, 40, 50};\nint result = bSearch(nums, 0, nums.length - 1, 40);",
+    "question": "How many times will the  bSearch  method be called as a result of executing the code segment, including the initial call?",
     "image": null,
     "choices": [
       {

@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Bacteria population simulation",
   "content": {
-    "description": "Which of the following are true statements about the simulation?",
-    "question": "The simulation continues until either 24 hours pass or the population reaches 0. The simulation displays the average change in population per hour over the course of the simulation. The simulation displays the total population at the end of the simulation.",
+    "description": "A biologist wrote a program to simulate the population of a sample of bacteria. The program uses the following procedures.\n\nProcedure Call\nExplanation\n\nInitialPopulation ()\nReturns the number of bacteria at the start of the simulation\n\nNextPopulation (currPop)\nBased on the current value of currPop, returns the number of bacteria after one hour\n\nCode for the simulation is shown below.\n\nhours <math alttext=\"←\" overflow=\"scroll\"> <mstyle> <mrow> <mo>←</mo> </mrow> </mstyle> </math> 0\n\nstartPop <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> InitialPopulation ()\n\ncurrentPop <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> startPop\n\nREPEAT UNTIL ((hours ≥ 24) OR (currentPop ≤ 0))\n\n{\n\ncurrentPop <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> NextPopulation (currentPop)\n\nhours <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> hours + 1\n\n}\n\nDISPLAY (currentPop - startPop)",
+    "question": "Which of the following are true statements about the simulation?\n\nThe simulation continues until either 24 hours pass or the population reaches 0.\n\nThe simulation displays the average change in population per hour over the course of the simulation.\n\nThe simulation displays the total population at the end of the simulation.",
     "image": null,
     "choices": [
       {

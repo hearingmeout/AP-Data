@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Outer loop header to print values - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can be used to replace /* missing loop header */ so that the code segment works as intended?",
+    "description": "Consider the following code segment.\n /* missing loop header */ \n{ \n   for (int k = 0; k < 4; k++) \n   { \n      System.out.print(k); \n   } \n   System.out.println(); \n} \n\nThis code segment is intended to produce the following output.\n 0123\n0123\n0123",
+    "question": "Which of the following can be used to replace  /* missing loop header */  so that the code segment works as intended?",
     "image": null,
     "choices": [
       {

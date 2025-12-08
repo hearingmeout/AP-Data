@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Recursive binary search - determine result",
   "content": {
-    "description": "",
-    "question": "What is the value of result after executing the code segment?",
+    "description": "The following method implements a recursive binary search algorithm.\n public static int binarySearch(int[] elements, int low,\n int high, int target)\n{\n if (low <= high)\n {\n int mid = (high + low) / 2;\n if (target < elements[mid])\n {\n return binarySearch(elements, low, mid - 1, target);\n }\n else if (target > elements[mid])\n {\n return binarySearch(elements, mid + 1, high, target);\n }\n else if (elements[mid] == target)\n {\n return mid;\n }\n }\n return -1;\n}\n\nThe following code segment appears in a method in the same class as binarySearch. \n int[] numbers = {10, 10, 10, 20, 20, 30, 40, 50, 50, 60, 80};\nint result = binarySearch(numbers, 0, numbers.length - 1, 10);",
+    "question": "What is the value of result after executing the code segment?",
     "image": null,
     "choices": [
       {

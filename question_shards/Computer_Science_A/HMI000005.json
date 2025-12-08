@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Count a in string - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can be used to replace /* missing code */ so that the code segment works as intended?",
+    "description": "In the following code segment,  str  is a properly declared and initialized string. The code segment is intended to count the number of times that  \"a\"  appears in  str.\n int count = 0;\nString temp = str;\nint loc = temp.indexOf(\"a\");\n\nwhile (loc >= 0)\n{\n /* missing code */\n}",
+    "question": "Which of the following can be used to replace  /* missing code */  so that the code segment works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "count++; temp = str.substring(loc + 1);",
+        "label": "count++;\ntemp = str.substring(loc + 1);",
         "image": null
       },
       {
-        "label": "count++; loc++; temp = str.substring(loc);",
+        "label": "count++;\nloc++;\ntemp = str.substring(loc);",
         "image": null
       },
       {
-        "label": "count++; temp = temp.substring(loc); loc = temp.indexOf(\"a\");",
+        "label": "count++;\ntemp = temp.substring(loc);\nloc = temp.indexOf(\"a\");",
         "image": null
       },
       {
-        "label": "count++; temp = temp.substring(loc + 1); loc = temp.indexOf(\"a\");",
+        "label": "count++;\ntemp = temp.substring(loc + 1);\nloc = temp.indexOf(\"a\");",
         "image": null
       }
     ],
-    "answer": "count++; temp = temp.substring(loc + 1); loc = temp.indexOf(\"a\");"
+    "answer": "count++;\ntemp = temp.substring(loc + 1);\nloc = temp.indexOf(\"a\");"
   },
   "unit": {
     "code": "2",

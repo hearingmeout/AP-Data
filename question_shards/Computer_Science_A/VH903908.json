@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Print One Two Three Four",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "System.out.print(\"One\"); // Line 1System.out.print(\"Two\"); // Line 2System.out.print(\"Three\"); // Line 3System.out.print(\"Four\"); // Line 4The code segment is intended to produce the following output, but does not work as intended.OneTwoThreeFourWhich of the following changes can be made so that the code segment produces the intended output?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nSystem.out.print(\"One\");   // Line 1\nSystem.out.print(\"Two\");   // Line 2\nSystem.out.print(\"Three\"); // Line 3\nSystem.out.print(\"Four\");  // Line 4\nThe code segment is intended to produce the following output, but does not work as intended.\n\nOneTwo\nThreeFour\nWhich of the following changes can be made so that the code segment produces the intended output?",
     "image": null,
     "choices": [
       {
-        "label": "Changing print to println in line 1 only",
+        "label": "Changing print to println in line 1 only",
         "image": null
       },
       {
-        "label": "Changing print to println in line 2 only",
+        "label": "Changing print to println in line 2 only",
         "image": null
       },
       {
-        "label": "Changing print to println in line 3 only",
+        "label": "Changing print to println in line 3 only",
         "image": null
       },
       {
-        "label": "Changing print to println in lines 1, 2, 3, and 4",
+        "label": "Changing print to println in lines 1, 2, 3, and 4",
         "image": null
       }
     ],
-    "answer": "Changing print to println in line 2 only"
+    "answer": "Changing print to println in line 2 only"
   },
   "unit": {
     "code": "1",

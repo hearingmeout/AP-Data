@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Average height algorithm",
   "content": {
-    "description": "",
+    "description": "The following algorithm is intended to determine the average height, in centimeters, of a group of people in a room. Each person has a card, a pencil, and an eraser. Step 2 of the algorithm is missing.\n\nStep 1: All people stand up.\n\nStep 2: (missing step)\n\nStep 3: Each standing person finds another standing person and they form a pair. If a person cannot find an unpaired standing person, that person remains standing and waits until the next opportunity to form pairs.\n\nStep 4: In each pair, one person hands their card to the other person and sits down.\n\nStep 5: At this point, the standing person in each pair is holding two cards. The standing person in each pair replaces the top number on their card with the sum of the top numbers on the two cards and replaces the bottom number on their card with the sum of the bottom numbers on the two cards. The sitting partner’s card is discarded.\n\nStep 6: Repeat steps 3–5 until there is only one person standing.\n\nStep 7: The last person standing divides the top number by the bottom number to determine the average height.",
     "question": "Which of the following can be used as step 2 so that the algorithm works as intended?",
     "image": null,
     "choices": [

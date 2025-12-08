@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "calculate total pay with Employee class",
   "content": {
-    "description": "Consider the following class definition. Each object of the class Employee will store the employee’s name as name, the number of weekly hours worked as wk_hours, and hourly rate of pay as pay_rate.",
-    "question": "public class Employee{private String name;private int wk_hours;private double pay_rate;public Employee(String nm, int hrs, double rt){name = nm;wk_hours = hrs;pay_rate = rt;}public Employee(String nm, double rt){name = nm;wk_hours = 20;pay_rate = rt;}}Which of the following code segments, found in a class other than Employee, could be used to correctly create an Employee object representing an employee who worked for 20 hours at a rate of $18.50 per hour?I.Employee e1 = new Employee(\"Lili\", 20, 18.5);II.Employee e2 = new Employee(\"Steve\", 18.5);III.Employee e3 = new Employee(\"Carol\", 20);",
+    "description": "",
+    "question": "Consider the following class definition. Each object of the class Employee will store the employee’s name as name, the number of weekly hours worked as wk_hours, and hourly rate of pay as pay_rate.\n\npublic class Employee\n{\nprivate String name;\nprivate int wk_hours;\nprivate double pay_rate;\n\npublic Employee(String nm, int hrs, double rt)\n{\nname = nm;\nwk_hours = hrs;\npay_rate = rt;\n}\n\npublic Employee(String nm, double rt)\n{\nname = nm;\nwk_hours = 20;\npay_rate = rt;\n}\n}\nWhich of the following code segments, found in a class other than Employee, could be used to correctly create an Employee object representing an employee who worked for 20 hours at a rate of $18.50 per hour?\n\nI.\nEmployee e1 = new Employee(\"Lili\", 20, 18.5);\n\nII.\nEmployee e2 = new Employee(\"Steve\", 18.5);\n\nIII.\nEmployee e3 = new Employee(\"Carol\", 20);",
     "image": null,
     "choices": [
       {

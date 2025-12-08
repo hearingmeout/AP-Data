@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Print true when positive - explain error",
   "content": {
-    "description": "",
-    "question": "Which of the following values for r and v will demonstrate that this code segment does not work as intended?",
+    "description": "Consider the following code segment, which is intended to print true only when both r and v are positive numbers. Assume that r and v have been properly declared and initialized.\n boolean rPos = r > 0; \nboolean vPos = v > 0; \nSystem.out.print(rPos == vPos);\n\nThe code segment does not always work as intended.",
+    "question": "Which of the following values for r and v will demonstrate that this code segment does not work as intended?",
     "image": null,
     "choices": [
       {

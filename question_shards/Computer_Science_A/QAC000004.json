@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Traverse 2D array - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n int[][] arr = {{1, 2, 3}, \n               {4, 5, 6}, \n               {7, 8, 9}, \n               {3, 2, 1}}; \n\nfor (int j = 0; j < arr.length; j++) \n{ \n   for (int k = j; k < arr[0].length; k++) \n   { \n      System.out.print(arr[j][k] + \" \"); \n   } \n   System.out.println(); \n}",
     "question": "What is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "1 2 3 4 5 7",
+        "label": "1 2 3 \n4 5 \n7",
         "image": null
       },
       {
-        "label": "1 2 3 5 6 9",
+        "label": "1 2 3 \n5 6 \n9",
         "image": null
       },
       {
-        "label": "1 4 7 5 8 9",
+        "label": "1 4 7 \n5 8 \n9",
         "image": null
       },
       {
-        "label": "1 2 3 5 6 9 1",
+        "label": "1 2 3 \n5 6 \n9 \n1",
         "image": null
       }
     ],
-    "answer": "1 2 3 5 6 9"
+    "answer": "1 2 3 \n5 6 \n9"
   },
   "unit": {
     "code": "4",

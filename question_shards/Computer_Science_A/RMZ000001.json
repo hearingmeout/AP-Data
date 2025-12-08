@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Division with casting",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n double q = 15.0;\nint r = 2;\n\ndouble x = (int) (q / r);\ndouble y = q / r;\n\nSystem.out.println(x + \" \" + y);",
     "question": "What is printed as a result of executing this code segment?",
     "image": null,
     "choices": [

@@ -3,25 +3,25 @@
   "type": "mcq",
   "title": "Drawing lines between dots",
   "content": {
-    "description": "The procedure Draw (length, direction) is used to draw a line segment length units long in a given direction (left, right, up, or down), starting at the current cursor position. The cursor is then repositioned at the end of the line segment that was drawn. Consider the following program, where the cursor starts in the upper left corner of a grid of dots. The dots are spaced one unit apart.",
-    "question": "Draw (1, right)Draw (2, down)Draw (1, left)Draw (1, right)Draw (1, up)Draw (1, left)Which of the following represents the figure that is drawn by the program?",
+    "description": "",
+    "question": "The procedure Draw (length, direction) is used to draw a line segment length units long in a given direction (left, right, up, or down), starting at the current cursor position. The cursor is then repositioned at the end of the line segment that was drawn. Consider the following program, where the cursor starts in the upper left corner of a grid of dots. The dots are spaced one unit apart.\nDraw (1, right)\nDraw (2, down)\nDraw (1, left)\nDraw (1, right)\nDraw (1, up)\nDraw (1, left)\nWhich of the following represents the figure that is drawn by the program?",
     "image": null,
     "choices": [
       {
         "label": "Choice A shows a three by three square grid of dots with line segments connecting certain dots. In choice A there are line segments in the first column connecting the first to second and second to third dots, and in all three rows connecting the first and second dots.",
-        "image": "https://ap.oly.st/images/2120b56705a8277cbafff667bab7a63d.png"
+        "image": null
       },
       {
         "label": "Choice B shows a three by three square grid of dots with line segments connecting certain dots. In choice B there are line segments in the second column connecting the first to second and second to third dots, and in all three rows connecting the first and second dots.",
-        "image": "https://ap.oly.st/images/3baff2c98d93ba9fa486073b86e57205.png"
+        "image": null
       },
       {
         "label": "Choice C shows a three by three square grid of dots with line segments connecting certain dots. In choice C there are line segments in the second column connecting the first to second and second to third dots, in the first and third rows connecting the first and second dots, and in the second row connecting the second and third dots.",
-        "image": "https://ap.oly.st/images/4c6eaf08235215f907b18f4096fc39f7.png"
+        "image": null
       },
       {
         "label": "Choice D shows a three by three square grid of dots with line segments connecting certain dots. In choice D there are line segments in the first column connecting the second and third dots, in the second column connecting the first and second dots, and in all three rows connecting the first and second dots.",
-        "image": "https://ap.oly.st/images/2f54b3abaf6b380d3da6834674d4d0ca.png"
+        "image": null
       }
     ],
     "answer": "Choice B shows a three by three square grid of dots with line segments connecting certain dots. In choice B there are line segments in the second column connecting the first to second and second to third dots, and in all three rows connecting the first and second dots."

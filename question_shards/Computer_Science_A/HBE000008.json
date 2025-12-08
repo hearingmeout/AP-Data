@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "while loop - describe behavior",
   "content": {
-    "description": "",
+    "description": "In the following code segment,  x  is an  int  variable with a positive value.\n int temp = x;\nwhile (temp > 0)\n{\n temp -= 2;\n}\nSystem.out.println(temp == 0);",
     "question": "Which of the following best describes the behavior of the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "It prints 0 if x is even and prints -1 otherwise.",
+        "label": "It prints  0  if  x  is even and prints  -1  otherwise.",
         "image": null
       },
       {
-        "label": "It prints -1 if x is even and prints 0 otherwise.",
+        "label": "It prints  -1  if  x  is even and prints  0  otherwise.",
         "image": null
       },
       {
-        "label": "It prints true if x is even and prints false otherwise.",
+        "label": "It prints  true  if  x  is even and prints  false  otherwise.",
         "image": null
       },
       {
-        "label": "It prints false if x is even and prints true otherwise.",
+        "label": "It prints  false  if  x  is even and prints  true  otherwise.",
         "image": null
       }
     ],
-    "answer": "It prints true if x is even and prints false otherwise."
+    "answer": "It prints  true  if  x  is even and prints  false  otherwise."
   },
   "unit": {
     "code": "2",

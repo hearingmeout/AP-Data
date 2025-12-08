@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Compare Player objects using this - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can be used to replace /* missing code */ so that the hasHigherScore method works as intended?",
+    "description": "Consider the following class definition.\n public class Player\n{\n private int base;\n private int bonus;\n\npublic Player()\n { /* implementation not shown */ }\n\npublic int getTotal()\n {\n return base + bonus;\n }\n\npublic boolean hasHigherScore(Player other)\n {\n /* missing code */\n }\n}\n\nThe  Player  class contains a  getTotal  method, which returns the total score for the player.\nThe class also contains a  hasHigherScore  method, which has a  Player  object as a parameter. The  hasHigherScore  method, when called on a given  Player  object, is intended to return  true  if the total score of the given  Player  is greater than the total score of the  Player  specified by the parameter. It is intended to return  false  otherwise.\nFor example, suppose  p1  and  p2  are valid  Player  objects. If  p1  has a higher total score than  p2,  p1.hasHigherScore(p2)  should return  true.",
+    "question": "Which of the following can be used to replace  /* missing code */  so that the  hasHigherScore  method works as intended?",
     "image": null,
     "choices": [
       {

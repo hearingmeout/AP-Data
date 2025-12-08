@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Mainly red pixels - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following expressions will evaluate to true for a “mainly red” pixel?",
+    "description": "An image on a computer is made up of many pixels. Each pixel in the image contains varying amounts of red, green, and blue. A “mainly red” pixel is defined to be one in which the percentage of red is more than 50, and the percentages of green and blue are each less than 10. \n\nAssume that  redPct,  greenPct,  and  bluePct  are  int  variables that have been properly declared and initialized with values representing the percentages of red, green, and blue, respectively, in a pixel.",
+    "question": "Which of the following expressions will evaluate to  true  for a “mainly red” pixel?",
     "image": null,
     "choices": [
       {

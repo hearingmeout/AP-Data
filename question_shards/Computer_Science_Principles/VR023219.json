@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Error in wordList traversal",
   "content": {
-    "description": "",
+    "description": "A student wrote the following program to remove all occurrences of the strings \"the\" and \"a\" from the list wordList.\n\nLine 1: index <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH (wordList)\n\nLine 2: REPEAT UNTIL (index < 1)\n\nLine 3: {\n\nLine 4:    IF ((wordList[index] = \"the\") OR (wordList[index] = \"a\"))\n\nLine 5:    {\n\nLine 6:       REMOVE (wordList, index)\n\nLine 7:    }\n\nLine 8: }",
     "question": "While debugging the program, the student realizes that the loop never terminates. Which of the following changes can be made so that the program works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "Inserting index ← index + 1 between lines 6 and 7",
+        "label": "Inserting index ← index + 1 between lines 6 and 7",
         "image": null
       },
       {
-        "label": "Inserting index ← index + 1 between lines 7 and 8",
+        "label": "Inserting index ← index + 1 between lines 7 and 8",
         "image": null
       },
       {
-        "label": "Inserting index ← index - 1 between lines 6 and 7",
+        "label": "Inserting index ← index - 1 between lines 6 and 7",
         "image": null
       },
       {
-        "label": "Inserting index ← index - 1 between lines 7 and 8",
+        "label": "Inserting index ← index - 1 between lines 7 and 8",
         "image": null
       }
     ],
-    "answer": "Inserting index ← index - 1 between lines 7 and 8"
+    "answer": "Inserting index ← index - 1 between lines 7 and 8"
   },
   "topic": {
     "code": "1.4",

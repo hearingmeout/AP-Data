@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "correct calls to checkString",
   "content": {
-    "description": "Consider the following method, which is intended to return the number of strings of length greater than or equal to 3 in an array of String objects.",
-    "question": "public static int checkString(String[] arr){int count = 0;for (int k = 0; k < arr.length; k++){if (arr[k].length() >= 3){count++;}}return count;}Which of the following code segments compile without error?checkString(new String[]);checkString(new String[0]);String[] str = {\"cat\", \"dog\"};checkString(str);",
+    "description": "",
+    "question": "Consider the following method, which is intended to return the number of strings of length greater than or equal to 3 in an array of String objects.\n\npublic static int checkString(String[] arr)\n{\nint count = 0;\nfor (int k = 0; k < arr.length; k++)\n{\nif (arr[k].length() >= 3)\n{\ncount++;\n}\n}\nreturn count;\n}\nWhich of the following code segments compile without error?\ncheckString(new String[]);\ncheckString(new String[0]);\nString[] str = {\"cat\", \"dog\"};checkString(str);",
     "image": null,
     "choices": [
       {

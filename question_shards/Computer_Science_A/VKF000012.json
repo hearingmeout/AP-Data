@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "random from min to max - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can replace /* missing code */ so that the code segment works as intended?",
+    "description": "Consider the following code segment, which is intended to assign to  num  a random integer value between  min  and  max,  inclusive, each with an equal chance of being assigned to  num.  Assume that  min  and  max  are integer variables and that the value of  max  is greater than the value of  min.\n double rn = Math.random(); \nint num = /* missing code */ ;",
+    "question": "Which of the following can replace  /* missing code */  so that the code segment works as intended?",
     "image": null,
     "choices": [
       {

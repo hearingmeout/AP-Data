@@ -4,15 +4,15 @@
   "title": "Matrix Modeling - steady state",
   "content": {
     "description": "",
-    "question": "Objects in a system can be in two possible states: state <math alttext=\"1\"><mn>1</mn></math> and state <math alttext=\"2\"><mn>2</mn></math>. The vector <math alttext=\"vector v equals a 2 by 1 vector where row 1 is 0.3 and row 2 is 0.7\"><mover><mi>v</mi><mo>→</mo></mover><mo>=</mo><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>0.3</mn></mtd></mtr><mtr><mtd><mn>0.7</mn></mtd></mtr></mtable></mfenced></math> gives the probability that an object is in each state. If matrix <math alttext=\"A\"><mi>A</mi></math> is the transition matrix for these states and <math alttext=\"A times vector v equals vector v\"><mi>A</mi><mover><mi>v</mi><mo>→</mo></mover><mo>=</mo><mover><mi>v</mi><mo>→</mo></mover></math>, which of the following can be concluded?",
+    "question": "Objects in a system can be in two possible states: state <math alttext=\"1\"><mn>1</mn></math> and state <math alttext=\"2\"><mn>2</mn></math>. The vector <math alttext=\"vector v equals a 2 by 1 vector where row 1 is 0.3 and row 2 is 0.7\"><mover><mi>v</mi><mo>→</mo></mover><mo>=</mo><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>0.3</mn></mtd></mtr><mtr><mtd><mn>0.7</mn></mtd></mtr></mtable></mfenced></math> gives the probability that an object is in each state. If matrix <math alttext=\"A\"><mi>A</mi></math> is the transition matrix for these states and <math alttext=\"A times vector v equals vector v\"><mi>A</mi><mover><mi>v</mi><mo>→</mo></mover><mo>=</mo><mover><mi>v</mi><mo>→</mo></mover></math>, which of the following can be concluded?",
     "image": null,
     "choices": [
       {
-        "label": "Because the vector is not <math alttext=\"a 2 by 1 vector where row 1 is 0.5 and row 2 is 0.5\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>0.5</mn></mtd></mtr><mtr><mtd><mn>0.5</mn></mtd></mtr></mtable></mfenced></math>, the system will not reach a steady state.",
+        "label": "Because the vector is not <math alttext=\"a 2 by 1 vector where row 1 is 0.5 and row 2 is 0.5\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>0.5</mn></mtd></mtr><mtr><mtd><mn>0.5</mn></mtd></mtr></mtable></mfenced></math>, the system will not reach a steady state.",
         "image": null
       },
       {
-        "label": "Because the vector is not <math alttext=\"a 2 by 1 vector where row 1 is 0.5 and row 2 is 0.5\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>0.5</mn></mtd></mtr><mtr><mtd><mn>0.5</mn></mtd></mtr></mtable></mfenced></math>, there must be more steps to find the steady state.",
+        "label": "Because the vector is not <math alttext=\"a 2 by 1 vector where row 1 is 0.5 and row 2 is 0.5\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>0.5</mn></mtd></mtr><mtr><mtd><mn>0.5</mn></mtd></mtr></mtable></mfenced></math>, there must be more steps to find the steady state.",
         "image": null
       },
       {
@@ -20,11 +20,11 @@
         "image": null
       },
       {
-        "label": "Because the vector remains unchanged, in the long run, the system has about <math alttext=\"30 percent sign\"><mn>30</mn><mo>%</mo></math> in one state and <math alttext=\"70 percent sign\"><mn>70</mn><mo>%</mo></math> in the other state.",
+        "label": "Because the vector remains unchanged, in the long run, the system has about <math alttext=\"30 percent sign\"><mn>30</mn><mo>%</mo></math> in one state and <math alttext=\"70 percent sign\"><mn>70</mn><mo>%</mo></math> in the other state.",
         "image": null
       }
     ],
-    "answer": "Because the vector remains unchanged, in the long run, the system has about <math alttext=\"30 percent sign\"><mn>30</mn><mo>%</mo></math> in one state and <math alttext=\"70 percent sign\"><mn>70</mn><mo>%</mo></math> in the other state."
+    "answer": "Because the vector remains unchanged, in the long run, the system has about <math alttext=\"30 percent sign\"><mn>30</mn><mo>%</mo></math> in one state and <math alttext=\"70 percent sign\"><mn>70</mn><mo>%</mo></math> in the other state."
   },
   "unit": {
     "code": "4",

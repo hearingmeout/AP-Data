@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Dog instances - describe behavior",
   "content": {
-    "description": "",
-    "question": "Which of the following best describes the contents of dog1 and dog2 as a result of executing this code segment?",
+    "description": "The  Dog  class has a constructor that takes two parameters. The first parameter is a  String  representing a dog’s name and the second parameter is an  int  representing the dog’s age,  in months.\n\nThe following code segment appears in a class other than  Dog. Dog dog1 = new Dog(\"Rex\", 4); \nDog dog2 = dog1; \ndog1 = new Dog(\"Fido\", 60);",
+    "question": "Which of the following best describes the contents of  dog1  and  dog2  as a result of executing this code segment?",
     "image": null,
     "choices": [
       {
-        "label": "dog1 and dog2 are Dog variables that each contain the same Dog object, which represents a dog named \"Fido\" that is 60 months old.",
+        "label": "dog1 and dog2 are Dog variables that each contain the same  Dog  object, which represents a dog named \"Fido\" that is 60 months old.",
         "image": null
       },
       {
-        "label": "dog1 is a Dog variable that contains a Dog object representing a dog named \"Fido\" that is 60 months old, and dog2 is a Dog variable that contains a Dog object representing a dog named \"Rex\" that is 4 months old.",
+        "label": "dog1 is a Dog variable that contains a Dog object representing a dog named \"Fido\" that is 60 months old, and dog2 is a Dog variable that contains a Dog object representing a dog named \"Rex\" that is 4 months old.",
         "image": null
       },
       {
-        "label": "dog1 and dog2 are Dog reference variables that each contain a reference to the same memory address that contains the Dog object representing a dog named \"Fido\" that is 60 months old.",
+        "label": "dog1 and dog2 are Dog reference variables that each contain a reference to the same memory address that contains the Dog object representing a dog named \"Fido\" that is 60 months old.",
         "image": null
       },
       {
-        "label": "dog1 is a Dog reference variable, which contains a reference to the memory address for the Dog object representing a dog named \"Fido\" that is 60 months old. dog2 is a Dog reference variable, which contains a reference to the memory address for the Dog object representing a dog named \"Rex\" that is 4 months old.",
+        "label": "dog1 is a Dog reference variable, which contains a reference to the memory address for the Dog object representing a dog named \"Fido\" that is 60 months old. dog2 is a Dog reference variable, which contains a reference to the memory address for the Dog object representing a dog named \"Rex\" that is 4 months old.",
         "image": null
       }
     ],
-    "answer": "dog1 is a Dog reference variable, which contains a reference to the memory address for the Dog object representing a dog named \"Fido\" that is 60 months old. dog2 is a Dog reference variable, which contains a reference to the memory address for the Dog object representing a dog named \"Rex\" that is 4 months old."
+    "answer": "dog1 is a Dog reference variable, which contains a reference to the memory address for the Dog object representing a dog named \"Fido\" that is 60 months old. dog2 is a Dog reference variable, which contains a reference to the memory address for the Dog object representing a dog named \"Rex\" that is 4 months old."
   },
   "unit": {
     "code": "1",

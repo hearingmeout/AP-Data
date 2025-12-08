@@ -3,9 +3,9 @@
   "type": "mcq",
   "title": "Loop header to move robot to gray square",
   "content": {
-    "description": "The following grid contains a robot represented as a triangle, which is initially facing right.",
-    "question": "The following code segment is intended to move the robot to the gray square. <MISSING STATEMENT> { REPEAT 4 TIMES { MOVE_FORWARD() ROTATE_RIGHT() } ROTATE_LEFT() MOVE_FORWARD() ROTATE_RIGHT() } Which of the following can be used as a replacement for <MISSING STATEMENT> so that the code segment works as intended?",
-    "image": "https://ap.oly.st/images/04460c07c5c4ad2387db523783beb0f0.png",
+    "description": "",
+    "question": "The following grid contains a robot represented as a triangle, which is initially facing right.\n\nThe following code segment is intended to move the robot to the gray square.\n\n<MISSING STATEMENT>\n\n{\n\nREPEAT 4 TIMES\n\n{\n\nMOVE_FORWARD()\n\nROTATE_RIGHT()\n\n}\n\nROTATE_LEFT()\n\nMOVE_FORWARD()\n\nROTATE_RIGHT()\n\n}\n\nWhich of the following can be used as a replacement for <MISSING STATEMENT> so that the code segment works as intended?",
+    "image": null,
     "choices": [
       {
         "label": "REPEAT 1 TIMES",

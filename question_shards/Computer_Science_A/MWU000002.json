@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Traverse ArrayList and print k - describe result",
   "content": {
-    "description": "",
+    "description": "In the following code segment, assume that the  ArrayList  object  numbers  has been properly declared and initialized to contain  [0, 2, 4, 5].\n for (int k = numbers.size() - 1; k >= 0; k--) \n{ \n   if (numbers.get(k) > k) \n   { \n      System.out.print(k + \" \"); \n   } \n}",
     "question": "What, if anything, is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
@@ -20,7 +20,7 @@
         "image": null
       },
       {
-        "label": "Nothing is printed because an IndexOutOfBoundsException is thrown.",
+        "label": "Nothing is printed because an  IndexOutOfBoundsException  is thrown.",
         "image": null
       }
     ],

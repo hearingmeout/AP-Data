@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "recursive calculateValue method - determine result",
   "content": {
-    "description": "",
-    "question": "What value is returned as a result of the method call calculateValue(4)?",
+    "description": "Consider the following recursive method.\n public static int calculateValue(int num)\n{\n if (num >= 8)\n {\n return num;\n }\n else\n {\n return num + calculateValue(num + 2);\n }\n}",
+    "question": "What value is returned as a result of the method call  calculateValue(4)?",
     "image": null,
     "choices": [
       {

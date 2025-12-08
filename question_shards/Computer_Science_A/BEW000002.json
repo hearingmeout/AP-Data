@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Two if statements - describe behavior",
   "content": {
-    "description": "",
+    "description": "In the following code segment,  n  is a properly declared and initialized  int  variable.\n boolean result = false;\nif (n >= 10)\n{\n result = true;\n}\nif (n <= 50)\n{\n result = true;\n}\nSystem.out.println(result);",
     "question": "Which of the following best describes the behavior of the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "It prints true for all possible values of n.",
+        "label": "It prints  true  for all possible values of  n.",
         "image": null
       },
       {
-        "label": "It prints false for all possible values of n.",
+        "label": "It prints  false  for all possible values of  n.",
         "image": null
       },
       {
-        "label": "It prints true if n is between 10 and 50, inclusive, and prints false otherwise.",
+        "label": "It prints  true  if  n  is between  10  and  50,  inclusive, and prints  false  otherwise.",
         "image": null
       },
       {
-        "label": "It prints false if n is between 10 and 50, inclusive, and prints true otherwise.",
+        "label": "It prints  false  if  n  is between  10  and  50,  inclusive, and prints  true  otherwise.",
         "image": null
       }
     ],
-    "answer": "It prints true for all possible values of n."
+    "answer": "It prints  true  for all possible values of  n."
   },
   "unit": {
     "code": "2",

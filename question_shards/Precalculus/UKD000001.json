@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Function Composition - Modeling",
   "content": {
-    "description": "",
-    "question": "Which of the following statements is true about function <math alttext=\"K\"> <mi>K</mi> </math> ?",
+    "description": "The function <math alttext=\"C\"><mi>C</mi></math> models temperature, in degrees Celsius, as a function of time <math alttext=\"t\"><mi>t</mi></math>, in hours, for <math alttext=\"t greater or equal than 0\"><mi>t</mi><mo>≥</mo><mn>0</mn></math>. The function <math alttext=\"P\"><mi>P</mi></math> models electricity usage, in kilowatts, as a function of temperature, in degrees Celsius. Let <math alttext=\"K\"><mi>K</mi></math> be the composition function defined by <math alttext=\"K open parentheses t close parentheses equals P open parentheses C open parentheses t close parentheses close parentheses\"> <mi>K</mi> <mfenced> <mi>t</mi> </mfenced> <mo>=</mo> <mi>P</mi> <mfenced> <mrow> <mi>C</mi> <mfenced> <mi>t</mi> </mfenced> </mrow> </mfenced> </math>.",
+    "question": "Which of the following statements is true about function <math alttext=\"K\"> <mi>K</mi> </math> ?",
     "image": null,
     "choices": [
       {
-        "label": "<math alttext=\"K\"><mi>K</mi></math> models electricity usage as a function of time.",
+        "label": "<math alttext=\"K\"><mi>K</mi></math> models electricity usage as a function of time.",
         "image": null
       },
       {
-        "label": "<math alttext=\"K\"><mi>K</mi></math> models temperature as a function of electricity usage.",
+        "label": "<math alttext=\"K\"><mi>K</mi></math> models temperature as a function of electricity usage.",
         "image": null
       },
       {
-        "label": "<math alttext=\"K\"><mi>K</mi></math> models time as a function of electricity usage.",
+        "label": "<math alttext=\"K\"><mi>K</mi></math> models time as a function of electricity usage.",
         "image": null
       },
       {
-        "label": "<math alttext=\"K\"><mi>K</mi></math> models electricity usage as a function of temperature.",
+        "label": "<math alttext=\"K\"><mi>K</mi></math> models electricity usage as a function of temperature.",
         "image": null
       }
     ],
-    "answer": "<math alttext=\"K\"><mi>K</mi></math> models electricity usage as a function of time."
+    "answer": "<math alttext=\"K\"><mi>K</mi></math> models electricity usage as a function of time."
   },
   "unit": {
     "code": "2",

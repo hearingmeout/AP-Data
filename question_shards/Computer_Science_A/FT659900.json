@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "findNext method with int array parameter",
   "content": {
-    "description": "Consider the following incomplete method. Method findNext is intended to return the index of the first occurrence of the value val beyond the position start in array arr.",
-    "question": "// returns index of first occurrence of val in arr // after position start; // returns arr.length if val is not found public int findNext(int[] arr, int val, int start) { int pos = start + 1; while ( /* condition */ ) pos++; return pos; } For example, consider the following code segment. int[] arr = {11, 22, 100, 33, 100, 11, 44, 100}; System.out.println(findNext(arr, 100, 2)); The execution of the code segment should result in the value 4 being printed. Which of the following expressions could be used to replace /* condition */ so that findNext will work as intended?",
+    "description": "",
+    "question": "Consider the following incomplete method. Method findNext is intended to return the index of the first occurrence of the value val beyond the position start in array arr.\n\n// returns index of first occurrence of val in arr\n\n// after position start;\n\n// returns arr.length if val is not found\n\npublic int findNext(int[] arr, int val, int start)\n\n{\n\nint pos = start + 1;\n\nwhile ( /* condition */ )\n\npos++;\n\nreturn pos;\n\n}\n\nFor example, consider the following code segment.\n\nint[] arr = {11, 22, 100, 33, 100, 11, 44, 100};\n\nSystem.out.println(findNext(arr, 100, 2));\n\nThe execution of the code segment should result in the value 4 being printed.\n\nWhich of the following expressions could be used to replace /* condition */ so that findNext will work as intended?",
     "image": null,
     "choices": [
       {

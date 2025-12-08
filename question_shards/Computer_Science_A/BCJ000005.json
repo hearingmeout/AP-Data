@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Fibonacci array - correct error",
   "content": {
-    "description": "",
+    "description": "The Fibonacci numbers are a sequence of numbers. The first two numbers are 1 and 1. Each subsequent number is equal to the sum of the previous two numbers. For example, the first seven Fibonacci numbers are 1, 1, 2, 3, 5, 8, and 13.\nThe following code segment is intended to fill the fibs array with the first ten Fibonacci numbers. The code segment does not work as intended.\n int[] fibs = new int[10];\nfibs[0] = 1;\nfibs[1] = 1;\nfor (int j = 1; j < fibs.length; j++)\n{\n fibs[j] = fibs[j - 2] + fibs[j - 1];\n}",
     "question": "Which of the following best explains why the code segment does not work as intended?",
     "image": null,
     "choices": [
       {
-        "label": "In the for loop header, the initial value of j should be 0.",
+        "label": "In the for loop header, the initial value of j should be 0.",
         "image": null
       },
       {
-        "label": "In the for loop header, the initial value of j should be 2.",
+        "label": "In the for loop header, the initial value of j should be 2.",
         "image": null
       },
       {
-        "label": "The for loop condition should be j < fibs.length - 1.",
+        "label": "The for loop condition should be j < fibs.length - 1.",
         "image": null
       },
       {
-        "label": "The for loop condition should be j < fibs.length + 1.",
+        "label": "The for loop condition should be j < fibs.length + 1.",
         "image": null
       }
     ],
-    "answer": "In the for loop header, the initial value of j should be 2."
+    "answer": "In the for loop header, the initial value of j should be 2."
   },
   "unit": {
     "code": "4",

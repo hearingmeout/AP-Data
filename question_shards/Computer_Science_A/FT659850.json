@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "findMax with int array parameter",
   "content": {
-    "description": "The following incomplete method is intended to return the largest integer in the array numbers.",
-    "question": "// precondition: numbers.length > 0 public static int findMax(int[]numbers) { int posOfMax = O; for (int index = 1; index < numbers.length; index++) { if ( /*condition*/ ) { /* statement */ } } return numbers[posOfMax]; } Which of the following can be used to replace /* condition */ and /* statement */ so that findMax will work as intended?",
+    "description": "",
+    "question": "The following incomplete method is intended to return the largest integer in the array  numbers.\n\n// precondition:  numbers.length > 0\n\npublic static int findMax(int[]numbers)\n\n{\n\nint posOfMax = O;\n\nfor (int index = 1; index < numbers.length; index++)\n\n{\n\nif ( /*condition*/ )\n\n{\n\n/* statement */\n\n}\n\n}\n\nreturn numbers[posOfMax];\n\n}\n\nWhich of the following can be used to replace /* condition */ and /* statement */ so that findMax will work as intended?",
     "image": null,
     "choices": [
       {
-        "label": "/* condition */ /* statement */ numbers[index] > numbers[posOfMax] posOfMax = numbers[index];",
+        "label": "/* condition */ \n      /* statement */\n\nnumbers[index] > numbers[posOfMax]\n    posOfMax = numbers[index];",
         "image": null
       },
       {
-        "label": "/* condition */ /* statement */ numbers[index] > numbers[posOfMax] posOfMax = index;",
+        "label": "/* condition */\n      /* statement */\n\nnumbers[index] > numbers[posOfMax]\n    posOfMax = index;",
         "image": null
       },
       {
-        "label": "/* condition */ /* statement */ numbers[index] > posOfMax posOfMax = numbers[index];",
+        "label": "/* condition */ \n                /* statement */\n\nnumbers[index] > posOfMax\n             posOfMax = numbers[index];",
         "image": null
       },
       {
-        "label": "/* condition */ /* statement */ numbers[index] < posOfMax posOfMax = numbers[index];",
+        "label": "/* condition */ \n               /* statement */\n\nnumbers[index] < posOfMax\n             posOfMax = numbers[index];",
         "image": null
       }
     ],
-    "answer": "/* condition */ /* statement */ numbers[index] > numbers[posOfMax] posOfMax = index;"
+    "answer": "/* condition */\n      /* statement */\n\nnumbers[index] > numbers[posOfMax]\n    posOfMax = index;"
   },
   "unit": {
     "code": "4",

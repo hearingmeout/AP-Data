@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Conditional statements - value of total",
   "content": {
-    "description": "",
-    "question": "What is the value of total after this code segment is executed?",
+    "description": "Consider the following code segment.\n int quant = 20;\nint unitPrice = 4;\nint ship = 8;\nint total;\nif (quant > 10)\n{\n unitPrice = 3;\n}\nif (quant > 20)\n{\n ship = 0;\n}\ntotal = quant * unitPrice + ship;",
+    "question": "What is the value of total after this code segment is executed?",
     "image": null,
     "choices": [
       {

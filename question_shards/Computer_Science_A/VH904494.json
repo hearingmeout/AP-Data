@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "num plus equals num then num times equals num",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "num += num;num *= num;Assume that num has been previously declared and initialized to contain an integer value. Which of the following best describes the behavior of the code segment?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nnum += num;\nnum *= num;\nAssume that num has been previously declared and initialized to contain an integer value. Which of the following best describes the behavior of the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "The value of num is the square its original value.",
+        "label": "The value of num is the square its original value.",
         "image": null
       },
       {
-        "label": "The value of num is two times the square of its original value.",
+        "label": "The value of num is two times the square of its original value.",
         "image": null
       },
       {
-        "label": "The value of num is the square of twice its original value.",
+        "label": "The value of num is the square of twice its original value.",
         "image": null
       },
       {
-        "label": "It cannot be determined without knowing the initial value of num.",
+        "label": "It cannot be determined without knowing the initial value of num.",
         "image": null
       }
     ],
-    "answer": "The value of num is the square of twice its original value."
+    "answer": "The value of num is the square of twice its original value."
   },
   "unit": {
     "code": "1",

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Statement using random numbers - describe behavior",
   "content": {
-    "description": "",
+    "description": "Consider the following statement.\n int r = (int) (Math.random() * 6) + 10;",
     "question": "Which of the following best describes the behavior of the statement?",
     "image": null,
     "choices": [
       {
-        "label": "It generates a random integer between 6 and 15, inclusive, and assigns it to r.",
+        "label": "It generates a random integer between  6  and  15,  inclusive, and assigns it to r.",
         "image": null
       },
       {
-        "label": "It generates a random integer between 6 and 16, inclusive, and assigns it to r.",
+        "label": "It generates a random integer between  6  and  16,  inclusive, and assigns it to r.",
         "image": null
       },
       {
-        "label": "It generates a random integer between 10 and 15, inclusive, and assigns it to r.",
+        "label": "It generates a random integer between  10  and  15,  inclusive, and assigns it to r.",
         "image": null
       },
       {
-        "label": "It generates a random integer between 10 and 16, inclusive, and assigns it to r.",
+        "label": "It generates a random integer between  10  and  16,  inclusive, and assigns it to r.",
         "image": null
       }
     ],
-    "answer": "It generates a random integer between 10 and 15, inclusive, and assigns it to r."
+    "answer": "It generates a random integer between  10  and  15,  inclusive, and assigns it to r."
   },
   "unit": {
     "code": "1",

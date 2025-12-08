@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Read data from text file - determine result",
   "content": {
-    "description": "",
+    "description": "A text file named  data.txt  has the following contents. Assume that the file contains no spaces.\n 123\n456\n789\n\nIn the following code segment, a valid  Scanner  object named  source  is created to read from the text file. \n int x = 0; \n\nFile text = new File(\"data.txt\");\nScanner source = new Scanner(text);\n\nwhile (source.hasNext()) \n{ \n x = source.nextInt(); \n} \nSystem.out.println(x);",
     "question": "What is printed as a result of executing the code segment?",
     "image": null,
     "choices": [

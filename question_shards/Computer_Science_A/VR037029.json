@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "strArrMethod - first day of spring",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "String[] testOne = {\"first\", \"day\", \"of\", \"spring\"};String[] resultOne = strArrMethod(testOne);What are the contents of resultOne when the code segment has been executed?",
+    "description": "Consider the following method.\n\npublic static String[] strArrMethod(String[] arr)\n{\nString[] result = new String[arr.length];\n\nfor (int j = 0; j < arr.length; j++)\n{\nString sm = arr[j];\nfor (int k = j + 1; k < arr.length; k++)\n{\nif (arr[k].length() < sm.length())\n{\nsm = arr[k]; // Line 12\n}\n}\nresult[j] = sm;\n}\nreturn result;\n}",
+    "question": "Consider the following code segment.\n\nString[] testOne = {\"first\", \"day\", \"of\", \"spring\"};\nString[] resultOne = strArrMethod(testOne);\nWhat are the contents of resultOne when the code segment has been executed?",
     "image": null,
     "choices": [
       {

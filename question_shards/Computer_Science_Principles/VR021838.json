@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Generalization of MaxTwo and MaxThree",
   "content": {
-    "description": "",
-    "question": "Which of the following procedures is a generalization of the MaxTwo and MaxThree procedures?",
+    "description": "A programmer notices the following two procedures in a library. The procedures do similar, but not identical, things.\n\nProcedure MaxTwo (x, y) returns the greater of its two integer parameters.\n\nProcedure MaxThree (x, y, z) returns the greatest of its three integer parameters.",
+    "question": "Which of the following procedures is a generalization of the MaxTwo and MaxThree procedures?",
     "image": null,
     "choices": [
       {
-        "label": "Procedure Min (x, y), which returns the lesser of its two integer parameters",
+        "label": "Procedure Min (x, y), which returns the lesser of its two integer parameters",
         "image": null
       },
       {
-        "label": "Procedure Max (numList), which returns the maximum value in the list of integers numList",
+        "label": "Procedure Max (numList), which returns the maximum value in the list of integers numList",
         "image": null
       },
       {
-        "label": "Procedure MaxFour (w, x, y, z), which returns the greatest of its four integer parameters",
+        "label": "Procedure MaxFour (w, x, y, z), which returns the greatest of its four integer parameters",
         "image": null
       },
       {
-        "label": "Procedure OverMax (numList, max), which returns the number of integers in numList that exceed the integer value max",
+        "label": "Procedure OverMax (numList, max), which returns the number of integers in numList that exceed the integer value max",
         "image": null
       }
     ],
-    "answer": "Procedure Max (numList), which returns the maximum value in the list of integers numList"
+    "answer": "Procedure Max (numList), which returns the maximum value in the list of integers numList"
   },
   "topic": {
     "code": "3.13",

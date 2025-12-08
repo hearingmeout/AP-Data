@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Mutual recursion with methods f and g",
   "content": {
-    "description": "Assume that methods f and g are defined as follows.",
-    "question": "public int f(int x) { if (x <= 0) { return 0; } else { return g(x - 1); } } public int g(int x) { if (x <= 0) { return 0; } else { return (f(x - 1) + x); } } What value is returned as a result of the call f(6)?",
+    "description": "",
+    "question": "Assume that methods f and g are defined as follows.\n\npublic int f(int x)\n\n{\n\nif (x <= 0)\n\n{\n\nreturn 0;\n\n}\n\nelse\n\n{\n\nreturn g(x - 1);\n\n}\n\n}\n\npublic int g(int x)\n\n{\n\nif (x <= 0)\n\n{\n\nreturn 0;\n\n}\n\nelse\n\n{\n\nreturn (f(x - 1) + x);\n\n}\n\n}\n\nWhat value is returned as a result of the call f(6)?",
     "image": null,
     "choices": [
       {

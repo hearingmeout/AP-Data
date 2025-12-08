@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "2D array mat sum",
   "content": {
-    "description": "Assume mat is defined as follows.",
-    "question": "int dim = 4; int[][] mat = new int[dim][dim]; Consider the following code segment. int sum = 0; for (int row = 0; row < dim; row++) { sum = sum + mat[row][dim - 1]; } Assume that mat contains the following values before the code segment is executed. Note that mat[0][3] is 2. 0 1 2 3 0 1 1 2 2 1 1 2 2 4 2 1 3 2 6 3 1 4 2 8 What value will sum contain after the code segment is executed?",
+    "description": "",
+    "question": "Assume mat is defined as follows.\n\nint dim = 4;\n\nint[][] mat = new int[dim][dim];\n\nConsider the following code segment.\n\nint sum = 0;\n\nfor (int row = 0; row < dim; row++)\n\n{\n\nsum = sum + mat[row][dim - 1];\n\n}\n\nAssume that mat contains the following values before the code segment is executed. Note that mat[0][3] is 2.\n\n0\n1\n2\n3\n\n0\n1\n1\n2\n2\n\n1\n1\n2\n2\n4\n\n2\n1\n3\n2\n6\n\n3\n1\n4\n2\n8\n\nWhat value will sum contain after the code segment is executed?",
     "image": null,
     "choices": [
       {

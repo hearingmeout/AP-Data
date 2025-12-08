@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Compute product of nonnegative numbers",
   "content": {
-    "description": "Consider the following code segment. The code is intended to read nonnegative numbers and compute their product until a negative number is read; however, it does not work as intended. (Assume that the readInt method correctly reads the next number from the input stream.)",
-    "question": "int k = 0; int prod = 1; while (k >= 0) { System.out.print(\"enter a number: \"); k = readInt(); // readInt reads the next number from input prod = prod * k; } System.out.println(\"product: \" + prod); Which of the following best describes the error in the program?",
+    "description": "",
+    "question": "Consider the following code segment. The code is intended to read nonnegative numbers and compute their product until a negative number is read; however, it does not work as intended. (Assume that the readInt method correctly reads the next number from the input stream.)\n\nint k = 0;\n\nint prod = 1;\n\nwhile (k >= 0)\n\n{\n\nSystem.out.print(\"enter a number: \");\n\nk = readInt(); // readInt reads the next number from input\n\nprod = prod * k;\n\n}\n\nSystem.out.println(\"product: \" + prod);\n\nWhich of the following best describes the error in the program?",
     "image": null,
     "choices": [
       {

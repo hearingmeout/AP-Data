@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Recursive printNums method - determine result",
   "content": {
-    "description": "",
-    "question": "What is printed as a result of the call printNums(10)?",
+    "description": "Consider the following method. \n public static void printNums(int n)\n{\n if (n < 50)\n {\n printNums(n * -2);\n System.out.print(n + \" \");\n }\n}",
+    "question": "What is printed as a result of the call  printNums(10)?",
     "image": null,
     "choices": [
       {

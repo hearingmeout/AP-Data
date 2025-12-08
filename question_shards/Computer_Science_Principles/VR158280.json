@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Combine data sources",
   "content": {
-    "description": "",
+    "description": "Each student at a school has a unique student ID number. A teacher has the following spreadsheets available.\n\nSpreadsheet I contains information on all students at the school. For each entry in this spreadsheet, the student name, the student ID, and the student’s grade point average are included.\n\nSpreadsheet II contains information on only students who play at least one sport. For each entry in this spreadsheet, the student ID and the names of the sports the student plays are included.\n\nSpreadsheet III contains information on only students whose grade point average is greater than 3.5. For each entry in this spreadsheet, the student name and the student ID are included.\n\nSpreadsheet IV contains information on only students who play more than one sport. For each entry in this spreadsheet, the student name and the student ID are included.\n\nThe teacher wants to determine whether students who play a sport are more or less likely to have higher grade point averages than students who do not play any sports.",
     "question": "Which of the following pairs of spreadsheets can be combined and analyzed to determine the desired information?",
     "image": null,
     "choices": [

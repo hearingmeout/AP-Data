@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Correctness of robot programs",
   "content": {
-    "description": "",
+    "description": "The question below uses a robot in a grid of squares. The robot is represented as a triangle, which is initially in the bottom left square of the grid and facing right.\n\nThe following programs are each intended to move the robot to the gray square. Program II uses the procedure GoalReached, which returns true if the robot is in the gray square and returns false otherwise.",
     "question": "Which of the following statements best describes the correctness of the programs?",
     "image": null,
     "choices": [

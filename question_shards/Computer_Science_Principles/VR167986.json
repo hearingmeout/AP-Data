@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Algorithm to print integers",
   "content": {
-    "description": "Which of the following algorithms display all integers between 1 and 20, inclusive, that are not divisible by 3 ?",
-    "question": "Select two answers.",
+    "description": "",
+    "question": "Which of the following algorithms display all integers between 1 and 20, inclusive, that are not divisible by 3 ?\nSelect two answers.",
     "image": null,
     "choices": [
       {
-        "label": "Step 1: Set x to 0. Step 2: Increment x by 1. Step 3: If x is not divisible by 3, then display x. Step 4: Repeat steps 2 and 3 until x is 20.",
+        "label": "Step 1:\n Set x to 0.\n  Step 2:\n Increment x by 1.\n  Step 3:\n If x is not divisible by 3, then display x.\n  Step 4:\n Repeat steps 2 and 3 until x is 20.",
         "image": null
       },
       {
-        "label": "Step 1: Set x to 0. Step 2: If x is divisible by 3, then display x. Step 3: Increment x by 1. Step 4: Repeat steps 2 and 3 until x is greater than 20.",
+        "label": "Step 1:\n Set x to 0.\n Step 2: If x is divisible by 3, then display x.\n Step 3:\n Increment x by 1.\n  Step 4: Repeat steps 2 and 3 until x is greater than 20.",
         "image": null
       },
       {
-        "label": "Step 1: Set x to 1. Step 2: If x is divisible by 3, then do nothing; otherwise display x. Step 3: Increment x by 1. Step 4: Repeat steps 2 and 3 until x is 20.",
+        "label": "Step 1:\n Set x to 1.\n     Step 2: If x is divisible by 3, then do nothing; otherwise display x.\n Step 3:\n Increment x by 1.\n   Step 4: Repeat steps 2 and 3 until x is 20.",
         "image": null
       },
       {
-        "label": "Step 1: Set x to 1. Step 2: If x is divisible by 3, then do nothing; otherwise display x. Step 3: Increment x by 1. Step 4: Repeat steps 2 and 3 until x is greater than 20.",
+        "label": "Step 1:\n Set x to 1.\n   Step 2: If x is divisible by 3, then do nothing; otherwise display x.\n Step 3:\n Increment x by 1.\n   Step 4: Repeat steps 2 and 3 until x is greater than 20.",
         "image": null
       }
     ],
-    "answer": "Step 1: Set x to 0. Step 2: Increment x by 1. Step 3: If x is not divisible by 3, then display x. Step 4: Repeat steps 2 and 3 until x is 20."
+    "answer": "Step 1:\n Set x to 0.\n  Step 2:\n Increment x by 1.\n  Step 3:\n If x is not divisible by 3, then display x.\n  Step 4:\n Repeat steps 2 and 3 until x is 20."
   },
   "topic": {
     "code": "3.8",

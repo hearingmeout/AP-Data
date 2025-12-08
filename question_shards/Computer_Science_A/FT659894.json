@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Compound Boolean with x, y, and result",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "int x = /* some integer value */ ; int y = /* some integer value */ ; boolean result = (x < y); result = ( (x >= y) && !result ); Which of the following best describes the conditions under which the value of result will be true after the code segment is executed?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nint x = /* some integer value */ ;\n\nint y = /* some integer value */ ;\n\nboolean result = (x < y);\n\nresult = ( (x >= y) && !result );\n\nWhich of the following best describes the conditions under which the value of result will be true after the code segment is executed?",
     "image": null,
     "choices": [
       {

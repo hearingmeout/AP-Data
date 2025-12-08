@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Friend class - fix error",
   "content": {
-    "description": "",
-    "question": "Which of the following changes can be made to the Friend class so that this code segment works as intended?",
+    "description": "Consider the following class definition.\n public class Friend\n{\n private String name; // Line 3\n\npublic Friend(String name)\n {\n name = name; // Line 7\n }\n\npublic String getName()\n {\n return name; // Line 12\n }\n}\n\nThe following code segment appears in a class other than  Friend.  It is intended to print the string  “Jessie”  but does not work as intended because of an error in the  Friend  class.\n Friend bestie = new Friend(\"Jessie\");\nSystem.out.println(bestie.getName());",
+    "question": "Which of the following changes can be made to the  Friend  class so that this code segment works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "Changing line 3 to private String this.name;",
+        "label": "Changing line 3 to  private String this.name;",
         "image": null
       },
       {
-        "label": "Changing line 7 to this.name = name;",
+        "label": "Changing line 7 to  this.name = name;",
         "image": null
       },
       {
-        "label": "Changing line 7 to name = this.name;",
+        "label": "Changing line 7 to  name = this.name;",
         "image": null
       },
       {
-        "label": "Changing line 12 to return this.name;",
+        "label": "Changing line 12 to  return this.name;",
         "image": null
       }
     ],
-    "answer": "Changing line 7 to this.name = name;"
+    "answer": "Changing line 7 to  this.name = name;"
   },
   "unit": {
     "code": "3",

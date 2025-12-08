@@ -3,20 +3,20 @@
   "type": "mcq",
   "title": "getAge method on Person object - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following information about the  Person  class.\n\nThe class has an  int  attribute  age  that represents a person’s age.\n\nThe class has a non-static  getAge  method that has no parameters and returns the value of  age.  This method can be called from another class.\n\nThe following code segments each appear in a class other than  Person.  Assume that  p  is a  Person  object whose  age  attribute is equal to  16.\n\nCode Segment 1int val1 = p.getAge();\nSystem.out.println(val1);\n\nCode Segment 2int val2 = Person.getAge();\nSystem.out.println(val2);",
     "question": "What, if anything, is printed as a result of executing each of the code segments?",
     "image": null,
     "choices": [
       {
-        "label": "Both code segments print 16.",
+        "label": "Both code segments print  16.",
         "image": null
       },
       {
-        "label": "Code segment 1 prints 16, but code segment 2 prints nothing because it will not compile.",
+        "label": "Code segment 1 prints  16,  but code segment 2 prints nothing because it will not compile.",
         "image": null
       },
       {
-        "label": "Code segment 2 prints 16, but code segment 1 prints nothing because it will not compile.",
+        "label": "Code segment 2 prints  16,  but code segment 1 prints nothing because it will not compile.",
         "image": null
       },
       {
@@ -24,7 +24,7 @@
         "image": null
       }
     ],
-    "answer": "Code segment 1 prints 16, but code segment 2 prints nothing because it will not compile."
+    "answer": "Code segment 1 prints  16,  but code segment 2 prints nothing because it will not compile."
   },
   "unit": {
     "code": "1",

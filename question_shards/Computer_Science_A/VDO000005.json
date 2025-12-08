@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Random number generator - explain error",
   "content": {
-    "description": "",
+    "description": "Consider the following statement, which is intended to generate an integer between  1  and  10,  inclusive, and assign it to  result.  This statement does not work as intended.\n int result = (int) Math.random() * 10 + 1;",
     "question": "Which of the following changes can be made so that this statement works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "Add parentheses around the expression 10 + 1, as shown in the following statement. int result = (int) Math.random() * (10 + 1);",
+        "label": "Add parentheses around the expression 10 + 1, as shown in the following statement. int result = (int) Math.random() * (10 + 1);",
         "image": null
       },
       {
-        "label": "Add parentheses around the expression Math.random() * 10, as shown in the following statement.int result = (int) (Math.random() * 10) + 1;",
+        "label": "Add parentheses around the expression Math.random() * 10, as shown in the following statement.int result = (int) (Math.random() * 10) + 1;",
         "image": null
       },
       {
-        "label": "Change the value of 10 to 9, as shown in the following statement.int result = (int) Math.random() * 9 + 1;",
+        "label": "Change the value of 10 to 9, as shown in the following statement.int result = (int) Math.random() * 9 + 1;",
         "image": null
       },
       {
-        "label": "Remove the cast of Math.random() to an int value, as shown in the following statement.int result = Math.random() * 10 + 1;",
+        "label": "Remove the cast of Math.random() to an int value, as shown in the following statement.int result = Math.random() * 10 + 1;",
         "image": null
       }
     ],
-    "answer": "Add parentheses around the expression Math.random() * 10, as shown in the following statement.int result = (int) (Math.random() * 10) + 1;"
+    "answer": "Add parentheses around the expression Math.random() * 10, as shown in the following statement.int result = (int) (Math.random() * 10) + 1;"
   },
   "unit": {
     "code": "1",

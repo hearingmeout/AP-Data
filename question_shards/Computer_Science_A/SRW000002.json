@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Compare different loops - determine result",
   "content": {
-    "description": "",
-    "question": "Assume that the initial values of m and n are the same in Code Segment 1 as they are in Code Segment 2. Which of the following correctly compares the number of times that \"*\" and \"@\" are printed when each code segment is executed?",
+    "description": "Consider the following two code segments. Assume that the  int  variables  m  and  n  have been properly declared and initialized and are both greater than  0.\n\nCode Segment 1for (int i = 0; i < m * n; i++)\n{\n System.out.print(\"*\");\n}\n\nCode Segment 2for (int j = 1; j <= m; j++)\n{\n for (int k = 1; k < n; k++)\n {\n System.out.print(\"@\");\n }\n}",
+    "question": "Assume that the initial values of  m  and  n  are the same in Code Segment 1 as they are in Code Segment 2. Which of the following correctly compares the number of times that  \"*\"  and  \"@\"  are printed when each code segment is executed?",
     "image": null,
     "choices": [
       {
-        "label": "\"*\" is printed m fewer times than \"@\".",
+        "label": "\"*\"  is printed  m  fewer times than  \"@\".",
         "image": null
       },
       {
-        "label": "\"*\" is printed n fewer times than \"@\".",
+        "label": "\"*\"  is printed  n  fewer times than  \"@\".",
         "image": null
       },
       {
-        "label": "\"*\" is printed m more times than \"@\".",
+        "label": "\"*\"  is printed  m  more times than  \"@\".",
         "image": null
       },
       {
-        "label": "\"*\" is printed n more times than \"@\".",
+        "label": "\"*\"  is printed  n  more times than  \"@\".",
         "image": null
       }
     ],
-    "answer": "\"*\" is printed m more times than \"@\"."
+    "answer": "\"*\"  is printed  m  more times than  \"@\"."
   },
   "unit": {
     "code": "2",

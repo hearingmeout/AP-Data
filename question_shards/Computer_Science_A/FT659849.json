@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "sort method with String array",
   "content": {
-    "description": "Consider the following method.",
-    "question": "public static void sort(String[] arr) { for (int pass = arr.length - 1; pass >= 1; pass--) { String large = arr[0]; int index = 0; for (int k = 0; k <= pass; k++) { if ((arr[k].compareTo(large)) > 0) { large = arr[k]; index = k; } } arr[index] = arr[pass]; arr[pass] = large; } } Assume arr is the following array. \"Ann\" \"Mike\" \"Walt\" \"Lisa\" \"Shari\" \"Jose\" \"Mary\" “Bill” What is the intermediate value of arr after two iterations of the outer for loop in the call sort(arr)?",
+    "description": "",
+    "question": "Consider the following method.\n\npublic static void sort(String[] arr)\n\n{\n\nfor (int pass = arr.length - 1; pass >= 1; pass--)\n\n{\n\nString large = arr[0];\n\nint index = 0;\n\nfor (int k = 0; k <= pass; k++)\n\n{\n\nif ((arr[k].compareTo(large)) > 0)\n\n{\n\nlarge = arr[k];\n\nindex = k;\n\n}\n\n}\n\narr[index] = arr[pass];\n\narr[pass] = large;\n\n}\n\n}\n\nAssume arr is the following array.\n\n\"Ann\"\n\"Mike\"\n\"Walt\"\n\"Lisa\"\n\"Shari\"\n\"Jose\"\n\"Mary\"\n“Bill”\n\nWhat is the intermediate value of arr after two iterations of the outer for loop in the call sort(arr)?",
     "image": null,
     "choices": [
       {
-        "label": "\"Ann\" \"Mike\" \"Walt\" \"Lisa\" \"Shari\" \"Jose\" \"Mary\" “Bill”",
+        "label": "\"Ann\"\n\"Mike\"\n\"Walt\"\n\"Lisa\"\n\"Shari\"\n\"Jose\"\n\"Mary\"\n“Bill”",
         "image": null
       },
       {
-        "label": "\"Ann\" \"Mike\" \"Lisa\" \"Shari\" \"Jose\" \"Mary\" “Bill” \"Walt\"",
+        "label": "\"Ann\"\n\"Mike\"\n\"Lisa\"\n\"Shari\"\n\"Jose\"\n\"Mary\"\n“Bill”\n\"Walt\"",
         "image": null
       },
       {
-        "label": "\"Ann\" “Bill” \"Jose\" \"Lisa\" \"Mary\" \"Mike\" \"Shari\" \"Walt\"",
+        "label": "\"Ann\"\n“Bill”\n\"Jose\"\n\"Lisa\"\n\"Mary\"\n\"Mike\"\n\"Shari\"\n\"Walt\"",
         "image": null
       },
       {
-        "label": "\"Ann\" \"Mike\" “Bill” \"Lisa\" \"Mary\" \"Jose\" \"Shari\" \"Walt\"",
+        "label": "\"Ann\"\n\"Mike\"\n“Bill”\n\"Lisa\"\n\"Mary\"\n\"Jose\"\n\"Shari\"\n\"Walt\"",
         "image": null
       }
     ],
-    "answer": "\"Ann\" \"Mike\" “Bill” \"Lisa\" \"Mary\" \"Jose\" \"Shari\" \"Walt\""
+    "answer": "\"Ann\"\n\"Mike\"\n“Bill”\n\"Lisa\"\n\"Mary\"\n\"Jose\"\n\"Shari\"\n\"Walt\""
   },
   "unit": {
     "code": "4",

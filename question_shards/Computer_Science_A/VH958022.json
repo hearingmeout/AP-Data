@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "add elements from oldList to newList",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "ArrayList<Integer> oldList = new ArrayList();oldList.add(100);oldList.add(200);oldList.add(300);oldList.add(400);ArrayList<Integer> newList = new ArrayList();newList.add(oldList.remove(1));newList.add(oldList.get(2));System.out.println(newList);What, if anything, is printed as a result of executing the code segment?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nArrayList<Integer> oldList = new ArrayList();\noldList.add(100);\noldList.add(200);\noldList.add(300);\noldList.add(400);\n\nArrayList<Integer> newList = new ArrayList();\nnewList.add(oldList.remove(1));\nnewList.add(oldList.get(2));\n\nSystem.out.println(newList);\nWhat, if anything, is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {

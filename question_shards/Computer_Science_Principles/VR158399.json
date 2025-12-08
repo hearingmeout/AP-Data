@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Expression to count restaurants",
   "content": {
-    "description": "A student wants to count the number of restaurants in the spreadsheet whose price range is $30 or less and whose average customer rating is at least 4.0. For a given row in the spreadsheet, suppose prcRange contains the price range as a string and avgRating contains the average customer rating as a decimal number.",
-    "question": "Which of the following expressions will evaluate to true if the restaurant should be counted and evaluates to false otherwise?",
+    "description": "A large spreadsheet contains the following information about local restaurants. A sample portion of the spreadsheet is shown below.\n ARestaurant NameBPrice RangeCNumber ofCustomer RatingsDAverageCustomer RatingEAcceptsCredit Cards1Joey Calzone’s Pizzerialo1823.5false278th Street Bistromed414.5false3Seaside Taqueriamed2144.5true4Delicious Sub Shop IIlo2024.0false5Rustic Farm Tavernhi1164.5true6ABC Downtown Dinermed0-1.0true\nIn column B, the price range represents the typical cost of a meal, where \"lo\" indicates under $10, \"med\" indicates $11 to $30, and \"hi\" indicates over $30.\nIn column D, the average customer rating is set to -1.0 for restaurants that have no customer ratings.",
+    "question": "A student wants to count the number of restaurants in the spreadsheet whose price range is $30 or less and whose average customer rating is at least 4.0. For a given row in the spreadsheet, suppose prcRange contains the price range as a string and avgRating contains the average customer rating as a decimal number.\nWhich of the following expressions will evaluate to true if the restaurant should be counted and evaluates to false otherwise?",
     "image": null,
     "choices": [
       {

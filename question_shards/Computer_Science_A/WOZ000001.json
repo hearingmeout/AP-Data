@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Student class - describe behavior",
   "content": {
-    "description": "",
+    "description": "A school administrator has created a Student class. The class contains variables to represent the following.\n\nAn int variable named studentID to represent the student’s ID number\n\nA String variable named studentName to represent the student’s name\n\nThe school administrator has also created a Parent class. The class contains variables to represent the following.\n\nA String variable named parentName to represent the parent’s name\n\nA String variable named email to represent the parent’s e-mail address\n\nThe object penelope will be declared as type Student. The object mrsPatel will be declared as type Parent.",
     "question": "Which of the following descriptions is accurate?",
     "image": null,
     "choices": [
       {
-        "label": "An attribute of the penelope object is email.",
+        "label": "An attribute of the penelope object is email.",
         "image": null
       },
       {
-        "label": "An attribute of the penelope object is Parent.",
+        "label": "An attribute of the penelope object is Parent.",
         "image": null
       },
       {
-        "label": "An attribute of the penelope object is Student.",
+        "label": "An attribute of the penelope object is Student.",
         "image": null
       },
       {
-        "label": "An attribute of the mrsPatel object is email.",
+        "label": "An attribute of the mrsPatel object is email.",
         "image": null
       }
     ],
-    "answer": "An attribute of the mrsPatel object is email."
+    "answer": "An attribute of the mrsPatel object is email."
   },
   "unit": {
     "code": "1",

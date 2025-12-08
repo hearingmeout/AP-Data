@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Determine maxPages in bookList",
   "content": {
-    "description": "",
-    "question": "Which of the following can replace /* missing code */ so the method works as intended?",
+    "description": "Consider the following class definition.\n public class Book\n{\n private int pages;\n\npublic int getPages()\n {\n return pages;\n }\n\n/* There may be instance variables, constructors,\n and methods that are not shown. */\n}\n\nThe following method appears in a class other than  Book.  The method is intended to return the greatest number of pages found in any  Book  object in the  ArrayList  parameter  bookList.\n public static int findMaxPages(ArrayList<Book> bookList)\n{\n int maxPages = Integer.MIN_VALUE;\n\nfor (Book b : bookList)\n {\n /* missing code */\n }\n\nreturn maxPages;\n}",
+    "question": "Which of the following can replace  /* missing code */  so the method works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "if (b.getPages() < maxPages) { maxPages = b.getPages(); }",
+        "label": "if (b.getPages() < maxPages)\n{\n maxPages = b.getPages();\n}",
         "image": null
       },
       {
-        "label": "if (b.getPages() > maxPages) { maxPages = b.getPages(); }",
+        "label": "if (b.getPages() > maxPages)\n{\n maxPages = b.getPages();\n}",
         "image": null
       },
       {
-        "label": "if (booklist.get(b).getPages() < maxPages) { maxPages = bookList.get(b).getPages(); }",
+        "label": "if (booklist.get(b).getPages() < maxPages)\n{\n maxPages = bookList.get(b).getPages();\n}",
         "image": null
       },
       {
-        "label": "if (bookList.get(b).getPages() > maxPages) { maxPages = bookList.get(b).getPages(); }",
+        "label": "if (bookList.get(b).getPages() > maxPages)\n{\n maxPages = bookList.get(b).getPages();\n}",
         "image": null
       }
     ],
-    "answer": "if (b.getPages() > maxPages) { maxPages = b.getPages(); }"
+    "answer": "if (b.getPages() > maxPages)\n{\n maxPages = b.getPages();\n}"
   },
   "unit": {
     "code": "4",

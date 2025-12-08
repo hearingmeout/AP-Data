@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "count 2D array columns",
   "content": {
-    "description": "Consider the following method, which is intended to return the number of columns in the two-dimensional array arr for which the sum of the elements in the column is greater than the parameter val.",
-    "question": "public int countCols(int[][] arr, int val) { int count = 0; for (int col = 0; col < arr[0].length; col++) // Line 5 { int sum = 0; for (int[] row : col) // Line 8 { sum += row[col]; // Line 10 } if (sum > val) { count++; } } return count; } The countCols method does not work as intended. Which of the following changes should be made so the method works as intended?",
+    "description": "",
+    "question": "Consider the following method, which is intended to return the number of columns in the two-dimensional array arr for which the sum of the elements in the column is greater than the parameter val.\n\npublic int countCols(int[][] arr, int val)\n\n{\n\nint count = 0;\n\nfor (int col = 0; col < arr[0].length; col++) // Line 5\n\n{\n\nint sum = 0;\n\nfor (int[] row : col) // Line 8\n\n{\n\nsum += row[col]; // Line 10\n\n}\n\nif (sum > val)\n\n{\n\ncount++;\n\n}\n\n}\n\nreturn count;\n\n}\n\nThe countCols method does not work as intended. Which of the following changes should be made so the method works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "Line <math alttext=\"5\" overflow=\"scroll\"><mn>5</mn></math> should be changed to for (int col = 0; col < arr.length; col++)",
+        "label": "Line <math alttext=\"5\" overflow=\"scroll\"><mn>5</mn></math> should be changed to for (int col = 0; col < arr.length; col++)",
         "image": null
       },
       {
-        "label": "Line <math alttext=\"8\" overflow=\"scroll\"><mn>8</mn></math> should be changed to for (int row : col)",
+        "label": "Line <math alttext=\"8\" overflow=\"scroll\"><mn>8</mn></math> should be changed to for (int row : col)",
         "image": null
       },
       {
-        "label": "Line <math alttext=\"8\" overflow=\"scroll\"><mn>8</mn></math> should be changed to for (int[] row : arr)",
+        "label": "Line <math alttext=\"8\" overflow=\"scroll\"><mn>8</mn></math> should be changed to for (int[] row : arr)",
         "image": null
       },
       {
-        "label": "Line <math alttext=\"10\" overflow=\"scroll\"><mn>10</mn></math> should be changed to sum += arr[row][col];",
+        "label": "Line <math alttext=\"10\" overflow=\"scroll\"><mn>10</mn></math> should be changed to sum += arr[row][col];",
         "image": null
       }
     ],
-    "answer": "Line <math alttext=\"8\" overflow=\"scroll\"><mn>8</mn></math> should be changed to for (int[] row : arr)"
+    "answer": "Line <math alttext=\"8\" overflow=\"scroll\"><mn>8</mn></math> should be changed to for (int[] row : arr)"
   },
   "unit": {
     "code": "4",

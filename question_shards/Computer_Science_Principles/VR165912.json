@@ -4,24 +4,24 @@
   "title": "Swap values of num1 and num2",
   "content": {
     "description": "",
-    "question": "Which of the following code segments can be used to interchange the values of the variables num1 and num2 ?",
+    "question": "Which of the following code segments can be used to interchange the values of the variables num1 and num2 ?",
     "image": null,
     "choices": [
       {
         "label": "The figure presents two blocks of code that consist of 2 total lines. Line 1: [begin block] num1 ← num2 [end block] Line 2: [begin block] num2 ← num1 [end block]",
-        "image": "https://ap.oly.st/images/95eb11ff0141d9135496216db3f2670a.png"
+        "image": null
       },
       {
         "label": "The figure presents three blocks of code that consist of 3 total lines. Line 1: [begin block] temp ← num1 [end block] Line 2: [begin block] num1 ← temp [end block] Line 3: [begin block] num2 ← num1 [end block]",
-        "image": "https://ap.oly.st/images/af4bf1a6d71c474ab1f504af8c1e74a3.png"
+        "image": null
       },
       {
         "label": "The figure presents three blocks of code that consist of 3 total lines. Line 1: [begin block] temp ← num1 [end block] Line 2: [begin block] num2 ← num1 [end block] Line 3: [begin block] num1 ← temp [end block]",
-        "image": "https://ap.oly.st/images/d59b210cdb9e153f39813a46e03dedd5.png"
+        "image": null
       },
       {
         "label": "The figure presents three blocks of code that consist of 3 total lines. Line 1: [begin block] temp ← num1 [end block] Line 2: [begin block] num1← num2 [end block] Line 3: [begin block] num2 ← temp [end block]",
-        "image": "https://ap.oly.st/images/055268edce3194224ee94dc7d3fe4e05.png"
+        "image": null
       }
     ],
     "answer": "The figure presents three blocks of code that consist of 3 total lines. Line 1: [begin block] temp ← num1 [end block] Line 2: [begin block] num1← num2 [end block] Line 3: [begin block] num2 ← temp [end block]"

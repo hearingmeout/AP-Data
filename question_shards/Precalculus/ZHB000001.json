@@ -4,7 +4,7 @@
   "title": "Exponential-Logarithmic Functions - Inverses",
   "content": {
     "description": "",
-    "question": "The function <math alttext=\"f\"><mi>f</mi></math> is given by <math alttext=\"f open parentheses x close parentheses equals 2 plus log subscript 2 x\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>2</mn><mo>+</mo><msub><mi>log</mi><mn>2</mn></msub><mi>x</mi></math>, and the function <math alttext=\"g\"><mi>g</mi></math> is given by <math alttext=\"g open parentheses x close parentheses equals 2 to the power of open parentheses x minus 2 close parentheses end exponent\"><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mn>2</mn><mfenced><mrow><mi>x</mi><mo>-</mo><mn>2</mn></mrow></mfenced></msup></math>. Which of the following statements provides correct reasoning for why functions <math alttext=\"f\"><mi>f</mi></math> and <math alttext=\"g\"><mi>g</mi></math> are inverse functions of each other?",
+    "question": "The function <math alttext=\"f\"><mi>f</mi></math> is given by <math alttext=\"f open parentheses x close parentheses equals 2 plus log subscript 2 x\"><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mn>2</mn><mo>+</mo><msub><mi>log</mi><mn>2</mn></msub><mi>x</mi></math>, and the function <math alttext=\"g\"><mi>g</mi></math> is given by <math alttext=\"g open parentheses x close parentheses equals 2 to the power of open parentheses x minus 2 close parentheses end exponent\"><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><msup><mn>2</mn><mfenced><mrow><mi>x</mi><mo>-</mo><mn>2</mn></mrow></mfenced></msup></math>. Which of the following statements provides correct reasoning for why functions <math alttext=\"f\"><mi>f</mi></math> and <math alttext=\"g\"><mi>g</mi></math> are inverse functions of each other?",
     "image": null,
     "choices": [
       {
@@ -12,19 +12,19 @@
         "image": null
       },
       {
-        "label": "Because <math alttext=\"2 plus log subscript 2 open parentheses 2 to the power of open parentheses x minus 2 close parentheses end exponent close parentheses equals x\"><mn>2</mn><mo>+</mo><msub><mi>log</mi><mn>2</mn></msub><mfenced><msup><mn>2</mn><mfenced><mrow><mi>x</mi><mo>-</mo><mn>2</mn></mrow></mfenced></msup></mfenced><mo>=</mo><mi>x</mi></math> and <math alttext=\"2 to the power of open parentheses open parentheses 2 plus log subscript 2 x close parentheses minus 2 close parentheses end exponent equals x\"><msup><mn>2</mn><mfenced><mrow><mfenced><mrow><mn>2</mn><mo>+</mo><msub><mi>log</mi><mn>2</mn></msub><mi>x</mi></mrow></mfenced><mo>-</mo><mn>2</mn></mrow></mfenced></msup><mo>=</mo><mi>x</mi></math>",
+        "label": "Because <math alttext=\"2 plus log subscript 2 open parentheses 2 to the power of open parentheses x minus 2 close parentheses end exponent close parentheses equals x\"><mn>2</mn><mo>+</mo><msub><mi>log</mi><mn>2</mn></msub><mfenced><msup><mn>2</mn><mfenced><mrow><mi>x</mi><mo>-</mo><mn>2</mn></mrow></mfenced></msup></mfenced><mo>=</mo><mi>x</mi></math> and <math alttext=\"2 to the power of open parentheses open parentheses 2 plus log subscript 2 x close parentheses minus 2 close parentheses end exponent equals x\"><msup><mn>2</mn><mfenced><mrow><mfenced><mrow><mn>2</mn><mo>+</mo><msub><mi>log</mi><mn>2</mn></msub><mi>x</mi></mrow></mfenced><mo>-</mo><mn>2</mn></mrow></mfenced></msup><mo>=</mo><mi>x</mi></math>",
         "image": null
       },
       {
-        "label": "Because <math alttext=\"f\"><mi>f</mi></math> involves a logarithmic function with base <math alttext=\"2\"><mn>2</mn></math>, and <math alttext=\"g\"><mi>g</mi></math> involves an exponential function with base <math alttext=\"2\"><mn>2</mn></math>",
+        "label": "Because <math alttext=\"f\"><mi>f</mi></math> involves a logarithmic function with base <math alttext=\"2\"><mn>2</mn></math>, and <math alttext=\"g\"><mi>g</mi></math> involves an exponential function with base <math alttext=\"2\"><mn>2</mn></math>",
         "image": null
       },
       {
-        "label": "Because the reflection of the graph of <math alttext=\"f\"><mi>f</mi></math> over the <math alttext=\"y\"><mi>y</mi></math>-axis produces the graph of <math alttext=\"g\"><mi>g</mi></math>, and the reflection of the graph of <math alttext=\"g\"><mi>g</mi></math> over the <math alttext=\"y\"><mi>y</mi></math>-axis produces the graph of <math alttext=\"f\"><mi>f</mi></math>",
+        "label": "Because the reflection of the graph of <math alttext=\"f\"><mi>f</mi></math> over the <math alttext=\"y\"><mi>y</mi></math>-axis produces the graph of <math alttext=\"g\"><mi>g</mi></math>, and the reflection of the graph of <math alttext=\"g\"><mi>g</mi></math> over the <math alttext=\"y\"><mi>y</mi></math>-axis produces the graph of <math alttext=\"f\"><mi>f</mi></math>",
         "image": null
       }
     ],
-    "answer": "Because <math alttext=\"2 plus log subscript 2 open parentheses 2 to the power of open parentheses x minus 2 close parentheses end exponent close parentheses equals x\"><mn>2</mn><mo>+</mo><msub><mi>log</mi><mn>2</mn></msub><mfenced><msup><mn>2</mn><mfenced><mrow><mi>x</mi><mo>-</mo><mn>2</mn></mrow></mfenced></msup></mfenced><mo>=</mo><mi>x</mi></math> and <math alttext=\"2 to the power of open parentheses open parentheses 2 plus log subscript 2 x close parentheses minus 2 close parentheses end exponent equals x\"><msup><mn>2</mn><mfenced><mrow><mfenced><mrow><mn>2</mn><mo>+</mo><msub><mi>log</mi><mn>2</mn></msub><mi>x</mi></mrow></mfenced><mo>-</mo><mn>2</mn></mrow></mfenced></msup><mo>=</mo><mi>x</mi></math>"
+    "answer": "Because <math alttext=\"2 plus log subscript 2 open parentheses 2 to the power of open parentheses x minus 2 close parentheses end exponent close parentheses equals x\"><mn>2</mn><mo>+</mo><msub><mi>log</mi><mn>2</mn></msub><mfenced><msup><mn>2</mn><mfenced><mrow><mi>x</mi><mo>-</mo><mn>2</mn></mrow></mfenced></msup></mfenced><mo>=</mo><mi>x</mi></math> and <math alttext=\"2 to the power of open parentheses open parentheses 2 plus log subscript 2 x close parentheses minus 2 close parentheses end exponent equals x\"><msup><mn>2</mn><mfenced><mrow><mfenced><mrow><mn>2</mn><mo>+</mo><msub><mi>log</mi><mn>2</mn></msub><mi>x</mi></mrow></mfenced><mo>-</mo><mn>2</mn></mrow></mfenced></msup><mo>=</mo><mi>x</mi></math>"
   },
   "unit": {
     "code": "2",

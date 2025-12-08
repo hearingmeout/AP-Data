@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Person class - write constructor",
   "content": {
-    "description": "",
-    "question": "Which of the following can be used to replace /* missing constructor */ so that the object p is correctly created?",
+    "description": "Consider the following class definition.\n public class Person\n{\n private String name;\n /* missing constructor */\n}\n\nThe following statement, which is located in a method in a different class, creates a new Person object with its attribute name initialized to \"Washington\".\n Person p = new Person(\"Washington\");",
+    "question": "Which of the following can be used to replace /* missing constructor */ so that the object p is correctly created?",
     "image": null,
     "choices": [
       {
-        "label": "private Person(String n) { name = n; }",
+        "label": "private Person(String n)\n{\n name = n;\n}",
         "image": null
       },
       {
-        "label": "public Person() { name = n; }",
+        "label": "public Person()\n{\n name = n;\n}",
         "image": null
       },
       {
-        "label": "public Person(String n) { name = n; }",
+        "label": "public Person(String n)\n{\n name = n;\n}",
         "image": null
       },
       {
-        "label": "public Person(String name) { String n = name; }",
+        "label": "public Person(String name)\n{\n String n = name;\n}",
         "image": null
       }
     ],
-    "answer": "public Person(String n) { name = n; }"
+    "answer": "public Person(String n)\n{\n name = n;\n}"
   },
   "unit": {
     "code": "3",

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Documentation for procedure with lists",
   "content": {
-    "description": "In the following procedure, the parameter numList is a list of numbers and the parameters j and k are integers.",
-    "question": "PROCEDURE swapListElements(numList, j, k){newList <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> numListnewList[j] <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> numList[k]newList[k] <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> numList[j]RETURN(newList)}Which of the following is the most appropriate documentation to appear with the swapListElements procedure?",
+    "description": "",
+    "question": "In the following procedure, the parameter numList is a list of numbers and the parameters j and k are integers.\n\nPROCEDURE swapListElements(numList, j, k)\n{\nnewList <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> numList\nnewList[j] <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> numList[k]\nnewList[k] <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> numList[j]\nRETURN(newList)\n}\nWhich of the following is the most appropriate documentation to appear with the swapListElements procedure?",
     "image": null,
     "choices": [
       {
-        "label": "Returns a copy of numList with the elements at indices j and k interchanged.The value of j must be between 0 and the value of k, inclusive.",
+        "label": "Returns a copy of numList with the elements at indices j and k interchanged.The value of j must be between 0 and the value of k, inclusive.",
         "image": null
       },
       {
-        "label": "Returns a copy of numList with the elements at indices j and k interchanged.The values of j and k must both be between 1 and LENGTH(numList), inclusive.",
+        "label": "Returns a copy of numList with the elements at indices j and k interchanged.The values of j and k must both be between 1 and LENGTH(numList), inclusive.",
         "image": null
       },
       {
-        "label": "Interchanges the values of the parameters j and k.The value of j must be between 0 and the value of k, inclusive.",
+        "label": "Interchanges the values of the parameters j and k.The value of j must be between 0 and the value of k, inclusive.",
         "image": null
       },
       {
-        "label": "Interchanges the values of the parameters j and k.The values of j and k must both be between 1 and LENGTH(numList), inclusive.",
+        "label": "Interchanges the values of the parameters j and k.The values of j and k must both be between 1 and LENGTH(numList), inclusive.",
         "image": null
       }
     ],
-    "answer": "Returns a copy of numList with the elements at indices j and k interchanged.The values of j and k must both be between 1 and LENGTH(numList), inclusive."
+    "answer": "Returns a copy of numList with the elements at indices j and k interchanged.The values of j and k must both be between 1 and LENGTH(numList), inclusive."
   },
   "topic": {
     "code": "1.3",

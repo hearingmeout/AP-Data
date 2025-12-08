@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Execution counts in sort method - determine result",
   "content": {
-    "description": "",
-    "question": "Assume that sort is called with the array {1, 2, 3, 4, 5, 6}. How many times will the expression indicated by /* Compare values */ and the statement indicated by /* Assign to temp */ execute?",
+    "description": "Consider the following method. This method correctly sorts the elements of array  data  into increasing order.\n public static void sort(int[] data)\n{\n for (int j = 0; j < data.length - 1; j++)\n {\n int m = j;\n for (int k = j + 1; k < data.length; k++)\n {\n if (data[k] < data[m])    /* Compare values */\n {\n m = k;\n }\n }\n int temp = data[m];    /* Assign to temp */\n data[m] = data[j];\n data[j] = temp;\n /* End of outer loop */\n }\n}",
+    "question": "Assume that  sort  is called with the array  {1, 2, 3, 4, 5, 6}.  How many times will the expression indicated by  /* Compare values */  and the statement indicated by  /* Assign to temp */  execute?",
     "image": null,
     "choices": [
       {
-        "label": "/* Compare values *//* Assign to temp */15 times5 times",
+        "label": "/* Compare values */\n/* Assign to temp */\n15 times\n5 times",
         "image": null
       },
       {
-        "label": "/* Compare values *//* Assign to temp */15 times6 times",
+        "label": "/* Compare values */\n/* Assign to temp */\n15 times\n6 times",
         "image": null
       },
       {
-        "label": "/* Compare values *//* Assign to temp */21 times5 times",
+        "label": "/* Compare values */\n/* Assign to temp */\n21 times\n5 times",
         "image": null
       },
       {
-        "label": "/* Compare values *//* Assign to temp */21 times6 times",
+        "label": "/* Compare values */\n/* Assign to temp */\n21 times\n6 times",
         "image": null
       }
     ],
-    "answer": "/* Compare values *//* Assign to temp */15 times5 times"
+    "answer": "/* Compare values */\n/* Assign to temp */\n15 times\n5 times"
   },
   "unit": {
     "code": "2",

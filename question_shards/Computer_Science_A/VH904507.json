@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "isLeapYear",
   "content": {
-    "description": "The following method is intended to return true if and only if the parameter val is a multiple of 4 but is not a multiple of 100 unless it is also a multiple of 400. The method does not always work correctly.",
-    "question": "public boolean isLeapYear(int val){if ((val % 4) == 0){return true;}else{return (val % 400) == 0;}}Which of the following method calls will return an incorrect response?",
+    "description": "",
+    "question": "The following method is intended to return true if and only if the parameter val is a multiple of 4 but is not a multiple of 100 unless it is also a multiple of 400. The method does not always work correctly.\n\npublic boolean isLeapYear(int val)\n{\nif ((val % 4) == 0)\n{\nreturn true;\n}\nelse\n{\nreturn (val % 400) == 0;\n}\n}\nWhich of the following method calls will return an incorrect response?",
     "image": null,
     "choices": [
       {

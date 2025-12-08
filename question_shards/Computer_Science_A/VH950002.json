@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Example class accessor method",
   "content": {
-    "description": "Consider the following class definition.",
-    "question": "public class Example{private int x;// Constructor not shown.}Which of the following is a correct header for a method of the Example class that would return the value of the private instance variable x so that it can be used in a class other than Example ?",
+    "description": "",
+    "question": "Consider the following class definition.\n\npublic class Example\n{\nprivate int x;\n\n// Constructor not shown.\n}\nWhich of the following is a correct header for a method of the Example class that would return the value of the private instance variable x so that it can be used in a class other than Example ?",
     "image": null,
     "choices": [
       {

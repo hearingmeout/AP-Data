@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Inputs to logic circuit",
   "content": {
-    "description": "",
-    "question": "For which of the following input values will the circuit have an output of true ?",
+    "description": "The diagram below shows a circuit composed of three logic gates. Each gate takes two inputs and produces a single output.",
+    "question": "For which of the following input values will the circuit have an output of true ?",
     "image": null,
     "choices": [
       {
-        "label": "A = true, B = true, C = true, D = false",
+        "label": "A = true,  B = true,  C = true,  D = false",
         "image": null
       },
       {
-        "label": "A = true, B = false, C = false, D = true",
+        "label": "A = true,  B = false, C = false, D = true",
         "image": null
       },
       {
-        "label": "A = false, B = true, C = true, D = true",
+        "label": "A = false, B = true,  C = true,  D = true",
         "image": null
       },
       {
-        "label": "A = false, B = false, C = true, D = true",
+        "label": "A = false, B = false, C = true,  D = true",
         "image": null
       }
     ],
-    "answer": "A = false, B = true, C = true, D = true"
+    "answer": "A = false, B = true,  C = true,  D = true"
   },
   "topic": {
     "code": "3.5",

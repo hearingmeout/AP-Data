@@ -3,20 +3,20 @@
   "type": "mcq",
   "title": "Item Class - determine output",
   "content": {
-    "description": "",
+    "description": "Consider the following partial class declaration. \n public class Item\n{ \n private double price; // The price of the item\n public String name; // The name of the item\n\n/* There may be instance variables, constructors,\n and methods that are not shown. */\n}\n\nThe following code segments each appear in a class other than  Item.  Assume that  myItem  and  myItem2  are  Item  objects that have been properly instantiated.\n\nCode Segment Iint x = myItem.price;\nSystem.out.println(x);\n\nCode Segment IIString y = myItem2.name;\nSystem.out.println(y);",
     "question": "What, if anything, is printed as a result of executing each of the code segments?",
     "image": null,
     "choices": [
       {
-        "label": "Code segment I prints the price of myItem, and code segment II prints the name of myItem2.",
+        "label": "Code segment I prints the price of  myItem, and code segment II prints the name of  myItem2.",
         "image": null
       },
       {
-        "label": "Code segment I prints the price of myItem, but code segment II does not compile.",
+        "label": "Code segment I prints the price of  myItem,  but code segment II does not compile.",
         "image": null
       },
       {
-        "label": "Code segment II prints the name of myItem2, but code segment I does not compile.",
+        "label": "Code segment II prints the name of  myItem2,  but code segment I does not compile.",
         "image": null
       },
       {
@@ -24,7 +24,7 @@
         "image": null
       }
     ],
-    "answer": "Code segment II prints the name of myItem2, but code segment I does not compile."
+    "answer": "Code segment II prints the name of  myItem2,  but code segment I does not compile."
   },
   "unit": {
     "code": "3",

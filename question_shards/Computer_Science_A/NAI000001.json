@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "allPositiveInRow for 2D array - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following replacements for /* initial value */ and /* updated value */ can be used so that the method works as intended?",
+    "description": "The following method is intended to return  true  if all elements in row  x  of the 2D array  nums  are positive and  false  otherwise.\n /**\n * Precondition: x is a valid row index of nums.\n */\npublic static boolean allPositiveInRow(int[][]nums, int x) \n{ \n boolean allPositive = /* initial value */; \n for (int y = 0; y < nums[0].length; y++) \n { \n if (nums[x][y] <= 0) \n { \n allPositive = /* updated value */; \n } \n } \n return allPositive; \n}",
+    "question": "Which of the following replacements for  /* initial value */  and  /* updated value */  can be used so that the method works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "Replace /* initial value */ with true and replace /* updated value */ with true.",
+        "label": "Replace  /* initial value */  with  true  and replace  /* updated value */  with  true.",
         "image": null
       },
       {
-        "label": "Replace /* initial value */ with true and replace /* updated value */ with false.",
+        "label": "Replace  /* initial value */  with  true  and replace  /* updated value */  with  false.",
         "image": null
       },
       {
-        "label": "Replace /* initial value */ with false and replace /* updated value */ with true.",
+        "label": "Replace  /* initial value */  with  false  and replace  /* updated value */  with  true.",
         "image": null
       },
       {
-        "label": "Replace /* initial value */ with false and replace /* updated value */ with false.",
+        "label": "Replace  /* initial value */  with  false  and replace  /* updated value */  with  false.",
         "image": null
       }
     ],
-    "answer": "Replace /* initial value */ with true and replace /* updated value */ with false."
+    "answer": "Replace  /* initial value */  with  true  and replace  /* updated value */  with  false."
   },
   "unit": {
     "code": "4",

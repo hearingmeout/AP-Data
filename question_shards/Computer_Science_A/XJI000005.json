@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Division and modulus in loop - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n int value = 100;\nwhile (value % 5 == 0)\n{\n value /= 2;\n}\nSystem.out.println(value);",
     "question": "What is printed as a result of executing this code segment?",
     "image": null,
     "choices": [

@@ -3,25 +3,25 @@
   "type": "mcq",
   "title": "Flowchart to set available",
   "content": {
-    "description": "",
+    "description": "A flowchart is a way to visually represent an algorithm. The flowchart below is used by an application to set the Boolean variable available to true under certain conditions. The flowchart uses the Boolean variable weekday and the integer variable miles.\n\nBlock\nExplanation\n\nOval\nThe start or end of the algorithm\n\nDiamond\nA conditional or decision step, where execution proceeds to the side labeled true if the condition is true and to the side labeled false otherwise\n\nRectangle\nOne or more processing steps, such as a statement that assigns a value to a variable",
     "question": "Which of the following statements is equivalent to the algorithm in the flowchart?",
     "image": null,
     "choices": [
       {
         "label": "The figure presents a block of code that consists of 1 line. Throughout the code there are nested blocks of code. Line 1: [begin block] available ← [Begin Block] [begin block] weekday [end block] OR [begin block] miles are less than 20 [end block] [End Block] [end block]",
-        "image": "https://ap.oly.st/images/40ab05d980cfb6a79cb2a002e6724d91.png"
+        "image": null
       },
       {
         "label": "The figure presents a block of code that consists of 1 line. Throughout the code there are nested blocks of code. Line 1: [begin block] available ← [Begin Block] [begin block] weekday [end block] AND [begin block] miles are greater than or equal to 20 [end block] [End Block] [end block]",
-        "image": "https://ap.oly.st/images/87a59038e20fad3b36de205fb6938aa8.PNG"
+        "image": null
       },
       {
         "label": "The figure presents a block of code that consists of 1 line. Throughout the code there are nested blocks of code. Line 1: [begin block] available ← [Begin Block] [begin block] weekday [end block] OR [begin block] miles are greater than or equal to 20 [end block] [End Block] [end block]",
-        "image": "https://ap.oly.st/images/5860512f50fb59a1de79a3bd0da099c8.png"
+        "image": null
       },
       {
         "label": "The figure presents a block of code that consists of 1 line. Throughout the code there are nested blocks of code. Line 1: [begin block] available ← [Begin Block] [begin block] weekday [end block] AND [begin block] miles are less than 20 [end block] [End Block] [end block]",
-        "image": "https://ap.oly.st/images/9282e4b528bcdefea617aa1db3938450.PNG"
+        "image": null
       }
     ],
     "answer": "The figure presents a block of code that consists of 1 line. Throughout the code there are nested blocks of code. Line 1: [begin block] available ← [Begin Block] [begin block] weekday [end block] AND [begin block] miles are less than 20 [end block] [End Block] [end block]"

@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "For loop with mod - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n for (int m = 16; m > 0; m -= 2)\n{\n if ((m % 3) == 1)\n {\n System.out.print(m + \" \");\n }\n}",
     "question": "What is printed as a result of executing this code segment?",
     "image": null,
     "choices": [

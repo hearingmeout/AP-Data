@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Max difference method - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can be used to replace /* missing code */ so that the difference method works as intended?",
+    "description": "Consider the following method, which is intended to return the index  i  for which the value of  predicted[i]  is furthest from the value of  actual[i].\n\nFor example, if  predicted  contains the values  {60, 65, 62, 68, 70, 72, 68}  and  actual  contains the values  {64, 68, 60, 67, 76, 72, 70},  then  difference  should return  4,  because the corresponding elements with values that are furthest from each other are  predicted[4]  and  actual[4].\n /** \n * Precondition: predicted and actual have the same\n * nonzero length.\n */ \npublic static int difference(int[] predicted, int[] actual)\n{\n int num = Integer.MIN_VALUE;\n int idx = -1;\n for (int i = 0; i < predicted.length; i++)\n {\n /* missing code */\n }\n return idx;\n}",
+    "question": "Which of the following can be used to replace  /* missing code */  so that the  difference  method works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "if (predicted[i] - actual[i] < num) { num = predicted[i] - actual[i]; idx = i; }",
+        "label": "if (predicted[i] - actual[i] < num) \n{ \n   num = predicted[i] - actual[i];\n   idx = i; \n}",
         "image": null
       },
       {
-        "label": "if (predicted[i] - actual[i] > num) { num = predicted[i] - actual[i]; idx = i; }",
+        "label": "if (predicted[i] - actual[i] > num) \n{ \n   num = predicted[i] - actual[i];\n   idx = i;\n}",
         "image": null
       },
       {
-        "label": "if (Math.abs(predicted[i] - actual[i]) < num) { num = Math.abs(predicted[i] - actual[i]); idx = i; }",
+        "label": "if (Math.abs(predicted[i] - actual[i]) < num) \n{ \n   num = Math.abs(predicted[i] - actual[i]);\n   idx = i;\n}",
         "image": null
       },
       {
-        "label": "if (Math.abs(predicted[i] - actual[i]) > num) { num = Math.abs(predicted[i] - actual[i]); idx = i; }",
+        "label": "if (Math.abs(predicted[i] - actual[i]) > num) \n{ \n   num = Math.abs(predicted[i] - actual[i]);\n   idx = i;\n}",
         "image": null
       }
     ],
-    "answer": "if (Math.abs(predicted[i] - actual[i]) > num) { num = Math.abs(predicted[i] - actual[i]); idx = i; }"
+    "answer": "if (Math.abs(predicted[i] - actual[i]) > num) \n{ \n   num = Math.abs(predicted[i] - actual[i]);\n   idx = i;\n}"
   },
   "unit": {
     "code": "4",

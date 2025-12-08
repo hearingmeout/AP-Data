@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Table of Values - Semi-log Plot",
   "content": {
-    "description": "",
+    "description": "<math alttext=\"t\"><semantics><mi>t</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>\n\n<math alttext=\"1\"><semantics><mn>1</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>\n\n<math alttext=\"2\"><semantics><mn>2</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>\n\n<math alttext=\"3\"><semantics><mn>3</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>\n\n<math alttext=\"4\"><semantics><mn>4</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>\n\n<math alttext=\"5\"><semantics><mn>5</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>\n\n<math alttext=\"m open parentheses t close parentheses\"> <semantics> <mrow> <mi>m</mi> <mfenced> <mi>t</mi> </mfenced> </mrow> <annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation> </semantics> </math>\n\n<math alttext=\"30\"><semantics><mn>30</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>\n\n<math alttext=\"50\"><semantics><mn>50</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>\n\n<math alttext=\"83\"><semantics><mn>83</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>\n\n<math alttext=\"139\"><semantics><mn>139</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>\n\n<math alttext=\"231\"><semantics><mn>231</mn><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>\n\nThe table gives values for a function <math alttext=\"m\"> <semantics> <mi>m</mi> <annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation> </semantics> </math> at selected values of <math alttext=\"t\"> <semantics> <mi>t</mi> <annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation> </semantics> </math>.",
     "question": "Which of the following graphs could represent these data in a semi-log plot, where the vertical axis is logarithmically scaled?",
     "image": null,
     "choices": [
       {
-        "label": "The data points have the following approximate coordinates: (1 comma 30) (2 comma 50) (3 comma 83) (4 comma 139) (5 comma 231) The five points in the graph appear to have an increasing, concave up pattern.",
-        "image": "https://ap.oly.st/images/204f58dc1592a61dece9d3e0bee924b5.svg"
+        "label": "The data points have the following approximate coordinates:\n\n(1 comma 30)\n\n(2 comma 50)\n\n(3 comma 83)\n\n(4 comma 139)\n\n(5 comma 231)\n\nThe five points in the graph appear to have an increasing, concave up pattern.",
+        "image": null
       },
       {
-        "label": "The data points have the following approximate coordinates: (1 comma 1.477) (2 comma 1.699) (3 comma 1.919) (4 comma 2.143) (5 comma 2.364) The five points in the graph appear to have an increasing, linear pattern.",
-        "image": "https://ap.oly.st/images/22730fc9f73d42b68cf31ca3a4b21a3a.svg"
+        "label": "The data points have the following approximate coordinates:\n\n(1 comma 1.477)\n\n(2 comma 1.699)\n\n(3 comma 1.919)\n\n(4 comma 2.143)\n\n(5 comma 2.364)\n\nThe five points in the graph appear to have an increasing, linear pattern.",
+        "image": null
       },
       {
-        "label": "The data points have the following approximate coordinates: (1 comma 30) (2 comma 50) (3 comma 83) (4 comma 139) (5 comma 231) The five points in the graph appear to have an increasing, linear pattern.",
-        "image": "https://ap.oly.st/images/7f1e342836c1be3b991db11ee3facf45.svg"
+        "label": "The data points have the following approximate coordinates:\n\n(1 comma 30)\n\n(2 comma 50)\n\n(3 comma 83)\n\n(4 comma 139)\n\n(5 comma 231)\n\nThe five points in the graph appear to have an increasing, linear pattern.",
+        "image": null
       },
       {
-        "label": "The data points have the following approximate coordinates: (1 comma 1.477) (2 comma 1.699) (3 comma 1.919) (4 comma 2.143) (5 comma 2.364) The five points in the graph appear to have an increasing, concave up pattern.",
-        "image": "https://ap.oly.st/images/6012ee787ad5e40a62536f215e7a3b03.svg"
+        "label": "The data points have the following approximate coordinates:\n\n(1 comma 1.477)\n\n(2 comma 1.699)\n\n(3 comma 1.919)\n\n(4 comma 2.143)\n\n(5 comma 2.364)\n\nThe five points in the graph appear to have an increasing, concave up pattern.",
+        "image": null
       }
     ],
-    "answer": "The data points have the following approximate coordinates: (1 comma 30) (2 comma 50) (3 comma 83) (4 comma 139) (5 comma 231) The five points in the graph appear to have an increasing, linear pattern."
+    "answer": "The data points have the following approximate coordinates:\n\n(1 comma 30)\n\n(2 comma 50)\n\n(3 comma 83)\n\n(4 comma 139)\n\n(5 comma 231)\n\nThe five points in the graph appear to have an increasing, linear pattern."
   },
   "unit": {
     "code": "2",

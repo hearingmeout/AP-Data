@@ -3,9 +3,9 @@
   "type": "mcq",
   "title": "Using FindName to find unique names in nameList",
   "content": {
-    "description": "The procedure below is intended to display the index in a list of unique names (nameList) where a particular name (targetName) is found. If targetName is not found in nameList, the code should display 0.",
-    "question": "Which of the following procedure calls can be used to demonstrate that the procedure does NOT work as intended?",
-    "image": "https://ap.oly.st/images/6a3cc29a7aab138ca46a60ce91e85b7a.png",
+    "description": "",
+    "question": "The procedure below is intended to display the index in a list of unique names (nameList) where a particular name (targetName) is found. If targetName is not found in nameList, the code should display 0.\n\nWhich of the following procedure calls can be used to demonstrate that the procedure does NOT work as intended?",
+    "image": null,
     "choices": [
       {
         "label": "FindName ([\"Andrea\", \"Ben\"], \"Ben\")",

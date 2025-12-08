@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "int and double arithmetic",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "double firstDouble = 2.5; int firstInt = 30; int secondInt = 5; double secondDouble = firstInt - secondInt / firstDouble + 2.5; What value will be assigned to secondDouble when the code segment is executed?",
+    "description": "",
+    "question": "Consider the following code segment.\n\ndouble firstDouble = 2.5;\n\nint firstInt = 30;\n\nint secondInt = 5;\n\ndouble secondDouble = firstInt - secondInt / firstDouble + 2.5;\n\nWhat value will be assigned to secondDouble when the code segment is executed?",
     "image": null,
     "choices": [
       {

@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Value displayed by call to doSomething procedure",
   "content": {
-    "description": "Consider the following procedure.",
-    "question": "PROCEDURE doSomething(num1, num2){DISPLAY(num1)RETURN(num1)DISPLAY(num2)}Consider the following statement.DISPLAY(doSomething(10, 20))What is displayed as a result of executing the statement above?",
+    "description": "",
+    "question": "Consider the following procedure.\n\nPROCEDURE doSomething(num1, num2)\n{\nDISPLAY(num1)\nRETURN(num1)\nDISPLAY(num2)\n}\nConsider the following statement.\n\nDISPLAY(doSomething(10, 20))\nWhat is displayed as a result of executing the statement above?",
     "image": null,
     "choices": [
       {

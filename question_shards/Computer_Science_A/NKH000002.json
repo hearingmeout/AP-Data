@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Array after two passes of sort - determine result",
   "content": {
-    "description": "",
-    "question": "Assume that sort is called with the array {6, 3, 2, 5, 4, 1}. Which of the following represents the contents of data after three passes of the outer loop (i.e., when j == 2 at the point indicated by /* End of outer loop */)?",
+    "description": "Consider the following method. This method correctly sorts the elements of array  data  into increasing order.\n public static void sort(int[] data)\n{\n for (int j = 0; j < data.length - 1; j++)\n {\n int m = j;\n for (int k = j + 1; k < data.length; k++)\n {\n if (data[k] < data[m])    /* Compare values */\n {\n m = k;\n }\n }\n int temp = data[m];    /* Assign to temp */\n data[m] = data[j];\n data[j] = temp;\n /* End of outer loop */\n }\n}",
+    "question": "Assume that  sort  is called with the array  {6, 3, 2, 5, 4, 1}.  Which of the following represents the contents of  data  after three passes of the outer loop (i.e., when  j == 2  at the point indicated by  /* End of outer loop */)?",
     "image": null,
     "choices": [
       {

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Print digits algorithm",
   "content": {
-    "description": "",
+    "description": "The following algorithm is intended to take a positive integer as input and display its individual digits in order from right to left. For example, if the input is 512, the algorithm should produce the output 2 1 5. Step 3 of the algorithm is missing.\n\nStep 1: Input a positive integer from the user and store it in the variable number.\n\nStep 2: Divide number by 10 and record the integer quotient and the remainder. The integer quotient is the quotient with any part after the decimal point dropped. For example, when 127 is divided by 10, the quotient is 12.7, the integer quotient is 12 and the remainder is 7.\n\nStep 3: (missing step)\n\nStep 4: Repeat steps 2 and 3 until number is 0.",
     "question": "Which of the following can be used as step 3 so that the algorithm works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "Step 3: Display the remainder of number divided by 10 and store the remainder in number.",
+        "label": "Step 3: Display the remainder of number divided by 10 and store the remainder in number.",
         "image": null
       },
       {
-        "label": "Step 3: Display the remainder of number divided by 10 and store the integer quotient in number.",
+        "label": "Step 3: Display the remainder of number divided by 10 and store the integer quotient in number.",
         "image": null
       },
       {
-        "label": "Step 3: Display the integer quotient of number divided by 10 and store the remainder in number.",
+        "label": "Step 3: Display the integer quotient of number divided by 10 and store the remainder in number.",
         "image": null
       },
       {
-        "label": "Step 3: Display the integer quotient of number divided by 10 and store the integer quotient in number.",
+        "label": "Step 3: Display the integer quotient of number divided by 10 and store the integer quotient in number.",
         "image": null
       }
     ],
-    "answer": "Step 3: Display the remainder of number divided by 10 and store the integer quotient in number."
+    "answer": "Step 3: Display the remainder of number divided by 10 and store the integer quotient in number."
   },
   "topic": {
     "code": "3.3",

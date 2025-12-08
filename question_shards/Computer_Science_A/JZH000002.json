@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Worker class - explain error",
   "content": {
-    "description": "",
+    "description": "Consider the following  Worker  class. The class includes the method  getEarnings,  which is intended to return the total amount earned by the worker.\n public class Worker\n{\n private double hourlyRate;\n private double hoursWorked;\n private double earnings;\n\npublic Worker(double rate, double hours) \n {\n hourlyRate = rate; \n hoursWorked = hours; \n }\n\nprivate void calculateEarnings() \n {\n double earnings = 0.0;\n earnings = hourlyRate * hoursWorked; \n }\n\npublic double getEarnings()\n {\n calculateEarnings(); \n return earnings; \n }\n} \n\nThe following code segment appears in a method in a class other than  Worker.  The code segment is intended to print the value  800.0,  but instead prints a different value because of an error in the  Worker  class.\n Worker bob = new Worker(20.0, 40.0);\nSystem.out.println(bob.getEarnings());",
     "question": "Which of the following best explains why an incorrect value is printed?",
     "image": null,
     "choices": [
       {
-        "label": "The private instance variables hourlyRate and hoursWorked should be declared public.",
+        "label": "The  private  instance variables  hourlyRate  and  hoursWorked  should be declared  public.",
         "image": null
       },
       {
-        "label": "The private method calculateEarnings should be declared public.",
+        "label": "The  private  method  calculateEarnings  should be declared  public.",
         "image": null
       },
       {
-        "label": "The variable earnings in the calculateEarnings method is a local variable.",
+        "label": "The variable  earnings  in the  calculateEarnings  method is a local variable.",
         "image": null
       },
       {
-        "label": "The variables hourlyRate and hoursWorked in the calculateEarnings method are local variables.",
+        "label": "The variables  hourlyRate  and  hoursWorked  in the  calculateEarnings  method are local variables.",
         "image": null
       }
     ],
-    "answer": "The variable earnings in the calculateEarnings method is a local variable."
+    "answer": "The variable  earnings  in the  calculateEarnings  method is a local variable."
   },
   "unit": {
     "code": "3",

@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Calling getNum on aliased objects",
   "content": {
-    "description": "Consider the following class declaration",
-    "question": "public class SomeClass { private int num; public SomeClass(int n) { num = n; } public void increment(int more) { num = num + more; } public int getNum() { return num; } } The following code segment appears in another class. SomeClass one = new SomeClass(100); SomeClass two = new SomeClass(100); SomeClass three = one; one.increment(200); System.out.println(one.getNum() + \" \" + two.getNum() + \" \" + three.getNum()); What is printed as a result of executing the code segment?",
+    "description": "",
+    "question": "Consider the following class declaration\n\npublic class SomeClass\n\n{\n\nprivate int num;\n\npublic SomeClass(int n)\n\n{\n\nnum = n;\n\n}\n\npublic void increment(int more)\n\n{\n\nnum = num + more;\n\n}\n\npublic int getNum()\n\n{\n\nreturn num;\n\n}\n\n}\n\nThe following code segment appears in another class.\n\nSomeClass one = new SomeClass(100);\n\nSomeClass two = new SomeClass(100);\n\nSomeClass three = one;\n\none.increment(200);\n\nSystem.out.println(one.getNum() + \" \" + two.getNum() + \" \" +\n\nthree.getNum());\n\nWhat is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {

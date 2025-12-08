@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Build newList from oldList - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can replace /* missing code */ to produce this result?",
+    "description": "Consider the following code segment.\n ArrayList<String> oldList = new ArrayList<String>();\noldList.add(\"a\");\noldList.add(\"b\");\noldList.add(\"c\");\n\nArrayList<String> newList = new ArrayList<String>();\n\n/* missing code */\n\nAfter executing this code segment,  newList  should contain  [\"c\", \"b\", \"a\", \"a\", \"b\", \"c\"].",
+    "question": "Which of the following can replace  /* missing code */  to produce this result?",
     "image": null,
     "choices": [
       {
-        "label": "for (String s : oldList) { newList.add(s); newList.add(s); }",
+        "label": "for (String s : oldList)\n{\n newList.add(s);\n newList.add(s);\n}",
         "image": null
       },
       {
-        "label": "for (String s : oldList) { newList.add(s); newList.add(0, s); }",
+        "label": "for (String s : oldList)\n{\n newList.add(s);\n newList.add(0, s); \n}",
         "image": null
       },
       {
-        "label": "for (int j = 0; j < oldList.size(); j++) { newList.add(oldList.get(0)); newList.add(oldList.get(j)); }",
+        "label": "for (int j = 0; j < oldList.size(); j++)\n{\n newList.add(oldList.get(0));\n newList.add(oldList.get(j)); \n}",
         "image": null
       },
       {
-        "label": "for (int j = 0; j < oldList.size(); j++) { newList.add(j, oldList.get(j)); newList.add(0, oldList.get(j)); }",
+        "label": "for (int j = 0; j < oldList.size(); j++)\n{\n newList.add(j, oldList.get(j));\n newList.add(0, oldList.get(j)); \n}",
         "image": null
       }
     ],
-    "answer": "for (String s : oldList) { newList.add(s); newList.add(0, s); }"
+    "answer": "for (String s : oldList)\n{\n newList.add(s);\n newList.add(0, s); \n}"
   },
   "unit": {
     "code": "4",

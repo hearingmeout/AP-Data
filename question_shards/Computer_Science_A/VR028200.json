@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "new Bird constructors",
   "content": {
-    "description": "",
-    "question": "Which of the following constructors, if added to the Bird class, will cause a compilation error?",
+    "description": "Consider the following class definition.\n\npublic class Bird\n\n{\n\nprivate String species;\n\nprivate String color;\n\nprivate boolean canFly;\n\npublic Bird(String str, String col, boolean cf)\n\n{\n\nspecies = str;\n\ncolor = col;\n\ncanFly = cf;\n\n}\n\n}",
+    "question": "Which of the following constructors, if added to the Bird class, will cause a compilation error?",
     "image": null,
     "choices": [
       {
-        "label": "public Bird(){species = \"unknown\";color = \"unknown\";canFly = false;}",
+        "label": "public Bird()\n{\nspecies = \"unknown\";\ncolor = \"unknown\";\ncanFly = false;\n}",
         "image": null
       },
       {
-        "label": "public Bird(String col, String str){species = str;color = col;canFly = false;}",
+        "label": "public Bird(String col, String str)\n{\nspecies = str;\ncolor = col;\ncanFly = false;\n}",
         "image": null
       },
       {
-        "label": "public Bird(boolean cf, String str, String col){species = str;color = col;canFly = cf;}",
+        "label": "public Bird(boolean cf, String str, String col)\n{\nspecies = str;\ncolor = col;\ncanFly = cf;\n}",
         "image": null
       },
       {
-        "label": "public Bird(String col, String str, boolean cf){species = str;color = col;canFly = cf;}",
+        "label": "public Bird(String col, String str, boolean cf)\n{\nspecies = str;\ncolor = col;\ncanFly = cf;\n}",
         "image": null
       }
     ],
-    "answer": "public Bird(String col, String str, boolean cf){species = str;color = col;canFly = cf;}"
+    "answer": "public Bird(String col, String str, boolean cf)\n{\nspecies = str;\ncolor = col;\ncanFly = cf;\n}"
   },
   "unit": {
     "code": "1",

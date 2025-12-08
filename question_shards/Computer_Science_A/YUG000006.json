@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Traverse ArrayList data - determine result",
   "content": {
-    "description": "",
+    "description": "In the following code segment, assume that the  ArrayList  data  has been initialized to contain the  Integer  values  [4, 3, 4, 5, 3, 4].\n int j = 0; \nwhile (j < data.size() - 1) \n{ \n   if (data.get(j) > data.get(j + 1)) \n   { \n      System.out.print(data.get(j + 1) + \" \"); \n   } \n   j++; \n}",
     "question": "What, if anything, is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
@@ -20,7 +20,7 @@
         "image": null
       },
       {
-        "label": "Nothing is printed because an IndexOutOfBoundsException occurs.",
+        "label": "Nothing is printed because an  IndexOutOfBoundsException  occurs.",
         "image": null
       }
     ],

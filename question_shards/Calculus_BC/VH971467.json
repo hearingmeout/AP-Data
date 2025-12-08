@@ -1,0 +1,41 @@
+{
+  "id": "VH971467",
+  "type": "mcq",
+  "title": "Representations - Volume by Washer Method",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"M\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>M</mi></mrow></mstyle></math> be the region in the first quadrant bounded below by the graph of <math alttext=\"y equals, the fraction 2 over pi, end fraction, times x \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mfrac><mrow><mn>2</mn></mrow><mrow><mi>π</mi></mrow></mfrac><mi>x</mi></mrow></mstyle></math> and above by the graph of <math alttext=\"y equals, sine x\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>y</mi><mo>=</mo><mi>sin</mi><mo>⁡</mo><mi>x</mi></mrow></mstyle></math>. Which of the following gives the volume of the solid generated when region <math alttext=\"M\" display=\"inline\" overflow=\"scroll\"><mrow><mi>M</mi></mrow></math> is revolved about the vertical line <math alttext=\"x equals negative 3 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mrow><mo>−</mo><mn>3</mn></mrow></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"pi times the integral from, 0 to 1, of, open parenthesis, open parenthesis, the fraction pi over 2, end fraction, times y, plus 3, close parenthesis, minus, open parenthesis, arc sine y, plus 3, close parenthesis, close parenthesis, squared, d y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><mi>π</mi><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>1</mn></mrow></msubsup><mrow><msup><mrow><mo>(</mo><mo>(</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mi>y</mi><mo>+</mo><mn>3</mn><mo>)</mo><mo>−</mo><mo>(</mo><mi>arcsin</mi><mo>⁡</mo><mi>y</mi><mo>+</mo><mn>3</mn><mo>)</mo><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow><mo>ⅆ</mo><mrow><mi>y</mi></mrow></mrow></mstyle></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"pi times the integral from, 0 to 1, of, open parenthesis, the fraction pi over 2, end fraction, times y, minus, arc sine y, close parenthesis, d y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><mi>π</mi><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>1</mn></mrow></msubsup><mrow><mo>(</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mi>y</mi><mo>−</mo><mi>arcsin</mi><mo>⁡</mo><mi>y</mi><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>y</mi></mrow></mrow></mstyle></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"pi times the integral from, 0 to 1, of, open parenthesis, open parenthesis, the fraction pi over 2, end fraction, times y, close parenthesis, squared, minus, open parenthesis, arc sine y, close parenthesis, squared, close parenthesis, d y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><mi>π</mi><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>1</mn></mrow></msubsup><mrow><mo>(</mo><msup><mrow><mo>(</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mi>y</mi><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><msup><mrow><mo>(</mo><mi>arcsin</mi><mo>⁡</mo><mi>y</mi><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>y</mi></mrow></mrow></mstyle></mrow></mstyle></mrow></mstyle></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"pi times the integral from, 0 to 1, of, open parenthesis, open parenthesis, the fraction pi over 2, end fraction, times y, plus 3, close parenthesis, squared, minus, open parenthesis, arc sine y, plus 3, close parenthesis, squared, close parenthesis, d y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><mi>π</mi><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>1</mn></mrow></msubsup><mrow><mo>(</mo><msup><mrow><mo>(</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mi>y</mi><mo>+</mo><mn>3</mn><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><msup><mrow><mo>(</mo><mi>arcsin</mi><mo>⁡</mo><mi>y</mi><mo>+</mo><mn>3</mn><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>y</mi></mrow></mrow></mstyle></mrow></mstyle></mrow></mstyle></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"pi times the integral from, 0 to 1, of, open parenthesis, open parenthesis, the fraction pi over 2, end fraction, times y, plus 3, close parenthesis, squared, minus, open parenthesis, arc sine y, plus 3, close parenthesis, squared, close parenthesis, d y\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mstyle displaystyle=\"true\"><mrow><mi>π</mi><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>1</mn></mrow></msubsup><mrow><mo>(</mo><msup><mrow><mo>(</mo><mfrac><mrow><mi>π</mi></mrow><mrow><mn>2</mn></mrow></mfrac><mi>y</mi><mo>+</mo><mn>3</mn><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><msup><mrow><mo>(</mo><mi>arcsin</mi><mo>⁡</mo><mi>y</mi><mo>+</mo><mn>3</mn><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup><mo>)</mo></mrow><mo>ⅆ</mo><mrow><mi>y</mi></mrow></mrow></mstyle></mrow></mstyle></mrow></mstyle></math>"
+  },
+  "unit": {
+    "code": "8",
+    "text": "8: Applications of Integration"
+  },
+  "topic": {
+    "code": "8.12",
+    "text": "8.12: Volume with Washer Method - Revolving Around Other Axes"
+  },
+  "skill": {
+    "code": "Skill 2.D",
+    "text": "Skill 2.D: Identify how mathematical characteristics or properties of functions are related in different representations."
+  }
+}

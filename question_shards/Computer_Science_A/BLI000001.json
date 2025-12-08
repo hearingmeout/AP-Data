@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Adding and setting in numList - determine result",
   "content": {
-    "description": "",
-    "question": "Which of the following represents the contents of numList after executing the code segment?",
+    "description": "Consider the following code segment.\n ArrayList<Integer> numList = new ArrayList<Integer>();\n\nnumList.add(3);\nnumList.add(2);\nnumList.add(1);\nnumList.add(1, 0);\nnumList.set(0, 2);",
+    "question": "Which of the following represents the contents of  numList  after executing the code segment?",
     "image": null,
     "choices": [
       {

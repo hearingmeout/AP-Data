@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Output of printArgs procedure",
   "content": {
-    "description": "In the following procedure, the parameter str is a string and the parameter num is a number.",
-    "question": "PROCEDURE printArgs(str, num){DISPLAY(num)DISPLAY(str)DISPLAY(num)}Consider the following code segment.printArgs(\"**\", 1)printArgs(\"*\", 2)What is displayed as a result of executing the code segment?",
+    "description": "",
+    "question": "In the following procedure, the parameter str is a string and the parameter num is a number.\n\nPROCEDURE printArgs(str, num)\n{\nDISPLAY(num)\nDISPLAY(str)\nDISPLAY(num)\n}\nConsider the following code segment.\n\nprintArgs(\"**\", 1)\nprintArgs(\"*\", 2)\nWhat is displayed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {

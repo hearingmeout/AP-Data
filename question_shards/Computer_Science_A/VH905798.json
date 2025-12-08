@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Print more asterisks",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "System.out.print(\"*\");System.out.println(\"**\");System.out.println(\"***\");System.out.print(\"****\");What is printed as a result of executing the code segment?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nSystem.out.print(\"*\");\nSystem.out.println(\"**\");\nSystem.out.println(\"***\");\nSystem.out.print(\"****\");\nWhat is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "**********",
+        "label": "*\n**\n***\n****",
         "image": null
       },
       {
-        "label": "**********",
+        "label": "*\n**\n*******",
         "image": null
       },
       {
-        "label": "**********",
+        "label": "***\n***\n****",
         "image": null
       },
       {
-        "label": "**********",
+        "label": "***\n*******",
         "image": null
       }
     ],
-    "answer": "**********"
+    "answer": "***\n***\n****"
   },
   "unit": {
     "code": "1",

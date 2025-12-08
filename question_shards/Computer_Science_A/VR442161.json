@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "count A in str",
   "content": {
-    "description": "Consider the following method, which is intended to count the number of times the letter \"A\" appears in the string str.",
-    "question": "public static int countA(String str) { int count = 0; while (str.length() > 0) { int pos = str.indexOf(\"A\"); if (pos >= 0) { count++; /* missing code */ } else { return count; } } return count; } Which of the following should be used to replace /* missing code */ so that method countA will work as intended?",
+    "description": "",
+    "question": "Consider the following method, which is intended to count the number of times the letter \"A\" appears in the string str.\n\npublic static int countA(String str)\n\n{\n\nint count = 0;\n\nwhile (str.length() > 0)\n\n{\n\nint pos = str.indexOf(\"A\");\n\nif (pos >= 0)\n\n{\n\ncount++;\n\n/* missing code */\n\n}\n\nelse\n\n{\n\nreturn count;\n\n}\n\n}\n\nreturn count;\n\n}\n\nWhich of the following should be used to replace /* missing code */ so that method countA will work as intended?",
     "image": null,
     "choices": [
       {

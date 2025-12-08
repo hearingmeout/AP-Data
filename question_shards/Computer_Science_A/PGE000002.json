@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "calculateFee method in RentalCar - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following code segments can be used to replace /* missing code */ so that the calculateFee method works as intended?",
+    "description": "Consider the following class definition.\n public class RentalCar \n{ \n   private double dailyRate; // the fee per rental day \n   private double mileageRate; // the fee per mile driven \n\npublic RentalCar(double daily, double mileage) \n   { \n      dailyRate = daily; \n      mileageRate = mileage; \n   } \n\npublic double calculateFee(int days, int miles) \n   { \n      /* missing code */ \n   } \n}\n\nThe  calculateFee  method is intended to calculate the total fee for renting a car. The total fee is equal to the number of days of the rental,  days,  times the daily rental rate plus the number of miles driven,  miles,  times the per mile rate.",
+    "question": "Which of the following code segments can be used to replace  /* missing code */  so that the  calculateFee  method works as intended?",
     "image": null,
     "choices": [
       {

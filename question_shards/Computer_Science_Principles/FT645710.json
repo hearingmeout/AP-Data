@@ -3,25 +3,25 @@
   "type": "mcq",
   "title": "Completing robot code by adding if statement",
   "content": {
-    "description": "",
-    "question": "Which of the following replacements for can be used to move the robot to the gray square?",
-    "image": "https://ap.oly.st/images/7f6a861ac81d8ee1378fd0d300ac5d62.JPG",
+    "description": "The grid below contains a robot represented as a triangle, initially facing up. The robot can move into a white or gray square but cannot move into a black region.\n\nThe code segment below uses the procedure , which evaluates to  if the robot is in the gray square and evaluates to otherwise.",
+    "question": "Which of the following replacements for  can be used to move the robot to the gray square?",
+    "image": null,
     "choices": [
       {
         "label": "The program consists of 5 lines. Begin program Line 1: IF, open parenthesis, CAN, underscore, MOVE, open parenthesis, right, close parenthesis, close parenthesis Line 2: open brace Line 3: ROTATE, underscore, RIGHT, open parenthesis, close parenthesis Line 4: close brace Line 5: MOVE, underscore, FORWARD, open parenthesis, close parenthesis End program.",
-        "image": "https://ap.oly.st/images/a43c90f5004a2f4e0d3b16cc0800da22.JPG"
+        "image": null
       },
       {
         "label": "The program consists of 5 lines. Begin program Line 1: IF, open parenthesis, CAN, underscore, MOVE, open parenthesis, right, close parenthesis, close parenthesis Line 2: open brace Line 3: ROTATE, underscore, RIGHT, open parenthesis, close parenthesis Line 4: MOVE, underscore, FORWARD, open parenthesis, close parenthesis Line 5: close brace End program.",
-        "image": "https://ap.oly.st/images/ecfcdb64d39fb6f31b7544d2247a404f.JPG"
+        "image": null
       },
       {
         "label": "The program consists of 5 lines. Begin program Line 1: IF, open parenthesis, CAN, underscore, MOVE, open parenthesis, forward, close parenthesis, close parenthesis Line 2: open brace Line 3: MOVE, underscore, FORWARD, open parenthesis, close parenthesis Line 4: close brace Line 5: ROTATE, underscore, RIGHT, open parenthesis, close parenthesis End program.",
-        "image": "https://ap.oly.st/images/5f86f304c68cfd13bb9b0ccc209f6602.JPG"
+        "image": null
       },
       {
         "label": "The program consists of 5 lines. Begin program Line 1: IF, open parenthesis, CAN, underscore, MOVE, open parenthesis, forward, close parenthesis, close parenthesis Line 2: open brace Line 5: MOVE, underscore, FORWARD, open parenthesis, close parenthesis Line 3: ROTATE, underscore, RIGHT, open parenthesis, close parenthesis Line 4: close brace End program.",
-        "image": "https://ap.oly.st/images/6844b2657ab598c1e423522d4bd96bde.JPG"
+        "image": null
       }
     ],
     "answer": "The program consists of 5 lines. Begin program Line 1: IF, open parenthesis, CAN, underscore, MOVE, open parenthesis, right, close parenthesis, close parenthesis Line 2: open brace Line 3: ROTATE, underscore, RIGHT, open parenthesis, close parenthesis Line 4: close brace Line 5: MOVE, underscore, FORWARD, open parenthesis, close parenthesis End program."

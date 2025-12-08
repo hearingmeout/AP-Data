@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Nested counting loops - describe conditions",
   "content": {
-    "description": "",
-    "question": "Which of the following best describes the conditions that must be true of m and n so that after this code segment executes, the value of result is greater than 0?",
+    "description": "Consider the following code segment, in which m and n are properly declared and initialized int variables.\n int result = 0; \nfor (int i = 0; i < n; i++)  \n{ \n for (int j = m; j < n; j++)  \n { \n result++; \n } \n}",
+    "question": "Which of the following best describes the conditions that must be true of m and n so that after this code segment executes, the value of result is greater than 0?",
     "image": null,
     "choices": [
       {
-        "label": "n > 0 and m > 0",
+        "label": "n > 0  and  m > 0",
         "image": null
       },
       {
-        "label": "n > 0 and m > n",
+        "label": "n > 0  and  m > n",
         "image": null
       },
       {
-        "label": "n > 0 and n > m",
+        "label": "n > 0  and  n > m",
         "image": null
       },
       {
-        "label": "m > 0 and m > n",
+        "label": "m > 0  and  m > n",
         "image": null
       }
     ],
-    "answer": "n > 0 and n > m"
+    "answer": "n > 0  and  n > m"
   },
   "unit": {
     "code": "2",

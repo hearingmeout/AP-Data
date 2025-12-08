@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "print a plus c - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n int a = 4; \nint b = 5; \na++; \nb++; \nint c = a + b; \na -= 1; \nSystem.out.println(a + c);",
     "question": "What is printed as a result of executing the code segment?",
     "image": null,
     "choices": [

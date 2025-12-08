@@ -3,20 +3,20 @@
   "type": "mcq",
   "title": "Compare String objects - explain error",
   "content": {
-    "description": "",
+    "description": "In the following code segment,  str1  and  str2  are  String  objects. The code segment is intended to print  true  if  str1  and  str2  are non-null  strings that contain the same sequence of characters. The code segment is intended to print  false  otherwise. \n boolean result = false; // line 1\nif(str1 != null && str2 != null) // line 2\n{\n result = str1 == str2; // line 4 \n}\nSystem.out.println(result);",
     "question": "Which of the following best explains the error, if any, in the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "In line 1, result should be initialized to true.",
+        "label": "In line 1,  result  should be initialized to  true.",
         "image": null
       },
       {
-        "label": "In line 2, str1 and str2 should be compared to null with the equals method.",
+        "label": "In line 2,  str1  and  str2  should be compared to  null  with the  equals  method.",
         "image": null
       },
       {
-        "label": "In line 4, str1 and str2 should be compared to each other with the equals method.",
+        "label": "In line 4,  str1  and  str2  should be compared to each other with the  equals  method.",
         "image": null
       },
       {
@@ -24,7 +24,7 @@
         "image": null
       }
     ],
-    "answer": "In line 4, str1 and str2 should be compared to each other with the equals method."
+    "answer": "In line 4,  str1  and  str2  should be compared to each other with the  equals  method."
   },
   "unit": {
     "code": "1",

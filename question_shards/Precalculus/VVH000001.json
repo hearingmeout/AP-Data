@@ -4,27 +4,27 @@
   "title": "Polynomial Function - End Behavior",
   "content": {
     "description": "",
-    "question": "The polynomial function <math alttext=\"p\"><mi>p</mi></math> is given by <math alttext=\"p open parentheses x close parentheses equals a x to the power of n plus 2 x cubed minus 4 x squared minus 8\"><mi>p</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mi>a</mi><msup><mi>x</mi><mi>n</mi></msup><mo>+</mo><mn>2</mn><msup><mi>x</mi><mn>3</mn></msup><mo>-</mo><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>8</mn></math>, where <math alttext=\"a greater than 0\"><mi>a</mi><mo>&gt;</mo><mn>0</mn></math> and <math alttext=\"n\"><mi>n</mi></math> is an odd integer greater than <math alttext=\"3\"><mn>3</mn></math>. Which of the following describes the end behavior of <math alttext=\"p\"><mi>p</mi></math> ?",
+    "question": "The polynomial function <math alttext=\"p\"><mi>p</mi></math> is given by <math alttext=\"p open parentheses x close parentheses equals a x to the power of n plus 2 x cubed minus 4 x squared minus 8\"><mi>p</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mi>a</mi><msup><mi>x</mi><mi>n</mi></msup><mo>+</mo><mn>2</mn><msup><mi>x</mi><mn>3</mn></msup><mo>-</mo><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>8</mn></math>, where <math alttext=\"a greater than 0\"><mi>a</mi><mo>&gt;</mo><mn>0</mn></math> and <math alttext=\"n\"><mi>n</mi></math> is an odd integer greater than <math alttext=\"3\"><mn>3</mn></math>. Which of the following describes the end behavior of <math alttext=\"p\"><mi>p</mi></math> ?",
     "image": null,
     "choices": [
       {
-        "label": "As the input values of <math alttext=\"p\"><mi>p</mi></math> increase without bound, the output values can be described by <math alttext=\"limit as x rightwards arrow infinity of p open parentheses x close parentheses equals negative infinity\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>→</mo><mo>∞</mo></mrow></munder><mi>p</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mo>-</mo><mo>∞</mo></math>.",
+        "label": "As the input values of <math alttext=\"p\"><mi>p</mi></math> increase without bound, the output values can be described by <math alttext=\"limit as x rightwards arrow infinity of p open parentheses x close parentheses equals negative infinity\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>→</mo><mo>∞</mo></mrow></munder><mi>p</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mo>-</mo><mo>∞</mo></math>.",
         "image": null
       },
       {
-        "label": "As the input values of <math alttext=\"p\"><mi>p</mi></math> increase without bound, the output values increase without bound.",
+        "label": "As the input values of <math alttext=\"p\"><mi>p</mi></math> increase without bound, the output values increase without bound.",
         "image": null
       },
       {
-        "label": "As the input values of <math alttext=\"p\"><mi>p</mi></math> decrease without bound, the output values can be described by <math alttext=\"limit as x rightwards arrow negative infinity of p open parentheses x close parentheses equals infinity\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>→</mo><mo>-</mo><mo>∞</mo></mrow></munder><mi>p</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mo>∞</mo></math>.",
+        "label": "As the input values of <math alttext=\"p\"><mi>p</mi></math> decrease without bound, the output values can be described by <math alttext=\"limit as x rightwards arrow negative infinity of p open parentheses x close parentheses equals infinity\"><munder><mi>lim</mi><mrow><mi>x</mi><mo>→</mo><mo>-</mo><mo>∞</mo></mrow></munder><mi>p</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mo>∞</mo></math>.",
         "image": null
       },
       {
-        "label": "As the input values of <math alttext=\"p\"><mi>p</mi></math> decrease without bound, the output values get arbitrarily close to <math alttext=\"negative 8\"><mo>-</mo><mn>8</mn></math> and stay arbitrarily close to <math alttext=\"negative 8\"><mo>-</mo><mn>8</mn></math>.",
+        "label": "As the input values of <math alttext=\"p\"><mi>p</mi></math> decrease without bound, the output values get arbitrarily close to <math alttext=\"negative 8\"><mo>-</mo><mn>8</mn></math> and stay arbitrarily close to <math alttext=\"negative 8\"><mo>-</mo><mn>8</mn></math>.",
         "image": null
       }
     ],
-    "answer": "As the input values of <math alttext=\"p\"><mi>p</mi></math> increase without bound, the output values increase without bound."
+    "answer": "As the input values of <math alttext=\"p\"><mi>p</mi></math> increase without bound, the output values increase without bound."
   },
   "unit": {
     "code": "1",

@@ -8,23 +8,23 @@
     "image": null,
     "choices": [
       {
-        "label": "boolean age; double hasLicense;",
+        "label": "boolean age;\ndouble hasLicense;",
         "image": null
       },
       {
-        "label": "boolean age; boolean hasLicense;",
+        "label": "boolean age;\nboolean hasLicense;",
         "image": null
       },
       {
-        "label": "int age; boolean hasLicense;",
+        "label": "int age;\nboolean hasLicense;",
         "image": null
       },
       {
-        "label": "int age; double hasLicense;",
+        "label": "int age;\ndouble hasLicense;",
         "image": null
       }
     ],
-    "answer": "int age; boolean hasLicense;"
+    "answer": "int age;\nboolean hasLicense;"
   },
   "unit": {
     "code": "1",

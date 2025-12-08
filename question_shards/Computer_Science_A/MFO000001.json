@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "static variable in Shoe class - determine result",
   "content": {
-    "description": "",
-    "question": "What is printed as a result of executing this code segment if it is executed before any other instances of Shoe are constructed?",
+    "description": "Consider the following class definition.\n public class Shoe\n{\n private static int count = 0;\n\nprivate double size;\n private String style;\n\npublic Shoe()\n {\n size = 7.0;\n style = \"boot\";\n }\n\npublic Shoe(double mySize, String myStyle)\n {\n size = mySize;\n style = myStyle;\n count++;\n }\n\npublic static int getCount()\n {\n return count;\n }\n}\n\nThe following code segment appears in a class other than Shoe.\n Shoe s1 = new Shoe(8.5, \"sneaker\");\nShoe s2 = new Shoe();\nShoe s3 = new Shoe(7.0, \"sandal\");\nSystem.out.println(Shoe.getCount());",
+    "question": "What is printed as a result of executing this code segment if it is executed before any other instances of  Shoe  are constructed?",
     "image": null,
     "choices": [
       {

@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Precondition to avoid overflow - describe conditi",
   "content": {
-    "description": "",
+    "description": "The following code segment appears in a method. In the code segment,  num1  and  num2  are  int  variables. The method is intended to print the sum of  num1  and  num2. \n int result = num1 + num2;\nSystem.out.println(result);",
     "question": "Which of the following preconditions for the method is most appropriate to avoid an overflow error?",
     "image": null,
     "choices": [
@@ -16,15 +16,15 @@
         "image": null
       },
       {
-        "label": "/** Preconditions: num1 is between Integer.MIN_VALUE * and Integer.MAX_VALUE, inclusive. * num2 is between Integer.MIN_VALUE * and Integer.MAX_VALUE, inclusive. */",
+        "label": "/** Preconditions: num1 is between Integer.MIN_VALUE\n * and Integer.MAX_VALUE, inclusive.\n * num2 is between Integer.MIN_VALUE\n * and Integer.MAX_VALUE, inclusive.\n */",
         "image": null
       },
       {
-        "label": "/** Precondition: (num1 + num2) is between Integer.MIN_VALUE * and Integer.MAX_VALUE, inclusive. */",
+        "label": "/** Precondition: (num1 + num2) is between Integer.MIN_VALUE\n * and Integer.MAX_VALUE, inclusive.\n */",
         "image": null
       }
     ],
-    "answer": "/** Precondition: (num1 + num2) is between Integer.MIN_VALUE * and Integer.MAX_VALUE, inclusive. */"
+    "answer": "/** Precondition: (num1 + num2) is between Integer.MIN_VALUE\n * and Integer.MAX_VALUE, inclusive.\n */"
   },
   "unit": {
     "code": "1",

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Methods returning same value - describe conditions",
   "content": {
-    "description": "",
-    "question": "Which of the following best describes the conditions under which methodX and methodY return the same value?",
+    "description": "Consider the following methods.\n\n/** Preconditions: a > 0 and b > 0 */\npublic static int methodX(int a, int b)\n{\n int loopCount = 0;\n for (int i = 0; i < a / b; i++)\n {\n loopCount++;\n }\n return loopCount;\n}\n\n/** Preconditions: a > 0 and b > 0 */\npublic static int methodY(int a, int b)\n{\n int loopCount = 0;\n int i = 0;\n while (i < a)\n {\n loopCount++;\n i += b;\n }\n return loopCount;\n}",
+    "question": "Which of the following best describes the conditions under which  methodX  and  methodY  return the same value?",
     "image": null,
     "choices": [
       {
-        "label": "When a and b are both even",
+        "label": "When  a  and  b  are both even",
         "image": null
       },
       {
-        "label": "When a and b are both odd",
+        "label": "When  a  and  b  are both odd",
         "image": null
       },
       {
-        "label": "When a % b is equal to zero",
+        "label": "When  a % b  is equal to zero",
         "image": null
       },
       {
-        "label": "When a % b is equal to one",
+        "label": "When  a % b  is equal to one",
         "image": null
       }
     ],
-    "answer": "When a % b is equal to zero"
+    "answer": "When  a % b  is equal to zero"
   },
   "unit": {
     "code": "1",

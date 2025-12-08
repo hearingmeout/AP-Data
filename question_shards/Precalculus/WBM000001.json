@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Modeling - Exponential Function",
   "content": {
-    "description": "The temperature of a hot object that is cooling can be modeled by the function <math alttext=\"h\"><mi>h</mi></math>. Time <math alttext=\"t\"><mi>t</mi></math> is measured in minutes since the object started cooling, and <math alttext=\"h open parentheses t close parentheses\"><mi>h</mi><mfenced><mi>t</mi></mfenced></math> is measured in degrees Celsius (<math alttext=\"degree C\"><mo>°</mo><mtext>C</mtext></math>). The function <math alttext=\"h\"><mi>h</mi></math> is an exponential decay function.",
-    "question": "It is known that the temperature of the object decreases <math alttext=\"10 degrees C\"><mn>10</mn><mo>°</mo><mtext>C</mtext></math> from time <math alttext=\"t equals 4\"><mi>t</mi><mo>=</mo><mn>4</mn></math> to <math alttext=\"t equals 7\"><mi>t</mi><mo>=</mo><mn>7</mn></math> minutes. It is also known that after time <math alttext=\"t equals 7\"><mi>t</mi><mo>=</mo><mn>7</mn></math> minutes, the temperature of the object decreases an additional <math alttext=\"10 degrees C\"><mn>10</mn><mo>°</mo><mtext>C</mtext></math>. Which of the following statements is true about the amount of time the object will require to cool that additional <math alttext=\"10 degrees C\"><mn>10</mn><mo>°</mo><mtext>C</mtext></math> ?",
+    "description": "",
+    "question": "The temperature of a hot object that is cooling can be modeled by the function <math alttext=\"h\"><mi>h</mi></math>. Time <math alttext=\"t\"><mi>t</mi></math> is measured in minutes since the object started cooling, and <math alttext=\"h open parentheses t close parentheses\"><mi>h</mi><mfenced><mi>t</mi></mfenced></math> is measured in degrees Celsius (<math alttext=\"degree C\"><mo>°</mo><mtext>C</mtext></math>). The function <math alttext=\"h\"><mi>h</mi></math> is an exponential decay function. \n\nIt is known that the temperature of the object decreases <math alttext=\"10 degrees C\"><mn>10</mn><mo>°</mo><mtext>C</mtext></math> from time <math alttext=\"t equals 4\"><mi>t</mi><mo>=</mo><mn>4</mn></math> to <math alttext=\"t equals 7\"><mi>t</mi><mo>=</mo><mn>7</mn></math> minutes. It is also known that after time <math alttext=\"t equals 7\"><mi>t</mi><mo>=</mo><mn>7</mn></math> minutes, the temperature of the object decreases an additional <math alttext=\"10 degrees C\"><mn>10</mn><mo>°</mo><mtext>C</mtext></math>. Which of the following statements is true about the amount of time the object will require to cool that additional <math alttext=\"10 degrees C\"><mn>10</mn><mo>°</mo><mtext>C</mtext></math> ?",
     "image": null,
     "choices": [
       {
-        "label": "The object will require more than <math alttext=\"3\"><mn>3</mn></math> minutes to cool that additional <math alttext=\"10 degrees C\"><mn>10</mn><mo>°</mo><mtext>C</mtext></math> because as <math alttext=\"t\"><mi>t</mi></math> increases, the rates of change of <math alttext=\"h\"><mi>h</mi></math> are negative and increasing toward <math alttext=\"0\"><mn>0</mn></math>.",
+        "label": "The object will require more than <math alttext=\"3\"><mn>3</mn></math> minutes to cool that additional <math alttext=\"10 degrees C\"><mn>10</mn><mo>°</mo><mtext>C</mtext></math> because as <math alttext=\"t\"><mi>t</mi></math> increases, the rates of change of <math alttext=\"h\"><mi>h</mi></math> are negative and increasing toward <math alttext=\"0\"><mn>0</mn></math>.",
         "image": null
       },
       {
-        "label": "The object will require more than <math alttext=\"3\"><mn>3</mn></math> minutes to cool that additional <math alttext=\"10 degrees C\"><mn>10</mn><mo>°</mo><mtext>C</mtext></math> because as <math alttext=\"t\"><mi>t</mi></math> increases, the rates of change of <math alttext=\"h\"><mi>h</mi></math> are negative and decreasing without bound.",
+        "label": "The object will require more than <math alttext=\"3\"><mn>3</mn></math> minutes to cool that additional <math alttext=\"10 degrees C\"><mn>10</mn><mo>°</mo><mtext>C</mtext></math> because as <math alttext=\"t\"><mi>t</mi></math> increases, the rates of change of <math alttext=\"h\"><mi>h</mi></math> are negative and decreasing without bound.",
         "image": null
       },
       {
-        "label": "The object will require fewer than <math alttext=\"3\"><mn>3</mn></math> minutes to cool that additional <math alttext=\"10 degrees C\"><mn>10</mn><mo>°</mo><mtext>C</mtext></math> because as <math alttext=\"t\"><mi>t</mi></math> increases, the rates of change of <math alttext=\"h\"><mi>h</mi></math> are negative and increasing toward <math alttext=\"0\"><mn>0</mn></math>.",
+        "label": "The object will require fewer than <math alttext=\"3\"><mn>3</mn></math> minutes to cool that additional <math alttext=\"10 degrees C\"><mn>10</mn><mo>°</mo><mtext>C</mtext></math> because as <math alttext=\"t\"><mi>t</mi></math> increases, the rates of change of <math alttext=\"h\"><mi>h</mi></math> are negative and increasing toward <math alttext=\"0\"><mn>0</mn></math>.",
         "image": null
       },
       {
-        "label": "The object will require fewer than <math alttext=\"3\"><mn>3</mn></math> minutes to cool that additional <math alttext=\"10 degrees C\"><mn>10</mn><mo>°</mo><mtext>C</mtext></math> because as <math alttext=\"t\"><mi>t</mi></math> increases, the rates of change of <math alttext=\"h\"><mi>h</mi></math> are negative and decreasing without bound.",
+        "label": "The object will require fewer than <math alttext=\"3\"><mn>3</mn></math> minutes to cool that additional <math alttext=\"10 degrees C\"><mn>10</mn><mo>°</mo><mtext>C</mtext></math> because as <math alttext=\"t\"><mi>t</mi></math> increases, the rates of change of <math alttext=\"h\"><mi>h</mi></math> are negative and decreasing without bound.",
         "image": null
       }
     ],
-    "answer": "The object will require more than <math alttext=\"3\"><mn>3</mn></math> minutes to cool that additional <math alttext=\"10 degrees C\"><mn>10</mn><mo>°</mo><mtext>C</mtext></math> because as <math alttext=\"t\"><mi>t</mi></math> increases, the rates of change of <math alttext=\"h\"><mi>h</mi></math> are negative and increasing toward <math alttext=\"0\"><mn>0</mn></math>."
+    "answer": "The object will require more than <math alttext=\"3\"><mn>3</mn></math> minutes to cool that additional <math alttext=\"10 degrees C\"><mn>10</mn><mo>°</mo><mtext>C</mtext></math> because as <math alttext=\"t\"><mi>t</mi></math> increases, the rates of change of <math alttext=\"h\"><mi>h</mi></math> are negative and increasing toward <math alttext=\"0\"><mn>0</mn></math>."
   },
   "unit": {
     "code": "2",

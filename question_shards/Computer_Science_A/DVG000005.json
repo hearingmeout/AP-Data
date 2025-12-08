@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Random method call - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n int num = (int)(Math.random() * 6);\nSystem.out.println(num);",
     "question": "Which of the following cannot be printed as a result of executing this code segment?",
     "image": null,
     "choices": [

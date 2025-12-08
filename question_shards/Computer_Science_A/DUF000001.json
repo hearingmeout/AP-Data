@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Contents of arr after 3 passes of selection sort",
   "content": {
-    "description": "",
-    "question": "What will the contents of arr be after three iterations of the outer loop (i.e., when j == 2 at the point indicated by /* end of outer loop */)?",
+    "description": "The following method is a correct implementation of the selection sort algorithm. The method sorts the elements of arr so that they are in order from least to greatest.\n public static void selectionSort(int[] arr)\n{\n for (int j = 0; j < arr.length - 1; j++)\n {\n int minIndex = j;\n for (int k = j + 1; k < arr.length; k++)\n {\n if (arr[k] < arr[minIndex])\n {\n minIndex = k;\n }\n }\n\nint temp = arr[j];\n arr[j] = arr[minIndex];\n arr[minIndex] = temp;\n /* end of outer loop */\n }\n}\n\nAssume that selectionSort has been called with an int[] argument that has been initialized with the following contents.\n {40, 30, 50, 60, 10, 20}",
+    "question": "What will the contents of arr be after three iterations of the outer loop (i.e., when j == 2 at the point indicated by /* end of outer loop */)?",
     "image": null,
     "choices": [
       {

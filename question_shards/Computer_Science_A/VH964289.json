@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "how many times println called in data traversal",
   "content": {
-    "description": "Consider the following two-dimensional array definition.",
-    "question": "int[][] data = new int[5][10];Consider the following code segment, where all elements in data have been initialized.for (int j = 0; j < data.length; j++){for (int k = 0; k < data[0].length; k++){if (j == k){System.out.println(data[j][k]);}}}How many times is the println method called when the code segment is executed?",
+    "description": "",
+    "question": "Consider the following two-dimensional array definition.\n\nint[][] data = new int[5][10];\nConsider the following code segment, where all elements in data have been initialized.\n\nfor (int j = 0; j < data.length; j++)\n{\nfor (int k = 0; k < data[0].length; k++)\n{\nif (j == k)\n{\nSystem.out.println(data[j][k]);\n}\n}\n}\nHow many times is the println method called when the code segment is executed?",
     "image": null,
     "choices": [
       {

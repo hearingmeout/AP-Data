@@ -1,0 +1,45 @@
+{
+  "id": "VH954789",
+  "type": "mcq",
+  "title": "True for p-values",
+  "content": {
+    "description": "",
+    "question": "In a hypothesis test for a single proportion, which of the following is assumed for the calculation of the <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>-value?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The alternative hypothesis is true.",
+        "image": null
+      },
+      {
+        "label": "The null hypothesis is true.",
+        "image": null
+      },
+      {
+        "label": "The distribution of the population is approximately normal.",
+        "image": null
+      },
+      {
+        "label": "The sample proportion is equal to the hypothesized proportion.",
+        "image": null
+      },
+      {
+        "label": "The sample size is 30 or more.",
+        "image": null
+      }
+    ],
+    "answer": "The null hypothesis is true."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.5",
+    "text": "6.5: Interpreting P-Values"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

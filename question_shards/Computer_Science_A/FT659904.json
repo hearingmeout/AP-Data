@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Printing Mathematical error",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "double a = 1.1; double b = 1.2; if ((a + b) * (a - b) != (a * a) - (b * b)) { System.out.println(\"Mathematical error!\"); } Which of the following best describes why the phrase \"Mathematical error!\" would be printed? (Remember that mathematically (a + b) * (a - b) = a2 - b2 .)",
+    "description": "",
+    "question": "Consider the following code segment.\n\ndouble a = 1.1;\n\ndouble b = 1.2;\n\nif ((a + b) * (a - b) != (a * a) - (b * b))\n\n{\n\nSystem.out.println(\"Mathematical error!\");\n\n}\n\nWhich of the following best describes why the phrase \"Mathematical error!\" would be printed?\n\n(Remember that mathematically (a + b) * (a - b) = a2 - b2 .)",
     "image": null,
     "choices": [
       {

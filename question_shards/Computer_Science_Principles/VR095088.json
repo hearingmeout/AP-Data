@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Test cases for allPositive in a list",
   "content": {
-    "description": "The following procedure is intended to return true if the list of numbers myList contains only positive numbers and is intended to return false otherwise. The procedure does not work as intended.",
-    "question": "PROCEDURE allPositive(myList){index <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 1len <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH(myList)REPEAT len TIMES{IF(myList[index] > 0){RETURN(true)}index <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> index + 1}RETURN(false)}For which of the following contents of myList does the procedure NOT return the intended result?",
+    "description": "",
+    "question": "The following procedure is intended to return true if the list of numbers myList contains only positive numbers and is intended to return false otherwise. The procedure does not work as intended.\n\nPROCEDURE allPositive(myList)\n{\nindex <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 1\nlen <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH(myList)\nREPEAT len TIMES\n{\nIF(myList[index] > 0)\n{\nRETURN(true)\n}\nindex <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> index + 1\n}\nRETURN(false)\n}\nFor which of the following contents of myList does the procedure NOT return the intended result?",
     "image": null,
     "choices": [
       {

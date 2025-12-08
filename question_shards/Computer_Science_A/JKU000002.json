@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "values to make expression true - determine result",
   "content": {
-    "description": "",
-    "question": "Which of the following values for x and y will result in the expression evaluating to true?",
+    "description": "In the following Boolean expression, the  int  variables  x  and  y  have been properly declared and initialized.\n (x <= 10) == (y > 25)",
+    "question": "Which of the following values for  x  and  y  will result in the expression evaluating to  true?",
     "image": null,
     "choices": [
       {
-        "label": "x = 8 and y = 25",
+        "label": "x = 8  and  y = 25",
         "image": null
       },
       {
-        "label": "x = 10 and y = 10",
+        "label": "x = 10  and  y = 10",
         "image": null
       },
       {
-        "label": "x = 10 and y = 30",
+        "label": "x = 10  and  y = 30",
         "image": null
       },
       {
-        "label": "x = 15 and y = 30",
+        "label": "x = 15  and  y = 30",
         "image": null
       }
     ],
-    "answer": "x = 10 and y = 30"
+    "answer": "x = 10  and  y = 30"
   },
   "unit": {
     "code": "2",

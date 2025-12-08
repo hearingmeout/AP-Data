@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Substrings printed in loop - Determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following method.\n String word = \"Computer Science\";\nString str = \"\";\n\nfor (int k = 0; k < word.length(); k++)\n{\n if (k % 3 == 0)\n {\n str = word.substring(k, k + 1) + str;\n }\n}\nSystem.out.println(str);",
     "question": "What is printed as a result of executing the code segment?",
     "image": null,
     "choices": [

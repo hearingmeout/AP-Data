@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Documentation for procedure with a loop",
   "content": {
-    "description": "In the following procedure, the parameter max is a positive integer.",
-    "question": "PROCEDURE printNums(max){count <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 1REPEAT UNTIL(count > max){DISPLAY(count)count <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> count + 2}}Which of the following is the most appropriate documentation to appear with the printNums procedure?",
+    "description": "",
+    "question": "In the following procedure, the parameter max is a positive integer.\n\nPROCEDURE printNums(max)\n{\ncount <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 1\nREPEAT UNTIL(count > max)\n{\nDISPLAY(count)\ncount <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> count + 2\n}\n}\nWhich of the following is the most appropriate documentation to appear with the printNums procedure?",
     "image": null,
     "choices": [
       {
-        "label": "Prints all positive even integers that are less than or equal to max.",
+        "label": "Prints all positive even integers that are less than or equal to max.",
         "image": null
       },
       {
-        "label": "Prints all positive odd integers that are less than or equal to max.",
+        "label": "Prints all positive odd integers that are less than or equal to max.",
         "image": null
       },
       {
-        "label": "Prints all positive even integers that are greater than max.",
+        "label": "Prints all positive even integers that are greater than max.",
         "image": null
       },
       {
-        "label": "Prints all positive odd integers that are greater than max.",
+        "label": "Prints all positive odd integers that are greater than max.",
         "image": null
       }
     ],
-    "answer": "Prints all positive odd integers that are less than or equal to max."
+    "answer": "Prints all positive odd integers that are less than or equal to max."
   },
   "topic": {
     "code": "1.3",

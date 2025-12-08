@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Calculate course grade",
   "content": {
-    "description": "A programmer is writing a program to calculate a student’s course grade using the process described. The programmer has the following procedures available.",
-    "question": "Procedure Call Explanation Min (numList) Returns the minimum value in the list numList Sum (numList) Returns the sum of the values in the list numList The student’s individual assignment scores are stored in the list scores. Which of the following can be used to calculate a student’s course grade and store the result in the variable finalGrade?",
+    "description": "A student’s overall course grade in a certain class is based on the student’s scores on individual assignments. The course grade is calculated by dropping the student’s lowest individual assignment score and averaging the remaining scores.\n\nFor example, if a particular student has individual assignment scores of 85, 75, 90, and 95, the lowest score (75) is dropped. The calculated course grade is <math alttext=\"open parenthesis, 85 plus 90 plus 95, close parenthesis, divided by 3, equals 90\" overflow=\"scroll\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle><mrow><mrow><mo>(</mo><mn>85</mn><mo>+</mo><mn>90</mn><mo>+</mo><mn>95</mn><mo>)</mo><mo>/</mo><mn>3</mn><mo>=</mo><mn>90</mn></mrow></mrow></mstyle></math>.",
+    "question": "A programmer is writing a program to calculate a student’s course grade using the process described. The programmer has the following procedures available.\n\nProcedure Call\n Explanation\n\nMin (numList)\n Returns the minimum value in the list numList\n\nSum (numList)\n Returns the sum of the values in the list numList\n\nThe student’s individual assignment scores are stored in the list scores. Which of the following can be used to calculate a student’s course grade and store the result in the variable finalGrade?",
     "image": null,
     "choices": [
       {
-        "label": "finalGrade <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Sum (scores) / LENGTH (scores)finalGrade <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> finalGrade - Min (scores)",
+        "label": "finalGrade <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Sum (scores) / LENGTH (scores)\nfinalGrade <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> finalGrade - Min (scores)",
         "image": null
       },
       {
-        "label": "finalGrade <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Sum (scores) / (LENGTH (scores) - 1)finalGrade <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> finalGrade - Min (scores)",
+        "label": "finalGrade <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Sum (scores) / (LENGTH (scores) - 1)\nfinalGrade <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> finalGrade - Min (scores)",
         "image": null
       },
       {
-        "label": "finalGrade <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Sum (scores) - Min (scores)finalGrade <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> finalGrade / LENGTH (scores)",
+        "label": "finalGrade <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Sum (scores) - Min (scores)\nfinalGrade <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> finalGrade / LENGTH (scores)",
         "image": null
       },
       {
-        "label": "finalGrade <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Sum (scores) - Min (scores)finalGrade <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> finalGrade / (LENGTH (scores) - 1)",
+        "label": "finalGrade <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Sum (scores) - Min (scores)\nfinalGrade <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> finalGrade / (LENGTH (scores) - 1)",
         "image": null
       }
     ],
-    "answer": "finalGrade <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Sum (scores) - Min (scores)finalGrade <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> finalGrade / (LENGTH (scores) - 1)"
+    "answer": "finalGrade <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Sum (scores) - Min (scores)\nfinalGrade <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> finalGrade / (LENGTH (scores) - 1)"
   },
   "topic": {
     "code": "3.12",

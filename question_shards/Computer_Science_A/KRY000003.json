@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "onesDigit tensDigit - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can be used to replace /* missing code */ so that the code segment works as intended?",
+    "description": "Consider the following code segment, which is intended to print the digits of the two-digit  int  number  num  in reverse order. For example, if  num  has the value  75,  the code segment should print  57.  Assume that  num  has been properly declared and initialized.\n /* missing code */ \nSystem.out.print(onesDigit); \nSystem.out.print(tensDigit);",
+    "question": "Which of the following can be used to replace  /* missing code */  so that the code segment works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "int onesDigit = num % 10; int tensDigit = num / 10;",
+        "label": "int onesDigit = num % 10; \nint tensDigit = num / 10;",
         "image": null
       },
       {
-        "label": "int onesDigit = num / 10; int tensDigit = num % 10;",
+        "label": "int onesDigit = num / 10; \nint tensDigit = num % 10;",
         "image": null
       },
       {
-        "label": "int onesDigit = 10 / num; int tensDigit = 10 % num;",
+        "label": "int onesDigit = 10 / num; \nint tensDigit = 10 % num;",
         "image": null
       },
       {
-        "label": "int onesDigit = num % 100; int tensDigit = num / 100;",
+        "label": "int onesDigit = num % 100; \nint tensDigit = num / 100;",
         "image": null
       }
     ],
-    "answer": "int onesDigit = num % 10; int tensDigit = num / 10;"
+    "answer": "int onesDigit = num % 10; \nint tensDigit = num / 10;"
   },
   "unit": {
     "code": "1",

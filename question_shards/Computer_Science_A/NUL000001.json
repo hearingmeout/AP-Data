@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "a plus b times c mod d - determine result",
   "content": {
-    "description": "",
-    "question": "What is the value of x after executing the code segment?",
+    "description": "Consider the following code segment.\n int a = 1;\nint b = 2;\nint c = 3;\nint d = 4;\ndouble x = a + b * c % d;",
+    "question": "What is the value of x after executing the code segment?",
     "image": null,
     "choices": [
       {

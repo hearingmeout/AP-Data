@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "missing inner for loop header - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can be used as a replacement for /* missing loop header */ so that the code segment produces the output 00_01_02_11_12_22_?",
+    "description": "Consider the following code segment.\n for (int outer = 0; outer < 3; outer++) \n{\n for ( /* missing loop header */ ) \n {\n System.out.print(outer + \"\" + inner + \"_\");\n }\n}",
+    "question": "Which of the following can be used as a replacement for  /* missing loop header */  so that the code segment produces the output  00_01_02_11_12_22_?",
     "image": null,
     "choices": [
       {

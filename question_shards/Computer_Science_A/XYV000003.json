@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Tester constructor - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can be used to replace /* missing constructor */ so that the object t is correctly created?",
+    "description": "Consider the following class definition.\n public class Tester \n{ \n   private int num1; \n   private int num2; \n\n/* missing constructor */ \n\n} \n\nThe following statement appears in a method in a class other than  Tester.  It is intended to create a new  Tester  object  t  with its attributes set to  10  and  20.\n Tester t = new Tester(10, 20);",
+    "question": "Which of the following can be used to replace  /* missing constructor */  so that the object t is correctly created?",
     "image": null,
     "choices": [
       {
-        "label": "public Tester(int first, int second) { num1 = first; num2 = second; }",
+        "label": "public Tester(int first, int second) \n{ \n   num1 = first; \n   num2 = second; \n}",
         "image": null
       },
       {
-        "label": "public Tester(int first, int second) { num1 = 1; num2 = 2; }",
+        "label": "public Tester(int first, int second) \n{ \n   num1 = 1; \n   num2 = 2; \n}",
         "image": null
       },
       {
-        "label": "public Tester(int first, int second) { first = 10; second = 20; }",
+        "label": "public Tester(int first, int second) \n{ \n   first = 10; \n   second = 20; \n}",
         "image": null
       },
       {
-        "label": "public Tester(int first, int second) { first = num1; second = num2; }",
+        "label": "public Tester(int first, int second) \n{ \n   first = num1; \n   second = num2; \n}",
         "image": null
       }
     ],
-    "answer": "public Tester(int first, int second) { num1 = first; num2 = second; }"
+    "answer": "public Tester(int first, int second) \n{ \n   num1 = first; \n   num2 = second; \n}"
   },
   "unit": {
     "code": "3",

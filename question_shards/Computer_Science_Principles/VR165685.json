@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Implement getRange procedure to validate input",
   "content": {
-    "description": "A computer program contains code in several places that asks a user to enter an integer within a specified range of values. The code repeats the input request if the value that the user enters is not within the specified range. A programmer would like to create a procedure that will generalize this functionality and can be used throughout the program. The correct use of the procedure is shown below, where min is the least acceptable value, max is the greatest acceptable value, and promptString is the string that should be printed to prompt the user enter a value.",
-    "question": "inputVal <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> getRange(min, max, promptString)Which of the following is a correct implementation of the getRange procedure?",
+    "description": "",
+    "question": "A computer program contains code in several places that asks a user to enter an integer within a specified range of values. The code repeats the input request if the value that the user enters is not within the specified range. A programmer would like to create a procedure that will generalize this functionality and can be used throughout the program. The correct use of the procedure is shown below, where min is the least acceptable value, max is the greatest acceptable value, and promptString is the string that should be printed to prompt the user enter a value.\n\ninputVal <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> getRange(min, max, promptString)\nWhich of the following is a correct implementation of the getRange procedure?",
     "image": null,
     "choices": [
       {
-        "label": "PROCEDURE getRange(min, max, promptString){DISPLAY(promptString)RETURN(INPUT())}",
+        "label": "PROCEDURE getRange(min, max, promptString)\n{\nDISPLAY(promptString)\nRETURN(INPUT())\n}",
         "image": null
       },
       {
-        "label": "PROCEDURE getRange(min, max, promptString){DISPLAY(promptString)x <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> INPUT()RETURN(x)}",
+        "label": "PROCEDURE getRange(min, max, promptString)\n{\nDISPLAY(promptString)\nx <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> INPUT()\nRETURN(x)\n}",
         "image": null
       },
       {
-        "label": "PROCEDURE getRange(min, max, promptString){DISPLAY(promptString)x <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> INPUT()REPEAT UNTIL(x ≥ min AND x ≤ max){DISPLAY(promptString)x <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> INPUT()}}",
+        "label": "PROCEDURE getRange(min, max, promptString)\n{\nDISPLAY(promptString)\nx <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> INPUT()\nREPEAT UNTIL(x ≥ min AND x ≤ max)\n{\nDISPLAY(promptString)\nx <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> INPUT()\n}\n}",
         "image": null
       },
       {
-        "label": "PROCEDURE getRange(min, max, promptString){DISPLAY(promptString)x <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> INPUT()REPEAT UNTIL(x ≥ min AND x ≤ max){DISPLAY(promptString)x <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> INPUT()}RETURN(x)}",
+        "label": "PROCEDURE getRange(min, max, promptString)\n{\nDISPLAY(promptString)\nx <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> INPUT()\nREPEAT UNTIL(x ≥ min AND x ≤ max)\n{\nDISPLAY(promptString)\nx <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> INPUT()\n}\nRETURN(x)\n}",
         "image": null
       }
     ],
-    "answer": "PROCEDURE getRange(min, max, promptString){DISPLAY(promptString)x <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> INPUT()REPEAT UNTIL(x ≥ min AND x ≤ max){DISPLAY(promptString)x <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> INPUT()}RETURN(x)}"
+    "answer": "PROCEDURE getRange(min, max, promptString)\n{\nDISPLAY(promptString)\nx <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> INPUT()\nREPEAT UNTIL(x ≥ min AND x ≤ max)\n{\nDISPLAY(promptString)\nx <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> INPUT()\n}\nRETURN(x)\n}"
   },
   "topic": {
     "code": "3.13",

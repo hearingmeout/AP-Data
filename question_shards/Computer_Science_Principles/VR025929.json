@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Calls to concat and substring",
   "content": {
-    "description": "Which of the following can be used to store the string \"jackalope\" in the string variable animal ?",
-    "question": "Select two answers.",
+    "description": "A program contains the following procedures for string manipulation.\n\nProcedure Call\nExplanation\n\nConcat (str1, str2)\nReturns a single string consisting of str1 followed by str2. For example, Concat (\"key\", \"board\") returns \"keyboard\".\n\nSubstring (str, start, length)\nReturns a substring of consecutive characters from str, starting with the character at position start and containing length characters. The first character of str is located at position 1. For example, Substring (\"delivery\", 3, 4) returns \"live\".",
+    "question": "Which of the following can be used to store the string \"jackalope\" in the string variable animal ?\n\nSelect two answers.",
     "image": null,
     "choices": [
       {
-        "label": "animal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Substring (\"antelope\", 5, 4)animal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Concat (animal, \"a\")animal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Concat (Substring (\"jackrabbit\", 1, 4), animal)",
+        "label": "animal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Substring (\"antelope\", 5, 4)\nanimal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Concat (animal, \"a\")\nanimal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Concat (Substring (\"jackrabbit\", 1, 4), animal)",
         "image": null
       },
       {
-        "label": "animal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Substring (\"antelope\", 5, 4)animal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Concat (\"a\", animal)animal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Concat (Substring (\"jackrabbit\", 1, 4), animal)",
+        "label": "animal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Substring (\"antelope\", 5, 4)\nanimal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Concat (\"a\", animal)\nanimal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Concat (Substring (\"jackrabbit\", 1, 4), animal)",
         "image": null
       },
       {
-        "label": "animal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Substring (\"jackrabbit\", 1, 4)animal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Concat (animal, \"a\")animal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Concat (animal, Substring (\"antelope\", 5, 4))",
+        "label": "animal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Substring (\"jackrabbit\", 1, 4)\nanimal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Concat (animal, \"a\")\nanimal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Concat (animal, Substring (\"antelope\", 5, 4))",
         "image": null
       },
       {
-        "label": "animal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Substring (\"jackrabbit\", 1, 4)animal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Concat (animal, \"a\")animal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Concat (Substring (\"antelope\", 5, 4), animal)",
+        "label": "animal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Substring (\"jackrabbit\", 1, 4)\nanimal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Concat (animal, \"a\")\nanimal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Concat (Substring (\"antelope\", 5, 4), animal)",
         "image": null
       }
     ],
-    "answer": "animal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Substring (\"antelope\", 5, 4)animal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Concat (\"a\", animal)animal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Concat (Substring (\"jackrabbit\", 1, 4), animal)"
+    "answer": "animal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Substring (\"antelope\", 5, 4)\nanimal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Concat (\"a\", animal)\nanimal <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Concat (Substring (\"jackrabbit\", 1, 4), animal)"
   },
   "topic": {
     "code": "3.4",

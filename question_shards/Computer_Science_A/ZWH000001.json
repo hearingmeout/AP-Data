@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Car class public private access - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following replacements for /* missing code */ is the most appropriate partial implementation of the class?",
+    "description": "The  Car  class will be used to represent information about a car. Each instance of the class will maintain two string attributes for the car’s make and model. This information is unique to each car and should not be directly accessible outside the  Car  class. The  Car  class will also contain a single constructor.\n public class Car\n{\n /* missing code */\n\n/* There may be other methods that are not shown. */\n}",
+    "question": "Which of the following replacements for  /* missing code */  is the most appropriate partial implementation of the class?",
     "image": null,
     "choices": [
       {
-        "label": "public String make; public String model; public Car(String myMake, String myModel) { /* implementation not shown */ }",
+        "label": "public String make;\npublic String model; \n\npublic Car(String myMake, String myModel)\n{ /* implementation not shown */ }",
         "image": null
       },
       {
-        "label": "public String make; public String model; private Car(String myMake, String myModel) { /* implementation not shown */ }",
+        "label": "public String make;\npublic String model;\n\nprivate Car(String myMake, String myModel)\n{ /* implementation not shown */ }",
         "image": null
       },
       {
-        "label": "private String make; private String model; public Car(String myMake, String myModel) { /* implementation not shown */ }",
+        "label": "private String make;\nprivate String model;\n\npublic Car(String myMake, String myModel)\n{ /* implementation not shown */ }",
         "image": null
       },
       {
-        "label": "private String make; private String model; private Car(String myMake, String myModel) { /* implementation not shown */ }",
+        "label": "private String make;\nprivate String model;\n\nprivate Car(String myMake, String myModel)\n{ /* implementation not shown */ }",
         "image": null
       }
     ],
-    "answer": "private String make; private String model; public Car(String myMake, String myModel) { /* implementation not shown */ }"
+    "answer": "private String make;\nprivate String model;\n\npublic Car(String myMake, String myModel)\n{ /* implementation not shown */ }"
   },
   "unit": {
     "code": "3",

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "calculate method with 2D array - describe behavior",
   "content": {
-    "description": "",
-    "question": "Which of the following best describes the value returned by the calculate method?",
+    "description": "Consider the following method. When an element of the two-dimensional array  values  is accessed, the first index is used to specify the row and the second index is used to specify the column.\n public static int calculate(int[][] values, int x)\n{\n int result = 0;\n for (int y = 0; y < values[0].length; y++)\n {\n if (values[x][y] > 0)\n {\n result += values[x][y];\n }\n }\n return result;\n}",
+    "question": "Which of the following best describes the value returned by the  calculate  method?",
     "image": null,
     "choices": [
       {
-        "label": "A count of the positive elements in column x of values",
+        "label": "A count of the positive elements in column  x  of  values",
         "image": null
       },
       {
-        "label": "A count of the positive elements in row x of values",
+        "label": "A count of the positive elements in row  x  of  values",
         "image": null
       },
       {
-        "label": "The sum of the positive elements in column x of values",
+        "label": "The sum of the positive elements in column  x  of  values",
         "image": null
       },
       {
-        "label": "The sum of the positive elements in row x of values",
+        "label": "The sum of the positive elements in row  x  of  values",
         "image": null
       }
     ],
-    "answer": "The sum of the positive elements in row x of values"
+    "answer": "The sum of the positive elements in row  x  of  values"
   },
   "unit": {
     "code": "4",

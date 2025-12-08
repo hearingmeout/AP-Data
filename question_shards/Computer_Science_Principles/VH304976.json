@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Bookstore database",
   "content": {
-    "description": "A store employee wants to calculate the total amount of money the store will receive if they sell all of the available science fiction books. Which columns in the database can be ignored and still allow the employee to perform this calculation?",
-    "question": "Select two answers.",
+    "description": "A bookstore has a database containing information about each book for sale in the store. A sample portion of the database is shown below.\n\nAuthor\nTitle\nSelling Price\nGenre\nQuantity Available\n\nJ. M. Barrie\nPeter and Wendy\n$6.99\nFantasy\n3\n\nL. Frank Baum\nThe Wonderful Wizard of Oz\n$7.99\nFantasy\n2\n\nArthur Conan Doyle\nThe Hound of the Baskervilles\n$7.49\nMystery\n4\n\nMary Shelley\nFrankenstein\n$7.99\nHorror\n4\n\nJules Verne\nTwenty Thousand Leagues Under the Sea\n$6.99\nScience Fiction\n3\n\nH. G. Wells\nThe War of the Worlds\n$4.99\nScience Fiction\n3",
+    "question": "A store employee wants to calculate the total amount of money the store will receive if they sell all of the available science fiction books. Which columns in the database can be ignored and still allow the employee to perform this calculation?\n\nSelect two answers.",
     "image": null,
     "choices": [
       {

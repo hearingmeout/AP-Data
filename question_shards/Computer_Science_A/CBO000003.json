@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Generate passcode - describe conditions",
   "content": {
-    "description": "",
+    "description": "Consider the following information about the  generatePasscode  method.\n\nThe method appears in the  AccountManager  class.\n\nThe method has no parameters.\n\nThe method has return type  int.\n\nThe method can be accessed from another class.\n\nThe following code segment appears in a method in a class other than  AccountManager  class.\n int c = AccountManager.generatePasscode();\nSystem.out.println(c);",
     "question": "Which of the following must be true for the code segment to compile without error?",
     "image": null,
     "choices": [
       {
-        "label": "The generatePasscode method should be designated as void.",
+        "label": "The  generatePasscode  method should be designated as  void.",
         "image": null
       },
       {
-        "label": "The generatePasscode method should be designated as static.",
+        "label": "The  generatePasscode  method should be designated as  static.",
         "image": null
       },
       {
-        "label": "The AccountManager class should contain another method with the name generatePasscode that has at least one parameter.",
+        "label": "The  AccountManager  class should contain another method with the name  generatePasscode  that has at least one parameter.",
         "image": null
       },
       {
-        "label": "The AccountManager class should contain another method with the name generatePasscode that has return type double.",
+        "label": "The  AccountManager  class should contain another method with the name  generatePasscode  that has return type  double.",
         "image": null
       }
     ],
-    "answer": "The generatePasscode method should be designated as static."
+    "answer": "The  generatePasscode  method should be designated as  static."
   },
   "unit": {
     "code": "1",

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Equivalent for and while loops - write code",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n for (int j = 1; j < 10; j += 2) \n{ \n   System.out.print(j); \n}",
     "question": "Which of the following code segments will produce the same output as the given code segment?",
     "image": null,
     "choices": [
       {
-        "label": "int j = 1; while (j < 10) { j += 2; System.out.print(j); }",
+        "label": "int j = 1; \nwhile (j < 10) \n{ \n   j += 2; \n   System.out.print(j); \n}",
         "image": null
       },
       {
-        "label": "int j = 1; while (j < 10) { System.out.print(j); j += 2; }",
+        "label": "int j = 1; \nwhile (j < 10) \n{ \n   System.out.print(j); \n   j += 2; \n}",
         "image": null
       },
       {
-        "label": "int j = 1; while (j <= 10) { j += 2; System.out.print(j); }",
+        "label": "int j = 1; \nwhile (j <= 10) \n{ \n   j += 2; \n   System.out.print(j); \n}",
         "image": null
       },
       {
-        "label": "int j = 1; while (j >= 10) { j += 2; System.out.print(j); }",
+        "label": "int j = 1; \nwhile (j >= 10) \n{ \n   j += 2; \n   System.out.print(j); \n}",
         "image": null
       }
     ],
-    "answer": "int j = 1; while (j < 10) { System.out.print(j); j += 2; }"
+    "answer": "int j = 1; \nwhile (j < 10) \n{ \n   System.out.print(j); \n   j += 2; \n}"
   },
   "unit": {
     "code": "2",

@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "addNum method - initial conditions",
   "content": {
-    "description": "",
-    "question": "Which of the following can replace /* missing initialization */ so that the code segment works as expected?",
+    "description": "Consider the following method.\n public static int[] addNum(int[] array, int first,\n int second, int num) \n{ \n   int[] newArray = new int[array.length]; \n   newArray[first] = array[first] + num; \n   newArray[second] = array[second] + num; \n   return newArray; \n} \n\nThe following code segment appears in a method in the same class as  addNum.  The code segment is intended to set the contents of  array2  to  {0, 13, 9, 0}.\n int[] array1 = /* missing initialization */;\nint[] array2 = addNum(array1, 1, 2, 5);",
+    "question": "Which of the following can replace  /* missing initialization */  so that the code segment works as expected?",
     "image": null,
     "choices": [
       {

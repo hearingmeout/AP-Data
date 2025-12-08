@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "difference in initial condition - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following two code segments. Code segment 2 is a revision of code segment 1 in which the loop header has been changed.\n\nCode Segment 1for (int k = 1; k <= 5; k++) \n{ \n System.out.print(k); \n} \n\nCode Segment 2for (int k = 5; k >= 1; k--) \n{ \n System.out.print(k); \n}",
     "question": "Which of the following best explains the difference, if any, between the output of code segment 1 and code segment 2?",
     "image": null,
     "choices": [
@@ -16,15 +16,15 @@
         "image": null
       },
       {
-        "label": "Code segment 1 prints more values than code segment 2 does, because it iterates for one additional value of k.",
+        "label": "Code segment 1 prints more values than code segment 2 does, because it iterates for one additional value of  k.",
         "image": null
       },
       {
-        "label": "The code segments print the same values but in a different order, because code segment 1 iterates from 1 to 5 and code segment 2 iterates from 5 to 1.",
+        "label": "The code segments print the same values but in a different order, because code segment 1 iterates from  1  to  5  and code segment 2 iterates from  5  to  1.",
         "image": null
       }
     ],
-    "answer": "The code segments print the same values but in a different order, because code segment 1 iterates from 1 to 5 and code segment 2 iterates from 5 to 1."
+    "answer": "The code segments print the same values but in a different order, because code segment 1 iterates from  1  to  5  and code segment 2 iterates from  5  to  1."
   },
   "unit": {
     "code": "2",

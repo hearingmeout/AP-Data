@@ -3,20 +3,20 @@
   "type": "mcq",
   "title": "Recursive what method - describe behavior",
   "content": {
-    "description": "",
-    "question": "Assume that the int variable val has been declared and initialized with a value that satisfies the precondition of the method. Which of the following best describes the value, if any, returned by the call what(val)?",
+    "description": "Consider the following recursive method.\n /** Precondition: num >= 0 */\npublic static int what(int num)\n{\n if (num < 10)\n {\n return 1;\n }\n else\n {\n return 1 + what(num / 10);\n }\n}",
+    "question": "Assume that the  int  variable  val  has been declared and initialized with a value that satisfies the precondition of the method. Which of the following best describes the value, if any, returned by the call  what(val)?",
     "image": null,
     "choices": [
       {
-        "label": "The number of digits in val",
+        "label": "The number of digits in  val",
         "image": null
       },
       {
-        "label": "The sum of the digits in val",
+        "label": "The sum of the digits in  val",
         "image": null
       },
       {
-        "label": "The value 1",
+        "label": "The value  1",
         "image": null
       },
       {
@@ -24,7 +24,7 @@
         "image": null
       }
     ],
-    "answer": "The number of digits in val"
+    "answer": "The number of digits in  val"
   },
   "unit": {
     "code": "4",

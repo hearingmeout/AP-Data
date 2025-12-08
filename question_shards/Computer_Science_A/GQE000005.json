@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Candy Class - explain why will not compile",
   "content": {
-    "description": "",
+    "description": "The following  Candy  class is used to represent pieces of candy. \n public class Candy // line 1\n{ \n public String name; // line 3\n public double weight; // line 4\n\n/* There may be instance variables, constructors,\n and methods that are not shown. */\n}\n\nThe class is intended to allow external classes to create  Candy  objects, but external classes should not be able to modify the attributes of  Candy  objects. Access to the class is not constrained as intended.",
     "question": "Which of the following changes can be made so that access to the class is constrained as intended?",
     "image": null,
     "choices": [
       {
-        "label": "Changing the public designation to private in line 1",
+        "label": "Changing the  public  designation to  private  in line 1",
         "image": null
       },
       {
-        "label": "Changing the class header in line 1 to public class Candy()",
+        "label": "Changing the class header in line 1 to  public class Candy()",
         "image": null
       },
       {
-        "label": "Changing the public designation to private in lines 3 and 4",
+        "label": "Changing the  public  designation to  private  in lines 3 and 4",
         "image": null
       },
       {
-        "label": "Changing the data type in line 4 from double to String",
+        "label": "Changing the data type in line 4 from  double  to  String",
         "image": null
       }
     ],
-    "answer": "Changing the public designation to private in lines 3 and 4"
+    "answer": "Changing the  public  designation to  private  in lines 3 and 4"
   },
   "unit": {
     "code": "3",

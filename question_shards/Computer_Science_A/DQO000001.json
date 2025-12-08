@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Student updateAverage - describe behavior",
   "content": {
-    "description": "",
+    "description": "A teacher has created a Student class. The class contains the following.\n\nAn int variable named grade to represent the student’s grade level\n\nA String variable named name to represent the student’s name\n\nA double variable named average to represent the student’s grade point average\n\nA method named updateAverage that updates the value of average.\n\nThe object greg will be declared as type Student.",
     "question": "Which of the following descriptions is accurate?",
     "image": null,
     "choices": [
       {
-        "label": "greg is an instance of the Student class.",
+        "label": "greg is an instance of the Student class.",
         "image": null
       },
       {
-        "label": "greg is an instance of three attributes.",
+        "label": "greg is an instance of three attributes.",
         "image": null
       },
       {
-        "label": "Student is an instance of the greg object.",
+        "label": "Student is an instance of the greg object.",
         "image": null
       },
       {
-        "label": "updateAverage is an instance of the Student class.",
+        "label": "updateAverage is an instance of the Student class.",
         "image": null
       }
     ],
-    "answer": "greg is an instance of the Student class."
+    "answer": "greg is an instance of the Student class."
   },
   "unit": {
     "code": "1",

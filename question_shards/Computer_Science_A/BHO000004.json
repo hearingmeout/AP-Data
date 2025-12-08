@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Compare points code segments - describe behavior",
   "content": {
-    "description": "",
+    "description": "Consider the following code segments, which are each intended to convert grades from a 100-point scale to a 4.0-point scale and print the result. A grade of 90 or above should yield a 4.0, a grade of 80 to 89 should yield a 3.0, a grade of 70 to 79 should yield a 2.0, and any grade lower than 70 should yield a 0.0.\n\nAssume that  grade  is an  int  variable that has been properly declared and initialized.\n\nCode Segment 1double points = 0.0; \nif (grade > 89) \n{ \n   points = 4.0; \n} \nelse if (grade > 79) \n{ \n   points = 3.0; \n} \nelse if (grade > 69) \n{ \n   points = 2.0; \n} \nelse \n{ \n   points = 0.0; \n} \nSystem.out.println(points); \n\nCode Segment 2double points = 0.0; \nif (grade > 89) \n{ \n   points = 4.0; \n} \nif (grade > 79) \n{ \n   points = 3.0; \n} \nif (grade > 69) \n{ \n   points = 2.0; \n} \nif (grade < 70) \n{ \n   points = 0.0; \n} \nSystem.out.println(points);",
     "question": "Which of the following statements correctly compares the values printed by the two code segments?",
     "image": null,
     "choices": [
       {
-        "label": "The two code segments print the same value only when grade is below 80.",
+        "label": "The two code segments print the same value only when  grade  is below  80.",
         "image": null
       },
       {
-        "label": "The two code segments print the same value only when grade is 90 or above.",
+        "label": "The two code segments print the same value only when  grade  is  90  or above.",
         "image": null
       },
       {
-        "label": "Both code segments print the same value for all possible values of grade.",
+        "label": "Both code segments print the same value for all possible values of  grade.",
         "image": null
       },
       {
-        "label": "The two code segments print different values for all possible values of grade.",
+        "label": "The two code segments print different values for all possible values of  grade.",
         "image": null
       }
     ],
-    "answer": "The two code segments print the same value only when grade is below 80."
+    "answer": "The two code segments print the same value only when  grade  is below  80."
   },
   "unit": {
     "code": "2",

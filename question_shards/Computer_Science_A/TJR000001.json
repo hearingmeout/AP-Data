@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "How many times hello printed in nested loops",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n int j = 1;\nwhile (j < 4)\n{\n for (int k = 0; k <= 4; k++)\n {\n System.out.println(\"hello\"); // line 6\n }\n j++;\n}",
     "question": "How many times will the statement in line 6 be executed as a result of running this code segment?",
     "image": null,
     "choices": [

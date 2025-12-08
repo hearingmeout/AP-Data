@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "TrimLeft and TrimRight",
   "content": {
-    "description": "Let an original file name be stored in the string variable original. Which of the following statements will correctly extract the description and store it in the string variable descr ?",
-    "question": "descr ← TrimLeft (TrimRight (original, 4), 11) descr ← TrimLeft (TrimRight (original, 11), 4) descr ← TrimRight (TrimLeft (original, 11), 4)",
+    "description": "A photographer has a collection of digital pictures, each using the same file-naming format: a date tag, followed by a description, followed by the file extension \".jpg\". The photographer wants to write a code segment to extract the description from each file name, as shown in the following table.\n\nOriginal File Name\nExtracted Description\n\n2016-05-22-Andrews-Graduation.jpg\nAndrews-Graduation\n\n2016-07-04-Fireworks.jpg\nFireworks​\n\n2017-10-18-Grandmas-Birthday.jpg\nGrandmas-Birthday\n\nThe photographer has the following procedures available.\n\nProcedure Call\nExplanation\n\n​TrimLeft (str, n)\nReturns a copy of the string str with the n leftmost characters removed. For example, TrimLeft (\"keyboard\", 3) returns \"board\".\n\nTrimRight (str, n)\nReturns a copy of the string str with the n rightmost characters removed. For example, TrimRight (\"keyboard\", 3) returns \"keybo\".",
+    "question": "Let an original file name be stored in the string variable original. Which of the following statements will correctly extract the description and store it in the string variable descr ?\n\ndescr ← TrimLeft (TrimRight (original, 4), 11)\n\ndescr ← TrimLeft (TrimRight (original, 11), 4)\n\ndescr ← TrimRight (TrimLeft (original, 11), 4)",
     "image": null,
     "choices": [
       {

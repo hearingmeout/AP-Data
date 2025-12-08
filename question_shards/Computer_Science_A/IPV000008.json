@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Compound assignment operators - Determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n int a = 5; \nint b = 4; \nint c = 2; \na *= 3; \nb += a; \nb /= c; \nSystem.out.print(b);",
     "question": "What is printed as a result of executing the code segment?",
     "image": null,
     "choices": [

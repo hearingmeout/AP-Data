@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "random number generated from a",
   "content": {
-    "description": "",
-    "question": "Which of the following best describes the value assigned to b when the code segment is executed?",
+    "description": "Consider the following code segment. Assume that a is greater than zero.\n\nint a = /* value not shown */;\n\nint b = a + (int) (Math.random() * a);",
+    "question": "Which of the following best describes the value assigned to b when the code segment is executed?",
     "image": null,
     "choices": [
       {
@@ -12,19 +12,19 @@
         "image": null
       },
       {
-        "label": "A random integer between 0 and a - 1, inclusive",
+        "label": "A random integer between 0 and a - 1, inclusive",
         "image": null
       },
       {
-        "label": "A random integer between a and 2 * a, inclusive",
+        "label": "A random integer between a and 2 * a, inclusive",
         "image": null
       },
       {
-        "label": "A random integer between a and 2 * a - 1, inclusive",
+        "label": "A random integer between a and 2 * a - 1, inclusive",
         "image": null
       }
     ],
-    "answer": "A random integer between a and 2 * a - 1, inclusive"
+    "answer": "A random integer between a and 2 * a - 1, inclusive"
   },
   "unit": {
     "code": "1",

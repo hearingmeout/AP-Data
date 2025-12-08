@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "concat 0s and 8s",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "String str = \"0\";str += str + 0 + 8;System.out.println(str);What is printed as a result of executing the code segment?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nString str = \"0\";\nstr += str + 0 + 8;\nSystem.out.println(str);\nWhat is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {
@@ -20,7 +20,7 @@
         "image": null
       },
       {
-        "label": "Nothing is printed, because numerical values cannot be added to a String object.",
+        "label": "Nothing is printed, because numerical values cannot be added to a String object.",
         "image": null
       }
     ],

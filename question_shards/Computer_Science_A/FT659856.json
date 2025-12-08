@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "recur method with int parameter and two calls",
   "content": {
-    "description": "Consider the following recursive method.",
-    "question": "private int recur(int n) { if (n <= 1) { return 1; } else { return (recur(n - 2) + recur(n - 1)); } } What value will be returned by the call recur(4)?",
+    "description": "",
+    "question": "Consider the following recursive method.\n\nprivate int recur(int n)\n\n{\n\nif (n <= 1)\n\n{\n\nreturn 1;\n\n}\n\nelse\n\n{\n\nreturn (recur(n - 2) + recur(n - 1));\n\n}\n\n}\n\nWhat value will be returned by the call recur(4)?",
     "image": null,
     "choices": [
       {

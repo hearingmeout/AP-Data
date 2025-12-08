@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "b1 equivalent to b2 - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can replace /* missing expression */ so that the value stored in b2 is the same as the value stored in b1 after the code segment has executed?",
+    "description": "Consider the following code segment.\n boolean b1 = true && ((5 % 2) == 0);\nboolean b2 = /* missing expression */ ;",
+    "question": "Which of the following can replace  /* missing expression */  so that the value stored in b2 is the same as the value stored in  b1  after the code segment has executed?",
     "image": null,
     "choices": [
       {

@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "SocialMediaAccount - explain impact",
   "content": {
-    "description": "",
+    "description": "The following SocialMediaAccount class is used to represent a user of a social media site. It includes attributes for the user’s username, real name, email address, and ID number.\n public class SocialMediaAccount\n{\n public String username; // The user's username\n private String realName; // The user's real name\n private String email; // The user's email address\n private int idNumber; // The user's ID number\n\npublic String getInfo(String str)\n {\n if (str.equals(username))\n {\n return realName + \" \" + email + \" \" + idNumber;\n }\n else\n {\n return \"username does not match\";\n }\n }\n\n// Constructor not shown.\n // There are no other methods.\n}",
     "question": "What is the greatest personal privacy risk posed to users by this class design?",
     "image": null,
     "choices": [
@@ -16,7 +16,7 @@
         "image": null
       },
       {
-        "label": "Personal information can be determined from outside the class using information that has public visibility.",
+        "label": "Personal information can be determined from outside the class using information that has  public  visibility.",
         "image": null
       },
       {
@@ -24,7 +24,7 @@
         "image": null
       }
     ],
-    "answer": "Personal information can be determined from outside the class using information that has public visibility."
+    "answer": "Personal information can be determined from outside the class using information that has  public  visibility."
   },
   "unit": {
     "code": "4",

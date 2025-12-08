@@ -3,16 +3,16 @@
   "type": "mcq",
   "title": "ArrayList Removal - Fix error",
   "content": {
-    "description": "",
+    "description": "In the following code segment,  numbers  is a properly declared  ArrayList  variable that has been initialized with the following values.\n\n[13, 2, -4, 0, 34, -12, -13, 18, -27]\n for (int i = 0; i < numbers.size(); i++) // Line 1 \n{  \n   if (numbers.get(i) < 0)  \n   {  \n      numbers.remove(i);  \n   }  // Line 6\n   i--; // Line 7 \n} \n\nThe code segment is intended to remove all negative values from  numbers.  However, the code segment is not working as intended.",
     "question": "Which of the following changes can be made so that the code segment works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "In line 1, changing i < numbers.size() to i < numbers.size() - 1",
+        "label": "In line 1, changing  i < numbers.size()  to  i < numbers.size() - 1",
         "image": null
       },
       {
-        "label": "In line 7, changing i--; to i++;",
+        "label": "In line 7, changing  i--;  to  i++;",
         "image": null
       },
       {

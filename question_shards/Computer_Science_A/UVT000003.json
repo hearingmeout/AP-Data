@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Values printed by recursive mystery method",
   "content": {
-    "description": "",
-    "question": "What is printed as a result of the call mystery(10, 0)?",
+    "description": "Consider the following method. \n public static void mystery(int j, int k)\n{\n if (j > k)\n {\n mystery(j – 2, k + 2);\n }\n System.out.print(j + \" \");\n}",
+    "question": "What is printed as a result of the call mystery(10, 0)?",
     "image": null,
     "choices": [
       {

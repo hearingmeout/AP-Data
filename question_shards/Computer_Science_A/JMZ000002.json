@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Error with compound assignment  - explain error",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n int x = 0; // line 1\nx++; // line 2\nSystem.out.print(x); // line 3\nx += 1; // line 4\nSystem.out.print(x); // line 5\nx *= 2; // line 6\nSystem.out.print(x); // line 7\nx *= 4; // line 8\nSystem.out.print(x); // line 9\n\nThe code segment is intended to produce the following output. The code segment does not work as intended. \n 1248",
     "question": "Which of the following changes can be made so that the code segment works as intended?",
     "image": null,
     "choices": [
@@ -16,15 +16,15 @@
         "image": null
       },
       {
-        "label": "Changing line 6 to x += 2;",
+        "label": "Changing line 6 to  x += 2;",
         "image": null
       },
       {
-        "label": "Changing line 8 to x *= 2;",
+        "label": "Changing line 8 to  x *= 2;",
         "image": null
       }
     ],
-    "answer": "Changing line 8 to x *= 2;"
+    "answer": "Changing line 8 to  x *= 2;"
   },
   "unit": {
     "code": "1",

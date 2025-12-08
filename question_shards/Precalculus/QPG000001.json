@@ -4,27 +4,27 @@
   "title": "Matrices as Functions - rotation matrix",
   "content": {
     "description": "",
-    "question": "The function <math alttext=\"L\"><mi>L</mi></math> is a linear transformation of vectors defined by <math alttext=\"L open parentheses vector v close parentheses equals A vector v\"><mi>L</mi><mfenced><mover><mi>v</mi><mo>→</mo></mover></mfenced><mo>=</mo><mi>A</mi><mover><mi>v</mi><mo>→</mo></mover></math>, where <math alttext=\"A\"><mi>A</mi></math> is a transformation matrix. If matrix <math alttext=\"A\"><mi>A</mi></math> is defined as <math alttext=\"A 2 by 2 matrix. Row 1 column 1 is negative one half. Row 1 column 2 is negative fraction numerator square root of 3 and denominator 2 end fraction. Row 2 column 1 is fraction numerator square root of 3 and denominator 2 end fraction. Row 2 column 2 is negative one half.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mtd><mtd><mo>-</mo><mfrac><msqrt><mn>3</mn></msqrt><mn>2</mn></mfrac></mtd></mtr><mtr><mtd><mfrac><msqrt><mn>3</mn></msqrt><mn>2</mn></mfrac></mtd><mtd><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mtd></mtr></mtable></mfenced></math>, which of the following describes the linear transformation?",
+    "question": "The function <math alttext=\"L\"><mi>L</mi></math> is a linear transformation of vectors defined by <math alttext=\"L open parentheses vector v close parentheses equals A vector v\"><mi>L</mi><mfenced><mover><mi>v</mi><mo>→</mo></mover></mfenced><mo>=</mo><mi>A</mi><mover><mi>v</mi><mo>→</mo></mover></math>, where <math alttext=\"A\"><mi>A</mi></math> is a transformation matrix. If matrix <math alttext=\"A\"><mi>A</mi></math> is defined as <math alttext=\"A 2 by 2 matrix. Row 1 column 1 is negative one half. Row 1 column 2 is negative fraction numerator square root of 3 and denominator 2 end fraction. Row 2 column 1 is fraction numerator square root of 3 and denominator 2 end fraction. Row 2 column 2 is negative one half.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mtd><mtd><mo>-</mo><mfrac><msqrt><mn>3</mn></msqrt><mn>2</mn></mfrac></mtd></mtr><mtr><mtd><mfrac><msqrt><mn>3</mn></msqrt><mn>2</mn></mfrac></mtd><mtd><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mtd></mtr></mtable></mfenced></math>, which of the following describes the linear transformation?",
     "image": null,
     "choices": [
       {
-        "label": "The linear transformation is a rotation by <math alttext=\"pi over 6\"><mfrac><mi>π</mi><mn>6</mn></mfrac></math> radians counterclockwise about the origin.",
+        "label": "The linear transformation is a rotation by <math alttext=\"pi over 6\"><mfrac><mi>π</mi><mn>6</mn></mfrac></math> radians counterclockwise about the origin.",
         "image": null
       },
       {
-        "label": "The linear transformation is a rotation by <math alttext=\"pi over 3\"><mfrac><mi>π</mi><mn>3</mn></mfrac></math> radians counterclockwise about the origin.",
+        "label": "The linear transformation is a rotation by <math alttext=\"pi over 3\"><mfrac><mi>π</mi><mn>3</mn></mfrac></math> radians counterclockwise about the origin.",
         "image": null
       },
       {
-        "label": "The linear transformation is a rotation by <math alttext=\"fraction numerator 2 pi over denominator 3 end fraction\"><mfrac><mrow><mn>2</mn><mi>π</mi></mrow><mn>3</mn></mfrac></math> radians counterclockwise about the origin.",
+        "label": "The linear transformation is a rotation by <math alttext=\"fraction numerator 2 pi over denominator 3 end fraction\"><mfrac><mrow><mn>2</mn><mi>π</mi></mrow><mn>3</mn></mfrac></math> radians counterclockwise about the origin.",
         "image": null
       },
       {
-        "label": "The linear transformation is a rotation by <math alttext=\"fraction numerator 5 pi over denominator 6 end fraction\"><mfrac><mrow><mn>5</mn><mi>π</mi></mrow><mn>6</mn></mfrac></math> radians counterclockwise about the origin.",
+        "label": "The linear transformation is a rotation by <math alttext=\"fraction numerator 5 pi over denominator 6 end fraction\"><mfrac><mrow><mn>5</mn><mi>π</mi></mrow><mn>6</mn></mfrac></math> radians counterclockwise about the origin.",
         "image": null
       }
     ],
-    "answer": "The linear transformation is a rotation by <math alttext=\"fraction numerator 2 pi over denominator 3 end fraction\"><mfrac><mrow><mn>2</mn><mi>π</mi></mrow><mn>3</mn></mfrac></math> radians counterclockwise about the origin."
+    "answer": "The linear transformation is a rotation by <math alttext=\"fraction numerator 2 pi over denominator 3 end fraction\"><mfrac><mrow><mn>2</mn><mi>π</mi></mrow><mn>3</mn></mfrac></math> radians counterclockwise about the origin."
   },
   "unit": {
     "code": "4",

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Conic Sections - asymptote equations",
   "content": {
-    "description": "Both axes range from negative 5 to 5 in increments of 1. Both the ellipse and the hyperbola are centered at the origin.",
-    "question": "The ellipse intersects its vertical line of symmetry at (0 comma negative 3) and (0 comma 3). The ellipse intersects its horizontal line of symmetry at (negative 2 comma 0) and (2 comma 0). The hyperbola opens left and right. The hyperbola has vertices at (negative 2 comma 0 and (2 comma 0). The left portion of the hyperbola passes through approximately (negative 4 comma 5.2) and (negative 4 comma negative 5.2). The right portion of the hyperbola passes through approximately (4 comma 5.2) and (4 comma negative 5.2). The figure shows the graphs of the ellipse <math alttext=\"x squared over a squared plus y squared over b squared equals 1\"><mfrac><msup><mi>x</mi><mn>2</mn></msup><msup><mi>a</mi><mn>2</mn></msup></mfrac><mo>+</mo><mfrac><msup><mi>y</mi><mn>2</mn></msup><msup><mi>b</mi><mn>2</mn></msup></mfrac><mo>=</mo><mn>1</mn></math> and the hyperbola <math alttext=\"x squared over a squared minus y squared over b squared equals 1\"><mfrac><msup><mi>x</mi><mn>2</mn></msup><msup><mi>a</mi><mn>2</mn></msup></mfrac><mo>-</mo><mfrac><msup><mi>y</mi><mn>2</mn></msup><msup><mi>b</mi><mn>2</mn></msup></mfrac><mo>=</mo><mn>1</mn></math> in the same <math alttext=\"x y\"><mi>x</mi><mi>y</mi></math>-plane. Which of the following are equations of the asymptotes of the hyperbola?",
-    "image": "https://ap.oly.st/images/63c355997d9d79f2225f893dc5eae6ea.svg",
+    "description": "",
+    "question": "Both axes range from negative 5 to 5 in increments of 1. Both the ellipse and the hyperbola are centered at the origin.\n\nThe ellipse intersects its vertical line of symmetry at (0 comma negative 3) and (0 comma 3).\n\nThe ellipse intersects its horizontal line of symmetry at (negative 2 comma 0) and (2 comma 0).\n\nThe hyperbola opens left and right.\n\nThe hyperbola has vertices at (negative 2 comma 0 and (2 comma 0).\n\nThe left portion of the hyperbola passes through approximately (negative 4 comma 5.2) and (negative 4 comma negative 5.2).\n\nThe right portion of the hyperbola passes through approximately (4 comma 5.2) and (4 comma negative 5.2).\n\nThe figure shows the graphs of the ellipse <math alttext=\"x squared over a squared plus y squared over b squared equals 1\"><mfrac><msup><mi>x</mi><mn>2</mn></msup><msup><mi>a</mi><mn>2</mn></msup></mfrac><mo>+</mo><mfrac><msup><mi>y</mi><mn>2</mn></msup><msup><mi>b</mi><mn>2</mn></msup></mfrac><mo>=</mo><mn>1</mn></math> and the hyperbola <math alttext=\"x squared over a squared minus y squared over b squared equals 1\"><mfrac><msup><mi>x</mi><mn>2</mn></msup><msup><mi>a</mi><mn>2</mn></msup></mfrac><mo>-</mo><mfrac><msup><mi>y</mi><mn>2</mn></msup><msup><mi>b</mi><mn>2</mn></msup></mfrac><mo>=</mo><mn>1</mn></math> in the same <math alttext=\"x y\"><mi>x</mi><mi>y</mi></math>-plane. Which of the following are equations of the asymptotes of the hyperbola?",
+    "image": null,
     "choices": [
       {
-        "label": "<math alttext=\"y equals negative 3 over 2 x\"><mi>y</mi><mo>=</mo><mo>-</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mi>x</mi></math> and <math alttext=\"y equals 2 over 3 x\"><mi>y</mi><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi></math>",
+        "label": "<math alttext=\"y equals negative 3 over 2 x\"><mi>y</mi><mo>=</mo><mo>-</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mi>x</mi></math> and <math alttext=\"y equals 2 over 3 x\"><mi>y</mi><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi></math>",
         "image": null
       },
       {
-        "label": "<math alttext=\"y equals negative 2 over 3 x\"><mi>y</mi><mo>=</mo><mo>-</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi></math> and <math alttext=\"y equals 2 over 3 x\"><mi>y</mi><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi></math>",
+        "label": "<math alttext=\"y equals negative 2 over 3 x\"><mi>y</mi><mo>=</mo><mo>-</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi></math> and <math alttext=\"y equals 2 over 3 x\"><mi>y</mi><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi></math>",
         "image": null
       },
       {
-        "label": "<math alttext=\"y equals 2 over 3 x\"><mi>y</mi><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi></math> and <math alttext=\"y equals 3 over 2 x\"><mi>y</mi><mo>=</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mi>x</mi></math>",
+        "label": "<math alttext=\"y equals 2 over 3 x\"><mi>y</mi><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi></math> and <math alttext=\"y equals 3 over 2 x\"><mi>y</mi><mo>=</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mi>x</mi></math>",
         "image": null
       },
       {
-        "label": "<math alttext=\"y equals negative 3 over 2 x\"><mi>y</mi><mo>=</mo><mo>-</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mi>x</mi></math> and <math alttext=\"y equals 3 over 2 x\"><mi>y</mi><mo>=</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mi>x</mi></math>",
+        "label": "<math alttext=\"y equals negative 3 over 2 x\"><mi>y</mi><mo>=</mo><mo>-</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mi>x</mi></math>  and <math alttext=\"y equals 3 over 2 x\"><mi>y</mi><mo>=</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mi>x</mi></math>",
         "image": null
       }
     ],
-    "answer": "<math alttext=\"y equals negative 3 over 2 x\"><mi>y</mi><mo>=</mo><mo>-</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mi>x</mi></math> and <math alttext=\"y equals 3 over 2 x\"><mi>y</mi><mo>=</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mi>x</mi></math>"
+    "answer": "<math alttext=\"y equals negative 3 over 2 x\"><mi>y</mi><mo>=</mo><mo>-</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mi>x</mi></math>  and <math alttext=\"y equals 3 over 2 x\"><mi>y</mi><mo>=</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mi>x</mi></math>"
   },
   "unit": {
     "code": "4",

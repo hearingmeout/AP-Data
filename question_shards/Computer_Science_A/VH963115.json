@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Beverage equals method",
   "content": {
-    "description": "Consider the following class definition.",
-    "question": "public class Beverage{private int temperature;public Beverage(int t){temperature = t;}public int getTemperature(){return temperature;}public boolean equals(Object other){if (other == null){return false;}Beverage b = (Beverage) other;return (b.getTemperature() == temperature);}}The following code segment appears in a class other than Beverage. Assume that x and y are properly declared and initialized int variables.Beverage hotChocolate = new Beverage(x);Beverage coffee = new Beverage(y);boolean same = /* missing code */;Which of the following can be used as a replacement for /* missing code */ so that the boolean variable same is set to true if and only if the hotChocolate and coffee objects have the same temperature values?",
+    "description": "",
+    "question": "Consider the following class definition.\n\npublic class Beverage\n{\nprivate int temperature;\n\npublic Beverage(int t)\n{\ntemperature = t;\n}\n\npublic int getTemperature()\n{\nreturn temperature;\n}\n\npublic boolean equals(Object other)\n{\nif (other == null)\n{\nreturn false;\n}\n\nBeverage b = (Beverage) other;\nreturn (b.getTemperature() == temperature);\n}\n}\nThe following code segment appears in a class other than Beverage. Assume that x and y are properly declared and initialized int variables.\n\nBeverage hotChocolate = new Beverage(x);\nBeverage coffee = new Beverage(y);\nboolean same = /* missing code */;\nWhich of the following can be used as a replacement for /* missing code */ so that the boolean variable same is set to true if and only if the hotChocolate and coffee objects have the same temperature values?",
     "image": null,
     "choices": [
       {

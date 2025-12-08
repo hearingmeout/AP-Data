@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Implement isEquiv method to compare Point objects",
   "content": {
-    "description": "Two Point objects are considered equivalent if they have the same x and y coordinates. The isEquiv method is intended to return true if this Point object is equivalent to the Point object parameter and return false otherwise.",
-    "question": "Which of the following expressions can replace /* missing expression */ so that the isEquiv method works as intended?",
+    "description": "Consider the following class declaration.\n public class Point\n{\n private int xCoor; // the x-coordinate of the point\n private int yCoor; // the y-coordinate of the point\n\npublic Point(int x, int y)\n {\n xCoor = x;\n yCoor = y;\n }\n\npublic int getXCoor()\n {\n return xCoor;\n }\n\npublic int getYCoor()\n {\n return yCoor;\n }\n\npublic boolean isEquiv(Point otherP)\n {\n return /* missing expression */;\n }\n}",
+    "question": "Two Point objects are considered equivalent if they have the same x and y coordinates. The isEquiv method is intended to return true if this Point object is equivalent to the Point object parameter and return false otherwise.\nWhich of the following expressions can replace /* missing expression */ so that the isEquiv method works as intended?",
     "image": null,
     "choices": [
       {

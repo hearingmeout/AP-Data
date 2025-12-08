@@ -1,0 +1,41 @@
+{
+  "id": "VR733160",
+  "type": "mcq",
+  "title": "Justification - Comparison Tests for Convergence",
+  "content": {
+    "description": "",
+    "question": "Of the following series, which can be used with the comparison test to show that <math alttext=\"the sum from n equals 3 to infinity, of, the fraction the natural log of n, over n\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>n</mi><mo>=</mo><mn>3</mn></mrow><mi>∞</mi></munderover></mstyle><mfrac><mrow><mi>ln</mi><mo>⁡</mo><mi>n</mi></mrow><mi>n</mi></mfrac></math> diverges?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"the sum from n equals 3 to infinity, of, the fraction 1 over n\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>n</mi><mo>=</mo><mn>3</mn></mrow><mi>∞</mi></munderover></mstyle><mfrac><mn>1</mn><mi>n</mi></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the sum from n equals 3 to infinity, of, the fraction 1 over n times the square root of n, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>n</mi><mo>=</mo><mn>3</mn></mrow><mi>∞</mi></munderover></mstyle><mfrac><mn>1</mn><mrow><mi>n</mi><msqrt><mi>n</mi></msqrt></mrow></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the sum from n equals 3 to infinity, of, the fraction 1 over n squared, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>n</mi><mo>=</mo><mn>3</mn></mrow><mi>∞</mi></munderover></mstyle><mfrac><mn>1</mn><msup><mi>n</mi><mn>2</mn></msup></mfrac></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the sum from n equals 3 to infinity, of, the fraction 1 over n squared, end fraction\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>n</mi><mo>=</mo><mn>3</mn></mrow><mi>∞</mi></munderover></mstyle><mi>ln</mi><mo>⁡</mo><mi>n</mi></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the sum from n equals 3 to infinity, of, the fraction 1 over n\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>n</mi><mo>=</mo><mn>3</mn></mrow><mi>∞</mi></munderover></mstyle><mfrac><mn>1</mn><mi>n</mi></mfrac></math>"
+  },
+  "unit": {
+    "code": "10",
+    "text": "10: Infinite Sequences and Series"
+  },
+  "topic": {
+    "code": "10.6",
+    "text": "10.6: (BC ONLY) Comparison Tests for Convergence"
+  },
+  "skill": {
+    "code": "Skill 3.D",
+    "text": "Skill 3.D: Apply an appropriate mathematical definition, theorem, or test."
+  }
+}

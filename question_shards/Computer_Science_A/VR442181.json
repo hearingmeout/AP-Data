@@ -3,20 +3,20 @@
   "type": "mcq",
   "title": "recursive nums array method",
   "content": {
-    "description": "Consider the following recursive method.",
-    "question": "/** Precondition: 0 <= numVals <= nums.length */ public static int mystery(int[] nums, int v, int numVals) { if (numVals == 0) { return 0; } else if (v == nums[numVals - 1]) { return 1 + mystery(nums, v, numVals - 1); } else { return mystery(nums, v, numVals - 1); } } Which of the following best describes the value returned by the call mystery(nums, v, nums.length) ?",
+    "description": "",
+    "question": "Consider the following recursive method.\n\n/** Precondition: 0 <= numVals <= nums.length */\n\npublic static int mystery(int[] nums, int v, int numVals)\n\n{\n\nif (numVals == 0)\n\n{\n\nreturn 0;\n\n}\n\nelse if (v == nums[numVals - 1])\n\n{\n\nreturn 1 + mystery(nums, v, numVals - 1);\n\n}\n\nelse\n\n{\n\nreturn mystery(nums, v, numVals - 1);\n\n}\n\n}\n\nWhich of the following best describes the value returned by the call mystery(nums, v, nums.length) ?",
     "image": null,
     "choices": [
       {
-        "label": "The value 1 is returned.",
+        "label": "The value 1 is returned.",
         "image": null
       },
       {
-        "label": "The number of times that v occurs in nums is returned.",
+        "label": "The number of times that v occurs in nums is returned.",
         "image": null
       },
       {
-        "label": "The number of times that numVals occurs in nums is returned.",
+        "label": "The number of times that numVals occurs in nums is returned.",
         "image": null
       },
       {
@@ -24,7 +24,7 @@
         "image": null
       }
     ],
-    "answer": "The number of times that v occurs in nums is returned."
+    "answer": "The number of times that v occurs in nums is returned."
   },
   "unit": {
     "code": "4",

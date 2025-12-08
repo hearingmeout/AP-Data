@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Search of arr - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following method.\n public static int someSearch(int[] arr, int value)\n{\n   for (int j = 0; j < arr.length; j++)\n   {\n     if (arr[j] == value)\n      {\n        return j;\n      }\n }\n return -1;\n}\n\nThe following code segment appears in a method in the same class as  someSearch.\n int[] myNumbers = {1, 2, 5, 2, 6, 3, 3, 5, 3};\nSystem.out.println(someSearch(myNumbers, 3));",
     "question": "What is printed as a result of executing the code segment?",
     "image": null,
     "choices": [

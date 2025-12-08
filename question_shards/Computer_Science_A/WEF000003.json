@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "count nums - describe behavior",
   "content": {
-    "description": "",
-    "question": "What value is stored in the variable count as a result of executing the code segment?",
+    "description": "Consider the following code segment.\n int num = 1; \nint count = 0; \nwhile (num <= 10) \n{ \n if (num % 2 == 0 && num % 3 == 0) \n   { \n    count++; \n   } \n   num++; \n}",
+    "question": "What value is stored in the variable  count  as a result of executing the code segment?",
     "image": null,
     "choices": [
       {

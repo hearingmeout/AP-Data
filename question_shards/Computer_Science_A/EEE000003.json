@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Movie class diagram",
   "content": {
-    "description": "",
-    "question": "Which of the following diagrams represents the most appropriate design for the Movie class?",
+    "description": "A programmer is creating a Movie class that will contain attributes for a movie’s title and its average user rating on a scale from  0.0 to 5.0.  The class must also contain methods to allow the attributes to be accessed outside the class.\n\nA class design diagram for the Movie class will contain three sections. The first section contains the class name, the second section contains two instance variables and their data types, and the third section contains two methods and their return types. The + symbol indicates a public designation, and the - symbol indicates a private designation.",
+    "question": "Which of the following diagrams represents the most appropriate design for the Movie class?",
     "image": null,
     "choices": [
       {
-        "label": "The class diagram has 3 sections with values as follows:Section 1:MovieSection 2:+ title : String+ rating : doubleSection 3:- getTitle() : String- getRating() : double",
-        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/862554f8101f6dba4ff62791ef638237.svg"
+        "label": "The class diagram has 3 sections with values as follows:\nSection 1:\nMovie\nSection 2:\n+ title : String\n+ rating : double\nSection 3:\n- getTitle() : String\n- getRating() : double",
+        "image": null
       },
       {
-        "label": "The class diagram has 3 sections with values as follows:Section 1:MovieSection 2:+ title : String+ rating : intSection 3: - getTitle() : String- getRating() : int",
-        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/a2be654ca4d1612af744a06ca64967db.svg"
+        "label": "The class diagram has 3 sections with values as follows:\nSection 1:\nMovie\nSection 2:\n+ title : String\n+ rating : int\nSection 3: \n- getTitle() : String\n- getRating() : int",
+        "image": null
       },
       {
-        "label": "The class diagram has 3 sections with values as follows:Section 1:MovieSection 2:- title : String- rating : doubleSection 3:+ getTitle() : String+ getRating() : double",
-        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/0653b241ea4263d468625572ec70c6e1.svg"
+        "label": "The class diagram has 3 sections with values as follows:\nSection 1:\nMovie\nSection 2:\n- title : String\n- rating : double\nSection 3:\n+ getTitle() : String\n+ getRating() : double",
+        "image": null
       },
       {
-        "label": "The class diagram has 3 sections with values as follows:Section 1:MovieSection 2:- title : String- rating : intSection 3:+ getTitle() : String+ getRating() : int",
-        "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/b4fcfe01d9a563f68878901cc64b8d62.svg"
+        "label": "The class diagram has 3 sections with values as follows:\nSection 1:\nMovie\nSection 2:\n- title : String\n- rating : int\nSection 3:\n+ getTitle() : String\n+ getRating() : int",
+        "image": null
       }
     ],
-    "answer": "The class diagram has 3 sections with values as follows:Section 1:MovieSection 2:- title : String- rating : doubleSection 3:+ getTitle() : String+ getRating() : double"
+    "answer": "The class diagram has 3 sections with values as follows:\nSection 1:\nMovie\nSection 2:\n- title : String\n- rating : double\nSection 3:\n+ getTitle() : String\n+ getRating() : double"
   },
   "unit": {
     "code": "3",

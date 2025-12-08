@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Update static maxValue variable - describe result",
   "content": {
-    "description": "",
-    "question": "Which of the following best describes the number of times that the code segment updates maxValue after it is initialized to 0?",
+    "description": "Consider the following class definition.\n public class Element \n{ \n   private static int maxValue = 0; \n\npublic Element (int value) \n   {\n      if (value > maxValue) \n      { \n         maxValue = value; \n      } \n   }\n\npublic static int getMaxValue()\n   {\n   return maxValue;\n   }\n} \n\nThe following code segment appears in a class other than Element.  Assume that no other  Element  objects have been created.\n Element a = new Element(1);\nElement b = new Element(Element.getMaxValue());\nElement c = new Element(2);\n\nif (Element.getMaxValue() == 3)\n{\n   Element d = new Element(4);\n}",
+    "question": "Which of the following best describes the number of times that the code segment updates  maxValue  after it is initialized to  0?",
     "image": null,
     "choices": [
       {
-        "label": "It is never updated because it is declared static.",
+        "label": "It is never updated because it is declared  static.",
         "image": null
       },
       {
-        "label": "It is updated 2 times, first when a is created and again when c is created.",
+        "label": "It is updated 2 times, first when  a  is created and again when  c  is created.",
         "image": null
       },
       {
-        "label": "It is updated 3 times because the code segment creates exactly 3 Element objects.",
+        "label": "It is updated 3 times because the code segment creates exactly 3  Element  objects.",
         "image": null
       },
       {
-        "label": "It is updated 4 times because the code segment creates exactly 4 Element objects.",
+        "label": "It is updated 4 times because the code segment creates exactly 4  Element  objects.",
         "image": null
       }
     ],
-    "answer": "It is updated 2 times, first when a is created and again when c is created."
+    "answer": "It is updated 2 times, first when  a  is created and again when  c  is created."
   },
   "unit": {
     "code": "3",

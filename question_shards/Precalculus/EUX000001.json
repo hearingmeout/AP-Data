@@ -3,9 +3,9 @@
   "type": "mcq",
   "title": "Matrix Modeling - home usage",
   "content": {
-    "description": "The diagram shows two states, labeled 1 and 2. A loop from state 1 pointing back to state 1 is labeled 0.8. An arrow from state 1 to state 2 is labeled 0.2. A loop from state 2 pointing back to state 2 is labeled 0.4. An arrow from state 2 to state 1 is labeled 0.6.",
-    "question": "When a home changes ownership, sometimes it is used as the owner’s home, state <math alttext=\"1\"><mn>1</mn></math>, and sometimes it is used as a renter’s home, state <math alttext=\"2\"><mn>2</mn></math>. The state transition diagram for this situation is shown. Which of the following represents a state transition matrix for this situation, where the row represents “from” and the column represents “to”?",
-    "image": "https://ap.oly.st/images/0c35088e04a6f262830f3c2690fd2991.svg",
+    "description": "",
+    "question": "The diagram shows two states, labeled 1 and 2. A loop from state 1 pointing back to state 1 is labeled 0.8. An arrow from state 1 to state 2 is labeled 0.2. A loop from state 2 pointing back to state 2 is labeled 0.4. An arrow from state 2 to state 1 is labeled 0.6.\nWhen a home changes ownership, sometimes it is used as the owner’s home, state <math alttext=\"1\"><mn>1</mn></math>, and sometimes it is used as a renter’s home, state <math alttext=\"2\"><mn>2</mn></math>. The state transition diagram for this situation is shown. Which of the following represents a state transition matrix for this situation, where the row represents “from” and the column represents “to”?",
+    "image": null,
     "choices": [
       {
         "label": "<math alttext=\"A 2 by 2 matrix. Row 1 column 1 is 0.2. Row 1 column 2 is 0.4. Row 2 column 1 is 0.6. Row 2 column 2 is 0.8.\"><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mn>0.2</mn></mtd><mtd><mn>0.4</mn></mtd></mtr><mtr><mtd><mn>0.6</mn></mtd><mtd><mn>0.8</mn></mtd></mtr></mtable></mfenced></math>",

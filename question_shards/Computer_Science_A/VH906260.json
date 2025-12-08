@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "ArithmeticException error",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "int x = 10;int y = 20;/* missing code */System.out.print(top / bottom);Which of the following replacements for /* missing code */ will cause an ArithmeticException to occur?int top = x - y;int bottom = y - x;int top = 2 * x;int bottom = y - top;int top = x + y;int bottom = 2 * top;",
+    "description": "",
+    "question": "Consider the following code segment.\n\nint x = 10;\nint y = 20;\n/* missing code */\nSystem.out.print(top / bottom);\nWhich of the following replacements for /* missing code */ will cause an ArithmeticException to occur?\nint top = x - y;int bottom = y - x;\nint top = 2 * x;int bottom = y - top;\nint top = x + y;int bottom = 2 * top;",
     "image": null,
     "choices": [
       {

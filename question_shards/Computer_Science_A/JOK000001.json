@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "call calculate method - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following calculate method.\n public double calculate(double x)\n{\n return x + 1.5;\n}\n\nThe following code segment calls the method calculate in the same class.\n Double d1 = new Double(7.5);\nSystem.out.println(calculate(d1));",
     "question": "What, if anything, is printed when the code segment is executed?",
     "image": null,
     "choices": [
@@ -20,7 +20,7 @@
         "image": null
       },
       {
-        "label": "Nothing is printed because the code does not compile. The actual parameter d1 passed to calculate is a Double, but the formal parameter x is a double.",
+        "label": "Nothing is printed because the code does not compile. The actual parameter d1  passed to calculate is a Double, but the formal parameter x is a double.",
         "image": null
       }
     ],

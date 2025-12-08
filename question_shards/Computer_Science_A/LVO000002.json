@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Modify private variable in Pair class - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following methods can be added to the Pair class to allow other classes to modify the value of y?",
+    "description": "Consider the following class declaration.\n public class Pair\n{\n private int x;\n private int y;\n\npublic Pair(int x1, int y1)\n {\n x = x1;\n y = y1;\n }\n\npublic int getX()\n {\n return x;\n }\n}",
+    "question": "Which of the following methods can be added to the  Pair  class to allow other classes to modify the value of y?",
     "image": null,
     "choices": [
       {
-        "label": "private int setY(int num) { return num; }",
+        "label": "private int setY(int num)\n{\n return num;\n}",
         "image": null
       },
       {
-        "label": "public int setY(int num) { return num; }",
+        "label": "public int setY(int num)\n{\n return num;\n}",
         "image": null
       },
       {
-        "label": "private void setY(int num) { y = num; }",
+        "label": "private void setY(int num)\n{\n y = num;\n}",
         "image": null
       },
       {
-        "label": "public void setY(int num) { y = num; }",
+        "label": "public void setY(int num)\n{\n y = num;\n}",
         "image": null
       }
     ],
-    "answer": "public void setY(int num) { y = num; }"
+    "answer": "public void setY(int num)\n{\n y = num;\n}"
   },
   "unit": {
     "code": "3",

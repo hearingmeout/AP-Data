@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Recursive stars method - determine result",
   "content": {
-    "description": "",
-    "question": "What is printed as a result of the method call stars(5)?",
+    "description": "Consider the following recursive method.\n public static void stars(int num)\n{\n if (num == 1)\n {\n return;\n }\n\nstars(num - 1);\n\nfor (int i = 0; i < num; i++)\n {\n System.out.print(\"*\");\n }\n System.out.println();\n}",
+    "question": "What is printed as a result of the method call  stars(5)?",
     "image": null,
     "choices": [
       {
-        "label": "***** **** *** ** *",
+        "label": "*****\n****\n***\n**\n*",
         "image": null
       },
       {
-        "label": "***** **** *** **",
+        "label": "*****\n****\n***\n**",
         "image": null
       },
       {
-        "label": "* ** *** **** *****",
+        "label": "*\n**\n***\n****\n*****",
         "image": null
       },
       {
-        "label": "** *** **** *****",
+        "label": "**\n***\n****\n*****",
         "image": null
       }
     ],
-    "answer": "** *** **** *****"
+    "answer": "**\n***\n****\n*****"
   },
   "unit": {
     "code": "4",

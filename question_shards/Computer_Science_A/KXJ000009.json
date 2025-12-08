@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "print 70 using getValue method - determine result",
   "content": {
-    "description": "",
-    "question": "Which of the following code segments, when appearing in another method in the same class as getValue, will print the value 70?",
+    "description": "Consider the following method.\n public static int getValue(int[] data, int j, int k) \n{ \n   return data[j] + data[k]; \n}",
+    "question": "Which of the following code segments, when appearing in another method in the same class as  getValue,  will print the value  70?",
     "image": null,
     "choices": [
       {
-        "label": "int[] arr = {40, 30, 20, 10, 0}; System.out.println(getValue(arr, 1, 2));",
+        "label": "int[] arr = {40, 30, 20, 10, 0}; \nSystem.out.println(getValue(arr, 1, 2));",
         "image": null
       },
       {
-        "label": "int[] arr = {50, 40, 30, 20, 10}; System.out.println(getValue(arr, 1, 2));",
+        "label": "int[] arr = {50, 40, 30, 20, 10}; \nSystem.out.println(getValue(arr, 1, 2));",
         "image": null
       },
       {
-        "label": "int arr = {40, 30, 20, 10, 0}; System.out.println(getValue(arr, 2, 1));",
+        "label": "int arr = {40, 30, 20, 10, 0}; \nSystem.out.println(getValue(arr, 2, 1));",
         "image": null
       },
       {
-        "label": "int arr = {50, 40, 30, 20, 10}; System.out.println(getValue(arr, 2, 1));",
+        "label": "int arr = {50, 40, 30, 20, 10}; \nSystem.out.println(getValue(arr, 2, 1));",
         "image": null
       }
     ],
-    "answer": "int[] arr = {50, 40, 30, 20, 10}; System.out.println(getValue(arr, 1, 2));"
+    "answer": "int[] arr = {50, 40, 30, 20, 10}; \nSystem.out.println(getValue(arr, 1, 2));"
   },
   "unit": {
     "code": "4",

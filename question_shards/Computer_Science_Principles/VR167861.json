@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Result of call to proc2 procedure",
   "content": {
-    "description": "Consider the following procedures.",
-    "question": "PROCEDURE proc1(str){DISPLAY(str)DISPLAY(\"happy\")}PROCEDURE proc2(str1, str2){proc1(str2)DISPLAY(str1)}What is displayed as a result of the procedure call proc2(\"birthday\", \"to you\") ?",
+    "description": "",
+    "question": "Consider the following procedures.\n\nPROCEDURE proc1(str)\n{\nDISPLAY(str)\nDISPLAY(\"happy\")\n}\n\nPROCEDURE proc2(str1, str2)\n{\nproc1(str2)\nDISPLAY(str1)\n}\nWhat is displayed as a result of the procedure call proc2(\"birthday\", \"to you\") ?",
     "image": null,
     "choices": [
       {

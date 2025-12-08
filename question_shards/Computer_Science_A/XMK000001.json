@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "While loop - result printed",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n int a = 1;\nString result = \"\";\nwhile (a < 20)\n{\n result += a;\n a += 5;\n}\nSystem.out.println(result);",
     "question": "What is printed as a result of executing this code segment?",
     "image": null,
     "choices": [

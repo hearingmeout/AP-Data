@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "choice if statement - determine result",
   "content": {
-    "description": "",
-    "question": "What is the value of choice after executing the code segment?",
+    "description": "Consider the following code segment. \n int temp = 75;\nString choice;\nboolean hasSibling = false;\n\nif (temp < 70) \n{\n choice = \"Indoors\"; \n}\nelse \n{ \n choice = \"Outdoors\"; \n}\nif (hasSibling)\n{\n choice += \" with sibling\";\n}",
+    "question": "What is the value of  choice  after executing the code segment?",
     "image": null,
     "choices": [
       {

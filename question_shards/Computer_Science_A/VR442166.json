@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "mystery call to get 11",
   "content": {
-    "description": "Consider the following method.",
-    "question": "public static int mystery(boolean a, boolean b, boolean c) { int answer = 7; if (!a) { answer += 1; } if (b) { answer += 2; } if (c) { answer += 4; } return answer; } Which of the following method calls will return the value 11 ?",
+    "description": "",
+    "question": "Consider the following method.\n\npublic static int mystery(boolean a, boolean b, boolean c)\n\n{\n\nint answer = 7;\n\nif (!a)\n\n{\n\nanswer += 1;\n\n}\n\nif (b)\n\n{\n\nanswer += 2;\n\n}\n\nif (c)\n\n{\n\nanswer += 4;\n\n}\n\nreturn answer;\n\n}\n\nWhich of the following method calls will return the value 11 ?",
     "image": null,
     "choices": [
       {

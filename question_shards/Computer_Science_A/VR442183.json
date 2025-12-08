@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "mystery integer method",
   "content": {
-    "description": "Consider the following method.",
-    "question": "public static int mystery(int n) { if (n <= 0) { return 0; } else { return n + mystery(n – 2); } } What value is returned as a result of the call mystery(9) ?",
+    "description": "",
+    "question": "Consider the following method.\n\npublic static int mystery(int n)\n\n{\n\nif (n <= 0)\n\n{\n\nreturn 0;\n\n}\n\nelse\n\n{\n\nreturn n + mystery(n – 2);\n\n}\n\n}\n\nWhat value is returned as a result of the call mystery(9) ?",
     "image": null,
     "choices": [
       {

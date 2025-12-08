@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Computer science midterm and final grades",
   "content": {
-    "description": "Which of the following could be determined from the data?",
-    "question": "I. The average total points earned per student II. The average increase in total points per student as a result of the score replacement policy III. The proportion of students who improved their total points as a result of the score replacement policy",
+    "description": "Grades in a computer science course are based on total points earned on a midterm exam and a final exam. The teacher provides a way for students to improve their course grades if they receive high scores on the final exam: if a student’s final exam score is greater than the student’s midterm exam score, the final exam score replaces the midterm exam score in the calculation of total points.\n\nThe table below shows two students’ scores on the midterm and final exams and the calculated total points each student earns.\n\nKhalil does better on the midterm exam than on the final exam, so his original midterm and final exam scores are added to compute his total points.\n\nJosefina does better on the final exam than on the midterm exam, so her final exam score replaces her midterm exam score in the total points calculation.\n\nThe teacher has data representing the scores of thousands of students. For each student, the data contain the student name, the midterm exam score, the final exam score, and the result of the total points calculation.",
+    "question": "Which of the following could be determined from the data?\n\nI. The average total points earned per student\n\nII. The average increase in total points per student as a result of the score replacement policy\n\nIII. The proportion of students who improved their total points as a result of the score replacement policy",
     "image": null,
     "choices": [
       {

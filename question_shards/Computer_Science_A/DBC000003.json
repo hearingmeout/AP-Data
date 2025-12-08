@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Profile Class - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following declarations is the most appropriate for the Profile class?",
+    "description": "The  Profile  class will be used to represent users of a social media website. Each instance of the class will maintain the user’s name, username, and number of followers. This information is unique to each user and should not be directly accessible outside the  Profile  class.",
+    "question": "Which of the following declarations is the most appropriate for the  Profile  class?",
     "image": null,
     "choices": [
       {
-        "label": "private class Profile { private String name; private String username; private int followers; }",
+        "label": "private class Profile\n{ \n private String name; \n private String username; \n private int followers;\n}",
         "image": null
       },
       {
-        "label": "public class Profile { public String name; public String username; public int followers; }",
+        "label": "public class Profile\n{ \n public String name; \n public String username; \n public int followers;\n}",
         "image": null
       },
       {
-        "label": "public class Profile { private String name; private String username; private int followers; }",
+        "label": "public class Profile\n{ \n private String name; \n private String username; \n private int followers;\n}",
         "image": null
       },
       {
-        "label": "private class Profile { private String name; private String username; private int followers; }",
+        "label": "private class Profile\n{ \n private String name; \n private String username; \n private int followers;\n}",
         "image": null
       }
     ],
-    "answer": "public class Profile { private String name; private String username; private int followers; }"
+    "answer": "public class Profile\n{ \n private String name; \n private String username; \n private int followers;\n}"
   },
   "unit": {
     "code": "3",

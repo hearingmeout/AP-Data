@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Time equals method",
   "content": {
-    "description": "Consider the following class definition.",
-    "question": "public class Time { private int hours; private int minutes; public Time(int h, int m) { hours = h; minutes = m; } /** Returns true if hours * 60 + minutes of this * object is equal to hours * 60 + minutes of object * other; otherwise returns false */ public boolean equals(Object other) { //implementation not shown } } The following code segment appears in a class other than Time. Time t1 = new Time(1, 10); Time t2 = new Time(0, 70); Which of the following statements will print true ? System.out.println(t1 == t2); System.out.println(t1.equals(t2)); System.out.println(equals(t1, t2);",
+    "description": "",
+    "question": "Consider the following class definition.\n\npublic class Time\n\n{\n\nprivate int hours;\n\nprivate int minutes;\n\npublic Time(int h, int m)\n\n{\n\nhours = h;\n\nminutes = m;\n\n}\n\n/** Returns true if hours * 60 + minutes of this \n\n*    object is equal to hours * 60 + minutes of object \n\n*    other; otherwise returns false\n\n*/\n\npublic boolean equals(Object other)\n\n{\n\n//implementation not shown\n\n}\n\n}\n\nThe following code segment appears in a class other than Time.\n\nTime t1 = new Time(1, 10);\n\nTime t2 = new Time(0, 70);\n\nWhich of the following statements will print true ?\n\nSystem.out.println(t1 == t2);\n\nSystem.out.println(t1.equals(t2));\n\nSystem.out.println(equals(t1, t2);",
     "image": null,
     "choices": [
       {

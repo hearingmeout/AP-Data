@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "checkIndices returns true - inital conditions",
   "content": {
-    "description": "",
-    "question": "Which of the following method calls will return the value true?",
+    "description": "Consider the following method.\n public static boolean checkIndices(double[][] data,\n int row, int col) \n{ \n   int numRows = data.length; \n\nif (row < numRows) \n   { \n      int numCols = data[0].length; \n      return col < numCols; \n   } \n   else \n   { \n      return false; \n   } \n}\n\nConsider the following statement, which appears in a method in the same class as  checkIndices.\n double[][] table = new double[5][6];",
+    "question": "Which of the following method calls will return the value  true?",
     "image": null,
     "choices": [
       {

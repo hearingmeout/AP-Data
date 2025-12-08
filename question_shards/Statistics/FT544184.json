@@ -1,0 +1,45 @@
+{
+  "id": "FT544184",
+  "type": "mcq",
+  "title": "Inference procedure for blue candy company claim",
+  "content": {
+    "description": "",
+    "question": "A candy company claims that 10 percent of its candies are blue. A random sample of 200 of these candies is taken, and 16 are found to be blue. Which of the following tests would be most appropriate for establishing whether the candy company needs to change its claim?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Matched pairs t-test",
+        "image": null
+      },
+      {
+        "label": "One-sample proportion z-test",
+        "image": null
+      },
+      {
+        "label": "Two-sample t-test",
+        "image": null
+      },
+      {
+        "label": "Two-sample proportion z-test",
+        "image": null
+      },
+      {
+        "label": "Chi-square test of association",
+        "image": null
+      }
+    ],
+    "answer": "One-sample proportion z-test"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.4",
+    "text": "6.4: Setting Up a Test for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Identify an appropriate inference method for significance tests."
+  }
+}

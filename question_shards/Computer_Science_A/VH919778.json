@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "isGreater method",
   "content": {
-    "description": "Consider the following class definition.",
-    "question": "public class BoolTest{private int one;public BoolTest(int newOne){one = newOne;}public int getOne(){return one;}public boolean isGreater(BoolTest other){/* missing code */}}The isGreater method is intended to return true if the value of one for this BoolTest object is greater than the value of one for the BoolTest parameter other, and false otherwise. The following code segments have been proposed to replace /* missing code */.return one > other.one;return one > other.getOne();return getOne() > other.one;Which of the following replacements for /* missing code */ can be used so that isGreater will work as intended?",
+    "description": "",
+    "question": "Consider the following class definition.\n\npublic class BoolTest\n{\nprivate int one;\n\npublic BoolTest(int newOne)\n{\none = newOne;\n}\n\npublic int getOne()\n{\nreturn one;\n}\n\npublic boolean isGreater(BoolTest other)\n{\n/* missing code */\n}\n}\nThe isGreater method is intended to return true if the value of one for this BoolTest object is greater than the value of one for the BoolTest parameter other, and false otherwise. The following code segments have been proposed to replace /* missing code */.\nreturn one > other.one;\nreturn one > other.getOne();\nreturn getOne() > other.one;\nWhich of the following replacements for /* missing code */ can be used so that isGreater will work as intended?",
     "image": null,
     "choices": [
       {

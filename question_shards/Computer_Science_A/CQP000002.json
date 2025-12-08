@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Patient data privacy - explain impact",
   "content": {
-    "description": "",
+    "description": "The following class is used to store information about a customer.\n public class Customer \n{\n public String cName; // The customer's name \n public String cPaymentInfo; // The customer's payment information\n\n/**\n * Returns the customer's name\n */\n public String getName() \n { /* implementation not shown */ } \n\n/**\n * Returns the customer's payment information\n * when a correct password is entered\n */\n public String getPaymentInfo(String password) \n { /* implementation not shown */ }\n\n/* There may be other methods that are not shown. */ \n}",
     "question": "Which of the following statements best describes the privacy of the customer’s payment information?",
     "image": null,
     "choices": [
@@ -12,19 +12,19 @@
         "image": null
       },
       {
-        "label": "It is considered private because the value of the instance variable cName is not easy to guess.",
+        "label": "It is considered private because the value of the instance variable  cName  is not easy to guess.",
         "image": null
       },
       {
-        "label": "It is not considered private because the instance variables are declared public.",
+        "label": "It is not considered private because the instance variables are declared  public.",
         "image": null
       },
       {
-        "label": "It is not considered private because the getName method has no password parameter.",
+        "label": "It is not considered private because the  getName  method has no password parameter.",
         "image": null
       }
     ],
-    "answer": "It is not considered private because the instance variables are declared public."
+    "answer": "It is not considered private because the instance variables are declared  public."
   },
   "unit": {
     "code": "4",

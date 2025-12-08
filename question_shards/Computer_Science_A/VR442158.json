@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "value of num after for loop",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "int num = 1;for (int k = 2; k < 10; k++){num = 0;num = num + k;}What will be the value of num after the loop is executed?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nint num = 1;\nfor (int k = 2; k < 10; k++)\n{\nnum = 0;\nnum = num + k;\n}\nWhat will be the value of num after the loop is executed?",
     "image": null,
     "choices": [
       {

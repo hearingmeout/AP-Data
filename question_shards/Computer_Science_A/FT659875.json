@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "loop on string abcdef",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "String str = \"abcdef\"; for (int rep = 0; rep < str.length() - 1; rep++) { System.out.print(str.substring(rep, rep + 2)); } What is printed as a result of executing this code segment?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nString str = \"abcdef\";\n\nfor (int rep = 0; rep < str.length() - 1; rep++)\n\n{\n\nSystem.out.print(str.substring(rep, rep + 2));\n\n}\n\nWhat is printed as a result of executing this code segment?",
     "image": null,
     "choices": [
       {

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "print from 2D array",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "int[][] points = {{11, 12, 13, 14, 15},{21, 22, 23, 24, 25},{31, 32, 33, 34, 35},{41, 42, 43, 44, 45}};for (int row = 0; row < points.length; row++){for (int col = points[0].length - 1; col >= row; col--){System.out.print(points[row][col] + \" \");}System.out.println();}What is printed when this code segment is executed?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nint[][] points = {{11, 12, 13, 14, 15},\n{21, 22, 23, 24, 25},\n{31, 32, 33, 34, 35},\n{41, 42, 43, 44, 45}};\n\nfor (int row = 0; row < points.length; row++)\n{\nfor (int col = points[0].length - 1; col >= row; col--)\n{\nSystem.out.print(points[row][col] + \" \");\n}\nSystem.out.println();\n}\nWhat is printed when this code segment is executed?",
     "image": null,
     "choices": [
       {
-        "label": "15 14 13 1225 24 2335 3445",
+        "label": "15 14 13 12\n25 24 23\n35 34\n45",
         "image": null
       },
       {
-        "label": "11 12 13 14 1521 22 23 2431 32 3341 42",
+        "label": "11 12 13 14 15\n21 22 23 24\n31 32 33\n41 42",
         "image": null
       },
       {
-        "label": "15 14 13 12 1125 24 23 2235 34 3345 44",
+        "label": "15 14 13 12 11\n25 24 23 22\n35 34 33\n45 44",
         "image": null
       },
       {
-        "label": "15 14 13 12 1125 24 23 22 2135 34 33 32 3145 44 43 42 41",
+        "label": "15 14 13 12 11\n25 24 23 22 21\n35 34 33 32 31\n45 44 43 42 41",
         "image": null
       }
     ],
-    "answer": "15 14 13 12 1125 24 23 2235 34 3345 44"
+    "answer": "15 14 13 12 11\n25 24 23 22\n35 34 33\n45 44"
   },
   "unit": {
     "code": "4",

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Behavior of mystery procedure with if statement",
   "content": {
-    "description": "In the following procedure, assume that the parameter x is an integer.",
-    "question": "Which of the following best describes the behavior of the procedure?",
-    "image": "https://ap.oly.st/images/815a16efcb8fc2d2b7f04790771d553e.png",
+    "description": "",
+    "question": "In the following procedure, assume that the parameter x is an integer.\n\nWhich of the following best describes the behavior of the procedure?",
+    "image": null,
     "choices": [
       {
-        "label": "It displays nothing if x is negative and displays true otherwise.",
+        "label": "It displays nothing if x is negative and displays true otherwise.",
         "image": null
       },
       {
-        "label": "It displays nothing if x is negative and displays false otherwise.",
+        "label": "It displays nothing if x is negative and displays false otherwise.",
         "image": null
       },
       {
-        "label": "It displays true if x is negative and displays nothing otherwise.",
+        "label": "It displays true if x is negative and displays nothing otherwise.",
         "image": null
       },
       {
-        "label": "It displays true if x is negative and displays false otherwise.",
+        "label": "It displays true if x is negative and displays false otherwise.",
         "image": null
       }
     ],
-    "answer": "It displays true if x is negative and displays nothing otherwise."
+    "answer": "It displays true if x is negative and displays nothing otherwise."
   },
   "topic": {
     "code": "1.2",

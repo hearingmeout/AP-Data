@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Print AP CS A",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "System.out.print(\"AP\");System.out.println();System.out.println(\"CS\");System.out.print(\"A\");What is printed as a result of executing the code segment?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nSystem.out.print(\"AP\");\nSystem.out.println();\nSystem.out.println(\"CS\");\nSystem.out.print(\"A\");\nWhat is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "APCSA",
+        "label": "APCS\nA",
         "image": null
       },
       {
-        "label": "APCSA",
+        "label": "AP\nCSA",
         "image": null
       },
       {
-        "label": "APCSA",
+        "label": "AP\nCS\nA",
         "image": null
       },
       {
-        "label": "AP CS A",
+        "label": "AP\n\nCS\n\nA",
         "image": null
       }
     ],
-    "answer": "APCSA"
+    "answer": "AP\nCS\nA"
   },
   "unit": {
     "code": "1",

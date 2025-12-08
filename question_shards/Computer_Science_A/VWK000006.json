@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Multi-select with indexOf - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following code segments assigns the same value to result as the preceding code segment for all values of str?",
+    "description": "In the following code segment, str is a properly declared and initialized  String  variable.\n int result = 0; \nif (str.length() > 5) \n{\n if (str.indexOf(\"A\") < 0) \n { \n result = 1; \n }\n else if (str.indexOf(\"B\") < 0) \n {\n result = 2; \n }\n}\nelse if (str.indexOf(\"A\") < 0) \n{\n result = 3; \n}",
+    "question": "Which of the following code segments assigns the same value to result as the preceding code segment for all values of str?",
     "image": null,
     "choices": [
       {
-        "label": "int result = 0; if (str.indexOf(\"A\") < 0) { result = 3; } else if (str.indexOf(\"B\") < 0) { result = 2; } else if (str.length() > 5); { result = 1; }",
+        "label": "int result = 0; \nif (str.indexOf(\"A\") < 0) \n{\n result = 3; \n}\nelse if (str.indexOf(\"B\") < 0) \n{\n result = 2; \n}\nelse if (str.length() > 5); \n{\n result = 1; \n}",
         "image": null
       },
       {
-        "label": "int result = 0; if (str.indexOf(\"A\") < 0) { if (str.length() > 5) { result = 1; } else if (str.indexOf(\"B\") < 0) { result = 2; } else { result = 3; } }",
+        "label": "int result = 0; \nif (str.indexOf(\"A\") < 0) \n{\n if (str.length() > 5) \n {\n result = 1; \n }\n else if (str.indexOf(\"B\") < 0) \n {\n result = 2; \n }\n else \n {\n result = 3; \n }\n}",
         "image": null
       },
       {
-        "label": "int result = 0; if (str.indexOf(\"A\") < 0) { if(str.length() > 5) { result = 1; } else { result = 3; } } else if (str.indexOf(\"B\") < 0) { if (str.length() > 5) { result = 2; } }",
+        "label": "int result = 0; \nif (str.indexOf(\"A\") < 0) \n{\n if(str.length() > 5) \n {\n result = 1; \n }\n else \n {\n result = 3; \n }\n}\nelse if (str.indexOf(\"B\") < 0) \n{\n if (str.length() > 5) \n { \n result = 2; \n }\n}",
         "image": null
       },
       {
-        "label": "int result = 0; if (str.indexOf(\"B\") < 0) { if (str.length() > 5) { result = 2; } } else if (str.indexOf(\"A\") < 0) { if (str.length() > 5) { result = 1; } else { result = 3; } }",
+        "label": "int result = 0; \nif (str.indexOf(\"B\") < 0) \n{\n if (str.length() > 5) \n {\n result = 2; \n }\n}\nelse if (str.indexOf(\"A\") < 0) \n{\n if (str.length() > 5) \n {\n result = 1; \n }\n else \n {\n result = 3;\n }\n}",
         "image": null
       }
     ],
-    "answer": "int result = 0; if (str.indexOf(\"A\") < 0) { if(str.length() > 5) { result = 1; } else { result = 3; } } else if (str.indexOf(\"B\") < 0) { if (str.length() > 5) { result = 2; } }"
+    "answer": "int result = 0; \nif (str.indexOf(\"A\") < 0) \n{\n if(str.length() > 5) \n {\n result = 1; \n }\n else \n {\n result = 3; \n }\n}\nelse if (str.indexOf(\"B\") < 0) \n{\n if (str.length() > 5) \n { \n result = 2; \n }\n}"
   },
   "unit": {
     "code": "2",

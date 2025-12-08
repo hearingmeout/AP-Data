@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Move robot to gray square",
   "content": {
-    "description": "",
-    "question": "Which of the following replacements for <MISSING CODE> can be used to move the robot to the gray square?",
+    "description": "The grid below contains a robot represented as a triangle, initially facing toward the top of the grid. The robot can move into a white or gray square but cannot move into a black region.\n\nThe code segment below uses the procedure goalReached, which evaluates to true if the robot is in the gray square and evaluates to false otherwise.\n\nREPEAT UNTIL(goalReached())\n\n{\n\n<MISSING CODE>\n\n}",
+    "question": "Which of the following replacements for <MISSING CODE> can be used to move the robot to the gray square?",
     "image": null,
     "choices": [
       {
-        "label": "IF(CAN_MOVE(left)){ROTATE_LEFT()MOVE_FORWARD()}",
+        "label": "IF(CAN_MOVE(left))\n{\nROTATE_LEFT()\nMOVE_FORWARD()\n}",
         "image": null
       },
       {
-        "label": "IF(CAN_MOVE(forward)){MOVE_FORWARD()ROTATE_LEFT()}",
+        "label": "IF(CAN_MOVE(forward))\n{\nMOVE_FORWARD()\nROTATE_LEFT()\n}",
         "image": null
       },
       {
-        "label": "IF(CAN_MOVE(left)){ROTATE_LEFT()}MOVE_FORWARD()",
+        "label": "IF(CAN_MOVE(left))\n{\nROTATE_LEFT()\n}\nMOVE_FORWARD()",
         "image": null
       },
       {
-        "label": "IF(CAN_MOVE(forward)){MOVE_FORWARD()}ELSE{ROTATE_LEFT()}",
+        "label": "IF(CAN_MOVE(forward))\n{\nMOVE_FORWARD()\n}\nELSE\n{\nROTATE_LEFT()\n}",
         "image": null
       }
     ],
-    "answer": "IF(CAN_MOVE(left)){ROTATE_LEFT()}MOVE_FORWARD()"
+    "answer": "IF(CAN_MOVE(left))\n{\nROTATE_LEFT()\n}\nMOVE_FORWARD()"
   },
   "topic": {
     "code": "3.6",

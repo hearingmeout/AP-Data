@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Printing with nested loops",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "for (int outer = 0; outer < n; outer++) { for (int inner = 0; inner <= outer; inner++) { System.out.print(outer + \" \"); } } If n has been declared as an integer with the value 4, what is printed as a result of executing the code segment?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nfor (int outer = 0; outer < n; outer++)\n\n{\n\nfor (int inner = 0; inner <= outer; inner++)\n\n{\n\nSystem.out.print(outer + \" \");\n\n}\n\n}\n\nIf n has been declared as an integer with the value 4, what is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {

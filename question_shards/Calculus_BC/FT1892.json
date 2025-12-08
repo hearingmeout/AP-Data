@@ -1,0 +1,45 @@
+{
+  "id": "FT1892",
+  "type": "mcq",
+  "title": "Use the Product rule to evaluate a derivative",
+  "content": {
+    "description": "",
+    "question": "If <math> <mrow> <mi>y</mi> <mo>=</mo> <mn>5</mn> <mi>x</mi> <msqrt> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>+</mo> <mn>1</mn> </mrow> </msqrt> <mo>,</mo> </mrow> </math> then <math> <mrow> <mfrac> <mrow> <mi>d</mi> <mi>y</mi> </mrow> <mrow> <mi>d</mi> <mi>x</mi> </mrow> </mfrac> </mrow> </math> at <math> <mrow> <mi>x</mi> <mo>=</mo> <mn>3</mn> </mrow> </math> is",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math> <mrow> <mfrac> <mn>5</mn> <mrow> <mn>2</mn> <msqrt> <mrow> <mn>10</mn> </mrow> </msqrt> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mfrac> <mrow> <mn>15</mn> </mrow> <mrow> <msqrt> <mrow> <mn>10</mn> </mrow> </msqrt> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mfrac> <mrow> <mn>15</mn> </mrow> <mrow> <mn>2</mn> <msqrt> <mrow> <mn>10</mn> </mrow> </msqrt> </mrow> </mfrac> <mo>+</mo> <mn>5</mn> <msqrt> <mrow> <mn>10</mn> </mrow> </msqrt> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mfrac> <mrow> <mn>45</mn> </mrow> <mrow> <msqrt> <mrow> <mn>10</mn> </mrow> </msqrt> </mrow> </mfrac> <mo>+</mo> <mn>5</mn> <msqrt> <mrow> <mn>10</mn> </mrow> </msqrt> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mfrac> <mrow> <mn>45</mn> </mrow> <mrow> <msqrt> <mrow> <mn>10</mn> </mrow> </msqrt> </mrow> </mfrac> <mo>+</mo> <mn>15</mn> <msqrt> <mrow> <mn>10</mn> </mrow> </msqrt> </mrow> </math>",
+        "image": null
+      }
+    ],
+    "answer": "<math> <mrow> <mfrac> <mrow> <mn>45</mn> </mrow> <mrow> <msqrt> <mrow> <mn>10</mn> </mrow> </msqrt> </mrow> </mfrac> <mo>+</mo> <mn>5</mn> <msqrt> <mrow> <mn>10</mn> </mrow> </msqrt> </mrow> </math>"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Differentiation: Definition and Fundamental Properties"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: The Product Rule"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

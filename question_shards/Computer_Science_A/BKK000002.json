@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "ArrayList method calls - determine result of code",
   "content": {
-    "description": "",
-    "question": "What are the contents of ages after executing the code segment?",
+    "description": "Consider the following code segment.\n ArrayList<Integer> ages = new ArrayList<Integer>(); \nages.add(18); \nages.add(20); \nages.add(1, 15);",
+    "question": "What are the contents of  ages  after executing the code segment?",
     "image": null,
     "choices": [
       {

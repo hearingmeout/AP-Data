@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "first and last output of while",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "int value = 15; while (value < 28) { System.out.println(value); value++; } What are the first and last numbers output by the code segment?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nint value = 15;\n\nwhile (value < 28)\n\n{\n\nSystem.out.println(value);\n\nvalue++;\n\n}\n\nWhat are the first and last numbers output by the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "First Last 15 27",
+        "label": "First\nLast\n\n15\n\n27",
         "image": null
       },
       {
-        "label": "First Last 15 28",
+        "label": "First\nLast\n\n15\n\n28",
         "image": null
       },
       {
-        "label": "First Last 16 27",
+        "label": "First\nLast\n\n16\n\n27",
         "image": null
       },
       {
-        "label": "First Last 16 28",
+        "label": "First\nLast\n\n16\n\n28",
         "image": null
       }
     ],
-    "answer": "First Last 15 27"
+    "answer": "First\nLast\n\n15\n\n27"
   },
   "unit": {
     "code": "2",

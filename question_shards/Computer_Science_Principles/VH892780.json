@@ -3,20 +3,20 @@
   "type": "mcq",
   "title": "Copy even values from originalList to newList",
   "content": {
-    "description": "",
+    "description": "Assume that the list originalList contains integer values and that the list newList is initially empty. The following code segment is intended to copy all even numbers from originalList to newList so that the numbers in newList appear in the same relative order as in originalList. The code segment may or may not work as intended.\n\nLine 1: FOR EACH number IN originalList\n\nLine 2: {\n\nLine 3:    IF (number MOD 2 = 0)\n\nLine 4:    {\n\nLine 5:       INSERT (newList, 1, number)\n\nLine 6:    }\n\nLine 7: }",
     "question": "Which of the following changes, if any, can be made so that the code segment works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "Changing line 1 to FOR EACH number IN newList",
+        "label": "Changing line 1 to FOR EACH number IN newList",
         "image": null
       },
       {
-        "label": "Changing line 3 to IF (number MOD 2 = 1)",
+        "label": "Changing line 3 to IF (number MOD 2 = 1)",
         "image": null
       },
       {
-        "label": "Changing line 5 to APPEND (newList, number)",
+        "label": "Changing line 5 to APPEND (newList, number)",
         "image": null
       },
       {
@@ -24,7 +24,7 @@
         "image": null
       }
     ],
-    "answer": "Changing line 5 to APPEND (newList, number)"
+    "answer": "Changing line 5 to APPEND (newList, number)"
   },
   "topic": {
     "code": "1.4",

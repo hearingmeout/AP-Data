@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Vehicle API Specification - describe behavior",
   "content": {
-    "description": "",
+    "description": "The following is an excerpt of a class specification that appears in an API library.\n\npublic class Vehicle\nThe  Vehicle  class is used to create objects that represent vehicles.\nThe  Vehicle  class has  make,  model,  and  year  variables that hold information about the vehicle’s characteristics. \nThe  Vehicle  constructor initializes a  Vehicle  object with the given make, model, and year. \nThe  getMake(),  getModel(),  and  getYear()  methods return information about the vehicle.",
     "question": "Based on the class specification, which of the following descriptions is accurate?",
     "image": null,
     "choices": [
       {
-        "label": "Vehicle objects are attributes of the variables make, model, and year.",
+        "label": "Vehicle  objects are attributes of the variables  make,  model,  and  year.",
         "image": null
       },
       {
-        "label": "Vehicle objects are behaviors of the variables make, model, and year.",
+        "label": "Vehicle  objects are behaviors of the variables  make,  model,  and  year.",
         "image": null
       },
       {
-        "label": "The variables make, model, and year are attributes of Vehicle objects.",
+        "label": "The variables  make,  model,  and  year  are attributes of  Vehicle  objects.",
         "image": null
       },
       {
-        "label": "The variables make, model, and year are behaviors of Vehicle objects.",
+        "label": "The variables  make,  model,  and  year  are behaviors of  Vehicle  objects.",
         "image": null
       }
     ],
-    "answer": "The variables make, model, and year are attributes of Vehicle objects."
+    "answer": "The variables  make,  model,  and  year  are attributes of  Vehicle  objects."
   },
   "unit": {
     "code": "1",

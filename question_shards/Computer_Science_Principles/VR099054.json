@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Move piece on game board",
   "content": {
-    "description": "",
+    "description": "A game is played by moving a game piece left or right along a horizontal game board. The board consists of spaces of various colors, as shown. The circle represents the initial location of the game piece.\n\nYellow\nBlack\nGreen\nGreen\nRed\nYellow\nBlack\nBlack\nYellow\nBlack\n\n●\n\nThe following algorithm indicates how the game is played. The game continues until the game is either won by landing on the red space or lost when the piece moves off either end of the board.\n\nStep 1:\nPlace a game piece on a space that is not red and set a counter to 0.\nStep 2:\nIf the game piece is on a yellow space, move the game piece 3 positions to the left and go to step 3. Otherwise, if the game piece is on a black space, move the game piece 1 position to the left and go to step 3. Otherwise, if the game piece is on a green space, move the game piece 2 positions to the right and go to step 3.\nStep 3:\nIncrease the value of the counter by 1.\nStep 4:\nIf game piece is on the red space or moved off the end of the game board, the game is complete. Otherwise, go back to step 2.",
     "question": "If a game is begun by placing the game piece on the rightmost black space for step 1, what will be the value of the counter at the end of the game?",
     "image": null,
     "choices": [

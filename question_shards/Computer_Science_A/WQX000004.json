@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Counting values in an array - describe behavior",
   "content": {
-    "description": "",
+    "description": "In the following code segment,  data  is an  int  array with at least two elements.\n int answer = 0; \nfor (int val : data) \n{ \n if (data[0] < val) \n { \n answer++; \n }\n}\nSystem.out.println(answer);",
     "question": "Which of the following best describes the value printed by the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "The number of negative elements in data",
+        "label": "The number of negative elements in  data",
         "image": null
       },
       {
-        "label": "The number of positive elements in data",
+        "label": "The number of positive elements in  data",
         "image": null
       },
       {
-        "label": "The number of elements in data that are greater than the first element in data",
+        "label": "The number of elements in  data  that are greater than the first element in  data",
         "image": null
       },
       {
-        "label": "The number of elements in data that are less than than the first element in data",
+        "label": "The number of elements in  data  that are less than than the first element in  data",
         "image": null
       }
     ],
-    "answer": "The number of elements in data that are greater than the first element in data"
+    "answer": "The number of elements in  data  that are greater than the first element in  data"
   },
   "unit": {
     "code": "4",

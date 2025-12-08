@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Cast x plus y to int",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "int w = 1; int x = w / 2; double y = 3; int z = (int) (x + y); Which of the following best describes the results of compiling the code segment?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nint w = 1;\n\nint x = w / 2;\n\ndouble y = 3;\n\nint z = (int) (x + y);\n\nWhich of the following best describes the results of compiling the code segment?",
     "image": null,
     "choices": [
       {
@@ -12,15 +12,15 @@
         "image": null
       },
       {
-        "label": "The code segment does not compile, because the int variable x cannot be assigned the result of the operation w / 2.",
+        "label": "The code segment does not compile, because the int variable x cannot be assigned the result of the operation w / 2.",
         "image": null
       },
       {
-        "label": "The code segment does not compile, because the integer value 3 cannot be assigned to the double variable y.",
+        "label": "The code segment does not compile, because the integer value 3 cannot be assigned to the double variable y.",
         "image": null
       },
       {
-        "label": "The code segment does not compile, because the operands of the addition operator cannot be of different types int and double.",
+        "label": "The code segment does not compile, because the operands of the addition operator cannot be of different types int and double.",
         "image": null
       }
     ],

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "interchange x and y - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can be used to replace /* missing code */ so that the code segment works as intended?",
+    "description": "The following code segment is intended to interchange the values of the  int  variables  x  and  y.  Assume that  x  and  y  have been properly declared and initialized.\n int temp = x; \n/* missing code */",
+    "question": "Which of the following can be used to replace  /* missing code */  so that the code segment works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "x = y; y = temp;",
+        "label": "x = y; \ny = temp;",
         "image": null
       },
       {
-        "label": "y = x; x = temp;",
+        "label": "y = x; \nx = temp;",
         "image": null
       },
       {
-        "label": "y = x; temp = y;",
+        "label": "y = x; \ntemp = y;",
         "image": null
       },
       {
-        "label": "y = x; temp = x;",
+        "label": "y = x; \ntemp = x;",
         "image": null
       }
     ],
-    "answer": "x = y; y = temp;"
+    "answer": "x = y; \ny = temp;"
   },
   "unit": {
     "code": "1",

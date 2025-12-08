@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "TestObject class - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following class declaration. \n public class TestObject \n{\n private double var1; \n private static int var2 = 0; \n\npublic TestObject(double p) \n { \n var1 = p; \n var2++; \n }\n\npublic void printTestObject() \n {\n System.out.println(var1 + \", \" + var2); \n }\n}\n\nThe following code segment appears in a class other than  TestObject.  Assume that no other  TestObject  objects have been created.\n TestObject obj1 = new TestObject(2.5); \nTestObject obj2 = new TestObject(10.2); \nobj1.printTestObject();",
     "question": "What is printed as a result of executing this code segment?",
     "image": null,
     "choices": [

@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Instantiate Person object - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following statements does not correctly create an object of type Person?",
+    "description": "The  Person  class has exactly two constructors. Partial declarations of the constructors are shown.\n\npublic Person(int idNumber, boolean isActive) \n{ /* implementation not shown */ }\npublic Person(int idNumber, int age, boolean isActive) \n{ /* implementation not shown */ }",
+    "question": "Which of the following statements does not correctly create an object of type  Person?",
     "image": null,
     "choices": [
       {

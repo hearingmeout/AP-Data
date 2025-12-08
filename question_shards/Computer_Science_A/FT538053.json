@@ -3,9 +3,9 @@
   "type": "mcq",
   "title": "findLongest consecutive target description",
   "content": {
-    "description": "",
+    "description": "Consider the following instance variable nums and method findLongest with line numbers added for reference. Method findLongest is intended to find the longest consecutive block of the value target occurring in the array nums; however, findLongest does not work as intended.\n\nFor example, if the array nums contains the values [7, 10, 10, 15, 15, 15, 15, 10,10, 10, 15, 10, 10], the call findLongest (10) should return 3, the length of the longest consecutive block of 10s.",
     "question": "The method findLongest does not work as intended. Which of the following best describes the value returned by a call to findLongest ?",
-    "image": null,
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/3c4e751f1e9871cb564beb717d01be96.jpg",
     "choices": [
       {
         "label": "It is the length of the array nums.",

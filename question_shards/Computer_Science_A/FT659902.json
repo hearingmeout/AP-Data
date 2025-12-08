@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "changeIt call with int array parameter passing",
   "content": {
-    "description": "Consider the following two methods that appear within a single class.",
-    "question": "public void changeIt(int[] list, int num) { list = new int[5]; num = 0; for (int x = 0; x < list.length; x++) list[x] = 0; } public void start() { int[] nums = {1, 2, 3, 4, 5}; int value = 6; changeIt(nums, value); for (int k = 0; k < nums.length; k++) System.out.print(nums[k] + \" \"); System.out.print(value); } What is printed as a result of the call start()?",
+    "description": "",
+    "question": "Consider the following two methods that appear within a single class.\n\npublic void changeIt(int[] list, int num)\n\n{\n\nlist = new int[5];\n\nnum = 0;\n\nfor (int x = 0; x < list.length; x++)\n\nlist[x] = 0;\n\n}\n\npublic void start()\n\n{\n\nint[] nums = {1, 2, 3, 4, 5};\n\nint value = 6;\n\nchangeIt(nums, value);\n\nfor (int k = 0; k < nums.length; k++)\n\nSystem.out.print(nums[k] + \" \");\n\nSystem.out.print(value);\n\n}\n\nWhat is printed as a result of the call start()?",
     "image": null,
     "choices": [
       {

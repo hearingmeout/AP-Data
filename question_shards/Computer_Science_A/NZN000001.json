@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "cast to int and cast to double - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n double a = 7;\nint b = (int) (a / 2);\ndouble c = (double) b / 2;\nSystem.out.print(b);\nSystem.out.print(\" \");\nSystem.out.print(c);",
     "question": "What is printed as a result of executing the code segment?",
     "image": null,
     "choices": [

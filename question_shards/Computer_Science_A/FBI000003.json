@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "String mystery method - determine result",
   "content": {
-    "description": "",
-    "question": "What is returned as a result of the call mystery(\"computer\")?",
+    "description": "Consider the following method.\n public static String mystery(String input)\n{\n String output = \"\";\n for (int k = 1; k < input.length(); k = k + 2)\n {\n output += input.substring(k, k + 1);\n }\n return output;\n}",
+    "question": "What is returned as a result of the call  mystery(\"computer\")?",
     "image": null,
     "choices": [
       {

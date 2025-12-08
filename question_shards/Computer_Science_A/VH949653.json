@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "compound Boolean expression",
   "content": {
-    "description": "Which of the following best describes the value of the Boolean expression shown below?",
-    "question": "a && !(b || a)",
+    "description": "",
+    "question": "Which of the following best describes the value of the Boolean expression shown below?\n\na && !(b || a)",
     "image": null,
     "choices": [
       {
-        "label": "The value is always false.",
+        "label": "The value is always false.",
         "image": null
       },
       {
-        "label": "The value is true when a has the value false, and is false otherwise.",
+        "label": "The value is true when a has the value false, and is false otherwise.",
         "image": null
       },
       {
-        "label": "The value is true when b has the value false, and is false otherwise.",
+        "label": "The value is true when b has the value false, and is false otherwise.",
         "image": null
       },
       {
-        "label": "The value is true when either a or b has the value true, and is false otherwise.",
+        "label": "The value is true when either a or b has the value true, and is false otherwise.",
         "image": null
       }
     ],
-    "answer": "The value is always false."
+    "answer": "The value is always false."
   },
   "unit": {
     "code": "2",

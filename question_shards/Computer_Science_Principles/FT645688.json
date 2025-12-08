@@ -3,25 +3,25 @@
   "type": "mcq",
   "title": "Movie theather ticket prices based on age",
   "content": {
-    "description": "",
-    "question": "Which of the following code segments correctly sets the value of ?",
-    "image": "https://ap.oly.st/images/0854419f996caac5da42a0eceff137e9.JPG",
+    "description": "The ticket prices at a movie theater are given below.\n\nA programmer is creating an algorithm to set the value of  based on the information in the table. The programmer uses the integer  variable  for the age of the moviegoer. The Boolean variable  is  when the movie is 3-D and  otherwise.",
+    "question": "Which of the following code segments correctly sets the value of  ?",
+    "image": null,
     "choices": [
       {
         "label": "The block code consists of 5 lines. Some of the lines of code are indented. The code uses the variable ticket Price, closed up with initial capital P, henceforth referred to as ticket Price. Line 1: ticket Price left arrow 12 Begin block Line 2: IF begin block, begin block, age less than or equal to 12, end block, OR, begin block, age greater than or equal to 60, end block, end block Begin block Line 3, indented 1 tab: ticket Price left arrow 9 End block End block Begin block Line 4: IF begin block is 3 D, closed up with numeral 3 and capital D, end block Begin block Line 5, indented 1 tab: ticket Price left arrow 17 End block End block",
-        "image": "https://ap.oly.st/images/d812fabea053c10a65164370083f6458.jpg"
+        "image": null
       },
       {
         "label": "The block code consists of 5 lines. Some of the lines of code are indented. The code uses the variable ticket Price, closed up with initial capital P, henceforth referred to as ticket Price. Line 1: ticket Price left arrow 12 Begin block Line 2: IF begin block, begin block, age less than or equal to 12, end block, OR, begin block, age greater than or equal to 60, end block, end block Begin block Line 3, indented 1 tab: ticket Price left arrow 9 End block Line 4: ELSE Begin block Line 5, indented 1 tab: ticket Price left arrow 17 End block End block",
-        "image": "https://ap.oly.st/images/be0d8fc685d387087095a436cca0f5e7.jpg"
+        "image": null
       },
       {
         "label": "The block code consists of 5 lines. Some of the lines of code are indented. The code uses the variable ticket Price, closed up with initial capital P, henceforth referred to as ticket Price. Line 1: ticket Price left arrow 12 Begin block Line 2: IF begin block, begin block, age less than or equal to 12, end block, OR, begin block, age greater than or equal to 60, end block, end block Begin block Line 3, indented 1 tab: ticket Price left arrow 9 End block End block Begin block Line 4: IF begin block is 3 D, closed up with numeral 3 and capital D, end block Begin block Line 5, indented 1 tab: ticket Price left arrow ticket Price plus 5 End block End block",
-        "image": "https://ap.oly.st/images/ad637e763a347d236fd2ff8ad969d810.jpg"
+        "image": null
       },
       {
         "label": "The block code consists of 5 lines. Some of the lines of code are indented. The code uses the variable ticket Price, closed up with initial capital P, henceforth referred to as ticket Price. Line 1: ticket Price left arrow 12 Begin block Line 2: IF begin block, begin block, age less than or equal to 12, end block, OR, begin block, age greater than or equal to 60, end block, end block Begin block Line 3, indented 1 tab: ticket Price left arrow 9 End block Line 4: ELSE Begin block Line 5, indented 1 tab: ticket Price left arrow ticket Price plus 5 End block End block",
-        "image": "https://ap.oly.st/images/f3a8be649c6560229f3e39cbfc3cedfc.jpg"
+        "image": null
       }
     ],
     "answer": "The block code consists of 5 lines. Some of the lines of code are indented. The code uses the variable ticket Price, closed up with initial capital P, henceforth referred to as ticket Price. Line 1: ticket Price left arrow 12 Begin block Line 2: IF begin block, begin block, age less than or equal to 12, end block, OR, begin block, age greater than or equal to 60, end block, end block Begin block Line 3, indented 1 tab: ticket Price left arrow 9 End block End block Begin block Line 4: IF begin block is 3 D, closed up with numeral 3 and capital D, end block Begin block Line 5, indented 1 tab: ticket Price left arrow ticket Price plus 5 End block End block"

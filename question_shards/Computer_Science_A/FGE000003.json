@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Remove all matches from list - fix error",
   "content": {
-    "description": "",
+    "description": "Consider the following method. \n public void removeAll(int target, ArrayList<Integer> list) \n{ \n for (int index = list.size(); index >= 0; index--) // Line 3\n { \n if (list.get(index) == target) // Line 5\n { \n list.remove(index); \n } \n } \n} \n\nThe method is intended to remove all values matching a target value from its  ArrayList  parameter. However, it is not working as intended.",
     "question": "Which of the following changes can be made so that the method works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "In line 3, changing the loop initialization to index = list.size() – 1",
+        "label": "In line 3, changing the loop initialization to  index = list.size() – 1",
         "image": null
       },
       {
-        "label": "In line 3, changing the loop condition to index > 0",
+        "label": "In line 3, changing the loop condition to  index > 0",
         "image": null
       },
       {
-        "label": "In line 3, changing the loop increment to index++",
+        "label": "In line 3, changing the loop increment to  index++",
         "image": null
       },
       {
-        "label": "In line 5, changing the list access expression to list.get(target)",
+        "label": "In line 5, changing the list access expression to  list.get(target)",
         "image": null
       }
     ],
-    "answer": "In line 3, changing the loop initialization to index = list.size() – 1"
+    "answer": "In line 3, changing the loop initialization to  index = list.size() – 1"
   },
   "unit": {
     "code": "4",

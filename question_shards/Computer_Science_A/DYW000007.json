@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Nested while loops print asterisks - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can be used to replace /* missing condition */ so that the code segment works as intended?",
+    "description": "Consider the following code segment.\n int a = 1;\nwhile (a <= 2)\n{\n int c = 1;\n while (/* missing condition */)\n {\n System.out.print(\"*\");\n c++;\n }\n a++;\n}\n\nThe code segment is intended to print \"******\".",
+    "question": "Which of the following can be used to replace /* missing condition */ so that the code segment works as intended?",
     "image": null,
     "choices": [
       {

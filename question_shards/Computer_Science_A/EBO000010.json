@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Print some square matrix elements - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can be used to replace /* missing code */ so that the code segment works as intended?",
+    "description": "Consider the following code segment.\n int[][] mat = {{1, 2, 3, 4},\n {5, 6, 7, 8},\n {8, 7, 6, 5},\n {4, 3, 2, 1}};\n\nfor (int r = 0; r < mat.length; r++) \n{ \n /* missing code */ \n} \n\nThis code segment is intended to produce the following output.\n 1 \n5 6 \n8 7 6 \n4 3 2 1",
+    "question": "Which of the following can be used to replace /* missing code */ so that the code segment works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "for (int c = 0; c <= r; c++) { System.out.print(mat[c][r] + \" \"); } System.out.println();",
+        "label": "for (int c = 0; c <= r; c++) \n{\n System.out.print(mat[c][r] + \" \");\n}\nSystem.out.println();",
         "image": null
       },
       {
-        "label": "for (int c = 0; c <= r; c++) { System.out.print(mat[r][c] + \" \"); } System.out.println();",
+        "label": "for (int c = 0; c <= r; c++) \n{\n System.out.print(mat[r][c] + \" \"); \n}\nSystem.out.println();",
         "image": null
       },
       {
-        "label": "for (int c = 1; c < r; c++) { System.out.print(mat[r][c] + \" \"); } System.out.println();",
+        "label": "for (int c = 1; c < r; c++) \n{\n System.out.print(mat[r][c] + \" \");\n} \nSystem.out.println();",
         "image": null
       },
       {
-        "label": "for (int c = 0; c <= r; c++) { System.out.print(mat[r][c] + \" \"); System.out.println(); }",
+        "label": "for (int c = 0; c <= r; c++) \n{ \n System.out.print(mat[r][c] + \" \"); \n System.out.println(); \n}",
         "image": null
       }
     ],
-    "answer": "for (int c = 0; c <= r; c++) { System.out.print(mat[r][c] + \" \"); } System.out.println();"
+    "answer": "for (int c = 0; c <= r; c++) \n{\n System.out.print(mat[r][c] + \" \"); \n}\nSystem.out.println();"
   },
   "unit": {
     "code": "4",

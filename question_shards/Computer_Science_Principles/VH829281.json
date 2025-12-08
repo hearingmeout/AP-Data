@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Information determined by library system",
   "content": {
-    "description": "",
+    "description": "A library system contains information for each book that was borrowed. Each time a person borrows or returns a book from the library, the following information is recorded in a database.\n\nName and the unique ID number of the person who was borrowing the book\n\nAuthor, title, and the unique ID number of the book that was borrowed\n\nDate that the book was borrowed\n\nDate that the book was due to be returned\n\nDate that the book was returned (or 0 if the book has not been returned yet)",
     "question": "Which of the following CANNOT be determined from the information collected by the system?",
     "image": null,
     "choices": [

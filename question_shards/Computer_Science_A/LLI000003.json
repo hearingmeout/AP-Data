@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "De Morgans law - determine result",
   "content": {
-    "description": "",
+    "description": "In the following code segment,  x  is a properly declared and initialized  boolean  variable and  y  is a properly declared and initialized  int  variable. boolean a = !x && y > 50000; \nboolean b = !(x || y <= 50000); \nboolean c = !x || y <= 50000; \nboolean d = !(x && y <= 50000); \n\nif (a == b)\n{ \n System.out.println(\"First\");\n}\nif (a == c)\n{\n System.out.println(\"Second\");\n} \nif (b == c)\n{\n System.out.println(\"Third\");\n} \nif (c == d)\n{ \n System.out.println(\"Fourth\");\n}",
     "question": "Which of the following is always printed as a result of executing this code segment?",
     "image": null,
     "choices": [

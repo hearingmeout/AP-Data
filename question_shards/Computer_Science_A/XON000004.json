@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "SomeClass with static variable - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following class definition.\n public class SomeClass\n{\n private int x = 0;\n private static int y = 0;\n\npublic SomeClass(int pX)\n {\n x = pX;\n y++;\n }\n\npublic void incrementY()\n {\n    y++;\n }\n\npublic void incrementY(int inc)\n {\n    y += inc;\n }\n\npublic int getY()\n {\n    return y;\n }\n}\n\nThe following code segment appears in a class other than  SomeClass.  Assume that no other  SomeClass  objects have been created.\n SomeClass first = new SomeClass(10);\nSomeClass second = new SomeClass(20);\nSomeClass third = new SomeClass(30);\nfirst.incrementY();\nsecond.incrementY(10);\nSystem.out.println(third.getY());",
     "question": "What is printed as a result of executing the code segment?",
     "image": null,
     "choices": [

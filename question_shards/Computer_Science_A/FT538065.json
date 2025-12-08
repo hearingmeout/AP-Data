@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "shuffle 1D array of ints",
   "content": {
-    "description": "Consider a shuffle method that is intended to return a new array that contains all the elements from nums, but in a different order. Let n be the number of elements in nums. The shuffle method should alternate the elements from nums [0] … nums[n / 2 – 1] with the elements from nums[n / 2] …nums[n – 1], as illustrated in the following examples.",
-    "question": "The following implementation of the shuffle method does not work as intended. Which of the following best describes the problem with the given implementation of the shuffle method?",
+    "description": "",
+    "question": "Consider a shuffle method that is intended to return a new array that contains all the elements from nums, but in a different order. Let n be the number of elements in nums. The shuffle method should alternate the elements from nums [0] … nums[n / 2 – 1] with the elements from nums[n / 2] …nums[n – 1], as illustrated in the following examples.\n\nThe following implementation of the shuffle method does not work as intended.\n\nWhich of the following best describes the problem with the given implementation of the shuffle method?",
     "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/1902e85227f5d8f51eb8c6c2b4978449.jpg",
     "choices": [
       {

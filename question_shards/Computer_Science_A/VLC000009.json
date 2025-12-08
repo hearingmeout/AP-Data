@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "2D array method operation - determine result",
   "content": {
-    "description": "",
-    "question": "Which of the following represents the contents of arr after executing the code segment?",
+    "description": "Consider the following method.\n /** \n * Precondition: matrix has the same number of\n * rows and columns.\n */\npublic static int[] operation(int[][] matrix, int r, int c)\n{\n int[] result = new int[matrix.length];\n\nfor (int j = 0; j < matrix.length; j++)\n {\n result[j] = matrix[r][j] * matrix[j][c];\n }\n return result;\n}\n\nThe following code segment appears in another method in the same class.\n int[][] mat = {{3, 1, 2, 4},\n {2, 0, 3, 1},\n {1, 2, 3, 3},\n {1, 1, 1, 1}};\n\nint[] arr = operation(mat, 1, 2);",
+    "question": "Which of the following represents the contents of  arr  after executing the code segment?",
     "image": null,
     "choices": [
       {

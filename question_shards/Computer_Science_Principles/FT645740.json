@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Algorithms to identify palindrome words in list",
   "content": {
-    "description": "Executing which of the following sequences of steps will enable the algorithm to work as intended?",
-    "question": "I. First shorten, then keep palindromes, then sort II. First keep palindromes, then shorten, then sort III. First sort, then keep palindromes, then shorten",
+    "description": "A programmer is developing a word game. The programmer wants to create an algorithm that will take a list of words and return a list containing the first letter of all words that are palindromes (words that read the same backward or forward). The returned list should be in alphabetical order. For example, if the list contains the words , the returned list would contain (because , , and are palindromes).\n\nThe programmer knows that the following steps are necessary for the algorithm but is not sure in which order they should be executed.",
+    "question": "Executing which of the following sequences of steps will enable the algorithm to work as intended?\n\nI. First shorten, then keep palindromes, then sort\n\nII. First keep palindromes, then shorten, then sort\n\nIII. First sort, then keep palindromes, then shorten",
     "image": null,
     "choices": [
       {

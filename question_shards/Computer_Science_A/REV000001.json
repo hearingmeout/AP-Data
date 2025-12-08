@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "int array after update - determine result",
   "content": {
-    "description": "",
-    "question": "What are the contents of numArr after executing this code segment?",
+    "description": "Consider the following method.\n public static void updateArr(int[] arr, int val)\n{\n arr[val] = val;\n}\n\nThe following code segment appears in a method in the same class as updateArr.\n int[] numArr = new int[4];\nupdateArr(numArr, 1);\nupdateArr(numArr, 3);",
+    "question": "What are the contents of numArr after executing this code segment?",
     "image": null,
     "choices": [
       {

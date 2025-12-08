@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Nested ifs with x y a b - determine result",
   "content": {
-    "description": "",
-    "question": "What are the values of a, b, and x after the code segment is executed?",
+    "description": "Consider the following code segment.\n int x = 7; \nint y = 4; \nboolean a = false; \nboolean b = false; \n\nif (x > y) \n{ \n   if (x % y >= 3) \n   { \n      a = true; \n      x -= y; \n   } \n   else \n   { \n      x += y; \n   } \n} \n\nif (x < y) \n{ \n   if (y % x >= 3) \n   { \n      b = true; \n      x -= y; \n   } \n   else \n   { \n      x += y; \n   } \n}",
+    "question": "What are the values of  a,  b,  and  x  after the code segment is executed?",
     "image": null,
     "choices": [
       {
-        "label": "a = true, b = true, x = -1",
+        "label": "a = true,  b = true,  x = -1",
         "image": null
       },
       {
-        "label": "a = true, b = false, x = 3",
+        "label": "a = true,  b = false,  x = 3",
         "image": null
       },
       {
-        "label": "a = true, b = false, x = 7",
+        "label": "a = true,  b = false,  x = 7",
         "image": null
       },
       {
-        "label": "a = false, b = false, x = 11",
+        "label": "a = false,  b = false,  x = 11",
         "image": null
       }
     ],
-    "answer": "a = true, b = false, x = 7"
+    "answer": "a = true,  b = false,  x = 7"
   },
   "unit": {
     "code": "2",

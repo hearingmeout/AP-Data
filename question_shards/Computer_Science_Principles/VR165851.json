@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Remove first and last two characters of string",
   "content": {
-    "description": "Consider the following procedures for string manipulation.",
-    "question": "Procedure Call Explanation concat(str1, str2) Returns a single string consisting of str1 followed by str2. For example, concat(\"key\", \"board\") returns \"keyboard\". substring(str, start, length) Returns a substring of consecutive characters from str, starting with the character at position start and containing length characters. The first character of str is located at position 1. For example, substring(\"delivery\", 3, 4) returns \"live\". len(str) Returns the number of characters in str. For example, len(\"pizza\") returns 5. Assume that the string oldString contains at least 4 characters. A programmer is writing a code segment that is intended to remove the first two characters and the last two characters from oldString and assign the result to newString. For example, if oldString contains \"student\", then newString should contain \"ude\". Which of the following code segments can be used to assign the intended string to newString ? Select two answers.",
+    "description": "",
+    "question": "Consider the following procedures for string manipulation.\n\nProcedure Call\nExplanation\n\nconcat(str1, str2)\nReturns a single string consisting of str1 followed by str2. For example, concat(\"key\", \"board\") returns  \"keyboard\".\n\nsubstring(str, start, length)\nReturns a substring of consecutive characters from str, starting with the character at position start and containing length characters. The first character of str is located at position 1. For example, substring(\"delivery\", 3, 4) returns \"live\".\n\nlen(str)\nReturns the number of characters in str. For example, len(\"pizza\") returns 5.\n\nAssume that the string oldString contains at least 4 characters. A programmer is writing a code segment that is intended to remove the first two characters and the last two characters from oldString and assign the result to newString.\n\nFor example, if oldString contains \"student\", then newString should contain \"ude\".\n\nWhich of the following code segments can be used to assign the intended string to newString ?\n\nSelect two answers.",
     "image": null,
     "choices": [
       {
@@ -16,11 +16,11 @@
         "image": null
       },
       {
-        "label": "tempString <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> substring(oldString, 3, len(oldString) - 2)newString <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> substring(tempString, 1, len(tempString) - 2)",
+        "label": "tempString <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> substring(oldString, 3, len(oldString) - 2)\nnewString <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> substring(tempString, 1, len(tempString) - 2)",
         "image": null
       },
       {
-        "label": "tempString1 <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> substring(oldString, 1, 2)tempString2 <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> substring(oldString, len(oldString) - 2, 2)newString <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> concat(tempString1, tempString2)",
+        "label": "tempString1 <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> substring(oldString, 1, 2)\ntempString2 <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> substring(oldString, len(oldString) - 2, 2)\nnewString <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> concat(tempString1, tempString2)",
         "image": null
       }
     ],

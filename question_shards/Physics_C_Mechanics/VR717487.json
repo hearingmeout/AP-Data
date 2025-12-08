@@ -1,0 +1,41 @@
+{
+  "id": "VR717487",
+  "type": "mcq",
+  "title": "Rotational kinematics average velocity of bar",
+  "content": {
+    "description": "",
+    "question": "A long bar rotates about an axis that is perpendicular to the bar and located at its center. The angular velocity of the bar in <math alttext=\"radians per second\" display=\"inline\" overflow=\"scroll\"><mtext>rad</mtext><mo>/</mo><mtext>s</mtext></math> is given by <math alttext=\"omega, open parenthesis, t, close parenthesis, equals 4 times t squared plus 1\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>ω</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>4</mn><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn></mstyle></math>, where <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mi>t</mi></math> is the time in seconds. Which of the following approaches could be used to find the average angular velocity of the bar in the time interval <math alttext=\"1 is less than or equal to t, which is less than or equal to 3\" display=\"inline\" overflow=\"scroll\"><mn>1</mn><mo>≤</mo><mi>t</mi><mo>≤</mo><mn>3</mn></math>?",
+    "image": null,
+    "choices": [
+      {
+        "label": "Evaluate <math alttext=\"omega, open parenthesis, 2, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>ω</mi><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "Evaluate <math alttext=\"omega, open parenthesis, 1, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>ω</mi><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow></mstyle></math> and <math alttext=\"omega, open parenthesis, 3, close parenthesis\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>ω</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mstyle></math>. Take the average of the two values.",
+        "image": null
+      },
+      {
+        "label": "Evaluate the derivative <math alttext=\"the fraction d omega over d t\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mfrac><mrow><mi>d</mi><mi>ω</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac></mstyle></math> at <math alttext=\"t equals 2\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><mi>t</mi><mo>=</mo><mn>2</mn></mstyle></math>. Multiply the result by <math alttext=\"delta t equals 2 s\" display=\"inline\" overflow=\"scroll\"><mtext>Δ</mtext><mi>t</mi><mo>=</mo><mn>2</mn><mspace width=\"0.2em\"></mspace><mtext>s</mtext></math>.",
+        "image": null
+      },
+      {
+        "label": "Evaluate the integral <math alttext=\"the integral from 1 to 3 of omega, open parenthesis, t, close parenthesis, d t\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><munderover><mo>∫</mo><mn>1</mn><mn>3</mn></munderover><mi>ω</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mspace width=\"0.2em\"></mspace><mi>d</mi><mi>t</mi></mstyle></math>. Divide the result by <math alttext=\"delta t equals 2 s\" display=\"inline\" overflow=\"scroll\"><mtext>Δ</mtext><mi>t</mi><mo>=</mo><mn>2</mn><mspace width=\"0.2em\"></mspace><mtext>s</mtext></math>.",
+        "image": null
+      }
+    ],
+    "answer": "Evaluate the integral <math alttext=\"the integral from 1 to 3 of omega, open parenthesis, t, close parenthesis, d t\" display=\"inline\" overflow=\"scroll\"><mstyle displaystyle=\"true\"><munderover><mo>∫</mo><mn>1</mn><mn>3</mn></munderover><mi>ω</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mspace width=\"0.2em\"></mspace><mi>d</mi><mi>t</mi></mstyle></math>. Divide the result by <math alttext=\"delta t equals 2 s\" display=\"inline\" overflow=\"scroll\"><mtext>Δ</mtext><mi>t</mi><mo>=</mo><mn>2</mn><mspace width=\"0.2em\"></mspace><mtext>s</mtext></math>."
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Torque and Rotational Dynamics"
+  },
+  "topic": {
+    "code": "5.1",
+    "text": "5.1: Rotational Kinematics"
+  },
+  "skill": {
+    "code": "3.B",
+    "text": "3.B: Apply an appropriate law, definition, theoretical relationship, or model to make a claim."
+  }
+}

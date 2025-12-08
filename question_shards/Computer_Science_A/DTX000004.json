@@ -4,27 +4,27 @@
   "title": "Print result of compound assignment - write code",
   "content": {
     "description": "",
-    "question": "Which of the following code segments can be used to print the output 2526?",
+    "question": "Which of the following code segments can be used to print the output  2526?",
     "image": null,
     "choices": [
       {
-        "label": "int val = 5; val *= val; System.out.print(val); val++; System.out.print(val);",
+        "label": "int val = 5; \nval *= val;\nSystem.out.print(val);\nval++;\nSystem.out.print(val);",
         "image": null
       },
       {
-        "label": "int val = 5; val *= val; System.out.print(val); val *= 1; System.out.print(val);",
+        "label": "int val = 5; \nval *= val;\nSystem.out.print(val);\nval *= 1;\nSystem.out.print(val);",
         "image": null
       },
       {
-        "label": "int val = 5; val += val; System.out.print(val); val++; System.out.print(val);",
+        "label": "int val = 5; \nval += val;\nSystem.out.print(val);\nval++;\nSystem.out.print(val);",
         "image": null
       },
       {
-        "label": "int val = 5; val += val; System.out.print(val); val *= 1; System.out.print(val);",
+        "label": "int val = 5; \nval += val;\nSystem.out.print(val);\nval *= 1;\nSystem.out.print(val);",
         "image": null
       }
     ],
-    "answer": "int val = 5; val *= val; System.out.print(val); val++; System.out.print(val);"
+    "answer": "int val = 5; \nval *= val;\nSystem.out.print(val);\nval++;\nSystem.out.print(val);"
   },
   "unit": {
     "code": "1",

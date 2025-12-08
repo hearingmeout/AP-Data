@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Pet class - explain error",
   "content": {
-    "description": "",
+    "description": "The following class definition does not compile.\n public class Pet\n{\n private String name;\n private String species;\n private int age;\n\npublic Pet(String pName, String pSpecies)\n {\n name = pName;\n species = pSpecies;\n age = 0;\n }\n\npublic void incrementAge()\n {\n age++;\n }\n\npublic String getInfo()\n {\n return pName + \", \" + pSpecies;\n }\n}",
     "question": "Which of the following best explains why the class will not compile?",
     "image": null,
     "choices": [
@@ -12,19 +12,19 @@
         "image": null
       },
       {
-        "label": "The instance variables should be designated public instead of private.",
+        "label": "The instance variables should be designated  public  instead of  private.",
         "image": null
       },
       {
-        "label": "The return type of the incrementAge method should be int instead of void.",
+        "label": "The return type of the  incrementAge  method should be  int  instead of  void.",
         "image": null
       },
       {
-        "label": "The getInfo method does not have access to variables named pName or pSpecies.",
+        "label": "The  getInfo  method does not have access to variables named  pName  or  pSpecies.",
         "image": null
       }
     ],
-    "answer": "The getInfo method does not have access to variables named pName or pSpecies."
+    "answer": "The  getInfo  method does not have access to variables named  pName  or  pSpecies."
   },
   "unit": {
     "code": "3",

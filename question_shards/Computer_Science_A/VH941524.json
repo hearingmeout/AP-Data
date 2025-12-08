@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "initial value of shortest",
   "content": {
-    "description": "The code segment below is intended to print the length of the shortest string in the array wordArray. Assume that wordArray contains at least one element.",
-    "question": "int shortest = /* missing value */;for (String word : wordArray){if (word.length() < shortest){shortest = word.length();}}System.out.println(shortest);Which of the following should be used as the initial value assigned to shortest so that the code segment works as intended?",
+    "description": "",
+    "question": "The code segment below is intended to print the length of the shortest string in the array wordArray. Assume that wordArray contains at least one element.\n\nint shortest = /* missing value */;\nfor (String word : wordArray)\n{\nif (word.length() < shortest)\n{\nshortest = word.length();\n}\n}\nSystem.out.println(shortest);\nWhich of the following should be used as the initial value assigned to shortest so that the code segment works as intended?",
     "image": null,
     "choices": [
       {

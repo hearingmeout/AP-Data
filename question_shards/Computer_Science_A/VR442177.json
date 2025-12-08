@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "mystery integer array method",
   "content": {
-    "description": "Consider the following method.",
-    "question": "public static int mystery(int value) { int sum = 0; int[] arr = {1, 4, 2, 5, 10, 3, 6, 4}; for (int item : arr) { if (item > value) { sum += item; } } return sum; } What value is returned as a result of the call mystery(4) ?",
+    "description": "",
+    "question": "Consider the following method.\n\npublic static int mystery(int value)\n\n{\n\nint sum = 0;\n\nint[] arr = {1, 4, 2, 5, 10, 3, 6, 4};\n\nfor (int item : arr)\n\n{\n\nif (item > value)\n\n{\n\nsum += item;\n\n}\n\n}\n\nreturn sum;\n\n}\n\nWhat value is returned as a result of the call mystery(4) ?",
     "image": null,
     "choices": [
       {

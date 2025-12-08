@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "equivalent output from for loops",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "for (int k = 1; k <= 7; k += 2){System.out.print(k);}Which of the following code segments will produce the same output as the code segment above?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nfor (int k = 1; k <= 7; k += 2)\n{\nSystem.out.print(k);\n}\nWhich of the following code segments will produce the same output as the code segment above?",
     "image": null,
     "choices": [
       {
-        "label": "for (int k = 0; k < 7; k += 2){System.out.print(k);}",
+        "label": "for (int k = 0; k < 7; k += 2)\n{\nSystem.out.print(k);\n}",
         "image": null
       },
       {
-        "label": "for (int k = 0; k <= 8; k += 2){System.out.print(k + 1);}",
+        "label": "for (int k = 0; k <= 8; k += 2)\n{\nSystem.out.print(k + 1);\n}",
         "image": null
       },
       {
-        "label": "for (int k = 1; k < 7; k += 2){System.out.print(k + 1);}",
+        "label": "for (int k = 1; k < 7; k += 2)\n{\nSystem.out.print(k + 1);\n}",
         "image": null
       },
       {
-        "label": "for (int k = 1; k <= 8; k += 2){System.out.print(k);}",
+        "label": "for (int k = 1; k <= 8; k += 2)\n{\nSystem.out.print(k);\n}",
         "image": null
       }
     ],
-    "answer": "for (int k = 1; k <= 8; k += 2){System.out.print(k);}"
+    "answer": "for (int k = 1; k <= 8; k += 2)\n{\nSystem.out.print(k);\n}"
   },
   "unit": {
     "code": "2",

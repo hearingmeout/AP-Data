@@ -1,0 +1,41 @@
+{
+  "id": "VR002923",
+  "type": "mcq",
+  "title": "Processes - Riemann-Trapezoidal Sum",
+  "content": {
+    "description": "",
+    "question": "The definite integral <math alttext=\"the integral from, 0 to 4, of, the square root of x, end root, d x\" display=\"inline\" overflow=\"scroll\"><mrow><mstyle displaystyle=\"true\"><mrow><msubsup><mo>∫</mo><mrow><mn>0</mn></mrow><mrow><mn>4</mn></mrow></msubsup><mrow><msqrt><mrow><mi>x</mi></mrow></msqrt></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle></mrow></math> is approximated by a left Riemann sum, a right Riemann sum, and a trapezoidal sum, each with <math alttext=\"4\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mn>4</mn></mrow></mstyle></math> subintervals of equal width. If <math alttext=\"L\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>L</mi></mrow></mstyle></math> is the value of the left Riemann sum, <math alttext=\"R\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>R</mi></mrow></mstyle></math> is the value of the right Riemann sum, and <math alttext=\"T\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>T</mi></mrow></mstyle></math> is the value of the trapezoidal sum, which of the following inequalities is true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"L is less than the integral from, 0 to 4, of, the square root of x, end root, d x, which is less than T, which is less than R\" display=\"inline\" overflow=\"scroll\"><mrow><mi>L</mi><mo>&lt;</mo><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>4</mn></mrow></msubsup><mrow><msqrt><mrow><mi>x</mi></mrow></msqrt></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle><mo>&lt;</mo><mi>T</mi><mo>&lt;</mo><mi>R</mi></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"L is less than T, which is less than the integral from, 0 to 4, of, the square root of x, end root, d x, which is less than R\" display=\"inline\" overflow=\"scroll\"><mrow><mi>L</mi><mo>&lt;</mo><mi>T</mi><mo>&lt;</mo><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>4</mn></mrow></msubsup><mrow><msqrt><mrow><mi>x</mi></mrow></msqrt></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle><mo>&lt;</mo><mi>R</mi></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"R is less than the integral from, 0 to 4, of, the square root of x, end root, d x, which is less than T, which is less than L\" display=\"inline\" overflow=\"scroll\"><mrow><mi>R</mi><mo>&lt;</mo><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>4</mn></mrow></msubsup><mrow><msqrt><mrow><mi>x</mi></mrow></msqrt></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle><mo>&lt;</mo><mi>T</mi><mo>&lt;</mo><mi>L</mi></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"R is less than T, which is less than the integral from, 0 to 4, of, the square root of x, end root, d x, which is less than L\" display=\"inline\" overflow=\"scroll\"><mrow><mi>R</mi><mo>&lt;</mo><mi>T</mi><mo>&lt;</mo><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>4</mn></mrow></msubsup><mrow><msqrt><mrow><mi>x</mi></mrow></msqrt></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle><mo>&lt;</mo><mi>L</mi></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"L is less than T, which is less than the integral from, 0 to 4, of, the square root of x, end root, d x, which is less than R\" display=\"inline\" overflow=\"scroll\"><mrow><mi>L</mi><mo>&lt;</mo><mi>T</mi><mo>&lt;</mo><mstyle displaystyle=\"true\"><mrow><msubsup><mrow><mo>∫</mo></mrow><mrow><mn>0</mn></mrow><mrow><mn>4</mn></mrow></msubsup><mrow><msqrt><mrow><mi>x</mi></mrow></msqrt></mrow><mo>ⅆ</mo><mrow><mi>x</mi></mrow></mrow></mstyle><mo>&lt;</mo><mi>R</mi></mrow></math>"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Integration and Accumulation of Change"
+  },
+  "topic": {
+    "code": "6.2",
+    "text": "6.2: Approximating Areas with Riemann Sums"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Explain how an approximated value relates to the actual value."
+  }
+}

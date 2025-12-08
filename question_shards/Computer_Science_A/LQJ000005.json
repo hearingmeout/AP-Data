@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Nested conditional in minOfThree - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can be used to replace /* missing code */ so that the method works as intended?",
+    "description": "The following incomplete method is intended to return the minimum value among its three parameters.\n public static int minOfThree(int a, int b, int c)\n{\n /* missing code */\n}",
+    "question": "Which of the following can be used to replace /* missing code */ so that the method works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "if (a <= b) { if (a <= c) { return a; } else { return c; } } else { return b; }",
+        "label": "if (a <= b)\n{\n if (a <= c)\n {\n return a;\n }\n else \n {\n return c;\n }\n}\nelse \n{\n return b;\n}",
         "image": null
       },
       {
-        "label": "if (a <= b) { if (a <= c) { return a; } else if (b <= c) { return b; } } else { return c; }",
+        "label": "if (a <= b)\n{\n if (a <= c)\n {\n return a;\n }\n else if (b <= c)\n {\n return b;\n }\n}\nelse \n{\n return c;\n}",
         "image": null
       },
       {
-        "label": "if (a <= b || a <= c) { return a; } else if (b <= a || b <= c) { return b; } else { return c; }",
+        "label": "if (a <= b || a <= c)\n{\n return a;\n}\nelse if (b <= a || b <= c)\n{\n return b;\n}\nelse \n{\n return c;\n}",
         "image": null
       },
       {
-        "label": "if (a <= b && a <= c) { return a; } else if (b <= a && b <= c) { return b; } else { return c; }",
+        "label": "if (a <= b && a <= c)\n{\n return a;\n}\nelse if (b <= a && b <= c)\n{\n return b;\n}\nelse \n{\n return c;\n}",
         "image": null
       }
     ],
-    "answer": "if (a <= b && a <= c) { return a; } else if (b <= a && b <= c) { return b; } else { return c; }"
+    "answer": "if (a <= b && a <= c)\n{\n return a;\n}\nelse if (b <= a && b <= c)\n{\n return b;\n}\nelse \n{\n return c;\n}"
   },
   "unit": {
     "code": "2",

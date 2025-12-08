@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Point and Circle class constructors",
   "content": {
-    "description": "The question refer to the following declarations.",
-    "question": "public class Point { private double myX; private double myyY; // postcondition: this Point has coordinates (0,0) public Point () { /* implementation not shown */ } // postcondition: this Point has coordinates (x,y) public Point(double x, double y) { /* implementation not shown */ } // other methods not shown } public class Circle { private Point myCenter; private double myRadius; // postcondition: this Circle has center at (0, 0) and radius 0.0 public Circle() { /* implementation not shown */ } // postcondition: this Circle has the given center and radius public Circle(Point center, double radius) { /* implementation not shown */ } // other methods not shown } In a client program which of the following correctly declares and initializes Circle circ with center at (29.5, 33.0) and radius 10.0 ?",
+    "description": "",
+    "question": "The question refer to the following declarations.\n\npublic class Point\n\n{\n\nprivate double myX;\n\nprivate double myyY;\n\n// postcondition: this Point has coordinates (0,0)\n\npublic Point ()\n\n{ /* implementation not shown */ }\n\n// postcondition: this Point has coordinates (x,y)\n\npublic Point(double x, double y)\n\n{ /* implementation not shown */ }\n\n// other methods not shown\n\n}\n\npublic class Circle\n\n{\n\nprivate Point myCenter;\n\nprivate double myRadius;\n\n// postcondition: this Circle has center at (0, 0) and radius 0.0 \n\npublic Circle()\n\n{ /* implementation not shown */ }\n\n// postcondition: this Circle has the given center and radius\n\npublic Circle(Point center, double radius)\n\n{ /* implementation not shown */ }\n\n// other methods not shown\n\n}\n\nIn a client program which of the following correctly declares and initializes  Circle circ  with center at (29.5, 33.0) and radius 10.0 ?",
     "image": null,
     "choices": [
       {
@@ -16,11 +16,11 @@
         "image": null
       },
       {
-        "label": "Circle circ = new Circle(); circ.myCenter = new Point(29.5, 33.0); circ.myRadius = 10.0;",
+        "label": "Circle circ = new Circle();\n\ncirc.myCenter = new Point(29.5, 33.0);\n\ncirc.myRadius = 10.0;",
         "image": null
       },
       {
-        "label": "Circle circ = new Circle(); circ.myCenter = new Point(); circ.myCenter.myX = 29.5; circ.myCenter.myY = 33.0; cire.myRadius = 10.0;",
+        "label": "Circle circ = new Circle();\n\ncirc.myCenter = new Point();\n\ncirc.myCenter.myX = 29.5;\n\ncirc.myCenter.myY = 33.0;\n\ncire.myRadius = 10.0;",
         "image": null
       }
     ],

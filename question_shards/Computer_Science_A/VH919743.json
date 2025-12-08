@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Traverse fruits array",
   "content": {
-    "description": "The array fruits is declared below.",
-    "question": "String [] fruits = {\"apples\", \"bananas\", \"cherries\", \"dates\"};Which of the following code segments will cause an ArrayIndexOutOfBoundsException ?I.for (int i = 0; i <= fruits.length; i++){System.out.println(fruits[i]);}II.for (int i = 0; i <= fruits.length - 1; i++){System.out.println(fruits[i]);}III.for (int i = 1; i <= fruits.length; i++){System.out.println(fruits[i - 1]);}",
+    "description": "",
+    "question": "The array fruits is declared below.\n\nString [] fruits = {\"apples\", \"bananas\", \"cherries\", \"dates\"};\nWhich of the following code segments will cause an ArrayIndexOutOfBoundsException ?\n\nI.\nfor (int i = 0; i <= fruits.length; i++)\n{\nSystem.out.println(fruits[i]);\n}\n\nII.\nfor (int i = 0; i <= fruits.length - 1; i++)\n{\nSystem.out.println(fruits[i]);\n}\n\nIII.\nfor (int i = 1; i <= fruits.length; i++)\n{\nSystem.out.println(fruits[i - 1]);\n}",
     "image": null,
     "choices": [
       {

@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "hop count",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "for (int num = 0; num < 10; num += 2) { for (int val = 0; val < 5; val++) { System.out.println(\"hop\"); } } How many times will System.out.println(\"hop\") be executed?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nfor (int num = 0; num < 10; num += 2)\n\n{\n\nfor (int val = 0; val < 5; val++)\n\n{\n\nSystem.out.println(\"hop\");\n\n}\n\n}\n\nHow many times will System.out.println(\"hop\") be executed?",
     "image": null,
     "choices": [
       {

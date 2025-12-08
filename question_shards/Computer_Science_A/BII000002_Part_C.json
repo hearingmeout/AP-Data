@@ -3,12 +3,12 @@
   "type": "frq",
   "title": "Username creation - write code_Part_C",
   "content": {
-    "description": "",
-    "question": "Write a statement that uses the String method substring to extract the first initial of the first name from email and assign it to a variable. Use the results of this statement and the statements you wrote in part B to create and assign the correct value to a String variable for username 2.",
+    "description": "This question involves processing an email address to create three usernames.\n\nThe email address is stored in a  String  variable named  email,  which consists of a first name, followed by  \".\",  followed by a last name, followed by  \"@\",  followed by a domain name. Assume that the email address is stored in this format and the last name has at least three characters.\n\nThe usernames will be formatted as follows.\n\nUsername 1 will consist of the first name, followed by  \"_\",  followed by the last name.\n\nUsername 2 will consist of the first initial of the first name, followed by  \"_\",  followed by the last name.\n\nUsername 3 will consist of a randomly-selected character from the first name , followed by  \"_\",  followed by a sequence of three consecutive characters selected from a random position in the last name.\n\nExample 1\nSuppose  email  is equal to  \"joseph.martin@school.org\".\n\nUsername 1 will be  \"joseph_martin\".\n\nUsername 2 will be \"j_martin\".\n\nPossible values of Username 3 include  \"s_art\"  and  \"p_tin\".\n\nExample 2\nSuppose  email  is equal to  \"virginia.farmingham@school.net\".\n\nUsername 1 will be  \"virginia_farmingham\".\n\nUsername 2 will be \"v_farmingham\".\n\nPossible values of Username 3 include  \"g_ham\"  and  \"i_arm\".",
+    "question": "Write a statement that uses the  String  method  substring  to  extract the first initial of the first name from  email  and assign it to a variable. Use the results of this statement and the statements you wrote in part B to create and assign the correct value to a  String  variable for username 2.",
     "image": null,
     "frqParts": [
       {
-        "text": "Write a statement that uses the String method substring to extract the first initial of the first name from email and assign it to a variable. Use the results of this statement and the statements you wrote in part B to create and assign the correct value to a String variable for username 2.",
+        "text": "Write a statement that uses the  String  method  substring  to  extract the first initial of the first name from  email  and assign it to a variable. Use the results of this statement and the statements you wrote in part B to create and assign the correct value to a  String  variable for username 2.",
         "image": null
       }
     ]

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Discount at movie theater",
   "content": {
-    "description": "The following code segment is used to determine whether a customer is eligible for a discount on a movie ticket.",
-    "question": "val1 <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> (NOT (category = \"new\")) OR (age ≥ 65)val2 <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> (category = \"new\") AND (age < 12)If category is \"new\" and age is 20, what are the values of val1 and val2 as a result of executing the code segment?",
+    "description": "",
+    "question": "The following code segment is used to determine whether a customer is eligible for a discount on a movie ticket.\n\nval1 <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> (NOT (category = \"new\")) OR (age ≥ 65)\nval2 <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> (category = \"new\") AND (age < 12)\nIf category is \"new\" and age is 20, what are the values of val1 and val2 as a result of executing the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "val1 = true, val2 = true",
+        "label": "val1 = true, val2 = true",
         "image": null
       },
       {
-        "label": "val1 = true, val2 = false",
+        "label": "val1 = true, val2 = false",
         "image": null
       },
       {
-        "label": "val1 = false, val2 = true",
+        "label": "val1 = false, val2 = true",
         "image": null
       },
       {
-        "label": "val1 = false, val2 = false",
+        "label": "val1 = false, val2 = false",
         "image": null
       }
     ],
-    "answer": "val1 = false, val2 = false"
+    "answer": "val1 = false, val2 = false"
   },
   "topic": {
     "code": "3.5",

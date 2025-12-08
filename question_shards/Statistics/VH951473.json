@@ -1,0 +1,45 @@
+{
+  "id": "VH951473",
+  "type": "mcq",
+  "title": "Engine failure",
+  "content": {
+    "description": "",
+    "question": "At a research facility that designs rocket engines, researchers know that some engines fail to ignite as a result of fuel system error. From a random sample of 40 engines of one design, 14 failed to ignite as a result of fuel system error. From a random sample of 30 engines of a second design, 9 failed to ignite as a result of fuel system error. The researchers want to estimate the difference in the proportion of engine failures for the two designs. Which of the following is the most appropriate method to create the estimate?",
+    "image": null,
+    "choices": [
+      {
+        "label": "A one-sample <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math>-interval for a sample proportion",
+        "image": null
+      },
+      {
+        "label": "A one-sample <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math>-interval for a population proportion",
+        "image": null
+      },
+      {
+        "label": "A two-sample <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math>-interval for a population proportion",
+        "image": null
+      },
+      {
+        "label": "A two-sample <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math>-interval for a difference in sample proportions",
+        "image": null
+      },
+      {
+        "label": "A two-sample <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math>-interval for a difference in population proportions",
+        "image": null
+      }
+    ],
+    "answer": "A two-sample <math alttext=\"z\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>z</mi></mrow></mstyle></math>-interval for a difference in population proportions"
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.8",
+    "text": "6.8: Confidence Intervals for the Difference of Two Proportions"
+  },
+  "skill": {
+    "code": "Skill 1.D",
+    "text": "Skill 1.D: Identify an appropriate inference method for confidence intervals."
+  }
+}

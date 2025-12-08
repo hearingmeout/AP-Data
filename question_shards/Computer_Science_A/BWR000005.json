@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Traverse numbers array - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can replace /* missing code */ so that the code segment will work as intended?",
+    "description": "The following code segment is intended to set the array  numbers  to  {10, 20, 30, 40}.\n int[] numbers = new int[4]; \n/* missing code */",
+    "question": "Which of the following can replace  /* missing code */  so that the code segment will work as intended?",
     "image": null,
     "choices": [
       {
-        "label": "int x = 10; for (int value : numbers) { value = x; x += 10; }",
+        "label": "int x = 10; \nfor (int value : numbers) \n{ \n value = x; \n x += 10; \n}",
         "image": null
       },
       {
-        "label": "for (int j = 0; j < numbers.length; j++) { numbers[j] = j * 10; }",
+        "label": "for (int j = 0; j < numbers.length; j++) \n{ \n numbers[j] = j * 10; \n}",
         "image": null
       },
       {
-        "label": "numbers[0] = 10; for (int j = 0; j <numbers.length; j++) { numbers[j] = numbers[j] + 10; }",
+        "label": "numbers[0] = 10; \nfor (int j = 0; j <numbers.length; j++) \n{ \n numbers[j] = numbers[j] + 10; \n}",
         "image": null
       },
       {
-        "label": "numbers[3] = 40; for (int j = numbers.length - 1; j > 0; j--) { numbers[j - 1] = numbers[j] – 10; }",
+        "label": "numbers[3] = 40; \nfor (int j = numbers.length - 1; j > 0; j--) \n{ \n numbers[j - 1] = numbers[j] – 10; \n}",
         "image": null
       }
     ],
-    "answer": "numbers[3] = 40; for (int j = numbers.length - 1; j > 0; j--) { numbers[j - 1] = numbers[j] – 10; }"
+    "answer": "numbers[3] = 40; \nfor (int j = numbers.length - 1; j > 0; j--) \n{ \n numbers[j - 1] = numbers[j] – 10; \n}"
   },
   "unit": {
     "code": "4",

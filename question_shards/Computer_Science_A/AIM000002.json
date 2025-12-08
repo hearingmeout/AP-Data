@@ -3,20 +3,20 @@
   "type": "mcq",
   "title": "printSum and printProduct - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following method signatures.\n\nMethod Signature\nExplanationpublic void printSum(int x, double y) Prints the sum of  x  and  ypublic void printProduct(double x, int y)Prints the product of  x  and  y\n\nConsider the following code segment.\n int num1 = 5; \ndouble num2 = 10.0; \nprintSum(num1, num2); \nSystem.out.println();\nprintProduct(num1, num2);",
     "question": "What, if anything, is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "15 50",
+        "label": "15\n50",
         "image": null
       },
       {
-        "label": "15 50.0",
+        "label": "15\n50.0",
         "image": null
       },
       {
-        "label": "15.0 50.0",
+        "label": "15.0\n50.0",
         "image": null
       },
       {

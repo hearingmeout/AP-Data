@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "ArrayList Traversal - write the code",
   "content": {
-    "description": "",
-    "question": "Which of the following can replace /* missing code */ to produce this result?",
+    "description": "Consider the following code segment.\n ArrayList<Integer> myList = new ArrayList<Integer>(); \nmyList.add(75); \nmyList.add(20); \nmyList.add(99); \n\nArrayList<Integer> yourList = new ArrayList<Integer>(); \n/* missing code */\n\nAfter the code segment is executed,  yourList  should contain  [20, 99, 75].",
+    "question": "Which of the following can replace  /* missing code */  to produce this result?",
     "image": null,
     "choices": [
       {
-        "label": "int initialSize = myList.size(); for (int i = 0; i < initialSize; i++) { myList.add(2, myList.remove(0)); yourList.add(myList.get(0)); }",
+        "label": "int initialSize = myList.size(); \nfor (int i = 0; i < initialSize; i++)\n{ \n myList.add(2, myList.remove(0)); \n   yourList.add(myList.get(0)); \n}",
         "image": null
       },
       {
-        "label": "int initialSize = myList.size(); for (int i = 1; i <= initialSize; i++) { yourList.add(myList.get(i)); }",
+        "label": "int initialSize = myList.size(); \nfor (int i = 1; i <= initialSize; i++)\n{ \n yourList.add(myList.get(i)); \n}",
         "image": null
       },
       {
-        "label": "for (Integer temp : myList) { yourList.add(0, temp); }",
+        "label": "for (Integer temp : myList)\n{ \n yourList.add(0, temp);\n}",
         "image": null
       },
       {
-        "label": "for (Integer temp : myList) { myList.add(2, myList.remove(0)); yourList.add(temp); }",
+        "label": "for (Integer temp : myList)\n{ \n myList.add(2, myList.remove(0)); \n   yourList.add(temp); \n}",
         "image": null
       }
     ],
-    "answer": "int initialSize = myList.size(); for (int i = 0; i < initialSize; i++) { myList.add(2, myList.remove(0)); yourList.add(myList.get(0)); }"
+    "answer": "int initialSize = myList.size(); \nfor (int i = 0; i < initialSize; i++)\n{ \n myList.add(2, myList.remove(0)); \n   yourList.add(myList.get(0)); \n}"
   },
   "unit": {
     "code": "4",

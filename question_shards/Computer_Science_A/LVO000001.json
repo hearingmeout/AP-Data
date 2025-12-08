@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Using dot operator with Pair object - write code",
   "content": {
-    "description": "",
-    "question": "Assume that myPair is a properly declared and initialized Pair object that appears in a class other than Pair. Which of the following code segments will compile without error?",
+    "description": "Consider the following class declaration.\n public class Pair\n{\n private int x;\n private int y;\n\npublic Pair(int x1, int y1)\n {\n x = x1;\n y = y1;\n }\n\npublic int getX()\n {\n return x;\n }\n}",
+    "question": "Assume that  myPair  is a properly declared and initialized  Pair  object that appears in a class other than  Pair.  Which of the following code segments will compile without error?",
     "image": null,
     "choices": [
       {

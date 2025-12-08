@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "removeDups with ArrayList instance variable output",
   "content": {
-    "description": "The following question refer to the following information.",
-    "question": "Consider the following data field and method. The method removeDups is intended to remove all adjacent duplicate numbers from myData, but does not work as intended. private ArrayList myData; public void removeDups () { int k = 1; while (k < myData.size()) { if (myData.get(k).equals(myData.get(k - 1))) { myData.remove(k); } k++; } } For example, if myData has the values 3 3 4 4 4 8 7 7 7, after calling removeDups, myData should have the values 3 4 8 7. Assume that myData has the following values. 2 7 5 5 5 5 6 6 3 3 3 Which of the following represents myData after the incorrect removeDups is executed?",
+    "description": "",
+    "question": "The following question refer to the following information.\n\nConsider the following data field and method. The method removeDups is intended to remove all adjacent duplicate numbers from myData, but does not work as intended.\n\nprivate ArrayList myData;\n\npublic void removeDups ()\n\n{\n\nint k = 1;\n\nwhile (k < myData.size())\n\n{\n\nif (myData.get(k).equals(myData.get(k - 1)))\n\n{\n\nmyData.remove(k);\n\n}\n\nk++;\n\n}\n\n}\n\nFor example, if myData has the values 3 3 4 4 4 8 7 7 7, after calling removeDups, myData should have the values 3 4 8 7.\n\nAssume that myData has the following values.\n\n2 7 5 5 5 5 6 6 3 3 3\nWhich of the following represents myData after the incorrect removeDups is executed?",
     "image": null,
     "choices": [
       {

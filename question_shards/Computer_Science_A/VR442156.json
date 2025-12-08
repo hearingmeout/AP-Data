@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "compareThree method",
   "content": {
-    "description": "Consider the following incomplete method, which is intended to return true if the value of y is between the values of the other two parameters and false otherwise.",
-    "question": "/** Precondition: x, y, and z have 3 different values. */ public static boolean compareThree(int x, int y, int z) { return /* missing condition */ ; } The following table shows the results of several calls to compareThree. Call Result compareThree(4, 5, 6) true compareThree(6, 5, 4) true​ compareThree(5, 4, 6) false compareThree(3, 4, 4) violates precondition Which of the following can be used to replace /* missing condition */ so that compareThree will work as intended when called with parameters that satisfy its precondition?",
+    "description": "",
+    "question": "Consider the following incomplete method, which is intended to return true if the value of y is between the values of the other two parameters and false otherwise.\n\n/** Precondition: x, y, and z have 3 different values. */\n\npublic static boolean compareThree(int x, int y, int z)\n\n{\n\nreturn /* missing condition */ ;\n\n}\n\nThe following table shows the results of several calls to compareThree.\n\nCall\nResult\n\ncompareThree(4, 5, 6)\ntrue\n\ncompareThree(6, 5, 4)\ntrue​\n\ncompareThree(5, 4, 6)\nfalse\n\ncompareThree(3, 4, 4)\nviolates precondition\n\nWhich of the following can be used to replace /* missing condition */ so that compareThree will work as intended when called with parameters that satisfy its precondition?",
     "image": null,
     "choices": [
       {

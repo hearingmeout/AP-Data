@@ -1,0 +1,45 @@
+{
+  "id": "VH949712",
+  "type": "mcq",
+  "title": "Repeated sampling",
+  "content": {
+    "description": "",
+    "question": "Consider a 90 percent confidence interval for a population proportion <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>. Which of the following is a correct interpretation of the confidence level 90 percent?",
+    "image": null,
+    "choices": [
+      {
+        "label": "There is approximately a 90 percent chance that <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math> is contained in the interval.",
+        "image": null
+      },
+      {
+        "label": "There is approximately a 90 percent chance that a randomly selected proportion <math alttext=\"p hat\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mover><mrow><mi>p</mi></mrow><mrow><mo>^</mo></mrow></mover></mrow></mstyle></math> will be contained in the interval.",
+        "image": null
+      },
+      {
+        "label": "Approximately 90 percent of all possible sample proportions <math alttext=\"p hat\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mover><mrow><mi>p</mi></mrow><mrow><mo>^</mo></mrow></mover></mrow></mstyle></math> will be contained in the interval.",
+        "image": null
+      },
+      {
+        "label": "In repeated samplings with the same sample size, approximately 90 percent of the intervals created will capture the population proportion <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "In repeated samplings with the same sample size, approximately 90 percent of the intervals created will capture the sample proportion <math alttext=\"p hat\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mover><mrow><mi>p</mi></mrow><mrow><mo>^</mo></mrow></mover></mrow></mstyle></math>.",
+        "image": null
+      }
+    ],
+    "answer": "In repeated samplings with the same sample size, approximately 90 percent of the intervals created will capture the population proportion <math alttext=\"p\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>p</mi></mrow></mstyle></math>."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.3",
+    "text": "6.3: Justifying a Claim Based on a Confidence Interval for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 4.B",
+    "text": "Skill 4.B: Interpret statistical calculations and findings to assign meaning or assess a claim."
+  }
+}

@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Backyard equals method",
   "content": {
-    "description": "Consider the following class definition.",
-    "question": "public class Backyard { private int length; private int width; public Backyard(int l, int w) { length = l; width = w; } public int getLength() { return length; } public int getWidth() { return width; } public boolean equals(Object other) { if (other == null) { return false; } Backyard b = (Backyard) other; return (length == b.getLength() && width == b.getWidth()); } } The following code segment appears in a class other than Backyard. It is intended to print true if b1 and b2 have the same lengths and widths, and to print false otherwise. Assume that x, y, j, and k are properly declared and initialized variables of type int. Backyard b1 = new Backyard(x, y); Backyard b2 = new Backyard(j, k); System.out.println( /* missing code */ ); Which of the following can be used as a replacement for /* missing code */ so the code segment works as intended?",
+    "description": "",
+    "question": "Consider the following class definition.\n\npublic class Backyard\n\n{\n\nprivate int length;\n\nprivate int width;\n\npublic Backyard(int l, int w)\n\n{\n\nlength = l;\n\nwidth = w;\n\n}\n\npublic int getLength()\n\n{\n\nreturn length;\n\n}\n\npublic int getWidth()\n\n{\n\nreturn width;\n\n}\n\npublic boolean equals(Object other)\n\n{\n\nif (other == null)\n\n{\n\nreturn false;\n\n}\n\nBackyard b = (Backyard) other;\n\nreturn (length == b.getLength() && width == b.getWidth());\n\n}\n\n}\n\nThe following code segment appears in a class other than Backyard. It is intended to print true if b1 and b2 have the same lengths and widths, and to print false otherwise. Assume that x, y, j, and k are properly declared and initialized variables of type int.\n\nBackyard b1 = new Backyard(x, y);\n\nBackyard b2 = new Backyard(j, k);\n\nSystem.out.println( /* missing code */ );\n\nWhich of the following can be used as a replacement for /* missing code */ so the code segment works as intended?",
     "image": null,
     "choices": [
       {

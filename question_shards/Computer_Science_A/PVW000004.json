@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Dog class - explain error",
   "content": {
-    "description": "",
+    "description": "The  Dog  class contains a non-static  method named  calculateWalkLength  which can be called from a class other than  Dog.  The method takes an integer parameter for the number of minutes a dog is taken for a walk and returns a  double  representing the number of miles walked during that time.\n\nThe following code segment appears in a class other than  Dog.  The statement in line 2 causes a compile-time error.Dog fido = new Dog(); // line 1\ndouble miles = calculateWalkLength(fido, 90); // line 2",
     "question": "Which of the following can be used to replace line 2 so that this code segment will compile without error?",
     "image": null,
     "choices": [

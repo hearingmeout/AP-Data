@@ -4,24 +4,24 @@
   "title": "Nested conditionals to determine trivia winner",
   "content": {
     "description": "",
-    "question": "Three teams (Team A, Team B, and Team C) are participating in a trivia contest. Let scoreA represent the number of correct questions for Team A, scoreB represent the number of correct questions for Team B, and scoreC represent the number of correct questions for Team C. Assuming no two teams get the same number of correct questions, which of the following code segments correctly displays the team with the highest number of correct questions?",
+    "question": "Three teams (Team A, Team B, and Team C) are participating in a trivia contest. Let scoreA represent the number of correct questions for Team A, scoreB represent the number of correct questions for Team B, and scoreC represent the number of correct questions for Team C. Assuming no two teams get the same number of correct questions, which of the following code segments correctly displays the team with the highest number of correct questions?",
     "image": null,
     "choices": [
       {
         "label": "The figure presents one block of code that consists of 10 total lines. [Begin Block] Line 1: IF [begin block] scoreA is greater than scoreB [end block] [Begin Block] [begin block] Line 2: IF [begin block] scoreA is greater than scoreC [end block] [Begin block] Line 3: [begin block] DISPLAY [begin block]",
-        "image": "https://ap.oly.st/images/b47ee65f0ea6a9d38c0503052b5e22d5.png"
+        "image": null
       },
       {
         "label": "The figure presents one block of code that consists of 10 total lines. [Begin Block] Line 1: IF [begin block] scoreA is greater than scoreB [end block] [Begin Block] [begin block] Line 2: IF [begin block] scoreB is greater than scoreC [end block] [Begin block] Line 3: [begin block] DISPLAY [begin block]",
-        "image": "https://ap.oly.st/images/da1872006ae9839673ca8fdab4ccf17a.png"
+        "image": null
       },
       {
         "label": "The figure presents one block of code that consists of 10 total lines. [Begin Block] Line 1: IF [begin block] scoreA is greater than scoreB [end block] [Begin Block] [begin block] Line 2: IF [begin block] scoreC is greater than scoreA [end block] [Begin block] Line 3: [begin block] DISPLAY [begin block]",
-        "image": "https://ap.oly.st/images/3e5031235cb47f04814b3a381ea3a9af.png"
+        "image": null
       },
       {
         "label": "The figure presents one block of code that consists of 10 total lines. [Begin Block] Line 1: IF [begin block] scoreA is greater than scoreB [end block] [Begin Block] [begin block] Line 2: IF [begin block] scoreC is greater than scoreA [end block] [Begin block] Line 3: [begin block] DISPLAY [begin block]",
-        "image": "https://ap.oly.st/images/3d7a968f40ee4f475cc21b12fb79da9c.png"
+        "image": null
       }
     ],
     "answer": "The figure presents one block of code that consists of 10 total lines. [Begin Block] Line 1: IF [begin block] scoreA is greater than scoreB [end block] [Begin Block] [begin block] Line 2: IF [begin block] scoreA is greater than scoreC [end block] [Begin block] Line 3: [begin block] DISPLAY [begin block]"

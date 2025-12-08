@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Recursion - Describe initial conditions",
   "content": {
-    "description": "",
+    "description": "The following recursive method is intended to return  true  if  origNum  is divisible by each digit in  numsToDivideBy,  and to return  false  otherwise.  For example,  isDivisible(236, 24)  should return  true  because  236  is divisible by both  2  and  4.  The method does not always work as intended.\n public static boolean isDivisible(int origNum, int numsToDivideBy)\n{\n if (numsToDivideBy == 0)\n {\n return true;\n }\n else if (origNum % (numsToDivideBy % 10) != 0)\n {\n return false;\n }\n else\n {\n return isDivisible(origNum, numsToDivideBy / 10);\n }\n}",
     "question": "Which of the following method calls can be used to demonstrate that the method does not work as intended?",
     "image": null,
     "choices": [

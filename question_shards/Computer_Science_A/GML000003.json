@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Circumference of a circle - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following variable declarations are most appropriate to replace /* missing declarations */ in the code segment?",
+    "description": "The following code segment is intended to calculate the circumference  circ  of a circle whose diameter  diam  is  1.5.  The circumference of a circle is equal to its diameter times  pi.\n /* missing declarations */ \ncirc = pi * diam;",
+    "question": "Which of the following variable declarations are most appropriate to replace  /* missing declarations */  in the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "int pi = 3.14159; int diam = 1.5; final int circ;",
+        "label": "int pi = 3.14159; \nint diam = 1.5; \nfinal int circ;",
         "image": null
       },
       {
-        "label": "final int pi = 3.14159; int diam = 1.5; int circ;",
+        "label": "final int pi = 3.14159; \nint diam = 1.5; \nint circ;",
         "image": null
       },
       {
-        "label": "final double pi = 3.14159; double diam = 1.5; double circ;",
+        "label": "final double pi = 3.14159; \ndouble diam = 1.5; \ndouble circ;",
         "image": null
       },
       {
-        "label": "final double pi = 3.14159; final double diam = 1.5; final double circ = 0.0;",
+        "label": "final double pi = 3.14159; \nfinal double diam = 1.5; \nfinal double circ = 0.0;",
         "image": null
       }
     ],
-    "answer": "final double pi = 3.14159; double diam = 1.5; double circ;"
+    "answer": "final double pi = 3.14159; \ndouble diam = 1.5; \ndouble circ;"
   },
   "unit": {
     "code": "1",

@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Random ints x and y",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n int x = ((int) (Math.random() * 10)) + 5;\nint y = ((int) (Math.random() * 5)) + 10;\nSystem.out.println(x + \" \" + y);",
     "question": "Which of the following could be printed as a result of executing this code segment?",
     "image": null,
     "choices": [

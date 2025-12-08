@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Missing inner for loop header - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can be used to replace /* missing code */ so that this code segment works as intended?",
+    "description": "Consider the following code segment.\n for (int j = 0; j < 4; j++)\n{\n for (/* missing code */)\n {\n System.out.print(j + \" \");\n }\n System.out.println();\n}\n\nThis code segment is intended to produce the following output.\n 0\n1 1\n2 2 2\n3 3 3 3",
+    "question": "Which of the following can be used to replace /* missing code */ so that this code segment works as intended?",
     "image": null,
     "choices": [
       {

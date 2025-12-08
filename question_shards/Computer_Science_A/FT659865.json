@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "mystery with int array and 3 int parameters",
   "content": {
-    "description": "Consider the following method.",
-    "question": "// precondition: arr contains no duplicates; // the elements in arr are in sorted order; // 0 ≤ low ≤ arr.length; low - 1 ≤ high < arr.length public static int mystery(int[] arr, int low, int high, int num) { int mid = (low + high) / 2; if (low > high) { return low; } else if (arr[mid] < num) { return mystery(arr, mid + 1, high, num); } else if (arr[mid] > num) { return mystery(arr, low, mid - 1, num); } else // arr{mid] == num { return mid; } } How many calls to mystery (including the initial call) are made as a result of the call mystery(arr, 0, arr.length - 1, 14) if arr is the following array? 0 1 2 3 4 5 6 7 arr 11 13 25 26 29 30 31 32",
+    "description": "",
+    "question": "Consider the following method.\n\n// precondition: arr contains no duplicates;\n\n//               the elements in arr are in sorted order;\n\n//               0 ≤ low ≤ arr.length; low - 1 ≤ high < arr.length\n\npublic static int mystery(int[] arr, int low, int high, int num)\n\n{\n\nint mid = (low + high) / 2;\n\nif (low > high)\n\n{\n\nreturn low;\n\n}\n\nelse if (arr[mid] < num)\n\n{\n\nreturn mystery(arr, mid + 1, high, num);\n\n}\n\nelse if (arr[mid] > num)\n\n{\n\nreturn mystery(arr, low, mid - 1, num);\n\n}\n\nelse // arr{mid] == num\n\n{\n\nreturn mid;\n\n}\n\n}\n\nHow many calls to mystery (including the initial call) are made as a result of the call mystery(arr, 0, arr.length - 1, 14) if arr is the following array?\n\n0\n1\n2\n3\n4\n5\n6\n7\n\narr\n11\n13\n25\n26\n29\n30\n31\n32",
     "image": null,
     "choices": [
       {

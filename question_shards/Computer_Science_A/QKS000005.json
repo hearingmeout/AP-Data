@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "double count while less than 100 -determine result",
   "content": {
-    "description": "",
-    "question": "What is the value of count after executing the code segment?",
+    "description": "Consider the following code segment.\n int count = 5; \nwhile (count < 100) \n{\n count = count * 2; \n} \ncount = count + 1;",
+    "question": "What is the value of  count  after executing the code segment?",
     "image": null,
     "choices": [
       {

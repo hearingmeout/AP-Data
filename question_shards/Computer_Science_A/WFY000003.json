@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Recursive linear search - correct the error",
   "content": {
-    "description": "",
+    "description": "The following recursive method is intended to return the index of the first occurrence of  goal  in  arr  between index  start  and index  end,  inclusive.  The index of the first occurrence of  goal  is the index closest to  start  where  goal  is found.  If  goal  does not appear in the range of indices from  start  to  end,  the method returns  -1.  However, the method does not work as intended.  \n /** Precondition: 0 <= start <= end, end < arr.length */\npublic static int locateItem(int[] arr, int goal, int start, int end)\n{\n if (start == end) // Line 4\n {\n return -1;\n }\n else if (arr[start] == goal) // Line 8\n {\n return start; // Line 10\n }\n else\n {\n return locateItem(arr, goal, start + 1, end); // Line 14\n }\n}",
     "question": "Which of the following changes can be made so that the method works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "Changing line 4 to if (start > end)",
+        "label": "Changing line 4 to  if (start > end)",
         "image": null
       },
       {
-        "label": "Changing line 8 to else if (start == goal)",
+        "label": "Changing line 8 to  else if (start == goal)",
         "image": null
       },
       {
-        "label": "Changing line 10 to return arr[start];",
+        "label": "Changing line 10 to  return arr[start];",
         "image": null
       },
       {
-        "label": "Changing line 14 to return locateItem(arr, goal, start + 1, end + 1);",
+        "label": "Changing line 14 to  return locateItem(arr, goal, start + 1, end + 1);",
         "image": null
       }
     ],
-    "answer": "Changing line 4 to if (start > end)"
+    "answer": "Changing line 4 to  if (start > end)"
   },
   "unit": {
     "code": "4",

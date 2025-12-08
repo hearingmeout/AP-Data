@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "traverse oldVals to create newVals-determine resul",
   "content": {
-    "description": "",
-    "question": "What, if anything, will be the contents of newVals after executing the code segment?",
+    "description": "Consider the following code segment.\n boolean[] oldVals = {true, false, true, true};\nboolean[] newVals = new boolean[4];\nfor (int j = oldVals.length - 1; j >= 0; j--)\n{\n newVals[j] = !(oldVals[j]);\n}",
+    "question": "What, if anything, will be the contents of  newVals  after executing the code segment?",
     "image": null,
     "choices": [
       {
@@ -20,7 +20,7 @@
         "image": null
       },
       {
-        "label": "The array newVals will not contain any values because the code segment does not compile.",
+        "label": "The array  newVals  will not contain any values because the code segment does not compile.",
         "image": null
       }
     ],

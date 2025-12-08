@@ -3,25 +3,25 @@
   "type": "mcq",
   "title": "Which selection statements will display true",
   "content": {
-    "description": "Assume that the Boolean variable x is assigned the value true and the Boolean variable y is assigned the value false. Which of the following will display the value true ?",
-    "question": "Select two answers.",
+    "description": "",
+    "question": "Assume that the Boolean variable x is assigned the value true and the Boolean variable y is assigned the value false. Which of the following will display the value true ?\nSelect two answers.",
     "image": null,
     "choices": [
       {
         "label": "The figure presents a block of code that consists of 2 lines. Throughout the code are nested blocks of code. [Begin block] Line 1: IF [begin block] x [end block] [Begin Block] Line 2: [begin block] DISPLAY [begin block] x OR y [end block] [End Block] [End Block] [End Block]",
-        "image": "https://ap.oly.st/images/4ec22663b6b52b448497f3a7890ec55f.png"
+        "image": null
       },
       {
         "label": "The figure presents a block of code that consists of 2 lines. Throughout the code are nested blocks of code. [Begin block] Line 1: IF [begin block] x OR y [end block] [Begin Block] Line 2: [begin block] DISPLAY [begin block] x [end block] [End Block] [End Block] [End block]",
-        "image": "https://ap.oly.st/images/56c0c66582c7a864e973da4963429056.png"
+        "image": null
       },
       {
         "label": "The figure presents a block of code that consists of 2 lines. Throughout the code are nested blocks of code. [Begin block] Line 1: IF [begin block] x OR y [end block] [Begin Block] Line 2: [begin block] DISPLAY [begin block] x AND y [end block] [End Block] [End Block] [End Block]",
-        "image": "https://ap.oly.st/images/2cdcd708a2d3056f349e7e933c18b612.png"
+        "image": null
       },
       {
         "label": "The figure presents a block of code that consists of 2 lines. Throughout the code are nested blocks of code. [Begin block] Line 1: IF [begin block] x AND y [end block] [Begin Block] Line 2: [begin block] DISPLAY [begin block] x OR y [end block] [End Block] [End Block] [End block]",
-        "image": "https://ap.oly.st/images/66e7a131e0ea97e99f01037d0897cf44.png"
+        "image": null
       }
     ],
     "answer": "The figure presents a block of code that consists of 2 lines. Throughout the code are nested blocks of code. [Begin block] Line 1: IF [begin block] x [end block] [Begin Block] Line 2: [begin block] DISPLAY [begin block] x OR y [end block] [End Block] [End Block] [End Block]"

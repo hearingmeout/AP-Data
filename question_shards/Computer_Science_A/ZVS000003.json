@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Values of boolean after - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n boolean a = true;\nboolean b = false;\nboolean temp = a;\na = b;\nb = temp;\nSystem.out.println(a);\nSystem.out.println(b);",
     "question": "What is printed as a result of executing this code segment?",
     "image": null,
     "choices": [
       {
-        "label": "true true",
+        "label": "true\ntrue",
         "image": null
       },
       {
-        "label": "true false",
+        "label": "true\nfalse",
         "image": null
       },
       {
-        "label": "false true",
+        "label": "false\ntrue",
         "image": null
       },
       {
-        "label": "false false",
+        "label": "false\nfalse",
         "image": null
       }
     ],
-    "answer": "false true"
+    "answer": "false\ntrue"
   },
   "unit": {
     "code": "1",

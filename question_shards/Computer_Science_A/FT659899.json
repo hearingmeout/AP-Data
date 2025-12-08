@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "sol Method with int parameter",
   "content": {
-    "description": "Consider the following method.",
-    "question": "public int sol(int lim) { int s = 0; for (int outer = 1; outer <= lim; outer++) { for (int inner = outer; inner <= lim; inner++) { s++; } } return s; } What value is returned as a result of the call sol(10)?",
+    "description": "",
+    "question": "Consider the following method.\n\npublic int sol(int lim)\n\n{\n\nint s = 0;\n\nfor (int outer = 1; outer <= lim; outer++)\n\n{\n\nfor (int inner = outer; inner <= lim; inner++)\n\n{\n\ns++;\n\n}\n\n}\n\nreturn s;\n\n}\n\nWhat value is returned as a result of the call sol(10)?",
     "image": null,
     "choices": [
       {

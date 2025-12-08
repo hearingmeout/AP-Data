@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "ArrayList Traversals - describe behavior",
   "content": {
-    "description": "",
+    "description": "In the following code segment,  intList  is properly declared and initialized as an  ArrayList<Integer>  variable.\n int someVal = 0;\n\nfor (int i = 0; i < intList.size(); i += 2) \n{\n someVal++;\n}\n\nSystem.out.println(someVal);",
     "question": "Which of the following best describes the value printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "The sum of all the elements in intList",
+        "label": "The sum of all the elements in intList",
         "image": null
       },
       {
-        "label": "The number of elements in intList",
+        "label": "The number of elements in intList",
         "image": null
       },
       {
-        "label": "The number of even values in intList",
+        "label": "The number of even values in intList",
         "image": null
       },
       {
-        "label": "The number of elements in even-numbered indexes in intList",
+        "label": "The number of elements in even-numbered indexes in intList",
         "image": null
       }
     ],
-    "answer": "The number of elements in even-numbered indexes in intList"
+    "answer": "The number of elements in even-numbered indexes in intList"
   },
   "unit": {
     "code": "4",

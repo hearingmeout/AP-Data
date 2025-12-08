@@ -3,25 +3,25 @@
   "type": "mcq",
   "title": "Computer science midterm and final with MAX",
   "content": {
-    "description": "",
-    "question": "Which of the following could be used in the procedure to calculate a student’s total points earned in the course and store the result in the variable ?",
-    "image": "https://ap.oly.st/images/f3b1cc3aaf5fce7ee86406ebab606075.jpg",
+    "description": "Grades in a computer science course are based on total points earned on a midterm exam and a final exam. The teacher provides a way for students to improve their course grades if they receive high scores on the final exam: if a student’s final exam score is greater than the student’s midterm exam score, the final exam score replaces the midterm exam score in the calculation of total points.\n\nThe table below shows two students’ scores on the midterm and final exams and the calculated total points each student earns.\n\nKhalil does better on the midterm exam than on the final exam, so his original midterm and final exam scores are added to compute his total points.\n\nJosefina does better on the final exam than on the midterm exam, so her final exam score replaces her midterm exam score in the total points calculation.\n\nA programmer is writing a procedure to calculate a student’s final grade in the course using the score replacement policy described. The student’s exam scores are stored in the variables  and . The procedure  returns the larger of  and .",
+    "question": "Which of the following could be used in the procedure to calculate a student’s total points earned in the course and store the result in the variable  ?",
+    "image": null,
     "choices": [
       {
         "label": "One word, adjusted Total, left arrow, Max, open parenthesis, one word midterm Exam, comma, one word final Exam, close parenthesis",
-        "image": "https://ap.oly.st/images/075c145256c8d16d457a730bc8158340.jpg"
+        "image": null
       },
       {
         "label": "One word, adjusted Total, left arrow, Max, open parenthesis, one word midterm Exam, comma, one word final Exam, close parenthesis, plus one word final Exam",
-        "image": "https://ap.oly.st/images/cc58027f710c4076dac8b42ba3d81749.jpg"
+        "image": null
       },
       {
         "label": "One word, adjusted Total, left arrow, Max, open parenthesis, one word midterm Exam, comma, one word final Exam, close parenthesis, plus one word midterm Exam",
-        "image": "https://ap.oly.st/images/f68f15bd67d96597c205452a469100e1.jpg"
+        "image": null
       },
       {
         "label": "One word, adjusted Total, left arrow, 2 times Max, open parenthesis, one word midterm Exam, comma, one word final Exam, close parenthesis",
-        "image": "https://ap.oly.st/images/1570cd3494aeb14c6397043f3d75fbd2.jpg"
+        "image": null
       }
     ],
     "answer": "One word, adjusted Total, left arrow, Max, open parenthesis, one word midterm Exam, comma, one word final Exam, close parenthesis, plus one word final Exam"

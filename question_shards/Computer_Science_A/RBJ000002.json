@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Nested if statements - describe behavior",
   "content": {
-    "description": "",
+    "description": "In the following code segment,  num  is a properly declared and initialized  int  variable.\n if (num > 0)\n{\n if (num % 2 == 0)\n {\n System.out.println(\"X\");\n }\n else\n {\n System.out.println(\"Y\");\n }\n}",
     "question": "Which of the following best describes the behavior of the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "When num is a negative odd integer, \"X\" is printed; otherwise, \"Y\" is printed.",
+        "label": "When  num  is a negative odd integer,  \"X\"  is printed; otherwise,  \"Y\"  is printed.",
         "image": null
       },
       {
-        "label": "When num is a positive even integer, \"X\" is printed; otherwise, \"Y\" is printed.",
+        "label": "When  num  is a positive even integer,  \"X\"  is printed; otherwise,  \"Y\"  is printed.",
         "image": null
       },
       {
-        "label": "When num is a positive even integer, \"X\" is printed; when num is a positive odd integer, \"Y\" is printed; otherwise, nothing is printed.",
+        "label": "When  num  is a positive even integer,  \"X\"  is printed; when  num  is a positive odd integer,  \"Y\"  is printed; otherwise, nothing is printed.",
         "image": null
       },
       {
-        "label": "When num is a positive odd integer, \"X\" is printed; when num is a positive even integer, \"Y\" is printed; otherwise, nothing is printed.",
+        "label": "When  num  is a positive odd integer,  \"X\"  is printed; when  num  is a positive even integer,  \"Y\"  is printed; otherwise, nothing is printed.",
         "image": null
       }
     ],
-    "answer": "When num is a positive even integer, \"X\" is printed; when num is a positive odd integer, \"Y\" is printed; otherwise, nothing is printed."
+    "answer": "When  num  is a positive even integer,  \"X\"  is printed; when  num  is a positive odd integer,  \"Y\"  is printed; otherwise, nothing is printed."
   },
   "unit": {
     "code": "2",

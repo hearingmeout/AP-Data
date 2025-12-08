@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "OrderedPair class - describe behavior",
   "content": {
-    "description": "",
+    "description": "A student has created an  OrderedPair class to represent points on an 𝑥𝑦-plane. The class contains the following.\n\nA  double  variable named  x  to represent the 𝑥-coordinate of a point\n\nA  double  variable named  y  to represent the 𝑦-coordinate of a point\n\nA method named  printXY  that prints the values of  x  and  y\n\nThe object  origin  is declared as type  OrderedPair.",
     "question": "Which of the following statements is true?",
     "image": null,
     "choices": [
       {
-        "label": "origin is an instance of the OrderedPair class.",
+        "label": "origin  is an instance of the  OrderedPair  class.",
         "image": null
       },
       {
-        "label": "origin is an instance of two double objects.",
+        "label": "origin  is an instance of two  double  objects.",
         "image": null
       },
       {
-        "label": "OrderedPair is an instance of the origin object.",
+        "label": "OrderedPair  is an instance of the  origin  object.",
         "image": null
       },
       {
-        "label": "printXY is an instance of the OrderedPair class.",
+        "label": "printXY  is an instance of the  OrderedPair  class.",
         "image": null
       }
     ],
-    "answer": "origin is an instance of the OrderedPair class."
+    "answer": "origin  is an instance of the  OrderedPair  class."
   },
   "unit": {
     "code": "1",

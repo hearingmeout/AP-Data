@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "3 passes of insertion sort - determine result",
   "content": {
-    "description": "",
-    "question": "What will the contents of numList be after three passes of the outer loop (i.e., when j == 3 at the point indicated by /* end of outer loop */)?",
+    "description": "The following method is a correct implementation of the insertion sort algorithm. The method correctly sorts the elements of  numList  so that they appear in order from least to greatest.\n public static void insertionSort(ArrayList<Integer> numList)\n{\n for (int j = 1; j < numList.size(); j++)\n {\n int temp = numList.get(j);\n int k = j;\n while (k > 0 && temp < numList.get(k - 1))\n {\n numList.set(k, numList.get(k - 1));\n k--;\n }\n numList.set(k, temp);\n /* end of outer loop */\n }\n}\n\nAssume that  insertionSort  has been called with an  ArrayList  parameter that has been initialized with the following  Integer  objects.\n [60, 30, 10, 20, 50, 40]",
+    "question": "What will the contents of  numList  be after three passes of the outer loop (i.e., when  j == 3  at the point indicated by  /* end of outer loop */)?",
     "image": null,
     "choices": [
       {

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "my2Darr after nested traversal - determine result",
   "content": {
-    "description": "",
-    "question": "Which of the following represents the contents of my2Darr after executing this code segment?",
+    "description": "Consider the following code segment.\n int[][] my2Darr = new int[4][3];\n\nfor (int r = 0; r < my2Darr.length; r++)\n{\n for (int c = 0; c < my2Darr[0].length; c++) \n {\n if (r == c)\n {\n my2Darr[r][c] = r;\n }\n }\n}",
+    "question": "Which of the following represents the contents of  my2Darr  after executing this code segment?",
     "image": null,
     "choices": [
       {
-        "label": "{{0, 0, 0}, {0, 0, 0}, {0, 2, 0}, {0, 0, 3}}",
+        "label": "{{0, 0, 0},\n {0, 0, 0},\n {0, 2, 0},\n {0, 0, 3}}",
         "image": null
       },
       {
-        "label": "{{0, 0, 0}, {0, 1, 0}, {0, 0, 2}, {0, 0, 0}}",
+        "label": "{{0, 0, 0},\n {0, 1, 0},\n {0, 0, 2},\n {0, 0, 0}}",
         "image": null
       },
       {
-        "label": "{{0, 0, 0, 0}, {0, 0, 2, 0}, {0, 0, 0, 3}}",
+        "label": "{{0, 0, 0, 0},\n {0, 0, 2, 0},\n {0, 0, 0, 3}}",
         "image": null
       },
       {
-        "label": "{{0, 0, 0, 0}, {0, 1, 0, 0}, {0, 0, 2, 0}}",
+        "label": "{{0, 0, 0, 0},\n {0, 1, 0, 0},\n {0, 0, 2, 0}}",
         "image": null
       }
     ],
-    "answer": "{{0, 0, 0}, {0, 1, 0}, {0, 0, 2}, {0, 0, 0}}"
+    "answer": "{{0, 0, 0},\n {0, 1, 0},\n {0, 0, 2},\n {0, 0, 0}}"
   },
   "unit": {
     "code": "4",

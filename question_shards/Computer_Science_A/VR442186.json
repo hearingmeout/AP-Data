@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "for loop substring",
   "content": {
-    "description": "Consider the following method.",
-    "question": "public static int what(String str, String check) { int num = -1; int len = check.length(); for (int k = 0; k + len <= str.length(); k++) { String a = str.substring(k, k + len); if (a.equals(check)) { num = k; } } return num; } Assume that check occurs at least once in str. Which of the following best describes the value returned by the what method?",
+    "description": "",
+    "question": "Consider the following method.\n\npublic static int what(String str, String check)\n\n{\n\nint num = -1;\n\nint len = check.length();\n\nfor (int k = 0; k + len <= str.length(); k++)\n\n{\n\nString a = str.substring(k, k + len);\n\nif (a.equals(check))\n\n{\n\nnum = k;\n\n}\n\n}\n\nreturn num;\n\n}\n\nAssume that check occurs at least once in str. Which of the following best describes the value returned by the what method?",
     "image": null,
     "choices": [
       {
-        "label": "The number of times the string check occurs in str",
+        "label": "The number of times the string check occurs in str",
         "image": null
       },
       {
-        "label": "The index of the first occurrence of check inside str",
+        "label": "The index of the first occurrence of check inside str",
         "image": null
       },
       {
-        "label": "The index of the last occurrence of check inside str",
+        "label": "The index of the last occurrence of check inside str",
         "image": null
       },
       {
-        "label": "The number of substrings in str with the same length as check",
+        "label": "The number of substrings in str with the same length as check",
         "image": null
       }
     ],
-    "answer": "The index of the last occurrence of check inside str"
+    "answer": "The index of the last occurrence of check inside str"
   },
   "unit": {
     "code": "1",

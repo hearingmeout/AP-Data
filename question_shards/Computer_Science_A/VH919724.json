@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "array to be passed to transform method",
   "content": {
-    "description": "Consider the following method.",
-    "question": "public int[] transform(int[] a){a[0]++;a[2]++;return a;}The following code segment appears in a method in the same class as transform./* missing code */arr = transform(arr);After executing the code segment, the array arr should contain {1, 0, 1, 0}. Which of the following can be used to replace /* missing code */ so that the code segment works as intended?int[] arr = {0, 0, 0, 0};int[] arr = new int[0];int[] arr = new int[4];",
+    "description": "",
+    "question": "Consider the following method.\n\npublic int[] transform(int[] a)\n{\na[0]++;\na[2]++;\nreturn a;\n}\nThe following code segment appears in a method in the same class as transform.\n\n/* missing code */\narr = transform(arr);\nAfter executing the code segment, the array arr should contain {1, 0, 1, 0}. Which of the following can be used to replace /* missing code */ so that the code segment works as intended?\nint[] arr = {0, 0, 0, 0};\nint[] arr = new int[0];\nint[] arr = new int[4];",
     "image": null,
     "choices": [
       {

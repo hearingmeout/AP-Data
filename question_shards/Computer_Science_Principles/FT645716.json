@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Video-streaming  service by genre",
   "content": {
-    "description": "",
+    "description": "A video-streaming service maintains a database of information about its customers and the videos they have watched.\n\nThe program below analyzes the data in the database and compares the number of viewers of science fiction videos to the number of viewers of videos of other genres. It uses the procedure  , which returns the number of unique users who viewed videos of a given category in the past year. The  procedure takes approximately 1 hour to return a result, regardless of the number of videos of the given genre. All other operations happen nearly instantaneously.",
     "question": "Which of the following best approximates the amount of time it takes the program to execute?",
     "image": null,
     "choices": [

@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "puzzle method modification",
   "content": {
-    "description": "Consider the following method, which returns an int based on its parameter x.",
-    "question": "public static int puzzle(int x) { if (x > 20) { x -= 2; } else if (x % 2 == 0) // Line 7 { x += 4; } return x; } Consider a modification to the method that eliminates the else from line <math alttext=\"7\" display=\"inline\" overflow=\"scroll\"><mn>7</mn></math> so that line <math alttext=\"7\" display=\"inline\" overflow=\"scroll\"><mn>7</mn></math> becomesif (x % 2 == 0) // Modified line 7For which of the following values of x would the return values of the original method and the modified method differ?",
+    "description": "",
+    "question": "Consider the following method, which returns an int based on its parameter x.\n\npublic static int puzzle(int x)\n\n{\n\nif (x > 20)\n\n{\n\nx -= 2;\n\n}\n\nelse if (x % 2 == 0) // Line 7\n\n{\n\nx += 4;\n\n}\n\nreturn x;\n\n}\n\nConsider a modification to the method that eliminates the else from line <math alttext=\"7\" display=\"inline\" overflow=\"scroll\"><mn>7</mn></math> so that line <math alttext=\"7\" display=\"inline\" overflow=\"scroll\"><mn>7</mn></math> becomes\n\nif (x % 2 == 0) // Modified line 7\nFor which of the following values of x would the return values of the original method and the modified method differ?",
     "image": null,
     "choices": [
       {

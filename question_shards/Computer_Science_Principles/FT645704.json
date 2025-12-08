@@ -3,25 +3,25 @@
   "type": "mcq",
   "title": "Finding the maximum value of three using MAX",
   "content": {
-    "description": "",
+    "description": "An application program interface (API) provides a procedure Max, which returns the greater of its two integer arguments.\n\nA programmer would like to find the greatest of three integer values , , and .",
     "question": "Which of the following expressions will produce the desired result in every case?",
     "image": null,
     "choices": [
       {
         "label": "Max, open parenthesis, a comma b, close parenthesis, comma, c, close parenthesis",
-        "image": "https://ap.oly.st/images/078aafc7cdf9c3e2bba8163d07ac997f.jpg"
+        "image": null
       },
       {
         "label": "Max, open parenthesis, a comma b, close parenthesis, minus Max, open parenthesis, b comma c, close parenthesis",
-        "image": "https://ap.oly.st/images/68bdb3b0ebb5563292ed2a8649774c0b.jpg"
+        "image": null
       },
       {
         "label": "Max, open parenthesis, a comma b, close parenthesis, plus Max, open parenthesis b comma c, close parenthesis, minus Max, open parenthesis, a comma c, close parenthesis",
-        "image": "https://ap.oly.st/images/a6d989bb10f5c1dec824eb39b31df1fe.jpg"
+        "image": null
       },
       {
         "label": "Max, open parenthesis, a comma b, close parenthesis, plus Max, open parenthesis, b comma c, close parenthesis, close parenthesis, slash 2",
-        "image": "https://ap.oly.st/images/78f294724425ab1502f4c78b78490002.jpg"
+        "image": null
       }
     ],
     "answer": "Max, open parenthesis, a comma b, close parenthesis, comma, c, close parenthesis"

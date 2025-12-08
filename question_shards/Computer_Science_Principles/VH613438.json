@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Efficiency of driving route algorithms",
   "content": {
-    "description": "",
+    "description": "A company delivers packages by truck and would like to minimize the length of the route that each driver must travel in order to reach <math alttext=\"n\" overflow=\"scroll\"> <mstyle> <mrow> <mi>n</mi> </mrow> </mstyle> </math> delivery locations. The company is considering two different algorithms for determining delivery routes.\n\nAlgorithm I\nGenerate all possible routes, compute their lengths, and then select the shortest possible route. This algorithm does not run in reasonable time.\nAlgorithm II\nStarting from an arbitrary delivery location, find the nearest unvisited delivery location. Continue creating the route by selecting the nearest unvisited location until all locations have been visited. This algorithm does not guarantee the shortest possible route and runs in time proportional to <math alttext=\"n squared\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mstyle></math>.",
     "question": "Which of the following best categorizes algorithm II?",
     "image": null,
     "choices": [

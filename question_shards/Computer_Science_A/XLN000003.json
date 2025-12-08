@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "getDecimal method - describe conditions",
   "content": {
-    "description": "",
-    "question": "Suppose that fr is a properly instantiated reference to a Fraction object. Which of the following best describes the conditions under which the call fr.getDecimal() will fail to return a value?",
+    "description": "Consider the following class definition.\n public class Fraction\n{\n private int numerator;\n private int denominator;\n\npublic Fraction(int n, int d)\n {\n numerator = n;\n denominator = d;\n }\n\ndouble getDecimal()\n {\n return (double) numerator / denominator;\n }\n}",
+    "question": "Suppose that  fr  is a properly instantiated reference to a  Fraction  object. Which of the following best describes the conditions under which the call  fr.getDecimal()  will fail to return a value?",
     "image": null,
     "choices": [
       {
-        "label": "When the instance variables numerator and denominator have the same value",
+        "label": "When the instance variables  numerator  and  denominator  have the same value",
         "image": null
       },
       {
-        "label": "When the instance variables numerator and denominator have different values",
+        "label": "When the instance variables  numerator  and  denominator  have different values",
         "image": null
       },
       {
-        "label": "When the instance variable denominator is equal to 0",
+        "label": "When the instance variable  denominator  is equal to  0",
         "image": null
       },
       {
-        "label": "When the instance variable denominator is negative",
+        "label": "When the instance variable  denominator  is negative",
         "image": null
       }
     ],
-    "answer": "When the instance variable denominator is equal to 0"
+    "answer": "When the instance variable  denominator  is equal to  0"
   },
   "unit": {
     "code": "1",

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Value returned by enigma - describe behavior",
   "content": {
-    "description": "",
+    "description": "Consider the following method. When an element of the two-dimensional array  values  is accessed, the first index is used to specify the row and the second index is used to specify the column.\n public static int enigma(int[][] values, int x, int target)\n{\n int result = 0;\n for (int num : values[x])\n {\n if (num == target)\n {\n result++;\n }\n }\n return result;\n}",
     "question": "Which of the following best describes the value returned by the method?",
     "image": null,
     "choices": [
       {
-        "label": "The index of a column in values that contains at least one element equal to target",
+        "label": "The index of a column in  values  that contains at least one element equal to  target",
         "image": null
       },
       {
-        "label": "The index of a row in values that contains at least one element equal to target",
+        "label": "The index of a row in  values  that contains at least one element equal to  target",
         "image": null
       },
       {
-        "label": "The number of times that an element equal to target appears in column x of values",
+        "label": "The number of times that an element equal to  target  appears in column  x  of  values",
         "image": null
       },
       {
-        "label": "The number of times that an element equal to target appears in row x of values",
+        "label": "The number of times that an element equal to  target  appears in row  x  of  values",
         "image": null
       }
     ],
-    "answer": "The number of times that an element equal to target appears in row x of values"
+    "answer": "The number of times that an element equal to  target  appears in row  x  of  values"
   },
   "unit": {
     "code": "4",

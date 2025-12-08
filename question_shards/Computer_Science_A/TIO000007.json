@@ -3,12 +3,12 @@
   "type": "mcq",
   "title": "2D array traversal - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n String[][] words = {{\"Hello,\", \"Hi,\", \"Hey,\"}, \n                  {\"it's\", \"it is\", \"it really is\"}, \n                  {\"nice\", \"great\", \"a pleasure\"}, \n                  {\"to\", \"to get to\", \"to finally\"}, \n                  {\"meet\", \"see\", \"catch up with\"}, \n                  {\"you\", \"you again\", \"you all\"}}; \n\nfor (int j = 0; j < words.length; j++) \n{ \n   for (int k = 0; k < words[j].length; k++) \n   { \n      if (k == 1) \n      { \n         System.out.print(words[j][k] + \" \"); \n      } \n   } \n}",
     "question": "What, if anything, is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "Nothing is printed due to an ArrayIndexOutOfBoundsException.",
+        "label": "Nothing is printed due to an  ArrayIndexOutOfBoundsException.",
         "image": null
       },
       {

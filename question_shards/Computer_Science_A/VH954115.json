@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "remove even ArrayList elements",
   "content": {
-    "description": "Consider the following method, which is intended to return a list containing the elements of the parameter myList with all even elements removed.",
-    "question": "public static ArrayList<Integer> removeEvens(ArrayList<Integer> myList){for (int i = 0; i < myList.size(); i++){if (myList.get(i) % 2 == 0){myList.remove(i);}}return myList;}Which of the following best explains why the code segment does not work as intended?",
+    "description": "",
+    "question": "Consider the following method, which is intended to return a list containing the elements of the parameter myList with all even elements removed.\n\npublic static ArrayList<Integer> removeEvens(ArrayList<Integer> myList)\n{\nfor (int i = 0; i < myList.size(); i++)\n{\nif (myList.get(i) % 2 == 0)\n{\nmyList.remove(i);\n}\n}\nreturn myList;\n}\nWhich of the following best explains why the code segment does not work as intended?",
     "image": null,
     "choices": [
       {
-        "label": "The code segment causes an IndexOutOfBoundsException for lists with at least one even element because the indexes of all subsequent elements change by one when a list element is removed.",
+        "label": "The code segment causes an IndexOutOfBoundsException for lists with at least one even element because the indexes of all subsequent elements change by one when a list element is removed.",
         "image": null
       },
       {
-        "label": "The code segment returns a list with fewer elements than intended because it fails to consider the last element of myList.",
+        "label": "The code segment returns a list with fewer elements than intended because it fails to consider the last element of myList.",
         "image": null
       },
       {
-        "label": "The code segment removes the wrong elements of myList because the condition in the if statement to test whether an element is even is incorrect.",
+        "label": "The code segment removes the wrong elements of myList because the condition in the if statement to test whether an element is even is incorrect.",
         "image": null
       },
       {
-        "label": "The code segment skips some elements of myList because the indexes of all subsequent elements change by one when a list element is removed.",
+        "label": "The code segment skips some elements of myList because the indexes of all subsequent elements change by one when a list element is removed.",
         "image": null
       }
     ],
-    "answer": "The code segment skips some elements of myList because the indexes of all subsequent elements change by one when a list element is removed."
+    "answer": "The code segment skips some elements of myList because the indexes of all subsequent elements change by one when a list element is removed."
   },
   "unit": {
     "code": "4",

@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "modify contents of array arr",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "int[] arr = {1, 2, 3, 4, 5, 6, 7};for (int i = 1; i < arr.length; i += 2){arr[i] = arr[i - 1];}Which of the following represents the contents of the array arr after the code segment is executed?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nint[] arr = {1, 2, 3, 4, 5, 6, 7};\nfor (int i = 1; i < arr.length; i += 2)\n{\narr[i] = arr[i - 1];\n}\nWhich of the following represents the contents of the array arr after the code segment is executed?",
     "image": null,
     "choices": [
       {

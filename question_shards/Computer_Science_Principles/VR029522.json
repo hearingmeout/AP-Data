@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Number of elements in one list but not both",
   "content": {
-    "description": "",
-    "question": "Which of the following can be used to assign the intended value to count ?",
+    "description": "Consider two lists of numbers called list1 and list2. A programmer wants to determine how many different values appear in both lists. For example, if list1 contains [10, 10, 20, 30, 40, 50, 60] and list2 contains [20, 20, 40, 60, 80], then there are three different values that appear in both lists (20, 40, and 60).\n\nThe programmer has the following procedures available.\n\nProcedure Call\nExplanation\n\nCombine (myList1, myList2)\nThis procedure creates a new list containing the elements from uFEFFmyList1 ​followed by the entries from myList2. The resulting list is returned. For example, if myList1 contains [2, 4, 6] and myList2 contains [1, 5], the procedure will return the list [2, 4, 6, 1, 5].\n\nRemoveAllDups (myList)\nThis procedure creates a new list containing the elements of myList with any duplicate values removed. The resulting list is returned. For example, if myList contains [3, 2, 4, 2, 2, 5, 6, 4], the procedure will return the list [3, 2, 4, 5, 6].",
+    "question": "Which of the following can be used to assign the intended value to count ?",
     "image": null,
     "choices": [
       {
-        "label": "bothList <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Combine (list1, list2)uniqueList <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> RemoveAllDups (bothList)count <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH (bothList) - LENGTH (uniqueList)",
+        "label": "bothList <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Combine (list1, list2)\nuniqueList <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> RemoveAllDups (bothList)\ncount <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH (bothList) - LENGTH (uniqueList)",
         "image": null
       },
       {
-        "label": "newList1 <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> RemoveAllDups (list1)newList2 <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> RemoveAllDups (list2)bothList <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Combine (newList1, newList2)count <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH (list1) + LENGTH (list2) - LENGTH (bothList)",
+        "label": "newList1 <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> RemoveAllDups (list1)\nnewList2 <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> RemoveAllDups (list2)\nbothList <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Combine (newList1, newList2)\ncount <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH (list1) + LENGTH (list2) - LENGTH (bothList)",
         "image": null
       },
       {
-        "label": "newList1 <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> RemoveAllDups (list1)newList2 <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> RemoveAllDups (list2)bothList <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Combine (newList1, newList2)count <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH (newList1) + LENGTH (newList2) - LENGTH (bothList)",
+        "label": "newList1 <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> RemoveAllDups (list1)\nnewList2 <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> RemoveAllDups (list2)\nbothList <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Combine (newList1, newList2)\ncount <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH (newList1) + LENGTH (newList2) - LENGTH (bothList)",
         "image": null
       },
       {
-        "label": "newList1 <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> RemoveAllDups (list1)newList2 <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> RemoveAllDups (list2)bothList <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Combine (newList1, newList2)uniqueList <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> RemoveAllDups (bothList)count <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH (bothList) - LENGTH (uniqueList)",
+        "label": "newList1 <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> RemoveAllDups (list1)\nnewList2 <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> RemoveAllDups (list2)\nbothList <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Combine (newList1, newList2)\nuniqueList <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> RemoveAllDups (bothList)\ncount <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH (bothList) - LENGTH (uniqueList)",
         "image": null
       }
     ],
-    "answer": "newList1 <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> RemoveAllDups (list1)newList2 <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> RemoveAllDups (list2)bothList <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Combine (newList1, newList2)uniqueList <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> RemoveAllDups (bothList)count <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH (bothList) - LENGTH (uniqueList)"
+    "answer": "newList1 <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> RemoveAllDups (list1)\nnewList2 <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> RemoveAllDups (list2)\nbothList <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> Combine (newList1, newList2)\nuniqueList <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> RemoveAllDups (bothList)\ncount <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH (bothList) - LENGTH (uniqueList)"
   },
   "topic": {
     "code": "3.12",

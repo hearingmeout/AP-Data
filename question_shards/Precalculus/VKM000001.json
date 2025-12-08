@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Matrices as Functions - inverse of rotation matrix",
   "content": {
-    "description": "<math alttext=\"A equals a 2 by 2 matrix with row 1 column 1 value cos pi over 6, row 1 column 2 value negative sin pi over 6, row 2 column 1 value sin pi over 6, row 2 column 2 value cos pi over 6\"><mi>A</mi><mo>=</mo><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mi>cos</mi><mfrac><mi>π</mi><mn>6</mn></mfrac></mtd><mtd><mo>-</mo><mi>sin</mi><mfrac><mi>π</mi><mn>6</mn></mfrac></mtd></mtr><mtr><mtd><mi>sin</mi><mfrac><mi>π</mi><mn>6</mn></mfrac></mtd><mtd><mi>cos</mi><mfrac><mi>π</mi><mn>6</mn></mfrac></mtd></mtr></mtable></mfenced></math>",
-    "question": "Matrix <math alttext=\"A\"><mi>A</mi></math> is given. The linear transformation function <math alttext=\"L\"><mi>L</mi></math> is given by <math alttext=\"L open parentheses vector v close parentheses equals A inverse times vector v\"><mi>L</mi><mfenced><mover><mi>v</mi><mo>→</mo></mover></mfenced><mo>=</mo><msup><mi>A</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mover><mi>v</mi><mo>→</mo></mover></math>, where <math alttext=\"A inverse\"><msup><mi>A</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> is the inverse of matrix <math alttext=\"A\"><mi>A</mi></math> and <math alttext=\"vector v\"><mover><mi>v</mi><mo>→</mo></mover></math> is a column vector. Which of the following describes the linear transformation <math alttext=\"L\"><mi>L</mi></math> ?",
+    "description": "",
+    "question": "<math alttext=\"A equals a 2 by 2 matrix with row 1 column 1 value cos pi over 6, row 1 column 2 value negative sin pi over 6, row 2 column 1 value sin pi over 6, row 2 column 2 value cos pi over 6\"><mi>A</mi><mo>=</mo><mfenced close=\"]\" open=\"[\"><mtable><mtr><mtd><mi>cos</mi><mfrac><mi>π</mi><mn>6</mn></mfrac></mtd><mtd><mo>-</mo><mi>sin</mi><mfrac><mi>π</mi><mn>6</mn></mfrac></mtd></mtr><mtr><mtd><mi>sin</mi><mfrac><mi>π</mi><mn>6</mn></mfrac></mtd><mtd><mi>cos</mi><mfrac><mi>π</mi><mn>6</mn></mfrac></mtd></mtr></mtable></mfenced></math>\n\nMatrix <math alttext=\"A\"><mi>A</mi></math> is given. The linear transformation function <math alttext=\"L\"><mi>L</mi></math> is given by <math alttext=\"L open parentheses vector v close parentheses equals A inverse times vector v\"><mi>L</mi><mfenced><mover><mi>v</mi><mo>→</mo></mover></mfenced><mo>=</mo><msup><mi>A</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup><mover><mi>v</mi><mo>→</mo></mover></math>, where <math alttext=\"A inverse\"><msup><mi>A</mi><mrow><mo>-</mo><mn>1</mn></mrow></msup></math> is the inverse of matrix <math alttext=\"A\"><mi>A</mi></math> and <math alttext=\"vector v\"><mover><mi>v</mi><mo>→</mo></mover></math> is a column vector. Which of the following describes the linear transformation <math alttext=\"L\"><mi>L</mi></math> ?",
     "image": null,
     "choices": [
       {
-        "label": "<math alttext=\"L\"><mi>L</mi></math> produces a rotation of vectors by <math alttext=\"pi over 6\"><mfrac><mi>π</mi><mn>6</mn></mfrac></math> radians clockwise about the origin.",
+        "label": "<math alttext=\"L\"><mi>L</mi></math> produces a rotation of vectors by <math alttext=\"pi over 6\"><mfrac><mi>π</mi><mn>6</mn></mfrac></math> radians clockwise about the origin.",
         "image": null
       },
       {
-        "label": "<math alttext=\"L\"><mi>L</mi></math> produces a rotation of vectors by <math alttext=\"pi over 6\"><mfrac><mi>π</mi><mn>6</mn></mfrac></math> radians counterclockwise about the origin.",
+        "label": "<math alttext=\"L\"><mi>L</mi></math> produces a rotation of vectors by <math alttext=\"pi over 6\"><mfrac><mi>π</mi><mn>6</mn></mfrac></math> radians counterclockwise about the origin.",
         "image": null
       },
       {
-        "label": "<math alttext=\"L\"><mi>L</mi></math> produces a rotation of vectors by <math alttext=\"pi over 3\"><mfrac><mi>π</mi><mn>3</mn></mfrac></math> radians clockwise about the origin.",
+        "label": "<math alttext=\"L\"><mi>L</mi></math> produces a rotation of vectors by <math alttext=\"pi over 3\"><mfrac><mi>π</mi><mn>3</mn></mfrac></math> radians clockwise about the origin.",
         "image": null
       },
       {
-        "label": "<math alttext=\"L\"><mi>L</mi></math> produces a rotation of vectors by <math alttext=\"pi over 3\"><mfrac><mi>π</mi><mn>3</mn></mfrac></math> radians counterclockwise about the origin.",
+        "label": "<math alttext=\"L\"><mi>L</mi></math> produces a rotation of vectors by <math alttext=\"pi over 3\"><mfrac><mi>π</mi><mn>3</mn></mfrac></math> radians counterclockwise about the origin.",
         "image": null
       }
     ],
-    "answer": "<math alttext=\"L\"><mi>L</mi></math> produces a rotation of vectors by <math alttext=\"pi over 6\"><mfrac><mi>π</mi><mn>6</mn></mfrac></math> radians clockwise about the origin."
+    "answer": "<math alttext=\"L\"><mi>L</mi></math> produces a rotation of vectors by <math alttext=\"pi over 6\"><mfrac><mi>π</mi><mn>6</mn></mfrac></math> radians clockwise about the origin."
   },
   "unit": {
     "code": "4",

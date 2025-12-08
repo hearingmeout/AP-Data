@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Box class addWeight",
   "content": {
-    "description": "Consider the following class definition.",
-    "question": "public class Box { private double weight; /** Postcondition: weight is initialized to w. */ public Box(double w) { /* implementation not shown */ } public double getWeight() { return weight; } public void addWeight(double aw) { /* missing statement */ } } The following code segment, which appears in a class other than Box, is intended to create a Box object b1 with a weight of <math alttext=\"2.2\" overflow=\"scroll\"><mn>2.2</mn></math> units and then increase the weight of b1 by <math alttext=\"1.5\" overflow=\"scroll\"><mn>1.5</mn></math> units. Box b1 = new Box(2.2); b1.addWeight(1.5); Which of the following statements could replace /* missing statement */ so that the code segment works as intended?",
+    "description": "",
+    "question": "Consider the following class definition.\n\npublic class Box\n\n{\n\nprivate double weight;\n\n/** Postcondition: weight is initialized to w. */\n\npublic Box(double w)\n\n{\n\n/* implementation not shown */\n\n}\n\npublic double getWeight()\n\n{\n\nreturn weight;\n\n}\n\npublic void addWeight(double aw)\n\n{\n\n/* missing statement */\n\n}\n\n}\n\nThe following code segment, which appears in a class other than Box, is intended to create a Box object b1 with a weight of <math alttext=\"2.2\" overflow=\"scroll\"><mn>2.2</mn></math> units and then increase the weight of b1 by <math alttext=\"1.5\" overflow=\"scroll\"><mn>1.5</mn></math> units.\n\nBox b1 = new Box(2.2);\n\nb1.addWeight(1.5);\n\nWhich of the following statements could replace /* missing statement */ so that the code segment works as intended?",
     "image": null,
     "choices": [
       {

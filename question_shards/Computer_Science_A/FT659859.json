@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "mystery with ArrayList and int parameter",
   "content": {
-    "description": "Consider the following data field and method.",
-    "question": "private ArrayList list; public void mystery(int n) { for (int k = 0; k < n; k++) { Object obj = list.remove(0); list.add(obj); } } Assume that list has been initialized with the following Integer objects. [12, 9, 7, 8, 4, 3, 6, 11, 1] Which of the following represents the list as a result of a call to mystery(3)?",
+    "description": "",
+    "question": "Consider the following data field and method.\n\nprivate ArrayList list;\n\npublic void mystery(int n)\n\n{\n\nfor (int k = 0; k < n; k++)\n\n{\n\nObject obj = list.remove(0);\n\nlist.add(obj);\n\n}\n\n}\n\nAssume that list has been initialized with the following Integer objects.\n\n[12, 9, 7, 8, 4, 3, 6, 11, 1]\n\nWhich of the following represents the list as a result of a call to mystery(3)?",
     "image": null,
     "choices": [
       {

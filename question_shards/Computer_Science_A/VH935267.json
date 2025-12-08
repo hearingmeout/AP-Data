@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Fishtank class",
   "content": {
-    "description": "Consider the following class definition.",
-    "question": "public class FishTank{private double numGallons;private boolean saltWater;public FishTank(double gals, boolean sw){numGallons = gals;saltWater = sw;}public double getNumGallons(){return numGallons;}public boolean isSaltWater(){if (saltWater){return \"Salt Water\";}else{return \"Fresh Water\";}}}Which of the following best explains the reason why the class will not compile?",
+    "description": "",
+    "question": "Consider the following class definition.\n\npublic class FishTank\n{\nprivate double numGallons;\nprivate boolean saltWater;\n\npublic FishTank(double gals, boolean sw)\n{\nnumGallons = gals;\nsaltWater = sw;\n}\n\npublic double getNumGallons()\n{\nreturn numGallons;\n}\n\npublic boolean isSaltWater()\n{\nif (saltWater)\n{\nreturn \"Salt Water\";\n}\nelse\n{\nreturn \"Fresh Water\";\n}\n}\n}\nWhich of the following best explains the reason why the class will not compile?",
     "image": null,
     "choices": [
       {
-        "label": "The variable saltWater is not declared in the isSaltWater method.",
+        "label": "The variable saltWater is not declared in the isSaltWater method.",
         "image": null
       },
       {
-        "label": "The isSaltWater method does not return the value of an instance variable.",
+        "label": "The isSaltWater method does not return the value of an instance variable.",
         "image": null
       },
       {
-        "label": "The value returned by the getNumGallons method is not compatible with the return type of the method.",
+        "label": "The value returned by the getNumGallons method is not compatible with the return type of the method.",
         "image": null
       },
       {
-        "label": "The value returned by the isSaltWater method is not compatible with the return type of the method.",
+        "label": "The value returned by the isSaltWater method is not compatible with the return type of the method.",
         "image": null
       }
     ],
-    "answer": "The value returned by the isSaltWater method is not compatible with the return type of the method."
+    "answer": "The value returned by the isSaltWater method is not compatible with the return type of the method."
   },
   "unit": {
     "code": "3",

@@ -3,25 +3,25 @@
   "type": "mcq",
   "title": "Error in numOccurrences procedure",
   "content": {
-    "description": "For which of the following code segments will the call to NumOccurrences NOT return the intended value?",
-    "question": "Select two answers.",
+    "description": "The procedure NumOccurrences is intended to count and return the number of times targetWord appears in the list wordList. The procedure does not work as intended.",
+    "question": "For which of the following code segments will the call to NumOccurrences NOT return the intended value?\n\nSelect two answers.",
     "image": null,
     "choices": [
       {
         "label": "The figure presents two blocks of code that consist of 2 lines. Within both blocks of code there is a nested block of code. Line 1: [begin block] treeList ← [begin block] “birch”, “maple”, “birch” [end block] [end block] Line 2: [begin block] numOccurences [begin block] treeList, “birch” [end block] [end block]",
-        "image": "https://ap.oly.st/images/90d0e578aef8701ca8b897918588682b.png"
+        "image": null
       },
       {
         "label": "The figure presents two blocks of code that consist of 2 lines. Within both blocks of code there is a nested block of code. Line 1: [begin block] treeList ← [begin block] “birch”, “maple”, “birch” [end block] [end block] Line 2: [begin block] numOccurences [begin block] treeList, “maple” [end block] [end block]",
-        "image": "https://ap.oly.st/images/ea5bda13f14ba40846d240b88531a0e3.png"
+        "image": null
       },
       {
         "label": "The figure presents two blocks of code that consist of 2 lines. Within both blocks of code there is a nested block of code. Line 1: [begin block] treeList ← [begin block] “birch”, “maple”, “oak” [end block] [end block] Line 2: [begin block] numOccurences [begin block] treeList, “oak” [end block] [end block]",
-        "image": "https://ap.oly.st/images/e2d8e5d8d4d43f7a6be53355937ea5a7.png"
+        "image": null
       },
       {
         "label": "The figure presents two blocks of code that consist of 2 lines. Within both blocks of code there is a nested block of code. Line 1: [begin block] treeList ← [begin block] “birch”, “maple”, “oak” [end block] [end block] Line 2: [begin block] numOccurences [begin block] treeList, “spruce” [end block] [end block]",
-        "image": "https://ap.oly.st/images/39f6810cce8607592f189cfa5deac69c.png"
+        "image": null
       }
     ],
     "answer": "The figure presents two blocks of code that consist of 2 lines. Within both blocks of code there is a nested block of code. Line 1: [begin block] treeList ← [begin block] “birch”, “maple”, “birch” [end block] [end block] Line 2: [begin block] numOccurences [begin block] treeList, “birch” [end block] [end block]"

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Graph of Function - Rate of Change Behavior",
   "content": {
-    "description": "",
-    "question": "Of the following, on which intervals is the rate of change of <math alttext=\"g\"> <mi>g</mi> </math> decreasing?",
+    "description": "The x axis ranges from 0 to 13 in increments of 1. The y axis ranges from negative 200 to 450 in increments of 50. All coordinates are approximate.\n\nMoving from left to right:\n\nThe curve begins at (0 comma 420). This point is labeled A.\n\nThe curve decreases at a lesser and lesser rate to reach a relative minimum at (3.8 comma negative 180). This point is labeled B.\n\nThe curve increases at a greater and greater rate to reach point C at (7 comma 20).\n\nThe curve continues to increase, but at a lesser and lesser rate, to reach point D at (10.2 comma 210). This is a relative maximum.\n\nThe curve decreases at a greater and greater rate until reaching the point E at (13 comma negative 100), at which point the curve ends.\n\nThe figure shows the graph of function <math alttext=\"g\"><mi>g</mi></math> for <math alttext=\"0 less or equal than x less or equal than 13\"><mn>0</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>13</mn></math>. The endpoints of the interval are labeled with points <math alttext=\"A\"><mi>A</mi></math> and <math alttext=\"E\"><mi>E</mi></math>. Two other extrema for <math alttext=\"g\"><mi>g</mi></math> are labeled with points <math alttext=\"B\"><mi>B</mi></math> and <math alttext=\"D\"><mi>D</mi></math>. Point <math alttext=\"C\"><mi>C</mi></math> is the only point of inflection of the graph of <math alttext=\"g\"><mi>g</mi></math> for <math alttext=\"0 less or equal than x less or equal than 13\"> <mn>0</mn> <mo>≤</mo> <mi>x</mi> <mo>≤</mo> <mn>13</mn> </math>. Let <math alttext=\"t subscript A\"><msub><mi>t</mi><mi>A</mi></msub></math>, <math alttext=\"t subscript B\"><msub><mi>t</mi><mi>B</mi></msub></math>, <math alttext=\"t subscript C\"><msub><mi>t</mi><mi>C</mi></msub></math>, <math alttext=\"t subscript D\"><msub><mi>t</mi><mi>D</mi></msub></math>, and <math alttext=\"t subscript E\"><msub><mi>t</mi><mi>E</mi></msub></math> represent the <math alttext=\"x\"><mi>x</mi></math>-coordinates at those points.",
+    "question": "Of the following, on which intervals is the rate of change of <math alttext=\"g\"> <mi>g</mi> </math> decreasing?",
     "image": null,
     "choices": [
       {
-        "label": "<math alttext=\"open square brackets t subscript A comma t subscript B close square brackets\"><mfenced close=\"]\" open=\"[\"><mrow><msub><mi>t</mi><mi>A</mi></msub><mo>,</mo><msub><mi>t</mi><mi>B</mi></msub></mrow></mfenced></math> only",
+        "label": "<math alttext=\"open square brackets t subscript A comma t subscript B close square brackets\"><mfenced close=\"]\" open=\"[\"><mrow><msub><mi>t</mi><mi>A</mi></msub><mo>,</mo><msub><mi>t</mi><mi>B</mi></msub></mrow></mfenced></math> only",
         "image": null
       },
       {
-        "label": "<math alttext=\"open square brackets t subscript D comma t subscript E close square brackets\"><mfenced close=\"]\" open=\"[\"><mrow><msub><mi>t</mi><mi>D</mi></msub><mo>,</mo><msub><mi>t</mi><mi>E</mi></msub></mrow></mfenced></math> only",
+        "label": "<math alttext=\"open square brackets t subscript D comma t subscript E close square brackets\"><mfenced close=\"]\" open=\"[\"><mrow><msub><mi>t</mi><mi>D</mi></msub><mo>,</mo><msub><mi>t</mi><mi>E</mi></msub></mrow></mfenced></math> only",
         "image": null
       },
       {
-        "label": "<math alttext=\"open square brackets t subscript A comma t subscript B close square brackets\"><mfenced close=\"]\" open=\"[\"><mrow><msub><mi>t</mi><mi>A</mi></msub><mo>,</mo><msub><mi>t</mi><mi>B</mi></msub></mrow></mfenced></math> and <math alttext=\"open square brackets t subscript D comma t subscript E close square brackets\"><mfenced close=\"]\" open=\"[\"><mrow><msub><mi>t</mi><mi>D</mi></msub><mo>,</mo><msub><mi>t</mi><mi>E</mi></msub></mrow></mfenced></math>",
+        "label": "<math alttext=\"open square brackets t subscript A comma t subscript B close square brackets\"><mfenced close=\"]\" open=\"[\"><mrow><msub><mi>t</mi><mi>A</mi></msub><mo>,</mo><msub><mi>t</mi><mi>B</mi></msub></mrow></mfenced></math> and <math alttext=\"open square brackets t subscript D comma t subscript E close square brackets\"><mfenced close=\"]\" open=\"[\"><mrow><msub><mi>t</mi><mi>D</mi></msub><mo>,</mo><msub><mi>t</mi><mi>E</mi></msub></mrow></mfenced></math>",
         "image": null
       },
       {
-        "label": "<math alttext=\"open square brackets t subscript C comma t subscript D close square brackets\"><mfenced close=\"]\" open=\"[\"><mrow><msub><mi>t</mi><mi>C</mi></msub><mo>,</mo><msub><mi>t</mi><mi>D</mi></msub></mrow></mfenced></math> and <math alttext=\"open square brackets t subscript D comma t subscript E close square brackets\"><mfenced close=\"]\" open=\"[\"><mrow><msub><mi>t</mi><mi>D</mi></msub><mo>,</mo><msub><mi>t</mi><mi>E</mi></msub></mrow></mfenced></math>",
+        "label": "<math alttext=\"open square brackets t subscript C comma t subscript D close square brackets\"><mfenced close=\"]\" open=\"[\"><mrow><msub><mi>t</mi><mi>C</mi></msub><mo>,</mo><msub><mi>t</mi><mi>D</mi></msub></mrow></mfenced></math> and <math alttext=\"open square brackets t subscript D comma t subscript E close square brackets\"><mfenced close=\"]\" open=\"[\"><mrow><msub><mi>t</mi><mi>D</mi></msub><mo>,</mo><msub><mi>t</mi><mi>E</mi></msub></mrow></mfenced></math>",
         "image": null
       }
     ],
-    "answer": "<math alttext=\"open square brackets t subscript C comma t subscript D close square brackets\"><mfenced close=\"]\" open=\"[\"><mrow><msub><mi>t</mi><mi>C</mi></msub><mo>,</mo><msub><mi>t</mi><mi>D</mi></msub></mrow></mfenced></math> and <math alttext=\"open square brackets t subscript D comma t subscript E close square brackets\"><mfenced close=\"]\" open=\"[\"><mrow><msub><mi>t</mi><mi>D</mi></msub><mo>,</mo><msub><mi>t</mi><mi>E</mi></msub></mrow></mfenced></math>"
+    "answer": "<math alttext=\"open square brackets t subscript C comma t subscript D close square brackets\"><mfenced close=\"]\" open=\"[\"><mrow><msub><mi>t</mi><mi>C</mi></msub><mo>,</mo><msub><mi>t</mi><mi>D</mi></msub></mrow></mfenced></math> and <math alttext=\"open square brackets t subscript D comma t subscript E close square brackets\"><mfenced close=\"]\" open=\"[\"><mrow><msub><mi>t</mi><mi>D</mi></msub><mo>,</mo><msub><mi>t</mi><mi>E</mi></msub></mrow></mfenced></math>"
   },
   "unit": {
     "code": "1",

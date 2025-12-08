@@ -3,16 +3,16 @@
   "type": "mcq",
   "title": "Error in science simulation",
   "content": {
-    "description": "",
+    "description": "In a science experiment, result X is expected to occur 25% of the time and result Y is expected to occur the remaining 75% of the time. The following code segment is intended to simulate the experiment if there are 100 trials.\n\nLine 1:  xCount <math alttext=\"←\" overflow=\"scroll\"><mrow><mo>←</mo></mrow></math> 0\n\nLine 2:  yCount <math alttext=\"←\" overflow=\"scroll\"><mrow><mo>←</mo></mrow></math> 0\n\nLine 3:  REPEAT 100 TIMES\n\nLine 4:  {\n\nLine 5:     IF(RANDOM(1, 4) = 1)\n\nLine 6:     {\n\nLine 7:        xCount <math alttext=\"←\" overflow=\"scroll\"><mrow><mo>←</mo></mrow></math> xCount + 1\n\nLine 8:     }\n\nLine 9:     IF(RANDOM(1, 4) > 1)\n\nLine 10:    {\n\nLine 11:       yCount <math alttext=\"←\" overflow=\"scroll\"> <mrow> <mo>←</mo> </mrow> </math> yCount + 1\n\nLine 12:    }\n\nLine 13: }\n\nLine 14: DISPLAY(\"Result X occurred\")\n\nLine 15: DISPLAY(xCount)\n\nLine 16: DISPLAY(\"times and result Y occurred\")\n\nLine 17: DISPLAY(yCount)\n\nLine 18: DISPLAY(\"times.\")\n\nA programmer runs the code segment, and the following message is displayed.\n\nResult X occurred 24 times and result Y occurred 70 times.\n\nThe result shows that 94 trials were counted, rather than the intended 100 trials.",
     "question": "Which of the following changes to the code segment will ensure a correct simulation of the experiment?",
     "image": null,
     "choices": [
       {
-        "label": "Replacing line 9 with IF(RANDOM(1, 4) ≥ 2)",
+        "label": "Replacing line 9 with IF(RANDOM(1, 4) ≥ 2)",
         "image": null
       },
       {
-        "label": "Replacing line 9 with ELSE",
+        "label": "Replacing line 9 with ELSE",
         "image": null
       },
       {
@@ -24,7 +24,7 @@
         "image": null
       }
     ],
-    "answer": "Replacing line 9 with ELSE"
+    "answer": "Replacing line 9 with ELSE"
   },
   "topic": {
     "code": "1.4",

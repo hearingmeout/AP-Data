@@ -3,16 +3,16 @@
   "type": "mcq",
   "title": "escape sequences - describe behavior",
   "content": {
-    "description": "",
+    "description": "Consider the following statement.\n System.out.print(\"AP \\n Computer \\n Science \\n A \\n rocks\");",
     "question": "Which of the following best describes the behavior of this statement?",
     "image": null,
     "choices": [
       {
-        "label": "It prints five lines of text, each separated by a line break indicated by the escape sequence \\n.",
+        "label": "It prints five lines of text, each separated by a line break indicated by the escape sequence  \\n.",
         "image": null
       },
       {
-        "label": "It prints four lines of text because the escape sequence \\n appears four times in the string literal.",
+        "label": "It prints four lines of text because the escape sequence  \\n  appears four times in the string literal.",
         "image": null
       },
       {
@@ -24,7 +24,7 @@
         "image": null
       }
     ],
-    "answer": "It prints five lines of text, each separated by a line break indicated by the escape sequence \\n."
+    "answer": "It prints five lines of text, each separated by a line break indicated by the escape sequence  \\n."
   },
   "unit": {
     "code": "1",

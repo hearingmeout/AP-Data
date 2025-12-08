@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Avoid ArithmeticException - describe condition",
   "content": {
-    "description": "",
-    "question": "Which of the following preconditions for the method is most appropriate to avoid an ArithmeticException?",
+    "description": "The following code segment appears in a method. In the code segment,  y  is an  int  variable.\n int x = 5 / y;\nSystem.out.println(x);",
+    "question": "Which of the following preconditions for the method is most appropriate to avoid an  ArithmeticException?",
     "image": null,
     "choices": [
       {

@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "conditionalTest with two int parameters",
   "content": {
-    "description": "Consider the following method.",
-    "question": "public void conditionalTest(int a, int b) { if ((a > 0) && (b > 0)) { if (a > b) System.out.println(\"A\"); else System.out.println(\"B\"); } else if ((b < 0) || (a < 0)) System.out.println(\"C\"); else System.out.println(\"D\"); } What is printed as a result of the call conditionalTest(3, -2)?",
+    "description": "",
+    "question": "Consider the following method.\n\npublic void conditionalTest(int a, int b)\n\n{\n\nif ((a > 0) && (b > 0))\n\n{\n\nif (a > b)\n\nSystem.out.println(\"A\");\n\nelse\n\nSystem.out.println(\"B\");\n\n}\n\nelse if ((b < 0) || (a < 0))\n\nSystem.out.println(\"C\");\n\nelse\n\nSystem.out.println(\"D\");\n\n}\n\nWhat is printed as a result of the call conditionalTest(3, -2)?",
     "image": null,
     "choices": [
       {

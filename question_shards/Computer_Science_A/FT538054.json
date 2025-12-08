@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "findLongest consecutive target fix",
   "content": {
-    "description": "",
+    "description": "Consider the following instance variable nums and method findLongest with line numbers added for reference. Method findLongest is intended to find the longest consecutive block of the value target occurring in the array nums; however, findLongest does not work as intended.\n\nFor example, if the array nums contains the values [7, 10, 10, 15, 15, 15, 15, 10,10, 10, 15, 10, 10], the call findLongest (10) should return 3, the length of the longest consecutive block of 10s.",
     "question": "Which of the following changes should be made so that method findLongest will work as intended?",
-    "image": null,
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/3c4e751f1e9871cb564beb717d01be96.jpg",
     "choices": [
       {
-        "label": "Insert the statement lenCount = 0;between lines 2 and 3.",
+        "label": "Insert the statement lenCount = 0;\nbetween lines 2 and 3.",
         "image": null
       },
       {
-        "label": "Insert the statement lenCount = 0;between lines 8 and 9.",
+        "label": "Insert the statement lenCount = 0;\nbetween lines 8 and 9.",
         "image": null
       },
       {
-        "label": "Insert the statement lenCount = 0;between lines 11 and 12.",
+        "label": "Insert the statement lenCount = 0;\nbetween lines 11 and 12.",
         "image": null
       },
       {
-        "label": "Insert the statement lenCount = 0;between lines 12 and 13.",
+        "label": "Insert the statement lenCount = 0;\nbetween lines 12 and 13.",
         "image": null
       }
     ],
-    "answer": "Insert the statement lenCount = 0;between lines 12 and 13."
+    "answer": "Insert the statement lenCount = 0;\nbetween lines 12 and 13."
   },
   "unit": {
     "code": "4",

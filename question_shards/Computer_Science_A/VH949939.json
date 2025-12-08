@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "mod 2 and mod div",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "int val = 48;int div = 6;while ((val % 2 == 0) && div > 0){if (val % div == 0){System.out.print(val + \" \");}val /= 2;div--;}What is printed when the code segment is executed?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nint val = 48;\nint div = 6;\nwhile ((val % 2 == 0) && div > 0)\n{\nif (val % div == 0)\n{\nSystem.out.print(val + \" \");\n}\nval /= 2;\ndiv--;\n}\nWhat is printed when the code segment is executed?",
     "image": null,
     "choices": [
       {

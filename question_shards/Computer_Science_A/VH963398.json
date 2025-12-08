@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Boolean logic with two dimensional array elements",
   "content": {
-    "description": "A two-dimensional array arr is to be created with the following contents.",
-    "question": "boolean[][] arr = {{false, true, false},{false, false, true}};Which of the following code segments can be used to correctly create and initialize arr ?",
+    "description": "",
+    "question": "A two-dimensional array arr is to be created with the following contents.\n\nboolean[][] arr = {{false, true, false},\n{false, false, true}};\n\nWhich of the following code segments can be used to correctly create and initialize arr ?",
     "image": null,
     "choices": [
       {
-        "label": "boolean arr[][] = new boolean[2][3];arr[0][1] = true;arr[1][2] = true;",
+        "label": "boolean arr[][] = new boolean[2][3];\narr[0][1] = true;\narr[1][2] = true;",
         "image": null
       },
       {
-        "label": "boolean arr[][] = new boolean[2][3];arr[1][2] = true;arr[2][3] = true;",
+        "label": "boolean arr[][] = new boolean[2][3];\narr[1][2] = true;\narr[2][3] = true;",
         "image": null
       },
       {
-        "label": "boolean arr[][] = new boolean[3][2];arr[0][1] = true;arr[1][2] = true;",
+        "label": "boolean arr[][] = new boolean[3][2];\narr[0][1] = true;\narr[1][2] = true;",
         "image": null
       },
       {
-        "label": "boolean arr[][] = new boolean[3][2];arr[1][0] = true;arr[2][1] = true;",
+        "label": "boolean arr[][] = new boolean[3][2];\narr[1][0] = true;\narr[2][1] = true;",
         "image": null
       }
     ],
-    "answer": "boolean arr[][] = new boolean[2][3];arr[0][1] = true;arr[1][2] = true;"
+    "answer": "boolean arr[][] = new boolean[2][3];\narr[0][1] = true;\narr[1][2] = true;"
   },
   "unit": {
     "code": "4",

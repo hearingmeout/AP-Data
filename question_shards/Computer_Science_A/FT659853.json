@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Output with nested loops",
   "content": {
-    "description": "Consider the following output.",
-    "question": "1 1 2 1 2 3 1 2 3 4 1 2 3 4 5 1 2 3 4 5 6 Which of the following code segments will produce the output shown above?",
+    "description": "",
+    "question": "Consider the following output.\n\n1\n\n1 2\n\n1 2 3\n\n1 2 3 4\n\n1 2 3 4 5\n\n1 2 3 4 5 6\n\nWhich of the following code segments will produce the output shown above?",
     "image": null,
     "choices": [
       {
-        "label": "for (int j = 1; j <= 6; j++) { for (int k = 1; k < j; k++) System.out.print(\" \" + k); System.out.println(); }",
+        "label": "for (int j = 1; j <= 6; j++)\n\n{\n\nfor (int k = 1; k < j; k++)\n\nSystem.out.print(\" \" + k);\n\nSystem.out.println();\n\n}",
         "image": null
       },
       {
-        "label": "for (int j = 1; j <= 6; j++) { for (int k = 1; k <= j; k++) System.out.print(\" \" + j); System.out.println(); }",
+        "label": "for (int j = 1; j <= 6; j++)\n\n{\n\nfor (int k = 1; k <= j; k++)\n\nSystem.out.print(\" \" + j);\n\nSystem.out.println();\n\n}",
         "image": null
       },
       {
-        "label": "for (int j = 1; j <= 6; j++) { for (int k = 1; k <= j; k++) System.out.print(\" \" + k); System.out.println(); }",
+        "label": "for (int j = 1; j <= 6; j++)\n\n{\n\nfor (int k = 1; k <= j; k++)\n\nSystem.out.print(\" \" + k);\n\nSystem.out.println();\n\n}",
         "image": null
       },
       {
-        "label": "for (int j = 1; j < 6; j++) { for (int k = 1; k <= j; k++) System.out.print(\" \" + k); System.out.println(); }",
+        "label": "for (int j = 1; j < 6; j++)\n\n{\n\nfor (int k = 1; k <= j; k++)\n\nSystem.out.print(\" \" + k);\n\nSystem.out.println();\n\n}",
         "image": null
       }
     ],
-    "answer": "for (int j = 1; j <= 6; j++) { for (int k = 1; k <= j; k++) System.out.print(\" \" + k); System.out.println(); }"
+    "answer": "for (int j = 1; j <= 6; j++)\n\n{\n\nfor (int k = 1; k <= j; k++)\n\nSystem.out.print(\" \" + k);\n\nSystem.out.println();\n\n}"
   },
   "unit": {
     "code": "2",

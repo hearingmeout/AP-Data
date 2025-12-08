@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Player attributes and behaviors - design",
   "content": {
-    "description": "",
-    "question": "Which of the following sets of attributes and behaviors is most appropriate for the Player class design?",
+    "description": "A student is developing a  Player  class to represent a player in a game. The class should allow other classes to access and modify the player’s score.",
+    "question": "Which of the following sets of attributes and behaviors is most appropriate for the  Player  class design?",
     "image": null,
     "choices": [
       {
-        "label": "Attributes:noneBehaviors:setScore and getScore",
+        "label": "Attributes:noneBehaviors:setScore  and  getScore",
         "image": null
       },
       {
-        "label": "Attributes:setScore and getScoreBehaviors:none",
+        "label": "Attributes:setScore  and  getScoreBehaviors:none",
         "image": null
       },
       {
-        "label": "Attributes:getScore and setScoreBehavior:score",
+        "label": "Attributes:getScore  and  setScoreBehavior:score",
         "image": null
       },
       {
-        "label": "Attribute:scoreBehaviors:getScore and setScore",
+        "label": "Attribute:scoreBehaviors:getScore  and  setScore",
         "image": null
       }
     ],
-    "answer": "Attribute:scoreBehaviors:getScore and setScore"
+    "answer": "Attribute:scoreBehaviors:getScore  and  setScore"
   },
   "unit": {
     "code": "3",

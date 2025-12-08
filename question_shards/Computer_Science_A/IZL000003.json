@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Scanning positives - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can be used to replace /* missing code */ so that the code segment prints the sum of the positive numbers in the file?",
+    "description": "In the following code segment, a valid  Scanner  object named  fileInput  is created to read from the text file  numbers.txt.  Assume that the text file contains only numerical data and spaces.\n File numData = new File(\"numbers.txt\");\nScanner fileInput = new Scanner(numData);\n\ndouble sum = 0.0; \nwhile (fileInput.hasNext()) \n{ \n /* missing code */\n} \n\nSystem.out.println(sum);",
+    "question": "Which of the following can be used to replace  /* missing code */  so that the code segment prints the sum of the positive numbers in the file?",
     "image": null,
     "choices": [
       {
-        "label": "if (fileInput > 0) { sum = sum + fileInput; }",
+        "label": "if (fileInput > 0) \n{ \n sum = sum + fileInput; \n}",
         "image": null
       },
       {
-        "label": "if (fileInput.nextDouble() > 0) { sum = sum + fileInput.nextDouble(); }",
+        "label": "if (fileInput.nextDouble() > 0) \n{\n sum = sum + fileInput.nextDouble(); \n}",
         "image": null
       },
       {
-        "label": "double temp = fileInput.nextDouble(); if (temp > 0) { sum = sum + temp; }",
+        "label": "double temp = fileInput.nextDouble(); \nif (temp > 0) \n{\n sum = sum + temp; \n}",
         "image": null
       },
       {
-        "label": "double temp = fileInput.nextDouble(); if (temp > 0) { sum = sum + fileInput.nextDouble(); }",
+        "label": "double temp = fileInput.nextDouble(); \nif (temp > 0) \n{\n sum = sum + fileInput.nextDouble(); \n}",
         "image": null
       }
     ],
-    "answer": "double temp = fileInput.nextDouble(); if (temp > 0) { sum = sum + temp; }"
+    "answer": "double temp = fileInput.nextDouble(); \nif (temp > 0) \n{\n sum = sum + temp; \n}"
   },
   "unit": {
     "code": "4",

@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "numberCheck with for loop and mod",
   "content": {
-    "description": "Consider the following method.",
-    "question": "public void numberCheck(int maxNum) { int typeA = 0; int typeB = 0; int typeC = 0; for (int k = 1; k <= maxNum; k++) { if (k % 2 == 0 && k % 5 == 0) typeA++; if (k % 2 == 0) typeB++; if (k % 5 == 0) typeC++; } System.out.println(typeA + \" \" + typeB + \" \" + typeC); } What is printed as a result of the call numberCheck(50) ?",
+    "description": "",
+    "question": "Consider the following method.\n\npublic void numberCheck(int maxNum)\n\n{\n\nint typeA = 0;\n\nint typeB = 0;\n\nint typeC = 0;\n\nfor (int k = 1; k <= maxNum; k++)\n\n{\n\nif (k % 2 == 0 && k % 5 == 0)\n\ntypeA++;\n\nif (k % 2 == 0)\n\ntypeB++;\n\nif (k % 5 == 0)\n\ntypeC++;\n\n}\n\nSystem.out.println(typeA + \" \" + typeB + \" \" + typeC);\n\n}\n\nWhat is printed as a result of the call numberCheck(50) ?",
     "image": null,
     "choices": [
       {

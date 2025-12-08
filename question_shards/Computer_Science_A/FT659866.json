@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "mystery with 2D int array, 2 int parameters",
   "content": {
-    "description": "Consider the following data field and method.",
-    "question": "private int[][] mat; public int mystery(int r, int c) { if (r != 0 || c != 0) { return (mat[r][c] + mystery(r - 1, c - 1)); } else { return mat[r][c]; } } Assume that mat is the 2-D array shown below. 0 1 2 3 0 0 1 2 3 1 4 5 6 7 2 8 9 10 11 3 12 13 14 15 What value is returned as a result of the call mystery(2, 3)?",
+    "description": "",
+    "question": "Consider the following data field and method.\n\nprivate int[][] mat;\n\npublic int mystery(int r, int c)\n\n{\n\nif (r != 0 || c != 0)\n\n{\n\nreturn (mat[r][c] + mystery(r - 1, c - 1));\n\n}\n\nelse\n\n{\n\nreturn mat[r][c];\n\n}\n\n}\n\nAssume that mat is the 2-D array shown below.\n\n0\n1\n2\n3\n\n0\n0\n1\n2\n3\n\n1\n4\n5\n6\n7\n\n2\n8\n9\n10\n11\n\n3\n12\n13\n14\n15\n\nWhat value is returned as a result of the call mystery(2, 3)?",
     "image": null,
     "choices": [
       {

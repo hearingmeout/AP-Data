@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "alphabetically last word",
   "content": {
-    "description": "Consider the following instance variable and incomplete method. The method is intended to return a string from the array words that would be last alphabetically.",
-    "question": "private String[] words; public String findLastWord() { /* missing implementation */ } Assume that words has been initialized with one or more strings containing only lowercase letters. Which of the following code segments can be used to replace /* missing implementation */ so that findLastWord will work as intended?",
+    "description": "",
+    "question": "Consider the following instance variable and incomplete method. The method is intended to return a string from the array words that would be last alphabetically.\n\nprivate String[] words;\n\npublic String findLastWord()\n\n{\n\n/* missing implementation */\n\n}\n\nAssume that words has been initialized with one or more strings containing only lowercase letters. Which of the following code segments can be used to replace /* missing implementation */ so that findLastWord will work as intended?",
     "image": null,
     "choices": [
       {
-        "label": "int maxIndex = 0;for (int k = 0; k < words.length; k++){if (words[k].compareTo(maxIndex) > 0){maxIndex = k;}}return words[maxIndex];",
+        "label": "int maxIndex = 0;\nfor (int k = 0; k < words.length; k++)\n{\nif (words[k].compareTo(maxIndex) > 0)\n{\nmaxIndex = k;\n}\n}\nreturn words[maxIndex];",
         "image": null
       },
       {
-        "label": "int maxIndex = 0;for (int k = 1; k <= words.length; k++){if (words[k].compareTo(words[maxIndex]) > 0){maxIndex = k;}}return words[maxIndex];",
+        "label": "int maxIndex = 0;\nfor (int k = 1; k <= words.length; k++)\n{\nif (words[k].compareTo(words[maxIndex]) > 0)\n{\nmaxIndex = k;\n}\n}\nreturn words[maxIndex];",
         "image": null
       },
       {
-        "label": "int maxIndex = 0;for (int k = 1; k < words.length; k++){if (words[k].compareTo(words[maxIndex]) > 0){maxIndex = k;}}return maxIndex;",
+        "label": "int maxIndex = 0;\nfor (int k = 1; k < words.length; k++)\n{\nif (words[k].compareTo(words[maxIndex]) > 0)\n{\nmaxIndex = k;\n}\n}\nreturn maxIndex;",
         "image": null
       },
       {
-        "label": "String maxWord = words[0];for (int k = 1; k < words.length; k++){if (words[k].compareTo(maxWord) > 0){maxWord = words[k];}}return maxWord;",
+        "label": "String maxWord = words[0];\nfor (int k = 1; k < words.length; k++)\n{\nif (words[k].compareTo(maxWord) > 0)\n{\nmaxWord = words[k];\n}\n}\nreturn maxWord;",
         "image": null
       }
     ],
-    "answer": "String maxWord = words[0];for (int k = 1; k < words.length; k++){if (words[k].compareTo(maxWord) > 0){maxWord = words[k];}}return maxWord;"
+    "answer": "String maxWord = words[0];\nfor (int k = 1; k < words.length; k++)\n{\nif (words[k].compareTo(maxWord) > 0)\n{\nmaxWord = words[k];\n}\n}\nreturn maxWord;"
   },
   "unit": {
     "code": "4",

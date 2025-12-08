@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "BoundedIntArray constructors",
   "content": {
-    "description": "The following question is based on the following incomplete declaration of the class BoundedIntArray and its constructor definitions.",
-    "question": "A BoundedintArray represents an indexed list of integers. In a BoundedIntArray the user can specify a size, in which case the indices range from 0 to size - 1. The user can also specify the lowest index, low, in which case the indices can range from low to low + size - 1. public class BoundedIntArray { private int[] myItems; // storage for the list private int myLowIndex; // lowest index public BoundedIntArray(int size) { myItems = new int[size]; myLowIndex = 0; } public BoundedIntArray(int size, int low) { myItems = new int[size]; myLowIndex = low; } // other methods not shown } Consider the following statements. BoundedIntArray arrl = new BoundedIntArray(100, 5); BoundedIntArray arr2 = new BoundedIntArray(100); Which of the following best describes arrl and arr2 after these statements?",
+    "description": "",
+    "question": "The following question is based on the following incomplete declaration of the class BoundedIntArray and its constructor definitions. \n\nA BoundedintArray represents an indexed list of integers. In a BoundedIntArray the user can specify a size, in which case the indices range from 0 to size - 1. The user can also specify the lowest index, low, in which case the indices can range from low to low + size - 1.\n\npublic class BoundedIntArray\n\n{\n\nprivate int[] myItems;   // storage for the list\n\nprivate int myLowIndex;  // lowest index\n\npublic BoundedIntArray(int size)\n\n{\n\nmyItems = new int[size];\n\nmyLowIndex = 0;\n\n}\n\npublic BoundedIntArray(int size, int low)\n\n{\n\nmyItems = new int[size];\n\nmyLowIndex = low;\n\n}\n\n// other methods not shown\n\n}\n\nConsider the following statements.\n\nBoundedIntArray arrl = new BoundedIntArray(100, 5);\n\nBoundedIntArray arr2 = new BoundedIntArray(100);\n\nWhich of the following best describes arrl and arr2 after these statements?",
     "image": null,
     "choices": [
       {
@@ -12,7 +12,7 @@
         "image": null
       },
       {
-        "label": "arrl represents a list of integers indexed from 0 to 104, and arr2 represents a list of integers indexed from 0 to 99.",
+        "label": "arrl represents a list of integers indexed from 0 to 104, and arr2 represents a list of integers indexed from 0 to 99.",
         "image": null
       },
       {
@@ -20,11 +20,11 @@
         "image": null
       },
       {
-        "label": "arrl represents a list of integers indexed from 5 to 104, and arr2 represents a list of integers indexed from 0 to 99.",
+        "label": "arrl represents a list of integers indexed from 5 to 104, and arr2 represents a list of integers indexed from 0 to 99.",
         "image": null
       }
     ],
-    "answer": "arrl represents a list of integers indexed from 5 to 104, and arr2 represents a list of integers indexed from 0 to 99."
+    "answer": "arrl represents a list of integers indexed from 5 to 104, and arr2 represents a list of integers indexed from 0 to 99."
   },
   "unit": {
     "code": "3",

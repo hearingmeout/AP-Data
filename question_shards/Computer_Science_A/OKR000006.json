@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Not equal - describe behavior",
   "content": {
-    "description": "",
+    "description": "In the following code segment,  a  and  b  are properly declared and initialized  boolean  variables.\n boolean result = (a != b);\nSystem.out.println(result);",
     "question": "Which of the following best describes the behavior of the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "It prints true if a is true and b is false, and prints false otherwise.",
+        "label": "It prints  true  if  a  is  true  and  b  is  false,  and prints  false  otherwise.",
         "image": null
       },
       {
-        "label": "It prints true if a and b have different values, and prints false otherwise.",
+        "label": "It prints  true  if  a  and  b  have different values, and prints  false  otherwise.",
         "image": null
       },
       {
-        "label": "It prints true if a and b have the same value, and prints false otherwise.",
+        "label": "It prints  true  if  a  and  b  have the same value, and prints  false  otherwise.",
         "image": null
       },
       {
-        "label": "It prints false for all possible values of a and b.",
+        "label": "It prints  false  for all possible values of  a  and  b.",
         "image": null
       }
     ],
-    "answer": "It prints true if a and b have different values, and prints false otherwise."
+    "answer": "It prints  true  if  a  and  b  have different values, and prints  false  otherwise."
   },
   "unit": {
     "code": "2",

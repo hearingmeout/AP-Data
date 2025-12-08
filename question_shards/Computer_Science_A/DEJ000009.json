@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Thing objects with keyword this - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following class declaration.\n public class Thing\n{\n private int val;\n\npublic Thing(int v)\n {\n val = v;\n }\n\npublic int getVal()\n {\n return val;\n }\n\npublic String mystery(Thing other)\n {\n if (this == other)\n {\n return \"yes\";\n }\n else if (this.val == other.getVal())\n {\n return \"maybe\";\n }\n else return \"no\";\n }\n}\n\nThe following code segment appears in a class other than  Thing.\n Thing apple = new Thing(5);\nThing banana = new Thing(5);\n\nSystem.out.println(apple.mystery(banana));\nSystem.out.println(banana.mystery(banana));",
     "question": "What, if anything, is printed as a result of executing this code segment?",
     "image": null,
     "choices": [
       {
-        "label": "yes yes",
+        "label": "yes\nyes",
         "image": null
       },
       {
-        "label": "maybe yes",
+        "label": "maybe\nyes",
         "image": null
       },
       {
-        "label": "maybe maybe",
+        "label": "maybe\nmaybe",
         "image": null
       },
       {
-        "label": "Nothing is printed because the Thing class does not compile.",
+        "label": "Nothing is printed because the  Thing  class does not compile.",
         "image": null
       }
     ],
-    "answer": "maybe yes"
+    "answer": "maybe\nyes"
   },
   "unit": {
     "code": "3",

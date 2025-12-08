@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Incorrect sort - Describe initial conditions",
   "content": {
-    "description": "",
-    "question": "This method works as intended for some, but not all, int arrays. Which of the following arrays can be used to show that the method does not work as intended?",
+    "description": "The following method is intended to sort an array of integers into ascending order.\n public static void sort(int[] arr) \n{ \n for (int j = 0; j < arr.length - 1; j++) \n { \n int minIndex = j; \n      for (int k = j + 1; k < arr.length - 1; k++)\n      { \n       if (arr[k] < arr[minIndex]) \n        {\n        minIndex = k;\n         } \n      }   \n      int temp = arr[minIndex]; \n      arr[minIndex] = arr[j]; \n      arr[j] = temp; \n   }  \n}",
+    "question": "This method works as intended for some, but not all,  int  arrays. Which of the following arrays can be used to show that the method does not work as intended?",
     "image": null,
     "choices": [
       {

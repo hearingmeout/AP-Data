@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Item and Checker class - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following class definitions.\n\npublic class Item \n{ \n private int IdNum; \n\npublic Item(int id) \n { \n IdNum = id; \n }\n\npublic int getIdNum() \n {\n return IdNum; \n }\n\npublic void checkID(Checker c) \n {\n c.validate(this); \n }\n}\n\npublic class Checker\n{ \n private int lastID = 0;\n\npublic void validate(Item i) \n { \n int id = i.getIdNum();\n if (id == lastID) \n {\n System.out.println(\"ID \" + id + \": invalid\"); \n }\n else\n {\n lastID = id; \n System.out.println(\"ID \" + id + \": valid\"); \n }\n }\n} \n\nThe following code segment appears in a class other than  Item  or  Checker.\n Item i = new Item(23);\nItem j = new Item(55);\nChecker c = new Checker();\n\ni.checkID(c);\nj.checkID(c);\nj.checkID(c);\ni.checkID(c);",
     "question": "What is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "ID 23: valid ID 55: valid ID 55: invalid ID 23: valid",
+        "label": "ID 23: valid\nID 55: valid\nID 55: invalid\nID 23: valid",
         "image": null
       },
       {
-        "label": "ID 23: valid ID 55: valid ID 55: invalid ID 23: invalid",
+        "label": "ID 23: valid\nID 55: valid\nID 55: invalid\nID 23: invalid",
         "image": null
       },
       {
-        "label": "ID 23: valid ID 55: invalid ID 55: invalid ID 23: valid",
+        "label": "ID 23: valid\nID 55: invalid\nID 55: invalid\nID 23: valid",
         "image": null
       },
       {
-        "label": "ID 23: valid ID 55: invalid ID 55: valid ID 23: invalid",
+        "label": "ID 23: valid\nID 55: invalid\nID 55: valid\nID 23: invalid",
         "image": null
       }
     ],
-    "answer": "ID 23: valid ID 55: valid ID 55: invalid ID 23: valid"
+    "answer": "ID 23: valid\nID 55: valid\nID 55: invalid\nID 23: valid"
   },
   "unit": {
     "code": "3",

@@ -3,20 +3,20 @@
   "type": "mcq",
   "title": "Error in method - explain why will not compile",
   "content": {
-    "description": "",
-    "question": "Which of the following best explains why the computeArea method will not compile?",
+    "description": "Consider the following class definition.\n public class Circle \n{ \n   private double radius; \n\npublic double computeArea() \n   { \n      private double pi = 3.14159; \n      public double area = pi * radius * radius; \n      return area; \n   } \n\n// Constructor not shown. \n}",
+    "question": "Which of the following best explains why the  computeArea  method will not compile?",
     "image": null,
     "choices": [
       {
-        "label": "Local variables declared inside a method cannot be declared as public or private.",
+        "label": "Local variables declared inside a method cannot be declared as  public  or  private.",
         "image": null
       },
       {
-        "label": "Local variables declared inside a method must all be private.",
+        "label": "Local variables declared inside a method must all be  private.",
         "image": null
       },
       {
-        "label": "Local variables declared inside a method must all be public.",
+        "label": "Local variables declared inside a method must all be  public.",
         "image": null
       },
       {
@@ -24,7 +24,7 @@
         "image": null
       }
     ],
-    "answer": "Local variables declared inside a method cannot be declared as public or private."
+    "answer": "Local variables declared inside a method cannot be declared as  public  or  private."
   },
   "unit": {
     "code": "3",

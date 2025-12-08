@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "String Algorithm - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can be used to replace /* missing code */ so that this code segment prints the string \"EFCDAB\"?",
+    "description": "Consider the following code segment.\n String str = \"ABCDEF\";\nString result = \"\";\n/* missing code */\nSystem.out.println(result);",
+    "question": "Which of the following can be used to replace /* missing code */ so that this code segment prints the string \"EFCDAB\"?",
     "image": null,
     "choices": [
       {
-        "label": "for (int j = str.length() - 1; j >= 0; j -= 1) { result += str.substring(j, j + 1); }",
+        "label": "for (int j = str.length() - 1; j >= 0; j -= 1)\n{\n result += str.substring(j, j + 1);\n}",
         "image": null
       },
       {
-        "label": "for (int j = str.length() - 1; j >= 0; j -= 2) { result += str.substring(j, j + 2); }",
+        "label": "for (int j = str.length() - 1; j >= 0; j -= 2)\n{\n result += str.substring(j, j + 2);\n}",
         "image": null
       },
       {
-        "label": "for (int j = str.length() - 2; j >= 0; j -= 1) { result += str.substring(j, j + 2); }",
+        "label": "for (int j = str.length() - 2; j >= 0; j -= 1)\n{\n result += str.substring(j, j + 2);\n}",
         "image": null
       },
       {
-        "label": "for (int j = str.length() - 2; j >= 0; j -= 2) { result += str.substring(j, j + 2); }",
+        "label": "for (int j = str.length() - 2; j >= 0; j -= 2)\n{\n result += str.substring(j, j + 2);\n}",
         "image": null
       }
     ],
-    "answer": "for (int j = str.length() - 2; j >= 0; j -= 2) { result += str.substring(j, j + 2); }"
+    "answer": "for (int j = str.length() - 2; j >= 0; j -= 2)\n{\n result += str.substring(j, j + 2);\n}"
   },
   "unit": {
     "code": "2",

@@ -1,0 +1,45 @@
+{
+  "id": "FT2469",
+  "type": "mcq",
+  "title": "Unique solution of a differential equation",
+  "content": {
+    "description": "",
+    "question": "If <math> <mrow> <msup> <mi>f</mi> <mo>′</mo> </msup> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> <mo>=</mo> <mfrac> <mn>2</mn> <mi>x</mi> </mfrac> </mrow> </math> and <math> <mrow> <mi>f</mi> <mrow> <mo>(</mo> <mrow> <msqrt> <mi>e</mi> </msqrt> </mrow> <mo>)</mo> </mrow> <mo>=</mo> <mn>5</mn> </mrow> </math> then <math> <mrow> <mi>f</mi><mrow><mo>(</mo> <mi>e</mi> <mo>)</mo></mrow><mo>=</mo></mrow> </math>",
+    "image": null,
+    "choices": [
+      {
+        "label": "2",
+        "image": null
+      },
+      {
+        "label": "ln 25",
+        "image": null
+      },
+      {
+        "label": "<math> <mrow> <mn>5</mn> <mo>+</mo> <mfrac> <mn>2</mn> <mi>e</mi> </mfrac> <mo>−</mo> <mfrac> <mn>2</mn> <mrow> <msup> <mi>e</mi> <mn>2</mn> </msup> </mrow> </mfrac> </mrow> </math>",
+        "image": null
+      },
+      {
+        "label": "6",
+        "image": null
+      },
+      {
+        "label": "25",
+        "image": null
+      }
+    ],
+    "answer": "6"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.7",
+    "text": "7.7: Finding Particular Solutions Using Initial Conditions and Separation of Variables"
+  },
+  "skill": {
+    "code": "Skill 1.E",
+    "text": "Skill 1.E: Apply appropriate mathematical rules or procedures, with and without technology."
+  }
+}

@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Infinite loop - describecondition",
   "content": {
-    "description": "",
-    "question": "Which of the following replacements for /* missing condition */ will cause an infinite loop?",
+    "description": "Consider the following code segment.\n int sum = 0;\nfor (int j = 1; /* missing condition */; j += 2)\n{\n sum += j;\n}",
+    "question": "Which of the following replacements for  /* missing condition */  will cause an infinite loop?",
     "image": null,
     "choices": [
       {

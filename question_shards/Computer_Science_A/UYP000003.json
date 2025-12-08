@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "add element to words ArrayList - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can replace /* missing statement */ so that words contains [\"jump\", \"right\", \"laugh\", \"plan\"] after the code segment is executed?",
+    "description": "Consider the following code segment.\n ArrayList<String> words = new ArrayList<String>();\nwords.add(\"jump\");\nwords.add(\"right\");\nwords.add(\"plan\");\n/* missing statement */",
+    "question": "Which of the following can replace  /* missing statement */  so that  words  contains  [\"jump\", \"right\", \"laugh\", \"plan\"]  after the code segment is executed?",
     "image": null,
     "choices": [
       {

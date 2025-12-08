@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "findMaximum does not work - describe conditions",
   "content": {
-    "description": "",
-    "question": "The method works as intended for some, but not all, int arrays. Which of the following best describes the conditions in which the method does not return the intended result?",
+    "description": "The following method is intended to return the maximum value that appears in the int array numbers.\n public static int findMaximum(int[] numbers)\n{\n int max = 0;\n for (int num : numbers)\n {\n if (num > max)\n {\n max = num;\n }\n }\n return max;\n}",
+    "question": "The method works as intended for some, but not all,  int  arrays. Which of the following best describes the conditions in which the method does not return the intended result?",
     "image": null,
     "choices": [
       {
-        "label": "When the maximum value in numbers is the first element in the array",
+        "label": "When the maximum value in  numbers  is the first element in the array",
         "image": null
       },
       {
-        "label": "When the maximum value in numbers appears multiple times in the array",
+        "label": "When the maximum value in  numbers  appears multiple times in the array",
         "image": null
       },
       {
-        "label": "When the maximum value in numbers is negative",
+        "label": "When the maximum value in  numbers  is negative",
         "image": null
       },
       {
-        "label": "When the maximum value in numbers is Integer.MAX_VALUE",
+        "label": "When the maximum value in  numbers  is  Integer.MAX_VALUE",
         "image": null
       }
     ],
-    "answer": "When the maximum value in numbers is negative"
+    "answer": "When the maximum value in  numbers  is negative"
   },
   "unit": {
     "code": "4",

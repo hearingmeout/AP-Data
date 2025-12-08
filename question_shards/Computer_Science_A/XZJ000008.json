@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Selection Sort - determine the result",
   "content": {
-    "description": "",
-    "question": "Which of the following could be the contents of arr after two passes of the outer loop (i.e., when j == 1 at the point indicated by /* end of outer loop */)?",
+    "description": "The following method is a correct implementation of the selection sort algorithm. The method correctly sorts the elements of arr so that they appear in order from least to greatest.\n public static void selectionSort(int[] arr) \n{ \n   for (int j = 0; j < arr.length - 1; j++) \n   { \n      int minIndex = j; \n      for (int k = j + 1; k < arr.length; k++) \n      { \n         if (arr[k] < arr[minIndex]) \n         { \n            minIndex = k; \n         } \n      } \n      int temp = arr[j]; \n      arr[j] = arr[minIndex]; \n      arr[minIndex] = temp; \n      /* end of outer loop */\n   } \n}",
+    "question": "Which of the following could be the contents of  arr  after two passes of the outer loop  (i.e., when  j == 1  at the point indicated by  /* end of outer loop */)?",
     "image": null,
     "choices": [
       {

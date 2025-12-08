@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "error when inserting val in numList",
   "content": {
-    "description": "In the following code segment, assume that the ArrayList numList has been properly declared and initialized to contain the Integer values [1, 2, 2, 3]. The code segment is intended to insert the Integer value val in numList so that numList will remain in ascending order. The code segment does not work as intended in all cases.",
-    "question": "int index = 0;while (val > numList.get(index)){index++;}numList.add(index, val);For which of the following values of val will the code segment not work as intended?",
+    "description": "",
+    "question": "In the following code segment, assume that the ArrayList numList has been properly declared and initialized to contain the Integer values [1, 2, 2, 3]. The code segment is intended to insert the Integer value val in numList so that numList will remain in ascending order. The code segment does not work as intended in all cases.\n\nint index = 0;\nwhile (val > numList.get(index))\n{\nindex++;\n}\nnumList.add(index, val);\nFor which of the following values of val will the code segment not work as intended?",
     "image": null,
     "choices": [
       {

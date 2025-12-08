@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Two dimensional array arr - determine result",
   "content": {
-    "description": "",
-    "question": "What is printed when num has the value 14?",
+    "description": "Consider the following code segment, where  num  is an integer variable.\n int[][] arr = {{11, 13, 14, 15}, \n               {12, 18, 17, 26}, \n               {13, 21, 26, 29}, \n               {14, 17, 22, 28}}; \n\nfor (int j = 0; j < arr.length; j++) \n{ \n   for (int k = 0; k < arr[0].length; k++) \n   { \n      if (arr[j][k] == num) \n      { \n         System.out.print(j + k + arr[j][k] + \" \"); \n      } \n   } \n}",
+    "question": "What is printed when  num  has the value  14?",
     "image": null,
     "choices": [
       {

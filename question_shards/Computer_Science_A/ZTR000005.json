@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Robot API Specification - describe behavior",
   "content": {
-    "description": "",
+    "description": "The following is an excerpt of a class specification that appears in an API library.\n\npublic class Robot\nA  Robot  specifies a robot that moves around a two-dimensional coordinate grid.\nThe  Robot  class has  xCoordinate  and  yCoordinate  variables that hold information about the robot’s location on the grid. \nThe  Robot  constructor initializes a  Robot  object with the given coordinates. \nThe  move()  and  rotate()  methods are used to modify the robot’s location on the grid.",
     "question": "Based on the class specification, which of the following descriptions is accurate?",
     "image": null,
     "choices": [
       {
-        "label": "Robot objects are attributes of the methods move and rotate.",
+        "label": "Robot  objects are attributes of the methods  move  and  rotate.",
         "image": null
       },
       {
-        "label": "Robot objects are behaviors of the methods move and rotate.",
+        "label": "Robot  objects are behaviors of the methods  move  and  rotate.",
         "image": null
       },
       {
-        "label": "The methods move and rotate represent attributes of Robot objects.",
+        "label": "The methods  move  and  rotate  represent attributes of  Robot  objects.",
         "image": null
       },
       {
-        "label": "The methods move and rotate represent behaviors of Robot objects.",
+        "label": "The methods  move  and  rotate  represent behaviors of  Robot  objects.",
         "image": null
       }
     ],
-    "answer": "The methods move and rotate represent behaviors of Robot objects."
+    "answer": "The methods  move  and  rotate  represent behaviors of  Robot  objects."
   },
   "unit": {
     "code": "1",

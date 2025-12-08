@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Create adult person - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following statements, when appearing in a method in a class other than Person, will correctly a create an instance of a Person object that represents an adult person?",
+    "description": "Consider the following partial  Person  class definition. The instance variable  adult  should be set to  true  if the person’s age is at least 18 years old, and should be set to  false  otherwise.\n public class Person\n{ \n   private String name; \n   private int age; \n   private boolean adult; \n\npublic Person(String n, int a) \n   { \n      name = n; \n      age = a; \n\nif (age >= 18) \n      { \n         adult = true; \n      } \n      else \n      { \n         adult = false; \n      } \n   }\n\n// There are no other constructors.\n   // There may be other methods that are not shown.\n}",
+    "question": "Which of the following statements, when appearing in a method in a class other than  Person,  will correctly a create an instance of a  Person  object that represents an adult person?",
     "image": null,
     "choices": [
       {

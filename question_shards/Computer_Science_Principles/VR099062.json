@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "count elements greater than 100",
   "content": {
-    "description": "A list of numbers has n elements, indexed from 1 to n. The following algorithm is intended to display the number of elements in the list that have a value greater than 100. The algorithm uses the variables count and position. Steps 3 and 4 are missing.",
-    "question": "Step 1Set count to 0 and position to 1.Step 2If the value of the element at index position is greater than 100, increase the value of count by 1.Step 3(missing step)Step 4(missing step)Step 5Display the value of count.Which of the following could be used to replace steps 3 and 4 so that the algorithm works as intended?",
+    "description": "",
+    "question": "A list of numbers has n elements, indexed from 1 to n. The following algorithm is intended to display the number of elements in the list that have a value greater than 100. The algorithm uses the variables count and position. Steps 3 and 4 are missing.Step 1Set count to 0 and position to 1.Step 2If the value of the element at index position is greater than 100, increase the value of count by 1.Step 3(missing step)Step 4(missing step)Step 5Display the value of count.\nWhich of the following could be used to replace steps 3 and 4 so that the algorithm works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "Step 3Increase the value of position by 1.Step 4Repeat steps 2 and 3 until the value of count is greater than 100.",
+        "label": "Step 3Increase the value of position by 1.Step 4Repeat steps 2 and 3 until the value of count is greater than 100.",
         "image": null
       },
       {
-        "label": "Step 3Increase the value of position by 1.Step 4Repeat steps 2 and 3 until the value of position is greater than n.",
+        "label": "Step 3Increase the value of position by 1.Step 4Repeat steps 2 and 3 until the value of position is greater than n.",
         "image": null
       },
       {
-        "label": "Step 3Repeat step 2 until the value of count is greater than 100.Step 4Increase the value of position by 1.",
+        "label": "Step 3Repeat step 2 until the value of count is greater than 100.Step 4Increase the value of position by 1.",
         "image": null
       },
       {
-        "label": "Step 3Repeat step 2 until the value of position is greater than n.Step 4Increase the value of count by 1.",
+        "label": "Step 3Repeat step 2 until the value of position is greater than n.Step 4Increase the value of count by 1.",
         "image": null
       }
     ],
-    "answer": "Step 3Increase the value of position by 1.Step 4Repeat steps 2 and 3 until the value of position is greater than n."
+    "answer": "Step 3Increase the value of position by 1.Step 4Repeat steps 2 and 3 until the value of position is greater than n."
   },
   "topic": {
     "code": "3.3",

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Calculate hotel stay cost - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can be used to replace /* missing code */ so that the code segment works as intended?",
+    "description": "The following code segment is intended to print the total cost of a stay in a room at a particular hotel. The  int  variable numNights represents the length of the stay, in nights, and the  double  variable dailyRate represents the room base cost for each night of the stay. For stays that are longer than five nights, there is a 10% discount applied to the room base cost for all nights during the stay. In addition to the room cost, the hotel charges a $25 resort fee for each night of the stay. The resort fee is not eligible for the 10% discount for stays that are longer than five nights. \n int numNights = /* some initial value */ ;\ndouble dailyRate = /* some initial value */ ; \n\ndouble totalCost = numNights * dailyRate; \n/* missing code */ \n\nSystem.out.println(totalCost);",
+    "question": "Which of the following can be used to replace  /* missing code */  so that the code segment works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "if (numNights > 5) { totalCost *= 0.9; totalCost += (numNights * 25); }",
+        "label": "if (numNights > 5) \n{\n totalCost *= 0.9; \n totalCost += (numNights * 25);\n}",
         "image": null
       },
       {
-        "label": "if (numNights > 5) { totalCost *= 0.9; } totalCost += (numNights * 25);",
+        "label": "if (numNights > 5)\n{\n totalCost *= 0.9;\n}\ntotalCost += (numNights * 25);",
         "image": null
       },
       {
-        "label": "totalCost += (numNights * 25); if (numNights > 5) { totalCost *= 0.9; }",
+        "label": "totalCost += (numNights * 25); \nif (numNights > 5)\n{\n totalCost *= 0.9;\n}",
         "image": null
       },
       {
-        "label": "totalCost += 25; if (numNights > 5) { totalCost *= 0.9; }",
+        "label": "totalCost += 25;\nif (numNights > 5)\n{\n totalCost *= 0.9;\n}",
         "image": null
       }
     ],
-    "answer": "if (numNights > 5) { totalCost *= 0.9; } totalCost += (numNights * 25);"
+    "answer": "if (numNights > 5)\n{\n totalCost *= 0.9;\n}\ntotalCost += (numNights * 25);"
   },
   "unit": {
     "code": "2",

@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "how many times exclamation point printed",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "int[][] arr = {{6, 2, 5, 7},{7, 6, 1, 2}};for (int j = 0; j < arr.length; j++){for (int k = 0; k < arr[0].length; k++){if (arr[j][k] > j + k){System.out.println(\"!\");}}}How many times will \"!\" be printed when the code segment is executed?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nint[][] arr = {{6, 2, 5, 7},\n{7, 6, 1, 2}};\n\nfor (int j = 0; j < arr.length; j++)\n{\nfor (int k = 0; k < arr[0].length; k++)\n{\nif (arr[j][k] > j + k)\n{\nSystem.out.println(\"!\");\n}\n}\n}\nHow many times will \"!\" be printed when the code segment is executed?",
     "image": null,
     "choices": [
       {

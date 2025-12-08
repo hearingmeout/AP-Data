@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Substrings in black cat string - Determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n String str = \"a black cat sat on a table\"; \nint counter = 0; \n\nfor (int i = 0; i < str.length() - 1; i++) \n{ \n   if (str.substring(i, i + 1).equals(\"a\") && \n !str.substring(i + 1, i + 2).equals(\"b\")) \n   { \n      counter++; \n   } \n} \n\nSystem.out.println(counter);",
     "question": "What is printed as a result of executing the code segment?",
     "image": null,
     "choices": [

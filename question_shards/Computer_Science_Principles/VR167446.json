@@ -3,25 +3,25 @@
   "type": "mcq",
   "title": "Assign cost for utility company",
   "content": {
-    "description": "The cost of a customer’s electricity bill is based on the number of units of electricity the customer uses.",
-    "question": "For the first 25 units of electricity, the cost is $5 per unit. For units of electricity after the first 25, the cost is $7 per unit. Which of the following code segments correctly sets the value of the variable cost to the cost, in dollars, of using numUnits units of electricity?",
+    "description": "",
+    "question": "The cost of a customer’s electricity bill is based on the number of units of electricity the customer uses.\n\nFor the first 25 units of electricity, the cost is $5 per unit.\n\nFor units of electricity after the first 25, the cost is $7 per unit.\n\nWhich of the following code segments correctly sets the value of the variable cost to the cost, in dollars, of using numUnits units of electricity?",
     "image": null,
     "choices": [
       {
         "label": "The figure presents one block of code that consists of 4 total lines. Throughout the block of code there are nested blocks of code. [Begin block] Line 1: IF [begin block] numUnits is less than or equal to 25 [end block] [begin block] Line 2: [begin block] cost ← numUnits times 5 [end block] [end block] Line 3: ELSE [begin block] Line 4: [begin block] cost ← numUnits times 7 [end block] [end block] [End block]",
-        "image": "https://ap.oly.st/images/6118dc6c6ab48b680f54aa021408731c.png"
+        "image": null
       },
       {
         "label": "The figure presents one block of code that consists of 4 total lines. Throughout the block of code there are nested blocks of code. [Begin block] Line 1: IF [begin block] numUnits is less than or equal to 25 [end block] [begin block] Line 2: [begin block] cost ← numUnits times 5 [end block] [end block] Line 3: ELSE [begin block] Line 4: [begin block] cost ← open parenthesis, numUnits minus 25, close parenthesis, times 7 [end block] [end block] [End block]",
-        "image": "https://ap.oly.st/images/94b5c25ff0f1a035e53c7db0f62babe1.png"
+        "image": null
       },
       {
         "label": "The figure presents one block of code that consists of 4 total lines. Throughout the block of code there are nested blocks of code. [Begin block] Line 1: IF [begin block] numUnits is less than or equal to 25 [end block] [Begin Block] Line 2: [begin block] cost ← numUnits times 5 [end block] [End Block] Line 3: ELSE [Begin Block] Line 4: [begin block] cost ← 25 times 5 plus, open parenthesis, numUnits minus 25, close parenthesis, times 7 [end block] [End Block] [End Block]",
-        "image": "https://ap.oly.st/images/290f1726e8578e3bd373fb80c51bbac0.png"
+        "image": null
       },
       {
         "label": "The figure presents one block of code that consists of 4 total lines. Throughout the block of code there are nested blocks of code. [Begin block] Line 1: IF [begin block] numUnits is less than or equal to 25 [end block] [Begin Block] Line 2: [begin block] cost ← numUnits times 5 [end block] [End Block] Line 3: ELSE [Begin Block] Line 4: [begin block] cost ← 25 times 7 plus, open parenthesis, numUnits minus 25, close parenthesis, times 5 [end block] [End Block] [End Block]",
-        "image": "https://ap.oly.st/images/6e57262a911bad8f98aece769dfa8af8.png"
+        "image": null
       }
     ],
     "answer": "The figure presents one block of code that consists of 4 total lines. Throughout the block of code there are nested blocks of code. [Begin block] Line 1: IF [begin block] numUnits is less than or equal to 25 [end block] [Begin Block] Line 2: [begin block] cost ← numUnits times 5 [end block] [End Block] Line 3: ELSE [Begin Block] Line 4: [begin block] cost ← 25 times 5 plus, open parenthesis, numUnits minus 25, close parenthesis, times 7 [end block] [End Block] [End Block]"

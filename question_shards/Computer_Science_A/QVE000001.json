@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Removing 0s from numList - explain error",
   "content": {
-    "description": "",
+    "description": "In the code segment shown, myList is an ArrayList of integers. The code segment is intended to remove all elements with the value 0 from myList.\n int j = 0;\nwhile (j < myList.size())\n{\n if (myList.get(j) == 0)\n {\n myList.remove(j);\n }\n j++;\n}\n\nThe code segment does not always work as intended.",
     "question": "For which of the following lists does the code segment not produce the correct result?",
     "image": null,
     "choices": [

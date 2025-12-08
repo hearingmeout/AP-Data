@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Code with two if statements - determine output",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n int x = 3; \nint y = -1; \n\nif (x - 2 > y) \n{ \n   x -= y; \n} \nif (y + 3 >= x) \n{ \n   y += x; \n} \n\nSystem.out.print(\"x = \" + x + \", y = \" + y);",
     "question": "What is printed as a result of executing the code segment?",
     "image": null,
     "choices": [

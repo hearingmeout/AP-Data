@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "While loop overflow - describe conditions",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment. Assume that the  int  variable  input  has been properly declared and initialized. \n int answer = 1;\nif (input != 0)  \n{\n int count = 1; \n\nwhile (count != input) \n { \n count++; \n answer *= count;            \n }\n} \n\nSystem.out.println(answer);",
     "question": "Which of the following best describes the condition in which this code segment always results in integer overflow?",
     "image": null,
     "choices": [
       {
-        "label": "When input == 0",
+        "label": "When  input == 0",
         "image": null
       },
       {
-        "label": "When input == 1",
+        "label": "When  input == 1",
         "image": null
       },
       {
-        "label": "When input > 0",
+        "label": "When  input > 0",
         "image": null
       },
       {
-        "label": "When input < 0",
+        "label": "When  input < 0",
         "image": null
       }
     ],
-    "answer": "When input < 0"
+    "answer": "When  input < 0"
   },
   "unit": {
     "code": "1",

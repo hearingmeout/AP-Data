@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Calling static calculateBill method - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following code segments, when appearing in a method in a class other than Store, will compile without error?",
+    "description": "Consider the following information about the  calculateBill  method.\n\nThe method is a  static  method in the  Store  class.\n\nThe method has one  int  parameter.\n\nThe method has return type  double.\n\nThe method can be accessed from another class.",
+    "question": "Which of the following code segments, when appearing in a method in a class other than  Store,  will compile without error?",
     "image": null,
     "choices": [
       {
@@ -16,11 +16,11 @@
         "image": null
       },
       {
-        "label": "double tot; tot.calculateBill(5);",
+        "label": "double tot;\ntot.calculateBill(5);",
         "image": null
       },
       {
-        "label": "double tot = 5.0; tot.calculateBill();",
+        "label": "double tot = 5.0;\ntot.calculateBill();",
         "image": null
       }
     ],

@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "What can be determined from the course grade data",
   "content": {
-    "description": "An administrator at the school has data about hundreds of students in a particular course. While the administrator does not know the values of each student’s individual assignment scores, the administrator does have the following information for each student.",
-    "question": "The student name A unique student ID number The number of assignments for the course The average assignment score before the lowest score was dropped The course grade after the lowest score was dropped Which of the following CANNOT be determined from this data alone?",
+    "description": "A student’s overall course grade in a certain class is based on the student’s scores on individual assignments. The course grade is calculated by dropping the student’s lowest individual assignment score and averaging the remaining scores.\n\nFor example, if a particular student has individual assignment scores of 85, 75, 90, and 95, the lowest score (75) is dropped. The calculated course grade is <math alttext=\"open parenthesis, 85 plus 90 plus 95, close parenthesis, divided by 3, equals 90\" overflow=\"scroll\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle><mrow><mrow><mo>(</mo><mn>85</mn><mo>+</mo><mn>90</mn><mo>+</mo><mn>95</mn><mo>)</mo><mo>/</mo><mn>3</mn><mo>=</mo><mn>90</mn></mrow></mrow></mstyle></math>.",
+    "question": "An administrator at the school has data about hundreds of students in a particular course. While the administrator does not know the values of each student’s individual assignment scores, the administrator does have the following information for each student.\n\nThe student name\n\nA unique student ID number\n\nThe number of assignments for the course\n\nThe average assignment score before the lowest score was dropped\n\nThe course grade after the lowest score was dropped\n\nWhich of the following CANNOT be determined from this data alone?",
     "image": null,
     "choices": [
       {

@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "while loop with compound Boolean expression",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "int num1 = 0; int num2 = 3; while ((num2 != 0) && ((num1 / num2) >= 0)) { num1 = num1 + 2; num2 = num2 - 1; } What are the values of numl and num2 after the while loop completes its execution?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nint num1 = 0;\n\nint num2 = 3;\n\nwhile ((num2 != 0) && ((num1 / num2) >= 0))\n\n{\n\nnum1 = num1 + 2;\n\nnum2 = num2 - 1;\n\n}\n\nWhat are the values of numl and num2 after the while loop completes its execution?",
     "image": null,
     "choices": [
       {

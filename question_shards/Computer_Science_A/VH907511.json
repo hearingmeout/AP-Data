@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "ExamScore class",
   "content": {
-    "description": "Consider the following class definition.",
-    "question": "public class ExamScore { private String studentId; private double score; public ExamScore(String sid, double s) { studentId = sid; score = s; } public double getScore() { return score; } public void bonus(int b) { score += score * b/100.0; } } Assume that the following code segment appears in a class other than ExamScore. ExamScore es = new ExamScore(\"12345\", 80.0); es.bonus(5); System.out.println(es.getScore()); What is printed as a result of executing the code segment?",
+    "description": "",
+    "question": "Consider the following class definition.\n\npublic class ExamScore\n\n{\n\nprivate String studentId;\n\nprivate double score;\n\npublic ExamScore(String sid, double s)\n\n{\n\nstudentId = sid;\n\nscore = s;\n\n}\n\npublic double getScore()\n\n{\n\nreturn score;\n\n}\n\npublic void bonus(int b)\n\n{\n\nscore += score * b/100.0;\n\n}\n\n}\n\nAssume that the following code segment appears in a class other than ExamScore.\n\nExamScore es = new ExamScore(\"12345\", 80.0);\n\nes.bonus(5);\n\nSystem.out.println(es.getScore());\n\nWhat is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {

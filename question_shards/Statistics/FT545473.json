@@ -1,0 +1,45 @@
+{
+  "id": "FT545473",
+  "type": "mcq",
+  "title": "Explain independence condition for t-interval",
+  "content": {
+    "description": "",
+    "question": "When using a one-sample t-procedure to construct a confidence interval for the mean of a finite population, a condition is that the population size be at least 10 times the sample size. The reason for the condition is to ensure that",
+    "image": null,
+    "choices": [
+      {
+        "label": "the sample size is large enough",
+        "image": null
+      },
+      {
+        "label": "the central limit theorem is applicable for the sample mean",
+        "image": null
+      },
+      {
+        "label": "the sample standard deviation is a good approximation of the population standard deviation",
+        "image": null
+      },
+      {
+        "label": "the degree of dependence among observations is negligible",
+        "image": null
+      },
+      {
+        "label": "the sampling method is not biased",
+        "image": null
+      }
+    ],
+    "answer": "the degree of dependence among observations is negligible"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Inference for Quantitative Data-Means"
+  },
+  "topic": {
+    "code": "7.2",
+    "text": "7.2: Constructing a Confidence Interval for a Population Mean"
+  },
+  "skill": {
+    "code": "Skill 4.C",
+    "text": "Skill 4.C: Verify that inference procedures apply in a given situation."
+  }
+}

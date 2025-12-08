@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "2D array bounds error",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "int[][] anArray = new int[10][8]; for (int j = 0; j < 8; j++) { for (int k = 0; k < 10; k++) { anArray[j][k] = 5; } } The code segment causes an ArrayIndexOutOfBoundsException to be thrown. How many elements in anArray will be set to 5 before the exception is thrown?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nint[][] anArray = new int[10][8];\n\nfor (int j = 0; j < 8; j++)\n\n{\n\nfor (int k = 0; k < 10; k++)\n\n{\n\nanArray[j][k] = 5;\n\n}\n\n}\n\nThe code segment causes an ArrayIndexOutOfBoundsException to be thrown. How many elements in anArray will be set to 5 before the exception is thrown?",
     "image": null,
     "choices": [
       {

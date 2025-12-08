@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Advanced Placement dot equals and equals equals",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "String str1 = new String(\"Advanced Placement\");String str2 = new String(\"Advanced Placement\");if (str1.equals(str2) && str1 == str2){System.out.println(\"A\");}else if (str1.equals(str2) && str1 != str2){System.out.println(\"B\");}else if (!str1.equals(str2) && str1 == str2){System.out.println(\"C\");}else if (!str1.equals(str2) && str1 != str2){System.out.println(\"D\");}What, if anything, is printed when the code segment is executed?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nString str1 = new String(\"Advanced Placement\");\nString str2 = new String(\"Advanced Placement\");\n\nif (str1.equals(str2) && str1 == str2)\n{\nSystem.out.println(\"A\");\n}\nelse if (str1.equals(str2) && str1 != str2)\n{\nSystem.out.println(\"B\");\n}\nelse if (!str1.equals(str2) && str1 == str2)\n{\nSystem.out.println(\"C\");\n}\nelse if (!str1.equals(str2) && str1 != str2)\n{\nSystem.out.println(\"D\");\n}\nWhat, if anything, is printed when the code segment is executed?",
     "image": null,
     "choices": [
       {

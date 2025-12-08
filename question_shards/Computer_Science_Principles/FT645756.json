@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Correcting errors in procedure Multiply",
   "content": {
-    "description": "Under which of the following conditions will the procedure NOT return the correct product?",
-    "question": "Select two answers.",
+    "description": "A program is created to perform arithmetic operations on positive and negative integers. The program contains the following incorrect procedure, which is intended to return the product of the integers  and .\n\nA programmer suspects that an error in the program is caused by this procedure.",
+    "question": "Under which of the following conditions will the procedure NOT return the correct product?\n\nSelect two answers.",
     "image": null,
     "choices": [
       {
-        "label": "When the values of and are both positive.",
-        "image": "https://ap.oly.st/images/5f9846c8ac2da0858f6e93093f9029c8.jpg"
+        "label": "When the values of  and  are both positive.",
+        "image": null
       },
       {
-        "label": "When the values of is positive and the value of is negative.",
-        "image": "https://ap.oly.st/images/e5b95264155c673774ad297d4a7a0a23.jpg"
+        "label": "When the values of  is positive and the value of  is negative.",
+        "image": null
       },
       {
-        "label": "When the values of is negative and the value of is positive.",
-        "image": "https://ap.oly.st/images/8adceb3cc9d917b35bb7911eb9bfe683.jpg"
+        "label": "When the values of  is negative and the value of  is positive.",
+        "image": null
       },
       {
-        "label": "When the values of and are both negative.",
-        "image": "https://ap.oly.st/images/fa12debd9fc1ce49ec4e035316f1835f.jpg"
+        "label": "When the values of  and  are both negative.",
+        "image": null
       }
     ],
-    "answer": "When the values of is positive and the value of is negative."
+    "answer": "When the values of  is positive and the value of  is negative."
   },
   "topic": {
     "code": "1.4",

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Remainder Recursion-Describe behavior",
   "content": {
-    "description": "",
-    "question": "Assume that the int variable num is properly declared and initialized to a value greater than 0. Which of the following best describes the value returned by the call mystery(num)?",
+    "description": "Consider the following method.\n public static int mystery(int n) \n{ \n if (n < 10) \n {\n return n;  \n } \n return (n % 10) + mystery(n / 10);  \n}",
+    "question": "Assume that the  int  variable  num  is properly declared and initialized to a value greater than 0. Which of the following best describes the value returned by the call  mystery(num)?",
     "image": null,
     "choices": [
       {
-        "label": "The value of num",
+        "label": "The value of  num",
         "image": null
       },
       {
-        "label": "The rightmost digit of num",
+        "label": "The rightmost digit of  num",
         "image": null
       },
       {
-        "label": "The sum of the digits of num",
+        "label": "The sum of the digits of  num",
         "image": null
       },
       {
-        "label": "Two times the rightmost digit of num",
+        "label": "Two times the rightmost digit of  num",
         "image": null
       }
     ],
-    "answer": "The sum of the digits of num"
+    "answer": "The sum of the digits of  num"
   },
   "unit": {
     "code": "4",

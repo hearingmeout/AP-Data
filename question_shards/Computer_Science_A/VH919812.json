@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "adjust total when traversing array",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "int[] arr = {4, 3, 2, 1, 0};int total = 0;for (int k = 0; k <= total; k++){if (arr[k] % 2 == 0){total += arr[k];}else{total -= arr[k];}}System.out.print(total);What, if anything, is printed as a result of executing the code segment?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nint[] arr = {4, 3, 2, 1, 0};\nint total = 0;\nfor (int k = 0; k <= total; k++)\n{\nif (arr[k] % 2 == 0)\n{\ntotal += arr[k];\n}\nelse\n{\ntotal -= arr[k];\n}\n}\nSystem.out.print(total);\nWhat, if anything, is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {

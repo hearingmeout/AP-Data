@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Set finalPrice - Determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n double regularPrice = 100.0; \nboolean onClearance = true; \nboolean hasCoupon = false; \n\ndouble finalPrice = regularPrice; \nif (onClearance) \n{ \n   finalPrice -= finalPrice * 0.25; \n} \nif (hasCoupon) \n{ \n   finalPrice -= 5.0; \n} \nSystem.out.println(finalPrice);",
     "question": "What is printed as a result of executing the code segment?",
     "image": null,
     "choices": [

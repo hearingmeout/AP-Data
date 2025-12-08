@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "combine method",
   "content": {
-    "description": "Consider the following method.",
-    "question": "/** Precondition: Strings one and two have the same length. */ public static String combine(String one, String two) { String res = \"\"; for (int k = 0; k < one.length(); k++) { if (one.substring(k, k + 1).equals(two.substring(k, k + 1))) { res += one.substring(k, k + 1); } else { res += \"0\"; } } return res; } What is returned as a result of the call combine(\"10110\", \"01100\") ?",
+    "description": "",
+    "question": "Consider the following method.\n\n/** Precondition: Strings one and two have the same length. */\n\npublic static String combine(String one, String two)\n\n{\n\nString res = \"\";\n\nfor (int k = 0; k < one.length(); k++)\n\n{\n\nif (one.substring(k, k + 1).equals(two.substring(k, k + 1)))\n\n{\n\nres += one.substring(k, k + 1);\n\n}\n\nelse\n\n{\n\nres += \"0\";\n\n}\n\n}\n\nreturn res;\n\n}\n\nWhat is returned as a result of the call combine(\"10110\", \"01100\") ?",
     "image": null,
     "choices": [
       {

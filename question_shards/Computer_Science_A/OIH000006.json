@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "doSomething method - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following implementations of doSomething will allow this code segment to run without error when added to the Widget class?",
+    "description": "Consider the following class definition.\n public class Widget \n{\n private int number; \n private static String word = \"start\";\n\npublic Widget() \n { /* implementation not shown */ }\n}\n\nThe following code segment appears in a class other than  Widget. \n int result = Widget.doSomething();",
+    "question": "Which of the following implementations of  doSomething will allow this code segment to run without error when added to the  Widget  class?",
     "image": null,
     "choices": [
       {
-        "label": "public int doSomething() { return number; }",
+        "label": "public int doSomething() \n{\n return number;\n}",
         "image": null
       },
       {
-        "label": "public int doSomething() { return word.length(); }",
+        "label": "public int doSomething() \n{\n return word.length(); \n}",
         "image": null
       },
       {
-        "label": "public static int doSomething() { return number; }",
+        "label": "public static int doSomething() \n{\n return number; \n}",
         "image": null
       },
       {
-        "label": "public static int doSomething() { return word.length(); }",
+        "label": "public static int doSomething() \n{\n return word.length(); \n}",
         "image": null
       }
     ],
-    "answer": "public static int doSomething() { return word.length(); }"
+    "answer": "public static int doSomething() \n{\n return word.length(); \n}"
   },
   "unit": {
     "code": "3",

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "DrawLine on a coordinate grid",
   "content": {
-    "description": "",
-    "question": "Which of the following can be used to replace <MISSING CODE> so that the figure is drawn correctly?",
+    "description": "Consider the following procedure.\n\nProcedure Call\nExplanation\n\nDrawLine (x1, y1, x2, y2)\nDraws a line segment on a coordinate grid with endpoints at coordinates (x1, y1) and (x2, y2)\n\nThe DrawLine procedure is to be used to draw the following figure on a coordinate grid.\n\nThe following code segment is intended to draw the figure.\n\nstartX <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 2\n\nstartY <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 6\n\nendX <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 8\n\nendY <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 8\n\nREPEAT 4 TIMES\n\n{\n\n<MISSING CODE>\n\n}",
+    "question": "Which of the following can be used to replace <MISSING CODE> so that the figure is drawn correctly?",
     "image": null,
     "choices": [
       {
-        "label": "DrawLine (startX, startY, endX, endY)endY <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> endY - 2",
+        "label": "DrawLine (startX, startY, endX, endY)\nendY <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> endY - 2",
         "image": null
       },
       {
-        "label": "DrawLine (startX, startY, endX, endY)endX <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> endX - 2endY <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> endY - 2",
+        "label": "DrawLine (startX, startY, endX, endY)\nendX <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> endX - 2\nendY <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> endY - 2",
         "image": null
       },
       {
-        "label": "endY <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> endY - 2DrawLine (startX, startY, endX, endY)",
+        "label": "endY <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> endY - 2\nDrawLine (startX, startY, endX, endY)",
         "image": null
       },
       {
-        "label": "endX <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> endX - 2endY <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> endY - 2DrawLine (startX, startY, endX, endY)",
+        "label": "endX <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> endX - 2\nendY <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> endY - 2\nDrawLine (startX, startY, endX, endY)",
         "image": null
       }
     ],
-    "answer": "DrawLine (startX, startY, endX, endY)endY <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> endY - 2"
+    "answer": "DrawLine (startX, startY, endX, endY)\nendY <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> endY - 2"
   },
   "topic": {
     "code": "3.12",

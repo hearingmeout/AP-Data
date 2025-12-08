@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "deposit method in BankAccount class",
   "content": {
-    "description": "Consider the following class, which uses the instance variable balance to represent a bank account balance.",
-    "question": "public class BankAccount{private double balance;public double deposit(double amount){/* missing code */}}The deposit method is intended to increase the account balance by the deposit amount and then return the updated balance. Which of the following code segments should replace /* missing code */ so that the deposit method will work as intended?",
+    "description": "",
+    "question": "Consider the following class, which uses the instance variable balance to represent a bank account balance.\n\npublic class BankAccount\n{\nprivate double balance;\n\npublic double deposit(double amount)\n{\n/* missing code */\n}\n}\nThe deposit method is intended to increase the account balance by the deposit amount and then return the updated balance. Which of the following code segments should replace /* missing code */ so that the deposit method will work as intended?",
     "image": null,
     "choices": [
       {
-        "label": "amount = balance + amount;return amount;",
+        "label": "amount = balance + amount;\nreturn amount;",
         "image": null
       },
       {
-        "label": "balance = amount;return balance;",
+        "label": "balance = amount;\nreturn balance;",
         "image": null
       },
       {
-        "label": "balance = balance + amount;return amount;",
+        "label": "balance = balance + amount;\nreturn amount;",
         "image": null
       },
       {
-        "label": "balance = balance + amount;return balance;",
+        "label": "balance = balance + amount;\nreturn balance;",
         "image": null
       }
     ],
-    "answer": "balance = balance + amount;return balance;"
+    "answer": "balance = balance + amount;\nreturn balance;"
   },
   "unit": {
     "code": "3",

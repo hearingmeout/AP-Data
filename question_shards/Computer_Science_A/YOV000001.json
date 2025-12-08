@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "scores array - determine behavior",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n int[] scores = {85, 92, 78, 90, 88};\nscores[1] *= 2; // Line 2\nscores[2] += 10; // Line 3",
     "question": "Which of the following best describes the behavior of lines 2 and 3 in the code segment?",
     "image": null,
     "choices": [

@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "nested if-else start end - determine result",
   "content": {
-    "description": "",
-    "question": "What is the value of end after the code segment is executed?",
+    "description": "Consider the following code segment.\n int start = 4; \nint end = 5; \n\nif (start < end) \n{ \n   if (end > 0) \n   { \n      start += 2; \n      end++; \n   } \n   else \n   { \n      end += 3; \n   } \n} \n\nif (start < end) \n{ \n   if (end == 0) \n   { \n      end += 2; \n      start++; \n   } \n   else \n   { \n      end += 4; \n   } \n}",
+    "question": "What is the value of  end  after the code segment is executed?",
     "image": null,
     "choices": [
       {

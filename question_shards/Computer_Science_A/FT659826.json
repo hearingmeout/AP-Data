@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "mystery with int array instance variable s1",
   "content": {
-    "description": "The question refer to the following data field and method.",
-    "question": "private int[] arr; // precondition: arr.length > 0 public void mystery() { int sl = 0; int s2 = 0; for (int k = 0; k < arr.length; k++) { int num = arr[k]; if ((num > 0) && (num % 2 == 0)) sl += num; else if (num < 0) s2 += num; } System.out.println(s1); System.out.println(s2); } Which of the following best describes the value of s1 output by the method mystery ?",
+    "description": "",
+    "question": "The question refer to the following data field and method.\n\nprivate int[] arr;\n\n// precondition: arr.length > 0\n\npublic void mystery()\n\n{\n\nint sl = 0;\n\nint s2 = 0;\n\nfor (int k = 0; k < arr.length; k++)\n\n{\n\nint num = arr[k];\n\nif ((num > 0) && (num % 2 == 0))\n\nsl += num;\n\nelse if (num < 0)\n\ns2 += num;\n\n}\n\nSystem.out.println(s1);\n\nSystem.out.println(s2);\n\n}\n\nWhich of the following best describes the value of s1 output by the method mystery ?",
     "image": null,
     "choices": [
       {

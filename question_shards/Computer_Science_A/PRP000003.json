@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Substrings of qrstu - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n String str = \"qrstu\";\nString result = \"\";\nfor (int j = 0; j < str.length(); j++)\n{\n result += str.substring(0, j + 1);\n}\nSystem.out.println(result);",
     "question": "What, if anything, is printed as a result of executing this code segment?",
     "image": null,
     "choices": [
@@ -20,7 +20,7 @@
         "image": null
       },
       {
-        "label": "Nothing is printed because an IndexOutOfBoundsException occurs.",
+        "label": "Nothing is printed because an  IndexOutOfBoundsException  occurs.",
         "image": null
       }
     ],

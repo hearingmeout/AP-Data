@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "volume of a cylinder",
   "content": {
-    "description": "The volume of a cylinder is equal to the height times the area of the circular base. The area of the circular base is equal to <math alttext=\"pi\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>π</mi></mrow></mstyle></math> (pi) times the square of the radius.",
-    "question": "The code segment below is intended to compute and print the volume of a cylinder with radius r and height h. Assume that the double variables r, h, and pi have been properly declared and initialized./* missing code */System.out.print(volume);Which of the following can be used to replace /* missing code */ so that the code segment works as intended?double baseArea = pi * r * r;double volume = baseArea * h;double volume = pi * r * r;volume = volume * h;double volume = pi * r * r * h;",
+    "description": "",
+    "question": "The volume of a cylinder is equal to the height times the area of the circular base. The area of the circular base is equal to <math alttext=\"pi\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>π</mi></mrow></mstyle></math> (pi) times the square of the radius.\nThe code segment below is intended to compute and print the volume of a cylinder with radius r and height h. Assume that the double variables r, h, and pi have been properly declared and initialized.\n\n/* missing code */\nSystem.out.print(volume);\nWhich of the following can be used to replace /* missing code */ so that the code segment works as intended?\ndouble baseArea = pi * r * r;double volume = baseArea * h;\ndouble volume = pi * r * r;volume = volume * h;\ndouble volume = pi * r * r * h;",
     "image": null,
     "choices": [
       {

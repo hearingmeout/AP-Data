@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Vbox class - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following declarations, appearing in a class other than Vbox, will correctly instantiate a Vbox object?",
+    "description": "The Vbox class includes the following two constructors.\n\nConstructor Signature\nExplanationpublic vBox(int w, int h, int d)Constructs a Vbox object that represents a box with width w, height h, and depth d.public vBox(int len)Constructs a Vbox object that represents a box with width len, height len, and depth len.",
+    "question": "Which of the following declarations, appearing in a class other than Vbox, will correctly instantiate a Vbox object?",
     "image": null,
     "choices": [
       {

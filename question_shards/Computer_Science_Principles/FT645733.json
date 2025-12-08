@@ -3,25 +3,25 @@
   "type": "mcq",
   "title": "NAND logic gate",
   "content": {
-    "description": "",
-    "question": "Which of the following Boolean expressions correctly models a gate with inputs and ?",
-    "image": "https://ap.oly.st/images/1f8efb480b3571db1f5bdecd63c519a9.JPG",
+    "description": "A  gate is a type of logic gate that produces an output of  only when both of its two inputs are . Otherwise, the gate produces an output of .",
+    "question": "Which of the following Boolean expressions correctly models a  gate with inputs  and  ?",
+    "image": null,
     "choices": [
       {
         "label": "Open parenthesis, NOT P, close parenthesis, and, open parenthesis, NOT Q, close parenthesis",
-        "image": "https://ap.oly.st/images/b14cc9400de926fcb5ec1be84e9879bc.JPG"
+        "image": null
       },
       {
         "label": "Open parenthesis, NOT P, close parenthesis, and Q",
-        "image": "https://ap.oly.st/images/7c98ea2ca4b63e2b8ed336719c5815e5.JPG"
+        "image": null
       },
       {
         "label": "NOT, open parenthesis, P AND Q, close parenthesis",
-        "image": "https://ap.oly.st/images/8d3efb2aa2da025f863c3196fb7df844.JPG"
+        "image": null
       },
       {
         "label": "NOT, open parenthesis, P OR Q, close parenthesis",
-        "image": "https://ap.oly.st/images/edd50944c129251e04ba598f172c6a55.JPG"
+        "image": null
       }
     ],
     "answer": "NOT, open parenthesis, P AND Q, close parenthesis"

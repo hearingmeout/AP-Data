@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "mystery array traversal - determine result",
   "content": {
-    "description": "",
-    "question": "What value is returned as a result of the call mystery(nums)?",
+    "description": "Consider the following method.\n public static int mystery(int[] arr)\n{\n int x = 0;\n for (int k = 0; k < arr.length; k = k + 2)\n {\n x = x + arr[k];\n }\n return x;\n}\n\nAssume that the array  nums  has been declared and initialized as follows.\n int[] nums = {3, 6, 1, 0, 1, 4, 2};",
+    "question": "What value is returned as a result of the call  mystery(nums)?",
     "image": null,
     "choices": [
       {

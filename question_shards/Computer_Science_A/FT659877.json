@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Replacing items in nameList ArrayList",
   "content": {
-    "description": "Consider the following method that is intended to modify its parameter nameList by replacing all occurrences of name with newValue.",
-    "question": "public void replace(ArrayList<String> nameList, String name, String newValue) { for (int j = 0; j < nameList.size(); j++) { if ( /* expression */ ) { nameList.set(j, newValue); } } } Which of the following can be used to replace /* expression */ so that replace will work as intended?",
+    "description": "",
+    "question": "Consider the following method that is intended to modify its parameter nameList by replacing all occurrences of name with newValue.\n\npublic void replace(ArrayList<String> nameList,\n\nString name, String newValue)\n\n{\n\nfor (int j = 0; j < nameList.size(); j++)\n\n{\n\nif ( /* expression */ )\n\n{\n\nnameList.set(j, newValue);\n\n}\n\n}\n\n}\n\nWhich of the following can be used to replace /* expression */ so that replace will work as intended?",
     "image": null,
     "choices": [
       {

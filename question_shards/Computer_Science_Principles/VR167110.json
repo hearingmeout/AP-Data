@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Largest possible sum of values from theList",
   "content": {
-    "description": "Consider the following code segment. Assume that index1 is a number between 1 and LENGTH(theList), inclusive, and index2 is a number between 2 and LENGTH(theList) - 1, inclusive.",
-    "question": "theList <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> [9, -1, 5, 2, 4, 8]x <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> theList[index1] + theList[index2]What is the largest possible value that the variable x can have after the code segment executes?",
+    "description": "",
+    "question": "Consider the following code segment. Assume that index1 is a number between 1 and LENGTH(theList), inclusive, and index2 is a number between 2 and LENGTH(theList) - 1, inclusive.\n\ntheList <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> [9, -1, 5, 2, 4, 8]\nx <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> theList[index1] + theList[index2]\nWhat is the largest possible value that the variable x can have after the code segment executes?",
     "image": null,
     "choices": [
       {

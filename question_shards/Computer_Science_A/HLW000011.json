@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "ComputeObject - describe behavior",
   "content": {
-    "description": "",
+    "description": "Consider the following class definition.\n public class ComputeObject \n{\n private int limit;\n private int val; \n\npublic ComputeObject() \n {\n limit = 7; \n val = 10; \n } \n\npublic int sumProd(int limit) \n {\n int total = 0; \n for (int val = 0; val < limit; val++) \n { \n total += val; \n } \n total *= val; \n return total; \n }\n}\n\nThe following code segment appears in a class other than  ComputeObject.\n ComputeObject s = new ComputeObject();\nSystem.out.println(s.sumProd(5));",
     "question": "Which of the following best describes the behavior of this code segment?",
     "image": null,
     "choices": [
       {
-        "label": "The sumProd method accumulates the sum of the integers 0 through 4, multiplies the sum by 5, and returns the value 50, which is then printed.",
+        "label": "The  sumProd  method accumulates the sum of the integers 0 through 4, multiplies the sum by 5, and returns the value 50, which is then printed.",
         "image": null
       },
       {
-        "label": "The sumProd method accumulates the sum of the integers 0 through 4, multiplies the sum by 10, and returns the value 100, which is then printed.",
+        "label": "The  sumProd  method accumulates the sum of the integers 0 through 4, multiplies the sum by 10, and returns the value 100, which is then printed.",
         "image": null
       },
       {
-        "label": "The sumProd method accumulates the sum of the integers 0 through 6, multiplies the sum by 7, and returns the value 147, which is then printed.",
+        "label": "The  sumProd  method accumulates the sum of the integers 0 through 6, multiplies the sum by 7, and returns the value 147, which is then printed.",
         "image": null
       },
       {
-        "label": "The sumProd method accumulates the sum of the integers 0 through 6, multiplies the sum by 10, and returns the value 210, which is then printed.",
+        "label": "The  sumProd  method accumulates the sum of the integers 0 through 6, multiplies the sum by 10, and returns the value 210, which is then printed.",
         "image": null
       }
     ],
-    "answer": "The sumProd method accumulates the sum of the integers 0 through 4, multiplies the sum by 10, and returns the value 100, which is then printed."
+    "answer": "The  sumProd  method accumulates the sum of the integers 0 through 4, multiplies the sum by 10, and returns the value 100, which is then printed."
   },
   "unit": {
     "code": "3",

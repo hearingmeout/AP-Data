@@ -1,0 +1,41 @@
+{
+  "id": "VR733142",
+  "type": "mcq",
+  "title": "Justification - Intermediate Value Theorem",
+  "content": {
+    "description": "",
+    "question": "The function <math alttext=\"f\" overflow=\"scroll\"><mi>f</mi></math> is continuous on the closed interval <math alttext=\"open bracket, a, comma b, close bracket\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>[</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>]</mo></mrow></mrow></mstyle></math>, where <math alttext=\"a\" overflow=\"scroll\"><mi>a</mi></math> and <math alttext=\"b\" overflow=\"scroll\"><mi>b</mi></math> are constants and <math alttext=\"a, is less than b\" overflow=\"scroll\"><mstyle><mrow><mi>a</mi><mo>&lt;</mo><mi>b</mi></mrow></mstyle></math>. If <math alttext=\"f of a, is less than 0, which is less than f of b\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>a</mi><mo>)</mo></mrow><mo>&lt;</mo><mn>0</mn><mo>&lt;</mo><mi>f</mi><mrow><mo>(</mo><mi>b</mi><mo>)</mo></mrow></mrow></mstyle></math>, which of the following statements must be true?",
+    "image": null,
+    "choices": [
+      {
+        "label": "There is at least one value of <math alttext=\"x\" overflow=\"scroll\"> <mi>x</mi> </math> in the interval <math alttext=\"open parenthesis, a, comma b, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mrow><mi>a</mi></mrow><mo>,</mo><mrow><mi>b</mi></mrow><mo>)</mo></mrow></mrow></mstyle></math> such that <math alttext=\"f of x equals 0\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>0</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "There is at least one value of <math alttext=\"x\" overflow=\"scroll\"> <mi>x</mi> </math> in the interval <math alttext=\"open parenthesis, a, comma b, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mrow><mi>a</mi></mrow><mo>,</mo><mrow><mi>b</mi></mrow><mo>)</mo></mrow></mrow></mstyle></math> such that <math alttext=\"f prime of x equals, the fraction with numerator f of b, minus f of a, and denominator b minus a, end fraction\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>f</mi><mrow><mo>(</mo><mi>b</mi><mo>)</mo></mrow><mo>−</mo><mi>f</mi><mrow><mo>(</mo><mi>a</mi><mo>)</mo></mrow></mrow><mrow><mi>b</mi><mo>−</mo><mi>a</mi></mrow></mfrac></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f prime of x is greater than 0\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>f</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>&gt;</mo><mn>0</mn></mrow></mstyle></math> for all <math alttext=\"x\" overflow=\"scroll\"> <mi>x</mi> </math> in the interval <math alttext=\"open parenthesis, a, comma b, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mrow><mi>a</mi></mrow><mo>,</mo><mrow><mi>b</mi></mrow><mo>)</mo></mrow></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"f of a, is less than f of x, which is less than f of b\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>a</mi><mo>)</mo></mrow><mo>&lt;</mo><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>&lt;</mo><mi>f</mi><mrow><mo>(</mo><mi>b</mi><mo>)</mo></mrow></mrow></mstyle></math> for all <math alttext=\"x\" overflow=\"scroll\"> <mi>x</mi> </math> in the interval <math alttext=\"open parenthesis, a, comma b, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mrow><mi>a</mi></mrow><mo>,</mo><mrow><mi>b</mi></mrow><mo>)</mo></mrow></mrow></mstyle></math>.",
+        "image": null
+      }
+    ],
+    "answer": "There is at least one value of <math alttext=\"x\" overflow=\"scroll\"> <mi>x</mi> </math> in the interval <math alttext=\"open parenthesis, a, comma b, close parenthesis\" overflow=\"scroll\"><mstyle><mrow><mrow><mo>(</mo><mrow><mi>a</mi></mrow><mo>,</mo><mrow><mi>b</mi></mrow><mo>)</mo></mrow></mrow></mstyle></math> such that <math alttext=\"f of x equals 0\" overflow=\"scroll\"><mstyle><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>0</mn></mrow></mstyle></math>."
+  },
+  "unit": {
+    "code": "1",
+    "text": "1: Limits and Continuity"
+  },
+  "topic": {
+    "code": "1.16",
+    "text": "1.16: Working with the Intermediate Value Theorem (IVT)"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Provide reasons or rationales for solutions and conclusions."
+  }
+}

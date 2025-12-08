@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Error in calculating sum",
   "content": {
-    "description": "",
+    "description": "Assume that the list of numbers nums has more than 10 elements. The program below is intended to compute and display the sum of the first 10 elements of nums.\n\nLine 1: i <math alttext=\"←\" overflow=\"scroll\"> <mrow> <mo>←</mo> </mrow> </math> 1\n\nLine 2: sum <math alttext=\"←\" overflow=\"scroll\"><mrow><mo>←</mo></mrow></math> 0\n\nLine 3: REPEAT UNTIL (i > 10)\n\nLine 4: {\n\nLine 5:    i <math alttext=\"←\" overflow=\"scroll\"><mrow><mo>←</mo></mrow></math> i + 1\n\nLine 6:    sum <math alttext=\"←\" overflow=\"scroll\"><mrow><mo>←</mo></mrow></math> sum + nums[i]\n\nLine 7: }\n\nLine 8: DISPLAY (sum)",
     "question": "Which change, if any, is needed for the program to work as intended?",
     "image": null,
     "choices": [
@@ -12,7 +12,7 @@
         "image": null
       },
       {
-        "label": "Line 3 should be changed to REPEAT UNTIL (i ≥ 10).",
+        "label": "Line 3 should be changed to REPEAT UNTIL (i ≥ 10).",
         "image": null
       },
       {

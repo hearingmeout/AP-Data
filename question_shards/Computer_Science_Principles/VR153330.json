@@ -3,25 +3,25 @@
   "type": "mcq",
   "title": "Display up down down down up down down down",
   "content": {
-    "description": "",
+    "description": "A code segment is intended to display the following output.\n\nup down down down up down down down",
     "question": "Which of the following code segments can be used to display the intended output?",
     "image": null,
     "choices": [
       {
         "label": "The figure presents one block of code that consists of 4 lines. Throughout the block of code there are nested blocks of code, as follows. [Begin Block] Line 1: REPEAT 2 TIMES [Begin Block] Line 2: [begin block] DISPLAY [begin block] “up” [end block] [end block] [Begin Block] Line 3: REPEAT 3 TIMES [Begin Block] [begin block] Line 4: DISPLAY [begin block] “down” [end block] [end block] [End Block] [End Block] [End Block] [End Block]",
-        "image": "https://ap.oly.st/images/22fbcda4f92362ed362bde84d45ebed2.png"
+        "image": null
       },
       {
         "label": "The figure presents one block of code that consists of 4 lines. Throughout the block of code there are nested blocks of code, as follows. [Begin Block] Line 1: REPEAT 3 TIMES [Begin Block] Line 2: [begin block] DISPLAY [begin block] “up” [end block] [end block] [Begin Block] Line 3: REPEAT 2 TIMES [Begin Block] [begin block] Line 4: DISPLAY [begin block] “down” [end block] [end block] [End Block] [End Block] [End Block] [End Block]",
-        "image": "https://ap.oly.st/images/fc6e8054fc50742ef47942d266819ca5.png"
+        "image": null
       },
       {
         "label": "The figure presents one block of code that consists of 4 lines. Throughout the block of code there are nested blocks of code, as follows. [Begin Block] Line 1: REPEAT 2 TIMES [Begin Block] [Begin Block] Line 2: REPEAT 3 TIMES [Begin Block] Line 3: [begin block] DISPLAY [begin block] “up” [end block] [end block] [End Block] [End Block] Line 4: [begin block] DISPLAY [begin block] “down” [end block] [end block] [End Block] [End Block]",
-        "image": "https://ap.oly.st/images/effc79e1a5ea91a19810f872c8f848ca.png"
+        "image": null
       },
       {
         "label": "The figure presents one block of code that consists of 4 lines. Throughout the block of code there are nested blocks of code, as follows. [Begin Block] Line 1: REPEAT 3 TIMES [Begin Block] [Begin Block] Line 2: REPEAT 2 TIMES [Begin Block] Line 3: [begin block] DISPLAY [begin block] “up” [end block] [end block] [End Block] [End Block] Line 4: [begin block] DISPLAY [begin block] “down” [end block] [end block] [End Block] [End Block]",
-        "image": "https://ap.oly.st/images/a4ab149db0cf8a842a012145e7996d36.png"
+        "image": null
       }
     ],
     "answer": "The figure presents one block of code that consists of 4 lines. Throughout the block of code there are nested blocks of code, as follows. [Begin Block] Line 1: REPEAT 2 TIMES [Begin Block] Line 2: [begin block] DISPLAY [begin block] “up” [end block] [end block] [Begin Block] Line 3: REPEAT 3 TIMES [Begin Block] [begin block] Line 4: DISPLAY [begin block] “down” [end block] [end block] [End Block] [End Block] [End Block] [End Block]"

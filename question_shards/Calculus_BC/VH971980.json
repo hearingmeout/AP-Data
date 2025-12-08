@@ -1,0 +1,41 @@
+{
+  "id": "VH971980",
+  "type": "mcq",
+  "title": "Processes - Local Linear Approximation",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> be a differentiable function such that <math alttext=\"g of 3, equals 2 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi><mo>(</mo><mn>3</mn><mo>)</mo><mo>=</mo><mn>2</mn></mrow></mstyle></math> and <math alttext=\"g prime of 3, equals, negative three fourths \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>g</mi></mrow><mrow><mo>′</mo></mrow></msup><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow><mo>=</mo><mrow><mo>−</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></mrow></mstyle></math>. The graph of <math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mrow><mi>g</mi></mrow></math> is concave down on the interval <math alttext=\"open parenthesis, 2 comma 4, close parenthesis \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>(</mo><mn>2</mn><mo>,</mo><mn>4</mn><mo>)</mo></mrow></mstyle></math>. Which of the following is true about the approximation for <math alttext=\"g of 2.6 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi><mo>(</mo><mn>2.6</mn><mo>)</mo></mrow></mstyle></math> found using the line tangent to the graph of <math alttext=\"g\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi></mrow></mstyle></math> at <math alttext=\"x equals 3 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>x</mi><mo>=</mo><mn>3</mn></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"g of 2.6 is approximately equal to 1.7 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi><mrow><mo>(</mo><mn>2.6</mn><mo>)</mo></mrow><mo>≈</mo><mn>1.7</mn></mrow></mstyle></math> and this approximation is an overestimate of the value of <math alttext=\"g of 2.6 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>g</mi><mo>(</mo><mn>2.6</mn><mo>)</mo></mrow></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"g of 2.6 is approximately equal to 1.7 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mi>g</mi><mrow><mo>(</mo><mn>2.6</mn><mo>)</mo></mrow><mo>≈</mo><mn>1.7</mn></mrow></mstyle></mrow></mstyle></math> and this approximation is an underestimate of the value of <math alttext=\"g of 2.6 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>g</mi><mrow><mo>(</mo><mn>2.6</mn><mo>)</mo></mrow></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"g of 2.6 is approximately equal to 2.3 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mi>g</mi><mrow><mo>(</mo><mn>2.6</mn><mo>)</mo></mrow><mo>≈</mo><mn>2.3</mn></mrow></mstyle></mrow></mstyle></math> and this approximation is an overestimate of the value of <math alttext=\"g of 2.6 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>g</mi><mo>(</mo><mn>2.6</mn><mo>)</mo></mrow></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"g of 2.6 is approximately equal to 2.3 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mi>g</mi><mrow><mo>(</mo><mn>2.6</mn><mo>)</mo></mrow><mo>≈</mo><mn>2.3</mn></mrow></mstyle></mrow></mstyle></math> and this approximation is an underestimate of the value of <math alttext=\"g of 2.6 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>g</mi><mo>(</mo><mn>2.6</mn><mo>)</mo></mrow></mrow></mstyle></math>.",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"g of 2.6 is approximately equal to 2.3 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mstyle><mrow><mi>g</mi><mrow><mo>(</mo><mn>2.6</mn><mo>)</mo></mrow><mo>≈</mo><mn>2.3</mn></mrow></mstyle></mrow></mstyle></math> and this approximation is an overestimate of the value of <math alttext=\"g of 2.6 \" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mrow><mi>g</mi><mo>(</mo><mn>2.6</mn><mo>)</mo></mrow></mrow></mstyle></math>."
+  },
+  "unit": {
+    "code": "4",
+    "text": "4: Contextual Applications of Differentiation"
+  },
+  "topic": {
+    "code": "4.6",
+    "text": "4.6: Approximating Values of a Function Using Local Linearity and Linearization"
+  },
+  "skill": {
+    "code": "Skill 1.F",
+    "text": "Skill 1.F: Explain how an approximated value relates to the actual value."
+  }
+}

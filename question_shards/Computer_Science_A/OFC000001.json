@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Build ArrayLists using scanner - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can replace /* missing code */ so that this code segment works as intended?",
+    "description": "A text file named  sourceText.txt  has the following contents. Assume that the file contains no spaces.\n finest_artist\nbiggest_gamer\nnicest_teacher\nbest_athlete\n\nIn the following code segment, a valid  Scanner  object named  sc  has been created to read from the text file. \n File myText = new File(\"sourceText.txt\");\nScanner sc = new Scanner(myText);\n\nArrayList<String> firstList = new ArrayList<String>();\nArrayList<String> secondList = new ArrayList<String>();\n\n/* missing code */\n\nThis code segment is intended to assign  [\"finest\", \"biggest\", \"nicest\", \"best\"]  to  firstList  and to assign  [\"artist\", \"gamer\", \"teacher\", \"athlete\"]  to  secondList.",
+    "question": "Which of the following can replace  /* missing code */  so that this code segment works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "while (sc.hasNext()) { firstList.add(sc.next()); secondList.add(sc.next()); }",
+        "label": "while (sc.hasNext())\n{\n firstList.add(sc.next());\n secondList.add(sc.next());\n}",
         "image": null
       },
       {
-        "label": "while (sc.hasNext()) { firstList.add(sc.next()); } while (sc.hasNext()) { secondList.add(sc.next()); }",
+        "label": "while (sc.hasNext())\n{\n firstList.add(sc.next());\n}\nwhile (sc.hasNext())\n{\n secondList.add(sc.next());\n}",
         "image": null
       },
       {
-        "label": "while (sc.hasNext()) { String[] temp = sc.next().split(\"_\"); firstList.add(temp[0]); secondList.add(temp[1]); }",
+        "label": "while (sc.hasNext())\n{\n String[] temp = sc.next().split(\"_\");\n firstList.add(temp[0]);\n secondList.add(temp[1]);\n}",
         "image": null
       },
       {
-        "label": "while (sc.hasNext()) { String[] temp = sc.next().split(\"_\"); firstList.add(temp[0]); firstList.add(temp[1]); } while (sc.hasNext()) { String[] temp = sc.next().split(\"_\"); secondList.add(temp[0]); secondList.add(temp[1]); }",
+        "label": "while (sc.hasNext())\n{\n String[] temp = sc.next().split(\"_\");\n firstList.add(temp[0]);\n firstList.add(temp[1]);\n}\nwhile (sc.hasNext())\n{\n String[] temp = sc.next().split(\"_\");\n secondList.add(temp[0]);\n secondList.add(temp[1]);\n}",
         "image": null
       }
     ],
-    "answer": "while (sc.hasNext()) { String[] temp = sc.next().split(\"_\"); firstList.add(temp[0]); secondList.add(temp[1]); }"
+    "answer": "while (sc.hasNext())\n{\n String[] temp = sc.next().split(\"_\");\n firstList.add(temp[0]);\n secondList.add(temp[1]);\n}"
   },
   "unit": {
     "code": "4",

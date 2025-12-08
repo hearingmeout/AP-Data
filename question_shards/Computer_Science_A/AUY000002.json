@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Scanning ints from file - initial conditions",
   "content": {
-    "description": "",
-    "question": "Which of the following could be the contents of input.txt so that the variables firstIn, secondIn, and thirdIn are each assigned a valid value by the code segment?",
+    "description": "In the following code segment, a valid  Scanner  object named  scan  is created to read from the text file  input.txt. \n File readFile = new File(\"input.txt\");\nScanner scan = new Scanner(readFile);\n\nint firstIn = scan.nextInt();\nint secondIn = scan.nextInt();\nint thirdIn = scan.nextInt();",
+    "question": "Which of the following could be the contents of  input.txt  so that the variables  firstIn,  secondIn,  and  thirdIn  are each assigned a valid value by the code segment?",
     "image": null,
     "choices": [
       {
@@ -12,7 +12,7 @@
         "image": null
       },
       {
-        "label": "1 2 3",
+        "label": "1\n2\n3",
         "image": null
       },
       {
@@ -24,7 +24,7 @@
         "image": null
       }
     ],
-    "answer": "1 2 3"
+    "answer": "1\n2\n3"
   },
   "unit": {
     "code": "4",

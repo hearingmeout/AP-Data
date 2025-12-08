@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Item class - explain error",
   "content": {
-    "description": "",
+    "description": "Consider the following class definition.\n public class Item\n{\n private double price;\n\npublic Item(double price)\n {\n price = price;\n }\n\npublic double getPrice()\n {\n return price;\n }\n\n/* There are no other instance variables,\n methods, or constructors. */\n}\n\nThe following code segment appears in a class other than  Item.  The code segment is intended to print the value  2.0  but does not work as intended.\n Item pen = new Item(2.0);\nSystem.out.println(pen.getPrice());",
     "question": "Which of the following best explains why the code segment does not work as intended?",
     "image": null,
     "choices": [
       {
-        "label": "The code segment does not compile because the call to the Item constructor uses incorrect syntax.",
+        "label": "The code segment does not compile because the call to the  Item  constructor uses incorrect syntax.",
         "image": null
       },
       {
-        "label": "The Item class does not compile because the getPrice method does not have access to a variable named price.",
+        "label": "The  Item  class does not compile because the  getPrice  method does not have access to a variable named  price.",
         "image": null
       },
       {
-        "label": "The instance variable price is not assigned a value in the Item constructor because the constructor does not return a value.",
+        "label": "The instance variable  price  is not assigned a value in the  Item  constructor because the constructor does not return a value.",
         "image": null
       },
       {
-        "label": "The instance variable price is not assigned a value in the Item constructor because the constructor assigns a value to the parameter instead of the instance variable.",
+        "label": "The instance variable  price  is not assigned a value in the  Item  constructor because the constructor assigns a value to the parameter instead of the instance variable.",
         "image": null
       }
     ],
-    "answer": "The instance variable price is not assigned a value in the Item constructor because the constructor assigns a value to the parameter instead of the instance variable."
+    "answer": "The instance variable  price  is not assigned a value in the  Item  constructor because the constructor assigns a value to the parameter instead of the instance variable."
   },
   "unit": {
     "code": "3",

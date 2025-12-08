@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Calling static getTax method - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following information about the  getTax  method.\n\nThe method is a  static  method in the  PurchaseManager  class.\n\nThe method has one  double  parameter.\n\nThe method returns a  double  equal to its parameter times  0.08.\n\nThe following code segment appears in another method in the  PurchaseManager  class.\n double tax = getTax(100.0);\nSystem.out.println(tax);",
     "question": "What, if anything, is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
@@ -16,11 +16,11 @@
         "image": null
       },
       {
-        "label": "Nothing is printed because the method call should be PurchaseManager.getTax(100.0).",
+        "label": "Nothing is printed because the method call should be  PurchaseManager.getTax(100.0).",
         "image": null
       },
       {
-        "label": "Nothing is printed because the return value from getTax cannot be assigned to the variable tax.",
+        "label": "Nothing is printed because the return value from  getTax  cannot be assigned to the variable  tax.",
         "image": null
       }
     ],

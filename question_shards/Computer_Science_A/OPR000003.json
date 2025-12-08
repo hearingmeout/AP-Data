@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "BankAccount class - explain why will not work",
   "content": {
-    "description": "",
-    "question": "Which of the following best explains why the deposit method does not work as intended?",
+    "description": "Consider the following class, which models a bank account. The deposit method is intended to update the account balance by a given amount; however, it does not work as intended.\n public class BankAccount\n{\n private String accountOwnerName;\n private double balance;\n private int accountNumber;\n\npublic BankAccount(String name, double initialBalance, int acctNum)\n {\n accountOwnerName = name;\n balance = initialBalance;\n accountNumber = acctNum;\n }\n\npublic void deposit(double amount)\n {\n double balance = balance + amount;\n }\n}",
+    "question": "Which of the following best explains why the deposit method does not work as intended?",
     "image": null,
     "choices": [
       {
-        "label": "The deposit method must have a return statement.",
+        "label": "The deposit method must have a return statement.",
         "image": null
       },
       {
-        "label": "In the deposit method, the variable balance should be replaced by the variable initialBalance.",
+        "label": "In the deposit method, the variable balance should be replaced by the variable initialBalance.",
         "image": null
       },
       {
-        "label": "In the deposit method, the variable balance is declared as a local variable and is different from the instance variable balance.",
+        "label": "In the deposit method, the variable balance is declared as a local variable and is different from the instance variable balance.",
         "image": null
       },
       {
-        "label": "The variable balance must be passed to the deposit method.",
+        "label": "The variable balance must be passed to the deposit method.",
         "image": null
       }
     ],
-    "answer": "In the deposit method, the variable balance is declared as a local variable and is different from the instance variable balance."
+    "answer": "In the deposit method, the variable balance is declared as a local variable and is different from the instance variable balance."
   },
   "unit": {
     "code": "3",

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "sum in for loops - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment. \n int sum = 0; \nfor (int k = 1; k <= 30; k = k + 2) \n{ \n sum += k; \n} \nSystem.out.println(sum);",
     "question": "Which of the following best describes the output of the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "The segment will print the sum of only the even integers from 1 through 30, inclusive, because it starts sum at 0, increments k by 2, and terminates when k exceeds 30.",
+        "label": "The segment will print the sum of only the even integers from 1 through 30, inclusive, because it starts  sum  at  0,  increments  k  by  2,  and terminates when  k  exceeds  30.",
         "image": null
       },
       {
-        "label": "The segment will print the sum of only the odd integers from 1 through 30, inclusive, because it starts k at 1, increments k by 2, and terminates when k exceeds 30.",
+        "label": "The segment will print the sum of only the odd integers from 1 through 30, inclusive, because it starts  k  at  1,  increments  k  by  2,  and terminates when  k  exceeds  30.",
         "image": null
       },
       {
-        "label": "The segment will print the sum of only the even integers from 1 through 60, inclusive, because it starts sum at 0, increments k by 2, and iterates 30 times.",
+        "label": "The segment will print the sum of only the even integers from 1 through 60, inclusive, because it starts  sum  at  0,  increments  k  by  2,  and iterates 30 times.",
         "image": null
       },
       {
-        "label": "The segment will print the sum of only the odd integers from 1 through 60, inclusive, because it starts k at 1, increments k by 2, and iterates 30 times.",
+        "label": "The segment will print the sum of only the odd integers from 1 through 60, inclusive, because it starts  k  at  1,  increments  k  by  2,  and iterates 30 times.",
         "image": null
       }
     ],
-    "answer": "The segment will print the sum of only the odd integers from 1 through 30, inclusive, because it starts k at 1, increments k by 2, and terminates when k exceeds 30."
+    "answer": "The segment will print the sum of only the odd integers from 1 through 30, inclusive, because it starts  k  at  1,  increments  k  by  2,  and terminates when  k  exceeds  30."
   },
   "unit": {
     "code": "2",

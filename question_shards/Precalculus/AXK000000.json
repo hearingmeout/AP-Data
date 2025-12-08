@@ -4,11 +4,11 @@
   "title": "Logarithmic Inequality - domain considerations",
   "content": {
     "description": "",
-    "question": "​The function <math alttext=\"g\"><semantics><mi>g</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is given by <math alttext=\"g open parentheses x close parentheses equals ln open parentheses 3 x plus 1 close parentheses minus ln open parentheses x squared plus x minus 2 close parentheses\"><semantics><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mi>ln</mi><mfenced><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mo>-</mo><mi>ln</mi><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi><mo>-</mo><mn>2</mn></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. What are all values of <math alttext=\"x\"><semantics><mi>x</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> for which <math alttext=\"g open parentheses x close parentheses less than 0\"><semantics><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>&lt;</mo><mn>0</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
+    "question": "​The function <math alttext=\"g\"><semantics><mi>g</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> is given by <math alttext=\"g open parentheses x close parentheses equals ln open parentheses 3 x plus 1 close parentheses minus ln open parentheses x squared plus x minus 2 close parentheses\"><semantics><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>=</mo><mi>ln</mi><mfenced><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mo>-</mo><mi>ln</mi><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi><mo>-</mo><mn>2</mn></mrow></mfenced></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>. What are all values of <math alttext=\"x\"><semantics><mi>x</mi><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> for which <math alttext=\"g open parentheses x close parentheses less than 0\"><semantics><mrow><mi>g</mi><mfenced><mi>x</mi></mfenced><mo>&lt;</mo><mn>0</mn></mrow><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> ?",
     "image": null,
     "choices": [
       {
-        "label": "​<math alttext=\"open parentheses negative infinity comma negative 1 close parentheses\"><semantics><mfenced><mrow><mo>-</mo><mo>∞</mo><mo>,</mo><mo>-</mo><mn>1</mn></mrow></mfenced><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> and <math alttext=\"open parentheses 3 comma infinity close parentheses\"><semantics><mfenced><mrow><mn>3</mn><mo>,</mo><mo>∞</mo></mrow></mfenced><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
+        "label": "​<math alttext=\"open parentheses negative infinity comma negative 1 close parentheses\"><semantics><mfenced><mrow><mo>-</mo><mo>∞</mo><mo>,</mo><mo>-</mo><mn>1</mn></mrow></mfenced><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> and <math alttext=\"open parentheses 3 comma infinity close parentheses\"><semantics><mfenced><mrow><mn>3</mn><mo>,</mo><mo>∞</mo></mrow></mfenced><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math>",
         "image": null
       },
       {
@@ -16,15 +16,15 @@
         "image": null
       },
       {
-        "label": "​<math alttext=\"open parentheses 1 , 3 close parentheses\"><semantics><mfenced><mn>1,3</mn></mfenced><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> only",
+        "label": "​<math alttext=\"open parentheses 1 , 3 close parentheses\"><semantics><mfenced><mn>1,3</mn></mfenced><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> only",
         "image": null
       },
       {
-        "label": "​<math alttext=\"open parentheses 3 comma infinity close parentheses\"><semantics><mfenced><mrow><mn>3</mn><mo>,</mo><mo>∞</mo></mrow></mfenced><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> only",
+        "label": "​<math alttext=\"open parentheses 3 comma infinity close parentheses\"><semantics><mfenced><mrow><mn>3</mn><mo>,</mo><mo>∞</mo></mrow></mfenced><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> only",
         "image": null
       }
     ],
-    "answer": "​<math alttext=\"open parentheses 3 comma infinity close parentheses\"><semantics><mfenced><mrow><mn>3</mn><mo>,</mo><mo>∞</mo></mrow></mfenced><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> only"
+    "answer": "​<math alttext=\"open parentheses 3 comma infinity close parentheses\"><semantics><mfenced><mrow><mn>3</mn><mo>,</mo><mo>∞</mo></mrow></mfenced><annotation encoding=\"application/vnd.wiris.mtweb-params+json\">{\"digitSeparatorsAsMN\":\"auto\"}</annotation></semantics></math> only"
   },
   "unit": {
     "code": "2",

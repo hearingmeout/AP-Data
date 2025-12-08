@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Average of 2 positive ints - explain error",
   "content": {
-    "description": "",
+    "description": "In the following code segment,  x  and  y  are properly declared and initialized  int  variables whose values are positive. The code segment is intended to print the average of  x  and  y.  For example, if  x  is  10  and  y  is  5,  the code segment is intended to print  7.5.\n int sum = x + y; \ndouble average = (double) (sum / 2);\nSystem.out.println(average);",
     "question": "Which of the following best describes the error, if any, in the code segment?",
     "image": null,
     "choices": [
@@ -12,19 +12,19 @@
         "image": null
       },
       {
-        "label": "In the expression (double) (sum / 2), the cast to double is applied too late, so the average will be less than the expected result for even values of sum.",
+        "label": "In the expression  (double) (sum / 2),  the cast to  double  is applied too late, so the average will be less than the expected result for even values of  sum.",
         "image": null
       },
       {
-        "label": "In the expression (double) (sum / 2), the cast to double is applied too late, so the average will be less than the expected result for odd values of sum.",
+        "label": "In the expression  (double) (sum / 2),  the cast to  double  is applied too late, so the average will be less than the expected result for odd values of  sum.",
         "image": null
       },
       {
-        "label": "In the expression (double) (sum / 2), the cast to double is applied too late, so the average will be greater than the expected result for odd values of sum.",
+        "label": "In the expression  (double) (sum / 2),  the cast to  double  is applied too late, so the average will be greater than the expected result for odd values of  sum.",
         "image": null
       }
     ],
-    "answer": "In the expression (double) (sum / 2), the cast to double is applied too late, so the average will be less than the expected result for odd values of sum."
+    "answer": "In the expression  (double) (sum / 2),  the cast to  double  is applied too late, so the average will be less than the expected result for odd values of  sum."
   },
   "unit": {
     "code": "1",

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "for loop that prints values - fix error",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n for (int j = 10; j >= 0; j -= 2) // Line 1\n{ // Line 2\n System.out.print(j – 1); // Line 3\n} // Line 4 \n\nThis code segment is intended to produce only the following output. It does not work as intended.\n 97531",
     "question": "Which of the following changes can be made so that this code segment works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "In line 1, changing the condition j >= 0 to j > 0",
+        "label": "In line 1, changing the condition j >= 0  to  j > 0",
         "image": null
       },
       {
-        "label": "In line 1, changing the initialization j = 10 to j = 9",
+        "label": "In line 1, changing the initialization j = 10  to  j = 9",
         "image": null
       },
       {
-        "label": "In line 3, changing the expression j - 1 to j + 1",
+        "label": "In line 3, changing the expression j - 1  to  j + 1",
         "image": null
       },
       {
-        "label": "In line 3, changing the expression j - 1 to j - 2",
+        "label": "In line 3, changing the expression j - 1  to  j - 2",
         "image": null
       }
     ],
-    "answer": "In line 1, changing the condition j >= 0 to j > 0"
+    "answer": "In line 1, changing the condition j >= 0  to  j > 0"
   },
   "unit": {
     "code": "2",

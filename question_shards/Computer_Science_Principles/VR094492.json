@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Error in remove duplicates code segment",
   "content": {
-    "description": "For which of the following contents of myList will the procedure NOT produce the intended results?",
-    "question": "Select two answers.",
+    "description": "The following code segment is intended to remove all duplicate elements in the list myList. The procedure does not work as intended.\n\nj <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> LENGTH(myList)\n\nREPEAT UNTIL(j = 1)\n\n{\n\nIF(myList[j] = myList[j - 1])\n\n{\n\nREMOVE(myList, j)\n\n}\n\nj <math alttext=\"←\" overflow=\"scroll\"> <mstyle> <mrow> <mo>←</mo> </mrow> </mstyle> </math> j - 1\n\n}",
+    "question": "For which of the following contents of myList will the procedure NOT produce the intended results?\n\nSelect two answers.",
     "image": null,
     "choices": [
       {

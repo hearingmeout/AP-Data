@@ -1,0 +1,41 @@
+{
+  "id": "VH980724",
+  "type": "mcq",
+  "title": "Justification - Behaviors Implicit Relations",
+  "content": {
+    "description": "",
+    "question": "Let <math alttext=\"c\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>C</mi></mrow></mstyle></math> be the curve defined by <math alttext=\"x squared times y, equals 4\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>y</mi><mo>=</mo><mn>4</mn></mrow></mstyle></math>. Which of the following statements is true of curve <math alttext=\"c\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mi>C</mi></mrow></mstyle></math> at the point <math alttext=\"with coordinates 2 comma 1\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>(</mo><mrow><mn>2</mn></mrow><mo>,</mo><mn>1</mn><mo>)</mo></mrow></mstyle></math> ?",
+    "image": null,
+    "choices": [
+      {
+        "label": "It has a relative minimum because <math alttext=\"y prime, equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>y</mi></mrow><mrow><mo>′</mo></mrow></msup><mo>=</mo><mn>0</mn></mrow></mstyle></math> and <math alttext=\"y double prime, is greater than 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>y</mi></mrow><mrow><mo>″</mo></mrow></msup><mo>&gt;</mo><mn>0</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "It has a relative maximum because <math alttext=\"y prime, equals 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>y</mi></mrow><mrow><mo>′</mo></mrow></msup><mo>=</mo><mn>0</mn></mrow></mstyle></math> and <math alttext=\"y double prime, is less than 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>y</mi></mrow><mrow><mo>″</mo></mrow></msup><mo>&lt;</mo><mn>0</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "It is decreasing and concave up because <math alttext=\"y prime, is less than 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>y</mi></mrow><mrow><mo>′</mo></mrow></msup><mo>&lt;</mo><mn>0</mn></mrow></mstyle></math> and <math alttext=\"y double prime, is greater than 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>y</mi></mrow><mrow><mo>″</mo></mrow></msup><mo>&gt;</mo><mn>0</mn></mrow></mstyle></math>.",
+        "image": null
+      },
+      {
+        "label": "It is decreasing and concave down because <math alttext=\"y prime, is less than 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>y</mi></mrow><mrow><mo>′</mo></mrow></msup><mo>&lt;</mo><mn>0</mn></mrow></mstyle></math> and <math alttext=\"y double prime, is less than 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>y</mi></mrow><mrow><mo>″</mo></mrow></msup><mo>&lt;</mo><mn>0</mn></mrow></mstyle></math>.",
+        "image": null
+      }
+    ],
+    "answer": "It is decreasing and concave up because <math alttext=\"y prime, is less than 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>y</mi></mrow><mrow><mo>′</mo></mrow></msup><mo>&lt;</mo><mn>0</mn></mrow></mstyle></math> and <math alttext=\"y double prime, is greater than 0\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><msup><mrow><mi>y</mi></mrow><mrow><mo>″</mo></mrow></msup><mo>&gt;</mo><mn>0</mn></mrow></mstyle></math>."
+  },
+  "unit": {
+    "code": "5",
+    "text": "5: Analytical Applications of Differentiation"
+  },
+  "topic": {
+    "code": "5.12",
+    "text": "5.12: Exploring Behaviors of Implicit Relations"
+  },
+  "skill": {
+    "code": "Skill 3.E",
+    "text": "Skill 3.E: Provide reasons or rationales for solutions and conclusions."
+  }
+}

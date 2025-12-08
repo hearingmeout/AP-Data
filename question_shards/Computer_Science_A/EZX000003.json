@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "change countNegatives method - describe behavior",
   "content": {
-    "description": "",
-    "question": "Suppose the Boolean expression j < numList.size() in line 4 of the method is replaced with j <= numList.size() - 1. Which of the following best explains the effect of this change?",
+    "description": "Consider the following method  countNegatives,  which returns the number of elements in  numList  that are less than zero. \n public static int countNegatives(ArrayList<Integer> numList)\n{\n int count = 0;\n for (int j = 0; j < numList.size(); j++) // Line 4\n {\n if (numList.get(j) < 0)\n {\n count++;\n }\n }\n return count;\n}",
+    "question": "Suppose the Boolean expression  j < numList.size()  in line 4 of the method is replaced with  j <= numList.size() - 1.  Which of the following best explains the effect of this change?",
     "image": null,
     "choices": [
       {
@@ -12,15 +12,15 @@
         "image": null
       },
       {
-        "label": "It causes the method to ignore the last element in numList.",
+        "label": "It causes the method to ignore the last element in numList.",
         "image": null
       },
       {
-        "label": "It causes an IndexOutOfBoundsException to be thrown.",
+        "label": "It causes an IndexOutOfBoundsException  to be thrown.",
         "image": null
       },
       {
-        "label": "It changes the number of times the loop executes, but all elements in numList will still be accessed.",
+        "label": "It changes the number of times the loop executes, but all elements in numList will still be accessed.",
         "image": null
       }
     ],

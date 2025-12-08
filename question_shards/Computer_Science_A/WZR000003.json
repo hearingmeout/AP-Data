@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "comp substrings - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n String temp = \"comp\";\nSystem.out.print(temp.substring(0) + \" \"\n + temp.substring(1) + \" \"\n + temp.substring(2) + \" \"\n + temp.substring(3));",
     "question": "What is printed as a result of executing the code segment?",
     "image": null,
     "choices": [

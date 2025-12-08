@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "almostEqual method - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can be used to replace /* missing code */ so that the method will work as intended?",
+    "description": "Consider the following method, which is intended to return  true  if the distance between  d1  and  d2  is no more than  tolerance  units, and to return  false  otherwise.\n\nFor example,  almostEqual(7.9, 7.8, 0.15)  should return  true  because the distance between  7.9  and  7.8  is less than  0.15,  and  almostEqual(54.124, 54.126, 0.001)  should return  false  because the distance between  54.124  and  54.126  is greater than  0.001. \n public static boolean almostEqual(double d1, double d2,\n double tolerance)\n{\n /* missing code */;\n}",
+    "question": "Which of the following can be used to replace  /* missing code */  so that the method will work as intended?",
     "image": null,
     "choices": [
       {

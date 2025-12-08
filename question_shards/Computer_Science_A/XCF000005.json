@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "assignment statements - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n int w = 50;\nint x = 20;\nint y = x;\nx = w;\nw = x + y;\nSystem.out.println(w + \" \" + x);",
     "question": "What is printed as a result of executing the code segment?",
     "image": null,
     "choices": [

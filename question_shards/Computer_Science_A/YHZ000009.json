@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "showResult method calls - Determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following description of method  showResult.\n\nMethod Signature\nExplanationpublic void showResult(int x, int y)Prints the value of  y - x\n\nConsider the following code segment, which appears in the same class as  showResult.\n showResult(1, 3);\nSystem.out.print(\" \");\nshowResult(4, 10);",
     "question": "What is printed as a result of executing the code segment?",
     "image": null,
     "choices": [

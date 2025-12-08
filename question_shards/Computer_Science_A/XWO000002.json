@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Sum of odd integers from 1 to 101 - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can be used to replace /* missing code */ so that the code segment works as intended?",
+    "description": "Consider the following code segment, which is intended to print the sum of all the odd integers from 1 to 101, inclusive.\n int r = 1;\nint sum = 0;\n\nwhile (r <= 101)\n{\n   /* missing code */\n   r++;\n}\nSystem.out.println(sum);",
+    "question": "Which of the following can be used to replace  /* missing code */  so that the code segment works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "if (r % 2 != 1) { sum += r; }",
+        "label": "if (r % 2 != 1)\n{\n sum += r;\n}",
         "image": null
       },
       {
-        "label": "if (r % 2 != 1) { sum++; }",
+        "label": "if (r % 2 != 1)\n{\n sum++;\n}",
         "image": null
       },
       {
-        "label": "if (r % 2 == 1) { sum += r; }",
+        "label": "if (r % 2 == 1)\n{\n sum += r;\n}",
         "image": null
       },
       {
-        "label": "if (r % 2 == 1) { sum++; }",
+        "label": "if (r % 2 == 1)\n{\n sum++;\n}",
         "image": null
       }
     ],
-    "answer": "if (r % 2 == 1) { sum += r; }"
+    "answer": "if (r % 2 == 1)\n{\n sum += r;\n}"
   },
   "unit": {
     "code": "2",

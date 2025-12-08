@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "contents after three passes",
   "content": {
-    "description": "Assume that insertionSort has been called with an ArrayList parameter that has been initialized with the following Integer objects.",
-    "question": "[5, 2, 4, 1, 3, 6]What will the contents of data be after three passes of the outside loop (i.e., when j == 3 at the point indicated by /* End of outer loop */) ?",
+    "description": "Consider the following correct implementation of the insertion sort algorithm. The insertionSort method correctly sorts the elements of ArrayList data into increasing order.\n\npublic static void insertionSort(ArrayList<Integer> data)\n{\nfor (int j = 1; j < data.size(); j++)\n{\nint v = data.get(j);\nint k = j;\nwhile (k > 0 && v < data.get(k - 1))\n{\ndata.set(k, data.get(k - 1)); /* Statement 1 */\nk--;\n}\ndata.set(k, v); /* Statement 2 */\n\n/* End of outer loop */\n}\n}",
+    "question": "Assume that insertionSort has been called with an ArrayList parameter that has been initialized with the following Integer objects.\n\n[5, 2, 4, 1, 3, 6]\nWhat will the contents of data be after three passes of the outside loop (i.e., when j == 3 at the point indicated by /* End of outer loop */) ?",
     "image": null,
     "choices": [
       {

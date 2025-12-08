@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Nested for loops - describe behavior",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n for (int x = 1; x <= 3; x++)\n{\n for (int y = 5; y > 1; y--)\n {\n System.out.print(\"*\");\n }\n}",
     "question": "Which of the following best describes the behavior of this code segment?",
     "image": null,
     "choices": [

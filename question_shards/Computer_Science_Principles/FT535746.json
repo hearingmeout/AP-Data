@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Goats sheep foxes algorithm",
   "content": {
-    "description": "A programmer completes the user manual for a video game she has developed and realizes she has reversed the roles of goats and sheep throughout the text. Consider the programmer’s goal of changing all occurrences of “goats” to “sheep” and all occurrences of “sheep” to “goats.” The programmer will use the fact that the word “foxes” does not appear anywhere in the original text.",
-    "question": "Which of the following algorithms can be used to accomplish the programmer’s goal?",
+    "description": "",
+    "question": "A programmer completes the user manual for a video game she has developed and realizes she has reversed the roles of goats and sheep throughout the text. Consider the programmer’s goal of changing all occurrences of “goats” to “sheep” and all occurrences of “sheep” to “goats.” The programmer will use the fact that the word “foxes” does not appear anywhere in the original text.\nWhich of the following algorithms can be used to accomplish the programmer’s goal?",
     "image": null,
     "choices": [
       {
-        "label": "First, change all occurrences of “goats” to “sheep.” Then, change all occurrences of “sheep” to “goats.”",
+        "label": "First, change all occurrences of “goats” to “sheep.” \nThen, change all occurrences of “sheep” to “goats.”",
         "image": null
       },
       {
-        "label": "First, change all occurrences of “goats” to “sheep.”Then, change all occurrences of “sheep” to “goats.”Last, change all occurrences of “foxes” to “sheep.”",
+        "label": "First, change all occurrences of “goats” to “sheep.”\nThen, change all occurrences of “sheep” to “goats.”\nLast, change all occurrences of “foxes” to “sheep.”",
         "image": null
       },
       {
-        "label": "First, change all occurrences of “goats” to “foxes.”Then, change all occurrences of “sheep” to “goats.”Last, change all occurrences of “foxes” to “sheep.”",
+        "label": "First, change all occurrences of “goats” to “foxes.”\nThen, change all occurrences of “sheep” to “goats.”\nLast, change all occurrences of “foxes” to “sheep.”",
         "image": null
       },
       {
-        "label": "First, change all occurrences of “goats” to “foxes.”Then, change all occurrences of “foxes” to “sheep.”Last, change all occurrences of “sheep” to “goats.”",
+        "label": "First, change all occurrences of “goats” to “foxes.”\nThen, change all occurrences of “foxes” to “sheep.”\nLast, change all occurrences of “sheep” to “goats.”",
         "image": null
       }
     ],
-    "answer": "First, change all occurrences of “goats” to “foxes.”Then, change all occurrences of “sheep” to “goats.”Last, change all occurrences of “foxes” to “sheep.”"
+    "answer": "First, change all occurrences of “goats” to “foxes.”\nThen, change all occurrences of “sheep” to “goats.”\nLast, change all occurrences of “foxes” to “sheep.”"
   },
   "topic": {
     "code": "3.3",

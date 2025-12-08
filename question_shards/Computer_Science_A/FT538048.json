@@ -3,20 +3,20 @@
   "type": "mcq",
   "title": "TimeRecord class",
   "content": {
-    "description": "",
+    "description": "Directions: Select the choice that best fits each statement. The following question(s) refer to the following incomplete class declaration.",
     "question": "Which of the following can be used to replace / * missing code * / so that advance will correctly update the time?",
-    "image": null,
+    "image": "https://cdn.jsdelivr.net/gh/hearingmeout/Images-Shard-2@latest/Computer_Science_A/758cd86e00a76b1b85e9a0e18c6c9bda.jpg",
     "choices": [
       {
         "label": "minutes = minutes % 60;",
         "image": null
       },
       {
-        "label": "hours = hours + minutes / 60;minutes = minutes % 60;",
+        "label": "hours = hours + minutes / 60;\nminutes = minutes % 60;",
         "image": null
       },
       {
-        "label": "hours = hours + minutes % 60;minutes = minutes / 60;",
+        "label": "hours = hours + minutes % 60;\nminutes = minutes / 60;",
         "image": null
       },
       {
@@ -24,7 +24,7 @@
         "image": null
       }
     ],
-    "answer": "hours = hours + minutes / 60;minutes = minutes % 60;"
+    "answer": "hours = hours + minutes / 60;\nminutes = minutes % 60;"
   },
   "unit": {
     "code": "1",

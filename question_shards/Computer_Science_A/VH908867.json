@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Thing methods talk name greet",
   "content": {
-    "description": "Consider the following class definition.",
-    "question": "public class Thing{public void talk(){System.out.print(\"Hello \");} public void name(){System.out.print(\"my friend\");} public void greet(){talk();name();}/* Constructors not shown */}Which of the following code segments, if located in a method in a class other than Thing, will cause the message \"Hello my friend\" to be printed?",
+    "description": "",
+    "question": "Consider the following class definition.\n\npublic class Thing\n{\npublic void talk()\n{\nSystem.out.print(\"Hello \");\n}\n\npublic void name()\n{\nSystem.out.print(\"my friend\");\n}\n\npublic void greet()\n{\ntalk();\nname();\n}\n\n/* Constructors not shown */\n}\nWhich of the following code segments, if located in a method in a class other than Thing, will cause the message \"Hello my friend\" to be printed?",
     "image": null,
     "choices": [
       {

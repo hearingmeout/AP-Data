@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Substrings of LMNOP",
   "content": {
-    "description": "",
-    "question": "What is the value of str2 after executing this code segment?",
+    "description": "Consider the following code segment.\n String str1 = \"LMNOP\";\nString str2 = str1.substring(3);\nstr2 += str1.substring(2, 3);",
+    "question": "What is the value of str2 after executing this code segment?",
     "image": null,
     "choices": [
       {

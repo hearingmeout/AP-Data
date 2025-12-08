@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Implicitly Defined - relative change",
   "content": {
-    "description": "The x axis ranges from negative 5 to 8 in increments of 1. The y axis ranges from negative 6 to 8 in increments of 1. All coordinates are approximate. Moving from top to bottom:",
-    "question": "The curve enters the window at (0.4 comma 8.5). The curve decreases from right to left, passing through point A at (negative 1 comma 6.7) and gradually becoming vertical at (negative 1.7 comma 4.5). The curve decreases from left to right, passing through point B at (negative 1 comma 2.2). The curve continues to decrease from left to right, passing through (0 comma 1.7) and (2 comma 0.9). When the curve reaches the point (2.9 comma 0), it is vertical and changes directions, decreasing from right to left. When the curve reaches the point (2.4 comma negative 1.3), it is vertical and changes directions, decreasing from left to right. The curve passes through (3 comma negative 2.4), (5 comma negative 3.9), and exits the window at (8.5 comma negative 5.9). In the <math alttext=\"x y\"><mi>x</mi><mi>y</mi></math>-plane, the graph of an implicitly defined function curve is given along with the two labeled points <math alttext=\"A\"><mi>A</mi></math> and <math alttext=\"B\"><mi>B</mi></math>. Which of the following describes the curve?",
-    "image": "https://ap.oly.st/images/80b32ac850715a38947beca15bbb0726.svg",
+    "description": "",
+    "question": "The x axis ranges from negative 5 to 8 in increments of 1. The y axis ranges from negative 6 to 8 in increments of 1. All coordinates are approximate. Moving from top to bottom:\n\nThe curve enters the window at (0.4 comma 8.5).\n\nThe curve decreases from right to left, passing through point A at (negative 1 comma 6.7) and gradually becoming vertical at (negative 1.7 comma 4.5).\n\nThe curve decreases from left to right, passing through point B at (negative 1 comma 2.2).\n\nThe curve continues to decrease from left to right, passing through (0 comma 1.7) and (2 comma 0.9).\n\nWhen the curve reaches the point (2.9 comma 0), it is vertical and changes directions, decreasing from right to left.\n\nWhen the curve reaches the point (2.4 comma negative 1.3), it is vertical and changes directions, decreasing from left to right.\n\nThe curve passes through (3 comma negative 2.4), (5 comma negative 3.9), and exits the window at (8.5 comma negative 5.9).\n\nIn the <math alttext=\"x y\"><mi>x</mi><mi>y</mi></math>-plane, the graph of an implicitly defined function curve is given along with the two labeled points <math alttext=\"A\"><mi>A</mi></math> and <math alttext=\"B\"><mi>B</mi></math>. Which of the following describes the curve?",
+    "image": null,
     "choices": [
       {
-        "label": "For pairs of points near <math alttext=\"A\"><mi>A</mi></math>, the ratio of the change in <math alttext=\"x\"><mi>x</mi></math> and the change in <math alttext=\"y\"><mi>y</mi></math> is positive, and the values of both variables simultaneously increase or simultaneously decrease.",
+        "label": "For pairs of points near <math alttext=\"A\"><mi>A</mi></math>, the ratio of the change in <math alttext=\"x\"><mi>x</mi></math> and the change in <math alttext=\"y\"><mi>y</mi></math> is positive, and the values of both variables simultaneously increase or simultaneously decrease.",
         "image": null
       },
       {
-        "label": "For pairs of points near <math alttext=\"A\"><mi>A</mi></math>, the ratio of the change in <math alttext=\"x\"><mi>x</mi></math> and the change in <math alttext=\"y\"><mi>y</mi></math> is negative, and the values of both variables simultaneously increase or simultaneously decrease.",
+        "label": "For pairs of points near <math alttext=\"A\"><mi>A</mi></math>, the ratio of the change in <math alttext=\"x\"><mi>x</mi></math> and the change in <math alttext=\"y\"><mi>y</mi></math> is negative, and the values of both variables simultaneously increase or simultaneously decrease.",
         "image": null
       },
       {
-        "label": "For pairs of points near <math alttext=\"B\"><mi>B</mi></math>, the ratio of the change in <math alttext=\"x\"><mi>x</mi></math> and the change in <math alttext=\"y\"><mi>y</mi></math> is positive, and the values of both variables simultaneously increase or simultaneously decrease.",
+        "label": "For pairs of points near <math alttext=\"B\"><mi>B</mi></math>, the ratio of the change in <math alttext=\"x\"><mi>x</mi></math> and the change in <math alttext=\"y\"><mi>y</mi></math> is positive, and the values of both variables simultaneously increase or simultaneously decrease.",
         "image": null
       },
       {
-        "label": "For pairs of points near <math alttext=\"B\"><mi>B</mi></math>, the ratio of the change in <math alttext=\"x\"><mi>x</mi></math> and the change in <math alttext=\"y\"><mi>y</mi></math> is negative, and the values of both variables simultaneously increase or simultaneously decrease.",
+        "label": "For pairs of points near <math alttext=\"B\"><mi>B</mi></math>, the ratio of the change in <math alttext=\"x\"><mi>x</mi></math> and the change in <math alttext=\"y\"><mi>y</mi></math> is negative, and the values of both variables simultaneously increase or simultaneously decrease.",
         "image": null
       }
     ],
-    "answer": "For pairs of points near <math alttext=\"A\"><mi>A</mi></math>, the ratio of the change in <math alttext=\"x\"><mi>x</mi></math> and the change in <math alttext=\"y\"><mi>y</mi></math> is positive, and the values of both variables simultaneously increase or simultaneously decrease."
+    "answer": "For pairs of points near <math alttext=\"A\"><mi>A</mi></math>, the ratio of the change in <math alttext=\"x\"><mi>x</mi></math> and the change in <math alttext=\"y\"><mi>y</mi></math> is positive, and the values of both variables simultaneously increase or simultaneously decrease."
   },
   "unit": {
     "code": "4",

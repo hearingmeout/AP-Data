@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Error in AnyPairs procedure",
   "content": {
-    "description": "",
+    "description": "The following procedure is intended to return true if at least two of the three parameters are equal in value and is intended to return false otherwise.\n\nPROCEDURE AnyPairs (x, y, z)\n\n{\n\nIF (x = y)\n\n{\n\nRETURN (true)\n\n}\n\nELSE\n\n{\n\nRETURN (y = z)\n\n}\n\n}",
     "question": "For which of the following procedure calls does the procedure NOT return the intended value?",
     "image": null,
     "choices": [

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Print numbers in nested loop - correct code",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n for (int j = 1; j <= 4; j++) // Line 1\n{\n for (int k = j + 1; k >= 1; k--) // Line 3\n {\n System.out.print(j + \" \"); // Line 5\n } \n System.out.println();\n}\n\nThe code segment is intended to produce the following output, but does not work as intended.\n 1 \n2 2 \n3 3 3 \n4 4 4 4",
     "question": "Which of the following changes can be made so that the code segment works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "Changing line 1 to for (int j = 1; j < 4; j++)",
+        "label": "Changing line 1 to for (int j = 1; j < 4; j++)",
         "image": null
       },
       {
-        "label": "Changing line 3 to for (int k = 1; k <= j + 1; k++)",
+        "label": "Changing line 3 to for (int k = 1; k <= j + 1; k++)",
         "image": null
       },
       {
-        "label": "Changing line 3 to for (int k = j; k >= 1; k--)",
+        "label": "Changing line 3 to for (int k = j; k >= 1; k--)",
         "image": null
       },
       {
-        "label": "Changing line 5 to System.out.print(k + \" \");",
+        "label": "Changing line 5 to System.out.print(k + \" \");",
         "image": null
       }
     ],
-    "answer": "Changing line 3 to for (int k = j; k >= 1; k--)"
+    "answer": "Changing line 3 to for (int k = j; k >= 1; k--)"
   },
   "unit": {
     "code": "2",

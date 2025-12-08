@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "ArrayList adding and setting - determine result",
   "content": {
-    "description": "",
-    "question": "What are the contents of numbers after executing this code segment?",
+    "description": "Consider the following code segment.\n ArrayList<Integer> numbers = new ArrayList<Integer>();\nnumbers.add(100);\nnumbers.add(200);\nnumbers.add(0, 300);\nnumbers.set(2, 400);\nnumbers.add(2, 500);",
+    "question": "What are the contents of numbers after executing this code segment?",
     "image": null,
     "choices": [
       {

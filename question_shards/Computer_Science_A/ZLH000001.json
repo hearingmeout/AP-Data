@@ -3,20 +3,20 @@
   "type": "mcq",
   "title": "Print values in 2D array traversal",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n int[][] arr = {{10, -7, 19, 14},\n {-3, -2, -6, 11},\n {-9, 12, 10, -1}};\nint ans = 1;\nfor (int[] row : arr)\n{\n for (int value : row)\n {\n if (value > 0)\n {\n ans = ans * value;\n }\n }\n}\nSystem.out.println(ans);",
     "question": "Which of the following best describes the behavior of the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "It prints the product of all the elements in arr.",
+        "label": "It prints the product of all the elements in arr.",
         "image": null
       },
       {
-        "label": "It prints the product of all the negative elements in arr.",
+        "label": "It prints the product of all the negative elements in arr.",
         "image": null
       },
       {
-        "label": "It prints the product of all the positive elements in arr.",
+        "label": "It prints the product of all the positive elements in arr.",
         "image": null
       },
       {
@@ -24,7 +24,7 @@
         "image": null
       }
     ],
-    "answer": "It prints the product of all the positive elements in arr."
+    "answer": "It prints the product of all the positive elements in arr."
   },
   "unit": {
     "code": "4",

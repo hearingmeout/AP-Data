@@ -3,20 +3,20 @@
   "type": "mcq",
   "title": "Name array - correct error",
   "content": {
-    "description": "",
+    "description": "The following code segment is intended to set the contents of the array  names  to   {\"Ana\", \"Billy\", \"Cathy\", \"Darius\"}.  The code segment does not work as intended. \n String[] names = new String[3]; // Line 1\nnames[0] = \"Ana\"; // Line 2\nnames[1] = \"Billy\"; // Line 3\nnames[2] = \"Cathy\"; // Line 4\nnames[3] = \"Darius\"; // Line 5",
     "question": "Which of the following changes can be made so that the code segment works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "Changing line 1 to String[] names = new String[4];",
+        "label": "Changing line 1 to  String[] names = new String[4];",
         "image": null
       },
       {
-        "label": "Changing line 1 to String[] names = new names[3];",
+        "label": "Changing line 1 to  String[] names = new names[3];",
         "image": null
       },
       {
-        "label": "Changing line 5 to names[2] = \"Darius\";",
+        "label": "Changing line 5 to  names[2] = \"Darius\";",
         "image": null
       },
       {
@@ -24,7 +24,7 @@
         "image": null
       }
     ],
-    "answer": "Changing line 1 to String[] names = new String[4];"
+    "answer": "Changing line 1 to  String[] names = new String[4];"
   },
   "unit": {
     "code": "4",

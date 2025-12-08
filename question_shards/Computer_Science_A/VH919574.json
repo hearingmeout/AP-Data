@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "digitSum equivalent for loop",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "String word = \"computer\"; int num = 3; String result = \"\"; for (int k = num; k >= 0; k--) { result += word.substring(0, k); } System.out.print(result); What is printed as a result of executing the code segment?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nString word = \"computer\";\n\nint num = 3;\n\nString result = \"\";\n\nfor (int k = num; k >= 0; k--)\n\n{\n\nresult += word.substring(0, k);\n\n}\n\nSystem.out.print(result);\n\nWhat is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {

@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "timesTwo method and assignments - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following method.\n public static int timesTwo(int n) \n{ \n   return n * 2; \n} \n\nThe following code segment appears in a method in the same class as the  timesTwo  method.\n Integer val = 10; \nint result1 = timesTwo(val); \nInteger result2 = result1; \nSystem.out.print(result2);",
     "question": "What, if anything, is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
@@ -16,11 +16,11 @@
         "image": null
       },
       {
-        "label": "Nothing is printed; the code segment will not compile because timesTwo cannot accept an Integer argument.",
+        "label": "Nothing is printed; the code segment will not compile because  timesTwo  cannot accept an  Integer  argument.",
         "image": null
       },
       {
-        "label": "Nothing is printed; the code segment will not compile because the int variable result1 cannot be assigned to the Integer variable result2.",
+        "label": "Nothing is printed; the code segment will not compile because the  int  variable  result1  cannot be assigned to the  Integer  variable  result2.",
         "image": null
       }
     ],

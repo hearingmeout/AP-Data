@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Error in counting perfect numbers",
   "content": {
-    "description": "Which two lines of code should be removed so that the program will work as intended?",
-    "question": "Select two answers.",
+    "description": "In mathematics, a perfect number is a type of integer. The procedure IsPerfect (num) returns true if num is a perfect number and returns false otherwise.\n\nThe following program is intended to count and display the number of perfect numbers between the integers start and end, inclusive. Assume that start is less than end. The program does not work as intended.\n\nLine 1:  currentNum <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> start\n\nLine 2:  count <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0\n\nLine 3:  REPEAT UNTIL (currentNum > end)\n\nLine 4:  {\n\nLine 5:     count <math alttext=\"←\" overflow=\"scroll\"><mrow><mo>←</mo></mrow></math> count + 1\n\nLine 6:     IF (IsPerfect (currentNum))\n\nLine 7:     {\n\nLine 8:        count <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> count + 1\n\nLine 9:        currentNum <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> currentNum + 1\n\nLine 10:    }\n\nLine 11:    currentNum <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> currentNum + 1\n\nLine 12: }\n\nLine 13: DISPLAY (count)",
+    "question": "Which two lines of code should be removed so that the program will work as intended?\n\nSelect two answers.",
     "image": null,
     "choices": [
       {

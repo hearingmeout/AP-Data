@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "min of three values",
   "content": {
-    "description": "Consider the following description of method min.",
-    "question": "public int min(int first, int second) – Returns the lesser of its two parameters. Assume that each of the following expressions appears in a method in the same class as the method min. Assume also that the int variables p, q, and r have been properly declared and initialized. Which of the following expressions evaluates to the minimum value among p, q, and r? min(min(p, q), r) min(p, min(q, r)) min(min(p, q), p)",
+    "description": "",
+    "question": "Consider the following description of method min.\n\npublic int min(int first, int second) – Returns the lesser of its two parameters.\n\nAssume that each of the following expressions appears in a method in the same class as the method min. Assume also that the int variables p, q, and r have been properly declared and initialized. Which of the following expressions evaluates to the minimum value among p, q, and r?\n\nmin(min(p, q), r)\n\nmin(p, min(q, r))\n\nmin(min(p, q), p)",
     "image": null,
     "choices": [
       {

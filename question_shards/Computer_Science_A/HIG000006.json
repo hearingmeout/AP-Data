@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Student Class - describe behavior",
   "content": {
-    "description": "",
-    "question": "Which of the following best describes the state of the object myStudent as a result of executing this code segment?",
+    "description": "Consider the following Student class. \n public class Student \n{ \n private String name; \n private int age; \n\npublic Student(String studentName, int studentAge) \n { \n name = studentName; \n studentAge = age; \n } \n}\n\nThe following code segment appears in a class other than  Student.\n Student myStudent = new Student(\"Bobby\", 25);",
+    "question": "Which of the following best describes the state of the object myStudent as a result of executing this code segment?",
     "image": null,
     "choices": [
       {
-        "label": "myStudent has been initialized such that name contains the string \"Bobby\" and age is 0.",
+        "label": "myStudent has been initialized such that name contains the string \"Bobby\" and  age is 0.",
         "image": null
       },
       {
-        "label": "myStudent has been initialized such that name contains the string \"Bobby\" and age is 25.",
+        "label": "myStudent has been initialized such that name contains the string \"Bobby\" and  age is 25.",
         "image": null
       },
       {
-        "label": "myStudent has been initialized such that name is null and age is 0.",
+        "label": "myStudent has been initialized such that name is null and  age is 0.",
         "image": null
       },
       {
-        "label": "myStudent has been initialized such that name is null and age is 25.",
+        "label": "myStudent has been initialized such that name is null and  age is 25.",
         "image": null
       }
     ],
-    "answer": "myStudent has been initialized such that name contains the string \"Bobby\" and age is 0."
+    "answer": "myStudent has been initialized such that name contains the string \"Bobby\" and  age is 0."
   },
   "unit": {
     "code": "3",

@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Multi-way selection discount - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n double cost = 25.0;\ndouble discount = 0.0;\n\nif (cost >= 100.0)\n{\n discount = 10.0;\n}\nelse if (cost >= 50.0)\n{\n discount = 5.0;\n}\nelse \n{\n discount = 2.0;\n}\n\nSystem.out.println(cost - discount);",
     "question": "What is printed as a result of executing this code segment?",
     "image": null,
     "choices": [

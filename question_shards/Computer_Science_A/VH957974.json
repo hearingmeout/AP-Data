@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "add and set in animals ArrayList",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "ArrayList<String> animals = new ArrayList<>();animals.add(\"fox\");animals.add(0, \"squirrel\");animals.add(\"deer\");animals.set(2, \"groundhog\");animals.add(1, \"mouse\");System.out.println(animals.get(2) + \" and \" + animals.get(3));What is printed as a result of executing the code segment?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nArrayList<String> animals = new ArrayList<>();\nanimals.add(\"fox\");\nanimals.add(0, \"squirrel\");\nanimals.add(\"deer\");\nanimals.set(2, \"groundhog\");\nanimals.add(1, \"mouse\");\nSystem.out.println(animals.get(2) + \" and \" + animals.get(3));\nWhat is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {

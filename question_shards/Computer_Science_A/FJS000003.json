@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Algorithm with ArrayList - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n double x = 0.0;\nfor (double number : numbers)\n{\n x += number;\n}\nSystem.out.println(x / numbers.size());\n\nAssume that  numbers  is an  ArrayList  that has been initialized with the following  Double  objects.\n [10.0, 20.0, 30.0, 40.0, 100.0]",
     "question": "What is printed as a result of executing the code segment?",
     "image": null,
     "choices": [

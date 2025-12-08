@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "error in removing 0s from numList",
   "content": {
-    "description": "In the code segment below, myList is an ArrayList of integers. The code segment is intended to remove all elements with the value 0 from myList.",
-    "question": "int j = 0;while (j < myList.size()){if (myList.get(j) == 0){myList.remove(j);}j++;}The code segment does not always work as intended. For which of the following lists does the code segment NOT produce the correct result?",
+    "description": "",
+    "question": "In the code segment below, myList is an ArrayList of integers. The code segment is intended to remove all elements with the value 0 from myList.\n\nint j = 0;\n\nwhile (j < myList.size())\n{\nif (myList.get(j) == 0)\n{\nmyList.remove(j);\n}\nj++;\n}\nThe code segment does not always work as intended. For which of the following lists does the code segment NOT produce the correct result?",
     "image": null,
     "choices": [
       {

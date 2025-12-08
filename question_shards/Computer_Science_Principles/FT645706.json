@@ -3,25 +3,25 @@
   "type": "mcq",
   "title": "Procedure to determine the weather",
   "content": {
-    "description": "",
-    "question": "Which of the following can be used to replace so that the procedure works as intended?",
-    "image": "https://ap.oly.st/images/a7546202cc05900335eba300ee0db2c4.JPG",
+    "description": "A student is creating a procedure to determine whether the weather for a particular month was considered very hot. The procedure takes as input a list containing daily high temperatures for a particular month. The procedure is intended to return  if the daily high temperature was at least 90 degrees for a majority of days in the month and return  otherwise.",
+    "question": "Which of the following can be used to replace  so that the procedure works as intended?",
+    "image": null,
     "choices": [
       {
         "label": "Counter, less than, 0 point 5, times, total",
-        "image": "https://ap.oly.st/images/2015b6ca5deef47112847d4884bf8c8b.JPG"
+        "image": null
       },
       {
         "label": "Counter, greater than, 0 point 5, times, total",
-        "image": "https://ap.oly.st/images/7150e6441d4ce92aca2ab6ace590e799.JPG"
+        "image": null
       },
       {
         "label": "total, less than, 0 point 5, times, counter",
-        "image": "https://ap.oly.st/images/a810553a60c523a9cf74360cf926611d.JPG"
+        "image": null
       },
       {
         "label": "total, greater than, 0 point 5, times, counter",
-        "image": "https://ap.oly.st/images/42b582e625e5cf0edd09f1f47fe24d5b.JPG"
+        "image": null
       }
     ],
     "answer": "Counter, greater than, 0 point 5, times, total"

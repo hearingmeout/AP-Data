@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "cast to int before and after subtraction",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "double x = (int) (5.5 - 2.5);double y = (int) 5.5 - 2.5;System.out.println(x - y);What is printed as a result of executing the code segment?",
+    "description": "",
+    "question": "Consider the following code segment.\n\ndouble x = (int) (5.5 - 2.5);\ndouble y = (int) 5.5 - 2.5;\nSystem.out.println(x - y);\nWhat is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Documentation for procedure with add and div",
   "content": {
-    "description": "In the following procedure, the parameters x and y are integers.",
-    "question": "Which of the following is the most appropriate documentation to appear with the calculate procedure?",
-    "image": "https://ap.oly.st/images/fd6a58513777d08e4a5d0494447c9bb1.png",
+    "description": "",
+    "question": "In the following procedure, the parameters x and y are integers.\n\nWhich of the following is the most appropriate documentation to appear with the calculate procedure?",
+    "image": null,
     "choices": [
       {
-        "label": "Displays the value of x + (y / x).The value of the parameter x must not be 0.",
+        "label": "Displays the value of x + (y / x).The value of the parameter x must not be 0.",
         "image": null
       },
       {
-        "label": "Displays the value of x + (y / x).The value of the parameter y must not be 0.",
+        "label": "Displays the value of x + (y / x).The value of the parameter y must not be 0.",
         "image": null
       },
       {
-        "label": "Displays the value of (x + y) / x.The value of the parameter x must not be 0.",
+        "label": "Displays the value of (x + y) / x.The value of the parameter x must not be 0.",
         "image": null
       },
       {
-        "label": "Displays the value of (x + y) / x.The sum of the parameters x and y must not be 0.",
+        "label": "Displays the value of (x + y) / x.The sum of the parameters x and y must not be 0.",
         "image": null
       }
     ],
-    "answer": "Displays the value of (x + y) / x.The value of the parameter x must not be 0."
+    "answer": "Displays the value of (x + y) / x.The value of the parameter x must not be 0."
   },
   "topic": {
     "code": "1.3",

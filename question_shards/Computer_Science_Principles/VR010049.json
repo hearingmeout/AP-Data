@@ -3,25 +3,25 @@
   "type": "mcq",
   "title": "Simulate spinner",
   "content": {
-    "description": "",
+    "description": "Consider the following spinner, which is used to determine how pieces are to be moved on a game board. The region labeled \"Move 1 space\" is six times as large as each of the other two regions.",
     "question": "Which of the following code segments can be used to simulate the behavior of the spinner?",
     "image": null,
     "choices": [
       {
         "label": "The figure presents 2 blocks of code that consist of 8 total lines. Throughout the code there are nested blocks of code. Line 1: [begin block] spin ← [begin block] RANDOM [begin block] 1, 6 [end block] [end block] [end block] [Begin Block] Line 2: IF [begin block] spin = 1 [end block] [Begin Block] Line 3: [begin block] DISPLAY [begin block] “Move 1 space” [end block] [end block] [End Block] Line 4: ELSE [Begin Block] [Begin Block] Line 5: IF [begin block] spin = 2 [end block] [Begin Block] Line 6: [begin block] DISPLAY [begin block] “Move 2 spaces” [end block] [end block] [End Block] Line 7: ELSE [Begin Block] Line 8: [begin block] DISPLAY [begin block] “Lose a turn” [end block] [end block] [End Block] [End Block] [End Block] [End Block]",
-        "image": "https://ap.oly.st/images/986b8364f48c2bf74f2fab7bf6ec2b3b.png"
+        "image": null
       },
       {
         "label": "The figure presents 2 blocks of code that consist of 8 total lines. Throughout the code there are nested blocks of code. Line 1: [begin block] spin ← [begin block] RANDOM [begin block] 1, 6 [end block] [end block] [end block] [Begin Block] Line 2: IF [begin block] spin = 1 [end block] [Begin Block] Line 3: [begin block] DISPLAY [begin block] “Lose a turn” [end block] [end block] [End Block] Line 4: ELSE [Begin Block] [Begin Block] Line 5: IF [begin block] spin = 2 [end block] [Begin Block] Line 6: [begin block] DISPLAY [begin block] “Move 2 spaces” [end block] [end block] [End Block] Line 7: ELSE [Begin Block] Line 8: [begin block] DISPLAY [begin block] “Move 1 space” [end block] [end block] [End Block] [End Block] [End Block] [End Block]",
-        "image": "https://ap.oly.st/images/17d9194d7fa0e037b892b81835ebe643.png"
+        "image": null
       },
       {
         "label": "The figure presents 2 blocks of code that consist of 8 total lines. Throughout the code there are nested blocks of code. Line 1: [begin block] spin ← [begin block] RANDOM [begin block] 1, 8 [end block] [end block] [end block] [Begin Block] Line 2: IF [begin block] spin = 1 [end block] [Begin Block] Line 3: [begin block] DISPLAY [begin block] “Move 1 space” [end block] [end block] [End Block] Line 4: ELSE [Begin Block] [Begin Block] Line 5: IF [begin block] spin = 2 [end block] [Begin Block] Line 6: [begin block] DISPLAY [begin block] “Move 2 spaces” [end block] [end block] [End Block] Line 7: ELSE [Begin Block] Line 8: [begin block] DISPLAY [begin block] “Lose a turn” [end block] [end block] [End Block] [End Block] [End Block] [End Block]",
-        "image": "https://ap.oly.st/images/45de99d1ab01b42e6f1db11acdc5a858.png"
+        "image": null
       },
       {
         "label": "The figure presents 2 blocks of code that consist of 8 total lines. Throughout the code there are nested blocks of code. Line 1: [begin block] spin ← [begin block] RANDOM [begin block] 1, 8 [end block] [end block] [end block] [Begin Block] Line 2: IF [begin block] spin = 1 [end block] [Begin Block] Line 3: [begin block] DISPLAY [begin block] “Lose a turn” [end block] [end block] [End Block] Line 4: ELSE [Begin Block] [Begin Block] Line 5: IF [begin block] spin = 2 [end block] [Begin Block] Line 6: [begin block] DISPLAY [begin block] “Move 2 spaces” [end block] [end block] [End Block] Line 7: ELSE [Begin Block] Line 8: [begin block] DISPLAY [begin block] “Move 1 space” [end block] [end block] [End Block] [End Block] [End Block] [End Block]",
-        "image": "https://ap.oly.st/images/4932c0c3e6ba5a1b5b4d4f565eb38b48.png"
+        "image": null
       }
     ],
     "answer": "The figure presents 2 blocks of code that consist of 8 total lines. Throughout the code there are nested blocks of code. Line 1: [begin block] spin ← [begin block] RANDOM [begin block] 1, 8 [end block] [end block] [end block] [Begin Block] Line 2: IF [begin block] spin = 1 [end block] [Begin Block] Line 3: [begin block] DISPLAY [begin block] “Lose a turn” [end block] [end block] [End Block] Line 4: ELSE [Begin Block] [Begin Block] Line 5: IF [begin block] spin = 2 [end block] [Begin Block] Line 6: [begin block] DISPLAY [begin block] “Move 2 spaces” [end block] [end block] [End Block] Line 7: ELSE [Begin Block] Line 8: [begin block] DISPLAY [begin block] “Move 1 space” [end block] [end block] [End Block] [End Block] [End Block] [End Block]"

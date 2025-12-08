@@ -1,0 +1,45 @@
+{
+  "id": "FT547422",
+  "type": "mcq",
+  "title": "Interpret margin of error of poll of likely voters",
+  "content": {
+    "description": "",
+    "question": "On the day before an election in a large city, each person in a random sample of 1,000 likely voters is asked which candidate he or she plans to vote for. Of the people in the sample, 55 percent say they will vote for candidate Taylor. A margin of error of 3 percentage points is calculated. Which of the following statements is appropriate?",
+    "image": null,
+    "choices": [
+      {
+        "label": "The proportion of all likely voters who plan to vote for candidate Taylor must be the same as the proportion of voters in the sample who plan to vote for candidate Taylor (55 percent), because the data were collected from a random sample.",
+        "image": null
+      },
+      {
+        "label": "The sample proportion minus the margin of error is greater than 0.50, which provides evidence that more than half of all likely voters plan to vote for candidate Taylor.",
+        "image": null
+      },
+      {
+        "label": "It is not possible to draw any conclusion about the proportion of all likely voters who plan to vote for candidate Taylor because the 1,000 likely voters in the sample represent only a small fraction of all likely voters in a large city.",
+        "image": null
+      },
+      {
+        "label": "It is not possible to draw any conclusion about the proportion of all likely voters who plan to vote for candidate Taylor because this is not an experiment.",
+        "image": null
+      },
+      {
+        "label": "It is not possible to draw any conclusion about the proportion of all likely voters who plan to vote for candidate Taylor because this is a random sample and not a census.",
+        "image": null
+      }
+    ],
+    "answer": "The sample proportion minus the margin of error is greater than 0.50, which provides evidence that more than half of all likely voters plan to vote for candidate Taylor."
+  },
+  "unit": {
+    "code": "6",
+    "text": "6: Inference for Categorical Data-Proportions"
+  },
+  "topic": {
+    "code": "6.2",
+    "text": "6.2: Constructing a Confidence Interval for a Population Proportion"
+  },
+  "skill": {
+    "code": "Skill 4.D",
+    "text": "Skill 4.D: Justify a claim based on a confidence interval."
+  }
+}

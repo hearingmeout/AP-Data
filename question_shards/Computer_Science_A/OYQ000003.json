@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Dog Class missing constructor - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following class definition. \n public class Dog \n{\n private String name; \n private int age; \n\npublic String getName() \n { \n return name; \n } \n\npublic int getAge() \n { \n return age; \n } \n}\n\nThe following segment appears in a class other than  Dog.\n Dog fido = new Dog(); \nSystem.out.print(\"name: \" + fido.getName()); \nSystem.out.print(\", age: \" + fido.getAge());",
     "question": "What is printed as a result of executing this code segment?",
     "image": null,
     "choices": [
@@ -20,7 +20,7 @@
         "image": null
       },
       {
-        "label": "Nothing is printed. An error occurs because the Dog class does not contain a no-parameter constructor.",
+        "label": "Nothing is printed. An error occurs because the Dog class does not contain a no-parameter constructor.",
         "image": null
       }
     ],

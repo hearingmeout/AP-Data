@@ -3,12 +3,12 @@
   "type": "mcq",
   "title": "Compare blue red yellow code - describe behavior",
   "content": {
-    "description": "",
-    "question": "Assume that both code segments initialize choice to the same integer value. Which of the following best describes the conditions on the initial value of the variable choice that will cause the two code segments to produce different output?",
+    "description": "Consider the following two code segments where the  int  variable  choice  has been properly declared and initialized.\n\nCode Segment 1if (choice > 10) \n{ \n   System.out.println(\"blue\"); \n} \nelse if (choice < 5) \n{ \n   System.out.println(\"red\"); \n} \nelse \n{ \n   System.out.println(\"yellow\"); \n} \n\nCode Segment 2if (choice > 10) \n{ \n   System.out.println(\"blue\"); \n} \nif (choice < 5) \n{ \n   System.out.println(\"red\"); \n} \nelse \n{ \n   System.out.println(\"yellow\"); \n}",
+    "question": "Assume that both code segments initialize  choice  to the same integer value. Which of the following best describes the conditions on the initial value of the variable  choice  that will cause the two code segments to produce different output?",
     "image": null,
     "choices": [
       {
-        "label": "choice > 5 and choice < 10",
+        "label": "choice > 5  and  choice < 10",
         "image": null
       },
       {
@@ -16,11 +16,11 @@
         "image": null
       },
       {
-        "label": "choice == 5 or choice == 10",
+        "label": "choice == 5 or choice == 10",
         "image": null
       },
       {
-        "label": "There is no value for choice that will cause the two code segments to produce different output.",
+        "label": "There is no value for  choice  that will cause the two code segments to produce different output.",
         "image": null
       }
     ],

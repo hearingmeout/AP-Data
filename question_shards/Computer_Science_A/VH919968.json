@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "getScore accessor",
   "content": {
-    "description": "Consider the following class definition. The class does not compile.",
-    "question": "public class Player{private double score;public getScore(){return score;}// Constructor not shown}The accessor method getScore is intended to return the score of a Player object. Which of the following best explains why the class does not compile?",
+    "description": "",
+    "question": "Consider the following class definition. The class does not compile.\n\npublic class Player\n{\nprivate double score;\n\npublic getScore()\n{\nreturn score;\n}\n\n// Constructor not shown\n}\nThe accessor method getScore is intended to return the score of a Player object. Which of the following best explains why the class does not compile?",
     "image": null,
     "choices": [
       {
-        "label": "The getScore method should be declared as private.",
+        "label": "The getScore method should be declared as private.",
         "image": null
       },
       {
-        "label": "The getScore method requires a parameter.",
+        "label": "The getScore method requires a parameter.",
         "image": null
       },
       {
-        "label": "The return type of the getScore method needs to be defined as double.",
+        "label": "The return type of the getScore method needs to be defined as double.",
         "image": null
       },
       {
-        "label": "The return type of the getScore method needs to be defined as void.",
+        "label": "The return type of the getScore method needs to be defined as void.",
         "image": null
       }
     ],
-    "answer": "The return type of the getScore method needs to be defined as double."
+    "answer": "The return type of the getScore method needs to be defined as double."
   },
   "unit": {
     "code": "1",

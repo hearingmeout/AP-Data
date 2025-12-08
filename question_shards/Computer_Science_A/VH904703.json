@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Olympics concat",
   "content": {
-    "description": "Consider the code segment below.",
-    "question": "int a = 1988;int b = 1990; String claim = \" that the world’s athletes \" +\"competed in Olympic Games in \"; String s = \"It is \" + true + claim + a +\" but \" + false + claim + b + \".\"; System.out.println(s);What, if anything, is printed when the code segment is executed?",
+    "description": "",
+    "question": "Consider the code segment below.\n\nint a = 1988;\nint b = 1990;\n\nString claim = \" that the world’s athletes \" +\n\"competed in Olympic Games in \";\n\nString s = \"It is \" + true + claim + a +\n\" but \" + false + claim + b + \".\";\n\nSystem.out.println(s);\nWhat, if anything, is printed when the code segment is executed?",
     "image": null,
     "choices": [
       {

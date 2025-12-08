@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Fruit class - design",
   "content": {
-    "description": "",
-    "question": "Which of the following are the most appropriate replacements for (missing instance variable) and (missing method)?",
+    "description": "The Fruit class contains attributes for a fruit’s type, color, and quantity. The class also contains methods to allow the attributes to be accessed outside the class.\n\nA class design diagram for the Fruit class contains three sections. The first section contains the class name, the second section contains three instance variables and their data types, and the third section contains three methods and their return types. The + symbol indicates a public designation, and the - symbol indicates a private designation.\n\nThe diagram has 3 sections containing text as follows:\n\nSection 1:\n\nFruit\n\nSection 2:\n\n− type : String\n\n− color : String\n\n(missing instance variable)\n\nSection 3:\n\n+ getType() : String\n\n+ getColor() : String\n\n(missing method)",
+    "question": "Which of the following are the most appropriate replacements for  (missing instance variable)  and  (missing method)?",
     "image": null,
     "choices": [
       {
-        "label": "Replacing (missing instance variable) with - quantity : String and replacing (missing method) with + getQuantity() : String",
+        "label": "Replacing  (missing instance variable)  with  - quantity : String  and replacing  (missing method)  with  + getQuantity() : String",
         "image": null
       },
       {
-        "label": "Replacing (missing instance variable) with - quantity : int and replacing (missing method) with + getQuantity() : int",
+        "label": "Replacing  (missing instance variable)  with  - quantity : int  and replacing  (missing method)  with  + getQuantity() : int",
         "image": null
       },
       {
-        "label": "Replacing (missing instance variable) with - quantity : int and replacing (missing method) with + getQuantity() : String",
+        "label": "Replacing  (missing instance variable)  with  - quantity : int  and replacing  (missing method)  with  + getQuantity() : String",
         "image": null
       },
       {
-        "label": "Replacing (missing instance variable) with - quantity : String and replacing (missing method) with + getQuantity() : int",
+        "label": "Replacing  (missing instance variable)  with  - quantity : String  and replacing  (missing method)  with  + getQuantity() : int",
         "image": null
       }
     ],
-    "answer": "Replacing (missing instance variable) with - quantity : int and replacing (missing method) with + getQuantity() : int"
+    "answer": "Replacing  (missing instance variable)  with  - quantity : int  and replacing  (missing method)  with  + getQuantity() : int"
   },
   "unit": {
     "code": "3",

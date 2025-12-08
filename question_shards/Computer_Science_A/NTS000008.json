@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "raisePrice method in Toy class - Write code",
   "content": {
-    "description": "",
-    "question": "Which of the following changes can be made so that the Toy class compiles without error and the method raisePrice works as intended?",
+    "description": "Consider the following class definition. The  raisePrice  method is intended to increase the value of the instance variable  price  by the value of the parameter  amount.  The method does not work as intended.\n public class Toy \n{ \n   private String name; \n   private double price; \n\npublic Toy(String n, double p) \n   { \n      name = n; \n      price = p; \n   } \n\npublic void raisePrice(double amount) // Line 12 \n   { \n      return price + amount; // Line 14 \n   } \n}",
+    "question": "Which of the following changes can be made so that the  Toy  class compiles without error and the method  raisePrice  works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "Replacing line 12 with public raisePrice(double amount)",
+        "label": "Replacing line 12 with  public raisePrice(double amount)",
         "image": null
       },
       {
-        "label": "Replacing line 12 with public double raisePrice(double amount)",
+        "label": "Replacing line 12 with  public double raisePrice(double amount)",
         "image": null
       },
       {
-        "label": "Replacing line 14 with price += amount;",
+        "label": "Replacing line 14 with  price += amount;",
         "image": null
       },
       {
-        "label": "Replacing line 14 with return price += amount;",
+        "label": "Replacing line 14 with  return price += amount;",
         "image": null
       }
     ],
-    "answer": "Replacing line 14 with price += amount;"
+    "answer": "Replacing line 14 with  price += amount;"
   },
   "unit": {
     "code": "3",

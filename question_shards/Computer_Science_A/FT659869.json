@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "int array swap",
   "content": {
-    "description": "Assume that an array of integer values has been declared as follows and has been initialized.",
-    "question": "int[] arr = new int[10]; Which of the following code segments correctly interchanges the value of arr[0] and arr[5] ?",
+    "description": "",
+    "question": "Assume that an array of integer values has been declared as follows and has been initialized.\n\nint[] arr = new int[10];\n\nWhich of the following code segments correctly interchanges the value of  arr[0] and  arr[5] ?",
     "image": null,
     "choices": [
       {
-        "label": "arr[0] = 5; arr[5] = 0;",
+        "label": "arr[0] = 5;\n\narr[5] = 0;",
         "image": null
       },
       {
-        "label": "arr[0] = arr[5]; arr[5] = arr[0];",
+        "label": "arr[0] = arr[5];\n\narr[5] = arr[0];",
         "image": null
       },
       {
-        "label": "int k = arr[5]; arr[0] = arr[5]; arr[5] = k;",
+        "label": "int k = arr[5];\n\narr[0] = arr[5];\n\narr[5] = k;",
         "image": null
       },
       {
-        "label": "int k = arr[0]; arr[0] = arr[5]; arr[5] = k;",
+        "label": "int k = arr[0];\n\narr[0] = arr[5];\n\narr[5] = k;",
         "image": null
       }
     ],
-    "answer": "int k = arr[0]; arr[0] = arr[5]; arr[5] = k;"
+    "answer": "int k = arr[0];\n\narr[0] = arr[5];\n\narr[5] = k;"
   },
   "unit": {
     "code": "4",

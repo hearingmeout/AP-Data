@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "while with int k and mod",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "int k = 1; while (k < 20) { if ((k % 3) == 1) System.out.print(k + \" \"); k++; } What is printed as a result of executing this code segment?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nint k = 1;\n\nwhile (k < 20)\n\n{\n\nif ((k % 3) == 1)\n\nSystem.out.print(k + \" \");\n\nk++;\n\n}\n\nWhat is printed as a result of executing this code segment?",
     "image": null,
     "choices": [
       {

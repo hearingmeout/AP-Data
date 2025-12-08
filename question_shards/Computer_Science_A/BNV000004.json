@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Keyword this in classes - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following class definitions.\n\npublic class Class1 \n{ \n   private int val1; \n\npublic Class1() \n   { \n      val1 = 1; \n   } \n\npublic void init () \n   { \n      Class2 c2 = new Class2(); \n      c2.init(this, val1); \n   } \n\npublic void update(int x) \n   { \n      val1 -= x; \n   } \n\npublic int getVal() \n   { \n      return val1; \n   } \n} \n\npublic class Class2 \n{ \n   private int val2; \n\npublic Class2() \n   { \n      val2 = 2; \n   } \n\npublic void init(Class1 c, int y) \n   { \n      c.update(val2 + y); \n   } \n} \n\nThe following code segment appears in a class other than  Class1  or  Class2.\n Class1 c = new Class1(); \nc.init(); \nSystem.out.println(c.getVal());",
     "question": "What, if anything, is printed as a result of executing the code segment?",
     "image": null,
     "choices": [

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Requirements for binary search",
   "content": {
-    "description": "",
+    "description": "The procedure BinarySearch (numList, target) correctly implements a binary search algorithm on the list of numbers numList. The procedure returns an index where target occurs in numList, or -1 if target does not occur in numList.",
     "question": "Which of the following conditions must be met in order for the procedure to work as intended?",
     "image": null,
     "choices": [
       {
-        "label": "The length of numList must be even.",
+        "label": "The length of numList must be even.",
         "image": null
       },
       {
-        "label": "The list numList must not contain any duplicate values.",
+        "label": "The list numList must not contain any duplicate values.",
         "image": null
       },
       {
-        "label": "The values in numList must be in sorted order.",
+        "label": "The values in numList must be in sorted order.",
         "image": null
       },
       {
-        "label": "The value of target must not be equal to -1.",
+        "label": "The value of target must not be equal to -1.",
         "image": null
       }
     ],
-    "answer": "The values in numList must be in sorted order."
+    "answer": "The values in numList must be in sorted order."
   },
   "topic": {
     "code": "3.11",

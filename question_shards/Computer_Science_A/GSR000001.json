@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "printValues method - determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following description of method printValues.\n\nMethod Signature\nExplanationpublic void printValues(int numTimes, int val)Prints the value of val a total of numTimes times, then moves the cursor to a new line.\n\nConsider the following code segment, which appears in the same class as printValues.\n printValues(2, 3);\nprintValues(4, 5);",
     "question": "What is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {
-        "label": "222 44444",
+        "label": "222\n44444",
         "image": null
       },
       {
-        "label": "2222 33333",
+        "label": "2222\n33333",
         "image": null
       },
       {
-        "label": "33 5555",
+        "label": "33\n5555",
         "image": null
       },
       {
-        "label": "44 555",
+        "label": "44\n555",
         "image": null
       }
     ],
-    "answer": "33 5555"
+    "answer": "33\n5555"
   },
   "unit": {
     "code": "1",

@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Total elements in 2D array - correct error",
   "content": {
-    "description": "",
+    "description": "The following method is intended to return the total number of elements in the 2D array  arr.  The method does not work as intended. \n public int totalElements(int[][] arr) \n{\n return arr.length * arr.length; // Line 3\n}",
     "question": "Which of the following changes can be made so that the code segment works as intended?",
     "image": null,
     "choices": [
       {
-        "label": "Changing line 3 to return (arr.length - 1) * (arr.length - 1);",
+        "label": "Changing line 3 to  return (arr.length - 1) * (arr.length - 1);",
         "image": null
       },
       {
-        "label": "Changing line 3 to return arr.length + arr.length;",
+        "label": "Changing line 3 to  return arr.length + arr.length;",
         "image": null
       },
       {
-        "label": "Changing line 3 to return (arr.length - 1) * (arr[0].length - 1);",
+        "label": "Changing line 3 to  return (arr.length - 1) * (arr[0].length - 1);",
         "image": null
       },
       {
-        "label": "Changing line 3 to arr.length * arr[0].length;",
+        "label": "Changing line 3 to  arr.length * arr[0].length;",
         "image": null
       }
     ],
-    "answer": "Changing line 3 to arr.length * arr[0].length;"
+    "answer": "Changing line 3 to  arr.length * arr[0].length;"
   },
   "unit": {
     "code": "4",

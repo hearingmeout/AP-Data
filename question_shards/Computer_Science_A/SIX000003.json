@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "doSomething nested loop - determine result",
   "content": {
-    "description": "",
-    "question": "How many times will doSomething() be called as a result of executing this code segment?",
+    "description": "The following code segment appears in a method in the same class as the method  doSomething().\n int i = 1;\nwhile (i < 3)\n{\n for (int j = 1; j <= 5; j++)\n {\n doSomething();\n }\n i++;\n}",
+    "question": "How many times will  doSomething()  be called as a result of executing this code segment?",
     "image": null,
     "choices": [
       {

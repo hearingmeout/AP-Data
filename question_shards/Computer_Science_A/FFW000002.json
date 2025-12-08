@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Last letter - explain error",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment, which is intended to create a  String  that consists of the last character in  word  and assign it to the variable  lastChar.\n String word = /* initialization not shown */; // line 1\nint len = word.length(); // line 2\nString lastChar = word.substring(len); // line 3",
     "question": "Which of the following best describes why this code segment will not work as intended?",
     "image": null,
     "choices": [
       {
-        "label": "substring needs to be called with two parameters, so the method call in line 3 should be changed to word.substring(len, len + 1).",
+        "label": "substring  needs to be called with two parameters, so the method call in line 3 should be changed to  word.substring(len, len + 1).",
         "image": null
       },
       {
-        "label": "len is not the correct index of the last character in word, so the method call in line 3 should be changed to word.substring(len - 1).",
+        "label": "len  is not the correct index of the last character in  word,  so the method call in line 3 should be changed to  word.substring(len - 1).",
         "image": null
       },
       {
-        "label": "len is not the correct index of the last character in word, so the method call in line 3 should be changed to word.substring(len + 1).",
+        "label": "len  is not the correct index of the last character in  word,  so the method call in line 3 should be changed to  word.substring(len + 1).",
         "image": null
       },
       {
-        "label": "substring cannot be called with a variable as the parameter, so the method call in line 3 should be changed to word.substring(word.length()).",
+        "label": "substring  cannot be called with a variable as the parameter, so the method call in line 3 should be changed to  word.substring(word.length()).",
         "image": null
       }
     ],
-    "answer": "len is not the correct index of the last character in word, so the method call in line 3 should be changed to word.substring(len - 1)."
+    "answer": "len  is not the correct index of the last character in  word,  so the method call in line 3 should be changed to  word.substring(len - 1)."
   },
   "unit": {
     "code": "1",

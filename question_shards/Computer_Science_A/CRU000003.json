@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Multiway and two-way selection - compare segments",
   "content": {
-    "description": "",
+    "description": "Consider the following two code segments. Assume that variables x and y have been declared as int variables and have been assigned integer values.\n\nCode Segment Iint result = 0;\nif (x > y)\n{\n result = x - y;\n System.out.print(result);\n}\nelse if (x < y)\n{\n result = y - x;\n System.out.print(result);\n}\nelse\n{\n System.out.print(result);\n}\n\nCode Segment IIif (x < y)\n{\n System.out.print(y - x);\n}\nelse\n{\n System.out.print(x - y);\n}",
     "question": "Which of the following correctly compares the outputs of the two code segments?",
     "image": null,
     "choices": [
       {
-        "label": "Code segment I and code segment II produce the same output for all values of x and y.",
+        "label": "Code segment I and code segment II produce the same output for all values of x and y.",
         "image": null
       },
       {
-        "label": "Code segment I and code segment II produce the same output only when x is equal to y.",
+        "label": "Code segment I and code segment II produce the same output only when x is equal to y.",
         "image": null
       },
       {
-        "label": "Code segment I and code segment II produce the same output only when x is not equal to y.",
+        "label": "Code segment I and code segment II produce the same output only when x is not equal to y.",
         "image": null
       },
       {
-        "label": "Code segment I and code segment II produce the same output only when x is less than y.",
+        "label": "Code segment I and code segment II produce the same output only when x is less than y.",
         "image": null
       }
     ],
-    "answer": "Code segment I and code segment II produce the same output for all values of x and y."
+    "answer": "Code segment I and code segment II produce the same output for all values of x and y."
   },
   "unit": {
     "code": "2",

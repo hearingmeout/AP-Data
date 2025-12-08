@@ -4,24 +4,24 @@
   "title": "Traverse list to compare quiz scores",
   "content": {
     "description": "",
-    "question": "A teacher stores the most recent quiz scores for her class in the list scores. The first element in the list holds the maximum possible number of points that can be awarded on the quiz, and each remaining element holds one student’s quiz score. Assume that scores contains at least two elements. Which of the following code segments will set the variable found to true if at least one student scored the maximum possible number of points on the quiz and will set found to false otherwise?",
+    "question": "A teacher stores the most recent quiz scores for her class in the list scores. The first element in the list holds the maximum possible number of points that can be awarded on the quiz, and each remaining element holds one student’s quiz score. Assume that scores contains at least two elements. Which of the following code segments will set the variable found to true if at least one student scored the maximum possible number of points on the quiz and will set found to false otherwise?",
     "image": null,
     "choices": [
       {
         "label": "The figure presents four blocks of code that consist of 7 lines. Throughout the blocks of code there are nested blocks of code, as follows. Line 1: [begin block] len ← LENGTH [begin block] scores [end block] - 1 [end block] Line 2: [begin block] found ← false [end block] Line 3: [begin block] index ← 2 [end block] [begin block] Line 4: REPEAT len TIMES [begin block] [begin block] Line 5: IF [begin block] scores [begin block] index [end block] = scores [begin block] 1 [end block] [end block] [begin block] Line 6: [begin block] found ← true [end block] [end block] [end block] Line 7: [begin block] index ← index + 1 [end block] [end block] [end block]",
-        "image": "https://ap.oly.st/images/29a46e77eff9b2f3041c443100691e6f.png"
+        "image": null
       },
       {
         "label": "The figure presents four blocks of code that consist of 7 lines. Throughout the blocks of code there are nested blocks of code, as follows. Line 1: [begin block] len ← LENGTH [begin block] scores [end block] [end block] Line 2: [begin block] found ← false [end block] Line 3: [begin block] index ← 1 [end block] [begin block] Line 4: REPEAT len TIMES [begin block] [begin block] Line 5: IF [begin block] scores [begin block] index [end block] = scores [begin block] 1 [end block] [end block] [begin block] Line 6: [begin block] found ← true [end block] [end block] [end block] Line 7: [begin block] index ← index + 1 [end block] [end block] [end block]",
-        "image": "https://ap.oly.st/images/6f37aa66df09d31480a4662ed5992468.png"
+        "image": null
       },
       {
         "label": "The figure presents four blocks of code that consist of 7 lines. Throughout the blocks of code there are nested blocks of code, as follows. Line 1: [begin block] len ← LENGTH [begin block] scores [end block] [end block] Line 2: [begin block] found ← false [end block] Line 3: [begin block] index ← 2 [end block] [begin block] Line 4: REPEAT UNTIL [begin block] index greater than or equal to len [end block] [begin block] [begin block] Line 5: IF [begin block] scores [begin block] index [end block] = scores [begin block] 1 [end block] [end block] [begin block] Line 6: [begin block] found ← true [end block] [end block] [end block] Line 7: [begin block] index ← index + 1 [end block] [end block] [end block]",
-        "image": "https://ap.oly.st/images/875a05b301f47dbba4a0ad1971bcbda3.png"
+        "image": null
       },
       {
         "label": "The figure presents two blocks of code that consist of 4 lines. Throughout the blocks of code there are nested blocks of code, as follows. Line 1: [begin block] found ← false [end block] [begin block] Line 2: FOR EACH value IN scores [begin block] [begin block] Line 3: IF [begin block] value = scores [begin block] 1 [end block] [end block] [begin block] Line 4: [begin block] found ← true [end block] [end block] [end block] [end block] [end block]",
-        "image": "https://ap.oly.st/images/e6249ee4978aac6cc8d7051f71a8081e.png"
+        "image": null
       }
     ],
     "answer": "The figure presents four blocks of code that consist of 7 lines. Throughout the blocks of code there are nested blocks of code, as follows. Line 1: [begin block] len ← LENGTH [begin block] scores [end block] - 1 [end block] Line 2: [begin block] found ← false [end block] Line 3: [begin block] index ← 2 [end block] [begin block] Line 4: REPEAT len TIMES [begin block] [begin block] Line 5: IF [begin block] scores [begin block] index [end block] = scores [begin block] 1 [end block] [end block] [begin block] Line 6: [begin block] found ← true [end block] [end block] [end block] Line 7: [begin block] index ← index + 1 [end block] [end block] [end block]"

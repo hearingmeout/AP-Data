@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "missing statement in maximum method",
   "content": {
-    "description": "Consider the following method, which is intended to return the largest value in the portion of the int array data that begins at the index start and goes to the end of the array.",
-    "question": "/** Precondition: 0 <= start < data.length */public int maximum(int[] data, int start){if (start == data.length – 1){return data[start];}/* missing statement */if (val > data[start]){return val;}else{return data[start];}}Which of the following can be used as a replacement for /* missing statement */ so that the maximum method works as intended?",
+    "description": "",
+    "question": "Consider the following method, which is intended to return the largest value in the portion of the int array data that begins at the index start and goes to the end of the array.\n\n/** Precondition: 0 <= start < data.length */\npublic int maximum(int[] data, int start)\n{\nif (start == data.length – 1)\n{\nreturn data[start];\n}\n\n/* missing statement */\n\nif (val > data[start])\n{\nreturn val;\n}\nelse\n{\nreturn data[start];\n}\n}\nWhich of the following can be used as a replacement for /* missing statement */ so that the maximum method works as intended?",
     "image": null,
     "choices": [
       {

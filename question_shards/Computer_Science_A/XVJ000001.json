@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Create Painting object - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following code segments, appearing in a class other than Painting, will correctly create an instance of a Painting object?",
+    "description": "Consider the following Painting class.\n public class Painting\n{\n private int year;\n private String artist;\n private String title;\n\npublic Painting(int y, String a)\n {\n year = y;\n artist = a;\n title = \"Untitled\"; \n }\n\n// There are no other constructors.\n}",
+    "question": "Which of the following code segments, appearing in a class other than Painting, will correctly create an instance of a Painting object?",
     "image": null,
     "choices": [
       {

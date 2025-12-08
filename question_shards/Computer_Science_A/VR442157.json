@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "check Boolean expression in for loop",
   "content": {
-    "description": "Consider the following method.",
-    "question": "/** Precondition: bound >= 0 */ public int sum(int bound) { int answer = 0; for (int i = 0; i < bound; i++) { answer += bound; } return answer; } Assume that sum is called with a parameter that satisfies the precondition and that it executes without error. How many times is the test expression i < bound in the for loop header evaluated?",
+    "description": "",
+    "question": "Consider the following method.\n\n/** Precondition: bound >= 0 */\n\npublic int sum(int bound)\n\n{\n\nint answer = 0;\n\nfor (int i = 0; i < bound; i++)\n\n{\n\nanswer += bound;\n\n}\n\nreturn answer;\n\n}\n\nAssume that sum is called with a parameter that satisfies the precondition and that it executes without error. How many times is the test expression i < bound in the for loop header evaluated?",
     "image": null,
     "choices": [
       {

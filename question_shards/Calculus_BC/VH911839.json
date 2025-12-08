@@ -1,0 +1,41 @@
+{
+  "id": "VH911839",
+  "type": "mcq",
+  "title": "Representations - Modeling with Diff Equations",
+  "content": {
+    "description": "",
+    "question": "The weight of a population of yeast is given by a differentiable function, <math alttext=\"W\" display=\"inline\" overflow=\"scroll\"><mrow><mi>W</mi></mrow></math>, where <math alttext=\"W of t\" display=\"inline\" overflow=\"scroll\"><mrow><mi>W</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow></math> is measured in grams and <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mrow><mi>t</mi></mrow></math> is measured in hours. The weight of the yeast population increases with respect to <math alttext=\"t\" display=\"inline\" overflow=\"scroll\"><mrow><mi>t</mi></mrow></math> at a rate that is directly proportional to the weight. At time <math alttext=\"t equals 10\" display=\"inline\" overflow=\"scroll\"><mrow><mi>t</mi><mo>=</mo><mn>10</mn></mrow></math> hours, the weight of the yeast is 200 grams and is increasing at the rate of 5 grams per hour. Which of the following is a differential equation that models this situation?",
+    "image": null,
+    "choices": [
+      {
+        "label": "<math alttext=\"W equals, 5 times, open parenthesis, t minus 10, close parenthesis, plus 200\" display=\"inline\" overflow=\"scroll\"><mrow><mi>W</mi><mo>=</mo><mn>5</mn><mrow><mo>(</mo><mi>t</mi><mo>−</mo><mn>10</mn><mo>)</mo></mrow><mo>+</mo><mn>200</mn></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the derivative of W, with respect to t, equals, one half, t\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mi>d</mi><mi>W</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>t</mi></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the derivative of W, with respect to t, equals, the fraction 1 over 40, end fraction, times W\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mi>d</mi><mi>W</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>40</mn></mrow></mfrac><mi>W</mi></mrow></math>",
+        "image": null
+      },
+      {
+        "label": "<math alttext=\"the derivative of W, with respect to t, equals, one half, W\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mi>d</mi><mi>W</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>W</mi></mrow></math>",
+        "image": null
+      }
+    ],
+    "answer": "<math alttext=\"the derivative of W, with respect to t, equals, the fraction 1 over 40, end fraction, times W\" display=\"inline\" overflow=\"scroll\"><mrow><mfrac><mrow><mi>d</mi><mi>W</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>40</mn></mrow></mfrac><mi>W</mi></mrow></math>"
+  },
+  "unit": {
+    "code": "7",
+    "text": "7: Differential Equations"
+  },
+  "topic": {
+    "code": "7.1",
+    "text": "7.1: Modeling Situations with Differential Equations"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Identify a re-expression of mathematical information presented in a given representation"
+  }
+}

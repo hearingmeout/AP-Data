@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Parcel API Specification - describe behavior",
   "content": {
-    "description": "",
-    "question": "Based on the class specification, which of the following is a true statement about Parcel objects?",
+    "description": "The following is an excerpt of a class specification that appears in an API library.\n\npublic class Parcel\nA  Parcel  class is used to create objects that represent the status of packages that are delivered to customers.\nThe  Parcel  class has  status  and  location  variables that hold information about a package’s shipping status and location. \nThe  Parcel  constructor initializes a  Parcel  object with its initial status and location. \nThe  updateStatus()  and  updateLocation()  methods are used to update the status and location of a package.",
+    "question": "Based on the class specification, which of the following is a true statement about  Parcel  objects?",
     "image": null,
     "choices": [
       {
-        "label": "status and location are attributes; updateStatus and updateLocation are behaviors.",
+        "label": "status  and  location  are attributes;  updateStatus  and  updateLocation  are behaviors.",
         "image": null
       },
       {
-        "label": "status and location are behaviors; updateStatus and updateLocation are attributes.",
+        "label": "status  and  location  are behaviors;  updateStatus  and  updateLocation  are attributes.",
         "image": null
       },
       {
-        "label": "status and updateStatus are attributes; location and updateLocation are behaviors.",
+        "label": "status  and  updateStatus  are attributes;  location  and  updateLocation  are behaviors.",
         "image": null
       },
       {
-        "label": "status and updateStatus are behaviors; location and updateLocation are attributes.",
+        "label": "status  and  updateStatus  are behaviors;  location  and  updateLocation  are attributes.",
         "image": null
       }
     ],
-    "answer": "status and location are attributes; updateStatus and updateLocation are behaviors."
+    "answer": "status  and  location  are attributes;  updateStatus  and  updateLocation  are behaviors."
   },
   "unit": {
     "code": "1",

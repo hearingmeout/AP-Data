@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "determine newAverage",
   "content": {
-    "description": "The Student class has been defined to store and manipulate grades for an individual student. The following methods have been defined for the class.",
-    "question": "/* Returns the sum of all of the student’s grades */public double sumOfGrades(){ /* implementation not shown */ }/* Returns the total number of grades the student has received */public int numberOfGrades(){ /* implementation not shown */ }/* Returns the lowest grade the student has received */public double lowestGrade(){ /* implementation not shown */ }Which of the following statements, if located in a method in the Student class, will determine the average of all of the student’s grades except for the lowest grade and store the result in the double variable newAverage ?",
+    "description": "",
+    "question": "The Student class has been defined to store and manipulate grades for an individual student. The following methods have been defined for the class.\n\n/* Returns the sum of all of the student’s grades */\npublic double sumOfGrades()\n{  /* implementation not shown */  }\n\n/* Returns the total number of grades the student has received */\npublic int numberOfGrades()\n{  /* implementation not shown */  }\n\n/* Returns the lowest grade the student has received */\npublic double lowestGrade()\n{  /* implementation not shown */  }\nWhich of the following statements, if located in a method in the Student class, will determine the average of all of the student’s grades except for the lowest grade and store the result in the double variable newAverage ?",
     "image": null,
     "choices": [
       {

@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Boolean expressions nested ifs - Determine result",
   "content": {
-    "description": "",
+    "description": "Consider the following code segment.\n if (false && true || false) \n{ \n   if (false || true && false) \n   { \n      System.out.print(\"First\"); \n   } \n   else \n   { \n      System.out.print(\"Second\"); \n   } \n} \n\nif (true || true && false) \n{ \n   System.out.print(\"Third\"); \n}",
     "question": "What is printed as a result of executing the code segment?",
     "image": null,
     "choices": [

@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Compression by replacing TH  and IS with characters",
   "content": {
-    "description": "",
+    "description": "Byte pair encoding is a data encoding technique. The encoding algorithm looks for pairs of characters that appear in the string more than once and replaces each instance of that pair with a corresponding character that does not appear in the string. The algorithm saves a list containing the mapping of character pairs to their corresponding replacement characters.\n\nFor example, the string  can be encoded as  by replacing all instances of  with and replacing all instances of  with .",
     "question": "Which of the following statements about byte pair encoding is true?",
     "image": null,
     "choices": [

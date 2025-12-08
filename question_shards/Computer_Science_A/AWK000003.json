@@ -3,7 +3,7 @@
   "type": "mcq",
   "title": "Info class scope error - explain compile error",
   "content": {
-    "description": "",
+    "description": "Consider the following class definition. The class does not compile.\n public class Info \n{ \n   private String name; \n   private int number; \n\npublic Info(String n, int num) \n   { \n      name = n; \n      number = num; \n   } \n\npublic void changeName(String newName) \n   { \n      name = newName; \n   } \n\npublic int addNum(int n) \n   { \n      num += n; \n      return num; \n   } \n}",
     "question": "Which of the following best explains why the class will not compile?",
     "image": null,
     "choices": [
@@ -12,19 +12,19 @@
         "image": null
       },
       {
-        "label": "The instance variables name and number should be designated public instead of private.",
+        "label": "The instance variables  name  and  number  should be designated  public  instead of  private.",
         "image": null
       },
       {
-        "label": "The return type for the Info constructor is missing.",
+        "label": "The return type for the  Info  constructor is missing.",
         "image": null
       },
       {
-        "label": "The variable num is not defined in the addNum method.",
+        "label": "The variable  num  is not defined in the  addNum  method.",
         "image": null
       }
     ],
-    "answer": "The variable num is not defined in the addNum method."
+    "answer": "The variable  num  is not defined in the  addNum  method."
   },
   "unit": {
     "code": "3",

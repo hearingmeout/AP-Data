@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "recur method with int parameter",
   "content": {
-    "description": "Consider the following static method.",
-    "question": "private static void recur(int n) { if (n != 0) { recur(n - 2); System.out.print(n + \" \"); } } What numbers will be printed as a result of the call recur(7) ?",
+    "description": "",
+    "question": "Consider the following static method.\n\nprivate static void recur(int n)\n\n{\n\nif (n != 0)\n\n{\n\nrecur(n - 2);\n\nSystem.out.print(n + \" \");\n\n}\n\n}\nWhat numbers will be printed as a result of the call recur(7) ?",
     "image": null,
     "choices": [
       {

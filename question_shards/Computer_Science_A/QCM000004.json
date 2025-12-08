@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "indexOf x within string - determine result",
   "content": {
-    "description": "",
-    "question": "What is the value of pos after executing the code segment?",
+    "description": "Consider the following code segment.\n String one = \"xyz\";\nString two = one.substring(2) + one.substring(1)\n + one.substring(0);\nint pos = two.indexOf(\"x\");",
+    "question": "What is the value of  pos  after executing the code segment?",
     "image": null,
     "choices": [
       {

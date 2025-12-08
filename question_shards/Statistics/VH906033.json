@@ -1,0 +1,45 @@
+{
+  "id": "VH906033",
+  "type": "mcq",
+  "title": "Plant height from soil acidity",
+  "content": {
+    "description": "",
+    "question": "A botanist created a linear model to predict plant height from soil acidity (<math alttext=\"p H\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>pH</mtext></mrow></mstyle></math> level) for a certain type of plant. The slope of the model was 2.5 centimeters per <math alttext=\"p H\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>pH</mtext></mrow></mstyle></math> level, the standard deviation of the sample of plant heights was 4 centimeters, and the standard deviation of the soil acidities was 1 <math alttext=\"p H\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mtext>pH</mtext></mrow></mstyle></math> level. What is the value of the correlation coefficient?",
+    "image": null,
+    "choices": [
+      {
+        "label": "0.015",
+        "image": null
+      },
+      {
+        "label": "0.10",
+        "image": null
+      },
+      {
+        "label": "0.25",
+        "image": null
+      },
+      {
+        "label": "0.625",
+        "image": null
+      },
+      {
+        "label": "1.60",
+        "image": null
+      }
+    ],
+    "answer": "0.625"
+  },
+  "unit": {
+    "code": "2",
+    "text": "2: Exploring Two-Variable Data"
+  },
+  "topic": {
+    "code": "2.8",
+    "text": "2.8: Least Squares Regression"
+  },
+  "skill": {
+    "code": "Skill 2.C",
+    "text": "Skill 2.C: Calculate summary statistics, relative positions of points within a distribution, correlation, and predicted response."
+  }
+}

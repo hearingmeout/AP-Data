@@ -4,27 +4,27 @@
   "title": "while loop - write code",
   "content": {
     "description": "",
-    "question": "Which of the following code segments can be used to print only the even integers between 2 and 10, inclusive?",
+    "question": "Which of the following code segments can be used to print only the even integers between  2  and  10,  inclusive?",
     "image": null,
     "choices": [
       {
-        "label": "int num = 0; while(num < 10) { System.out.println(num); num += 2; }",
+        "label": "int num = 0;\nwhile(num < 10) \n{\n System.out.println(num);\n num += 2;\n}",
         "image": null
       },
       {
-        "label": "int num = 0; while(num <= 10) { System.out.println(num); num += 2; }",
+        "label": "int num = 0;\nwhile(num <= 10) \n{\n System.out.println(num);\n num += 2;\n}",
         "image": null
       },
       {
-        "label": "int num = 0; while(num < 10) { num += 2; System.out.println(num); }",
+        "label": "int num = 0;\nwhile(num < 10) \n{\n num += 2; \n System.out.println(num); \n}",
         "image": null
       },
       {
-        "label": "int num = 0; while(num <= 10) { num += 2; System.out.println(num); }",
+        "label": "int num = 0;\nwhile(num <= 10) \n{\n num += 2; \n System.out.println(num); \n}",
         "image": null
       }
     ],
-    "answer": "int num = 0; while(num < 10) { num += 2; System.out.println(num); }"
+    "answer": "int num = 0;\nwhile(num < 10) \n{\n num += 2; \n System.out.println(num); \n}"
   },
   "unit": {
     "code": "2",

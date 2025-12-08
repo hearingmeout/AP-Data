@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "second after arithmetic - determine result",
   "content": {
-    "description": "",
-    "question": "What is the value of second after this code segment is executed?",
+    "description": "Consider the following code segment.\n int first = 5 + 10 * 2;\nint second = first + first % 2;",
+    "question": "What is the value of second after this code segment is executed?",
     "image": null,
     "choices": [
       {

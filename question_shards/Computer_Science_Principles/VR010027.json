@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Science museum tickets",
   "content": {
-    "description": "",
+    "description": "Ticket prices for a science museum are shown in the following table.\n\nType of Ticket\nGeneral Admission Cost(in dollars)\nGuided Tour Cost(in dollars)\n\nRegular (ages 13 and up)\n8\n10\n\nChild (ages 12 and below)\n6\n8\n\nA programmer is creating an algorithm to display the cost of a ticket based on the information in the table. The programmer uses the integer variable age for the age of the ticket recipient. The Boolean variable includesTour is true when the ticket is for a guided tour and is false when the ticket is for general admission.",
     "question": "Which of the following code segments correctly displays the cost of a ticket?",
     "image": null,
     "choices": [
       {
-        "label": "cost <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 6IF ((age > 12) OR includesTour){cost <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> cost + 2}DISPLAY (cost)",
+        "label": "cost <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 6\nIF ((age > 12) OR includesTour)\n{\ncost <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> cost + 2\n}\nDISPLAY (cost)",
         "image": null
       },
       {
-        "label": "cost <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 6IF (age > 12){cost <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> cost + 2}IF (includesTour){cost <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> cost + 2}DISPLAY (cost)",
+        "label": "cost <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 6\nIF (age > 12)\n{\ncost <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> cost + 2\n}\nIF (includesTour)\n{\ncost <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> cost + 2\n}\nDISPLAY (cost)",
         "image": null
       },
       {
-        "label": "cost <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 6IF (age > 12){IF (includesTour){cost <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> cost + 2}}DISPLAY (cost)",
+        "label": "cost <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 6\nIF (age > 12)\n{\nIF (includesTour)\n{\ncost <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> cost + 2\n}\n}\nDISPLAY (cost)",
         "image": null
       },
       {
-        "label": "cost <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 6IF (age > 12){cost <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> cost + 2}ELSE{IF (includesTour){cost <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> cost + 2}}DISPLAY (cost)",
+        "label": "cost <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 6\nIF (age > 12)\n{\ncost <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> cost + 2\n}\nELSE\n{\nIF (includesTour)\n{\ncost <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> cost + 2\n}\n}\nDISPLAY (cost)",
         "image": null
       }
     ],
-    "answer": "cost <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 6IF (age > 12){cost <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> cost + 2}IF (includesTour){cost <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> cost + 2}DISPLAY (cost)"
+    "answer": "cost <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 6\nIF (age > 12)\n{\ncost <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> cost + 2\n}\nIF (includesTour)\n{\ncost <math alttext=\"←\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> cost + 2\n}\nDISPLAY (cost)"
   },
   "topic": {
     "code": "3.7",

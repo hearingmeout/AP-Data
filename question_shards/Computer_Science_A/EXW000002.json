@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "compSci substring - determine result",
   "content": {
-    "description": "",
-    "question": "What is the value of num after the code segment is executed?",
+    "description": "Consider the following code segment.\n String str = \"CompSci\"; \nSystem.out.println(str.substring(0, 3)); \nint num = str.length();",
+    "question": "What is the value of  num  after the code segment is executed?",
     "image": null,
     "choices": [
       {

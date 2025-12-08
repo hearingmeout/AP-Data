@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "doSomething method",
   "content": {
-    "description": "Consider the following method.",
-    "question": "public void doSomething(){System.out.println(\"Something has been done\");}Each of the following statements appears in a method in the same class as doSomething. Which of the following statements are valid uses of the method doSomething ?doSomething();String output = doSomething();System.out.println(doSomething());",
+    "description": "",
+    "question": "Consider the following method.\n\npublic void doSomething()\n{\nSystem.out.println(\"Something has been done\");\n}\nEach of the following statements appears in a method in the same class as doSomething. Which of the following statements are valid uses of the method doSomething ?\ndoSomething();\nString output = doSomething();\nSystem.out.println(doSomething());",
     "image": null,
     "choices": [
       {

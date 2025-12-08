@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "ArrayList nameList traversals - write code",
   "content": {
-    "description": "",
-    "question": "Which of the following can replace /* missing code */ so that the code segment works as intended?",
+    "description": "The following code segment initializes and processes an  ArrayList  of  String  elements. The loop is intended to delete every other element in the  ArrayList  starting with the first element.\n ArrayList<String> nameList = new ArrayList<String>();\nnameList.add(\"Stacey\");\nnameList.add(\"Bob\");\nnameList.add(\"Susan\");\nnameList.add(\"Pete\");\n\nfor (int i = 0; i < nameList.size(); i++)\n{\n /* missing code */\n}\n\nAfter the code segment is executed,  nameList  should contain  [\"Bob\", \"Pete\"].",
+    "question": "Which of the following can replace /* missing code */ so that the code segment works as intended?",
     "image": null,
     "choices": [
       {
@@ -12,15 +12,15 @@
         "image": null
       },
       {
-        "label": "nameList.remove(i); i++;",
+        "label": "nameList.remove(i);\ni++;",
         "image": null
       },
       {
-        "label": "nameList.set(i, \"Bob\"); nameList.set(i, \"Pete\");",
+        "label": "nameList.set(i, \"Bob\");\nnameList.set(i, \"Pete\");",
         "image": null
       },
       {
-        "label": "nameList.set(i, \"Bob\"); nameList.set(i + 1, \"Pete\");",
+        "label": "nameList.set(i, \"Bob\");\nnameList.set(i + 1, \"Pete\");",
         "image": null
       }
     ],

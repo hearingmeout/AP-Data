@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "goAgain with String and int parameter",
   "content": {
-    "description": "Consider the following method.",
-    "question": "public String goAgain(String str, int index) { if (index >= str.length()) return str; return str + goAgain(str.substring(index), index + 1); } What is printed as a result of executing the following statement? System.out.println(goAgain(\"today\", 1));",
+    "description": "",
+    "question": "Consider the following method.\n\npublic String goAgain(String str, int index)\n\n{\n\nif (index >= str.length())\n\nreturn str;\n\nreturn str + goAgain(str.substring(index), index + 1);\n\n}\n\nWhat is printed as a result of executing the following statement?\n\nSystem.out.println(goAgain(\"today\", 1));",
     "image": null,
     "choices": [
       {

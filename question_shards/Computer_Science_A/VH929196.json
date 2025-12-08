@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "values printed in arr traversal",
   "content": {
-    "description": "Consider the following code segment.",
-    "question": "int[] arr = {3, 1, 0, 4, 2};for(int j = 0; j < arr.length; j++){System.out.print(arr[j] + j + \" \");}What, if anything, is printed as a result of executing the code segment?",
+    "description": "",
+    "question": "Consider the following code segment.\n\nint[] arr = {3, 1, 0, 4, 2};\nfor(int j = 0; j < arr.length; j++)\n{\nSystem.out.print(arr[j] + j + \" \");\n}\nWhat, if anything, is printed as a result of executing the code segment?",
     "image": null,
     "choices": [
       {
@@ -20,7 +20,7 @@
         "image": null
       },
       {
-        "label": "Nothing is printed, because an ArrayIndexOutOfBoundsException is thrown.",
+        "label": "Nothing is printed, because an ArrayIndexOutOfBoundsException is thrown.",
         "image": null
       }
     ],

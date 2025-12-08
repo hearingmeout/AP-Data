@@ -3,8 +3,8 @@
   "type": "mcq",
   "title": "Linear search of a 2D array - initial conditions",
   "content": {
-    "description": "",
-    "question": "Which of the following values of num can be used to show that the code segment does not always work as intended?",
+    "description": "In the following code segment,  num  is a properly declared and initialized integer variable. The code segment is intended to perform a linear search on the two-dimensional array  arr.  Each time an array element equal to  num  is found, its value should be printed. If no element equal to  num  is found, then nothing is printed. The code segment does not always work as intended.\n int[][] arr = {{7, 3, 6, 4},\n {9, 2, 0, 5},\n {1, 4, 3, 8}};\n\nfor (int j = 0; j < arr.length - 1; j++)\n{\n for (int k = 0; k < arr[0].length; k++) \n {\n if (arr[j][k] == num)\n {\n System.out.println(arr[j][k]);\n }\n }\n}",
+    "question": "Which of the following values of  num  can be used to show that the code segment does not always work as intended?",
     "image": null,
     "choices": [
       {

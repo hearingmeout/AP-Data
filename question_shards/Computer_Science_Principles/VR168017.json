@@ -3,28 +3,28 @@
   "type": "mcq",
   "title": "Code that produces the same sum as given code",
   "content": {
-    "description": "In the following code segment, assume that x and y have been assigned integer values.",
-    "question": "sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0REPEAT x TIMES{REPEAT y TIMES{sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> sum + 1}}At the end of which of the following code segments is the value of sum the same as the value of sum at the end of the preceding code segment?Select two answers.",
+    "description": "",
+    "question": "In the following code segment, assume that x and y have been assigned integer values.\n\nsum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0\nREPEAT x TIMES\n{\nREPEAT y TIMES\n{\nsum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> sum + 1\n}\n}\nAt the end of which of the following code segments is the value of sum the same as the value of sum at the end of the preceding code segment?\nSelect two answers.",
     "image": null,
     "choices": [
       {
-        "label": "sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0z <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> x + yREPEAT z TIMES{sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> sum + 1}",
+        "label": "sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0\nz <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> x + y\nREPEAT z TIMES\n{\nsum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> sum + 1\n}",
         "image": null
       },
       {
-        "label": "sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0z <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> x * yREPEAT z TIMES{sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> sum + 1}",
+        "label": "sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0\nz <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> x * y\nREPEAT z TIMES\n{\nsum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> sum + 1\n}",
         "image": null
       },
       {
-        "label": "sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0REPEAT x TIMES{sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> sum + 1}REPEAT y TIMES{sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> sum + 1}",
+        "label": "sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0\nREPEAT x TIMES\n{\nsum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> sum + 1\n}\nREPEAT y TIMES\n{\nsum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> sum + 1\n}",
         "image": null
       },
       {
-        "label": "sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0REPEAT y TIMES{REPEAT x TIMES{sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> sum + 1}}",
+        "label": "sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0\nREPEAT y TIMES\n{\nREPEAT x TIMES\n{\nsum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> sum + 1\n}\n}",
         "image": null
       }
     ],
-    "answer": "sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0z <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> x * yREPEAT z TIMES{sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> sum + 1}"
+    "answer": "sum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> 0\nz <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> x * y\nREPEAT z TIMES\n{\nsum <math alttext=\"←\" display=\"inline\" overflow=\"scroll\"><mstyle><mrow><mo>←</mo></mrow></mstyle></math> sum + 1\n}"
   },
   "topic": {
     "code": "3.9",
